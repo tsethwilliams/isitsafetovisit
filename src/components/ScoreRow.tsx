@@ -7,7 +7,7 @@ interface ScoreRowProps {
 
 export default function ScoreRow({ label, score }: ScoreRowProps) {
   const color = getScoreColor(score);
-  const barColors = { safe: 'var(--safe-green)', caution: 'var(--caution-amber)', danger: 'var(--danger-red)' };
+  const barColors: Record<string, string> = { safe: 'var(--safe-green)', caution: 'var(--caution-amber)', danger: 'var(--danger-red)' };
 
   return (
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
