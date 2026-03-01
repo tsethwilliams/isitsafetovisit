@@ -8,6 +8,9 @@ export const metadata: Metadata = {
     template: '%s | IsItSafeToVisit.com',
   },
   description: 'Real safety information for travelers. Neighborhood guides, scam alerts, local customs, and practical tips for 300+ cities worldwide.',
+  verification: {
+    google: 'eprrPSSW4qD_eUsk7PiuWjLCwHzVsNfr2yOm6dBnZGs',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
