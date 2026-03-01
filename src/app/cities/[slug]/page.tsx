@@ -174,7 +174,7 @@ export default function CityPage({ params }: { params: { slug: string } }) {
             <div className="affiliate-box">
               <h4>🛡️ Travel Insurance for {city.country}</h4>
               <p>Medical emergencies abroad can cost thousands. Travel insurance starts from $1.50/day.</p>
-              <a href="/go/safetywing" className="affiliate-btn">Get a Quote — SafetyWing</a>
+              <a href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador" className="affiliate-btn">Get a Quote — SafetyWing</a>
               <p className="affiliate-disclaimer">Affiliate link — we may earn a commission at no cost to you</p>
             </div>
 
