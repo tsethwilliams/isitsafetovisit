@@ -1,0 +1,127 @@
+name: City Safety Agent Pipeline
+
+on:
+  # Scheduled runs
+  schedule:
+    # Full pipeline — every Sunday at 2 AM UTC
+    - cron: '0 2 * * 0'
+    # Alert monitoring — every 6 hours
+    - cron: '0 */6 * * *'
+    # Stale refresh — daily at 3 AM UTC
+    - cron: '0 3 * * *'
+  
+  # Manual trigger with mode selection
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Pipeline mode'
+        required: true
+        default: 'full'
+        type: choice
+        options:
+          - full
+          - refresh
+          - add
+          - rank
+          - alert
+          - single
+          - seed
+      city:
+        description: 'City for single mode (e.g., "Tokyo, Japan")'
+        required: false
+        type: string
+
+env:
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+  PYTHON_VERSION: '3.12'
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install anthropic
+      
+      - name: Determine mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
+            echo "city=${{ github.event.inputs.city }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 2 * * 0" ]; then
+            echo "mode=full" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 */6 * * *" ]; then
+            echo "mode=alert" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 3 * * *" ]; then
+            echo "mode=refresh" >> $GITHUB_OUTPUT
+          else
+            echo "mode=full" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Run agent
+        run: |
+          MODE="${{ steps.mode.outputs.mode }}"
+          CITY="${{ steps.mode.outputs.city }}"
+          
+          if [ "$MODE" = "single" ] && [ -n "$CITY" ]; then
+            python agent.py --mode single --city "$CITY"
+          else
+            python agent.py --mode "$MODE"
+          fi
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "agent@isitsafetovisit.com"
+          git config --local user.name "Safety Agent Bot"
+          git add data/ logs/
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            MODE="${{ steps.mode.outputs.mode }}"
+            git commit -m "🤖 Agent run: $MODE — $TIMESTAMP"
+            git push
+          fi
+      
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: agent-logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 30
+
+  # Rebuild site after data changes
+  deploy-site:
+    needs: run-agent
+    runs-on: ubuntu-latest
+    if: ${{ needs.run-agent.result == 'success' }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get latest including agent commits
+      
+      - name: Trigger site rebuild
+        run: |
+          echo "Site rebuild triggered"
+          # Add your deployment step here:
+          # e.g., Vercel deploy hook, Netlify build hook, etc.
+          # curl -X POST ${{ secrets.DEPLOY_HOOK_URL }}
