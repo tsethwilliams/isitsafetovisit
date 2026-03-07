@@ -47,7 +47,7 @@ import anthropic
 
 CONFIG = {
     "model": "claude-sonnet-4-20250514",
-    "max_tokens": 8192,
+    "max_tokens": 16384,
     "data_dir": Path("./data/cities"),
     "queue_file": Path("./data/city_queue.json"),
     "rankings_file": Path("./data/rankings.json"),
@@ -395,41 +395,50 @@ Include exactly 6 neighborhoods, 3-4 scams, and 5 FAQ items.
 For relatedCities, use slugs of other cities in the same region.
 Remember: scores are on a 1-10 scale. Respond with ONLY the JSON object."""
 
-    response = call_claude(client, SYSTEM_PROMPT_GENERATE, prompt, use_search=True)
+    max_retries = 2
+    for attempt in range(max_retries + 1):
+        if attempt > 0:
+            logging.info(f"Retry {attempt}/{max_retries} for {city_name}")
+            import time
+            time.sleep(10)  # Brief pause before retry
 
-    try:
-        city_data = extract_json(response)
-        # Ensure required fields exist
-        city_data["slug"] = city_data.get("slug", slug)
-        city_data["name"] = city_data.get("name", city_name)
-        city_data["country"] = city_data.get("country", country)
+        response = call_claude(client, SYSTEM_PROMPT_GENERATE, prompt, use_search=True)
 
-        # Calculate overallScore from category scores if not present or wrong
-        if "scores" in city_data:
-            scores = city_data["scores"]
-            score_values = [v for v in scores.values() if isinstance(v, (int, float))]
-            if score_values:
-                city_data["overallScore"] = round(sum(score_values) / len(score_values), 1)
+        try:
+            city_data = extract_json(response)
+            # Ensure required fields exist
+            city_data["slug"] = city_data.get("slug", slug)
+            city_data["name"] = city_data.get("name", city_name)
+            city_data["country"] = city_data.get("country", country)
 
-        # Set badge based on score
-        score = city_data.get("overallScore", 5.0)
-        if score >= 7.0:
-            city_data["badgeClass"] = "safe"
-            city_data["badgeLabel"] = "Generally Safe"
-        elif score >= 5.0:
-            city_data["badgeClass"] = "caution"
-            city_data["badgeLabel"] = "Moderate Caution"
-        else:
-            city_data["badgeClass"] = "danger"
-            city_data["badgeLabel"] = "Exercise Caution"
+            # Calculate overallScore from category scores if not present or wrong
+            if "scores" in city_data:
+                scores = city_data["scores"]
+                score_values = [v for v in scores.values() if isinstance(v, (int, float))]
+                if score_values:
+                    city_data["overallScore"] = round(sum(score_values) / len(score_values), 1)
 
-        # Also save to agent's data dir for tracking
-        city_data["_city_id"] = city_id
-        return city_data
-    except Exception as e:
-        logging.error(f"Failed to parse city data for {city_name}: {e}")
-        logging.debug(f"Raw response: {response[:500]}")
-        return None
+            # Set badge based on score
+            score = city_data.get("overallScore", 5.0)
+            if score >= 7.0:
+                city_data["badgeClass"] = "safe"
+                city_data["badgeLabel"] = "Generally Safe"
+            elif score >= 5.0:
+                city_data["badgeClass"] = "caution"
+                city_data["badgeLabel"] = "Moderate Caution"
+            else:
+                city_data["badgeClass"] = "danger"
+                city_data["badgeLabel"] = "Exercise Caution"
+
+            # Also save to agent's data dir for tracking
+            city_data["_city_id"] = city_id
+            return city_data
+        except Exception as e:
+            logging.error(f"Failed to parse city data for {city_name} (attempt {attempt + 1}): {e}")
+            if attempt == max_retries:
+                logging.error(f"All retries exhausted for {city_name}")
+                logging.debug(f"Raw response: {response[:500]}")
+                return None
 
 
 def refresh_city(client, city_data: dict) -> dict:
