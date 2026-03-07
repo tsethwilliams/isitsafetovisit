@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "East Asia"
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "region": "East Asia"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China",
+    "region": "East Asia"
+  },
+  {
+    "name": "Taipei",
+    "country": "Taiwan",
+    "region": "East Asia"
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Manila",
+    "country": "Philippines",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Phnom Penh",
+    "country": "Cambodia",
+    "region": "Southeast Asia"
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "region": "South Asia"
+  },
+  {
+    "name": "New Delhi",
+    "country": "India",
+    "region": "South Asia"
+  },
+  {
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "region": "South Asia"
+  },
+  {
+    "name": "Colombo",
+    "country": "Sri Lanka",
+    "region": "South Asia"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Munich",
+    "country": "Germany",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Prague",
+    "country": "Czech Republic",
+    "region": "Central Europe"
+  },
+  {
+    "name": "Vienna",
+    "country": "Austria",
+    "region": "Central Europe"
+  },
+  {
+    "name": "Budapest",
+    "country": "Hungary",
+    "region": "Central Europe"
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Athens",
+    "country": "Greece",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "region": "Eurasia"
+  },
+  {
+    "name": "Dublin",
+    "country": "Ireland",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "region": "Northern Europe"
+  },
+  {
+    "name": "Stockholm",
+    "country": "Sweden",
+    "region": "Northern Europe"
+  },
+  {
+    "name": "Oslo",
+    "country": "Norway",
+    "region": "Northern Europe"
+  },
+  {
+    "name": "Helsinki",
+    "country": "Finland",
+    "region": "Northern Europe"
+  },
+  {
+    "name": "Zurich",
+    "country": "Switzerland",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Brussels",
+    "country": "Belgium",
+    "region": "Western Europe"
+  },
+  {
+    "name": "Krakow",
+    "country": "Poland",
+    "region": "Central Europe"
+  },
+  {
+    "name": "Warsaw",
+    "country": "Poland",
+    "region": "Central Europe"
+  },
+  {
+    "name": "Bucharest",
+    "country": "Romania",
+    "region": "Eastern Europe"
+  },
+  {
+    "name": "Sofia",
+    "country": "Bulgaria",
+    "region": "Eastern Europe"
+  },
+  {
+    "name": "Tirana",
+    "country": "Albania",
+    "region": "Southern Europe"
+  },
+  {
+    "name": "Tbilisi",
+    "country": "Georgia",
+    "region": "Caucasus"
+  },
+  {
+    "name": "New York City",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Los Angeles",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Miami",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "San Francisco",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Chicago",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Las Vegas",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Honolulu",
+    "country": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "region": "North America"
+  },
+  {
+    "name": "Vancouver",
+    "country": "Canada",
+    "region": "North America"
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "region": "Central America"
+  },
+  {
+    "name": "Cancun",
+    "country": "Mexico",
+    "region": "Central America"
+  },
+  {
+    "name": "Playa del Carmen",
+    "country": "Mexico",
+    "region": "Central America"
+  },
+  {
+    "name": "San Jose",
+    "country": "Costa Rica",
+    "region": "Central America"
+  },
+  {
+    "name": "Panama City",
+    "country": "Panama",
+    "region": "Central America"
+  },
+  {
+    "name": "Bogota",
+    "country": "Colombia",
+    "region": "South America"
+  },
+  {
+    "name": "Medellin",
+    "country": "Colombia",
+    "region": "South America"
+  },
+  {
+    "name": "Cartagena",
+    "country": "Colombia",
+    "region": "South America"
+  },
+  {
+    "name": "Lima",
+    "country": "Peru",
+    "region": "South America"
+  },
+  {
+    "name": "Cusco",
+    "country": "Peru",
+    "region": "South America"
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "region": "South America"
+  },
+  {
+    "name": "Santiago",
+    "country": "Chile",
+    "region": "South America"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America"
+  },
+  {
+    "name": "Sao Paulo",
+    "country": "Brazil",
+    "region": "South America"
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East"
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "region": "Middle East"
+  },
+  {
+    "name": "Doha",
+    "country": "Qatar",
+    "region": "Middle East"
+  },
+  {
+    "name": "Riyadh",
+    "country": "Saudi Arabia",
+    "region": "Middle East"
+  },
+  {
+    "name": "Amman",
+    "country": "Jordan",
+    "region": "Middle East"
+  },
+  {
+    "name": "Tel Aviv",
+    "country": "Israel",
+    "region": "Middle East"
+  },
+  {
+    "name": "Muscat",
+    "country": "Oman",
+    "region": "Middle East"
+  },
+  {
+    "name": "Cape Town",
+    "country": "South Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "region": "Southern Africa"
+  },
+  {
+    "name": "Marrakech",
+    "country": "Morocco",
+    "region": "North Africa"
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "region": "North Africa"
+  },
+  {
+    "name": "Nairobi",
+    "country": "Kenya",
+    "region": "East Africa"
+  },
+  {
+    "name": "Dar es Salaam",
+    "country": "Tanzania",
+    "region": "East Africa"
+  },
+  {
+    "name": "Accra",
+    "country": "Ghana",
+    "region": "West Africa"
+  },
+  {
+    "name": "Lagos",
+    "country": "Nigeria",
+    "region": "West Africa"
+  },
+  {
+    "name": "Addis Ababa",
+    "country": "Ethiopia",
+    "region": "East Africa"
+  },
+  {
+    "name": "Kigali",
+    "country": "Rwanda",
+    "region": "East Africa"
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "name": "Melbourne",
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "name": "Auckland",
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "name": "Fiji",
+    "country": "Fiji",
+    "region": "Oceania"
+  },
+  {
+    "name": "San Juan",
+    "country": "Puerto Rico",
+    "region": "Caribbean"
+  },
+  {
+    "name": "Nassau",
+    "country": "Bahamas",
+    "region": "Caribbean"
+  },
+  {
+    "name": "Kingston",
+    "country": "Jamaica",
+    "region": "Caribbean"
+  },
+  {
+    "name": "Havana",
+    "country": "Cuba",
+    "region": "Caribbean"
+  },
+  {
+    "name": "Punta Cana",
+    "country": "Dominican Republic",
+    "region": "Caribbean"
+  }
+]
