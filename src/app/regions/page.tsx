@@ -1,116 +1,103 @@
-import type { Metadata } from 'next'
-import cityData from '@/lib/city-data.json'
-import Link from 'next/link'
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import citiesData from '@/data/city-data.json';
 
 export const metadata: Metadata = {
-  title: 'Travel Safety by Region — IsItSafeToVisit.com',
-  description: 'Browse travel safety guides by world region. Safety ratings for cities in Europe, Asia, Latin America, Africa, the Middle East, and more.',
-}
-
-interface City {
-  slug: string
-  name: string
-  country: string
-  region: string
-  overallScore: number
-}
+  title: 'Browse Cities by Region — IsItSafeToVisit',
+  description: 'Explore travel safety guides organized by world region. Find safe cities in Europe, Asia, Latin America, Africa, and more.',
+};
 
 const REGION_META: Record<string, { emoji: string; description: string }> = {
-  'Europe': { emoji: '🏰', description: 'From Western European capitals to emerging Eastern European gems — safety intel for the continent.' },
-  'Asia': { emoji: '🏯', description: 'Southeast Asia, East Asia, South Asia and beyond — comprehensive guides across the world largest continent.' },
-  'Latin America': { emoji: '🌎', description: 'Mexico, Central America, South America, and the Caribbean — honest safety assessments for one of the most popular travel regions.' },
-  'North America': { emoji: '🗽', description: 'United States, Canada, and Mexico — city-level safety guides for destinations across the continent.' },
-  'Middle East': { emoji: '🕌', description: 'Safety guides for cities across the Arabian Peninsula, Levant, and broader Middle East region.' },
-  'Africa': { emoji: '🦁', description: 'From North African medinas to Southern African safari capitals — safety intelligence across a diverse continent.' },
-  'Oceania': { emoji: '🦘', description: 'Australia, New Zealand, and Pacific island destinations — guides for the world most remote region.' },
-  'Caribbean': { emoji: '🌴', description: 'Island-by-island safety breakdowns for the Caribbean most visited destinations.' },
-}
+  'Europe': { emoji: '🏰', description: 'From Western capitals to Eastern gems' },
+  'Asia': { emoji: '🏯', description: 'Southeast Asia, East Asia, and the Subcontinent' },
+  'South America': { emoji: '🌎', description: 'The continent from Colombia to Patagonia' },
+  'Central America & Caribbean': { emoji: '🌴', description: 'Mexico, Central America, and island destinations' },
+  'North America': { emoji: '🗽', description: 'United States and Canada city guides' },
+  'Middle East': { emoji: '🕌', description: 'Gulf states, Levant, and beyond' },
+  'Africa': { emoji: '🌍', description: 'Sub-Saharan Africa, North Africa, and East Africa' },
+  'Oceania': { emoji: '🦘', description: 'Australia, New Zealand, and Pacific islands' },
+};
 
-function getScoreColor(score: number): string {
-  if (score >= 7.5) return 'var(--safe-green)'
-  if (score >= 5.0) return 'var(--caution-amber)'
-  return 'var(--danger-red)'
+function getScoreClass(score: number): string {
+  if (score >= 7) return 'safe';
+  if (score >= 5) return 'caution';
+  return 'danger';
 }
 
 export default function RegionsPage() {
-  const cities = cityData as unknown as City[]
-  const regionMap: Record<string, City[]> = {}
+  // Safely extract array regardless of JSON structure
+  const raw = citiesData as unknown;
+  const cities: any[] = Array.isArray(raw)
+    ? raw
+    : Array.isArray((raw as any).cities)
+    ? (raw as any).cities
+    : Object.values(raw as object);
+
+  // Group cities by region
+  const byRegion: Record<string, any[]> = {};
   for (const city of cities) {
-    const region = city.region || 'Other'
-    if (!regionMap[region]) regionMap[region] = []
-    regionMap[region].push(city)
+    const region = city.region || 'Other';
+    if (!byRegion[region]) byRegion[region] = [];
+    byRegion[region].push(city);
   }
-  const sortedRegions = Object.entries(regionMap).sort((a, b) => b[1].length - a[1].length)
+
+  const sortedRegions = Object.entries(byRegion).sort((a, b) => b[1].length - a[1].length);
 
   return (
     <main className="regions-page">
-      <div className="page-hero">
+      <div className="regions-hero">
         <div className="container">
-          <div className="breadcrumb"><a href="/">Home</a><span>›</span><span>Regions</span></div>
-          <h1>Travel Safety by Region</h1>
-          <p className="hero-subtitle">Browse safety guides for <strong>{cities.length}+ cities</strong> across {sortedRegions.length} world regions.</p>
+          <h1>Browse by Region</h1>
+          <p className="regions-subtitle">
+            {cities.length} cities across {sortedRegions.length} world regions
+          </p>
         </div>
       </div>
-      <div className="container page-content">
+
+      <div className="container">
         <div className="regions-grid">
           {sortedRegions.map(([region, regionCities]) => {
-            const meta = REGION_META[region] || { emoji: '🌐', description: `Travel safety guides for cities in ${region}.` }
-            const topCities = [...regionCities].sort((a, b) => b.overallScore - a.overallScore).slice(0, 6)
+            const meta = REGION_META[region] || { emoji: '🌐', description: '' };
+            const sorted = [...regionCities].sort((a, b) => (b.overallScore || 0) - (a.overallScore || 0));
+
             return (
-              <section key={region} className="region-card">
+              <section key={region} className="region-section">
                 <div className="region-header">
-                  <div className="region-title-row">
-                    <span className="region-emoji">{meta.emoji}</span>
-                    <div><h2>{region}</h2><span className="region-count">{regionCities.length} {regionCities.length === 1 ? 'city' : 'cities'}</span></div>
+                  <span className="region-emoji">{meta.emoji}</span>
+                  <div>
+                    <h2 className="region-title">{region}</h2>
+                    {meta.description && (
+                      <p className="region-description">{meta.description}</p>
+                    )}
+                    <span className="region-count">{regionCities.length} cities</span>
                   </div>
-                  <p className="region-description">{meta.description}</p>
                 </div>
-                <div className="region-cities">
-                  {topCities.map((city) => (
-                    <Link key={city.slug} href={`/cities/${city.slug}`} className="region-city-link">
-                      <span className="city-name">{city.name}</span>
-                      <span className="city-country">{city.country}</span>
-                      <span className="city-score" style={{ color: getScoreColor(city.overallScore) }}>{city.overallScore.toFixed(1)}</span>
+
+                <div className="region-cities-grid">
+                  {sorted.map((city: any) => (
+                    <Link
+                      key={city.slug}
+                      href={`/cities/${city.slug}`}
+                      className="region-city-card"
+                    >
+                      <div className="region-city-top">
+                        <span className="region-city-name">{city.name}</span>
+                        <span className={`region-city-score score-${getScoreClass(city.overallScore || 0)}`}>
+                          {(city.overallScore || 0).toFixed(1)}
+                        </span>
+                      </div>
+                      <span className="region-city-country">{city.country}</span>
+                      <span className={`region-city-badge badge-${getScoreClass(city.overallScore || 0)}`}>
+                        {city.badgeLabel || ((city.overallScore || 0) >= 7 ? 'Generally Safe' : (city.overallScore || 0) >= 5 ? 'Moderate Caution' : 'Exercise Caution')}
+                      </span>
                     </Link>
                   ))}
                 </div>
-                {regionCities.length > 6 && (
-                  <div className="region-more"><span className="see-all-note">+ {regionCities.length - 6} more cities in {region}</span></div>
-                )}
               </section>
-            )
+            );
           })}
         </div>
       </div>
-      <style>{`
-        .regions-page{background:var(--paper);min-height:100vh}
-        .page-hero{background:var(--ink);padding:3rem 0 2.5rem;border-bottom:3px solid var(--accent)}
-        .page-hero h1{font-family:'DM Serif Display',Georgia,serif;font-size:clamp(2rem,4vw,3rem);color:var(--paper);margin:.5rem 0 1rem;line-height:1.15}
-        .hero-subtitle{font-size:1.1rem;color:#aaa;margin:0}
-        .hero-subtitle strong{color:var(--paper)}
-        .breadcrumb{font-size:.85rem;color:#888;margin-bottom:1rem;display:flex;align-items:center;gap:.4rem}
-        .breadcrumb a{color:#aaa;text-decoration:none}
-        .breadcrumb a:hover{color:var(--accent-light)}
-        .page-content{padding-top:3rem;padding-bottom:4rem}
-        .regions-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(460px,1fr));gap:2rem}
-        .region-card{background:white;border:1px solid var(--border);border-radius:10px;overflow:hidden}
-        .region-header{padding:1.5rem 1.5rem 1.25rem;border-bottom:1px solid var(--border);background:var(--paper-warm)}
-        .region-title-row{display:flex;align-items:center;gap:.75rem;margin-bottom:.6rem}
-        .region-emoji{font-size:2rem;line-height:1}
-        .region-title-row h2{font-family:'DM Serif Display',Georgia,serif;font-size:1.4rem;color:var(--ink);margin:0 0 .15rem}
-        .region-count{font-family:'JetBrains Mono',monospace;font-size:.8rem;color:var(--ink-muted);font-weight:600}
-        .region-description{font-size:.9rem;color:var(--ink-muted);margin:0;line-height:1.55}
-        .region-cities{padding:.5rem 0}
-        .region-city-link{display:flex;align-items:center;padding:.7rem 1.5rem;text-decoration:none;border-bottom:1px solid var(--border);transition:background .15s;gap:.5rem}
-        .region-city-link:last-child{border-bottom:none}
-        .region-city-link:hover{background:var(--paper-warm)}
-        .city-name{font-weight:600;color:var(--ink);font-size:.95rem;flex:1}
-        .city-country{font-size:.85rem;color:var(--ink-muted)}
-        .city-score{font-family:'JetBrains Mono',monospace;font-size:.85rem;font-weight:700}
-        .region-more{padding:.85rem 1.5rem;border-top:1px solid var(--border);background:var(--paper-warm)}
-        .see-all-note{font-size:.85rem;color:var(--ink-muted)}
-        @media(max-width:640px){.regions-grid{grid-template-columns:1fr}}
-      `}</style>
     </main>
-  )
+  );
 }

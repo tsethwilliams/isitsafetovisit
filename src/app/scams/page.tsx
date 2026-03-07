@@ -1,158 +1,205 @@
-import type { Metadata } from 'next'
-import cityData from '@/lib/city-data.json'
-import Link from 'next/link'
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import citiesData from '@/data/city-data.json';
 
 export const metadata: Metadata = {
-  title: 'Common Tourist Scams by Country and City — IsItSafeToVisit.com',
-  description: 'Browse common tourist scams by country and city with how-to-avoid guides for 500+ destinations.',
-}
-
-interface City {
-  slug: string
-  name: string
-  country: string
-  scores: { scamRisk: number }
-}
+  title: 'Travel Scams to Avoid — IsItSafeToVisit',
+  description: 'The complete guide to travel scams worldwide. Learn how to spot and avoid the most common tourist scams, from fake taxi overcharges to distraction theft.',
+};
 
 const UNIVERSAL_SCAMS = [
-  { category: 'Taxi and Transport', icon: '🚕', scams: [
-    { name: 'Broken Meter Scam', description: 'Driver claims the meter is broken and quotes an inflated fixed fare. Common worldwide, especially at airports.', howToAvoid: 'Always insist on the meter, or use a rideshare app like Uber or Grab where the price is set in advance.' },
-    { name: 'Long Route Detour', description: 'Taxi takes an unnecessarily long route to inflate the fare. Hard to detect in unfamiliar cities.', howToAvoid: 'Screenshot your route on Google Maps before getting in and speak up if the driver deviates significantly.' },
-    { name: 'Fake Rideshare Driver', description: 'Impersonators wait near rideshare pickup zones pretending to be your booked driver.', howToAvoid: 'Always verify driver name, license plate, and car make before getting in. Never say the driver name first.' },
-  ]},
-  { category: 'Street and Attraction Scams', icon: '🗺️', scams: [
-    { name: 'Friendship Bracelet', description: 'A stranger ties a bracelet onto your wrist without permission, then aggressively demands payment.', howToAvoid: 'Keep hands in pockets near tourist areas. Refuse firmly and walk away immediately.' },
-    { name: 'Closed Attraction Redirect', description: 'A stranger claims your destination is closed today and offers to take you somewhere better. Nothing is ever closed.', howToAvoid: 'Ignore unsolicited advice about closures. Walk directly to the attraction yourself.' },
-    { name: 'Dropped Item Distraction', description: 'Someone drops something and an accomplice pickpockets you while you are distracted.', howToAvoid: 'Keep your bag in front. Stay alert in crowded areas. Do not get drawn into street dramas.' },
-  ]},
-  { category: 'Food and Drink', icon: '🍽️', scams: [
-    { name: 'Unmarked Menu Prices', description: 'Restaurant has no prices on the menu. The bill arrives with massive charges for service fees or inflated items.', howToAvoid: 'Always ask for a written menu with prices before ordering. If no prices are shown, leave.' },
-    { name: 'Drink Spiking', description: 'Drinks are spiked with sedatives at bars. More common in nightlife districts.', howToAvoid: 'Never leave your drink unattended. Accept drinks only from bartenders. Travel with a buddy at night.' },
-  ]},
-  { category: 'Money and Cards', icon: '💳', scams: [
-    { name: 'Currency Confusion', description: 'Vendors exploit unfamiliarity with local currency to shortchange you. Common with multi-zero currencies.', howToAvoid: 'Know the exchange rate before you arrive. Count change carefully every time.' },
-    { name: 'ATM Card Skimming', description: 'Skimming devices installed on ATMs capture your card data and PIN.', howToAvoid: 'Use ATMs inside banks or hotels. Cover keypad when entering PIN. Check for loose card readers.' },
-    { name: 'Fake Police Shakedown', description: 'Plain clothes police demand to inspect your wallet for counterfeit money and steal from it.', howToAvoid: 'Real police have uniforms. Insist on going to the nearest police station. Never hand over your wallet.' },
-  ]},
-]
+  {
+    name: 'Fake Taxi / Unlicensed Drivers',
+    risk: 'high',
+    description: 'Unofficial drivers approach arrivals at airports and train stations, quoting flat rates that end up being 5–10x the metered fare — or involve a detour. In some countries, unlicensed drivers have robbed passengers.',
+    howToAvoid: 'Always use official taxi ranks or pre-book via the city official app (Grab, Bolt, Uber, etc.). Never accept rides from strangers who approach you first.',
+  },
+  {
+    name: 'Gem / Art Investment Scam',
+    risk: 'high',
+    description: 'A friendly local invites you to a family shop or gallery where you are pressured into buying gems, artwork, or rugs at inflated prices with promises of resale profit. The items are worthless.',
+    howToAvoid: 'Politely decline any unsolicited invitation to a shop. Legitimate businesses do not need strangers to recruit customers.',
+  },
+  {
+    name: 'Friendship Bracelet / Rose Trick',
+    risk: 'medium',
+    description: 'A street vendor ties a bracelet on your wrist or hands you a flower, then demands payment. Refusing leads to aggressive confrontation or a scene designed to embarrass you.',
+    howToAvoid: 'Keep your hands in your pockets near street vendors. Firmly say "No thank you" before anything touches you.',
+  },
+  {
+    name: 'Distraction Theft',
+    risk: 'high',
+    description: 'One person creates a distraction (spills something on you, asks for directions, starts a loud argument nearby) while an accomplice picks your pocket or grabs your bag.',
+    howToAvoid: 'Use a cross-body bag with zipper facing inward. Be especially alert when anyone unexpectedly touches you or creates commotion.',
+  },
+  {
+    name: 'ATM Skimming & Shoulder Surfing',
+    risk: 'medium',
+    description: 'Card readers attached to ATMs capture your card data. Bystanders watch you enter your PIN. Both methods can drain your account.',
+    howToAvoid: 'Use ATMs inside banks during business hours. Shield your PIN every time. Check for loose card reader attachments.',
+  },
+  {
+    name: 'Fake Police Officers',
+    risk: 'high',
+    description: 'People posing as plainclothes officers ask to inspect your wallet or passport for counterfeit bills or drug residue. They pocket cash or disappear with your documents.',
+    howToAvoid: 'Real police do not inspect your wallet on the street. If approached, ask to go to the nearest police station. Never hand over your wallet or passport.',
+  },
+  {
+    name: 'Restaurant / Bar Menu Scam',
+    risk: 'medium',
+    description: 'A friendly local suggests a restaurant or bar. You are shown one menu but charged from a different, much more expensive one. Some establishments add fake charges after you have had drinks.',
+    howToAvoid: 'Choose your own restaurants independently. Always confirm prices before ordering. Check the bill line-by-line.',
+  },
+  {
+    name: 'Currency Exchange Sleight of Hand',
+    risk: 'medium',
+    description: 'A money changer gives you back fewer notes than agreed, or substitutes lower-denomination bills mid-count, banking on you not recounting.',
+    howToAvoid: 'Count your money yourself before leaving the window. Use official exchange booths or bank ATMs instead of street changers.',
+  },
+  {
+    name: 'Wi-Fi Honeypot',
+    risk: 'medium',
+    description: 'A malicious Wi-Fi hotspot named something plausible intercepts your traffic to steal banking credentials and passwords.',
+    howToAvoid: 'Use a VPN whenever connecting to public Wi-Fi. Verify the network name with hotel staff before connecting.',
+  },
+  {
+    name: 'Petition / Charity Clipboard',
+    risk: 'low',
+    description: 'Someone approaches with a clipboard asking you to sign a petition. While you are distracted, an accomplice picks your pocket, or you are pressured into a large donation.',
+    howToAvoid: 'Decline clipboard approaches in tourist areas. Keep valuables secured before engaging with anyone.',
+  },
+];
+
+function getRiskColor(risk: string) {
+  if (risk === 'high') return 'danger';
+  if (risk === 'medium') return 'caution';
+  return 'safe';
+}
 
 export default function ScamsPage() {
-  const cities = cityData as unknown as City[]
-  const highRiskCities = cities
-    .filter(c => c.scores?.scamRisk && c.scores.scamRisk <= 5.5)
-    .sort((a, b) => a.scores.scamRisk - b.scores.scamRisk)
-    .slice(0, 18)
+  // Safely extract array regardless of JSON structure
+  const raw = citiesData as unknown;
+  const cities: any[] = Array.isArray(raw)
+    ? raw
+    : Array.isArray((raw as any).cities)
+    ? (raw as any).cities
+    : Object.values(raw as object);
+
+  const highScamRiskCities = [...cities]
+    .filter((c: any) => c.scores?.scamRisk !== undefined)
+    .sort((a: any, b: any) => (a.scores.scamRisk ?? 10) - (b.scores.scamRisk ?? 10))
+    .slice(0, 8);
 
   return (
     <main className="scams-page">
-      <div className="page-hero">
+      <div className="scams-hero">
         <div className="container">
-          <div className="breadcrumb"><a href="/">Home</a><span>›</span><span>Scam Guide</span></div>
-          <h1>The Tourist Scam Guide</h1>
-          <p className="hero-subtitle">Know the plays before they run them on you.</p>
+          <h1>Travel Scams: The Complete Guide</h1>
+          <p className="scams-subtitle">
+            Know what to expect before you land. The most common tourist scams worldwide — and exactly how to avoid them.
+          </p>
         </div>
       </div>
-      <div className="container page-content">
+
+      <div className="container">
         <div className="scams-layout">
           <div className="scams-main">
-            <p className="lead-text">Tourist scams are a global industry. The setups differ by city but the mechanics repeat — distraction, social pressure, confusion, urgency. Knowing the playbook is the best defense.</p>
-            <section className="universal-scams">
-              <h2>Universal Scams: The Global Playbook</h2>
-              {UNIVERSAL_SCAMS.map((cat) => (
-                <div key={cat.category} className="scam-category">
-                  <h3><span className="cat-icon">{cat.icon}</span>{cat.category}</h3>
-                  {cat.scams.map((scam) => (
-                    <div key={scam.name} className="scam-card">
-                      <p className="scam-name">{scam.name}</p>
-                      <p className="scam-desc">{scam.description}</p>
-                      <div className="avoid-box"><strong>How to avoid:</strong> {scam.howToAvoid}</div>
-                    </div>
-                  ))}
+            <div className="scams-intro">
+              <p>
+                Tourist scams are a global industry. Whether you are in Bangkok, Barcelona, or Buenos Aires, experienced scammers target travelers who are unfamiliar with local prices, customs, and social norms. The good news: most scams are entirely avoidable once you know what to look for.
+              </p>
+              <p>
+                Below are the {UNIVERSAL_SCAMS.length} most common scam types you will encounter worldwide, plus city-specific scam guides for every destination in our database.
+              </p>
+            </div>
+
+            <h2>The Most Common Tourist Scams</h2>
+
+            <div className="scams-list">
+              {UNIVERSAL_SCAMS.map((scam, i) => (
+                <div key={i} className="scam-card">
+                  <div className="scam-header">
+                    <h3 className="scam-name">{scam.name}</h3>
+                    <span className={`scam-risk risk-${getRiskColor(scam.risk)}`}>
+                      {scam.risk.charAt(0).toUpperCase() + scam.risk.slice(1)} Risk
+                    </span>
+                  </div>
+                  <p className="scam-description">{scam.description}</p>
+                  <div className="scam-avoid">
+                    <strong>How to avoid:</strong> {scam.howToAvoid}
+                  </div>
                 </div>
               ))}
+            </div>
+
+            <section className="scams-tips-section">
+              <h2>General Anti-Scam Rules</h2>
+              <ul className="scams-tips-list">
+                <li><strong>Research before you arrive.</strong> Know the typical taxi fare from the airport. Know what a meal should cost. Scams rely on ignorance of local prices.</li>
+                <li><strong>Slow down.</strong> Scammers create urgency. Any situation where you feel rushed to decide is a red flag.</li>
+                <li><strong>Trust your instincts.</strong> If a deal feels too good, it is. If someone is being unusually helpful, ask yourself why.</li>
+                <li><strong>Keep copies of your documents.</strong> Email yourself scans of your passport, visa, and insurance card.</li>
+                <li><strong>Use a VPN on public Wi-Fi.</strong> This one step protects your banking login from Wi-Fi honeypot attacks.</li>
+                <li><strong>Secure your phone.</strong> Your phone is the most targeted item. Use a cross-body bag or keep it in a front pocket in crowded areas.</li>
+                <li><strong>Pre-book airport transport.</strong> Arranging your ride before you land eliminates the most common arrival scam entirely.</li>
+              </ul>
             </section>
+
+            <div className="scam-vpn-cta">
+              <div className="vpn-cta-content">
+                <h3>🔒 Protect Yourself on Public Wi-Fi</h3>
+                <p>Wi-Fi honeypots can steal banking credentials in seconds. A VPN encrypts all your traffic — essential for any international trip.</p>
+                <a
+                  href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142230&url_id=902"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-nordvpn"
+                >
+                  Get NordVPN — Protect Your Connection
+                </a>
+              </div>
+            </div>
           </div>
+
           <aside className="scams-sidebar">
             <div className="sidebar-widget">
-              <h3>Highest Scam Risk Cities</h3>
-              <p className="widget-note">Cities with the lowest scam safety scores in our database.</p>
-              {highRiskCities.map((city) => (
-                <Link key={city.slug} href={`/cities/${city.slug}`} className="risk-city-link">
-                  <span className="rc-name">{city.name}</span>
-                  <span className="rc-country">{city.country}</span>
-                  <span className="rc-score">{city.scores.scamRisk.toFixed(1)}</span>
-                </Link>
-              ))}
+              <h3 className="sidebar-widget-title">⚠️ High Scam Risk Cities</h3>
+              <p className="sidebar-widget-desc">Cities with the lowest scam safety scores in our database.</p>
+              <div className="sidebar-city-list">
+                {highScamRiskCities.map((city: any) => (
+                  <Link key={city.slug} href={`/cities/${city.slug}`} className="sidebar-city-item">
+                    <span className="sidebar-city-name">{city.name}, {city.country}</span>
+                    <span className="sidebar-city-score score-danger">
+                      {(city.scores.scamRisk ?? 0).toFixed(1)}
+                    </span>
+                  </Link>
+                ))}
+              </div>
             </div>
-            <div className="sidebar-widget protect-widget">
-              <h3>🛡️ Protect Yourself Online</h3>
-              <p>A VPN protects your financial data on public Wi-Fi in hotels, cafes, and airports abroad.</p>
-              <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142230&url_id=902" target="_blank" rel="noopener noreferrer" className="vpn-cta">Get NordVPN — Travel Secure</a>
-              <p className="affiliate-note">Affiliate link — helps support this site</p>
+
+            <div className="sidebar-widget affiliate-widget safetywing-widget">
+              <h3>🛡️ Travel Insurance</h3>
+              <p>Get covered before you go. SafetyWing covers medical emergencies, trip interruption, and more from just $1.87/day.</p>
+              <a
+                href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-safetywing"
+              >
+                Get Covered with SafetyWing
+              </a>
             </div>
-            <div className="sidebar-widget insurance-widget">
-              <h3>🚑 Travel Insurance</h3>
-              <p>SafetyWing covers you worldwide from $1.87/day.</p>
-              <a href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador" target="_blank" rel="noopener noreferrer" className="insurance-cta">Get SafetyWing Coverage</a>
-              <p className="affiliate-note">Affiliate link — helps support this site</p>
+
+            <div className="sidebar-widget">
+              <h3 className="sidebar-widget-title">🌍 City-Specific Scam Guides</h3>
+              <p className="sidebar-widget-desc">Every city page includes the specific scams that target tourists there.</p>
+              <Link href="/cities" className="sidebar-browse-link">
+                Browse All {cities.length} Cities →
+              </Link>
             </div>
           </aside>
         </div>
-        <section className="city-scams-section">
-          <h2>Find Scam Guides by City</h2>
-          <p>Every city page includes local scam warnings with risk levels and avoidance tips.</p>
-          <div className="city-scams-grid">
-            {cities.slice(0, 48).map((city) => (
-              <Link key={city.slug} href={`/cities/${city.slug}#scams`} className="city-scam-chip">{city.name}</Link>
-            ))}
-          </div>
-          <div style={{ marginTop: '1.5rem' }}><Link href="/" className="browse-all-link">Browse all cities →</Link></div>
-        </section>
       </div>
-      <style>{`
-        .scams-page{background:var(--paper);min-height:100vh}
-        .page-hero{background:var(--ink);padding:3rem 0 2.5rem;border-bottom:3px solid var(--accent)}
-        .page-hero h1{font-family:'DM Serif Display',Georgia,serif;font-size:clamp(2rem,4vw,3rem);color:var(--paper);margin:.5rem 0 1rem}
-        .hero-subtitle{font-size:1.1rem;color:#aaa;margin:0;font-style:italic}
-        .breadcrumb{font-size:.85rem;color:#888;margin-bottom:1rem;display:flex;align-items:center;gap:.4rem}
-        .breadcrumb a{color:#aaa;text-decoration:none}
-        .breadcrumb a:hover{color:var(--accent-light)}
-        .page-content{padding-top:3rem;padding-bottom:4rem}
-        .scams-layout{display:grid;grid-template-columns:1fr 300px;gap:2.5rem;align-items:start;margin-bottom:3rem}
-        .lead-text{font-size:1.05rem;line-height:1.75;color:var(--ink-light);font-style:italic;border-left:3px solid var(--accent);padding-left:1.25rem;margin-bottom:2rem}
-        .universal-scams h2{font-family:'DM Serif Display',Georgia,serif;font-size:1.75rem;color:var(--ink);margin:0 0 1.5rem;padding-bottom:.6rem;border-bottom:2px solid var(--border)}
-        .scam-category{margin-bottom:2.5rem}
-        .scam-category h3{font-family:'DM Serif Display',Georgia,serif;font-size:1.2rem;color:var(--ink);margin:0 0 1rem;display:flex;align-items:center;gap:.5rem}
-        .scam-card{background:white;border:1px solid var(--border);border-radius:8px;padding:1.25rem;margin-bottom:1rem}
-        .scam-name{font-weight:700;color:var(--ink);font-size:1rem;margin:0 0 .5rem}
-        .scam-desc{font-size:.95rem;color:var(--ink-muted);line-height:1.6;margin-bottom:.75rem}
-        .avoid-box{background:#f0fdf4;border:1px solid #bbf7d0;border-radius:5px;padding:.7rem 1rem;font-size:.9rem;color:var(--ink-light);line-height:1.55}
-        .avoid-box strong{color:var(--safe-green)}
-        .scams-sidebar{position:sticky;top:1.5rem;display:flex;flex-direction:column;gap:1.25rem}
-        .sidebar-widget{background:white;border:1px solid var(--border);border-radius:8px;padding:1.25rem}
-        .sidebar-widget h3{font-family:'DM Serif Display',Georgia,serif;font-size:1.05rem;color:var(--ink);margin:0 0 .5rem}
-        .widget-note{font-size:.85rem;color:var(--ink-muted);margin-bottom:.75rem}
-        .risk-city-link{display:flex;align-items:center;padding:.5rem 0;border-bottom:1px solid var(--border);text-decoration:none;gap:.4rem}
-        .risk-city-link:last-child{border-bottom:none}
-        .risk-city-link:hover .rc-name{color:var(--accent)}
-        .rc-name{font-size:.9rem;font-weight:600;color:var(--ink);flex:1}
-        .rc-country{font-size:.8rem;color:var(--ink-muted)}
-        .rc-score{font-family:'JetBrains Mono',monospace;font-size:.85rem;font-weight:700;color:var(--danger-red)}
-        .protect-widget,.insurance-widget{background:var(--paper-warm)}
-        .protect-widget p,.insurance-widget p{font-size:.9rem;color:var(--ink-muted);line-height:1.55;margin-bottom:.75rem}
-        .vpn-cta,.insurance-cta{display:block;text-align:center;padding:.65rem 1rem;border-radius:6px;font-weight:700;font-size:.9rem;text-decoration:none;margin-bottom:.5rem}
-        .vpn-cta{background:#1a66cc;color:white}
-        .insurance-cta{background:var(--accent);color:white}
-        .affiliate-note{font-size:.75rem!important;color:#999!important;text-align:center;margin:0!important}
-        .city-scams-section{border-top:2px solid var(--border);padding-top:2.5rem}
-        .city-scams-section h2{font-family:'DM Serif Display',Georgia,serif;font-size:1.75rem;color:var(--ink);margin:0 0 .75rem}
-        .city-scams-section > p{color:var(--ink-muted);margin-bottom:1.5rem}
-        .city-scams-grid{display:flex;flex-wrap:wrap;gap:.5rem}
-        .city-scam-chip{background:white;border:1px solid var(--border);border-radius:20px;padding:.35rem .9rem;font-size:.9rem;color:var(--ink-light);text-decoration:none;transition:border-color .15s,color .15s}
-        .city-scam-chip:hover{border-color:var(--accent);color:var(--accent)}
-        .browse-all-link{color:var(--accent);text-decoration:none;font-weight:600;font-size:.95rem}
-        @media(max-width:900px){.scams-layout{grid-template-columns:1fr}.scams-sidebar{position:static}}
-      `}</style>
     </main>
-  )
+  );
 }
