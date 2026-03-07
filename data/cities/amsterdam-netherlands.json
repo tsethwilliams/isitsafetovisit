@@ -1,0 +1,165 @@
+{
+  "slug": "amsterdam",
+  "name": "Amsterdam",
+  "country": "Netherlands",
+  "countryCode": "NL",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.5,
+    "naturalHazards": 9.0
+  },
+  "summary": "Amsterdam is one of Europe's safest capital cities with a low crime index of 28 and excellent rankings for personal safety. The main concerns are pickpocketing in tourist areas and bike theft, while violent crime is very rare.",
+  "quickVerdict": "Amsterdam consistently ranks among the world's safest cities, with The Economist placing it 11th globally for overall safety and 4th for personal safety. While typical urban challenges like pickpocketing exist in tourist hotspots, violent crime is extremely rare. The city's well-designed infrastructure, excellent public transport, and strong law enforcement make it particularly welcoming for all types of travelers. Exercise normal precautions, especially in crowded areas, and you'll likely find Amsterdam to be one of the most secure destinations in Europe.",
+  "neighborhoods": [
+    {
+      "name": "Jordaan",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Charming historic neighborhood with tree-lined canals, boutique shops, and cozy cafes. Generally very safe day and night with good lighting and regular foot traffic."
+    },
+    {
+      "name": "Museum Quarter",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale cultural district home to major museums. Well-patrolled and safe, though watch for pickpockets near popular attractions like Rijksmuseum and Van Gogh Museum."
+    },
+    {
+      "name": "De Pijp",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood popular with young professionals. Safe overall with vibrant nightlife, though exercise normal caution around bars and late-night venues."
+    },
+    {
+      "name": "City Center",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic heart with Dam Square and Central Station. Heavy tourist presence attracts pickpockets, especially around major attractions and transportation hubs."
+    },
+    {
+      "name": "Red Light District",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Famous entertainment area with heavy police presence but crowded with intoxicated tourists. Generally safe but avoid late nights alone and watch for pickpockets."
+    },
+    {
+      "name": "Bijlmer",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Southeastern district with higher crime rates than other areas. While improving through urban renewal, tourists have little reason to visit and should exercise extra caution."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing",
+      "risk": "high",
+      "description": "Most common crime affecting tourists, occurring in crowded areas like Central Station, Dam Square, and trams. Often involves distraction techniques or operating in groups.",
+      "howToAvoid": "Keep valuables secure in front pockets or anti-theft bags. Stay alert in crowds, avoid displaying expensive items, and be wary of strangers creating distractions."
+    },
+    {
+      "name": "Fake Police",
+      "risk": "medium",
+      "description": "Scammers dressed as police officers approach tourists, claiming to check for counterfeit money or drugs, then steal cash from wallets during inspection.",
+      "howToAvoid": "Real police never ask to see your wallet on the street. Ask to go to the nearest station or call 0900-8844 to verify. Never hand over your wallet to anyone."
+    },
+    {
+      "name": "Overpriced Taxi Scams",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers, especially at Schiphol Airport, charge excessive fares over €1000 for trips that should cost €40-80 to central Amsterdam.",
+      "howToAvoid": "Use only official taxis with blue license plates and roof lights showing company names like TCA. Ensure the meter is running and check estimated fares beforehand."
+    },
+    {
+      "name": "ATM and Card Skimming",
+      "risk": "low",
+      "description": "Devices placed on ATMs or card readers to steal banking information, though less common due to widespread chip-and-pin adoption in Netherlands.",
+      "howToAvoid": "Use ATMs inside banks when possible. Cover your PIN entry, check for unusual attachments on card slots, and monitor bank statements regularly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Amsterdam is exceptionally safe for solo female travelers, ranking 4th globally for personal safety and receiving consistent positive reviews from women travelers. The city's progressive culture, well-lit streets, reliable public transport, and strong gender equality policies create a welcoming environment. Most areas are safe to walk alone even at night, though normal precautions apply in crowded tourist areas and the Red Light District after dark.",
+    "tips": [
+      "Stay alert in tourist hotspots like Central Station and Dam Square where pickpocketing is most common",
+      "The Red Light District is safe to visit during the day but can attract rowdy crowds at night",
+      "Public transport is safe and efficient - trams and metros run until late with good lighting and security",
+      "Dutch people are generally helpful if you need assistance - don't hesitate to ask locals for directions",
+      "Trust your instincts and avoid isolated areas late at night, though violent crime against tourists is extremely rare"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Amsterdam maintains good nighttime safety with a 65% safety index for after-dark activities. Most neighborhoods remain well-lit and populated, with reliable public transport running until late. The main nightlife areas like Leidseplein and Rembrandtplein have visible security presence. However, exercise additional caution in the Red Light District after dark due to intoxicated crowds, and be aware that some metro stations can become rowdy late at night.",
+    "tips": [
+      "Stick to well-lit main streets and avoid dark alleys, especially when alone",
+      "Use official night buses after metro/tram service ends - your GVB pass remains valid",
+      "Be extra cautious around Central Station, Rokin, and Vijzelgracht metro stations late at night",
+      "Limit alcohol consumption to stay aware of your surroundings and make sound decisions",
+      "Consider using ride-sharing apps or official taxis for longer distances after midnight"
+    ]
+  },
+  "transport": {
+    "metro": "Amsterdam's 5-line metro system is modern, safe, and efficient with 39 stations covering the city. Surveillance cameras monitor all stations with live operators, and emergency SOS poles provide direct contact to GVB staff. Service runs until around 12:30am with night buses continuing afterward.",
+    "rideshare": "Uber operates reliably in Amsterdam alongside local alternatives. Generally safe and convenient, especially for airport transfers or late-night journeys when public transport frequency decreases. Use official pickup points and verify driver details.",
+    "taxis": "Official taxis are safe and regulated - look for blue license plates and roof lights displaying company names like TCA. Licensed drivers must use meters and display tariff information. Avoid unlicensed 'pirate taxis' which may overcharge tourists.",
+    "tips": "Public transport is excellent value and very safe. Always tap in and out with OVpay or GVB passes. The transport app provides real-time updates in English, and staff speak multiple languages for assistance."
+  },
+  "customs": [
+    "The Dutch value punctuality highly - always arrive on time for appointments and let people know if you're running late",
+    "Direct communication is normal and appreciated - the Dutch prefer honest, straightforward conversation over excessive politeness",
+    "Wait to be served when visiting someone's home, especially for coffee which is a sacred ritual - never help yourself to food or drinks",
+    "Respect cycling culture by staying out of bike lanes as a pedestrian - cyclists have right of way and move quickly through dedicated lanes",
+    "Keep noise levels down in residential areas, especially after 11pm, and inform neighbors if hosting parties or doing renovations"
+  ],
+  "health": {
+    "overview": "Healthcare in Amsterdam is excellent with high-quality medical facilities and English-speaking staff. The water system meets EU standards with regular quality monitoring, though canal water should never be consumed due to contamination from houseboats and sewage discharge.",
+    "water": "Tap water is safe to drink and meets all EU quality standards. Avoid any contact with canal water which contains harmful pathogens including Salmonella, Cryptosporidium, and viruses from sewage discharge.",
+    "vaccinations": "No special vaccinations required for Netherlands. Ensure routine vaccines are up-to-date including measles-mumps-rubella (MMR) as recommended by CDC for international travel.",
+    "altitude": "Amsterdam is at sea level with mild maritime climate. No altitude concerns, though weather can be unpredictable with frequent rain - pack appropriate clothing for wet conditions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 (emergency) / 0900-8844 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Amsterdam - John Adams Park 1, 2244 BZ Wassenaar. Tel: +31-70-310-2209. For emergencies involving U.S. citizens: +31-70-310-2999."
+  },
+  "faq": [
+    {
+      "q": "Is Amsterdam safe for tourists?",
+      "a": "Yes, Amsterdam is very safe for tourists, ranking among the world's top cities for safety. The main risks are petty crimes like pickpocketing in crowded tourist areas, while violent crime is extremely rare."
+    },
+    {
+      "q": "Is Amsterdam safe at night?",
+      "a": "Amsterdam is generally safe at night with good lighting and police presence in main areas. Stick to well-lit streets, use public transport or official taxis, and exercise normal caution especially around the Red Light District late at night."
+    },
+    {
+      "q": "Is Amsterdam safe for solo female travelers?",
+      "a": "Absolutely. Amsterdam ranks 4th globally for personal safety and is considered one of the best cities for solo female travel. The progressive culture, excellent transport, and low crime rates create a very welcoming environment for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Amsterdam?",
+      "a": "Most areas are safe, but exercise extra caution in Bijlmer (southeastern district) which has higher crime rates. In tourist areas, watch for pickpockets around Central Station, Dam Square, and crowded tram stops."
+    },
+    {
+      "q": "Is it safe to use public transport in Amsterdam?",
+      "a": "Yes, Amsterdam's public transport is very safe with modern systems, surveillance cameras, and regular security patrols. The GVB network of trams, metros, buses and ferries is reliable and well-maintained with English language support."
+    }
+  ],
+  "relatedCities": [
+    "rotterdam",
+    "the-hague",
+    "brussels",
+    "berlin",
+    "london"
+  ],
+  "_city_id": "amsterdam-netherlands"
+}

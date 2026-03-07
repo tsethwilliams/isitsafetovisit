@@ -1,0 +1,159 @@
+{
+  "slug": "berlin",
+  "name": "Berlin",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 8.4
+  },
+  "summary": "Berlin is generally safe for tourists with low violent crime rates and excellent public safety infrastructure. The main concerns are petty theft, pickpocketing in tourist areas, and occasional distraction scams targeting visitors.",
+  "quickVerdict": "Berlin ranks as one of Europe's safer capital cities with minimal violent crime and a strong police presence. While petty crime like pickpocketing occurs in crowded tourist areas and some neighborhoods require extra caution at night, the city maintains excellent public safety standards. Solo travelers, including women, generally feel secure using public transport and exploring most areas during both day and night hours.",
+  "neighborhoods": [
+    {
+      "name": "Mitte",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central district with major attractions like Brandenburg Gate. Well-policed and busy but watch for pickpockets near tourist sites."
+    },
+    {
+      "name": "Prenzlauer Berg",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Trendy residential area popular with families and young professionals. Very safe day and night with good lighting and foot traffic."
+    },
+    {
+      "name": "Charlottenburg",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale western district with shopping and cultural attractions. Generally very safe with minimal crime reports."
+    },
+    {
+      "name": "Kreuzberg",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Vibrant multicultural area with active nightlife. Safe during day but exercise caution at night, especially around Görli Park."
+    },
+    {
+      "name": "Neukölln",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Hip but gritty area undergoing gentrification. Some streets unsafe at night, drug activity reported in certain areas."
+    },
+    {
+      "name": "Wedding",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Working-class district with higher crime rates. Avoid walking alone at night, some streets have gang activity and drug problems."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Petition Scam",
+      "risk": "high",
+      "description": "People with clipboards ask you to sign petitions for fake charities, then pressure for donations while accomplices pickpocket you.",
+      "howToAvoid": "Never sign petitions from strangers on the street. Politely decline and walk away quickly."
+    },
+    {
+      "name": "Shell Game",
+      "risk": "medium",
+      "description": "Street gambling games near tourist sites like East Side Gallery with fake bystanders encouraging you to bet.",
+      "howToAvoid": "Avoid any street gambling completely. The games are rigged and bystanders are often accomplices."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Someone spills something on you or creates a distraction while accomplices steal from your pockets or bags.",
+      "howToAvoid": "Stay alert in crowded areas, keep valuables secure, and be suspicious of anyone who approaches you unexpectedly."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers or those claiming broken meters charge excessive fares, especially from airports.",
+      "howToAvoid": "Use official licensed taxis, ride-sharing apps, or public transport. Always insist the meter is running."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Berlin is very safe for solo female travelers with low harassment rates and generally respectful locals. The city has excellent public transport safety and good police presence. Most women report feeling comfortable walking alone during the day and in well-lit, populated areas at night.",
+    "tips": [
+      "Avoid empty streets in Neukölln and Wedding districts after dark",
+      "Stay in well-populated areas when using public transport at night",
+      "Be extra cautious around party areas late at night when people may be intoxicated"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Berlin has a vibrant and generally safe nightlife with 24-hour public transport and well-lit main areas. The city's party culture is inclusive and welcoming, with locals typically looking out for each other. However, some outer districts require extra caution after dark.",
+    "tips": [
+      "Stick to popular, well-lit areas and main thoroughfares",
+      "Use official transport options rather than walking alone in quiet areas",
+      "Stay alert in crowded bars and clubs for potential pickpockets"
+    ]
+  },
+  "transport": {
+    "metro": "Berlin's U-Bahn and S-Bahn are very safe and reliable with security cameras, regular patrols, and emergency call points. Service runs 24/7 on weekends and until 1 AM on weekdays with night bus connections.",
+    "rideshare": "Uber and local apps like FREE NOW operate safely. Always verify license plate and driver details before getting in the vehicle.",
+    "taxis": "Official licensed taxis are safe and regulated. Look for the illuminated taxi sign on top and ensure the meter is running to avoid overcharging.",
+    "tips": "Public transport is the safest and most efficient option. Keep tickets validated and belongings secure in crowded areas."
+  },
+  "customs": [
+    "Germans value punctuality highly - always be on time for appointments and tours",
+    "Greet people with a firm handshake and use formal titles (Herr/Frau) until invited to use first names",
+    "Maintain eye contact when toasting and say 'Prost' - avoiding eye contact is considered bad luck"
+  ],
+  "health": {
+    "overview": "Germany has one of the world's best healthcare systems with excellent medical facilities. Berlin hosts Europe's largest university hospital, Charité, and numerous high-quality clinics.",
+    "water": "Tap water is completely safe to drink throughout Berlin and meets strict EU quality standards.",
+    "vaccinations": "No special vaccinations required for travelers from most countries. Routine vaccines should be up to date.",
+    "altitude": "Berlin is at sea level with a temperate climate. No altitude concerns. Weather can be unpredictable so pack layers."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "+49-30-8305-0 (after calling local authorities first). Located at Clayallee 170, 14195 Berlin."
+  },
+  "faq": [
+    {
+      "q": "Is Berlin safe for tourists?",
+      "a": "Yes, Berlin is very safe for tourists with low crime rates and excellent infrastructure. Main concerns are petty theft in tourist areas - just use common sense precautions."
+    },
+    {
+      "q": "Is Berlin safe at night?",
+      "a": "Berlin is generally safe at night, especially in central areas and popular districts. The nightlife areas are well-patrolled and the 24/7 public transport makes getting around easy."
+    },
+    {
+      "q": "Is Berlin safe for solo female travelers?",
+      "a": "Yes, Berlin is very safe for solo women with low harassment rates and respectful locals. Most solo female travelers report feeling comfortable and secure throughout the city."
+    },
+    {
+      "q": "What areas should I avoid in Berlin?",
+      "a": "Exercise extra caution in Wedding and some parts of Neukölln at night. Avoid Görli Park after dark and empty side streets in less central areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Berlin?",
+      "a": "Yes, Berlin's public transport is very safe with security cameras, regular patrols, and reliable service. It's actually the safest way to get around the city, even at night."
+    }
+  ],
+  "relatedCities": [
+    "munich",
+    "hamburg",
+    "cologne",
+    "vienna",
+    "amsterdam"
+  ],
+  "_city_id": "berlin-germany"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "rome",
+  "name": "Rome",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 8.2,
+    "scamRisk": 5.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 7.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "Rome is generally safe for tourists with very low violent crime rates and good infrastructure, but requires vigilance against pickpocketing, tourist scams, and crowded area theft. The city ranks as Italy's second-highest for crime per capita, though most incidents are petty crimes targeting visitors.",
+  "quickVerdict": "Rome offers a relatively safe experience for tourists with proper awareness and precautions. While violent crime is extremely rare with only 0.7 homicides per 100,000 residents, petty theft and tourist-targeted scams are common, especially around major attractions, public transport, and Termini Station. The city has enhanced security for the 2025 Jubilee Year, and most safety concerns can be mitigated through basic street smarts and staying alert in crowded areas.",
+  "neighborhoods": [
+    {
+      "name": "Centro Storico",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Rome's historic center is well-patrolled and tourist-friendly with good lighting, heavy foot traffic, and regular police presence. Home to major attractions like the Pantheon and Trevi Fountain."
+    },
+    {
+      "name": "Trastevere",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Charming neighborhood with cobblestone streets, excellent restaurants, and vibrant nightlife. Generally safe but watch for pickpockets during busy evening hours."
+    },
+    {
+      "name": "Vatican Area/Prati",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale area near Vatican City with excellent safety record, well-lit streets, and strong security presence. One of Rome's safest neighborhoods for tourists."
+    },
+    {
+      "name": "Monti",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Hip neighborhood near the Colosseum with boutique shops and trendy bars. Generally safe but can get crowded during peak tourist hours."
+    },
+    {
+      "name": "Termini Station Area",
+      "score": 4.0,
+      "class": "danger",
+      "description": "High crime area with frequent pickpocketing, scams, and petty theft. Avoid lingering here at night and stay alert during day visits. Police have increased patrols for 2025."
+    },
+    {
+      "name": "San Lorenzo",
+      "score": 5.5,
+      "class": "caution",
+      "description": "University district with active nightlife but higher crime rates after dark. Stick to main streets and avoid isolated areas at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Friendship Bracelet Scam",
+      "risk": "high",
+      "description": "Men approach tourists claiming to give free friendship bracelets, then tie them on your wrist and demand payment. Once tied on, they become aggressive if you refuse to pay.",
+      "howToAvoid": "Firmly say no to any unsolicited gifts. Keep hands away and walk into a shop or café if pressured. Never accept anything for free from strangers."
+    },
+    {
+      "name": "Fake Gladiators at Colosseum",
+      "risk": "high",
+      "description": "People dressed as Roman gladiators near the Colosseum offer photo opportunities, then aggressively demand 20-50 euros per person after the photo is taken.",
+      "howToAvoid": "Politely decline photo offers from costumed performers. These are not official and you have no obligation to pay. Walk away if approached."
+    },
+    {
+      "name": "Restaurant Tourist Traps",
+      "risk": "medium",
+      "description": "Restaurants near major attractions charge excessive cover charges, add fake menu items like double cappuccino, or inflate bills for obvious tourists.",
+      "howToAvoid": "Check menus for prices and coperto charges before sitting. Avoid restaurants with touts outside or menus in multiple languages with photos. Ask for itemized bills."
+    },
+    {
+      "name": "Taxi Meter Scam",
+      "risk": "medium",
+      "description": "Some taxi drivers refuse to use the meter or claim it's broken, then charge inflated fixed rates, especially from airports or tourist areas.",
+      "howToAvoid": "Insist on the meter being turned on or agree on price before getting in. Use official white taxis with TAXI signs. Airport rides have fixed rates: 48 euros from Fiumicino, 30 euros from Ciampino."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Rome is generally safe for solo female travelers with proper precautions. The city ranks well on international safety indices and violent crime against tourists is rare. Women should be aware of occasional catcalling, which is largely harmless but can be uncomfortable. Stay alert in crowded areas, avoid isolated streets at night, and trust your instincts.",
+    "tips": [
+      "Stay in well-lit central areas like Centro Storico, Trastevere, or Vatican area",
+      "Use official taxis with meters or ride-hailing apps, especially at night",
+      "Dress modestly when visiting churches - cover shoulders and knees",
+      "Be aware that unaccompanied women get 10% taxi discount between 10pm-6am",
+      "Trust your gut feeling - if something feels off, go into a shop or restaurant"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Rome is moderately safe at night in central tourist areas, which remain well-lit and patrolled. However, certain areas like Termini Station, San Lorenzo, and peripheral neighborhoods should be avoided after dark. The city comes alive in evenings with locals enjoying la passeggiata, providing natural foot traffic and safety in numbers.",
+    "tips": [
+      "Stick to well-lit main streets and avoid shortcuts through dark alleys",
+      "Avoid Termini Station area and San Lorenzo neighborhood at night",
+      "Use official taxis or rideshare apps rather than walking alone late at night",
+      "Stay in groups when possible and let someone know your plans",
+      "Be extra cautious around bars and clubs - drink spiking incidents have been reported"
+    ]
+  },
+  "transport": {
+    "metro": "Rome's metro system has 3 lines (A, B, C) serving key tourist areas. Generally safe but watch for pickpockets, especially on crowded Line B and during rush hours. Stations are well-lit with security cameras. System sometimes has closures during summer maintenance.",
+    "rideshare": "Uber operates in Rome but only premium services like Uber Black are available, making it more expensive than taxis. Alternative apps like FREE NOW are more common and cost-effective. All major rideshare apps have safety features and digital payment.",
+    "taxis": "Official white taxis with TAXI signs are generally safe and honest. Fixed rates apply from airports (48 euros from Fiumicino, 30 euros from Ciampino). Always insist on the meter for other trips. Taxis are harder to hail on streets - use taxi stands or call 06-3570.",
+    "tips": "Public transport is extensive and affordable with integrated tickets. Always validate tickets to avoid 100 euro fines. Walking remains the best option in the historic center due to traffic and proximity of attractions."
+  },
+  "customs": [
+    "Greet with buongiorno (good morning) or buonasera (good evening) and maintain eye contact",
+    "Dress appropriately - Italians value style and appearance, avoid overly casual tourist clothing",
+    "No cappuccino after 11am - Italians consider milk-based coffee drinks breakfast only",
+    "Dinner starts late (7:30pm earliest) - restaurants may not serve earlier, especially in summer",
+    "Cover shoulders and knees when entering churches - carry a scarf or shawl for modesty"
+  ],
+  "health": {
+    "overview": "Rome has excellent healthcare infrastructure with both public and private options. The city's healthcare system is well-equipped to handle tourist needs, from minor injuries to serious medical emergencies.",
+    "water": "Tap water is completely safe to drink throughout Rome. The city has numerous public fountains (nasoni) providing free, potable water - just cup your hands rather than drinking directly from the spout.",
+    "vaccinations": "No special vaccinations required for Italy. Standard travel insurance is recommended. EU citizens should bring European Health Insurance Card (EHIC).",
+    "altitude": "Rome is at sea level with a Mediterranean climate. Summer temperatures can exceed 104°F (40°C) with high humidity. Stay hydrated, avoid midday sun, and be aware of heat exhaustion during the 2025 Jubilee year's large crowds."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "06 6729 5287",
+    "usEmbassy": "US Embassy Rome: +39 06 46741, Via Veneto 121, 00187 Rome"
+  },
+  "faq": [
+    {
+      "q": "Is Rome safe for tourists?",
+      "a": "Yes, Rome is generally safe for tourists. While it ranks second in Italy for crime rate, most incidents are petty crimes like pickpocketing. Violent crime is extremely rare with only 0.7 homicides per 100,000 residents, among the lowest of European capitals."
+    },
+    {
+      "q": "Is Rome safe at night?",
+      "a": "Rome is moderately safe at night in central, well-lit areas like Centro Storico and Trastevere. Avoid the Termini Station area, San Lorenzo, and peripheral neighborhoods after dark. Use official taxis or rideshare apps for late-night transport."
+    },
+    {
+      "q": "Is Rome safe for solo female travelers?",
+      "a": "Yes, Rome is generally safe for solo female travelers. The city ranks 29th on the Economist's Safe Cities Index. Stay in central areas, use common sense precautions, and be aware that occasional catcalling occurs but is largely harmless."
+    },
+    {
+      "q": "What areas should I avoid in Rome?",
+      "a": "Exercise caution around Termini Station, especially at night. Avoid peripheral areas like San Basilio, Tor Bella Monaca, and Corviale. San Lorenzo can be risky after dark. Stay vigilant in crowded tourist areas where pickpockets operate."
+    },
+    {
+      "q": "Is it safe to use public transport in Rome?",
+      "a": "Yes, Rome's public transport is generally safe. The metro, buses, and trams are well-used by locals and tourists. Watch for pickpockets during rush hours and on crowded Line B. Always validate tickets to avoid fines and keep belongings secure."
+    }
+  ],
+  "relatedCities": [
+    "florence",
+    "naples",
+    "milan",
+    "venice"
+  ],
+  "_city_id": "rome-italy"
+}
