@@ -551,7 +551,23 @@ def check_alerts(client, cities: list[dict]) -> list[dict]:
     """Check for breaking safety events across all cities."""
     logging.info(f"Checking alerts for {len(cities)} cities")
 
-    city_list = ", ".join([f"{c['name']} ({c['country']})" for c in cities[:50]])
+    # Handle both old format (city_id) and new format (name/country)
+    city_names = []
+    for c in cities[:50]:
+        name = c.get('name', '')
+        country = c.get('country', '')
+        if not name:
+            # Try to extract from city_id or slug
+            city_id = c.get('city_id', c.get('slug', ''))
+            name = city_id.replace('-', ' ').title() if city_id else 'Unknown'
+        if name and name != 'Unknown':
+            city_names.append(f"{name} ({country})" if country else name)
+
+    if not city_names:
+        logging.info("No valid cities to check alerts for")
+        return []
+
+    city_list = ", ".join(city_names)
 
     prompt = f"""Check for any breaking safety events in the last 48 hours
 that would affect travelers in these cities:
