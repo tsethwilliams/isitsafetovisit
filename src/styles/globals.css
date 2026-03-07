@@ -314,3 +314,26 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
   background: #00224f; 
   color: #fff; 
 } 
+ 
+/* NordVPN Affiliate Styles */ 
+.nordvpn-sidebar-box { 
+  border-left: 4px solid #4687ff; 
+} 
+ 
+.nordvpn-btn { 
+  background: #4687ff; 
+  color: #fff; 
+  display: block; 
+  text-align: center; 
+  padding: 0.75rem 1.25rem; 
+  border-radius: 8px; 
+  text-decoration: none; 
+  font-weight: 700; 
+  font-size: 0.9rem; 
+  transition: background 0.2s; 
+} 
+ 
+.nordvpn-btn:hover { 
+  background: #3366cc; 
+  color: #fff; 
+} 

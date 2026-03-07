@@ -206,6 +206,13 @@ export default function CityPage({ params }: { params: { slug: string } }) {
               <p className="affiliate-disclaimer">Affiliate link &mdash; we may earn a commission at no cost to you</p>
             </div>
 
+            <div className="affiliate-box nordvpn-sidebar-box">
+              <h4>{'\uD83D\uDD12'} Protect Your Data Abroad</h4>
+              <p>Public WiFi at hotels, airports, and cafes can expose your data. A VPN keeps you safe on any network.</p>
+              <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142230&url_id=902" target="_blank" rel="noopener noreferrer nofollow" className="affiliate-btn nordvpn-btn">Get NordVPN</a>
+              <p className="affiliate-disclaimer">Affiliate link &mdash; we may earn a commission at no cost to you</p>
+            </div>
+
             {related.length > 0 && (
               <div className="sidebar-card">
                 <h4>Nearby City Guides</h4>
