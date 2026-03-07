@@ -337,3 +337,538 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
   background: #3366cc; 
   color: #fff; 
 } 
+
+/* ============================================================
+   ABOUT PAGE
+   ============================================================ */
+
+.about-hero {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 3rem 0 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.about-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.8rem;
+  margin: 0 0 0.5rem;
+  color: var(--paper);
+}
+
+.about-subtitle {
+  font-size: 1.15rem;
+  opacity: 0.8;
+  margin: 0;
+}
+
+.about-content {
+  max-width: 740px;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+}
+
+.about-section {
+  margin-bottom: 3rem;
+}
+
+.about-section h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.8rem;
+  color: var(--ink);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.about-section p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--ink-light);
+  margin-bottom: 1rem;
+}
+
+.about-categories {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.about-category-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1rem;
+  background: var(--paper-warm);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.about-category-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.about-category-item strong {
+  display: block;
+  font-size: 1rem;
+  color: var(--ink);
+  margin-bottom: 0.25rem;
+}
+
+.about-category-item p {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.about-score-guide {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.about-score-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 4px solid;
+}
+
+.about-score-item.safe {
+  background: #f0faf5;
+  border-left-color: var(--safe-green);
+}
+
+.about-score-item.caution {
+  background: #fdf8ec;
+  border-left-color: var(--caution-amber);
+}
+
+.about-score-item.danger {
+  background: #fdf1f0;
+  border-left-color: var(--danger-red);
+}
+
+.about-score-range {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  white-space: nowrap;
+  min-width: 80px;
+  color: var(--ink);
+}
+
+.about-score-item strong {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.about-score-item p {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.about-sources-list {
+  padding-left: 1.5rem;
+  margin-top: 0.75rem;
+}
+
+.about-sources-list li {
+  font-size: 1rem;
+  color: var(--ink-light);
+  line-height: 1.7;
+  margin-bottom: 0.4rem;
+}
+
+.about-disclaimer {
+  background: var(--paper-warm);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--caution-amber);
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  margin-top: 1rem;
+}
+
+/* ============================================================
+   REGIONS PAGE
+   ============================================================ */
+
+.regions-hero {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 3rem 0 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.regions-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.8rem;
+  margin: 0 0 0.5rem;
+  color: var(--paper);
+}
+
+.regions-subtitle {
+  font-size: 1.1rem;
+  opacity: 0.75;
+  margin: 0;
+}
+
+.regions-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding-bottom: 4rem;
+}
+
+.region-section {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.region-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--paper-warm);
+  border-bottom: 1px solid var(--border);
+}
+
+.region-emoji {
+  font-size: 2rem;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.region-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.6rem;
+  color: var(--ink);
+  margin: 0 0 0.2rem;
+}
+
+.region-description {
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+  margin: 0 0 0.4rem;
+}
+
+.region-count {
+  font-size: 0.8rem;
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--ink-muted);
+  background: var(--border);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+}
+
+.region-cities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0;
+}
+
+.region-city-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem 1.25rem;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  transition: background 0.15s;
+  background: white;
+}
+
+.region-city-card:hover {
+  background: var(--paper-warm);
+}
+
+.region-city-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.region-city-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.region-city-score {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.region-city-score.score-safe { color: var(--safe-green); }
+.region-city-score.score-caution { color: var(--caution-amber); }
+.region-city-score.score-danger { color: var(--danger-red); }
+
+.region-city-country {
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+}
+
+.region-city-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.2rem 0.5rem;
+  border-radius: 20px;
+  width: fit-content;
+}
+
+.badge-safe { background: #e6f4ee; color: var(--safe-green); }
+.badge-caution { background: #fdf3d8; color: var(--caution-amber); }
+.badge-danger { background: #fde8e7; color: var(--danger-red); }
+
+/* ============================================================
+   SCAMS PAGE
+   ============================================================ */
+
+.scams-hero {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 3rem 0 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.scams-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.6rem;
+  margin: 0 0 0.5rem;
+  color: var(--paper);
+}
+
+.scams-subtitle {
+  font-size: 1.1rem;
+  opacity: 0.8;
+  max-width: 600px;
+  margin: 0;
+}
+
+.scams-layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 2.5rem;
+  align-items: start;
+  padding-bottom: 4rem;
+}
+
+@media (max-width: 900px) {
+  .scams-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.scams-intro {
+  background: var(--paper-warm);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.scams-intro p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--ink-light);
+  margin-bottom: 0.75rem;
+}
+
+.scams-intro p:last-child { margin-bottom: 0; }
+
+.scams-main h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.8rem;
+  color: var(--ink);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.scams-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.scam-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  background: white;
+}
+
+.scam-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.scam-name {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.2rem;
+  color: var(--ink);
+  margin: 0;
+}
+
+.scam-risk {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.6rem;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.risk-danger { background: #fde8e7; color: var(--danger-red); }
+.risk-caution { background: #fdf3d8; color: var(--caution-amber); }
+.risk-safe { background: #e6f4ee; color: var(--safe-green); }
+
+.scam-description {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--ink-light);
+  margin-bottom: 0.75rem;
+}
+
+.scam-avoid {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink-light);
+  background: #f0faf5;
+  border-left: 3px solid var(--safe-green);
+  padding: 0.75rem 1rem;
+  border-radius: 0 6px 6px 0;
+}
+
+.scam-avoid strong {
+  color: var(--safe-green);
+}
+
+.scams-tips-section {
+  margin-bottom: 2.5rem;
+}
+
+.scams-tips-section h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.8rem;
+  color: var(--ink);
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.scams-tips-list {
+  padding-left: 1.5rem;
+}
+
+.scams-tips-list li {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ink-light);
+  margin-bottom: 0.75rem;
+}
+
+.scam-vpn-cta {
+  background: #1a1a2e;
+  border-radius: 12px;
+  padding: 2rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.vpn-cta-content h3 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.4rem;
+  color: white;
+  margin: 0 0 0.75rem;
+}
+
+.vpn-cta-content p {
+  font-size: 0.95rem;
+  opacity: 0.85;
+  line-height: 1.65;
+  margin-bottom: 1.25rem;
+}
+
+.scams-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  position: sticky;
+  top: 1.5rem;
+}
+
+.sidebar-city-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.sidebar-city-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.sidebar-city-item:last-child {
+  border-bottom: none;
+}
+
+.sidebar-city-item:hover .sidebar-city-name {
+  color: var(--accent);
+}
+
+.sidebar-city-name {
+  font-size: 0.9rem;
+  color: var(--ink);
+}
+
+.sidebar-city-score {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.sidebar-widget-desc {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin-bottom: 0.75rem;
+}
+
+.sidebar-browse-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.sidebar-browse-link:hover {
+  text-decoration: underline;
+}
