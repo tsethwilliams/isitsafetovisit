@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IsItSafeToVisit.com — City Safety Automation Agent
+IsItSafeToVisit.com â City Safety Automation Agent
 ===================================================
 Powered by Claude Code / Anthropic API
 
@@ -20,13 +20,13 @@ Usage:
   python agent.py --mode single --city "Tokyo, Japan"  # Process single city
 
 Scheduling (cron examples):
-  # Full pipeline — weekly on Sunday at 2 AM
+  # Full pipeline â weekly on Sunday at 2 AM
   0 2 * * 0 cd /path/to/project && python agent.py --mode full
 
-  # Alert monitoring — every 6 hours
+  # Alert monitoring â every 6 hours
   0 */6 * * * cd /path/to/project && python agent.py --mode alert
 
-  # Stale city refresh — daily at 3 AM
+  # Stale city refresh â daily at 3 AM
   0 3 * * * cd /path/to/project && python agent.py --mode refresh
 """
 
@@ -272,7 +272,7 @@ Your job is to produce comprehensive, accurate, and actionable safety assessment
 CRITICAL RULES:
 1. Be factual and evidence-based. Use data you find but write in your own words.
 2. Score on a 1-10 scale where 10 = safest.
-3. Be balanced — acknowledge both risks and positive safety factors.
+3. Be balanced â acknowledge both risks and positive safety factors.
 4. Include practical, actionable advice travelers can use.
 5. Never minimize real dangers, but don't fear-monger either.
 6. Consider different traveler profiles (solo, female, LGBTQ+, families).
@@ -351,7 +351,7 @@ CRITICAL RULES:
 5. Update the "recent_incidents" section with anything from the last 90 days.
 
 OUTPUT FORMAT: You MUST respond with ONLY valid JSON matching the city schema.
-No markdown, no explanations — just the JSON object."""
+No markdown, no explanations â just the JSON object."""
 
 
 SYSTEM_PROMPT_ALERT = """You are a breaking-news safety monitor for IsItSafeToVisit.com.
@@ -702,7 +702,7 @@ def run_refresh(client):
         if updated:
             save_city(updated)
             log_change("refresh", city["city_id"],
-                       f"Score: {city.get('overall_safety_score', '?')} → {updated.get('overall_safety_score', '?')}")
+                       f"Score: {city.get('overall_safety_score', '?')} â {updated.get('overall_safety_score', '?')}")
 
 
 def run_add_cities(client):
@@ -829,12 +829,12 @@ def run_rankings():
     # Save rankings summary
     CONFIG["rankings_file"].parent.mkdir(parents=True, exist_ok=True)
     rankings_summary = [{
-        "rank": c["global_rank"],
-        "city_id": c["city_id"],
-        "name": c["name"],
-        "country": c["country"],
-        "score": c["overall_safety_score"],
-        "tier": c["safety_tier"],
+        "rank": c.get("global_rank", 0),
+        "city_id": c.get("city_id", c.get("slug", "unknown")),
+        "name": c.get("name", c.get("city_id", c.get("slug", "unknown")).replace("-", " ").title()),
+        "country": c.get("country", ""),
+        "score": c.get("overall_safety_score", c.get("overallScore", 0)),
+        "tier": c.get("safety_tier", c.get("badgeClass", "unknown")),
         "trending": c.get("trending", "stable"),
     } for c in ranked]
 
@@ -1026,7 +1026,7 @@ def main():
     args = parser.parse_args()
 
     setup_logging()
-    logging.info(f"Agent starting — mode: {args.mode}")
+    logging.info(f"Agent starting â mode: {args.mode}")
 
     if args.mode == "seed":
         generate_seed_queue()
