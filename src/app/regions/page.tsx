@@ -3,7 +3,7 @@ import cityData from '@/lib/city-data.json'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Travel Safety by Region â IsItSafeToVisit.com',
+  title: 'Travel Safety by Region — IsItSafeToVisit.com',
   description: 'Browse travel safety guides by world region. Safety ratings for cities in Europe, Asia, Latin America, Africa, the Middle East, and more.',
 }
 
@@ -16,14 +16,14 @@ interface City {
 }
 
 const REGION_META: Record<string, { emoji: string; description: string }> = {
-  'Europe': { emoji: 'ð°', description: 'From Western European capitals to emerging Eastern European gems â safety intel for the continent.' },
-  'Asia': { emoji: 'ð¯', description: 'Southeast Asia, East Asia, South Asia and beyond â comprehensive guides across the world largest continent.' },
-  'Latin America': { emoji: 'ð', description: 'Mexico, Central America, South America, and the Caribbean â honest safety assessments for one of the most popular travel regions.' },
-  'North America': { emoji: 'ð½', description: 'United States, Canada, and Mexico â city-level safety guides for destinations across the continent.' },
-  'Middle East': { emoji: 'ð', description: 'Safety guides for cities across the Arabian Peninsula, Levant, and broader Middle East region.' },
-  'Africa': { emoji: 'ð¦', description: 'From North African medinas to Southern African safari capitals â safety intelligence across a diverse continent.' },
-  'Oceania': { emoji: 'ð¦', description: 'Australia, New Zealand, and Pacific island destinations â guides for the world most remote region.' },
-  'Caribbean': { emoji: 'ð´', description: 'Island-by-island safety breakdowns for the Caribbean most visited destinations.' },
+  'Europe': { emoji: '🏰', description: 'From Western European capitals to emerging Eastern European gems — safety intel for the continent.' },
+  'Asia': { emoji: '🏯', description: 'Southeast Asia, East Asia, South Asia and beyond — comprehensive guides across the world largest continent.' },
+  'Latin America': { emoji: '🌎', description: 'Mexico, Central America, South America, and the Caribbean — honest safety assessments for one of the most popular travel regions.' },
+  'North America': { emoji: '🗽', description: 'United States, Canada, and Mexico — city-level safety guides for destinations across the continent.' },
+  'Middle East': { emoji: '🕌', description: 'Safety guides for cities across the Arabian Peninsula, Levant, and broader Middle East region.' },
+  'Africa': { emoji: '🦁', description: 'From North African medinas to Southern African safari capitals — safety intelligence across a diverse continent.' },
+  'Oceania': { emoji: '🦘', description: 'Australia, New Zealand, and Pacific island destinations — guides for the world most remote region.' },
+  'Caribbean': { emoji: '🌴', description: 'Island-by-island safety breakdowns for the Caribbean most visited destinations.' },
 }
 
 function getScoreColor(score: number): string {
@@ -33,7 +33,7 @@ function getScoreColor(score: number): string {
 }
 
 export default function RegionsPage() {
-  const cities = cityData as City[]
+  const cities = cityData as unknown as City[]
   const regionMap: Record<string, City[]> = {}
   for (const city of cities) {
     const region = city.region || 'Other'
@@ -46,7 +46,7 @@ export default function RegionsPage() {
     <main className="regions-page">
       <div className="page-hero">
         <div className="container">
-          <div className="breadcrumb"><a href="/">Home</a><span>âº</span><span>Regions</span></div>
+          <div className="breadcrumb"><a href="/">Home</a><span>›</span><span>Regions</span></div>
           <h1>Travel Safety by Region</h1>
           <p className="hero-subtitle">Browse safety guides for <strong>{cities.length}+ cities</strong> across {sortedRegions.length} world regions.</p>
         </div>
@@ -54,7 +54,7 @@ export default function RegionsPage() {
       <div className="container page-content">
         <div className="regions-grid">
           {sortedRegions.map(([region, regionCities]) => {
-            const meta = REGION_META[region] || { emoji: 'ð', description: `Travel safety guides for cities in ${region}.` }
+            const meta = REGION_META[region] || { emoji: '🌐', description: `Travel safety guides for cities in ${region}.` }
             const topCities = [...regionCities].sort((a, b) => b.overallScore - a.overallScore).slice(0, 6)
             return (
               <section key={region} className="region-card">
