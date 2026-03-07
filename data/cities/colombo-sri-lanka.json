@@ -1,0 +1,164 @@
+{
+  "slug": "colombo",
+  "name": "Colombo",
+  "country": "Sri Lanka",
+  "countryCode": "LK",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 6.8,
+    "naturalHazards": 7.0
+  },
+  "summary": "Colombo is generally safe for tourists with low violent crime rates but moderate risks from petty crime and scams. The recent Cyclone Ditwah has been managed, and tourism infrastructure has significantly improved following major international sporting events.",
+  "quickVerdict": "Sri Lanka's commercial capital offers a relatively safe environment for visitors, with the US State Department maintaining a Level 2 'Exercise Increased Caution' advisory. While petty crime and tourist-targeted scams are the primary concerns, violent crime against tourists is rare. The city's tourism infrastructure has notably improved following the T20 Cricket World Cup, with enhanced security measures and better tourist support systems. Solo female travelers report generally positive experiences, though standard precautions are advised.",
+  "neighborhoods": [
+    {
+      "name": "Colombo 07 (Cinnamon Gardens)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale diplomatic quarter with embassies, high-end restaurants, and excellent security. Well-lit streets and regular police presence make this one of the safest areas."
+    },
+    {
+      "name": "Colombo 03 (Kollupitiya)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Tourist-friendly area near Galle Face Green with good hotels, restaurants, and shopping. Generally safe with adequate lighting and security."
+    },
+    {
+      "name": "Colombo 01 (Fort)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Historic commercial district with major landmarks and transport hubs. Safe during day but can feel deserted at night. Some tourist police presence."
+    },
+    {
+      "name": "Colombo 04 (Bambalapitiya)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with good accessibility. Generally safe but less tourist infrastructure than central areas."
+    },
+    {
+      "name": "Colombo 02 (Slave Island)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Developing area with some budget accommodations. Generally safe but less policing and can be crowded. Avoid walking alone at night."
+    },
+    {
+      "name": "Pettah Market Area",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Busy commercial district with markets and transport hubs. High risk of pickpocketing, overcharging, and harassment. Crowded conditions and aggressive vendors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tuk-tuk Overcharging",
+      "risk": "high",
+      "description": "Drivers quote inflated prices or claim broken meters, even when using mobile apps. Some demand cash despite app bookings.",
+      "howToAvoid": "Use PickMe or Uber apps for fixed pricing. Agree on price before riding. Carry exact change and insist on app-based payments."
+    },
+    {
+      "name": "Fake Guide & Temple Scam",
+      "risk": "high",
+      "description": "Friendly locals approach claiming special temple events or gem sales, leading to overpriced restaurants or fake shopping experiences.",
+      "howToAvoid": "Ignore unsolicited approaches. Book tours through reputable agencies. Never follow strangers claiming special events or sales."
+    },
+    {
+      "name": "Hotel Area Imposters",
+      "risk": "medium",
+      "description": "Scammers pose as hotel staff or managers around tourist hotels to gain trust, then lead tourists to overpriced establishments.",
+      "howToAvoid": "Verify staff identity with hotel reception. Never follow anyone claiming to be hotel staff without verification."
+    },
+    {
+      "name": "Credit Card Fraud",
+      "risk": "medium",
+      "description": "Card information duplication and inflated charges at some establishments, particularly smaller shops and restaurants.",
+      "howToAvoid": "Use cash where possible. Keep cards in sight during transactions. Check statements regularly. Use hotel safes for valuables."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Colombo is generally safe with standard precautions. Most harassment consists of staring and unwanted attention rather than serious threats. The tourism infrastructure improvements following international events have enhanced safety measures. Tourist police are present in major areas and English-speaking officers are available.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially outside tourist areas",
+      "Use PickMe or hotel-arranged transport rather than street tuk-tuks, particularly at night",
+      "Stay in well-reviewed accommodations in safer areas like Cinnamon Gardens or Kollupitiya",
+      "Be firm but polite when declining unwanted attention or services",
+      "Keep the tourist police number (1912) saved and trust your instincts if situations feel uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Colombo's nightlife is generally safe in established venues, but walking alone at night is not recommended. The city has improved security around tourist areas, and reputable clubs and bars maintain good safety standards. However, street crime increases after dark, and transportation becomes more challenging.",
+    "tips": [
+      "Use PickMe, hotel taxis, or reputable transport services rather than walking at night",
+      "Stick to well-lit, populated areas and established venues",
+      "Travel in groups when possible and inform someone of your plans",
+      "Watch your drinks carefully and don't leave them unattended",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "Colombo has no metro system. Public buses are discouraged for tourists due to dangerous driving, overcrowding, and theft risks.",
+    "rideshare": "PickMe is the dominant app, working better than Uber with more drivers and competitive pricing. Both offer tuk-tuks and cars with fixed pricing and driver tracking.",
+    "taxis": "Official metered taxis are available but rates vary by company. Airport taxis have fixed counters. Street-hailed vehicles may overcharge tourists significantly.",
+    "tips": "Always use PickMe or Uber for transparency and safety. Avoid public buses entirely. For airport transfers, book in advance or use official counters. Carry exact change and agree on prices beforehand if not using apps."
+  },
+  "customs": [
+    "Remove shoes before entering temples, homes, and some shops",
+    "Dress modestly covering shoulders and knees, especially at religious sites",
+    "Greet with 'Ayubowan' and palms together, avoid handshakes with opposite gender",
+    "Never point feet toward Buddha statues or use feet to touch anything",
+    "Public displays of affection are discouraged and inappropriate",
+    "Use right hand for giving, receiving, and eating; left hand is considered unclean"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Colombo is reasonable with several good private hospitals, though below Western standards. Public healthcare is free but overcrowded with long waits. English-speaking doctors are available in private facilities.",
+    "water": "Tap water is not safe to drink. Use bottled or properly filtered water. Ice in tourist establishments is generally safe, but avoid it in local eateries.",
+    "vaccinations": "No mandatory vaccines except yellow fever if arriving from endemic areas. Recommended: hepatitis A/B, typhoid, Japanese encephalitis, and ensure routine vaccinations are current.",
+    "altitude": "Colombo is at sea level with tropical climate. High humidity year-round. Monsoon seasons bring heavy rains and flooding risk. Dengue fever is prevalent, especially during rainy season."
+  },
+  "emergency": {
+    "general": "119",
+    "police": "119",
+    "ambulance": "110",
+    "fire": "110",
+    "touristPolice": "1912",
+    "usEmbassy": "US Embassy Colombo: +94 11 249 8500. Address: 210 Galle Road, Colombo 03. For emergencies involving US citizens, contact during office hours or use after-hours emergency line."
+  },
+  "faq": [
+    {
+      "q": "Is Colombo safe for tourists?",
+      "a": "Yes, Colombo is generally safe for tourists. Violent crime against visitors is rare, but petty crime and scams are common. The US State Department rates Sri Lanka as Level 2 (Exercise Increased Caution), mainly due to civil unrest potential rather than tourist-specific threats."
+    },
+    {
+      "q": "Is Colombo safe at night?",
+      "a": "Colombo's nightlife areas are generally safe, but walking alone at night is not recommended. Use PickMe, taxis, or hotel transport after dark. Stick to well-established venues and well-lit areas. Tourist areas have better security than local neighborhoods."
+    },
+    {
+      "q": "Is Colombo safe for solo female travelers?",
+      "a": "Yes, with standard precautions. Solo female travelers report generally positive experiences, though some harassment like staring and unwanted attention occurs. Dress modestly, use reliable transport, stay in good accommodations, and trust your instincts."
+    },
+    {
+      "q": "What areas should I avoid in Colombo?",
+      "a": "Avoid Pettah market area after dark and be extra cautious during the day due to pickpocketing. Be careful in less developed areas of Colombo 02 (Slave Island) and avoid walking alone in poorly lit residential areas at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Colombo?",
+      "a": "Public buses are not recommended for tourists due to dangerous driving, overcrowding, and theft risks. Use PickMe or Uber instead - they're safe, affordable, and reliable. Trains are better but can be very crowded and basic."
+    }
+  ],
+  "relatedCities": [
+    "mumbai",
+    "bangalore",
+    "chennai"
+  ],
+  "_city_id": "colombo-sri-lanka"
+}

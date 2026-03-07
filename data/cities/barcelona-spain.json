@@ -1,0 +1,159 @@
+{
+  "slug": "barcelona",
+  "name": "Barcelona",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 8.0,
+    "scamRisk": 4.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "<cite index=\"2-1,11-16,12-9\">Barcelona maintains a Level 2 travel advisory from the US State Department, with the city considered relatively safe on a global scale but ranking as the 26th highest crime rate in Europe</cite>. <cite index=\"11-17,11-18\">Recent police data shows approximately 105 crimes per 1,000 inhabitants, with pickpocketing accounting for 48.1% of crime in 2023</cite>.",
+  "quickVerdict": "<cite index=\"12-6,25-1,46-5,46-6\">Barcelona is generally safe for tourists but carries the reputation of being Europe's \"pickpocket capital,\" though this label reflects crafty fingers rather than physical danger, with violent crime remaining extremely rare and recent crime statistics showing a 6% decrease last year</cite>. <cite index=\"35-1,57-25\">The primary concern for visitors is non-violent petty theft, particularly in crowded tourist zones, while following basic urban precautions significantly reduces risks</cite>. The city's well-developed infrastructure, excellent healthcare system, and strong police presence in tourist areas make it a manageable destination for safety-conscious travelers.",
+  "neighborhoods": [
+    {
+      "name": "Eixample",
+      "score": 8.5,
+      "class": "safe",
+      "description": "<cite index=\"11-24,42-7,42-8,42-9\">Known for stunning architecture and wide boulevards, Eixample features well-lit streets at night with constant police presence that deters crime</cite>. <cite index=\"48-23,48-24,48-25,48-26\">This upscale, grid-patterned neighborhood offers wide, well-lit streets that enhance security both day and night, with lower theft rates than Old Town areas</cite>."
+    },
+    {
+      "name": "Gracia",
+      "score": 8.0,
+      "class": "safe",
+      "description": "<cite index=\"11-24,42-10,42-11,42-12\">A strong-knit community with cafes and plazas where streets come to life at night as residents gather outdoors to socialize, with friendly and welcoming people</cite>. <cite index=\"46-29,46-30,46-31\">This former village maintains a village-within-a-city feel with narrow, largely pedestrianized streets and community-focused plazas that create natural surveillance, making it a top choice for solo travelers</cite>."
+    },
+    {
+      "name": "Les Corts",
+      "score": 7.8,
+      "class": "safe",
+      "description": "<cite index=\"46-26,46-27,46-28\">The city's primary business and university hub, making it exceptionally orderly and safe, with recent urban safety reports highlighting low residential burglary rates and a family-friendly atmosphere</cite>. Particularly safe in the leafier streets away from Camp Nou stadium on match days."
+    },
+    {
+      "name": "Gothic Quarter (Barri Gòtic)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "<cite index=\"19-17,19-18,19-19,19-20\">Generally safe with substantial police presence during daylight hours, but narrow medieval streets can become disorienting after dark with quieter sections attracting opportunistic thieves</cite>. <cite index=\"42-14,44-16,44-17\">After 11 PM, areas like Plaça Reial and Carrer Ferran see higher chances of encountering pickpockets, especially in bending streets where visibility is limited</cite>."
+    },
+    {
+      "name": "El Raval",
+      "score": 5.5,
+      "class": "caution",
+      "description": "<cite index=\"42-15,42-16\">Becomes sketchy around midnight with tight, poorly lit streets making it a prime location for thieves to target unsuspecting pedestrians</cite>. <cite index=\"19-1,19-15,33-5\">Areas requiring extra caution include parts of southern Raval late at night, though it's not considered unsafe during the day</cite>. <cite index=\"47-27\">Requires extra caution in crowded tourist areas, especially at night</cite>."
+    },
+    {
+      "name": "La Rambla",
+      "score": 4.8,
+      "class": "danger",
+      "description": "<cite index=\"42-17,42-18,42-19\">Remains well-lit at night and is a common tourist area, but the high foot traffic makes it a prime spot for thieves targeting tourists</cite>. <cite index=\"28-20,28-21,29-9\">Hotel managers warn guests about pickpockets especially on Las Ramblas and Mercado de la Boqueria, as it's perhaps the busiest street in the city and a main hotspot for unattended-bag thefts</cite>. <cite index=\"44-22\">The most common place for pickpockets, with thieves often posing as prostitutes at night</cite>."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing & Distraction Theft",
+      "risk": "high",
+      "description": "<cite index=\"22-6,22-7,22-8\">The most common theft method involves brief body contact in busy tourist spots, clubs, or metro, where thieves 'accidentally' bump into you and swipe phones or wallets in seconds, often going undetected</cite>. <cite index=\"22-12,22-13,22-14\">Common tactics include street performers doing soccer tricks or dancing close to distract you while accomplices steal valuables</cite>.",
+      "howToAvoid": "<cite index=\"53-14,53-15,53-16\">Keep belongings close and be aware of surroundings, especially on metro where pickpockets crowd doors and snatch valuables before running off as doors close</cite>. Use anti-theft bags, avoid back pockets, and stay vigilant in crowded areas like La Rambla and metro lines L1, L3, and L5."
+    },
+    {
+      "name": "Fake Police & Document Scams",
+      "risk": "medium",
+      "description": "<cite index=\"28-56,28-57,28-58,28-59\">Usually happens late at night to people leaving drinking establishments, where perpetrators claim to be undercover police with fake badges and demand to check wallets for counterfeit money, then take money or the entire wallet</cite>. <cite index=\"22-29,22-30,22-31,22-32\">Some scammers even use fake 'police stations' where victims sign false papers or purchase contracts</cite>.",
+      "howToAvoid": "Real police always wear uniforms and have proper identification. Never hand over documents or money to plainclothes individuals claiming to be police. Ask to see proper ID and insist on going to an official police station if questioned."
+    },
+    {
+      "name": "Friendship Bracelet & Rose Scams",
+      "risk": "medium",
+      "description": "<cite index=\"21-1,21-7,27-14,27-15\">Scammers approach tourists offering to tie a friendship bracelet around their wrist or hand them a rose, then demand payment and become aggressive if refused</cite>. <cite index=\"22-34,22-35,22-36,22-37\">An older woman may hand you a flower pretending it's a gift, then grab your wrist claiming to read your future while attempting to steal watches, or demand payment for the 'service'</cite>.",
+      "howToAvoid": "Never allow strangers to put anything on your body or accept 'free' items. Keep hands free and politely but firmly decline any unsolicited approaches. Walk away immediately if someone becomes persistent."
+    },
+    {
+      "name": "Bird Poop & Mustard Scams",
+      "risk": "medium",
+      "description": "<cite index=\"22-19,23-19,48-21\">Pickpockets discreetly smear or throw liquid (appearing like bird droppings) on your clothes, then a 'helpful' stranger offers to clean it while accomplices pick your pockets</cite>. <cite index=\"24-1\">The 'bird poo' scam is common in touristy crowded areas along with other classic scams like fake good samaritans</cite>.",
+      "howToAvoid": "If something gets on your clothes, decline help from strangers and move to a safe location to clean yourself. Keep belongings secure and be suspicious of overly helpful strangers, especially in tourist areas."
+    }
+  ],
+  "soloFemale": {
+    "overview": "<cite index=\"31-4,31-6,31-7,31-8\">Barcelona is a great destination for solo female travelers, full of vibrant experiences from exploring La Boqueria market to unwinding in Parc de la Ciutadella, with friendly locals, beautiful sights, and much to explore despite the need for pickpocket awareness</cite>. <cite index=\"35-1,35-8,35-9\">The city remains very safe for solo female travelers with violent crime extremely rare, requiring only basic urban awareness like avoiding expensive jewelry displays, using anti-theft bags, and trusting instincts</cite>. <cite index=\"36-18,36-19,36-25\">Like several European cities such as Rome and France, pickpocketing is an issue, but beyond that it's generally a safe city for women, with solo female travel being an amazing experience</cite>.",
+    "tips": [
+      "<cite index=\"32-26,32-27,32-28,32-29\">If you're a Black female traveler, avoid staying out late at night if possible due to potential mistaken identity issues; if going out, join groups through Couchsurfing meetups, language exchanges, or take cabs back to accommodation</cite>",
+      "<cite index=\"35-11,35-12\">Solo women dine alone frequently without unwanted attention as the culture respects individual dining experiences, with harassment occurring less frequently than in many European cities</cite>",
+      "<cite index=\"33-32,33-3,36-21,36-22\">Avoid traveling alone through El Born or Gothic Quarter at night to prevent incidents, and exercise caution when walking alone at night in neighborhoods like Raval and parts of Gothic Quarter</cite>"
+    ]
+  },
+  "nightSafety": {
+    "overview": "<cite index=\"41-1,41-2,41-15,41-16\">The majority of people feel very safe walking during daylight but less safe at night, though Barcelona is generally safe after dark when sticking to well-lit, populated areas</cite>. <cite index=\"47-21,47-22,47-23\">Popular tourist spots like Gothic Quarter, El Born, and Passeig de Gracia remain busy well into the evening, but narrow streets can be dark and quiet, making these areas havens for pickpockets targeting drunk tourists</cite>. <cite index=\"46-15,46-16\">Streets stay busy and well-lit deep into the night, making it comfortable to grab solo dinner or stroll through Gothic Quarter</cite>.",
+    "tips": [
+      "<cite index=\"41-19,45-20,45-21,45-22\">Use taxis, Uber, or Cabify for safe transportation when out late, as these are secure choices especially for groups sharing rides</cite>",
+      "<cite index=\"45-23,45-24,45-25\">Stick to well-populated and well-illuminated areas like Ramblas, Gràcia, or Barceloneta, and avoid poorly lit or secluded areas that may compromise safety</cite>",
+      "<cite index=\"45-26,45-27,45-28\">Remain vigilant and aware of surroundings, keeping watchful eye on personal belongings as crowded venues provide opportunities for pickpockets</cite>"
+    ]
+  },
+  "transport": {
+    "metro": "<cite index=\"51-18,51-19,58-21,58-22\">The metro and bus lines cover all major tourist zones, are clean, safe, and run around the clock, though travelers should be aware of pickpockets especially at busy stations like Plaça Catalunya and Sants Estació</cite>. <cite index=\"43-11,43-12\">The Barcelona metro is perfectly safe at night with little antisocial behavior except for drunk tourists, though daytime pickpockets remain a concern</cite>.",
+    "rideshare": "<cite index=\"51-6,51-7,51-8,51-9\">FreeNow is rated the best taxi app, connecting directly with licensed taxis and private drivers, providing upfront fares without surge pricing and usually quick driver acceptance even during busy times</cite>. <cite index=\"52-9,54-8,54-9\">Rideshare drivers in Barcelona are licensed professionals rather than peer-to-peer drivers, with Cabify being popular, reliable, and the closest alternative to traditional rideshare services</cite>.",
+    "taxis": "<cite index=\"55-24,55-25,55-26\">Official taxis are reliable and efficient with distinctive black and yellow colors and green lights when available, and can be hailed on streets or found at designated ranks near hotels and attractions</cite>. <cite index=\"60-27,60-28,60-49\">Taxis are convenient and safe, readily available near major destinations and easily flagged on busy streets, and are totally safe and always available</cite>.",
+    "tips": "<cite index=\"52-1,52-2\">Transportation in Barcelona is generally safe whether using taxi, rideshare, or public transit, though you may encounter taxi drivers who demand tips or overcharge</cite>. <cite index=\"53-17,53-18\">Use a phone leash attached to your wrist or belt to prevent pickpockets from grabbing phones, and download FreeNow app for convenient taxi requests</cite>."
+  },
+  "customs": [
+    "<cite index=\"1-37,3-42\">Most cities in Spain ban drinking alcohol in the street, except at registered cafes and bars</cite>",
+    "<cite index=\"2-8\">Cover shoulders and knees when visiting churches like Sagrada Familia, and always carry ID or passport copies</cite>",
+    "<cite index=\"1-41,1-46,3-46\">There are no legal restrictions on same-sex relations or LGBTQ+ events in Spain, with anti-discrimination laws enforced</cite>"
+  ],
+  "health": {
+    "overview": "<cite index=\"65-1,65-17,65-19\">Spain offers one of the best healthcare systems in Europe—affordable, accessible, and high-quality, ranking highly for both life expectancy and healthcare quality with modern hospitals and highly trained medical professionals</cite>. <cite index=\"66-1,66-2,66-3\">Catalonia has a public health system offering universal healthcare through primary care centers (CAP) that treat common health problems, with hospitals available for specialized treatments</cite>. <cite index=\"3-19,3-20\">Medical help is available anywhere in the country, though it may take longer to arrive in smaller cities</cite>.",
+    "water": "<cite index=\"14-15,14-16,14-17\">Tap water in Barcelona is safe to drink but may have a strong chlorine taste, with microplastics present in small amounts not known to cause health risks, though bottled water actually contains higher microplastic levels</cite>",
+    "vaccinations": "<cite index=\"1-31,3-3,3-36\">No vaccinations are required for travel to Spain</cite>",
+    "altitude": "<cite index=\"1-20,1-21,1-22,1-25,1-26,1-27\">Spain experiences intense summer heatwaves with temperatures exceeding 104°F in some regions, along with severe thunderstorms that can bring heavy rain, floods, and hail often without warning</cite>"
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091 (National), 092 (Local), 088 (Mossos d'Esquadra)",
+    "ambulance": "061",
+    "fire": "080",
+    "touristPolice": "93 290 30 00",
+    "usEmbassy": "<cite index=\"82-10,82-11,82-12\">Several consulates operate in Barcelona including diplomatic missions that offer support in emergency situations such as issuing replacement documents and legal advice</cite>"
+  },
+  "faq": [
+    {
+      "q": "Is Barcelona safe for tourists?",
+      "a": "<cite index=\"14-7,14-8,14-9\">Barcelona is generally considered safe for travelers, with violent crimes typically being targeted attacks between acquaintances rather than random incidents affecting tourists, though pickpocketing and scams are the most common crimes visitors may encounter</cite>. <cite index=\"46-5,46-6,46-7\">While often called the 'pickpocket capital,' this refers to crafty fingers rather than physical threats, with violent crime remaining extremely rare and confined to late-night nightlife zones rather than daytime tourist areas</cite>."
+    },
+    {
+      "q": "Is Barcelona safe at night?",
+      "a": "<cite index=\"43-1,43-4,43-5,43-6,43-7\">Barcelona is generally safe at night like many major cities, though it's known for pickpocketing especially in crowded areas and public transport, making it advisable to stay vigilant, avoid poorly-lit areas, and stick to well-traveled streets</cite>. <cite index=\"48-6,48-7,48-8,48-9\">The city maintains active nightlife until early morning hours with areas like Passeig de Gràcia and Plaça Catalunya remaining relatively safe, though La Rambla has higher pickpocketing risk despite police presence</cite>."
+    },
+    {
+      "q": "Is Barcelona safe for solo female travelers?",
+      "a": "<cite index=\"38-1,38-2\">Yes, Barcelona is generally safe for solo female travelers like most big cities, requiring common-sense precautions and good situational awareness for a safe and enjoyable trip</cite>. <cite index=\"35-1,35-8,35-11,35-12\">The city remains very safe with violent crime extremely rare, women travel solo comfortably using basic urban awareness, and solo women dine alone frequently without unwanted attention as the culture respects individual experiences</cite>."
+    },
+    {
+      "q": "What areas should I avoid in Barcelona?",
+      "a": "<cite index=\"44-13,44-14,44-15\">Areas to avoid at night include parts of Raval (left of Ramblas), parts of Barri Xines, southern end of Ramblas and surrounding streets, plus any small dark empty streets as common sense dictates</cite>. <cite index=\"20-14,20-15,20-16,20-17,20-18\">Specific areas with higher risk include around Rambla Prim which has seen increased vandalism and public fights, and Barceloneta after midnight where grab-and-run thefts target intoxicated partygoers leaving clubs</cite>."
+    },
+    {
+      "q": "Is it safe to use public transport in Barcelona?",
+      "a": "<cite index=\"53-2,53-24\">Yes, the metro is a safe form of transportation, though you should be very aware of belongings to avoid pickpocketing which is unfortunately common on Barcelona's public transportation</cite>. <cite index=\"46-11,46-12,46-13\">The Metro and bus systems are incredibly safe, efficient, and well-patrolled by security, though they serve as the primary workplace for pickpockets during rush hour, making it important to keep bags in front on trains</cite>."
+    }
+  ],
+  "relatedCities": [
+    "madrid",
+    "valencia",
+    "lisbon",
+    "rome",
+    "marseille"
+  ],
+  "_city_id": "barcelona-spain"
+}

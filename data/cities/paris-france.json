@@ -1,0 +1,163 @@
+{
+  "slug": "paris",
+  "name": "Paris",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.3,
+    "transport": 7.5,
+    "naturalHazards": 8.7
+  },
+  "summary": "Paris is generally safe for tourists with excellent healthcare, modern infrastructure and low violent crime rates. The main concerns are petty crime like pickpocketing and tourist scams, particularly around major landmarks and tourist areas. Enhanced security measures remain in place following the 2024 Olympics.",
+  "quickVerdict": "Paris maintains its status as one of Europe's safer capital cities, ranking 23rd globally in safety indices with violent crime rates three times lower than New York City. While petty theft and tourist scams are the primary concerns affecting visitors, the city's excellent emergency services, modern transport system, and strong police presence make it a secure destination. The U.S. State Department maintains a Level 2 advisory (Exercise Increased Caution) primarily due to terrorism threats and civil unrest potential, but millions of tourists visit safely each year by following basic urban precautions.",
+  "neighborhoods": [
+    {
+      "name": "7th & 15th Arrondissements (Eiffel Tower Area)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Tourist-friendly areas with heavy police presence, excellent lighting, and constant foot traffic. The 7th includes major attractions while maintaining residential safety. Watch for pickpockets near monuments."
+    },
+    {
+      "name": "Le Marais (3rd & 4th)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic and trendy neighborhood with vibrant nightlife and LGBTQ+ friendly atmosphere. Well-patrolled streets with good lighting. Safe for day and evening exploration with normal urban precautions."
+    },
+    {
+      "name": "Latin Quarter (5th & 6th)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Student area with lively bars and cafes. Generally safe with good public transport connections. Rue Mouffetard particularly secure due to active nightlife scene. Occasional street harassment possible."
+    },
+    {
+      "name": "Montmartre (18th - Sacré-Cœur Area)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Tourist magnet with aggressive street vendors and bracelet scammers. Safe during daylight hours but requires extra vigilance. Avoid quiet side streets at night and be wary of 'friendship bracelet' scams."
+    },
+    {
+      "name": "Châtelet-Les Halles (1st)",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Major transport hub that's busy and safe during the day but can feel sketchy at night. Underground areas and metro connections attract pickpockets. Avoid lingering after dark."
+    },
+    {
+      "name": "Gare du Nord Area (10th)",
+      "score": 4.2,
+      "class": "danger",
+      "description": "International train station area with high crime rates, drug activity, and aggressive solicitors. Essential for transport but requires extreme caution, especially with luggage. Use official taxi ranks only."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Gold Ring Scam",
+      "risk": "high",
+      "description": "Scammer pretends to find a gold ring near you, claims it must be yours, then demands money when you take it. Common along the Seine and near major tourist sites.",
+      "howToAvoid": "Never accept items from strangers. If approached, firmly say 'non merci' and keep walking. Don't engage in conversation about found items."
+    },
+    {
+      "name": "Friendship Bracelet Scam",
+      "risk": "high",
+      "description": "Aggressive vendors approach tourists (especially around Sacré-Cœur) and tie bracelets on wrists without permission, then demand payment. Can become confrontational if refused.",
+      "howToAvoid": "Keep hands in pockets near tourist sites. Firmly refuse any approach and don't allow anyone to touch you. If cornered, shout for help loudly."
+    },
+    {
+      "name": "Petition Scam",
+      "risk": "medium",
+      "description": "Groups of women approach with clipboards asking for signatures for 'noble causes' like deaf education, then aggressively demand donations. While you're distracted, accomplices may pickpocket.",
+      "howToAvoid": "Never sign petitions from street solicitors. Politely decline and keep moving. Be extra aware of your belongings if approached by multiple people."
+    },
+    {
+      "name": "Three-Card Monte & Shell Games",
+      "risk": "high",
+      "description": "Street gambling games with planted 'winners' in the crowd to encourage tourists to bet. Games are rigged and tourists can lose hundreds of euros quickly.",
+      "howToAvoid": "Never participate in street gambling. The 'audience' are accomplices. Walk away immediately if you see these games operating."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Paris is generally safe for solo female travelers with standard urban precautions. Violent crime against tourists is rare, and the city has good infrastructure for women traveling alone. However, street harassment can occur, particularly in tourist areas and at night. The metro is safe during day hours but requires more caution after 23:00. Women report feeling comfortable in central arrondissements during daytime, with many local women visible on streets going about daily activities.",
+    "tips": [
+      "Avoid making prolonged eye contact with men as this can be misinterpreted as interest",
+      "Use official transport like G7 taxis or Uber rather than accepting rides from strangers",
+      "Stay in well-lit, populated areas especially around bars and restaurants in the evening",
+      "Book accommodations in safer arrondissements (7th, 14th, Latin Quarter, Le Marais) rather than areas near train stations",
+      "Trust your instincts - if a situation feels uncomfortable, leave immediately and seek help from nearby shops or restaurants"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Paris night safety is generally good in central, well-lit areas with continued foot traffic from restaurants and nightlife. The safety rating drops significantly after midnight, particularly in quieter neighborhoods and around transport hubs. Tourist areas like Le Marais, Saint-Germain, and the 7th arrondissement maintain good safety levels into the evening hours. However, areas like Châtelet-Les Halles, Gare du Nord, and parts of Belleville require extra caution after dark.",
+    "tips": [
+      "Stick to busy, well-lit areas with active nightlife - avoid empty side streets",
+      "Use official transportation (G7 taxi app, Uber, or nighttime Noctilien buses) rather than walking alone after midnight",
+      "Travel in groups when possible and let someone know your planned route and expected return time",
+      "Avoid displaying valuable items like expensive phones, jewelry, or large amounts of cash",
+      "Stay aware of your surroundings and avoid excessive alcohol consumption that could impair judgment"
+    ]
+  },
+  "transport": {
+    "metro": "Paris Metro is efficient and generally safe during daytime hours (5:30 AM to 1:15 AM weekdays, until 2:15 AM weekends). Some stations like Châtelet-Les Halles and Gare du Nord require extra vigilance. Keep bags secure and be aware of pickpockets, especially during rush hours. Service is limited after midnight.",
+    "rideshare": "Uber operates reliably throughout Paris with good English support and safety features. Bolt and Heetch are popular alternatives. Use apps rather than hailing rides on the street. Surge pricing can be high during peak times - compare multiple apps before booking.",
+    "taxis": "G7 is the official Paris taxi service with licensed drivers who can use bus lanes for faster travel. Taxis are safe and regulated with fixed airport rates. Avoid unlicensed drivers at airports who may approach you directly - always use official taxi ranks or apps.",
+    "tips": "Download multiple transport apps (G7, Uber, Citymapper) for maximum options. Keep emergency cash as backup. For late-night travel, rideshare/taxi is safer than metro after 11 PM. Validate metro tickets to avoid fines."
+  },
+  "customs": [
+    "Always greet with 'Bonjour/Bonsoir' when entering shops or interacting with service staff - omitting this greeting is considered rude",
+    "Use formal 'vous' instead of informal 'tu' with strangers, service workers, and anyone older or in authority",
+    "Make dining reservations in advance and expect leisurely 2-3 hour meal experiences - rushing through meals is frowned upon"
+  ],
+  "health": {
+    "overview": "France has world-class healthcare with excellent hospitals and medical facilities. No mandatory vaccinations required for tourists. Tap water is safe to drink throughout Paris. Air quality is generally good despite urban pollution.",
+    "water": "Tap water in Paris is completely safe to drink and regularly tested. Many public fountains provide free drinking water. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations (MMR, tetanus, seasonal flu). CDC recommends being up-to-date on standard vaccinations. Hepatitis A recommended for some travelers.",
+    "altitude": "Paris is at sea level with no altitude concerns. Climate is temperate with mild winters and warm summers. Occasional strong winds and seasonal flooding possible in spring/fall."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Paris: +33 1 43 12 22 22 (24-hour emergency line for U.S. citizens). Located at 2 Avenue Gabriel, 75008 Paris. For non-emergencies, American Citizens Services: +33 1 43 12 22 22 extension 2612."
+  },
+  "faq": [
+    {
+      "q": "Is Paris safe for tourists?",
+      "a": "Yes, Paris is generally safe for tourists. It ranks 23rd globally in safety indices with low violent crime rates. The main risks are petty theft and tourist scams around landmarks. Millions visit safely each year by following basic urban precautions and staying alert in crowded areas."
+    },
+    {
+      "q": "Is Paris safe at night?",
+      "a": "Paris is moderately safe at night in central, well-lit areas with active nightlife like Le Marais and Saint-Germain. Avoid quiet side streets, train station areas, and walking alone after midnight. Use official transport (taxis/rideshare) for late-night travel rather than the metro."
+    },
+    {
+      "q": "Is Paris safe for solo female travelers?",
+      "a": "Yes, with normal precautions. Violent crime against women tourists is rare. Stay in central arrondissements, avoid prolonged eye contact with strangers, use official transportation, and trust your instincts. Street harassment can occur but is manageable with awareness."
+    },
+    {
+      "q": "What areas should I avoid in Paris?",
+      "a": "Exercise extra caution around Gare du Nord (drug activity, aggressive solicitors), northern parts of Montmartre at night, Châtelet-Les Halles after dark, and République area late at night. These aren't no-go zones but require heightened awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Paris?",
+      "a": "Yes, Paris public transport is generally safe during daytime hours. The metro, buses, and RER are efficient and well-used. Be vigilant for pickpockets during rush hour and avoid metro late at night (after 11 PM). Use rideshare/taxis for late-night travel."
+    }
+  ],
+  "relatedCities": [
+    "london",
+    "amsterdam",
+    "brussels",
+    "berlin",
+    "rome"
+  ],
+  "_city_id": "paris-france"
+}

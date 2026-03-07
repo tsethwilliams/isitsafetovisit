@@ -1,0 +1,116 @@
+{
+  "slug": "london",
+  "name": "London",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 6.5,
+    "womensSafety": 7.0,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "<cite index=\"1-23,1-42\">London currently has a Level 1 US State Department travel advisory with no travel restrictions, though there is some risk of terrorist violence.</cite> <cite index=\"11-16,11-32\">The city has an overall crime rate of 107 offences per 1,000 residents, lower than Manchester and well below hotspots like Cleveland, making it safer than several other major UK cities.</cite> <cite index=\"19-1,19-22\">London has a homicide rate of 1.22 per 100,000 residents – lower than 96 of the 100 largest U.S. cities and ranks 15th in The Economist's safe-cities rankings, ahead of Chicago but behind New York.</cite>",
+  "quickVerdict": "<cite index=\"18-21,18-22\">London is as safe as, if not safer than, most other major global capitals, with violent crime incidents affecting visitors being rare and most trips passing without any major issues.</cite> <cite index=\"11-5,11-8,11-9\">The main safety concern for tourists is petty crime, particularly phone theft which has increased by 25% with around 80,000 stolen phones in 2024, and shoplifting which is up 54% year-on-year.</cite> <cite index=\"42-13,42-15\">Serious violence is relatively uncommon for the average visitor, but opportunistic theft is a real and growing risk in busy areas, though homicide has fallen to its lowest level in more than a decade at 1.1 killings per 100,000 people.</cite>",
+  "neighborhoods": [
+    {
+      "name": "Richmond upon Thames",
+      "score": 8.5,
+      "class": "safe",
+      "description": "<cite index=\"11-2,11-22\">Consistently tops safety charts with around 54-61 recorded crimes per 1,000 residents, offering a calmer, family-friendly atmosphere with significantly fewer incidents than inner-city areas.</cite>"
+    },
+    {
+      "name": "South Kensington",
+      "score": 8.0,
+      "class": "safe",
+      "description": "<cite index=\"40-5,37-1,37-2\">Widely regarded as one of the safest areas in London with calm residential streets, easy access to amenities, extensive CCTV network and visible police presence providing additional security.</cite>"
+    },
+    {
+      "name": "Westminster",
+      "score": 6.0,
+      "class": "caution",
+      "description": "<cite index=\"11-24,18-26,42-21,42-22,42-23\">Has the highest recorded crime with over 40,000 incidents in the first half of 2025, equivalent to roughly 432 per 1,000 residents, driven by theft-from-person reaching 53.38 per 1,000 people due to phone snatching and pickpocketing in crowded tourist areas like Soho, Oxford Street, and Covent Garden.</cite>"
+    },
+    {
+      "name": "Camden",
+      "score": 6.0,
+      "class": "caution",
+      "description": "<cite index=\"11-25,18-27,41-35,41-36\">Records around 80 crimes per 1,000 residents and attracts many tourists to its markets and nightlife, but theft and drug-related offenses remain widespread, with pickpocketing thriving in narrow, crowded walkways.</cite>"
+    },
+    {
+      "name": "Hackney",
+      "score": 5.5,
+      "class": "caution",
+      "description": "<cite index=\"41-29,41-30,48-38\">Reports 93 crimes per 1,000 residents with popular nightlife and arts districts like Shoreditch and Dalston attracting crowds but also higher rates of theft and violent crimes, and areas can go from hipster haven to sketchy real quick after dark.</cite>"
+    },
+    {
+      "name": "Tower Hamlets",
+      "score": 4.5,
+      "class": "danger",
+      "description": "<cite index=\"41-26,41-27,46-1,46-28\">Has a crime rate of 99 per 1,000 residents with robbery and theft having increased significantly, flagged for higher crime rates especially at night with incidents related to gang activity, theft, and anti-social behavior.</cite>"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Phone Snatching",
+      "risk": "high",
+      "description": "<cite index=\"21-6,21-7,44-9\">Thieves on bikes or mopeds target people standing near the curb checking Google Maps, grabbing phones in seconds, particularly common on Oxford Street and Regent Street.</cite>",
+      "howToAvoid": "<cite index=\"44-12,44-13,44-14\">Avoid standing near the road edge while using a phone, keep devices secure with a firm grip, and consider stepping inside a shop or café if prolonged use is necessary.</cite>"
+    },
+    {
+      "name": "Westminster Bridge Shell Game",
+      "risk": "high",
+      "description": "<cite index=\"21-1,21-2,24-10,24-11\">The 'three cups' game where you guess which cup the ball is under between Big Ben and London Eye, with onlookers who seem harmless actually being in on the scam as excellent decoys to tempt tourists into betting.</cite>",
+      "howToAvoid": "<cite index=\"21-3,26-10,26-11\">If you see a circle of people around a carpet or street setup, keep walking - simply ignore any request to play the game and just walk away.</cite>"
+    },
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "medium",
+      "description": "<cite index=\"27-15,27-16,27-17\">Some people play on feelings of guilt to steal money, but legitimate charity collectors in London are required to carry a permit to work in public spaces.</cite>",
+      "howToAvoid": "<cite index=\"27-18,30-44\">Don't be afraid to ask for proof before parting with your hard-earned cash - all charity collectors must carry a collector's permit or official documentation including their charity's registration number.</cite>"
+    },
+    {
+      "name": "Rickshaw Overcharging",
+      "risk": "medium",
+      "description": "<cite index=\"24-1,24-4,24-5,24-6,25-8,25-9,25-10\">Drivers wait for tourists outside festivals and can charge hundreds of pounds for just a few minutes of ride, as these bicycle rickshaws are unregulated so drivers can charge whatever they like, with tourists agreeing on a price before jumping in only to have a higher price demanded at the end.</cite>",
+      "howToAvoid": "<cite index=\"25-11,51-5,51-6\">Always avoid the rickshaws to prevent getting utterly ripped off - Transport for London is hoping to enforce new rules including regulated fares and annual inspections in early 2026.</cite>"
+    }
+  ],
+  "soloFemale": {
+    "overview": "<cite index=\"31-11,36-4,40-1,40-4\">London is generally safe for solo female travelers, currently ranking as the 20th safest city in the world, with extensive CCTV coverage, visible police presence, and 24-hour public transport creating an environment where women feel secure exploring independently.</cite> <cite index=\"37-18,37-19,37-21\">England offers exceptional safety for women traveling alone with low crime rates and helpful locals, while London's extensive CCTV network provides additional security in tourist areas, with well-lit streets and reliable public transport making evening exploration comfortable.</cite>",
+    "tips": [
+      "<cite index=\"31-22,31-23,31-25\">Walk confidently and fast like locals do, looking like you know where you're going, and try to avoid looking at your phone for directions by checking routes on Citymapper beforehand.</cite>",
+      "<cite index=\"36-29,36-30,45-22,45-23\">The Tube, buses, and trains are safe during day and evening hours, but avoid less busy carriages late at night and sit close to the driver if using buses after dark.</cite>",
+      "<cite index=\"36-26,36-27,36-28\">Always be mindful of your surroundings especially in crowded tourist areas, keep emergency contacts including embassy details and emergency services (999) handy, along with your accommodation address and contact number.</cite>"
+    ]
+  },
+  "nightSafety": {
+    "overview": "<cite index=\"44-21,44-22,50-19,50-21\">Travelers are unlikely to encounter serious problems if they remain in well-lit areas and use licensed transport, with nightlife hubs such as Soho, Shoreditch and Brixton being lively and energetic, and central London generally safe for walking at night.</cite> <cite index=\"42-3,47-12,47-13\">Many areas feel community-focused, but nightlife and event crowds can drive up crime figures, with boroughs having strong nightlife scenes often seeing spikes in violent crime especially after midnight when alcohol, large crowds, and reduced visibility create riskier conditions.</cite>",
+    "tips": [
+      "<cite index=\"45-27,45-28,45-33\">Basically anywhere in London after dark, if you are alone and there are not a lot of people around, use common sense - stay out of Regent's Park or Hyde Park after dark and avoid streets, alleys, and subways if the area seems deserted.</cite>",
+      "<cite index=\"47-22,47-23,46-17\">If walking after dark, stick to well-lit main roads rather than quiet back streets or parks, plan your journey in advance using apps like Citymapper, and opt for well-lit streets avoiding shortcuts through alleys or parks.</cite>",
+      "<cite index=\"48-24,48-25,48-26,48-27,48-28,48-29\">Black cabs are expensive but worth it if needed, Uber works but costs more after midnight with delays in Central areas, avoid stations with no staff after midnight as drunks get bold and so do pickpockets.</cite>"
+    ]
+  },
+  "transport": {
+    "metro": "<cite index=\"36-1,36-2,53-10,53-11,53-13\">The Tube, buses, and trains are safe especially during day and evening hours, though try to avoid less busy carriages late at night - London's public transport is considered one of the best-connected systems in the world with quick service reaching almost every part of the city including main airports.</cite>",
+    "rideshare": "<cite index=\"53-31,53-32\">Uber and Bolt are cheaper than black cabs - download the apps and link your credit/debit card to your accounts for convenient payment and tracking.</cite>",
+    "taxis": "<cite index=\"53-26,53-27,53-28,53-29,53-30,45-42,45-43,45-44\">The iconic London black cab is a popular experience though more expensive than other TfL regulated transport, you can pay with cash or card based on distance and time as shown on the meter - always make sure it's a registered cab with a meter to avoid paying too much and ensure a safe driver.</cite>",
+    "tips": "<cite index=\"71-17,71-18,71-19,71-20,71-21\">Get an Oyster card for easy access to buses, trains, and Underground, remember to tap in and out, stand on the right side of escalators to let people pass on the left, offer priority seating to elderly, pregnant, or disabled passengers, and keep your voice down on the Tube.</cite>"
+  },
+  "customs": [
+    "<cite index=\"71-9,71-10,71-11,77-8,77-9,77-10,77-11,77-12\">Queuing (standing in line) is a big deal in London - whether waiting for the bus, at the supermarket, or buying a ticket, always stand in line and wait your turn as jumping the queue is considered very rude, and if you see people gathered around a location, always ask if they are in the queue.</cite>",
+    "<cite index=\"72-2,72-3,73-12,73-13,79-4,79-12\">Politeness is often associated with UK social norms with expressions like 'please,' 'thank you' and 'sorry' widely used in everyday interaction - saying please more often and thank you as a show of gratitude are customs Londoners love, including apologising with a quick 'sorry' if you bump into someone.</cite>",
+    "<cite index=\"71-6,71-7,71-8,75-26,75-27,75-28,75-29\">In London, greetings are usually polite and reserved - when meeting someone for the first time, a firm handshake and friendly smile are customary, saying 'Hello' or 'Nice to meet you,' and it's polite to shake hands with all present upon both meeting and leaving, using last names with appropriate titles unless invited to use first names.</cite>"
+  ],
+  "_city_id": "london-united-kingdom"
+}
