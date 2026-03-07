@@ -2,11 +2,16 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  ZoomableGroup,
+} from 'react-simple-maps';
 
-const GEO_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
+const GEO_URL =
+  'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
 
-// ISO numeric code → region name
 const COUNTRY_TO_REGION: Record<number, string> = {
   // Europe
   8:'Europe',20:'Europe',40:'Europe',56:'Europe',70:'Europe',100:'Europe',
@@ -69,72 +74,161 @@ const REGION_INFO: Record<string, {
 }> = {
   'Europe': {
     emoji: '🏰',
-    overview: 'Europe is generally one of the safest regions for tourists, with strong rule of law, reliable emergency services, and well-developed tourist infrastructure. Western Europe is among the safest globally, while parts of Eastern Europe require more vigilance in major cities.',
-    travelTips: ['Pickpocketing is the primary risk in tourist-heavy cities like Barcelona, Paris, and Rome','Public transport is safe but watch your belongings at busy stations','Most countries use 112 as the universal emergency number','ATMs are widely available — use bank ATMs to avoid skimming'],
-    scamPatterns: ['Distraction theft at major monuments and metro stations','Fake petition signers (especially Paris and Barcelona)','Taxi overcharging at airports — always use metered cabs or apps','Friendship bracelet scam near major tourist attractions'],
+    overview: 'Europe is generally one of the safest regions for tourists, with strong rule of law, reliable emergency services, and well-developed tourist infrastructure. Western Europe is among the safest globally, while parts of Eastern Europe require more vigilance.',
+    travelTips: [
+      'Pickpocketing is the primary risk in tourist-heavy cities like Barcelona, Paris, and Rome',
+      'Public transport is safe but watch your belongings at busy stations',
+      'Most countries use 112 as the universal emergency number',
+      'Use bank ATMs to avoid skimming devices',
+    ],
+    scamPatterns: [
+      'Distraction theft at major monuments and metro stations',
+      'Fake petition signers (especially Paris and Barcelona)',
+      'Taxi overcharging at airports — always use metered cabs or apps',
+      'Friendship bracelet scam near major tourist attractions',
+    ],
   },
   'Asia': {
     emoji: '🏯',
-    overview: 'Asia spans an enormous range of safety profiles — from ultra-safe Singapore and Japan to more challenging environments in parts of South and Southeast Asia. Research your specific destination carefully, as conditions vary dramatically between countries and even cities.',
-    travelTips: ['Respect local customs and dress codes, especially at religious sites','Negotiate prices before getting into tuk-tuks or unmarked taxis','Street food is generally safe — look for busy stalls with high turnover','Download offline maps and key apps before arrival'],
-    scamPatterns: ['Gem scam (especially Bangkok and Jaipur) — never buy gems as investments','Fake temple closure — a local says it is closed and offers a paid alternative','Tuk-tuk driver commission scams taking you to overpriced shops','Overly friendly strangers who lead you to expensive restaurants'],
+    overview: 'Asia spans an enormous range of safety profiles — from ultra-safe Singapore and Japan to more challenging environments in parts of South and Southeast Asia. Research your specific destination carefully as conditions vary dramatically.',
+    travelTips: [
+      'Respect local customs and dress codes, especially at religious sites',
+      'Negotiate prices before getting into tuk-tuks or unmarked taxis',
+      'Street food is generally safe — look for busy stalls with high turnover',
+      'Download offline maps and key apps before arrival',
+    ],
+    scamPatterns: [
+      'Gem scam (especially Bangkok and Jaipur) — never buy gems as investments',
+      'Fake temple closure — a local says it is closed and offers a paid alternative',
+      'Tuk-tuk driver commission scams taking you to overpriced shops',
+      'Overly friendly strangers who lead you to expensive restaurants',
+    ],
   },
   'Middle East': {
     emoji: '🕌',
-    overview: 'The Middle East is highly diverse — Gulf states like the UAE, Qatar, and Oman are among the safest countries in the world, while other areas require significant caution. Gulf tourism infrastructure is excellent. Check your government travel advisory carefully for your specific destination.',
-    travelTips: ['Dress conservatively, especially for women — research specific country requirements','Alcohol laws vary dramatically by country','Photography restrictions apply near government buildings and mosques','Ramadan affects business hours and public eating — plan accordingly'],
-    scamPatterns: ['Taxi overcharging is common — agree on a price before riding','Counterfeit goods sold as luxury items in souks','Fake gemstone and gold dealers targeting tourists','Overpriced tourist restaurants near major attractions'],
+    overview: 'The Middle East is highly diverse — Gulf states like the UAE, Qatar, and Oman are among the safest countries in the world, while other areas require significant caution. Check your government travel advisory carefully for your specific destination.',
+    travelTips: [
+      'Dress conservatively — research specific country requirements',
+      'Alcohol laws vary dramatically by country',
+      'Photography restrictions apply near government buildings and mosques',
+      'Ramadan affects business hours and public eating — plan accordingly',
+    ],
+    scamPatterns: [
+      'Taxi overcharging is common — agree on a price before riding',
+      'Counterfeit goods sold as luxury items in souks',
+      'Fake gemstone and gold dealers targeting tourists',
+      'Overpriced tourist restaurants near major attractions',
+    ],
   },
   'North America': {
     emoji: '🗽',
-    overview: 'The United States and Canada are generally safe for tourists with strong infrastructure and reliable emergency services. Risk is highly neighborhood-specific — major cities have both very safe tourist areas and high-crime districts within a few blocks of each other.',
-    travelTips: ['Use 911 for all emergencies','Rideshares (Uber, Lyft) are safe and preferred in most cities','Tipping is expected at restaurants (18–20%)','Healthcare is expensive in the US — travel insurance is strongly recommended'],
-    scamPatterns: ['Unlicensed taxi scams at major airports — use official rideshare zones','Street hustlers with games of chance (three-card monte, shell game)','Fake charity collectors in tourist areas','Overpriced tourist restaurants with hidden charges'],
+    overview: 'The United States and Canada are generally safe for tourists with strong infrastructure and reliable emergency services. Risk is highly neighborhood-specific — research your specific areas carefully.',
+    travelTips: [
+      'Use 911 for all emergencies',
+      'Rideshares (Uber, Lyft) are safe and preferred in most cities',
+      'Tipping is expected at restaurants (18–20%)',
+      'Healthcare is expensive in the US — travel insurance is strongly recommended',
+    ],
+    scamPatterns: [
+      'Unlicensed taxi scams at major airports — use official rideshare zones',
+      'Street hustlers with games of chance (three-card monte, shell game)',
+      'Fake charity collectors in tourist areas',
+      'Overpriced tourist restaurants with hidden charges',
+    ],
   },
   'Central America & Caribbean': {
     emoji: '🌴',
-    overview: 'Central America and the Caribbean range from relatively safe tourist corridors in Costa Rica and Belize to higher-risk urban areas in parts of Honduras and El Salvador. Island destinations are generally safe within resort areas, with risk increasing in urban centers.',
-    travelTips: ['Stick to established tourist routes','Book airport transfers in advance through your hotel','Travel between cities during daylight hours only','Keep valuables in hotel safes'],
-    scamPatterns: ['Taxi overcharging at airports and tourist zones','Fake tour operators selling non-existent excursions','Beach theft while swimming — never leave valuables unattended','Timeshare scams targeting tourists in resort areas'],
+    overview: 'Central America and the Caribbean range from relatively safe tourist corridors in Costa Rica and Belize to higher-risk urban areas elsewhere. Island destinations are generally safe within resort areas.',
+    travelTips: [
+      'Stick to established tourist routes',
+      'Book airport transfers in advance through your hotel',
+      'Travel between cities during daylight hours only',
+      'Keep valuables in hotel safes',
+    ],
+    scamPatterns: [
+      'Taxi overcharging at airports and tourist zones',
+      'Fake tour operators selling non-existent excursions',
+      'Beach theft while swimming — never leave valuables unattended',
+      'Timeshare scams targeting tourists in resort areas',
+    ],
   },
   'South America': {
     emoji: '🌎',
-    overview: 'South America offers some of the most rewarding travel experiences in the world, but requires more safety awareness than other regions. Express kidnapping, opportunistic theft, and scams targeting tourists are common in major cities. Use reputable transport and stay in well-traveled areas.',
-    travelTips: ['Use only app-based rideshares — never hail taxis on the street','Do not use your phone openly on the street in major cities','Keep a second wallet with small cash for robbery situations','Research no-go neighborhoods thoroughly before exploring'],
-    scamPatterns: ['Express kidnapping — being forced to ATMs for cash withdrawals','Fake police officers demanding to see your wallet','Mustard or bird dropping distraction theft','Currency exchange fraud — always count bills yourself'],
+    overview: 'South America offers some of the most rewarding travel experiences in the world, but requires more safety awareness. Express kidnapping, opportunistic theft, and scams targeting tourists are common in major cities.',
+    travelTips: [
+      'Use only app-based rideshares — never hail taxis on the street',
+      'Do not use your phone openly on the street in major cities',
+      'Keep a second wallet with small cash for robbery situations',
+      'Research no-go neighborhoods thoroughly before exploring',
+    ],
+    scamPatterns: [
+      'Express kidnapping — being forced to ATMs for cash withdrawals',
+      'Fake police officers demanding to see your wallet',
+      'Mustard or bird dropping distraction theft',
+      'Currency exchange fraud — always count bills yourself',
+    ],
   },
   'Africa': {
     emoji: '🌍',
-    overview: 'Africa is enormously diverse, with safe tourist havens alongside higher-risk destinations. Morocco, Tanzania, Botswana, and parts of South Africa have well-developed tourist infrastructure. Urban areas generally require more vigilance than rural safari destinations.',
-    travelTips: ['Use licensed tour operators for safari and adventure activities','Malaria prophylaxis is recommended for most sub-Saharan destinations','Yellow fever vaccination required for entry to many African countries','Driving after dark outside cities carries significant risk in many countries'],
-    scamPatterns: ['Airport and bus station scammers posing as official helpers','Gem and craft overpricing at tourist markets','Fake guides who demand large fees after completing tours','Money changers offering above-market rates (counterfeit risk)'],
+    overview: 'Africa is enormously diverse, with safe tourist havens alongside higher-risk destinations. Morocco, Tanzania, Botswana, and parts of South Africa have well-developed tourist infrastructure. Research each country individually.',
+    travelTips: [
+      'Use licensed tour operators for safari and adventure activities',
+      'Malaria prophylaxis is recommended for most sub-Saharan destinations',
+      'Yellow fever vaccination required for entry to many African countries',
+      'Driving after dark outside cities carries significant risk in many countries',
+    ],
+    scamPatterns: [
+      'Airport and bus station scammers posing as official helpers',
+      'Gem and craft overpricing at tourist markets',
+      'Fake guides who demand large fees after completing tours',
+      'Money changers offering above-market rates (counterfeit risk)',
+    ],
   },
   'Oceania': {
     emoji: '🦘',
-    overview: 'Australia and New Zealand consistently rank among the safest countries in the world for tourists, with excellent infrastructure and low crime rates. Pacific island destinations are generally safe, though some urban areas in Papua New Guinea require caution.',
-    travelTips: ['Sun protection is essential — UV radiation is extremely high','Wildlife hazards are real — research dangerous animals for your region','Emergency: 000 in Australia, 111 in New Zealand','Distances are vast — plan transport and accommodation well in advance'],
-    scamPatterns: ['Ticket scalping at major events','Fake accommodation listings online','Overpriced tourist activities in major cities','Phone and internet scams (physical crime risk is relatively low)'],
+    overview: 'Australia and New Zealand consistently rank among the safest countries in the world for tourists, with excellent infrastructure and low crime rates. Pacific island destinations are generally safe.',
+    travelTips: [
+      'Sun protection is essential — UV radiation is extremely high',
+      'Wildlife hazards are real — research dangerous animals for your region',
+      'Emergency: 000 in Australia, 111 in New Zealand',
+      'Distances are vast — plan transport and accommodation well in advance',
+    ],
+    scamPatterns: [
+      'Ticket scalping at major events',
+      'Fake accommodation listings online',
+      'Overpriced tourist activities in major cities',
+      'Phone and internet scams (physical crime risk is relatively low)',
+    ],
   },
 };
 
 type City = {
-  slug: string; name: string; country: string; region: string;
-  overallScore: number; badgeLabel?: string;
+  slug: string;
+  name: string;
+  country: string;
+  region: string;
+  overallScore: number;
 };
 
-function getScoreClass(score: number) {
+type Tooltip = { text: string; x: number; y: number };
+
+type GeoProps = { rsmKey: string; id: string };
+
+function getScoreClass(score: number): string {
   if (score >= 7) return 'safe';
   if (score >= 5) return 'caution';
   return 'danger';
 }
 
-function avgScore(cities: City[]) {
+function avgScore(cities: City[]): number {
   if (!cities.length) return 0;
   return cities.reduce((s, c) => s + (c.overallScore || 0), 0) / cities.length;
 }
 
 const SCORE_COLORS: Record<string, string> = {
-  safe: '#2d7a4f', caution: '#b8860b', danger: '#c4322a',
+  safe: '#2d7a4f',
+  caution: '#b8860b',
+  danger: '#c4322a',
   none: '#cbd5e1',
 };
 
@@ -142,7 +236,7 @@ type Props = { cities: City[] };
 
 export default function RegionsMap({ cities }: Props) {
   const [selected, setSelected] = useState<string | null>(null);
-  const [tooltip, setTooltip] = useState<{text: string; x: number; y: number} | null>(null);
+  const [tooltip, setTooltip] = useState<Tooltip | null>(null);
 
   const byRegion: Record<string, City[]> = {};
   for (const city of cities) {
@@ -156,44 +250,42 @@ export default function RegionsMap({ cities }: Props) {
     regionAvgScores[region] = avgScore(rCities);
   }
 
-  function getCountryColor(geoId: string) {
+  function getCountryColor(geoId: string): string {
     const id = parseInt(geoId);
     const region = COUNTRY_TO_REGION[id];
     if (!region || !regionAvgScores[region]) return SCORE_COLORS.none;
-    return SCORE_COLORS[getScoreClass(regionAvgScores[region])];
+    return SCORE_COLORS[getScoreClass(regionAvgScores[region])] ?? SCORE_COLORS.none;
   }
 
-  function getCountryRegion(geoId: string) {
-    return COUNTRY_TO_REGION[parseInt(geoId)] || null;
+  function getCountryRegion(geoId: string): string | null {
+    return COUNTRY_TO_REGION[parseInt(geoId)] ?? null;
   }
 
-  const selectedCities = selected ? (byRegion[selected] || []) : [];
+  const selectedCities = selected ? (byRegion[selected] ?? []) : [];
   const topSafe = [...selectedCities].sort((a, b) => b.overallScore - a.overallScore).slice(0, 5);
   const topRisk = [...selectedCities].sort((a, b) => a.overallScore - b.overallScore).slice(0, 5);
-  const regionAvg = selected ? (regionAvgScores[selected] || 0) : 0;
+  const regionAvg = selected ? (regionAvgScores[selected] ?? 0) : 0;
   const info = selected ? REGION_INFO[selected] : null;
 
   return (
     <div className="regions-map-wrapper">
       <p className="regions-map-hint">Click any region to explore safety scores, top cities, scam patterns, and travel tips</p>
 
-      {/* Legend */}
-      <div className="map-legend" style={{marginBottom: '0.75rem'}}>
-        <span className="legend-item"><span className="legend-dot" style={{background:'#2d7a4f'}}></span>Generally Safe (7+)</span>
-        <span className="legend-item"><span className="legend-dot" style={{background:'#b8860b'}}></span>Moderate Caution (5–6.9)</span>
-        <span className="legend-item"><span className="legend-dot" style={{background:'#c4322a'}}></span>Exercise Caution (&lt;5)</span>
-        <span className="legend-item"><span className="legend-dot" style={{background:'#cbd5e1'}}></span>No data yet</span>
+      <div className="map-legend" style={{ marginBottom: '0.75rem' }}>
+        <span className="legend-item"><span className="legend-dot" style={{ background: '#2d7a4f' }}></span>Generally Safe (7+)</span>
+        <span className="legend-item"><span className="legend-dot" style={{ background: '#b8860b' }}></span>Moderate Caution (5–6.9)</span>
+        <span className="legend-item"><span className="legend-dot" style={{ background: '#c4322a' }}></span>Exercise Caution (&lt;5)</span>
+        <span className="legend-item"><span className="legend-dot" style={{ background: '#cbd5e1' }}></span>No data yet</span>
       </div>
 
-      {/* World Map */}
-      <div className="regions-svg-container" style={{position:'relative'}}>
+      <div className="regions-svg-container" style={{ position: 'relative' }}>
         <ComposableMap
-          projectionConfig={{ scale: 147, center: [10, 10] }}
+          projectionConfig={{ scale: 147, center: [10, 10] as [number, number] }}
           style={{ width: '100%', height: 'auto', borderRadius: '12px', background: '#dbeafe' }}
         >
           <ZoomableGroup zoom={1} minZoom={1} maxZoom={4}>
             <Geographies geography={GEO_URL}>
-              {({ geographies }: { geographies: any[] }) =>
+              {({ geographies }: { geographies: GeoProps[] }) =>
                 geographies.map((geo) => {
                   const region = getCountryRegion(geo.id);
                   const color = getCountryColor(geo.id);
@@ -208,7 +300,7 @@ export default function RegionsMap({ cities }: Props) {
                       strokeWidth={0.5}
                       style={{
                         default: { outline: 'none', cursor: region ? 'pointer' : 'default' },
-                        hover: { outline: 'none', fillOpacity: 1, filter: region ? 'brightness(1.1)' : 'none' },
+                        hover: { outline: 'none', fillOpacity: 1 },
                         pressed: { outline: 'none' },
                       }}
                       onClick={() => {
@@ -218,7 +310,7 @@ export default function RegionsMap({ cities }: Props) {
                         if (region) {
                           const avg = regionAvgScores[region];
                           setTooltip({
-                            text: `${REGION_INFO[region]?.emoji || ''} ${region}${avg ? ' · ' + avg.toFixed(1) + '/10' : ''}`,
+                            text: `${REGION_INFO[region]?.emoji ?? ''} ${region}${avg ? ' · ' + avg.toFixed(1) + '/10' : ''}`,
                             x: e.clientX,
                             y: e.clientY,
                           });
@@ -233,7 +325,6 @@ export default function RegionsMap({ cities }: Props) {
           </ZoomableGroup>
         </ComposableMap>
 
-        {/* Tooltip */}
         {tooltip && (
           <div className="map-tooltip" style={{ left: tooltip.x + 12, top: tooltip.y - 36 }}>
             {tooltip.text}
@@ -241,7 +332,6 @@ export default function RegionsMap({ cities }: Props) {
         )}
       </div>
 
-      {/* Region Detail Panel */}
       {selected && info && (
         <div className="region-detail-panel">
           <div className="region-detail-header">
@@ -266,7 +356,7 @@ export default function RegionsMap({ cities }: Props) {
             <div className="region-detail-section">
               <h3 className="region-detail-section-title">✅ Safest Cities</h3>
               <div className="region-city-list">
-                {topSafe.map(city => (
+                {topSafe.map((city) => (
                   <Link key={city.slug} href={`/cities/${city.slug}`} className="region-city-row">
                     <span className="region-city-row-name">{city.name}, {city.country}</span>
                     <span className={`region-city-row-score score-${getScoreClass(city.overallScore)}`}>{city.overallScore.toFixed(1)}</span>
@@ -277,7 +367,7 @@ export default function RegionsMap({ cities }: Props) {
             <div className="region-detail-section">
               <h3 className="region-detail-section-title">⚠️ Highest Risk Cities</h3>
               <div className="region-city-list">
-                {topRisk.map(city => (
+                {topRisk.map((city) => (
                   <Link key={city.slug} href={`/cities/${city.slug}`} className="region-city-row">
                     <span className="region-city-row-name">{city.name}, {city.country}</span>
                     <span className={`region-city-row-score score-${getScoreClass(city.overallScore)}`}>{city.overallScore.toFixed(1)}</span>
