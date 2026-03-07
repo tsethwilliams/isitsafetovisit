@@ -1,0 +1,127 @@
+{
+  "city_id": "hanoi-vietnam",
+  "city_name": "Hanoi",
+  "country": "Vietnam",
+  "overall_safety_score": 0,
+  "last_updated": "2026-03-07T03:48:09.459916+00:00",
+  "auto_generated": true,
+  "human_reviewed": false,
+  "categories": {
+    "violent_crime": {
+      "score": 85,
+      "sub_scores": {
+        "murder_homicide": 90,
+        "assault": 82,
+        "armed_robbery": 78,
+        "sexual_assault": 75
+      }
+    },
+    "petty_crime": {
+      "score": 65,
+      "sub_scores": {
+        "pickpocketing": 60,
+        "bag_snatching": 58,
+        "theft_from_vehicle": 70,
+        "scams": 62
+      }
+    },
+    "political_stability": {
+      "score": 78,
+      "sub_scores": {
+        "civil_unrest": 82,
+        "terrorism": 85,
+        "government_stability": 75
+      }
+    },
+    "health_safety": {
+      "score": 68,
+      "sub_scores": {
+        "healthcare_quality": 72,
+        "disease_risk": 65,
+        "air_quality": 55,
+        "water_safety": 70
+      }
+    },
+    "natural_disasters": {
+      "score": 58,
+      "sub_scores": {
+        "typhoons": 52,
+        "flooding": 48,
+        "earthquakes": 85,
+        "landslides": 60
+      }
+    },
+    "transportation_safety": {
+      "score": 55,
+      "sub_scores": {
+        "road_safety": 45,
+        "public_transport": 60,
+        "taxi_safety": 58,
+        "airport_safety": 75
+      }
+    },
+    "women_safety": {
+      "score": 76,
+      "sub_scores": {
+        "solo_female_travel": 78,
+        "harassment": 73,
+        "nighttime_safety": 72,
+        "accommodation_safety": 82
+      }
+    },
+    "lgbtq_safety": {
+      "score": 70,
+      "sub_scores": {
+        "legal_protection": 65,
+        "social_acceptance": 72,
+        "discrimination_risk": 68,
+        "nightlife_safety": 75
+      }
+    }
+  },
+  "content": {
+    "overview": "Hanoi, Vietnam's capital, is generally a safe destination for travelers with low violent crime rates and a stable political environment. The US State Department maintains a Level 1 travel advisory for Vietnam ('Exercise Normal Precautions'), indicating the country is among the safest for international travel. However, visitors should be aware of specific risks including petty crime, natural disasters, and traffic safety concerns.",
+    "government_advisory": "The US State Department currently maintains a Level 1 travel advisory for Vietnam, recommending travelers 'Exercise Normal Precautions.' This is the lowest level of travel advisory, indicating Vietnam is considered safe for tourism. The advisory notes standard precautions should be taken, particularly regarding motorbike taxi safety and general awareness of surroundings.",
+    "crime_analysis": "Violent crime against tourists in Hanoi is extremely rare. The city experiences low rates of murder, assault, and armed robbery compared to other major Asian cities. However, petty crime is more common, particularly targeting tourists. Motorbike snatching of bags and phones is a notable concern in busy areas like the Old Quarter. Pickpocketing occurs frequently in crowded tourist areas, markets, and on public transport. Scams targeting tourists are prevalent, including taxi meter fraud, overcharging at markets, and various tourist-specific schemes.",
+    "health_risks": "Healthcare quality varies significantly between public and private facilities. International-standard private hospitals in Hanoi offer excellent care with English-speaking staff, but can be expensive. Public healthcare is basic and often requires upfront payment. Common health risks include dengue fever (year-round risk), Japanese encephalitis, typhoid, and hepatitis A/B. Air quality is poor due to traffic pollution and industrial activity. Tap water is not safe for drinking; bottled water should be used. Food safety requires attention, particularly with street food vendors.",
+    "natural_disasters": "Hanoi faces significant seasonal weather risks. The typhoon season (May-November) brings heavy rainfall, flooding, and strong winds. In 2025, Hanoi experienced severe flooding from multiple typhoons, including record-breaking rainfall that overwhelmed drainage systems. Urban flooding is common during heavy rains, particularly in central districts. Climate change has increased the frequency and intensity of extreme weather events. Earthquake risk is low, but the region can experience minor tremors.",
+    "transportation": "Road safety is a major concern in Hanoi. Traffic accidents account for approximately 6,900 fatalities annually nationwide. The city has an estimated 8.5 million motorbikes, creating chaotic traffic conditions. Pedestrian safety requires constant vigilance when crossing streets. Grab (ride-hailing app) is generally safer and more reliable than traditional taxis. Official airport taxis and hotel-arranged transport are recommended over street taxis. Motorbike rentals are risky for inexperienced riders and require proper licensing.",
+    "women_safety": "Hanoi is generally safe for solo female travelers. Harassment and catcalling are less common than in many Western countries due to conservative cultural norms. Women travelers report feeling secure exploring during the day and in well-lit tourist areas at night. However, caution is advised in less touristy areas after dark. Sexual assault, while rare, has been reported, particularly involving unofficial transport services. Female-only accommodations are available and recommended for solo travelers.",
+    "lgbtq_safety": "Same-sex relationships are legal in Vietnam and have never been criminalized. The government removed same-sex marriage bans in 2015, though full legal recognition is not yet available. Social acceptance is growing, particularly among younger generations, with 65% supporting same-sex marriage according to 2023 surveys. LGBTQ+ travelers face minimal safety risks as tourists, though discretion is advised in conservative rural areas. Hanoi has gay-friendly venues and hosts pride events, though the scene is relatively low-key.",
+    "political_stability": "Vietnam maintains stable one-party rule under the Communist Party. Political stability is expected to continue, with peaceful transitions of leadership. Civil unrest is extremely rare, and protests are typically small and quickly contained. The government strictly controls political dissent, with over 170 people currently imprisoned for political activities. However, this primarily affects local activists rather than tourists. Terrorism risk is very low, with no significant threats targeting visitors.",
+    "emergency_contacts": "Police: 113 (24/7 nationwide)\nAmbulance: 115 (24/7 nationwide)\nFire Department: 114 (24/7 nationwide)\nSearch & Rescue: 112 (natural disasters)\nUS Embassy Hanoi: +84 24 3850 5000\nBritish Embassy: +84 24 3936 0500\nAustralian Embassy: +84 24 3774 0100\nTourist Hotline: 1900 1883\nDisaster Management: 1900 7877",
+    "practical_tips": "Use bottled water and eat at reputable establishments. Carry valuables in front-facing bags and avoid displaying expensive items. Use official taxi services or Grab app rather than street taxis. Stay in well-lit, populated areas at night, particularly in the Old Quarter. Be cautious of common scams including fake tours, overpriced services, and aggressive vendors. Purchase comprehensive travel insurance before arrival. Keep copies of important documents in multiple locations. Learn basic Vietnamese phrases for emergencies. Monitor weather forecasts during typhoon season and follow local evacuation orders if issued."
+  },
+  "data_sources": [
+    "US State Department Travel Advisories (2026)",
+    "Vietnam National Statistics (2025)",
+    "World Bank Political Stability Index (2023)",
+    "WHO Health Statistics (2025)",
+    "Vietnam Meteorological Service (2025)",
+    "Numbeo Crime Index (2025)",
+    "LGBTQ+ Rights Organizations (2025)",
+    "Solo Female Travel Reports (2025-2026)",
+    "Embassy Security Briefings (2025)"
+  ],
+  "frequent_updates": [
+    "natural_disasters",
+    "health_risks",
+    "transportation",
+    "government_advisory"
+  ],
+  "travel_seasons": {
+    "safest_months": [
+      "October",
+      "November",
+      "March",
+      "April"
+    ],
+    "risk_periods": [
+      "May-September (typhoon season)",
+      "December-February (pollution)"
+    ],
+    "special_considerations": "Typhoon season (May-November) significantly increases flooding and weather-related risks"
+  },
+  "safety_tier": "high_risk",
+  "trending": "stable"
+}

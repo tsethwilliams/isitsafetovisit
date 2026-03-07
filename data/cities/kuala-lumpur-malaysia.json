@@ -1,0 +1,274 @@
+{
+  "city_id": "kuala-lumpur-malaysia",
+  "city_name": "Kuala Lumpur",
+  "country": "Malaysia",
+  "overall_safety_score": 0,
+  "last_updated": "2026-03-07T03:51:22.015590+00:00",
+  "data_sources": {
+    "government_advisories": {
+      "us_state_department": {
+        "level": 1,
+        "title": "Exercise Normal Precautions",
+        "last_updated": "2026-02-22",
+        "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malaysia-travel-advisory.html"
+      }
+    },
+    "crime_data": {
+      "numbeo_crime_index": {
+        "score": 59.11,
+        "safety_index": 40.89,
+        "last_updated": "2026"
+      },
+      "malaysia_crime_statistics": {
+        "total_cases_2024": 58255,
+        "increase_from_2023": "11.1%",
+        "property_crimes": 47188,
+        "violent_crimes": 11067
+      }
+    },
+    "healthcare_rankings": {
+      "newsweek_world_best_hospitals_2025": "Multiple KL hospitals ranked globally",
+      "malaysia_healthcare_index": "95/100 (2019 Global Retirement Index)"
+    }
+  },
+  "score_breakdown": {
+    "petty_crime": {
+      "score": 55,
+      "description": "Moderate risk of pickpocketing, bag snatching, and phone theft, especially in tourist areas and on public transport"
+    },
+    "violent_crime": {
+      "score": 75,
+      "description": "Low violent crime rate with rare incidents affecting tourists"
+    },
+    "scams_fraud": {
+      "score": 60,
+      "description": "Common tourist scams including overcharging, fake tours, and romance scams"
+    },
+    "transport_safety": {
+      "score": 72,
+      "description": "Generally safe public transport with some concerns about unofficial taxis"
+    },
+    "health_medical": {
+      "score": 85,
+      "description": "Excellent healthcare facilities with world-class hospitals and medical tourism infrastructure"
+    },
+    "natural_disasters": {
+      "score": 65,
+      "description": "Moderate flood risk during monsoon season, low earthquake and tsunami risk"
+    },
+    "political_stability": {
+      "score": 67,
+      "description": "Generally stable with some political tensions and coalition challenges"
+    },
+    "lgbtq_safety": {
+      "score": 25,
+      "description": "Illegal status with active enforcement and societal discrimination"
+    },
+    "female_solo_safety": {
+      "score": 75,
+      "description": "Generally safe for solo female travelers with standard precautions"
+    },
+    "nightlife_safety": {
+      "score": 70,
+      "description": "Safe nightlife scene with precautions needed for late-night activities"
+    }
+  },
+  "neighborhood_safety": {
+    "safest_areas": [
+      {
+        "name": "KLCC (Kuala Lumpur City Centre)",
+        "safety_score": 85,
+        "description": "Well-patrolled tourist area with modern infrastructure and security"
+      },
+      {
+        "name": "Mont Kiara",
+        "safety_score": 80,
+        "description": "Upscale expat area with good security and low crime rates"
+      },
+      {
+        "name": "Bangsar",
+        "safety_score": 78,
+        "description": "Popular expat neighborhood with good security and nightlife"
+      }
+    ],
+    "areas_to_avoid": [
+      {
+        "name": "Chow Kit",
+        "safety_score": 45,
+        "description": "Higher crime rates, especially at night; drug-related activities"
+      },
+      {
+        "name": "Pudu",
+        "safety_score": 50,
+        "description": "Some areas can be unsafe after dark; increased vigilance needed"
+      }
+    ]
+  },
+  "transportation": {
+    "public_transport_safety": 72,
+    "taxi_safety": 68,
+    "rideshare_safety": 80,
+    "walking_safety": 65,
+    "driving_safety": 70,
+    "notes": "LRT/MRT systems are safe and efficient. Use Grab instead of street taxis. Walking can be challenging due to limited pedestrian infrastructure."
+  },
+  "health_safety": {
+    "healthcare_quality": 85,
+    "common_health_risks": [
+      "Dengue fever",
+      "Food poisoning from street food",
+      "Heat exhaustion",
+      "Air pollution during haze season"
+    ],
+    "vaccination_requirements": [
+      "Routine vaccinations up to date",
+      "Hepatitis A and B recommended",
+      "Japanese Encephalitis for rural areas",
+      "Malaria prophylaxis not needed for KL"
+    ],
+    "top_hospitals": [
+      {
+        "name": "Gleneagles Hospital Kuala Lumpur",
+        "rating": "Top 3 in Malaysia, Global ranking in Newsweek 2025"
+      },
+      {
+        "name": "Prince Court Medical Centre",
+        "rating": "5-star hospital, World's Best Hospitals 2025"
+      },
+      {
+        "name": "Pantai Hospital Kuala Lumpur",
+        "rating": "50 years of service, 507 beds, 200+ specialists"
+      }
+    ]
+  },
+  "natural_risks": {
+    "flood_risk": {
+      "level": "Moderate to High",
+      "season": "October to March (monsoon season)",
+      "description": "Flash floods common during heavy rains, especially in low-lying areas"
+    },
+    "earthquake_risk": {
+      "level": "Low",
+      "description": "2% chance of damaging earthquake in next 50 years"
+    },
+    "other_risks": [
+      "Haze from forest fires (seasonal)",
+      "Minor landslides in hilly areas during heavy rain",
+      "Extreme heat and humidity"
+    ]
+  },
+  "crime_hotspots": [
+    {
+      "area": "Bukit Bintang nightlife district",
+      "crimes": [
+        "Pickpocketing",
+        "Drink spiking",
+        "Overcharging"
+      ],
+      "time": "Late night/early morning"
+    },
+    {
+      "area": "Public transport stations",
+      "crimes": [
+        "Phone snatching",
+        "Pickpocketing"
+      ],
+      "time": "Rush hours"
+    },
+    {
+      "area": "Night markets",
+      "crimes": [
+        "Pickpocketing",
+        "Overcharging",
+        "Counterfeit goods"
+      ],
+      "time": "Evening hours"
+    }
+  ],
+  "emergency_contacts": {
+    "emergency_services": "999 (Police, Fire, Ambulance)",
+    "mobile_emergency": "112",
+    "tourist_police": "+60 3 2149 6590",
+    "us_embassy": "+60 3 2168 5000",
+    "fire_department": "994",
+    "civil_defense": "991",
+    "gas_emergency": "995",
+    "power_failure": "15454"
+  },
+  "travel_advisories": {
+    "overall_risk": "Low to Moderate",
+    "current_concerns": [
+      "Petty crime in tourist areas",
+      "Monsoon flooding season",
+      "Political demonstrations possible"
+    ],
+    "recent_updates": [
+      "US State Department maintains Level 1 (Exercise Normal Precautions) as of Feb 2026",
+      "Eastern Sabah advisory reduced but KL unaffected",
+      "Increased security measures during political tensions"
+    ]
+  },
+  "local_laws_customs": {
+    "drug_laws": "Extremely strict - death penalty possible for trafficking",
+    "alcohol": "Available but restricted in some areas during religious periods",
+    "dress_code": "Modest dress required at religious sites; casual Western dress generally acceptable",
+    "photography": "Avoid photographing government buildings, military installations",
+    "lgbtq_status": "Illegal under federal and sharia law - up to 20 years imprisonment",
+    "important_notes": [
+      "Malaysia is a Muslim-majority country with conservative values",
+      "Public displays of affection should be minimal",
+      "Remove shoes when entering homes and certain venues"
+    ]
+  },
+  "safety_tips": {
+    "general": [
+      "Use registered taxis or Grab instead of street taxis",
+      "Keep valuables secure and avoid displaying expensive items",
+      "Be cautious of friendly strangers offering unsolicited help",
+      "Stay hydrated and use sunscreen - tropical climate is intense"
+    ],
+    "transport": [
+      "Use LRT/MRT for safe public transport",
+      "Verify taxi meters are running or negotiate fare beforehand",
+      "Avoid walking alone late at night in quiet areas",
+      "Keep important documents in hotel safe"
+    ],
+    "health": [
+      "Drink bottled or boiled water",
+      "Use insect repellent to prevent dengue",
+      "Be cautious with street food if you have sensitive stomach",
+      "Carry basic medications and hand sanitizer"
+    ],
+    "women_solo": [
+      "KL is generally safe for solo female travelers",
+      "Use women-only train cars during rush hour",
+      "Trust your instincts and avoid isolated areas at night",
+      "Dress modestly, especially when visiting religious sites"
+    ],
+    "scam_prevention": [
+      "Beware of 'Macau scams' - fake official calls demanding money",
+      "Don't buy electronics from small shops with big discounts",
+      "Avoid fake monks asking for donations",
+      "Be cautious of sob stories and requests for money"
+    ]
+  },
+  "cultural_considerations": {
+    "religious_sensitivity": "Respect Islamic customs, especially during Ramadan",
+    "language": "Bahasa Malaysia official, English widely spoken",
+    "tipping": "Not expected but appreciated (10% in restaurants)",
+    "bargaining": "Expected in markets, not in malls or restaurants"
+  },
+  "seasonal_safety": {
+    "best_time": "May to July (dry season)",
+    "monsoon_season": "October to March - increased flood risk",
+    "haze_season": "June to October - air quality issues from forest fires",
+    "ramadan_considerations": "Respect fasting hours, some restaurants closed during day"
+  },
+  "auto_generated": true,
+  "human_reviewed": false,
+  "confidence_score": 85,
+  "data_freshness": "High - based on 2025-2026 sources",
+  "methodology_notes": "Score based on weighted analysis of government advisories, crime statistics, healthcare quality, infrastructure, and traveler reports. LGBTQ+ score heavily weighted down due to criminalization and enforcement.",
+  "safety_tier": "high_risk",
+  "trending": "stable"
+}
