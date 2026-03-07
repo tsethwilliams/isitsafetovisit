@@ -47,7 +47,7 @@ import anthropic
 
 CONFIG = {
     "model": "claude-sonnet-4-20250514",
-    "max_tokens": 4096,
+    "max_tokens": 8192,
     "data_dir": Path("./data/cities"),
     "queue_file": Path("./data/city_queue.json"),
     "rankings_file": Path("./data/rankings.json"),
@@ -120,13 +120,21 @@ def call_claude(client, system_prompt: str, user_prompt: str, use_search: bool =
         tools=tools if tools else anthropic.NOT_GIVEN,
     )
 
-    # Extract text from response blocks
+    # Extract text from response blocks, skipping search result blocks
     text_parts = []
     for block in response.content:
-        if hasattr(block, "text"):
+        if hasattr(block, "text") and block.type == "text":
             text_parts.append(block.text)
 
-    return "\n".join(text_parts)
+    result = "\n".join(text_parts)
+    logging.debug(f"Claude response length: {len(result)} chars")
+    logging.debug(f"Claude response preview: {result[:200]}...")
+
+    if not result.strip():
+        logging.error("Claude returned empty text response")
+        logging.debug(f"Response content types: {[block.type for block in response.content]}")
+
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -427,18 +435,57 @@ def recalculate_rankings(cities: list[dict]) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def extract_json(text: str) -> dict | list:
-    """Extract JSON from Claude's response, handling markdown fences."""
-    # Strip markdown code fences if present
-    cleaned = text.strip()
-    if cleaned.startswith("```"):
-        lines = cleaned.split("\n")
-        # Remove first and last lines (fences)
-        lines = lines[1:]
-        if lines and lines[-1].strip() == "```":
-            lines = lines[:-1]
-        cleaned = "\n".join(lines)
+    """Extract JSON from Claude's response, handling various formats."""
+    import re
 
-    return json.loads(cleaned)
+    cleaned = text.strip()
+
+    # Try direct parse first
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        pass
+
+    # Try stripping markdown code fences
+    fence_pattern = re.compile(r'```(?:json)?\s*\n?(.*?)\n?\s*```', re.DOTALL)
+    match = fence_pattern.search(cleaned)
+    if match:
+        try:
+            return json.loads(match.group(1).strip())
+        except json.JSONDecodeError:
+            pass
+
+    # Try finding JSON object by matching braces
+    brace_start = cleaned.find('{')
+    if brace_start != -1:
+        depth = 0
+        for i in range(brace_start, len(cleaned)):
+            if cleaned[i] == '{':
+                depth += 1
+            elif cleaned[i] == '}':
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(cleaned[brace_start:i + 1])
+                    except json.JSONDecodeError:
+                        break
+
+    # Try finding JSON array by matching brackets
+    bracket_start = cleaned.find('[')
+    if bracket_start != -1:
+        depth = 0
+        for i in range(bracket_start, len(cleaned)):
+            if cleaned[i] == '[':
+                depth += 1
+            elif cleaned[i] == ']':
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(cleaned[bracket_start:i + 1])
+                    except json.JSONDecodeError:
+                        break
+
+    raise json.JSONDecodeError("No valid JSON found in response", cleaned, 0)
 
 
 # ---------------------------------------------------------------------------
