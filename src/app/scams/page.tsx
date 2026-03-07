@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
-import cityData from '@/data/city-data.json'
+import cityData from '@/lib/city-data.json'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Common Tourist Scams by Country and City — IsItSafeToVisit.com',
+  title: 'Common Tourist Scams by Country and City â IsItSafeToVisit.com',
   description: 'Browse common tourist scams by country and city with how-to-avoid guides for 500+ destinations.',
 }
 
@@ -15,21 +15,21 @@ interface City {
 }
 
 const UNIVERSAL_SCAMS = [
-  { category: 'Taxi and Transport', icon: '🚕', scams: [
+  { category: 'Taxi and Transport', icon: 'ð', scams: [
     { name: 'Broken Meter Scam', description: 'Driver claims the meter is broken and quotes an inflated fixed fare. Common worldwide, especially at airports.', howToAvoid: 'Always insist on the meter, or use a rideshare app like Uber or Grab where the price is set in advance.' },
     { name: 'Long Route Detour', description: 'Taxi takes an unnecessarily long route to inflate the fare. Hard to detect in unfamiliar cities.', howToAvoid: 'Screenshot your route on Google Maps before getting in and speak up if the driver deviates significantly.' },
     { name: 'Fake Rideshare Driver', description: 'Impersonators wait near rideshare pickup zones pretending to be your booked driver.', howToAvoid: 'Always verify driver name, license plate, and car make before getting in. Never say the driver name first.' },
   ]},
-  { category: 'Street and Attraction Scams', icon: '🗺️', scams: [
+  { category: 'Street and Attraction Scams', icon: 'ðºï¸', scams: [
     { name: 'Friendship Bracelet', description: 'A stranger ties a bracelet onto your wrist without permission, then aggressively demands payment.', howToAvoid: 'Keep hands in pockets near tourist areas. Refuse firmly and walk away immediately.' },
     { name: 'Closed Attraction Redirect', description: 'A stranger claims your destination is closed today and offers to take you somewhere better. Nothing is ever closed.', howToAvoid: 'Ignore unsolicited advice about closures. Walk directly to the attraction yourself.' },
     { name: 'Dropped Item Distraction', description: 'Someone drops something and an accomplice pickpockets you while you are distracted.', howToAvoid: 'Keep your bag in front. Stay alert in crowded areas. Do not get drawn into street dramas.' },
   ]},
-  { category: 'Food and Drink', icon: '🍽️', scams: [
+  { category: 'Food and Drink', icon: 'ð½ï¸', scams: [
     { name: 'Unmarked Menu Prices', description: 'Restaurant has no prices on the menu. The bill arrives with massive charges for service fees or inflated items.', howToAvoid: 'Always ask for a written menu with prices before ordering. If no prices are shown, leave.' },
     { name: 'Drink Spiking', description: 'Drinks are spiked with sedatives at bars. More common in nightlife districts.', howToAvoid: 'Never leave your drink unattended. Accept drinks only from bartenders. Travel with a buddy at night.' },
   ]},
-  { category: 'Money and Cards', icon: '💳', scams: [
+  { category: 'Money and Cards', icon: 'ð³', scams: [
     { name: 'Currency Confusion', description: 'Vendors exploit unfamiliarity with local currency to shortchange you. Common with multi-zero currencies.', howToAvoid: 'Know the exchange rate before you arrive. Count change carefully every time.' },
     { name: 'ATM Card Skimming', description: 'Skimming devices installed on ATMs capture your card data and PIN.', howToAvoid: 'Use ATMs inside banks or hotels. Cover keypad when entering PIN. Check for loose card readers.' },
     { name: 'Fake Police Shakedown', description: 'Plain clothes police demand to inspect your wallet for counterfeit money and steal from it.', howToAvoid: 'Real police have uniforms. Insist on going to the nearest police station. Never hand over your wallet.' },
@@ -47,7 +47,7 @@ export default function ScamsPage() {
     <main className="scams-page">
       <div className="page-hero">
         <div className="container">
-          <div className="breadcrumb"><a href="/">Home</a><span>›</span><span>Scam Guide</span></div>
+          <div className="breadcrumb"><a href="/">Home</a><span>âº</span><span>Scam Guide</span></div>
           <h1>The Tourist Scam Guide</h1>
           <p className="hero-subtitle">Know the plays before they run them on you.</p>
         </div>
@@ -55,7 +55,7 @@ export default function ScamsPage() {
       <div className="container page-content">
         <div className="scams-layout">
           <div className="scams-main">
-            <p className="lead-text">Tourist scams are a global industry. The setups differ by city but the mechanics repeat — distraction, social pressure, confusion, urgency. Knowing the playbook is the best defense.</p>
+            <p className="lead-text">Tourist scams are a global industry. The setups differ by city but the mechanics repeat â distraction, social pressure, confusion, urgency. Knowing the playbook is the best defense.</p>
             <section className="universal-scams">
               <h2>Universal Scams: The Global Playbook</h2>
               {UNIVERSAL_SCAMS.map((cat) => (
@@ -85,16 +85,16 @@ export default function ScamsPage() {
               ))}
             </div>
             <div className="sidebar-widget protect-widget">
-              <h3>🛡️ Protect Yourself Online</h3>
+              <h3>ð¡ï¸ Protect Yourself Online</h3>
               <p>A VPN protects your financial data on public Wi-Fi in hotels, cafes, and airports abroad.</p>
-              <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142230&url_id=902" target="_blank" rel="noopener noreferrer" className="vpn-cta">Get NordVPN — Travel Secure</a>
-              <p className="affiliate-note">Affiliate link — helps support this site</p>
+              <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=142230&url_id=902" target="_blank" rel="noopener noreferrer" className="vpn-cta">Get NordVPN â Travel Secure</a>
+              <p className="affiliate-note">Affiliate link â helps support this site</p>
             </div>
             <div className="sidebar-widget insurance-widget">
-              <h3>🚑 Travel Insurance</h3>
+              <h3>ð Travel Insurance</h3>
               <p>SafetyWing covers you worldwide from $1.87/day.</p>
               <a href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador" target="_blank" rel="noopener noreferrer" className="insurance-cta">Get SafetyWing Coverage</a>
-              <p className="affiliate-note">Affiliate link — helps support this site</p>
+              <p className="affiliate-note">Affiliate link â helps support this site</p>
             </div>
           </aside>
         </div>
@@ -106,7 +106,7 @@ export default function ScamsPage() {
               <Link key={city.slug} href={`/cities/${city.slug}#scams`} className="city-scam-chip">{city.name}</Link>
             ))}
           </div>
-          <div style={{ marginTop: '1.5rem' }}><Link href="/" className="browse-all-link">Browse all cities →</Link></div>
+          <div style={{ marginTop: '1.5rem' }}><Link href="/" className="browse-all-link">Browse all cities â</Link></div>
         </section>
       </div>
       <style>{`
