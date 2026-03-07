@@ -17,23 +17,18 @@ const COUNTRY_TO_REGION: Record<number, string> = {
   616:'Europe',620:'Europe',642:'Europe',674:'Europe',688:'Europe',703:'Europe',
   705:'Europe',724:'Europe',752:'Europe',756:'Europe',804:'Europe',807:'Europe',
   826:'Europe',831:'Europe',832:'Europe',833:'Europe',
-
   // Asia
   4:'Asia',50:'Asia',64:'Asia',96:'Asia',104:'Asia',116:'Asia',156:'Asia',
   344:'Asia',356:'Asia',360:'Asia',364:'Asia',392:'Asia',398:'Asia',408:'Asia',
   410:'Asia',418:'Asia',422:'Asia',458:'Asia',462:'Asia',496:'Asia',524:'Asia',
-  586:'Asia',608:'Asia',626:'Asia',643:'Asia',682:'Asia',703:'Asia',702:'Asia',
-  144:'Asia',764:'Asia',762:'Asia',800:'Asia',860:'Asia',704:'Asia',887:'Asia',
-  417:'Asia',795:'Asia',788:'Asia',496:'Asia',
-
+  586:'Asia',608:'Asia',626:'Asia',643:'Asia',702:'Asia',144:'Asia',764:'Asia',
+  762:'Asia',860:'Asia',704:'Asia',417:'Asia',795:'Asia',
   // Middle East
   31:'Middle East',48:'Middle East',368:'Middle East',376:'Middle East',
-  400:'Middle East',414:'Middle East',422:'Middle East',512:'Middle East',
-  634:'Middle East',760:'Middle East',784:'Middle East',887:'Middle East',275:'Middle East',
-
+  400:'Middle East',414:'Middle East',512:'Middle East',634:'Middle East',
+  760:'Middle East',784:'Middle East',887:'Middle East',275:'Middle East',
   // North America
   124:'North America',840:'North America',
-
   // Central America & Caribbean
   28:'Central America & Caribbean',44:'Central America & Caribbean',
   52:'Central America & Caribbean',84:'Central America & Caribbean',
@@ -46,30 +41,24 @@ const COUNTRY_TO_REGION: Record<number, string> = {
   630:'Central America & Caribbean',659:'Central America & Caribbean',
   662:'Central America & Caribbean',670:'Central America & Caribbean',
   780:'Central America & Caribbean',796:'Central America & Caribbean',
-
   // South America
   32:'South America',68:'South America',76:'South America',152:'South America',
   170:'South America',218:'South America',238:'South America',254:'South America',
   328:'South America',604:'South America',600:'South America',740:'South America',
   858:'South America',862:'South America',
-
   // Africa
-  12:'Africa',24:'Africa',72:'Africa',86:'Africa',108:'Africa',120:'Africa',
-  132:'Africa',140:'Africa',148:'Africa',174:'Africa',175:'Africa',178:'Africa',
-  180:'Africa',204:'Africa',226:'Africa',231:'Africa',232:'Africa',260:'Africa',
-  266:'Africa',270:'Africa',288:'Africa',324:'Africa',384:'Africa',404:'Africa',
-  426:'Africa',430:'Africa',434:'Africa',450:'Africa',454:'Africa',466:'Africa',
-  478:'Africa',480:'Africa',504:'Africa',508:'Africa',516:'Africa',562:'Africa',
-  566:'Africa',624:'Africa',638:'Africa',646:'Africa',678:'Africa',686:'Africa',
-  694:'Africa',706:'Africa',710:'Africa',716:'Africa',728:'Africa',729:'Africa',
-  748:'Africa',768:'Africa',788:'Africa',800:'Africa',818:'Africa',834:'Africa',
-  894:'Africa',
-
+  12:'Africa',24:'Africa',72:'Africa',108:'Africa',120:'Africa',132:'Africa',
+  140:'Africa',148:'Africa',174:'Africa',178:'Africa',180:'Africa',204:'Africa',
+  226:'Africa',231:'Africa',232:'Africa',266:'Africa',270:'Africa',288:'Africa',
+  324:'Africa',384:'Africa',404:'Africa',426:'Africa',430:'Africa',434:'Africa',
+  450:'Africa',454:'Africa',466:'Africa',478:'Africa',480:'Africa',504:'Africa',
+  508:'Africa',516:'Africa',562:'Africa',566:'Africa',624:'Africa',646:'Africa',
+  678:'Africa',686:'Africa',694:'Africa',706:'Africa',710:'Africa',716:'Africa',
+  728:'Africa',729:'Africa',748:'Africa',768:'Africa',788:'Africa',800:'Africa',
+  818:'Africa',834:'Africa',894:'Africa',
   // Oceania
-  36:'Oceania',242:'Oceania',296:'Oceania',316:'Oceania',584:'Oceania',
-  583:'Oceania',520:'Oceania',554:'Oceania',570:'Oceania',580:'Oceania',
-  585:'Oceania',598:'Oceania',612:'Oceania',882:'Oceania',548:'Oceania',
-  776:'Oceania',798:'Oceania',581:'Oceania',
+  36:'Oceania',242:'Oceania',296:'Oceania',554:'Oceania',598:'Oceania',
+  548:'Oceania',776:'Oceania',798:'Oceania',882:'Oceania',
 };
 
 const REGION_INFO: Record<string, {
