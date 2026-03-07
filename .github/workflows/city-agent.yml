@@ -87,7 +87,7 @@ jobs:
         run: |
           git config --local user.email "agent@isitsafetovisit.com"
           git config --local user.name "Safety Agent Bot"
-          git add data/ logs/
+          git add data/ logs/ src/lib/city-data.json public/sitemap.xml
           
           # Only commit if there are changes
           if git diff --staged --quiet; then
