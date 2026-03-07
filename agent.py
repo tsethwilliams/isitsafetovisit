@@ -153,10 +153,10 @@ def load_city(city_id: str) -> Optional[dict]:
 def save_city(city_data: dict):
     """Save a city's data file."""
     CONFIG["data_dir"].mkdir(parents=True, exist_ok=True)
-    city_id = city_data["city_id"]
+    city_id = city_data.get("city_id") or city_data.get("_city_id") or city_data.get("slug", "unknown")
     path = CONFIG["data_dir"] / f"{city_id}.json"
     with open(path, "w") as f:
-        json.dump(city_data, f, indent=2, default=str)
+        json.dump(city_data, f, indent=2, default=str, ensure_ascii=False)
     logging.info(f"Saved city data: {city_id}")
 
 
