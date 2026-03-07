@@ -193,7 +193,7 @@ export default function RegionsMap({ cities }: Props) {
         >
           <ZoomableGroup zoom={1} minZoom={1} maxZoom={4}>
             <Geographies geography={GEO_URL}>
-              {({ geographies }) =>
+              {({ geographies }: { geographies: any[] }) =>
                 geographies.map((geo) => {
                   const region = getCountryRegion(geo.id);
                   const color = getCountryColor(geo.id);
