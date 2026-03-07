@@ -54,7 +54,7 @@ CONFIG = {
     "log_file": Path("./logs/agent.log"),
     "changelog_file": Path("./logs/changelog.json"),
     "staleness_threshold_days": 30,
-    "batch_size_add": 5,       # New cities to add per run
+    "batch_size_add": 8,       # New cities to add per run
     "batch_size_refresh": 10,  # Stale cities to refresh per run
     "confidence_threshold": 0.6,
 }
