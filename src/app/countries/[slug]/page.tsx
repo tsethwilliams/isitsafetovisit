@@ -20,7 +20,6 @@ function getBadgeLabel(score: number) {
   return 'Exercise Caution';
 }
 
-};
 
 export async function generateStaticParams() {
   const raw = getAllCities();
