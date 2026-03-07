@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IsItSafeToVisit.com â City Safety Automation Agent
+IsItSafeToVisit.com Ã¢ÂÂ City Safety Automation Agent
 ===================================================
 Powered by Claude Code / Anthropic API
 
@@ -20,13 +20,13 @@ Usage:
   python agent.py --mode single --city "Tokyo, Japan"  # Process single city
 
 Scheduling (cron examples):
-  # Full pipeline â weekly on Sunday at 2 AM
+  # Full pipeline Ã¢ÂÂ weekly on Sunday at 2 AM
   0 2 * * 0 cd /path/to/project && python agent.py --mode full
 
-  # Alert monitoring â every 6 hours
+  # Alert monitoring Ã¢ÂÂ every 6 hours
   0 */6 * * * cd /path/to/project && python agent.py --mode alert
 
-  # Stale city refresh â daily at 3 AM
+  # Stale city refresh Ã¢ÂÂ daily at 3 AM
   0 3 * * * cd /path/to/project && python agent.py --mode refresh
 """
 
@@ -181,7 +181,7 @@ def get_stale_cities(threshold_days: int = None) -> list[dict]:
             last_updated = last_updated.replace(tzinfo=timezone.utc)
         if last_updated < cutoff:
             stale.append(city)
-    return sorted(stale, key=lambda c: c["last_updated"])
+    return sorted(stale, key=lambda c: c.get("last_updated", c.get("lastUpdated", "2020-01-01")))
 
 
 def load_queue() -> list[dict]:
@@ -272,7 +272,7 @@ Your job is to produce comprehensive, accurate, and actionable safety assessment
 CRITICAL RULES:
 1. Be factual and evidence-based. Use data you find but write in your own words.
 2. Score on a 1-10 scale where 10 = safest.
-3. Be balanced â acknowledge both risks and positive safety factors.
+3. Be balanced Ã¢ÂÂ acknowledge both risks and positive safety factors.
 4. Include practical, actionable advice travelers can use.
 5. Never minimize real dangers, but don't fear-monger either.
 6. Consider different traveler profiles (solo, female, LGBTQ+, families).
@@ -351,7 +351,7 @@ CRITICAL RULES:
 5. Update the "recent_incidents" section with anything from the last 90 days.
 
 OUTPUT FORMAT: You MUST respond with ONLY valid JSON matching the city schema.
-No markdown, no explanations â just the JSON object."""
+No markdown, no explanations Ã¢ÂÂ just the JSON object."""
 
 
 SYSTEM_PROMPT_ALERT = """You are a breaking-news safety monitor for IsItSafeToVisit.com.
@@ -702,7 +702,7 @@ def run_refresh(client):
         if updated:
             save_city(updated)
             log_change("refresh", city["city_id"],
-                       f"Score: {city.get('overall_safety_score', '?')} â {updated.get('overall_safety_score', '?')}")
+                       f"Score: {city.get('overall_safety_score', '?')} Ã¢ÂÂ {updated.get('overall_safety_score', '?')}")
 
 
 def run_add_cities(client):
@@ -1026,7 +1026,7 @@ def main():
     args = parser.parse_args()
 
     setup_logging()
-    logging.info(f"Agent starting â mode: {args.mode}")
+    logging.info(f"Agent starting Ã¢ÂÂ mode: {args.mode}")
 
     if args.mode == "seed":
         generate_seed_queue()
