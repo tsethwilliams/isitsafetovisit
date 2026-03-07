@@ -270,13 +270,16 @@ SYSTEM_PROMPT_GENERATE = """You are a travel safety research analyst for IsItSaf
 Your job is to produce comprehensive, accurate, and actionable safety assessments for cities worldwide.
 
 CRITICAL RULES:
-1. Be factual and evidence-based. Cite specific data points when possible.
+1. Be factual and evidence-based. Use data you find but write in your own words.
 2. Score on a 1-10 scale where 10 = safest.
 3. Be balanced — acknowledge both risks and positive safety factors.
 4. Include practical, actionable advice travelers can use.
 5. Never minimize real dangers, but don't fear-monger either.
 6. Consider different traveler profiles (solo, female, LGBTQ+, families).
 7. You MUST respond with ONLY valid JSON. No markdown fences, no explanations, no text before or after the JSON.
+8. NEVER include <cite> tags, citation markers, or any HTML tags in the text. Write plain text only.
+9. ALL fields shown in the schema below are REQUIRED. Do not omit any field.
+10. The JSON must include: summary, quickVerdict, neighborhoods (6), scams (3-4), soloFemale, nightSafety, transport, customs, health, emergency, faq (5), relatedCities.
 
 OUTPUT FORMAT: Respond with ONLY this exact JSON structure (no other text):
 {
@@ -300,10 +303,10 @@ OUTPUT FORMAT: Respond with ONLY this exact JSON structure (no other text):
     "transport": 7.5,
     "naturalHazards": 8.0
   },
-  "summary": "2-3 sentence overview of the city's safety for tourists.",
-  "quickVerdict": "A paragraph giving the bottom-line safety assessment.",
+  "summary": "2-3 sentence overview of the city's safety for tourists. Plain text only, no HTML.",
+  "quickVerdict": "A paragraph giving the bottom-line safety assessment. Plain text only.",
   "neighborhoods": [
-    {"name": "Neighborhood 1", "score": 8.5, "class": "safe", "description": "Description..."},
+    {"name": "Neighborhood 1", "score": 8.5, "class": "safe", "description": "Description in plain text..."},
     {"name": "Neighborhood 2", "score": 6.0, "class": "caution", "description": "Description..."},
     {"name": "Neighborhood 3", "score": 3.5, "class": "danger", "description": "Description..."}
   ],
@@ -432,6 +435,10 @@ Remember: scores are on a 1-10 scale. Respond with ONLY the JSON object."""
 
             # Also save to agent's data dir for tracking
             city_data["_city_id"] = city_id
+
+            # Sanitize the data
+            city_data = sanitize_city_data(city_data, city_name, country)
+
             return city_data
         except Exception as e:
             logging.error(f"Failed to parse city data for {city_name} (attempt {attempt + 1}): {e}")
@@ -439,6 +446,66 @@ Remember: scores are on a 1-10 scale. Respond with ONLY the JSON object."""
                 logging.error(f"All retries exhausted for {city_name}")
                 logging.debug(f"Raw response: {response[:500]}")
                 return None
+
+
+def sanitize_city_data(city_data: dict, city_name: str, country: str) -> dict:
+    """Strip citation tags and ensure all required fields exist."""
+    import re
+
+    def strip_cites(obj):
+        """Recursively strip <cite> tags from all strings in the data."""
+        if isinstance(obj, str):
+            # Remove <cite ...>...</cite> tags but keep inner text
+            cleaned = re.sub(r'<cite[^>]*>(.*?)</cite>', r'\1', obj)
+            # Remove any remaining <cite> or </cite> tags
+            cleaned = re.sub(r'</?cite[^>]*>', '', cleaned)
+            return cleaned.strip()
+        elif isinstance(obj, dict):
+            return {k: strip_cites(v) for k, v in obj.items()}
+        elif isinstance(obj, list):
+            return [strip_cites(item) for item in obj]
+        return obj
+
+    city_data = strip_cites(city_data)
+
+    # Ensure all required fields exist with defaults
+    defaults = {
+        "health": {
+            "overview": f"Healthcare in {city_name} is adequate for travelers. Pharmacies are widely available.",
+            "water": "Check local advisories on tap water safety. Bottled water is widely available.",
+            "vaccinations": "Ensure routine vaccinations are up to date. Check CDC recommendations before travel.",
+            "altitude": f"Check local weather conditions before traveling to {city_name}."
+        },
+        "emergency": {
+            "general": "112",
+            "police": "Check local emergency number",
+            "ambulance": "Check local emergency number",
+            "fire": "Check local emergency number",
+            "touristPolice": "N/A",
+            "usEmbassy": f"Contact the nearest US Embassy or Consulate in {country}"
+        },
+        "faq": [
+            {"q": f"Is {city_name} safe for tourists?", "a": f"{city_name} is generally safe for tourists who take standard precautions. Be aware of your surroundings and follow local safety advice."},
+            {"q": f"Is {city_name} safe at night?", "a": f"Many areas of {city_name} are safe at night, but stick to well-lit, busy areas and use licensed transport."},
+            {"q": f"Is {city_name} safe for solo female travelers?", "a": f"Solo female travelers can visit {city_name} safely by following standard precautions and staying aware of their surroundings."},
+            {"q": f"What areas should I avoid in {city_name}?", "a": f"Check the neighborhood breakdown above for specific areas to exercise caution in {city_name}."},
+            {"q": f"Is it safe to use public transport in {city_name}?", "a": f"Public transport in {city_name} is generally safe. Keep your belongings secure and be alert during rush hours."}
+        ],
+        "relatedCities": [],
+        "customs": [f"Respect local customs and traditions in {city_name}.", "Learn a few basic phrases in the local language.", "Dress appropriately when visiting religious sites."],
+        "soloFemale": {"overview": f"Solo female travel in {city_name} requires standard precautions.", "tips": ["Stay in well-reviewed accommodations.", "Share your itinerary with someone you trust.", "Trust your instincts in unfamiliar situations."]},
+        "nightSafety": {"overview": f"Exercise standard nighttime precautions in {city_name}.", "tips": ["Stick to well-lit, populated areas.", "Use licensed taxis or rideshare apps.", "Avoid walking alone in unfamiliar areas late at night."]},
+        "neighborhoods": [],
+        "scams": [],
+        "transport": {"metro": "Check local transit options.", "rideshare": "Uber and similar apps may be available.", "taxis": "Use licensed taxis.", "tips": "Plan your routes in advance."},
+    }
+
+    for field, default_val in defaults.items():
+        if field not in city_data or city_data[field] is None:
+            city_data[field] = default_val
+            logging.warning(f"Added missing field '{field}' for {city_name}")
+
+    return city_data
 
 
 def refresh_city(client, city_data: dict) -> dict:
