@@ -214,7 +214,7 @@ export default function CountryPage({ params }: { params: { slug: string } }) {
         <aside className="country-sidebar">
           <div className="sidebar-box">
             <div className="sidebar-box-title">🛡️ Travel Insurance</div>
-            <p>Don't travel to {country} without coverage. Medical emergencies abroad can cost thousands.</p>
+            <p>Don’t travel to {country} without coverage. Medical emergencies abroad can cost thousands.</p>
             <a href={safetyWingUrl} target="_blank" rel="noopener noreferrer sponsored" className="btn-safetywing">
               Get SafetyWing Coverage
             </a>
