@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getAllCities } from '@/lib/cities';
+import type { City } from '@/lib/cities';
 
 function toSlug(str: string) {
   return str.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
@@ -19,22 +20,18 @@ function getBadgeLabel(score: number) {
   return 'Exercise Caution';
 }
 
-type CityData = {
-  slug: string; name: string; country: string; region: string;
-  overallScore: number; badgeLabel?: string; badgeClass?: string;
-  scores?: { pettyCrime?: number; violentCrime?: number; scamRisk?: number; womensSafety?: number; nightSafety?: number; transport?: number; naturalHazards?: number; [key: string]: number | undefined; };
 };
 
 export async function generateStaticParams() {
   const raw = getAllCities();
-  const cities: CityData[] = Array.isArray(raw) ? raw : [];
+  const cities: City[] = Array.isArray(raw) ? raw : [];
   const countries = new Set(cities.map(c => toSlug(c.country)));
   return Array.from(countries).map(slug => ({ slug }));
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const raw = getAllCities();
-  const cities: CityData[] = Array.isArray(raw) ? raw : [];
+  const cities: City[] = Array.isArray(raw) ? raw : [];
   const countryCities = cities.filter(c => toSlug(c.country) === params.slug);
   if (!countryCities.length) return { title: 'Country Not Found' };
   const country = countryCities[0].country;
@@ -57,7 +54,7 @@ const SCORE_LABELS: Record<string, string> = {
 
 export default function CountryPage({ params }: { params: { slug: string } }) {
   const raw = getAllCities();
-  const cities: CityData[] = Array.isArray(raw) ? raw : [];
+  const cities: City[] = Array.isArray(raw) ? raw : [];
   const countryCities = cities.filter(c => toSlug(c.country) === params.slug);
   if (!countryCities.length) notFound();
 
@@ -77,7 +74,7 @@ export default function CountryPage({ params }: { params: { slug: string } }) {
   const categoryAvgs: Record<string, number> = {};
   const scoreKeys = ['pettyCrime','violentCrime','scamRisk','womensSafety','nightSafety','transport','naturalHazards'];
   for (const key of scoreKeys) {
-    const vals = countryCities.filter(c => c.scores?.[key]).map(c => c.scores![key]);
+    const vals = countryCities.filter(c => c.scores?.[key as keyof typeof c.scores]).map(c => (c.scores as Record<string, number>)[key]);
     if (vals.length) categoryAvgs[key] = vals.reduce((a, b) => a + b, 0) / vals.length;
   }
 
