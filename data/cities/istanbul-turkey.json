@@ -1,0 +1,163 @@
+{
+  "slug": "istanbul",
+  "name": "Istanbul",
+  "country": "Turkey",
+  "countryCode": "TR",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.5,
+    "scamRisk": 4.5,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "Istanbul is generally safe for tourists with low violent crime rates but frequent petty crime and scams targeting visitors. The city faces ongoing earthquake risk and requires basic precautions especially in crowded tourist areas.",
+  "quickVerdict": "Istanbul rewards prepared travelers with incredible experiences while requiring street smarts typical of major metropolitan areas. Violent crime against tourists is rare, but pickpocketing and tourist-targeted scams are common in busy areas like the Grand Bazaar and Taksim. The city sits on active fault lines with significant earthquake risk, though buildings in tourist areas have been reinforced. Women can travel safely using normal precautions, and the extensive public transport system is generally secure. Using ride-hailing apps, staying in well-established neighborhoods, and remaining aware of surroundings will ensure most visitors have trouble-free experiences.",
+  "neighborhoods": [
+    {
+      "name": "Sultanahmet",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic heart with Hagia Sophia and Blue Mosque. Heavy police presence, well-lit streets, and constant foot traffic make it very safe day and night, though expect persistent carpet sellers."
+    },
+    {
+      "name": "Kadikoy",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Trendy Asian-side neighborhood with authentic local atmosphere. Safe residential area with excellent cafes, markets, and nightlife. Less touristy than European side with fewer scams."
+    },
+    {
+      "name": "Beyoglu/Karakoy",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Cultural district around Istiklal Avenue with vibrant nightlife. Generally safe but watch for bar scams and pickpockets on busy pedestrian streets. Good police presence."
+    },
+    {
+      "name": "Besiktas",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern waterfront district with upscale shopping and dining. Safe for tourists with good transport links and well-maintained streets. Popular with locals and visitors alike."
+    },
+    {
+      "name": "Taksim",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Major nightlife hub with many hotels and restaurants. Generally safe but crowded with higher pickpocket risk. Some nearby back streets can be sketchy late at night."
+    },
+    {
+      "name": "Tarlabasι",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Avoid this area entirely. Known for drug activity, crime, and unsafe conditions despite being close to Taksim. Even locals recommend staying away, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bar Scam",
+      "risk": "high",
+      "description": "Friendly locals invite tourists for drinks at bars with inflated bills (up to $2500) and bouncers preventing departure without payment.",
+      "howToAvoid": "Never follow strangers to bars or accept drink invitations. If approached, politely decline and walk away immediately."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers take longer routes, claim broken meters, or quote fixed prices instead of using the taximeter to overcharge tourists.",
+      "howToAvoid": "Use BiTaksi or Uber apps exclusively. Ensure meter is running before departure and follow route on Google Maps."
+    },
+    {
+      "name": "Shoe Shine Drop",
+      "risk": "medium",
+      "description": "A person drops their shoe brush near you and offers free shoe cleaning as thanks for alerting them, then demands payment with backup from colleagues.",
+      "howToAvoid": "Don't pick up dropped items and keep walking. If confronted, firmly say no and move to a busy public area."
+    },
+    {
+      "name": "Carpet Shop Pressure",
+      "risk": "medium",
+      "description": "Aggressive sellers invite tourists for tea or to see their shop, then use high-pressure tactics to sell overpriced carpets or goods.",
+      "howToAvoid": "Decline all invitations to shops. Research prices beforehand if shopping and never feel pressured to buy anything."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Istanbul is generally safe for solo female travelers with standard precautions. Women report feeling comfortable during daytime exploration, and violent crime against tourists is extremely rare. However, catcalling and persistent stares can occur, particularly in traditional neighborhoods or tourist areas. The city has strong police presence in major districts and dedicated tourist police.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially outside beach/resort areas to reduce unwanted attention",
+      "Stay in well-established neighborhoods like Sultanahmet, Kadikoy, or Beyoglu rather than isolated areas",
+      "Use BiTaksi or Uber apps for transportation rather than hailing street taxis, especially at night",
+      "Carry hotel business cards and save emergency numbers including Tourism Police +90 212 527 45 03",
+      "Join walking tours or travel in groups when possible, particularly for nightlife activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Istanbul comes alive after dark with many areas staying busy until 2-3 AM. Main tourist districts like Sultanahmet, Taksim/Istiklal, and Kadikoy remain well-lit with good foot traffic. However, some areas become quiet quickly after dark, and the nightlife district around Taksim can involve late-night issues including fights and aggressive behavior.",
+    "tips": [
+      "Stick to main streets and avoid poorly lit back alleys, especially in Beyoglu and around Taksim",
+      "Use BiTaksi or pre-booked transfers for late-night transportation rather than walking long distances",
+      "Avoid Tarlabasι neighborhood entirely and stay away from isolated residential areas after midnight",
+      "Travel in groups when exploring nightlife areas and watch your drink consumption to maintain awareness",
+      "End evenings before public transport stops running around midnight to avoid navigation challenges"
+    ]
+  },
+  "transport": {
+    "metro": "Istanbul's metro system is modern, clean, and generally very safe. The Istanbulkart works across all public transport and costs 35 TL per trip. Some crowding during peak hours creates pickpocket opportunities, so keep belongings secure.",
+    "rideshare": "BiTaksi is the preferred local app with larger driver network and English support. Uber operates using licensed yellow/turquoise taxis. Both provide fare estimates, GPS tracking, and driver ratings for accountability.",
+    "taxis": "Street taxis frequently overcharge tourists through meter manipulation, long routes, and fake currency scams. Many drivers refuse to use meters or take scenic detours. Traditional taxis should be avoided in favor of app-based services.",
+    "tips": "Always use BiTaksi or Uber apps rather than hailing street taxis. Get an Istanbulkart upon arrival for convenient public transport. Avoid any road transport during rush hours 8-10 AM and 5-7 PM due to legendary traffic jams."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some religious sites - this is standard practice showing respect and cleanliness",
+    "Accept at least one glass of tea when offered - refusing can be seen as impolite, and hospitality is central to Turkish culture",
+    "Use polite greetings like 'Merhaba' (hello) and 'Teşekkür ederim' (thank you) - courtesy and respectful behavior are highly valued",
+    "Dress modestly when visiting mosques - women should cover heads and shoulders, men should avoid shorts, and everyone removes shoes",
+    "Show respect for elders by standing when they enter a room and addressing them with appropriate titles like 'Bey' or 'Hanım'"
+  ],
+  "health": {
+    "overview": "Istanbul has excellent medical infrastructure with many JCI-accredited hospitals offering world-class care. The city is a major medical tourism destination with English-speaking doctors and modern facilities. Air pollution can be an issue, and noise pollution is significant due to traffic.",
+    "water": "Tap water is treated and regulated but many locals and tourists choose bottled water due to taste preferences and older building plumbing. Bottled water is widely available and recommended for visitors.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations like MMR, flu, and COVID-19. Standard travel health precautions apply including being up to date on routine vaccines.",
+    "altitude": "Istanbul is at sea level with no altitude concerns. The city has a temperate climate with hot summers and mild winters. Air quality can be poor due to traffic and industrial activity."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "155",
+    "ambulance": "112",
+    "fire": "110",
+    "touristPolice": "+90 212 527 45 03",
+    "usEmbassy": "US Consulate General Istanbul: +90 212 335 9000. Located in Sariyer district. For emergencies involving US citizens, contact 24/7 at +1 202 501 4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Istanbul safe for tourists?",
+      "a": "Yes, Istanbul is generally safe for tourists with millions visiting annually without incident. Violent crime against visitors is rare, but petty crime and scams require normal big-city awareness and precautions."
+    },
+    {
+      "q": "Is Istanbul safe at night?",
+      "a": "Main tourist areas like Sultanahmet and Kadikoy stay lively and safe at night, but avoid poorly lit back streets and the Tarlabasι neighborhood. Use ride-hailing apps for transportation after dark."
+    },
+    {
+      "q": "Is Istanbul safe for solo female travelers?",
+      "a": "Yes, with standard precautions. Women report feeling comfortable during daytime exploration. Dress modestly, use app-based transport, stay in established neighborhoods, and remain aware of surroundings."
+    },
+    {
+      "q": "What areas should I avoid in Istanbul?",
+      "a": "Avoid Tarlabasι neighborhood entirely due to crime and drug activity. Be cautious in some back streets around Taksim late at night, and avoid isolated residential areas after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Istanbul?",
+      "a": "Yes, the metro, tram, and ferry systems are safe and efficient. Watch for pickpockets during crowding. For taxis, use only BiTaksi or Uber apps to avoid common scams and overcharging."
+    }
+  ],
+  "relatedCities": [
+    "ankara",
+    "izmir",
+    "antalya"
+  ],
+  "_city_id": "istanbul-turkey"
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "dublin",
+  "name": "Dublin",
+  "country": "Ireland",
+  "countryCode": "IE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 8.8
+  },
+  "summary": "Dublin is considered one of Europe's safer capitals, ranking as Level 1 on the US State Department travel advisory. While petty crime like pickpocketing occurs in tourist areas, violent crime rates are low and the city maintains a strong police presence in popular areas.",
+  "quickVerdict": "Dublin offers a safe and welcoming environment for tourists, with Ireland ranking among the world's top 15 safest countries. The main concerns are pickpocketing and theft in crowded tourist areas like Temple Bar and O'Connell Street. Crime statistics show theft as the most common issue affecting visitors. The city has excellent healthcare facilities, reliable transport systems, and emergency services. Solo female travelers regularly report positive experiences, though basic urban precautions apply, especially at night. The Irish are renowned for their friendliness and hospitality, making Dublin an excellent choice for first-time European visitors.",
+  "neighborhoods": [
+    {
+      "name": "Grafton Street & St. Stephen's Green",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Dublin's premier shopping district and park area. Well-lit, heavily patrolled, and bustling during most hours. Pickpocketing can occur in crowds but overall very safe for tourists."
+    },
+    {
+      "name": "Temple Bar Cultural Quarter",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Dublin's famous nightlife hub. Safe during the day and early evening but can get rowdy late at night. Strong police presence but watch for pickpockets among drunk tourists."
+    },
+    {
+      "name": "Trinity College Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historic university district with excellent security. Generally very safe day and night. Well-maintained streets and good lighting make it ideal for walking."
+    },
+    {
+      "name": "Docklands",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern business and residential area. Well-developed infrastructure with good security. Safe for tourists with attractions like the Convention Centre and modern hotels."
+    },
+    {
+      "name": "O'Connell Street North",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Main thoroughfare with mixed reputation. Generally safe during the day but can feel less secure at night. More antisocial behavior and drug-related issues compared to south side."
+    },
+    {
+      "name": "North Inner City Areas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Areas around Gardiner Street, Sheriff Street, and parts of the northside have higher crime rates. Best avoided at night. Limited tourist attractions make it unnecessary to visit."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing in Tourist Areas",
+      "risk": "high",
+      "description": "Opportunistic theft in crowded places like Temple Bar, Grafton Street, and on public transport. Often involves distraction techniques or groups working together.",
+      "howToAvoid": "Keep valuables secure, use anti-theft bags, stay alert in crowds, and don't display expensive items or large amounts of cash."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Fraudsters approach tourists having ATM difficulties, offering help while scanning cards with skimmers. Also involves tampering with ATM machines.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, inspect machines for unusual attachments, and never accept help from strangers at ATMs."
+    },
+    {
+      "name": "Friendly Stranger Bar Scam",
+      "risk": "medium",
+      "description": "Locals befriend tourists and invite them to specific bars where they're charged inflated prices for drinks. The 'locals' receive kickbacks from the establishment.",
+      "howToAvoid": "Be wary of overly friendly strangers inviting you to specific bars, check drink prices before ordering, and stick to well-known establishments."
+    },
+    {
+      "name": "Fake Taxi Scam",
+      "risk": "medium",
+      "description": "Unlicensed drivers pose as legitimate taxi operators, potentially overcharging or taking longer routes. Some may not have proper insurance or safety standards.",
+      "howToAvoid": "Use official taxi ranks, licensed apps like FreeNow or Uber, check for taxi license displays, and verify the vehicle matches your app booking."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Dublin is widely regarded as one of Europe's safest capitals for solo female travelers. Ireland ranks highly on global safety indices, and the city has a strong reputation for welcoming solo women. The Irish are known for their friendliness and helpfulness, making it an excellent choice for first-time solo travelers. Most areas frequented by tourists are well-lit and patrolled.",
+    "tips": [
+      "Stay in well-regarded neighborhoods like Dublin 2 or 4, particularly around Grafton Street or near Trinity College",
+      "Use official transport options and avoid walking alone late at night in less crowded areas, especially north of the River Liffey",
+      "Don't hesitate to ask locals for directions or help - Irish people are generally very helpful and trustworthy",
+      "Keep drinks covered in bars and pubs, and don't accept drinks from strangers, particularly in busy nightlife areas",
+      "Book accommodation with good reviews regarding location safety and consider hotels over hostels if budget allows"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Dublin's nightlife is generally safe with proper precautions. The city center south of the River Liffey, including areas around Grafton Street and St. Stephen's Green, remains relatively safe at night. However, some northern inner city areas should be avoided after dark. The Gardai maintain a strong presence in popular nightlife areas, and Dublin's pub culture is family-friendly compared to other European capitals.",
+    "tips": [
+      "Stick to busy, well-lit streets and avoid shortcuts through dark alleys or quiet areas",
+      "Use official taxis or rideshare apps rather than walking long distances alone at night",
+      "Stay aware of your surroundings in Temple Bar and other nightlife areas where pickpocketing increases with alcohol consumption",
+      "Avoid the north inner city areas including parts of O'Connell Street, Sheriff Street, and areas around Connolly Station after dark",
+      "Keep emergency numbers saved in your phone and ensure someone knows your whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Dublin doesn't have a metro system but has the DART (Dublin Area Rapid Transit) coastal rail line and Luas light rail trams. Both are generally safe and reliable, running until midnight. DART connects the city center to coastal areas, while Luas has two lines serving different parts of the city.",
+    "rideshare": "Uber operates in Dublin but only with licensed taxi drivers, not private cars. FreeNow (formerly MyTaxi) is the dominant rideshare app. Both are considered safe and reliable, with background-checked drivers and GPS tracking. Expect to pay app fees on top of metered rates.",
+    "taxis": "Licensed taxis are plentiful and generally safe. All drivers must pass background checks and vehicles are regularly inspected. Taxis use meters and accept card payments. Avoid unlicensed cabs and always check for visible taxi license displays.",
+    "tips": "Public transport is the most cost-effective option. Get a Leap Card for seamless travel across all systems. Avoid leaving valuables visible in rental cars, especially at tourist sites."
+  },
+  "customs": [
+    "Greeting with 'Hello' or 'How are you?' is standard; firm handshakes with eye contact show respect",
+    "Pub etiquette includes ordering at the bar, buying rounds for your group, and never interrupting a Guinness pour",
+    "Irish people are naturally friendly and chatty - don't be surprised by strangers starting conversations about weather or asking if you're on holiday",
+    "Punctuality is appreciated for formal bookings and tours, though social plans can be more flexible",
+    "Tipping 10-15% at restaurants for good service; no need to tip bartenders who just pull pints"
+  ],
+  "health": {
+    "overview": "Ireland has a high-quality healthcare system with modern facilities and well-trained medical professionals. Dublin is home to several excellent public and private hospitals. The city has good air quality and low pollution levels compared to many European capitals.",
+    "water": "Tap water is completely safe to drink throughout Dublin and meets all EU standards. No need to buy bottled water for health reasons.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance is recommended as US Medicare/Medicaid doesn't cover treatment abroad.",
+    "altitude": "Dublin is at sea level with a mild maritime climate. Temperatures rarely exceed extremes, though rain is common year-round. Pack layers and waterproof clothing."
+  },
+  "emergency": {
+    "general": "112 or 999",
+    "police": "112 or 999 (Ask for Gardai)",
+    "ambulance": "112 or 999",
+    "fire": "112 or 999",
+    "touristPolice": "+353 1 661 0562",
+    "usEmbassy": "US Embassy Dublin: +353 1 668-8777 (24/7 emergency line)"
+  },
+  "faq": [
+    {
+      "q": "Is Dublin safe for tourists?",
+      "a": "Yes, Dublin is considered very safe for tourists. Ireland ranks among the world's top 15 safest countries, and Dublin maintains low violent crime rates. The main concern is petty theft in tourist areas, but with basic precautions, visitors should feel secure exploring the city."
+    },
+    {
+      "q": "Is Dublin safe at night?",
+      "a": "Dublin is generally safe at night, especially in the city center south of the River Liffey around Grafton Street and Temple Bar. However, avoid walking alone late at night in northern inner city areas, and stick to well-lit, busy streets. Taxis are readily available and recommended for late-night transport."
+    },
+    {
+      "q": "Is Dublin safe for solo female travelers?",
+      "a": "Dublin is excellent for solo female travelers and consistently ranks among Europe's safest capitals for women traveling alone. The Irish are known for their friendliness and helpfulness. Basic urban precautions apply, such as staying in well-regarded areas and avoiding isolated places at night."
+    },
+    {
+      "q": "What areas should I avoid in Dublin?",
+      "a": "Avoid northern inner city areas like Sheriff Street, parts of O'Connell Street late at night, and areas around Gardiner Street and Dorset Street after dark. Suburban areas like Tallaght and parts of Finglas are also best avoided, though tourists rarely have reason to visit these locations."
+    },
+    {
+      "q": "Is it safe to use public transport in Dublin?",
+      "a": "Yes, Dublin's public transport is safe and reliable. The DART, Luas, and bus systems all maintain good safety records. Watch for pickpockets during rush hours and late-night services. Use official transport apps and keep belongings secure, especially on crowded services."
+    }
+  ],
+  "relatedCities": [
+    "london",
+    "edinburgh",
+    "amsterdam"
+  ],
+  "_city_id": "dublin-ireland"
+}

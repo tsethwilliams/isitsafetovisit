@@ -8785,6 +8785,827 @@
         "vienna",
         "zurich"
       ]
+    },
+    {
+      "slug": "vienna",
+      "name": "Vienna",
+      "country": "Austria",
+      "countryCode": "AT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-07",
+      "overallScore": 8.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.8,
+        "scamRisk": 8.0,
+        "womensSafety": 8.9,
+        "nightSafety": 8.0,
+        "transport": 9.0,
+        "naturalHazards": 8.2
+      },
+      "summary": "Vienna is widely regarded as one of Europe's safest capital cities, consistently ranking in the top 5 globally for safety and quality of life. The city maintains exceptionally low crime rates with violent crime being extremely rare, while petty theft like pickpocketing occurs mainly in crowded tourist areas during peak seasons.",
+      "quickVerdict": "Vienna stands out as an exceptionally safe destination for all types of travelers. With its Level 1 US State Department travel advisory, excellent public transport system, and strong police presence, visitors can explore the city with confidence. While petty crime exists in tourist hotspots, violent crime is virtually non-existent. The city's well-lit streets, reliable infrastructure, and helpful locals make it particularly welcoming for solo travelers and families alike.",
+      "neighborhoods": [
+        {
+          "name": "Innere Stadt (1st District)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Vienna's historic city center is very safe with high police presence and excellent lighting. While crowded with tourists, violent crime is virtually non-existent. Watch for pickpockets near major attractions like St. Stephen's Cathedral and during Christmas markets."
+        },
+        {
+          "name": "Leopoldstadt (2nd District)",
+          "score": 8.3,
+          "class": "safe",
+          "description": "A quiet residential area across the Danube Canal that's popular with families. Generally very safe with good public transport connections. The Prater area can get busy during events but remains secure overall."
+        },
+        {
+          "name": "Mariahilf (6th District)",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Home to the main shopping street Mariahilferstrasse, this vibrant district is well-patrolled and safe for tourists. Some petty theft occurs in busy shopping areas, but the neighborhood maintains good safety standards day and night."
+        },
+        {
+          "name": "Favoriten (10th District)",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Vienna's most populous district has higher crime rates than other areas, particularly around the main train station. While not dangerous, visitors should exercise normal urban caution, especially after dark. Many safe residential areas exist within the district."
+        },
+        {
+          "name": "Praterstern Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "The area around Praterstern station can feel less safe, especially at night, due to higher foot traffic and some social issues. It's not dangerous but requires more awareness. Stick to well-lit main paths and avoid lingering alone late at night."
+        },
+        {
+          "name": "Prater Park (at night)",
+          "score": 5.5,
+          "class": "caution",
+          "description": "While safe during daytime, the large Prater Park is best avoided alone after dark due to poor lighting in some areas and fewer people around. Stick to the main Prater area with attractions, which remains well-patrolled and lit."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Mozart Concert Ticket Sellers",
+          "risk": "medium",
+          "description": "People dressed as Mozart sell overpriced tickets to mediocre classical concerts on the street, particularly near the Opera House. These concerts exist but are poor quality and overpriced.",
+          "howToAvoid": "Only buy concert tickets from official venues or authorized ticket offices. Avoid street sellers in period costumes entirely."
+        },
+        {
+          "name": "Fake Police Officers",
+          "risk": "medium",
+          "description": "Scammers dressed as police officers approach tourists asking to check IDs and wallets, then return wallets with cash missing. This targets Asian, Russian, and American tourists particularly.",
+          "howToAvoid": "Real police will show proper identification. Never hand over your entire wallet. Ask to see their police ID card and badge number. Contact 133 if suspicious."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Thieves work in teams using clipboards, charity petitions, or spilled substances to distract tourists while accomplices steal valuables. Common in Christmas markets, on public transport, and near major attractions.",
+          "howToAvoid": "Keep belongings secure and in front of you. Don't engage with clipboard holders or accept help from strangers. Stay aware in crowded areas and on public transport."
+        },
+        {
+          "name": "Overcharging Taxi Scam",
+          "risk": "low",
+          "description": "Some taxi drivers may try to overcharge tourists by not using the meter or taking longer routes. This is less common due to ride-sharing apps but still occurs occasionally.",
+          "howToAvoid": "Always ensure the meter is running. Use official taxi stands or apps like Uber/Bolt. Know approximate route distances beforehand using mapping apps."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Vienna is exceptionally safe for solo female travelers and consistently ranks among the top cities globally for women's safety. The city has excellent lighting, reliable public transport, and a strong police presence. Austrian culture is respectful toward women, and harassment is rare. Female travelers report feeling comfortable walking alone even at night in most areas of the city.",
+        "tips": [
+          "Vienna is one of the safest cities in Europe for solo women - trust your instincts but don't over-worry",
+          "Avoid Prater Park alone after dark and exercise normal caution around Praterstern station at night",
+          "Use the efficient public transport system which runs late and has good security presence",
+          "Stay in central districts (1st-9th) which are well-lit and have more foot traffic in evenings",
+          "Austrians are generally reserved but helpful - don't hesitate to ask for assistance if needed"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Vienna is remarkably safe at night with well-lit streets, active nightlife areas, and regular police patrols. The city center and most tourist districts remain busy with locals and visitors until late. Street crime is rare, and the efficient public transport system operates until midnight on weekdays and 24/7 on weekends.",
+        "tips": [
+          "Most central areas remain safe and well-lit throughout the night with good foot traffic",
+          "Use night buses or taxis after U-Bahn service ends - both are safe and reliable options",
+          "Avoid empty parks like Prater after dark and stick to main streets in less central districts",
+          "The historic center has excellent lighting and frequent police patrols even in early morning hours",
+          "Vienna's cafe culture means many establishments stay open late, providing safe havens if needed"
+        ]
+      },
+      "transport": {
+        "metro": "Vienna's U-Bahn is exceptionally safe, clean, and efficient with 5 lines covering the city. Operates 5am-midnight on weekdays and continuously on weekends. No barriers - honor system with occasional ticket checks.",
+        "rideshare": "Uber and Bolt operate safely in Vienna. Local services include Taxi 31300 app. All rideshare services are regulated and secure. Female-only driver options available through some services.",
+        "taxis": "Official taxis are safe and regulated. Always ensure meter is running. Taxi stands throughout the city. Call 31300 for reliable service. Tipping 10% is customary.",
+        "tips": "Public transport is the best option - clean, safe, and reaches everywhere. Validate paper tickets before boarding. Night buses cover the network when U-Bahn closes. Transport is very accessible and female-friendly."
+      },
+      "customs": [
+        "Austrians value punctuality highly - arrive on time or slightly early for all appointments",
+        "Greet people formally with 'Guten Tag' and use titles (Herr/Frau) until invited to be less formal",
+        "Shake hands when entering a room and greet shop staff when entering/leaving stores",
+        "Wait to be seated at restaurants and don't start eating until everyone is served",
+        "Maintain eye contact when toasting and say 'Prost' - never cross arms when clinking glasses",
+        "Dress conservatively and neatly - Austrians take pride in their appearance",
+        "Keep voices down in public spaces and on transport - Austrians value quiet public behavior"
+      ],
+      "health": {
+        "overview": "Austria has an excellent healthcare system that meets or exceeds US standards. Public health conditions in Vienna are outstanding with modern facilities and English-speaking medical staff available. No special health precautions needed beyond standard travel insurance.",
+        "water": "Tap water in Vienna is pure, safe, and comes directly from Alpine springs. No need for bottled water - locals drink tap water exclusively.",
+        "vaccinations": "No special vaccinations required beyond routine ones. CDC recommends being up to date on standard vaccines including MMR. TBE vaccination recommended if spending time in Vienna Woods or rural areas.",
+        "altitude": "Vienna sits at low altitude (171m) so no altitude concerns. Climate is temperate continental with cold winters and warm summers. Air quality is good to excellent throughout most of the city."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "133",
+        "ambulance": "144",
+        "fire": "122",
+        "touristPolice": "N/A",
+        "usEmbassy": "U.S. Embassy Vienna - Parkring 12A, 1010 Vienna. Emergency: +43-(0)1-313390. Regular hours: +43-(0)1-31339. Email: ConsulateVienna@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Vienna safe for tourists?",
+          "a": "Yes, Vienna is exceptionally safe for tourists and ranks among the world's safest cities. With very low crime rates, excellent police presence, and tourist-friendly infrastructure, visitors can explore with confidence. The US State Department gives Austria a Level 1 (Exercise Normal Precautions) rating."
+        },
+        {
+          "q": "Is Vienna safe at night?",
+          "a": "Vienna is very safe at night with well-lit streets, active nightlife, and regular police patrols. The city center and main tourist areas remain busy until late. Public transport runs until midnight (24/7 weekends) and night buses provide coverage thereafter."
+        },
+        {
+          "q": "Is Vienna safe for solo female travelers?",
+          "a": "Vienna is one of Europe's safest cities for solo female travelers. Women report feeling comfortable walking alone even at night in most areas. Austrian culture is respectful, harassment is rare, and the city has excellent public transport and infrastructure for independent travelers."
+        },
+        {
+          "q": "What areas should I avoid in Vienna?",
+          "a": "Vienna has no truly dangerous areas, but exercise extra caution around Praterstern station at night and avoid Prater Park alone after dark. The 10th district (Favoriten) has slightly higher crime rates but isn't dangerous for tourists using normal urban awareness."
+        },
+        {
+          "q": "Is it safe to use public transport in Vienna?",
+          "a": "Vienna's public transport is extremely safe, clean, and efficient. The U-Bahn, trams, and buses are well-maintained with good security presence. Occasional pickpocketing occurs during rush hours, so keep belongings secure, but violent crime on transport is virtually non-existent."
+        }
+      ],
+      "relatedCities": [
+        "budapest",
+        "prague",
+        "zurich",
+        "munich",
+        "berlin",
+        "bratislava"
+      ]
+    },
+    {
+      "slug": "budapest",
+      "name": "Budapest",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-07",
+      "overallScore": 7.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 8.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Budapest is one of Europe's safest capitals, with low violent crime rates and excellent public safety infrastructure. The main concerns for tourists are petty crimes like pickpocketing and common scams targeting visitors, particularly in the popular party districts. With proper precautions, visitors can safely enjoy the city's stunning architecture, thermal baths, and vibrant nightlife.",
+      "quickVerdict": "Budapest offers an excellent safety profile for tourists, ranking among Europe's top 10 safest cities with a crime index of only 33.9. While petty crime and tourist-focused scams exist, violent crime against visitors is extremely rare. The US State Department maintains Hungary at Level 1 advisory status, recommending normal precautions. The city's well-developed infrastructure, reliable emergency services, and tourist-friendly police make it an ideal destination for all types of travelers, from solo female visitors to families.",
+      "neighborhoods": [
+        {
+          "name": "Buda Castle District (District I)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic heart of Budapest with excellent police presence, well-lit streets, and heavy tourist traffic. Home to major attractions and upscale establishments with minimal crime concerns."
+        },
+        {
+          "name": "Pest City Center (District V)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Central tourist area with good safety infrastructure, though pickpockets target crowded areas around Parliament and shopping streets. Generally very safe during day and night."
+        },
+        {
+          "name": "Jewish Quarter (District VII)",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Main nightlife district with ruin bars and clubs. Safe for tourists but requires vigilance due to higher pickpocket activity and tourist-targeted scams, especially at night."
+        },
+        {
+          "name": "Pest Outer Areas (District VI)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Residential and business district with good safety levels. Contains many restaurants and cultural venues with standard urban precautions recommended."
+        },
+        {
+          "name": "Józsefváros (District VIII)",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Undergoing gentrification but still has some rough areas, particularly outer sections. Exercise caution at night and avoid poorly lit side streets."
+        },
+        {
+          "name": "Ferencváros (District IX)",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Mixed area with safe central parts near Danube but some less secure outer residential zones. Generally safe for tourists staying near main attractions."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Taxi Drivers",
+          "risk": "high",
+          "description": "Unlicensed taxi drivers overcharge tourists by using tampered meters, taking longer routes, or demanding excessive fares. Often operate at airports, train stations, and tourist areas.",
+          "howToAvoid": "Only use licensed taxis with clear company logos and posted rates. Book through apps like Bolt or Uber, or have hotels arrange transportation. Verify meter is running and functioning."
+        },
+        {
+          "name": "Bar and Restaurant Overcharging",
+          "risk": "medium",
+          "description": "Some establishments, especially in tourist areas, inflate prices, don't show prices on menus, or add excessive service charges. Strip clubs are particularly notorious for extreme overcharging.",
+          "howToAvoid": "Always check menus for posted prices before ordering. Avoid establishments without clear pricing. Be wary of places on Vaci Street at night and any venue recommended by strangers or taxi drivers."
+        },
+        {
+          "name": "Friendly Stranger Scam",
+          "risk": "medium",
+          "description": "Attractive women approach male tourists offering drinks or companionship, then lead them to bars where they're presented with enormous bills for overpriced drinks.",
+          "howToAvoid": "Be extremely cautious of unsolicited approaches from strangers, especially attractive women inviting you for drinks. Never follow strangers to bars or clubs they recommend."
+        },
+        {
+          "name": "Fake Police and Transport Inspectors",
+          "risk": "low",
+          "description": "Scammers pose as ticket inspectors on public transport or police officers demanding to see documents and wallets, then steal money or claim fines are owed.",
+          "howToAvoid": "Real inspectors wear official uniforms and carry proper ID badges. Ask to see credentials and go to a staffed metro office if in doubt. Police rarely ask to examine wallet contents on the street."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Budapest is considered very safe for solo female travelers, ranking among Europe's top destinations for women traveling alone. The city has low harassment rates and a generally respectful local population. Most areas are well-lit and patrolled, with reliable public transport and emergency services.",
+        "tips": [
+          "Stay in central areas like Districts I, V, or VI for best safety and convenience",
+          "Use official taxis or ride-sharing apps like Bolt rather than hailing street taxis",
+          "Be cautious in the party district at night and don't accept drinks from strangers",
+          "Keep valuables secure and be aware of pickpockets in crowded tourist areas",
+          "Trust your instincts and avoid anyone being overly persistent or pushy"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Budapest's nightlife is generally safe with well-patrolled party districts and good lighting on main streets. The Jewish Quarter offers vibrant nightlife but requires standard precautions. Police maintain visible presence in entertainment areas, and public transport operates late into the night.",
+        "tips": [
+          "Stick to well-lit main streets and avoid dark side streets or underpasses",
+          "The party district in District VII is busy and relatively safe but watch for pickpockets",
+          "Use night trams 4 and 6 which run all night between major areas",
+          "Be cautious around overly intoxicated people and aggressive street vendors",
+          "Travel in groups when possible and let someone know your planned route"
+        ]
+      },
+      "transport": {
+        "metro": "Budapest's metro system is safe, reliable, and efficient with four main lines covering all major attractions. Built in 1896, it's Europe's second-oldest metro system. Stations are generally well-lit and patrolled, though pickpockets can be an issue during rush hours.",
+        "rideshare": "Bolt is the primary ride-sharing app in Budapest after Uber returned in partnership with local taxi companies. Both offer regulated fares and driver accountability. Prices are reasonable and service is reliable throughout the city.",
+        "taxis": "Licensed taxis are safe but avoid unofficial freelancers. Look for yellow cabs with company logos, posted rates, and roof signs. Official taxis use regulated meters and fair pricing. Book through hotel or use official apps to avoid overcharging scams.",
+        "tips": "Public transport is excellent and affordable - buy a travel pass for convenience. Always validate tickets to avoid fines. Night transport operates until late, making it easy to get around safely after dark."
+      },
+      "customs": [
+        "Handshakes should be firm with direct eye contact - this is seen as a sign of sincerity and trustworthiness",
+        "Remove shoes when entering Hungarian homes and bring small gifts like flowers or chocolates for hosts",
+        "Don't clink glasses when toasting with beer - this custom dates back to Hungarian revolutionary history and is still observed",
+        "Wait for your host to begin eating before you start your meal, and keep hands visible on the table while dining",
+        "Address people formally using titles and surnames until invited to use first names - Hungarians value proper etiquette"
+      ],
+      "health": {
+        "overview": "Hungary offers high-quality healthcare with modern facilities in Budapest. Most doctors and medical staff speak English, and pharmacies are well-stocked with international medications. Travel insurance is recommended but not mandatory for EU citizens with valid health cards.",
+        "water": "Tap water is safe to drink throughout Budapest and meets EU standards. Bottled water is widely available but unnecessary for health reasons. Restaurants and cafes serve safe tap water.",
+        "vaccinations": "No special vaccinations required for Hungary. Routine vaccinations like MMR, flu, and COVID-19 should be up to date. Hepatitis A vaccination recommended for extended stays. Tick-borne encephalitis vaccination advised for hiking in forested areas.",
+        "altitude": "Budapest sits at low elevation with no altitude concerns. Climate is temperate with cold winters and warm summers. Air quality can be moderate due to urban pollution but generally acceptable for short-term visits."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "107",
+        "ambulance": "104",
+        "fire": "105",
+        "touristPolice": "+36 1 438 8080",
+        "usEmbassy": "U.S. Embassy Budapest: +36 1 475 4400, located at Szabadság tér 12, available 24/7 for American citizen emergencies. Other embassies provide similar services for their nationals."
+      },
+      "faq": [
+        {
+          "q": "Is Budapest safe for tourists?",
+          "a": "Yes, Budapest is very safe for tourists and ranks among Europe's top 10 safest cities. Violent crime against visitors is extremely rare, though petty crime like pickpocketing occurs in crowded areas. The US State Department rates Hungary as Level 1 - exercise normal precautions."
+        },
+        {
+          "q": "Is Budapest safe at night?",
+          "a": "Budapest is generally safe at night, especially in central areas and the main party district. Streets are well-lit and patrolled, with night public transport available. Use common sense precautions, stick to main areas, and avoid poorly lit side streets or underpasses."
+        },
+        {
+          "q": "Is Budapest safe for solo female travelers?",
+          "a": "Budapest is excellent for solo female travelers and considered one of Europe's safest capitals for women. Harassment is rare, public transport is reliable, and most areas are well-patrolled. Standard precautions apply, particularly in nightlife areas and when using taxis."
+        },
+        {
+          "q": "What areas should I avoid in Budapest?",
+          "a": "Most of Budapest is safe, but exercise extra caution in outer parts of Districts VII, VIII, and IX, particularly at night. Avoid Vaci Street bars at night due to tourist traps, and be cautious on dark side streets and underpasses throughout the city."
+        },
+        {
+          "q": "Is it safe to use public transport in Budapest?",
+          "a": "Yes, Budapest's public transport is very safe and reliable. The metro, trams, and buses are well-maintained with good security presence. Watch for pickpockets during rush hours and validate tickets to avoid fines. Night services operate on major routes."
+        }
+      ],
+      "relatedCities": [
+        "prague",
+        "vienna",
+        "bratislava"
+      ]
+    },
+    {
+      "slug": "dublin",
+      "name": "Dublin",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-07",
+      "overallScore": 7.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.8,
+        "nightSafety": 7.0,
+        "transport": 8.0,
+        "naturalHazards": 8.8
+      },
+      "summary": "Dublin is considered one of Europe's safer capitals, ranking as Level 1 on the US State Department travel advisory. While petty crime like pickpocketing occurs in tourist areas, violent crime rates are low and the city maintains a strong police presence in popular areas.",
+      "quickVerdict": "Dublin offers a safe and welcoming environment for tourists, with Ireland ranking among the world's top 15 safest countries. The main concerns are pickpocketing and theft in crowded tourist areas like Temple Bar and O'Connell Street. Crime statistics show theft as the most common issue affecting visitors. The city has excellent healthcare facilities, reliable transport systems, and emergency services. Solo female travelers regularly report positive experiences, though basic urban precautions apply, especially at night. The Irish are renowned for their friendliness and hospitality, making Dublin an excellent choice for first-time European visitors.",
+      "neighborhoods": [
+        {
+          "name": "Grafton Street & St. Stephen's Green",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Dublin's premier shopping district and park area. Well-lit, heavily patrolled, and bustling during most hours. Pickpocketing can occur in crowds but overall very safe for tourists."
+        },
+        {
+          "name": "Temple Bar Cultural Quarter",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Dublin's famous nightlife hub. Safe during the day and early evening but can get rowdy late at night. Strong police presence but watch for pickpockets among drunk tourists."
+        },
+        {
+          "name": "Trinity College Area",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Historic university district with excellent security. Generally very safe day and night. Well-maintained streets and good lighting make it ideal for walking."
+        },
+        {
+          "name": "Docklands",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern business and residential area. Well-developed infrastructure with good security. Safe for tourists with attractions like the Convention Centre and modern hotels."
+        },
+        {
+          "name": "O'Connell Street North",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Main thoroughfare with mixed reputation. Generally safe during the day but can feel less secure at night. More antisocial behavior and drug-related issues compared to south side."
+        },
+        {
+          "name": "North Inner City Areas",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Areas around Gardiner Street, Sheriff Street, and parts of the northside have higher crime rates. Best avoided at night. Limited tourist attractions make it unnecessary to visit."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pickpocketing in Tourist Areas",
+          "risk": "high",
+          "description": "Opportunistic theft in crowded places like Temple Bar, Grafton Street, and on public transport. Often involves distraction techniques or groups working together.",
+          "howToAvoid": "Keep valuables secure, use anti-theft bags, stay alert in crowds, and don't display expensive items or large amounts of cash."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Fraudsters approach tourists having ATM difficulties, offering help while scanning cards with skimmers. Also involves tampering with ATM machines.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, inspect machines for unusual attachments, and never accept help from strangers at ATMs."
+        },
+        {
+          "name": "Friendly Stranger Bar Scam",
+          "risk": "medium",
+          "description": "Locals befriend tourists and invite them to specific bars where they're charged inflated prices for drinks. The 'locals' receive kickbacks from the establishment.",
+          "howToAvoid": "Be wary of overly friendly strangers inviting you to specific bars, check drink prices before ordering, and stick to well-known establishments."
+        },
+        {
+          "name": "Fake Taxi Scam",
+          "risk": "medium",
+          "description": "Unlicensed drivers pose as legitimate taxi operators, potentially overcharging or taking longer routes. Some may not have proper insurance or safety standards.",
+          "howToAvoid": "Use official taxi ranks, licensed apps like FreeNow or Uber, check for taxi license displays, and verify the vehicle matches your app booking."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Dublin is widely regarded as one of Europe's safest capitals for solo female travelers. Ireland ranks highly on global safety indices, and the city has a strong reputation for welcoming solo women. The Irish are known for their friendliness and helpfulness, making it an excellent choice for first-time solo travelers. Most areas frequented by tourists are well-lit and patrolled.",
+        "tips": [
+          "Stay in well-regarded neighborhoods like Dublin 2 or 4, particularly around Grafton Street or near Trinity College",
+          "Use official transport options and avoid walking alone late at night in less crowded areas, especially north of the River Liffey",
+          "Don't hesitate to ask locals for directions or help - Irish people are generally very helpful and trustworthy",
+          "Keep drinks covered in bars and pubs, and don't accept drinks from strangers, particularly in busy nightlife areas",
+          "Book accommodation with good reviews regarding location safety and consider hotels over hostels if budget allows"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Dublin's nightlife is generally safe with proper precautions. The city center south of the River Liffey, including areas around Grafton Street and St. Stephen's Green, remains relatively safe at night. However, some northern inner city areas should be avoided after dark. The Gardai maintain a strong presence in popular nightlife areas, and Dublin's pub culture is family-friendly compared to other European capitals.",
+        "tips": [
+          "Stick to busy, well-lit streets and avoid shortcuts through dark alleys or quiet areas",
+          "Use official taxis or rideshare apps rather than walking long distances alone at night",
+          "Stay aware of your surroundings in Temple Bar and other nightlife areas where pickpocketing increases with alcohol consumption",
+          "Avoid the north inner city areas including parts of O'Connell Street, Sheriff Street, and areas around Connolly Station after dark",
+          "Keep emergency numbers saved in your phone and ensure someone knows your whereabouts"
+        ]
+      },
+      "transport": {
+        "metro": "Dublin doesn't have a metro system but has the DART (Dublin Area Rapid Transit) coastal rail line and Luas light rail trams. Both are generally safe and reliable, running until midnight. DART connects the city center to coastal areas, while Luas has two lines serving different parts of the city.",
+        "rideshare": "Uber operates in Dublin but only with licensed taxi drivers, not private cars. FreeNow (formerly MyTaxi) is the dominant rideshare app. Both are considered safe and reliable, with background-checked drivers and GPS tracking. Expect to pay app fees on top of metered rates.",
+        "taxis": "Licensed taxis are plentiful and generally safe. All drivers must pass background checks and vehicles are regularly inspected. Taxis use meters and accept card payments. Avoid unlicensed cabs and always check for visible taxi license displays.",
+        "tips": "Public transport is the most cost-effective option. Get a Leap Card for seamless travel across all systems. Avoid leaving valuables visible in rental cars, especially at tourist sites."
+      },
+      "customs": [
+        "Greeting with 'Hello' or 'How are you?' is standard; firm handshakes with eye contact show respect",
+        "Pub etiquette includes ordering at the bar, buying rounds for your group, and never interrupting a Guinness pour",
+        "Irish people are naturally friendly and chatty - don't be surprised by strangers starting conversations about weather or asking if you're on holiday",
+        "Punctuality is appreciated for formal bookings and tours, though social plans can be more flexible",
+        "Tipping 10-15% at restaurants for good service; no need to tip bartenders who just pull pints"
+      ],
+      "health": {
+        "overview": "Ireland has a high-quality healthcare system with modern facilities and well-trained medical professionals. Dublin is home to several excellent public and private hospitals. The city has good air quality and low pollution levels compared to many European capitals.",
+        "water": "Tap water is completely safe to drink throughout Dublin and meets all EU standards. No need to buy bottled water for health reasons.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance is recommended as US Medicare/Medicaid doesn't cover treatment abroad.",
+        "altitude": "Dublin is at sea level with a mild maritime climate. Temperatures rarely exceed extremes, though rain is common year-round. Pack layers and waterproof clothing."
+      },
+      "emergency": {
+        "general": "112 or 999",
+        "police": "112 or 999 (Ask for Gardai)",
+        "ambulance": "112 or 999",
+        "fire": "112 or 999",
+        "touristPolice": "+353 1 661 0562",
+        "usEmbassy": "US Embassy Dublin: +353 1 668-8777 (24/7 emergency line)"
+      },
+      "faq": [
+        {
+          "q": "Is Dublin safe for tourists?",
+          "a": "Yes, Dublin is considered very safe for tourists. Ireland ranks among the world's top 15 safest countries, and Dublin maintains low violent crime rates. The main concern is petty theft in tourist areas, but with basic precautions, visitors should feel secure exploring the city."
+        },
+        {
+          "q": "Is Dublin safe at night?",
+          "a": "Dublin is generally safe at night, especially in the city center south of the River Liffey around Grafton Street and Temple Bar. However, avoid walking alone late at night in northern inner city areas, and stick to well-lit, busy streets. Taxis are readily available and recommended for late-night transport."
+        },
+        {
+          "q": "Is Dublin safe for solo female travelers?",
+          "a": "Dublin is excellent for solo female travelers and consistently ranks among Europe's safest capitals for women traveling alone. The Irish are known for their friendliness and helpfulness. Basic urban precautions apply, such as staying in well-regarded areas and avoiding isolated places at night."
+        },
+        {
+          "q": "What areas should I avoid in Dublin?",
+          "a": "Avoid northern inner city areas like Sheriff Street, parts of O'Connell Street late at night, and areas around Gardiner Street and Dorset Street after dark. Suburban areas like Tallaght and parts of Finglas are also best avoided, though tourists rarely have reason to visit these locations."
+        },
+        {
+          "q": "Is it safe to use public transport in Dublin?",
+          "a": "Yes, Dublin's public transport is safe and reliable. The DART, Luas, and bus systems all maintain good safety records. Watch for pickpockets during rush hours and late-night services. Use official transport apps and keep belongings secure, especially on crowded services."
+        }
+      ],
+      "relatedCities": [
+        "london",
+        "edinburgh",
+        "amsterdam"
+      ]
+    },
+    {
+      "slug": "edinburgh",
+      "name": "Edinburgh",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-07",
+      "overallScore": 7.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.0,
+        "violentCrime": 8.5,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 7.5,
+        "transport": 8.0,
+        "naturalHazards": 7.0
+      },
+      "summary": "Edinburgh consistently ranks as one of the safest cities in the UK with a crime rate just 67.9 offenses per 1,000 population, about one-third of the national average. The city features excellent public safety infrastructure with regular police patrols and well-lit streets throughout most areas. Solo travelers, including women, frequently praise Edinburgh for its welcoming atmosphere and strong sense of security both day and night.",
+      "quickVerdict": "Edinburgh is an exceptionally safe destination for tourists with remarkably low crime rates and excellent safety infrastructure. While petty theft can occur in crowded tourist areas, violent crime against visitors is rare. The city's well-organized public safety system, including frequent police patrols around major attractions and transport hubs, creates a secure environment for all types of travelers. Most areas of the city center and popular neighborhoods are considered very safe at all hours, though standard urban precautions should be observed.",
+      "neighborhoods": [
+        {
+          "name": "Old Town",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The historic heart of Edinburgh featuring the Royal Mile, Edinburgh Castle, and major attractions. Well-patrolled with good lighting and high foot traffic during the day. Tourist-focused area with generally safe conditions, though pickpocketing can occur during peak season."
+        },
+        {
+          "name": "New Town",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Elegant Georgian district including Princes Street and shopping areas. Excellent safety record with regular patrols and well-maintained infrastructure. Popular with tourists and locals alike, considered very safe day and night."
+        },
+        {
+          "name": "Stockbridge",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Affluent neighborhood on the edge of city center known for consistently low crime rates. Features daily patrols, security measures, and a peaceful residential atmosphere. Considered one of the safest areas in Edinburgh."
+        },
+        {
+          "name": "Morningside",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential area south of the city center with excellent safety record. Well-lit streets, good transport links, and strong community presence. Very popular with families and professionals."
+        },
+        {
+          "name": "Leith",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Port area undergoing regeneration with mixed safety conditions. Higher crime rates including property offenses and drug-related activity, particularly at night. Increased police presence and CCTV installations are improving conditions, but extra caution advised."
+        },
+        {
+          "name": "Sighthill",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Area with elevated crime rates compared to city average. Reports of antisocial behavior and higher incidents of property crime. Visitors should exercise caution and avoid walking alone, especially after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police Officers",
+          "risk": "medium",
+          "description": "Criminals impersonating plain-clothes police officers approach tourists claiming to conduct routine document or bag checks. They may work in pairs with one posing as a tourist to build credibility.",
+          "howToAvoid": "Always ask for warrant cards and badge numbers. Real police will properly identify themselves. Genuine officers rarely conduct random searches of tourists without reasonable suspicion."
+        },
+        {
+          "name": "Overpriced Taxi Fares",
+          "risk": "medium",
+          "description": "Unlicensed taxi operators near tourist attractions offering rides at inflated prices or with broken meters. Some may take circuitous routes to increase costs.",
+          "howToAvoid": "Only use licensed black cabs or pre-book through reputable services. Check for proper vehicle identification and driver badges. Always agree on fares upfront for longer journeys."
+        },
+        {
+          "name": "Festival Ticket Scams",
+          "risk": "high",
+          "description": "Fraudulent online ticket sales for Edinburgh Festival events, particularly during peak season. Victims pay for tickets that are never delivered or receive fake tickets.",
+          "howToAvoid": "Purchase tickets only from official venues, authorized sellers, or reputable booking platforms. Be wary of deals that seem too good to be true, especially on social media."
+        },
+        {
+          "name": "Bar Overcharging",
+          "risk": "low",
+          "description": "Some establishments may inflate prices for tourists or add unexpected charges to bills, particularly in areas with heavy tourist traffic.",
+          "howToAvoid": "Check prices before ordering and ask to see menus with listed prices. Keep receipts and question any charges that seem excessive. Stick to well-established pubs and restaurants."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Edinburgh is widely considered one of the best cities in the UK for solo female travelers, with consistently high safety ratings and positive experiences reported. The city has a significantly lower crime rate than London and excellent infrastructure for solo exploration. Street harassment is rare, and locals are generally helpful and welcoming. Most female travelers report feeling completely safe walking alone during daylight hours and reasonably secure at night in well-lit, populated areas.",
+        "tips": [
+          "Stick to well-lit streets when walking at night and avoid shortcuts through parks or dark alleys",
+          "Use the buddy system when enjoying Edinburgh's vibrant nightlife scene and keep drinks covered",
+          "Consider staying in hostels with female-only dorms or hotels with 24-hour front desk service",
+          "Trust your instincts and remove yourself from any situation that makes you feel uncomfortable",
+          "Share your location with family or friends when exploring, especially if hiking Arthur's Seat alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Edinburgh maintains good safety standards at night with a score of 62.33 for solo nighttime walking according to safety indices. The city center and popular areas like the Royal Mile and Grassmarket have regular police patrols and good lighting. Public transport runs late with night bus services operating throughout the city. While most areas are safe, some peripheral neighborhoods require extra caution after dark, and standard urban precautions should be observed.",
+        "tips": [
+          "Stay in well-populated, well-lit areas like Princes Street and the Royal Mile when out at night",
+          "Use official taxis or pre-booked transport rather than walking long distances alone after dark",
+          "Avoid areas like Leith's red-light district and peripheral housing schemes late at night",
+          "Keep valuables secure and stay aware of your surroundings, especially during festival seasons",
+          "Stick to groups when pub crawling and have a safe way to get back to accommodation planned"
+        ]
+      },
+      "transport": {
+        "metro": "Edinburgh does not have a metro system, but operates an excellent tram network connecting the airport to city center and onwards to Newhaven. Trams run frequently from 6:26 AM to 22:48 PM with services every 7-10 minutes. The system is safe, modern, and well-monitored with CCTV coverage.",
+        "rideshare": "Uber operates in Edinburgh alongside local alternatives. Generally safe and reliable with standard safety features including driver verification and trip tracking. Useful for late-night travel when public transport is limited.",
+        "taxis": "Edinburgh has over 1,000 licensed black cabs which are very safe and regulated. Licensed taxis display proper identification and undergo regular safety inspections. Available 24/7 from taxi ranks or can be hailed on the street. Avoid unlicensed operators near tourist attractions.",
+        "tips": "Public transport is excellent and safe with Lothian Buses providing 24-hour service throughout the city. Always use contactless payment for best value. The integrated bus and tram system makes getting around easy and affordable."
+      },
+      "customs": [
+        "Queueing etiquette is sacred - always join the end of any line and wait patiently without pushing or cutting",
+        "Politeness is essential with frequent use of please, thank you, and sorry expected in daily interactions",
+        "Personal space is valued highly - maintain appropriate distance in conversations and avoid overly familiar touching",
+        "Punctuality is important - being on time is considered respectful while lateness is seen as rude",
+        "Pub culture includes the rounds system where buying drinks for the group is reciprocal and expected"
+      ],
+      "health": {
+        "overview": "Edinburgh has excellent healthcare standards with the UK's National Health Service providing comprehensive medical care. The city has multiple hospitals, urgent care centers, and pharmacies throughout the area. Air quality is generally good, and tap water is safe to drink though it may be harder than some visitors are accustomed to.",
+        "water": "Tap water is completely safe to drink throughout Edinburgh, though it may taste different due to mineral content. Bottled water is widely available if preferred.",
+        "vaccinations": "No special vaccinations are required for Edinburgh beyond routine immunizations. Standard travel health precautions apply, and travelers should ensure measles and polio vaccinations are current.",
+        "altitude": "Edinburgh sits at sea level with no altitude concerns. The climate is temperate and maritime with mild summers and cool, wet winters. Visitors should pack warm, waterproof clothing as weather can change quickly."
+      },
+      "emergency": {
+        "general": "999",
+        "police": "999 (emergency), 101 (non-emergency)",
+        "ambulance": "999",
+        "fire": "999",
+        "touristPolice": "N/A - contact regular police",
+        "usEmbassy": "US Embassy London: +44 20 7499 9000 (covers Scotland). Located at 33 Nine Elms Lane, London SW11 7US. For emergencies involving US citizens, contact the 24/7 line at +1-202-501-4444."
+      },
+      "faq": [
+        {
+          "q": "Is Edinburgh safe for tourists?",
+          "a": "Yes, Edinburgh is very safe for tourists with one of the lowest crime rates in the UK at 67.9 offenses per 1,000 people. Violent crime against tourists is rare, and the city has excellent safety infrastructure with regular police patrols in tourist areas."
+        },
+        {
+          "q": "Is Edinburgh safe at night?",
+          "a": "Edinburgh is generally safe at night, especially in the city center and well-populated areas. The Royal Mile, Princes Street, and Grassmarket have good lighting and regular patrols. However, use standard urban precautions and avoid walking alone through parks or peripheral areas after dark."
+        },
+        {
+          "q": "Is Edinburgh safe for solo female travelers?",
+          "a": "Edinburgh is considered one of the best UK cities for solo female travel. Women consistently report feeling safe, with street harassment being rare. The city has excellent public transport, helpful locals, and strong safety infrastructure. Basic precautions like staying in well-lit areas at night are recommended."
+        },
+        {
+          "q": "What areas should I avoid in Edinburgh?",
+          "a": "Most of central Edinburgh is very safe. Exercise extra caution in Leith (particularly the area between Salamander Street and Leith Link), Sighthill, and some peripheral housing schemes, especially at night. These areas have higher crime rates but are generally not tourist destinations."
+        },
+        {
+          "q": "Is it safe to use public transport in Edinburgh?",
+          "a": "Yes, Edinburgh's public transport is very safe and reliable. Lothian Buses operate 24/7 service with good safety records, and the tram system is modern and well-monitored. Both are widely used by tourists and locals. Night buses provide safe late-night transport options."
+        }
+      ],
+      "relatedCities": [
+        "glasgow",
+        "dublin",
+        "london",
+        "amsterdam",
+        "copenhagen"
+      ]
+    },
+    {
+      "slug": "copenhagen",
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-07",
+      "overallScore": 8.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 9.0,
+        "scamRisk": 8.0,
+        "womensSafety": 9.2,
+        "nightSafety": 8.5,
+        "transport": 8.8,
+        "naturalHazards": 7.4
+      },
+      "summary": "Copenhagen is consistently ranked as one of the world's safest cities, with Denmark ranking 8th globally for safety. The city features extremely low violent crime rates, excellent public transport, and high safety standards for solo female travelers. While petty crime like pickpocketing occurs in tourist areas, serious incidents are rare.",
+      "quickVerdict": "Copenhagen is exceptionally safe for tourists, with low crime rates, reliable public transportation, and a strong safety infrastructure. The US State Department issues only a Level 2 advisory for Denmark (Exercise Increased Caution) primarily due to general terrorism concerns across Europe. Violent crime is extremely rare, and the city's well-lit streets, efficient emergency services, and progressive culture make it ideal for all types of travelers, including solo female visitors.",
+      "neighborhoods": [
+        {
+          "name": "Inner City (Indre By)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The historic city center with major attractions like Nyhavn and Strøget. Well-patrolled and lit, though pickpocketing can occur near Central Station and tourist hotspots."
+        },
+        {
+          "name": "Østerbro",
+          "score": 9.2,
+          "class": "safe",
+          "description": "Upscale residential area known for parks and waterfront. Extremely safe with low crime rates and family-friendly atmosphere."
+        },
+        {
+          "name": "Vesterbro",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Trendy district with vibrant nightlife and the Meatpacking District. Generally safe but more lively, with occasional minor incidents around bars and clubs."
+        },
+        {
+          "name": "Frederiksberg",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Independent municipality within Copenhagen known for upscale neighborhoods, wide roads, and beautiful gardens. Very safe residential area."
+        },
+        {
+          "name": "Nørrebro",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Multicultural area with some gang activity, particularly around Blågårds Plads. While generally safe during the day, visitors should exercise caution at night."
+        },
+        {
+          "name": "Christiania",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Self-proclaimed autonomous district known for cannabis trade. Photography is prohibited on Pusher Street, and visitors should avoid the area after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police Scam",
+          "risk": "medium",
+          "description": "Scammers pose as plainclothes police asking tourists to show identification and money, claiming drug investigations. They work in groups of 2-3 people.",
+          "howToAvoid": "Always ask for proper police ID and badge numbers. Real Danish police will provide identification readily. Report suspicious encounters immediately."
+        },
+        {
+          "name": "Charity Petition Scam",
+          "risk": "medium",
+          "description": "Fake charity workers approach tourists with petitions or requests for donations, using distraction techniques while accomplices pickpocket belongings.",
+          "howToAvoid": "Politely decline to sign petitions or donate to street solicitors. Keep valuables secure and be aware of your surroundings in tourist areas."
+        },
+        {
+          "name": "Bike Theft",
+          "risk": "high",
+          "description": "Copenhagen's bike culture makes bicycle theft the most common crime. Rental bikes and poorly secured bicycles are frequent targets.",
+          "howToAvoid": "Always use both frame locks and additional chain locks when renting bikes. Park in well-lit areas and use designated bike parking whenever possible."
+        },
+        {
+          "name": "Street Gambling",
+          "risk": "low",
+          "description": "Three-shell games and other street gambling scams occasionally appear on Strøget Street, designed to quickly drain tourists' money.",
+          "howToAvoid": "Never participate in street gambling games. These are always rigged, and participants work together to deceive tourists."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Copenhagen is outstanding for solo female travelers, consistently ranking as one of the world's safest cities for women. Denmark tops the Women, Peace and Security Index 2025-26, with Copenhagen offering excellent gender equality, reliable public transport, and strong social safety nets. Sexual harassment is extremely rare due to the progressive culture, and women regularly cycle, walk, and use public transport safely at all hours.",
+        "tips": [
+          "The metro and buses run 24/7 and are completely safe for women traveling alone, even late at night",
+          "Danish culture highly respects women's independence - dining alone or exploring solo is completely normal and accepted",
+          "Stay in neighborhoods like Østerbro, Frederiksberg, or Inner City for maximum safety and walkability",
+          "Trust your instincts around Christiania and some parts of Nørrebro, especially after dark",
+          "Emergency services are excellent - call 112 for emergencies or 114 for non-urgent police matters"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Copenhagen's nightlife is remarkably safe with well-lit streets, active police presence, and a culture of responsible drinking. The city transforms into an atmospheric destination after dark, with canals, historic buildings, and entertainment districts remaining safe for exploration. Violence is extremely rare, and public transport operates 24/7 with consistent safety standards.",
+        "tips": [
+          "The Meatpacking District and Vesterbro offer vibrant nightlife with good security and police presence",
+          "Stick to well-lit main streets and avoid poorly lit alleys, though serious crime is still very rare",
+          "Public transport runs all night - metros every 7-15 minutes and night buses provide safe transport options",
+          "Emergency services respond quickly - Copenhagen has excellent ambulance and police response times",
+          "Danish drinking culture is generally responsible, but stay aware of your surroundings and drink responsibly"
+        ]
+      },
+      "transport": {
+        "metro": "Copenhagen's metro system is world-class, running 24/7 with trains every 1.5-2 minutes during peak hours and 3-6 minutes off-peak. The system is fully automated, wheelchair accessible, and extremely safe with excellent lighting and security cameras. All stations have elevators and the trains are level with platforms.",
+        "rideshare": "Uber returned to Copenhagen in January 2025 after several years' absence, now operating in the capital region. Bolt is also available as a reliable alternative. Both services operate under strict Danish regulations ensuring driver verification and vehicle safety standards.",
+        "taxis": "Traditional taxis are regulated, safe, and honest but expensive. Use official apps like DanTaxi or Taxi 4×35, or hail clearly marked cabs with visible taxi meters and license numbers. Unmarked vehicles should be avoided.",
+        "tips": "Public transport is the best option - efficient, safe, and environmentally friendly. The Copenhagen Card includes unlimited transport. Cycling is incredibly popular and safe with 380km of dedicated bike lanes, though bike theft is common so always use proper locks."
+      },
+      "customs": [
+        "Punctuality is highly valued - always arrive on time for appointments and social gatherings",
+        "Personal space is important - maintain respectful distance and use firm handshakes rather than hugs or kisses",
+        "Tipping is not expected as service charges are included, though small tips for exceptional service are appreciated",
+        "Remove shoes when entering Danish homes and bring small gifts like flowers or wine when invited to dinner",
+        "Danish directness should not be mistaken for rudeness - Danes communicate honestly and expect the same",
+        "Respect bike lanes and always wait for pedestrian crossing signals, even when no traffic is visible",
+        "The concept of hygge emphasizes coziness and quality time - embrace Denmark's relaxed, comfortable social atmosphere"
+      ],
+      "health": {
+        "overview": "Denmark has one of the world's best healthcare systems with universal coverage and high-quality medical care. Copenhagen hospitals are modern and well-equipped, with medical professionals who speak excellent English. The city poses minimal health risks to visitors.",
+        "water": "Tap water in Copenhagen is among the world's highest quality, coming from deep underground reservoirs and undergoing daily testing. It's completely safe to drink and environmentally friendly to use instead of bottled water.",
+        "vaccinations": "No special vaccinations are required for Denmark. Standard travel vaccinations (MMR, DPT, flu) are recommended. EU citizens should carry European Health Insurance Cards for coverage.",
+        "climate": "Copenhagen has a temperate oceanic climate with mild summers and cool winters. No altitude concerns. Winter months can be wet and windy, while summers are pleasant but can see sudden weather changes."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "114 (non-emergency)",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A - use 114",
+        "usEmbassy": "US Embassy Copenhagen: +45 33 41 71 00, located at Dag Hammarskjölds Allé 24, 2100 Copenhagen. For medical emergencies call 1813 to speak with nurses/doctors before going to hospital emergency departments."
+      },
+      "faq": [
+        {
+          "q": "Is Copenhagen safe for tourists?",
+          "a": "Yes, Copenhagen is extremely safe for tourists. Denmark ranks as the 8th safest country globally, with very low crime rates and excellent emergency services. Violent crime against tourists is virtually non-existent, though basic precautions against pickpocketing in tourist areas are wise."
+        },
+        {
+          "q": "Is Copenhagen safe at night?",
+          "a": "Copenhagen is very safe at night with well-lit streets, active nightlife districts, and 24/7 public transport. The city has low violent crime rates and good police presence in entertainment areas. Solo travelers, including women, regularly move around safely after dark."
+        },
+        {
+          "q": "Is Copenhagen safe for solo female travelers?",
+          "a": "Copenhagen is outstanding for solo female travelers, ranking among the world's safest cities for women. Denmark tops global women's safety indices, with excellent gender equality, safe public transport, and a culture that completely normalizes women traveling and dining alone."
+        },
+        {
+          "q": "What areas should I avoid in Copenhagen?",
+          "a": "Copenhagen is generally very safe, but exercise extra caution in parts of Nørrebro (especially around Blågårds Plads) due to occasional gang activity, and in Christiania, particularly Pusher Street and after dark. The areas around Central Station can see more pickpocketing but aren't dangerous."
+        },
+        {
+          "q": "Is it safe to use public transport in Copenhagen?",
+          "a": "Public transport in Copenhagen is extremely safe and reliable. The metro runs 24/7 with excellent safety records, and buses and trains are clean, well-maintained, and monitored. The system is fully accessible and considered one of the world's best urban transport networks."
+        }
+      ],
+      "relatedCities": [
+        "stockholm",
+        "oslo",
+        "helsinki",
+        "amsterdam",
+        "berlin"
+      ]
     }
   ]
 }

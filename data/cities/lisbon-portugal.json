@@ -1,0 +1,157 @@
+{
+  "slug": "lisbon",
+  "name": "Lisbon",
+  "country": "Portugal",
+  "countryCode": "PT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Lisbon ranks as one of Europe's safest capital cities, with Portugal holding the 7th position on the Global Peace Index. While violent crime is extremely rare, tourists should remain aware of pickpocketing in crowded areas and tourist hotspots, particularly on public transportation.",
+  "quickVerdict": "Lisbon is exceptionally safe for tourists, consistently ranking among the world's safest capitals. The main concern is petty theft, particularly pickpocketing on popular tram routes and in tourist areas. Violent crime is extremely rare, nightlife areas are generally secure, and the city maintains excellent infrastructure and emergency services. Portugal's political stability, friendly locals, and strong law enforcement make it an ideal destination for all types of travelers, including solo women.",
+  "neighborhoods": [
+    {
+      "name": "Chiado & Baixa",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Central shopping and cultural district with excellent lighting, police presence, and tourist infrastructure. Safe during day and night with pickpocketing as the main concern."
+    },
+    {
+      "name": "Alfama",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic neighborhood with narrow cobblestone streets. Generally safe but some quieter alleys can be dimly lit at night. Popular tourist area with good foot traffic."
+    },
+    {
+      "name": "Bairro Alto",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Famous nightlife district that's vibrant and well-policed during evening hours. Can be noisy and crowded, with occasional pickpocketing in busy bars."
+    },
+    {
+      "name": "Avenida da Liberdade",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale avenue with luxury shops and hotels. Well-lit, patrolled area considered one of the safest parts of central Lisbon for tourists."
+    },
+    {
+      "name": "Intendente & Martim Moniz",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Traditionally immigrant areas undergoing gentrification. Safe during day but requires extra caution at night, especially around metro stations."
+    },
+    {
+      "name": "Cais do Sodré",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Major transport hub and nightlife area, formerly a red-light district. Generally safe but can attract rowdy crowds and pickpockets late at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tram 28 Pickpocketing",
+      "risk": "high",
+      "description": "Organized groups target tourists on the famous tram route, especially during boarding and crowded sections. They use distraction techniques and work in teams.",
+      "howToAvoid": "Keep bags in front, avoid back pockets, stay alert during stops, and consider alternative transport during peak tourist hours."
+    },
+    {
+      "name": "Fake Drug Sales",
+      "risk": "medium",
+      "description": "Street sellers approach tourists offering drugs (usually fake substances like crushed herbs). Common in downtown and nightlife areas.",
+      "howToAvoid": "Firmly decline and walk away. Don't engage or show interest. These sellers are harmless but persistent - ignore completely."
+    },
+    {
+      "name": "Petition Scams",
+      "risk": "medium",
+      "description": "People with clipboards ask tourists to sign petitions while accomplices pickpocket wallets or phones during the distraction.",
+      "howToAvoid": "Politely refuse to sign anything from strangers. Keep walking and maintain awareness of your belongings in busy tourist areas."
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "medium",
+      "description": "Some taxi drivers don't use meters or claim they're broken, demanding inflated fares, especially from the airport.",
+      "howToAvoid": "Insist on the meter being used, use ride-sharing apps like Uber or Bolt, or agree on fare before starting the journey."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lisbon is considered one of the safest European capitals for solo female travelers. Women report feeling comfortable walking alone during day and night in central areas. Harassment is uncommon and locals are generally respectful and helpful. The city has good infrastructure and emergency services readily available.",
+    "tips": [
+      "Stick to well-lit, busy streets when walking at night, especially in central neighborhoods",
+      "Use cross-body bags worn in front and avoid displaying expensive items openly",
+      "Trust local advice about areas to avoid and don't hesitate to ask for directions from shop owners or police"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lisbon maintains good safety standards at night with active nightlife areas well-patrolled and lit. Most central neighborhoods remain busy with locals and tourists until late. The main precautions involve staying in populated areas and being aware of surroundings in quieter streets.",
+    "tips": [
+      "Stay in central, well-lit areas like Chiado, Bairro Alto, and along the riverfront",
+      "Use official taxis, Uber, or Bolt rather than walking long distances alone late at night",
+      "Avoid excessive drinking and keep belongings secure in crowded nightlife areas"
+    ]
+  },
+  "transport": {
+    "metro": "Modern, clean, and safe metro system operating until 1am. Four color-coded lines connect major tourist areas. Main safety concern is pickpocketing during rush hours. Use contactless payment or Navegante card.",
+    "rideshare": "Uber and Bolt operate extensively and safely throughout the city. Vehicles display TVDE stickers and provide reliable service. Generally cheaper and more convenient than traditional taxis.",
+    "taxis": "Official taxis are safe, regulated, and relatively inexpensive. All must use meters by law. Black and green colored vehicles are standard. Available at designated stands and can be hailed on streets.",
+    "tips": "Public transport is generally very safe. Watch for pickpockets on crowded trams, especially Tram 28. Keep belongings secure and validate tickets properly to avoid fines."
+  },
+  "customs": [
+    "Greet people with 'Bom dia' (good morning) when entering shops or cafés",
+    "Dress modestly when visiting churches and religious sites",
+    "Avoid writing in red ink as it's considered disrespectful in formal situations"
+  ],
+  "health": {
+    "overview": "Portugal has an excellent healthcare system with universal coverage. Lisbon offers high-quality medical facilities with many English-speaking staff in private clinics and hospitals.",
+    "water": "Tap water is safe to drink throughout Lisbon. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required. Routine vaccines should be up to date. Portugal has excellent vaccination coverage rates.",
+    "altitude": "Sea level city with mild Mediterranean climate. Summer temperatures can reach 35°C (95°F). Pack sunscreen and stay hydrated during hot weather."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "Available in Restauradores Square",
+    "usEmbassy": "U.S. Embassy Lisbon: +351 21 727 3300 (emergency after-hours available). Address: Av. das Forças Armadas, Sete-Rios, 1600-081 Lisbon"
+  },
+  "faq": [
+    {
+      "q": "Is Lisbon safe for tourists?",
+      "a": "Yes, Lisbon is one of Europe's safest capital cities. Portugal ranks 7th on the Global Peace Index, and violent crime is extremely rare. The main concern is petty theft in tourist areas."
+    },
+    {
+      "q": "Is Lisbon safe at night?",
+      "a": "Lisbon is generally very safe at night, especially in central areas like Chiado, Bairro Alto, and the riverfront. These areas remain busy with good lighting and police presence until late hours."
+    },
+    {
+      "q": "Is Lisbon safe for solo female travelers?",
+      "a": "Absolutely. Lisbon is considered one of the best European cities for solo female travelers. Women report feeling comfortable walking alone, and harassment is uncommon."
+    },
+    {
+      "q": "What areas should I avoid in Lisbon?",
+      "a": "Intendente and Martim Moniz require extra caution at night, though they're generally safe during the day. Avoid isolated areas after dark and stay aware in crowded tourist spots."
+    },
+    {
+      "q": "Is it safe to use public transport in Lisbon?",
+      "a": "Yes, Lisbon's public transport is very safe and efficient. The main precaution is watching for pickpockets on crowded trams, particularly the famous Tram 28 route."
+    }
+  ],
+  "relatedCities": [
+    "porto",
+    "madrid",
+    "barcelona"
+  ],
+  "_city_id": "lisbon-portugal"
+}

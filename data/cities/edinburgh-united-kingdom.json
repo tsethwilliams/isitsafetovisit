@@ -1,0 +1,165 @@
+{
+  "slug": "edinburgh",
+  "name": "Edinburgh",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Edinburgh consistently ranks as one of the safest cities in the UK with a crime rate just 67.9 offenses per 1,000 population, about one-third of the national average. The city features excellent public safety infrastructure with regular police patrols and well-lit streets throughout most areas. Solo travelers, including women, frequently praise Edinburgh for its welcoming atmosphere and strong sense of security both day and night.",
+  "quickVerdict": "Edinburgh is an exceptionally safe destination for tourists with remarkably low crime rates and excellent safety infrastructure. While petty theft can occur in crowded tourist areas, violent crime against visitors is rare. The city's well-organized public safety system, including frequent police patrols around major attractions and transport hubs, creates a secure environment for all types of travelers. Most areas of the city center and popular neighborhoods are considered very safe at all hours, though standard urban precautions should be observed.",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The historic heart of Edinburgh featuring the Royal Mile, Edinburgh Castle, and major attractions. Well-patrolled with good lighting and high foot traffic during the day. Tourist-focused area with generally safe conditions, though pickpocketing can occur during peak season."
+    },
+    {
+      "name": "New Town",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Elegant Georgian district including Princes Street and shopping areas. Excellent safety record with regular patrols and well-maintained infrastructure. Popular with tourists and locals alike, considered very safe day and night."
+    },
+    {
+      "name": "Stockbridge",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Affluent neighborhood on the edge of city center known for consistently low crime rates. Features daily patrols, security measures, and a peaceful residential atmosphere. Considered one of the safest areas in Edinburgh."
+    },
+    {
+      "name": "Morningside",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area south of the city center with excellent safety record. Well-lit streets, good transport links, and strong community presence. Very popular with families and professionals."
+    },
+    {
+      "name": "Leith",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Port area undergoing regeneration with mixed safety conditions. Higher crime rates including property offenses and drug-related activity, particularly at night. Increased police presence and CCTV installations are improving conditions, but extra caution advised."
+    },
+    {
+      "name": "Sighthill",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Area with elevated crime rates compared to city average. Reports of antisocial behavior and higher incidents of property crime. Visitors should exercise caution and avoid walking alone, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "medium",
+      "description": "Criminals impersonating plain-clothes police officers approach tourists claiming to conduct routine document or bag checks. They may work in pairs with one posing as a tourist to build credibility.",
+      "howToAvoid": "Always ask for warrant cards and badge numbers. Real police will properly identify themselves. Genuine officers rarely conduct random searches of tourists without reasonable suspicion."
+    },
+    {
+      "name": "Overpriced Taxi Fares",
+      "risk": "medium",
+      "description": "Unlicensed taxi operators near tourist attractions offering rides at inflated prices or with broken meters. Some may take circuitous routes to increase costs.",
+      "howToAvoid": "Only use licensed black cabs or pre-book through reputable services. Check for proper vehicle identification and driver badges. Always agree on fares upfront for longer journeys."
+    },
+    {
+      "name": "Festival Ticket Scams",
+      "risk": "high",
+      "description": "Fraudulent online ticket sales for Edinburgh Festival events, particularly during peak season. Victims pay for tickets that are never delivered or receive fake tickets.",
+      "howToAvoid": "Purchase tickets only from official venues, authorized sellers, or reputable booking platforms. Be wary of deals that seem too good to be true, especially on social media."
+    },
+    {
+      "name": "Bar Overcharging",
+      "risk": "low",
+      "description": "Some establishments may inflate prices for tourists or add unexpected charges to bills, particularly in areas with heavy tourist traffic.",
+      "howToAvoid": "Check prices before ordering and ask to see menus with listed prices. Keep receipts and question any charges that seem excessive. Stick to well-established pubs and restaurants."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Edinburgh is widely considered one of the best cities in the UK for solo female travelers, with consistently high safety ratings and positive experiences reported. The city has a significantly lower crime rate than London and excellent infrastructure for solo exploration. Street harassment is rare, and locals are generally helpful and welcoming. Most female travelers report feeling completely safe walking alone during daylight hours and reasonably secure at night in well-lit, populated areas.",
+    "tips": [
+      "Stick to well-lit streets when walking at night and avoid shortcuts through parks or dark alleys",
+      "Use the buddy system when enjoying Edinburgh's vibrant nightlife scene and keep drinks covered",
+      "Consider staying in hostels with female-only dorms or hotels with 24-hour front desk service",
+      "Trust your instincts and remove yourself from any situation that makes you feel uncomfortable",
+      "Share your location with family or friends when exploring, especially if hiking Arthur's Seat alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Edinburgh maintains good safety standards at night with a score of 62.33 for solo nighttime walking according to safety indices. The city center and popular areas like the Royal Mile and Grassmarket have regular police patrols and good lighting. Public transport runs late with night bus services operating throughout the city. While most areas are safe, some peripheral neighborhoods require extra caution after dark, and standard urban precautions should be observed.",
+    "tips": [
+      "Stay in well-populated, well-lit areas like Princes Street and the Royal Mile when out at night",
+      "Use official taxis or pre-booked transport rather than walking long distances alone after dark",
+      "Avoid areas like Leith's red-light district and peripheral housing schemes late at night",
+      "Keep valuables secure and stay aware of your surroundings, especially during festival seasons",
+      "Stick to groups when pub crawling and have a safe way to get back to accommodation planned"
+    ]
+  },
+  "transport": {
+    "metro": "Edinburgh does not have a metro system, but operates an excellent tram network connecting the airport to city center and onwards to Newhaven. Trams run frequently from 6:26 AM to 22:48 PM with services every 7-10 minutes. The system is safe, modern, and well-monitored with CCTV coverage.",
+    "rideshare": "Uber operates in Edinburgh alongside local alternatives. Generally safe and reliable with standard safety features including driver verification and trip tracking. Useful for late-night travel when public transport is limited.",
+    "taxis": "Edinburgh has over 1,000 licensed black cabs which are very safe and regulated. Licensed taxis display proper identification and undergo regular safety inspections. Available 24/7 from taxi ranks or can be hailed on the street. Avoid unlicensed operators near tourist attractions.",
+    "tips": "Public transport is excellent and safe with Lothian Buses providing 24-hour service throughout the city. Always use contactless payment for best value. The integrated bus and tram system makes getting around easy and affordable."
+  },
+  "customs": [
+    "Queueing etiquette is sacred - always join the end of any line and wait patiently without pushing or cutting",
+    "Politeness is essential with frequent use of please, thank you, and sorry expected in daily interactions",
+    "Personal space is valued highly - maintain appropriate distance in conversations and avoid overly familiar touching",
+    "Punctuality is important - being on time is considered respectful while lateness is seen as rude",
+    "Pub culture includes the rounds system where buying drinks for the group is reciprocal and expected"
+  ],
+  "health": {
+    "overview": "Edinburgh has excellent healthcare standards with the UK's National Health Service providing comprehensive medical care. The city has multiple hospitals, urgent care centers, and pharmacies throughout the area. Air quality is generally good, and tap water is safe to drink though it may be harder than some visitors are accustomed to.",
+    "water": "Tap water is completely safe to drink throughout Edinburgh, though it may taste different due to mineral content. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations are required for Edinburgh beyond routine immunizations. Standard travel health precautions apply, and travelers should ensure measles and polio vaccinations are current.",
+    "altitude": "Edinburgh sits at sea level with no altitude concerns. The climate is temperate and maritime with mild summers and cool, wet winters. Visitors should pack warm, waterproof clothing as weather can change quickly."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999 (emergency), 101 (non-emergency)",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "N/A - contact regular police",
+    "usEmbassy": "US Embassy London: +44 20 7499 9000 (covers Scotland). Located at 33 Nine Elms Lane, London SW11 7US. For emergencies involving US citizens, contact the 24/7 line at +1-202-501-4444."
+  },
+  "faq": [
+    {
+      "q": "Is Edinburgh safe for tourists?",
+      "a": "Yes, Edinburgh is very safe for tourists with one of the lowest crime rates in the UK at 67.9 offenses per 1,000 people. Violent crime against tourists is rare, and the city has excellent safety infrastructure with regular police patrols in tourist areas."
+    },
+    {
+      "q": "Is Edinburgh safe at night?",
+      "a": "Edinburgh is generally safe at night, especially in the city center and well-populated areas. The Royal Mile, Princes Street, and Grassmarket have good lighting and regular patrols. However, use standard urban precautions and avoid walking alone through parks or peripheral areas after dark."
+    },
+    {
+      "q": "Is Edinburgh safe for solo female travelers?",
+      "a": "Edinburgh is considered one of the best UK cities for solo female travel. Women consistently report feeling safe, with street harassment being rare. The city has excellent public transport, helpful locals, and strong safety infrastructure. Basic precautions like staying in well-lit areas at night are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Edinburgh?",
+      "a": "Most of central Edinburgh is very safe. Exercise extra caution in Leith (particularly the area between Salamander Street and Leith Link), Sighthill, and some peripheral housing schemes, especially at night. These areas have higher crime rates but are generally not tourist destinations."
+    },
+    {
+      "q": "Is it safe to use public transport in Edinburgh?",
+      "a": "Yes, Edinburgh's public transport is very safe and reliable. Lothian Buses operate 24/7 service with good safety records, and the tram system is modern and well-monitored. Both are widely used by tourists and locals. Night buses provide safe late-night transport options."
+    }
+  ],
+  "relatedCities": [
+    "glasgow",
+    "dublin",
+    "london",
+    "amsterdam",
+    "copenhagen"
+  ],
+  "_city_id": "edinburgh-united-kingdom"
+}

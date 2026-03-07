@@ -1,0 +1,163 @@
+{
+  "slug": "budapest",
+  "name": "Budapest",
+  "country": "Hungary",
+  "countryCode": "HU",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Budapest is one of Europe's safest capitals, with low violent crime rates and excellent public safety infrastructure. The main concerns for tourists are petty crimes like pickpocketing and common scams targeting visitors, particularly in the popular party districts. With proper precautions, visitors can safely enjoy the city's stunning architecture, thermal baths, and vibrant nightlife.",
+  "quickVerdict": "Budapest offers an excellent safety profile for tourists, ranking among Europe's top 10 safest cities with a crime index of only 33.9. While petty crime and tourist-focused scams exist, violent crime against visitors is extremely rare. The US State Department maintains Hungary at Level 1 advisory status, recommending normal precautions. The city's well-developed infrastructure, reliable emergency services, and tourist-friendly police make it an ideal destination for all types of travelers, from solo female visitors to families.",
+  "neighborhoods": [
+    {
+      "name": "Buda Castle District (District I)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart of Budapest with excellent police presence, well-lit streets, and heavy tourist traffic. Home to major attractions and upscale establishments with minimal crime concerns."
+    },
+    {
+      "name": "Pest City Center (District V)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central tourist area with good safety infrastructure, though pickpockets target crowded areas around Parliament and shopping streets. Generally very safe during day and night."
+    },
+    {
+      "name": "Jewish Quarter (District VII)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Main nightlife district with ruin bars and clubs. Safe for tourists but requires vigilance due to higher pickpocket activity and tourist-targeted scams, especially at night."
+    },
+    {
+      "name": "Pest Outer Areas (District VI)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential and business district with good safety levels. Contains many restaurants and cultural venues with standard urban precautions recommended."
+    },
+    {
+      "name": "Józsefváros (District VIII)",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Undergoing gentrification but still has some rough areas, particularly outer sections. Exercise caution at night and avoid poorly lit side streets."
+    },
+    {
+      "name": "Ferencváros (District IX)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Mixed area with safe central parts near Danube but some less secure outer residential zones. Generally safe for tourists staying near main attractions."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Drivers",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers overcharge tourists by using tampered meters, taking longer routes, or demanding excessive fares. Often operate at airports, train stations, and tourist areas.",
+      "howToAvoid": "Only use licensed taxis with clear company logos and posted rates. Book through apps like Bolt or Uber, or have hotels arrange transportation. Verify meter is running and functioning."
+    },
+    {
+      "name": "Bar and Restaurant Overcharging",
+      "risk": "medium",
+      "description": "Some establishments, especially in tourist areas, inflate prices, don't show prices on menus, or add excessive service charges. Strip clubs are particularly notorious for extreme overcharging.",
+      "howToAvoid": "Always check menus for posted prices before ordering. Avoid establishments without clear pricing. Be wary of places on Vaci Street at night and any venue recommended by strangers or taxi drivers."
+    },
+    {
+      "name": "Friendly Stranger Scam",
+      "risk": "medium",
+      "description": "Attractive women approach male tourists offering drinks or companionship, then lead them to bars where they're presented with enormous bills for overpriced drinks.",
+      "howToAvoid": "Be extremely cautious of unsolicited approaches from strangers, especially attractive women inviting you for drinks. Never follow strangers to bars or clubs they recommend."
+    },
+    {
+      "name": "Fake Police and Transport Inspectors",
+      "risk": "low",
+      "description": "Scammers pose as ticket inspectors on public transport or police officers demanding to see documents and wallets, then steal money or claim fines are owed.",
+      "howToAvoid": "Real inspectors wear official uniforms and carry proper ID badges. Ask to see credentials and go to a staffed metro office if in doubt. Police rarely ask to examine wallet contents on the street."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Budapest is considered very safe for solo female travelers, ranking among Europe's top destinations for women traveling alone. The city has low harassment rates and a generally respectful local population. Most areas are well-lit and patrolled, with reliable public transport and emergency services.",
+    "tips": [
+      "Stay in central areas like Districts I, V, or VI for best safety and convenience",
+      "Use official taxis or ride-sharing apps like Bolt rather than hailing street taxis",
+      "Be cautious in the party district at night and don't accept drinks from strangers",
+      "Keep valuables secure and be aware of pickpockets in crowded tourist areas",
+      "Trust your instincts and avoid anyone being overly persistent or pushy"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Budapest's nightlife is generally safe with well-patrolled party districts and good lighting on main streets. The Jewish Quarter offers vibrant nightlife but requires standard precautions. Police maintain visible presence in entertainment areas, and public transport operates late into the night.",
+    "tips": [
+      "Stick to well-lit main streets and avoid dark side streets or underpasses",
+      "The party district in District VII is busy and relatively safe but watch for pickpockets",
+      "Use night trams 4 and 6 which run all night between major areas",
+      "Be cautious around overly intoxicated people and aggressive street vendors",
+      "Travel in groups when possible and let someone know your planned route"
+    ]
+  },
+  "transport": {
+    "metro": "Budapest's metro system is safe, reliable, and efficient with four main lines covering all major attractions. Built in 1896, it's Europe's second-oldest metro system. Stations are generally well-lit and patrolled, though pickpockets can be an issue during rush hours.",
+    "rideshare": "Bolt is the primary ride-sharing app in Budapest after Uber returned in partnership with local taxi companies. Both offer regulated fares and driver accountability. Prices are reasonable and service is reliable throughout the city.",
+    "taxis": "Licensed taxis are safe but avoid unofficial freelancers. Look for yellow cabs with company logos, posted rates, and roof signs. Official taxis use regulated meters and fair pricing. Book through hotel or use official apps to avoid overcharging scams.",
+    "tips": "Public transport is excellent and affordable - buy a travel pass for convenience. Always validate tickets to avoid fines. Night transport operates until late, making it easy to get around safely after dark."
+  },
+  "customs": [
+    "Handshakes should be firm with direct eye contact - this is seen as a sign of sincerity and trustworthiness",
+    "Remove shoes when entering Hungarian homes and bring small gifts like flowers or chocolates for hosts",
+    "Don't clink glasses when toasting with beer - this custom dates back to Hungarian revolutionary history and is still observed",
+    "Wait for your host to begin eating before you start your meal, and keep hands visible on the table while dining",
+    "Address people formally using titles and surnames until invited to use first names - Hungarians value proper etiquette"
+  ],
+  "health": {
+    "overview": "Hungary offers high-quality healthcare with modern facilities in Budapest. Most doctors and medical staff speak English, and pharmacies are well-stocked with international medications. Travel insurance is recommended but not mandatory for EU citizens with valid health cards.",
+    "water": "Tap water is safe to drink throughout Budapest and meets EU standards. Bottled water is widely available but unnecessary for health reasons. Restaurants and cafes serve safe tap water.",
+    "vaccinations": "No special vaccinations required for Hungary. Routine vaccinations like MMR, flu, and COVID-19 should be up to date. Hepatitis A vaccination recommended for extended stays. Tick-borne encephalitis vaccination advised for hiking in forested areas.",
+    "altitude": "Budapest sits at low elevation with no altitude concerns. Climate is temperate with cold winters and warm summers. Air quality can be moderate due to urban pollution but generally acceptable for short-term visits."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "107",
+    "ambulance": "104",
+    "fire": "105",
+    "touristPolice": "+36 1 438 8080",
+    "usEmbassy": "U.S. Embassy Budapest: +36 1 475 4400, located at Szabadság tér 12, available 24/7 for American citizen emergencies. Other embassies provide similar services for their nationals."
+  },
+  "faq": [
+    {
+      "q": "Is Budapest safe for tourists?",
+      "a": "Yes, Budapest is very safe for tourists and ranks among Europe's top 10 safest cities. Violent crime against visitors is extremely rare, though petty crime like pickpocketing occurs in crowded areas. The US State Department rates Hungary as Level 1 - exercise normal precautions."
+    },
+    {
+      "q": "Is Budapest safe at night?",
+      "a": "Budapest is generally safe at night, especially in central areas and the main party district. Streets are well-lit and patrolled, with night public transport available. Use common sense precautions, stick to main areas, and avoid poorly lit side streets or underpasses."
+    },
+    {
+      "q": "Is Budapest safe for solo female travelers?",
+      "a": "Budapest is excellent for solo female travelers and considered one of Europe's safest capitals for women. Harassment is rare, public transport is reliable, and most areas are well-patrolled. Standard precautions apply, particularly in nightlife areas and when using taxis."
+    },
+    {
+      "q": "What areas should I avoid in Budapest?",
+      "a": "Most of Budapest is safe, but exercise extra caution in outer parts of Districts VII, VIII, and IX, particularly at night. Avoid Vaci Street bars at night due to tourist traps, and be cautious on dark side streets and underpasses throughout the city."
+    },
+    {
+      "q": "Is it safe to use public transport in Budapest?",
+      "a": "Yes, Budapest's public transport is very safe and reliable. The metro, trams, and buses are well-maintained with good security presence. Watch for pickpockets during rush hours and validate tickets to avoid fines. Night services operate on major routes."
+    }
+  ],
+  "relatedCities": [
+    "prague",
+    "vienna",
+    "bratislava"
+  ],
+  "_city_id": "budapest-hungary"
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "vienna",
+  "name": "Vienna",
+  "country": "Austria",
+  "countryCode": "AT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 8.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 8.0,
+    "womensSafety": 8.9,
+    "nightSafety": 8.0,
+    "transport": 9.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Vienna is widely regarded as one of Europe's safest capital cities, consistently ranking in the top 5 globally for safety and quality of life. The city maintains exceptionally low crime rates with violent crime being extremely rare, while petty theft like pickpocketing occurs mainly in crowded tourist areas during peak seasons.",
+  "quickVerdict": "Vienna stands out as an exceptionally safe destination for all types of travelers. With its Level 1 US State Department travel advisory, excellent public transport system, and strong police presence, visitors can explore the city with confidence. While petty crime exists in tourist hotspots, violent crime is virtually non-existent. The city's well-lit streets, reliable infrastructure, and helpful locals make it particularly welcoming for solo travelers and families alike.",
+  "neighborhoods": [
+    {
+      "name": "Innere Stadt (1st District)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Vienna's historic city center is very safe with high police presence and excellent lighting. While crowded with tourists, violent crime is virtually non-existent. Watch for pickpockets near major attractions like St. Stephen's Cathedral and during Christmas markets."
+    },
+    {
+      "name": "Leopoldstadt (2nd District)",
+      "score": 8.3,
+      "class": "safe",
+      "description": "A quiet residential area across the Danube Canal that's popular with families. Generally very safe with good public transport connections. The Prater area can get busy during events but remains secure overall."
+    },
+    {
+      "name": "Mariahilf (6th District)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Home to the main shopping street Mariahilferstrasse, this vibrant district is well-patrolled and safe for tourists. Some petty theft occurs in busy shopping areas, but the neighborhood maintains good safety standards day and night."
+    },
+    {
+      "name": "Favoriten (10th District)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Vienna's most populous district has higher crime rates than other areas, particularly around the main train station. While not dangerous, visitors should exercise normal urban caution, especially after dark. Many safe residential areas exist within the district."
+    },
+    {
+      "name": "Praterstern Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "The area around Praterstern station can feel less safe, especially at night, due to higher foot traffic and some social issues. It's not dangerous but requires more awareness. Stick to well-lit main paths and avoid lingering alone late at night."
+    },
+    {
+      "name": "Prater Park (at night)",
+      "score": 5.5,
+      "class": "caution",
+      "description": "While safe during daytime, the large Prater Park is best avoided alone after dark due to poor lighting in some areas and fewer people around. Stick to the main Prater area with attractions, which remains well-patrolled and lit."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Mozart Concert Ticket Sellers",
+      "risk": "medium",
+      "description": "People dressed as Mozart sell overpriced tickets to mediocre classical concerts on the street, particularly near the Opera House. These concerts exist but are poor quality and overpriced.",
+      "howToAvoid": "Only buy concert tickets from official venues or authorized ticket offices. Avoid street sellers in period costumes entirely."
+    },
+    {
+      "name": "Fake Police Officers",
+      "risk": "medium",
+      "description": "Scammers dressed as police officers approach tourists asking to check IDs and wallets, then return wallets with cash missing. This targets Asian, Russian, and American tourists particularly.",
+      "howToAvoid": "Real police will show proper identification. Never hand over your entire wallet. Ask to see their police ID card and badge number. Contact 133 if suspicious."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Thieves work in teams using clipboards, charity petitions, or spilled substances to distract tourists while accomplices steal valuables. Common in Christmas markets, on public transport, and near major attractions.",
+      "howToAvoid": "Keep belongings secure and in front of you. Don't engage with clipboard holders or accept help from strangers. Stay aware in crowded areas and on public transport."
+    },
+    {
+      "name": "Overcharging Taxi Scam",
+      "risk": "low",
+      "description": "Some taxi drivers may try to overcharge tourists by not using the meter or taking longer routes. This is less common due to ride-sharing apps but still occurs occasionally.",
+      "howToAvoid": "Always ensure the meter is running. Use official taxi stands or apps like Uber/Bolt. Know approximate route distances beforehand using mapping apps."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Vienna is exceptionally safe for solo female travelers and consistently ranks among the top cities globally for women's safety. The city has excellent lighting, reliable public transport, and a strong police presence. Austrian culture is respectful toward women, and harassment is rare. Female travelers report feeling comfortable walking alone even at night in most areas of the city.",
+    "tips": [
+      "Vienna is one of the safest cities in Europe for solo women - trust your instincts but don't over-worry",
+      "Avoid Prater Park alone after dark and exercise normal caution around Praterstern station at night",
+      "Use the efficient public transport system which runs late and has good security presence",
+      "Stay in central districts (1st-9th) which are well-lit and have more foot traffic in evenings",
+      "Austrians are generally reserved but helpful - don't hesitate to ask for assistance if needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Vienna is remarkably safe at night with well-lit streets, active nightlife areas, and regular police patrols. The city center and most tourist districts remain busy with locals and visitors until late. Street crime is rare, and the efficient public transport system operates until midnight on weekdays and 24/7 on weekends.",
+    "tips": [
+      "Most central areas remain safe and well-lit throughout the night with good foot traffic",
+      "Use night buses or taxis after U-Bahn service ends - both are safe and reliable options",
+      "Avoid empty parks like Prater after dark and stick to main streets in less central districts",
+      "The historic center has excellent lighting and frequent police patrols even in early morning hours",
+      "Vienna's cafe culture means many establishments stay open late, providing safe havens if needed"
+    ]
+  },
+  "transport": {
+    "metro": "Vienna's U-Bahn is exceptionally safe, clean, and efficient with 5 lines covering the city. Operates 5am-midnight on weekdays and continuously on weekends. No barriers - honor system with occasional ticket checks.",
+    "rideshare": "Uber and Bolt operate safely in Vienna. Local services include Taxi 31300 app. All rideshare services are regulated and secure. Female-only driver options available through some services.",
+    "taxis": "Official taxis are safe and regulated. Always ensure meter is running. Taxi stands throughout the city. Call 31300 for reliable service. Tipping 10% is customary.",
+    "tips": "Public transport is the best option - clean, safe, and reaches everywhere. Validate paper tickets before boarding. Night buses cover the network when U-Bahn closes. Transport is very accessible and female-friendly."
+  },
+  "customs": [
+    "Austrians value punctuality highly - arrive on time or slightly early for all appointments",
+    "Greet people formally with 'Guten Tag' and use titles (Herr/Frau) until invited to be less formal",
+    "Shake hands when entering a room and greet shop staff when entering/leaving stores",
+    "Wait to be seated at restaurants and don't start eating until everyone is served",
+    "Maintain eye contact when toasting and say 'Prost' - never cross arms when clinking glasses",
+    "Dress conservatively and neatly - Austrians take pride in their appearance",
+    "Keep voices down in public spaces and on transport - Austrians value quiet public behavior"
+  ],
+  "health": {
+    "overview": "Austria has an excellent healthcare system that meets or exceeds US standards. Public health conditions in Vienna are outstanding with modern facilities and English-speaking medical staff available. No special health precautions needed beyond standard travel insurance.",
+    "water": "Tap water in Vienna is pure, safe, and comes directly from Alpine springs. No need for bottled water - locals drink tap water exclusively.",
+    "vaccinations": "No special vaccinations required beyond routine ones. CDC recommends being up to date on standard vaccines including MMR. TBE vaccination recommended if spending time in Vienna Woods or rural areas.",
+    "altitude": "Vienna sits at low altitude (171m) so no altitude concerns. Climate is temperate continental with cold winters and warm summers. Air quality is good to excellent throughout most of the city."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "133",
+    "ambulance": "144",
+    "fire": "122",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Vienna - Parkring 12A, 1010 Vienna. Emergency: +43-(0)1-313390. Regular hours: +43-(0)1-31339. Email: ConsulateVienna@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Vienna safe for tourists?",
+      "a": "Yes, Vienna is exceptionally safe for tourists and ranks among the world's safest cities. With very low crime rates, excellent police presence, and tourist-friendly infrastructure, visitors can explore with confidence. The US State Department gives Austria a Level 1 (Exercise Normal Precautions) rating."
+    },
+    {
+      "q": "Is Vienna safe at night?",
+      "a": "Vienna is very safe at night with well-lit streets, active nightlife, and regular police patrols. The city center and main tourist areas remain busy until late. Public transport runs until midnight (24/7 weekends) and night buses provide coverage thereafter."
+    },
+    {
+      "q": "Is Vienna safe for solo female travelers?",
+      "a": "Vienna is one of Europe's safest cities for solo female travelers. Women report feeling comfortable walking alone even at night in most areas. Austrian culture is respectful, harassment is rare, and the city has excellent public transport and infrastructure for independent travelers."
+    },
+    {
+      "q": "What areas should I avoid in Vienna?",
+      "a": "Vienna has no truly dangerous areas, but exercise extra caution around Praterstern station at night and avoid Prater Park alone after dark. The 10th district (Favoriten) has slightly higher crime rates but isn't dangerous for tourists using normal urban awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Vienna?",
+      "a": "Vienna's public transport is extremely safe, clean, and efficient. The U-Bahn, trams, and buses are well-maintained with good security presence. Occasional pickpocketing occurs during rush hours, so keep belongings secure, but violent crime on transport is virtually non-existent."
+    }
+  ],
+  "relatedCities": [
+    "budapest",
+    "prague",
+    "zurich",
+    "munich",
+    "berlin",
+    "bratislava"
+  ],
+  "_city_id": "vienna-austria"
+}

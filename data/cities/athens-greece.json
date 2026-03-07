@@ -1,0 +1,167 @@
+{
+  "slug": "athens",
+  "name": "Athens",
+  "country": "Greece",
+  "countryCode": "GR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 7.8
+  },
+  "summary": "Athens is generally very safe for tourists, ranking among Europe's safest capitals with low violent crime rates. The US State Department maintains a Level 1 advisory for Greece. Most issues involve petty crime like pickpocketing in tourist areas.",
+  "quickVerdict": "Athens offers excellent safety for visitors, with violent crime being extremely rare and the city maintaining one of the lowest crime rates in Europe. While petty theft occurs in crowded tourist areas and some neighborhoods require extra caution at night, basic awareness and common-sense precautions are sufficient for a safe visit. The strong police presence, helpful locals, and well-developed tourism infrastructure make Athens very welcoming for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Plaka & Acropolis Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic heart of Athens with heavy police presence and constant foot traffic. Main concerns are pickpockets at tourist sites and overpriced restaurants."
+    },
+    {
+      "name": "Syntagma Square",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Central government area with good security, upscale hotels, and rooftop bars. Watch for pickpockets during changing of guard ceremony and crowded metro stations."
+    },
+    {
+      "name": "Monastiraki & Psiri",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Vibrant nightlife district with bars, restaurants, and cultural sites. Generally safe but can get rowdy late at night, especially on weekends."
+    },
+    {
+      "name": "Koukaki & Makrigianni",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Residential area near the Acropolis with family-friendly atmosphere. Well-lit streets and local amenities make it ideal for accommodation."
+    },
+    {
+      "name": "Omonia Square",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Central transport hub with higher crime rates, drug activity, and homeless population. Avoid at night and be extra vigilant during daytime visits."
+    },
+    {
+      "name": "Exarchia",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Bohemian district known for student life and alternative culture. Generally safe during day but can be unpredictable at night due to political demonstrations."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bar/Club Overcharge Scam",
+      "risk": "high",
+      "description": "Friendly locals invite tourists for drinks, leading to bills of hundreds of euros for basic drinks",
+      "howToAvoid": "Never accept drink invitations from strangers, always check menu prices before ordering, and avoid bars without clearly displayed prices"
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "high",
+      "description": "Drivers claim broken meters, quote flat rates above normal fares, or take longer routes especially from airport/port",
+      "howToAvoid": "Use taxi apps like Beat or Uber, insist on meter usage, confirm flat rate prices beforehand, and learn basic routes"
+    },
+    {
+      "name": "Restaurant Menu Switch",
+      "risk": "medium",
+      "description": "Restaurants present menus without prices or switch to higher-priced versions when billing",
+      "howToAvoid": "Always request a menu with prices, check bills carefully against menu prices, and ask for itemized receipts as required by law"
+    },
+    {
+      "name": "Photo Camera Scam",
+      "risk": "medium",
+      "description": "Someone asks you to take their photo then claims you broke their pre-damaged camera or phone",
+      "howToAvoid": "Politely decline photo requests from strangers, never handle devices from unknown people, and walk away if pressured"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Athens is very safe for solo female travelers, with many women reporting positive experiences. Violent crime against tourists is extremely rare, and the city has a welcoming atmosphere. Most safety concerns involve petty theft and occasional catcalling, which rarely escalates beyond verbal comments.",
+    "tips": [
+      "Stay in well-lit central areas like Plaka, Koukaki, or near Syntagma Square",
+      "Use taxi apps or hotel-arranged transport for late-night travel",
+      "Keep bags in front on crowded metro lines and tourist sites",
+      "Trust your instincts and avoid empty areas late at night",
+      "Connect with other travelers at hostels or guided tours for company"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Athens nightlife is generally safe with vibrant districts staying active until early morning. Popular areas like Plaka, Monastiraki, Psiri, and Gazi maintain good lighting and foot traffic. However, some neighborhoods require extra caution after dark, and standard urban safety practices are recommended.",
+    "tips": [
+      "Stay in well-lit, busy areas with consistent foot traffic",
+      "Use taxis or rideshare apps rather than walking alone very late",
+      "Avoid Omonia Square and poorly lit back streets after midnight",
+      "Stick to main tourist and nightlife districts for evening entertainment",
+      "Plan your route back to accommodation in advance"
+    ]
+  },
+  "transport": {
+    "metro": "Athens Metro is modern, efficient, and generally safe, though pickpocketing occurs on crowded lines, especially Line 3 to the airport. Stations close around midnight (2 AM weekends) with good lighting and security cameras.",
+    "rideshare": "Uber operates as taxi-only service using licensed yellow cabs. Popular local apps include Beat and Freenow. All provide price transparency and driver tracking for safer travel.",
+    "taxis": "Licensed yellow taxis are generally safe but overcharging is common. Always insist on meter usage or confirm flat rates beforehand. Airport taxis have regulated flat rates to city center.",
+    "tips": "Public transport is reliable and affordable. Download taxi apps for transparency, keep bags in front on metro, and use official taxi stands when possible."
+  },
+  "customs": [
+    "Greet people with 'Kalimera' (good morning) or 'Yia sas' (hello) when entering shops or meeting someone",
+    "Cover shoulders and knees when visiting churches and monasteries - carry a light scarf or shawl",
+    "Avoid pointing with an open palm as this gesture is considered highly offensive in Greek culture",
+    "Accept hospitality graciously - refusing food or drink invitations can be seen as insulting",
+    "Dress smartly even for casual outings as Greeks take pride in their appearance",
+    "Be patient with 'Greek time' - delays are common and culturally accepted",
+    "Tip 10-15% at restaurants and cafes if satisfied with service"
+  ],
+  "health": {
+    "overview": "Greece has good healthcare standards with modern hospitals in Athens. EU citizens can use European Health Insurance Card for basic coverage. Private facilities often have English-speaking staff and shorter wait times.",
+    "water": "Tap water is safe to drink throughout Athens and meets EU standards. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required for Greece. Routine vaccinations (MMR, DPT, flu) should be up to date. Check CDC recommendations before travel.",
+    "altitude": "Athens is at sea level with Mediterranean climate. Summer temperatures can exceed 40°C (104°F) with potential for heatwaves. Stay hydrated and avoid midday sun during peak summer."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "166",
+    "fire": "199",
+    "touristPolice": "171",
+    "usEmbassy": "US Embassy Athens: +30 210 720 2951, Located at 91 Vasilisis Sofias Avenue, provides 24/7 emergency assistance for US citizens"
+  },
+  "faq": [
+    {
+      "q": "Is Athens safe for tourists?",
+      "a": "Yes, Athens is very safe for tourists. Greece has a Level 1 US State Department advisory and Athens ranks among Europe's safest capitals. Violent crime is extremely rare, with most issues involving petty theft in crowded areas."
+    },
+    {
+      "q": "Is Athens safe at night?",
+      "a": "Athens is generally safe at night in main tourist and nightlife areas like Plaka, Monastiraki, and Syntagma. The city has vibrant nightlife with good lighting and police presence. Avoid Omonia Square and empty back streets late at night."
+    },
+    {
+      "q": "Is Athens safe for solo female travelers?",
+      "a": "Yes, Athens is very safe for solo female travelers. Many women travel here independently without issues. Use common sense, stay in well-lit areas, and trust your instincts. Violent crime against women is extremely rare."
+    },
+    {
+      "q": "What areas should I avoid in Athens?",
+      "a": "Exercise caution around Omonia Square, especially at night, due to higher petty crime and drug activity. Some backstreets in Metaxourgio and parts of Exarchia require awareness. Most tourist areas are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Athens?",
+      "a": "Yes, Athens public transport is safe and modern. The metro system is efficient with good security. Watch for pickpockets on crowded trains, especially Line 3 to the airport. Taxis are safe but use apps for price transparency."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "barcelona",
+    "istanbul",
+    "naples",
+    "florence"
+  ],
+  "_city_id": "athens-greece"
+}
