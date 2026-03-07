@@ -22,7 +22,7 @@ function getBadgeLabel(score: number) {
 type CityData = {
   slug: string; name: string; country: string; region: string;
   overallScore: number; badgeLabel?: string; badgeClass?: string;
-  scores?: Record<string, number>;
+  scores?: { pettyCrime?: number; violentCrime?: number; scamRisk?: number; womensSafety?: number; nightSafety?: number; transport?: number; naturalHazards?: number; [key: string]: number | undefined; };
 };
 
 export async function generateStaticParams() {
