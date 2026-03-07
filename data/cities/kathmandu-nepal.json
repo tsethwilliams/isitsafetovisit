@@ -1,0 +1,160 @@
+{
+  "slug": "kathmandu",
+  "name": "Kathmandu",
+  "country": "Nepal",
+  "countryCode": "NP",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 4.8,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 6.5,
+    "naturalHazards": 7.1
+  },
+  "summary": "<cite index='3-3,3-9'>Kathmandu operates under a Level 3 Travel Advisory (Reconsider Travel) due to civil unrest following violent protests</cite>, with <cite index='6-16,6-20'>upcoming elections on March 5, 2026 creating a 48-hour high-risk window for airport access disruptions</cite>. <cite index='18-3,18-12'>Despite political tensions, the city remains generally safe for tourists with friendly people and low violent crime rates against foreigners</cite>.",
+  "quickVerdict": "Kathmandu presents a mixed safety picture for tourists. While <cite index='57-1,57-12'>the city is generally considered safe with friendly locals and low crime rates against tourists</cite>, <cite index='3-3'>current Level 3 travel advisories warn of civil unrest</cite> and political instability. <cite index='13-8,13-9,13-10'>Recent crime statistics show a slight uptick with 12,915 cases registered in FY 2081/82, dominated by economic offenses</cite>. The greatest challenges come from <cite index='18-8,18-16'>common petty crimes like pickpocketing and bag snatching, especially in crowded tourist areas</cite>, and <cite index='31-4,31-5,31-6'>significant natural disaster risks, with Nepal ranking 11th globally for earthquake vulnerability</cite>. Tourist-focused areas like Thamel remain relatively secure, but travelers should exercise heightened caution during the current political transition period.",
+  "neighborhoods": [
+    {
+      "name": "Thamel",
+      "score": 7.5,
+      "class": "safe",
+      "description": "<cite index='51-8,51-9'>The main tourist district that's generally considered safe and easier for solo travelers when first arriving in Kathmandu</cite>. <cite index='61-10,61-11'>After dark, the bustling streets remain crowded with locals and tourists frequenting bars and clubs</cite>. Well-patrolled area with good lighting and tourist police presence."
+    },
+    {
+      "name": "Paknajol",
+      "score": 7.2,
+      "class": "safe",
+      "description": "<cite index='51-8,51-9'>Another recommended tourist area that's probably easier for solo women when first arriving in Kathmandu</cite>. Close to Thamel with similar amenities and safety infrastructure. Good concentration of hotels and restaurants with tourist-friendly services."
+    },
+    {
+      "name": "Durbar Marg",
+      "score": 7.8,
+      "class": "safe",
+      "description": "<cite index='61-19'>An upscale street with high-end establishments</cite> and <cite index='69-27,69-28'>luxury hotels, shops, and restaurants leading to the Royal Palace, more residential and less touristy than Thamel</cite>. Generally well-maintained with good security due to upmarket clientele."
+    },
+    {
+      "name": "Lazimpat",
+      "score": 6.5,
+      "class": "caution",
+      "description": "<cite index='61-16,61-17'>Located just a few minutes north of Thamel with a small selection of bars and live music, frequented by expats due to many nearby embassies</cite>. <cite index='69-29,69-30'>More laid-back neighborhood with some nightlife options</cite>. Safe during day but requires normal urban precautions at night."
+    },
+    {
+      "name": "Sanepa",
+      "score": 5.8,
+      "class": "caution",
+      "description": "<cite index='62-3,62-10,62-15'>Area where sexual assaults have been reported and pickpockets/bag-snatchers are particularly active</cite>. While still a functioning neighborhood, tourists should exercise extra caution, especially women traveling alone or after dark."
+    },
+    {
+      "name": "Freak Street",
+      "score": 5.2,
+      "class": "caution",
+      "description": "<cite index='51-8,51-9'>One of the main tourist areas in Kathmandu but Thamel and Paknajol are probably easier for solo women when first arriving</cite>. Historic area with budget accommodations but can be less secure than other tourist zones, particularly for first-time visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Airport Representatives",
+      "risk": "high",
+      "description": "<cite index='41-1'>Fake airport representatives at Tribhuvan International Airport offering unsolicited assistance</cite> and <cite index='41-17'>individuals who introduce themselves as airport representatives after exiting security and immigration</cite>.",
+      "howToAvoid": "<cite index='41-9'>Only trust official or pre-arranged pick-ups—look for your name or hotel/company placard</cite> and avoid anyone who approaches you unsolicited in the airport."
+    },
+    {
+      "name": "Overcharging Taxi Scams",
+      "risk": "high",
+      "description": "<cite index='43-12'>In Kathmandu, taxi drivers may refuse to use the meter and quote inflated fares, especially in busy areas and at night</cite>. <cite index='50-20,50-21,50-22'>Drivers refuse to use meters, quoting inflated rates, particularly common at airports, bus stations, and tourist-heavy areas like Thamel</cite>.",
+      "howToAvoid": "<cite index='45-16,45-17'>Always insist on using the meter. If the driver refuses, negotiate a fair price before getting in</cite>. <cite index='45-18'>You can also use ride-hailing apps or pre-book transportation from a reliable source</cite>."
+    },
+    {
+      "name": "Fake Trekking Permits",
+      "risk": "medium",
+      "description": "<cite index='50-1,50-2'>Scammers often approach tourists claiming they need additional or urgent trekking permits, which they offer to provide for a fee. In reality, these permits may be fake or entirely unnecessary</cite>.",
+      "howToAvoid": "<cite index='45-36'>Always get your permits from the Nepal Tourism Board or a registered trekking company</cite>. <cite index='50-27,50-28'>Ensure you get your permits from authorised offices like the Nepal Tourism Board or the Department of Immigration. Avoid dealing with individuals offering permits on the spot</cite>."
+    },
+    {
+      "name": "Helicopter Insurance Fraud",
+      "risk": "high",
+      "description": "<cite index='46-14,46-15,46-16'>The helicopter trek scam where they pull victims in with cheap Everest base camp tours, then design a crazy itinerary or spike drinks/food so that once the trekker falls sick, they force you to evacuate to an expensive hospital in Kathmandu via an expensive helicopter ride</cite>.",
+      "howToAvoid": "<cite index='45-8,45-9'>Find those trekking companies officially registered with the Nepal Tourism Board and TAAN. Check the online reviews or ask other travelers for recommendations</cite>. Never accept unusually cheap trekking packages and be wary of free trek offers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "<cite index='52-23,52-24'>Nepali people are very welcoming, and there are many solo travellers in Nepal. This is one of those countries where women travelling alone will be respected and even protected</cite>. <cite index='54-1,54-2,54-3'>Nepal is safe for solo female travellers, especially when you travel with openness, respect, a bit of preparation, and your sense of humour intact</cite>. <cite index='55-29'>Nepal is widely recognized as a top choice for single female travelers due to its reputation as a safe destination</cite>. However, <cite index='62-15,62-16'>women have been sexually assaulted in tourist areas such as Thamel and Sanepa in Kathmandu, so be cautious, especially when alone after dark</cite>.",
+    "tips": [
+      "<cite index='51-20,51-21'>Dress modestly (cover shoulders, knees), avoid excessive jewelry, respect temple etiquette (remove shoes, cover head if required), and be cautious with physical interactions</cite>",
+      "<cite index='57-13'>While considered safe during the day, it's recommended to avoid walking alone at night, especially in secluded areas</cite>",
+      "<cite index='55-6,55-7'>Kathmandu has recently introduced a women-exclusive bus service to address concerns of street harassment and enhance the safety of female passengers</cite>"
+    ]
+  },
+  "nightSafety": {
+    "overview": "<cite index='63-15,63-16'>Thamel is mostly safe at night, as this tourist heart of Kathmandu is well-patrolled and active, so violent crime against foreigners is rare</cite>. <cite index='64-1,64-2,64-3'>It is absolutely safe to explore Thamel at night in Kathmandu, just avoid the alleys where there is no light and stick to yourself</cite>. However, <cite index='62-11,62-12'>take care when walking around at night as assaults and robberies are more likely in the evening in poorly lit areas</cite>.",
+    "tips": [
+      "<cite index='67-1'>Follow basic common sense and avoid walking alone at night and in poorly lit and secluded areas</cite>",
+      "<cite index='53-6,53-7,53-8'>Stick to well-lit main streets, especially after dark. Avoid small back alleys, even if Google Maps suggests a shortcut. Choose cafés, restaurants, and bars with visible activity and staff</cite>",
+      "<cite index='63-17'>Use normal city-smarts: stay in groups, watch your drinks and belongings, and avoid dark shortcuts</cite>"
+    ]
+  },
+  "transport": {
+    "metro": "Kathmandu does not have a metro system. Public transportation consists primarily of buses.",
+    "rideshare": "<cite index='73-14,73-15,73-16'>There is no Uber in Nepal but there are other taxi apps that work the same. The best taxi apps in Nepal are Pathao and InDrive, which are the two most popular taxi apps</cite>. <cite index='72-1,72-13,72-14'>Metro Online also keeps records of the driver and the passenger for future reference to ensure a safe service for both, with taxi drivers required to register with the government agency before entering the company's network</cite>.",
+    "taxis": "<cite index='78-8,78-9,78-10'>Kathmandu taxi fares are quite low but you can't be certain how much you'll pay beforehand as there are no really set rates or fixed fares, with each taxi driver giving you a quote depending on passengers, time of day, and other factors</cite>. <cite index='73-40,73-41'>The only backdrop of hailing a taxi is that there is no fixed price for general taxis, so the drivers will just quote a price and you will have to bargain a little bit</cite>.",
+    "tips": "<cite index='78-21,78-22,78-23,78-24'>Downloading a Kathmandu taxi app is convenient to secure a ride wherever you are. Global taxi apps like Uber, Lyft, and Bolt aren't available in Kathmandu, but you can download local taxi apps, Pathao or Taximandu, which work like most taxi-hailing apps</cite>. Always negotiate fare before starting journey and use reputable ride-hailing apps when possible."
+  },
+  "customs": [
+    "<cite index='91-10'>A traditional way of greeting and bidding farewell is the warm salutation namaste (nah-mah-stay) or the more formal namaskar (nah-mah-scar)</cite>",
+    "<cite index='91-34,91-35,91-36,91-37'>When entering temples or a Nepalese home, remove footwear and hats. Dress conservatively in a way that expresses respect for the place of worship or household. Do not enter someone's home without an invitation</cite>",
+    "<cite index='91-41,91-42'>Food should only be touched with the right hand. However, the left hand may be used for holding utensils, glasses and bowls</cite>"
+  ],
+  "health": {
+    "overview": "<cite index='21-2,21-3'>Poor-quality healthcare, rather than access, is now the bigger barrier to reducing mortality and continues to be a persistent challenge in low- and middle-income countries, with the majority of services in rural communities delivered by government district hospitals relied on by nearly 80% of Nepal's 30 million population</cite>. <cite index='26-3,26-4,26-5'>Kathmandu's healthcare system is evolving with a healthcare index of 55.29, but challenges persist with 54.4% of the population lacking insurance coverage</cite>.",
+    "water": "Tap water is not safe to drink. <cite index='55-8'>Bottled water or purification tablets are popular choices for safe drinking water</cite>. Always drink bottled or properly filtered water.",
+    "vaccinations": "Consult your doctor for recommended vaccinations including Hepatitis A/B, Typhoid, Japanese Encephalitis, and routine vaccines. No specific vaccinations are required for entry from most countries.",
+    "altitude": "<cite index='18-23,18-24,18-25'>The climate in Kathmandu is mild and generally warm and temperate. The summers are much rainier than the winters, with monsoon season from June to August when the hills are covered with lush, green vegetation</cite>. Kathmandu sits at 1,400m elevation, so altitude is generally not a concern for most visitors."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101",
+    "touristPolice": "1144",
+    "usEmbassy": "<cite index='4-9'>U.S. Embassy Kathmandu, Maharajgunj, Kathmandu, Nepal. Telephone: +(977) (1) 423-4000, Email: KathmanduACS@state.gov</cite>. For Americans needing assistance: <cite index='4-9'>call 24/7 at +1-202-501-4444 (from abroad) and +1-888-407-4747 (from the U.S. and Canada)</cite>"
+  },
+  "faq": [
+    {
+      "q": "Is Kathmandu safe for tourists?",
+      "a": "<cite index='57-1,57-12'>Generally safe: Most travelers agree that Kathmandu is a safe place for tourists to travel, with friendly locals and a low crime rate against tourists</cite>. However, <cite index='3-3'>current Level 3 travel advisories recommend reconsidering travel due to civil unrest</cite>, and <cite index='18-8'>pickpockets and bag snatching is a very common issue</cite>."
+    },
+    {
+      "q": "Is Kathmandu safe at night?",
+      "a": "<cite index='64-1'>Yes, it is absolutely safe to explore Thamel at night in Kathmandu</cite>, especially in tourist areas. However, <cite index='62-11,62-12'>take care when walking around at night as assaults and robberies are more likely in the evening in poorly lit areas</cite>. <cite index='67-1'>Follow basic common sense and avoid walking alone at night in poorly lit and secluded areas</cite>."
+    },
+    {
+      "q": "Is Kathmandu safe for solo female travelers?",
+      "a": "<cite index='52-23,52-24'>Nepali people are very welcoming, and this is one of those countries where women travelling alone will be respected and even protected</cite>. <cite index='55-3,55-26,55-27,55-28'>Kathmandu is safe for solo females as well as solo travelers, with speaking and very friendly people, though you need to take some precautions like you take at home such as taking care of yourself at night</cite>."
+    },
+    {
+      "q": "What areas should I avoid in Kathmandu?",
+      "a": "<cite index='62-10,62-15'>Watch out for pickpockets and bag-snatchers, particularly in airports, on buses and in areas popular with foreign nationals like Thamel, Sanepa and Kupondol, where women have been sexually assaulted</cite>. Avoid poorly lit alleys and isolated areas, especially at night. Stay vigilant in crowded tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Kathmandu?",
+      "a": "<cite index='18-2,18-5'>Transport is somewhat risky in Kathmandu</cite>, but <cite index='73-1,73-2'>tourist buses in Nepal have the best safety, so if possible, make sure to book tourist buses when travelling</cite>. <cite index='78-3,78-4'>A Kathmandu taxi is the most convenient way to move around the city quickly and comfortably, and you can secure a ride anytime during the day, especially in busy areas</cite>. Use reputable ride-hailing apps when possible."
+    }
+  ],
+  "relatedCities": [
+    "new-delhi",
+    "colombo",
+    "dhaka",
+    "mumbai",
+    "islamabad",
+    "thimphu"
+  ],
+  "_city_id": "kathmandu-nepal"
+}
