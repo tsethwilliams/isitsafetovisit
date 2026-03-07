@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import citiesData from '@/data/city-data.json';
+import { getAllCities } from '@/lib/cities';
 
 export const metadata: Metadata = {
   title: 'Browse Cities by Region — IsItSafeToVisit',
@@ -25,16 +25,10 @@ function getScoreClass(score: number): string {
 }
 
 export default function RegionsPage() {
-  // Safely extract array regardless of JSON structure
-  const raw = citiesData as unknown;
-  const cities: any[] = Array.isArray(raw)
-    ? raw
-    : Array.isArray((raw as any).cities)
-    ? (raw as any).cities
-    : Object.values(raw as object);
+  const raw = getAllCities();
+  const cities = Array.isArray(raw) ? raw : [];
 
-  // Group cities by region
-  const byRegion: Record<string, any[]> = {};
+  const byRegion: Record<string, typeof cities> = {};
   for (const city of cities) {
     const region = city.region || 'Other';
     if (!byRegion[region]) byRegion[region] = [];
@@ -74,7 +68,7 @@ export default function RegionsPage() {
                 </div>
 
                 <div className="region-cities-grid">
-                  {sorted.map((city: any) => (
+                  {sorted.map((city) => (
                     <Link
                       key={city.slug}
                       href={`/cities/${city.slug}`}

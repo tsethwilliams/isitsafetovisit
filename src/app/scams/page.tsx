@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import citiesData from '@/data/city-data.json';
+import { getAllCities } from '@/lib/cities';
 
 export const metadata: Metadata = {
   title: 'Travel Scams to Avoid — IsItSafeToVisit',
@@ -47,7 +47,7 @@ const UNIVERSAL_SCAMS = [
   {
     name: 'Restaurant / Bar Menu Scam',
     risk: 'medium',
-    description: 'A friendly local suggests a restaurant or bar. You are shown one menu but charged from a different, much more expensive one. Some establishments add fake charges after you have had drinks.',
+    description: 'A friendly local suggests a restaurant or bar. You are shown one menu but charged from a different, much more expensive one.',
     howToAvoid: 'Choose your own restaurants independently. Always confirm prices before ordering. Check the bill line-by-line.',
   },
   {
@@ -77,17 +77,12 @@ function getRiskColor(risk: string) {
 }
 
 export default function ScamsPage() {
-  // Safely extract array regardless of JSON structure
-  const raw = citiesData as unknown;
-  const cities: any[] = Array.isArray(raw)
-    ? raw
-    : Array.isArray((raw as any).cities)
-    ? (raw as any).cities
-    : Object.values(raw as object);
+  const raw = getAllCities();
+  const cities = Array.isArray(raw) ? raw : [];
 
   const highScamRiskCities = [...cities]
-    .filter((c: any) => c.scores?.scamRisk !== undefined)
-    .sort((a: any, b: any) => (a.scores.scamRisk ?? 10) - (b.scores.scamRisk ?? 10))
+    .filter((c) => c.scores?.scamRisk !== undefined)
+    .sort((a, b) => (a.scores.scamRisk ?? 10) - (b.scores.scamRisk ?? 10))
     .slice(0, 8);
 
   return (
@@ -166,7 +161,7 @@ export default function ScamsPage() {
               <h3 className="sidebar-widget-title">⚠️ High Scam Risk Cities</h3>
               <p className="sidebar-widget-desc">Cities with the lowest scam safety scores in our database.</p>
               <div className="sidebar-city-list">
-                {highScamRiskCities.map((city: any) => (
+                {highScamRiskCities.map((city) => (
                   <Link key={city.slug} href={`/cities/${city.slug}`} className="sidebar-city-item">
                     <span className="sidebar-city-name">{city.name}, {city.country}</span>
                     <span className="sidebar-city-score score-danger">
