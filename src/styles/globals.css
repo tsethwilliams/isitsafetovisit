@@ -1304,3 +1304,20 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
   color: var(--ink-muted);
   font-size: 1rem;
 }
+
+/* ============================================================
+   WORLD MAP TOOLTIP
+   ============================================================ */
+.map-tooltip {
+  position: fixed;
+  background: var(--ink);
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  pointer-events: none;
+  z-index: 9999;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
