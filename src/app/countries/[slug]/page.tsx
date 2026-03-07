@@ -49,7 +49,7 @@ const SCORE_LABELS: Record<string, string> = {
   pettyCrime: 'Petty Crime',
   violentCrime: 'Violent Crime',
   scamRisk: 'Scam Risk',
-  womensSafety: "Women's Safety",
+  womensSafety: "Women\u2019s Safety",
   nightSafety: 'Night Safety',
   transport: 'Transport',
   naturalHazards: 'Natural Hazards',
