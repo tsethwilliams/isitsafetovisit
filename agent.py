@@ -231,7 +231,15 @@ def calculate_overall_score(scores: dict) -> float:
     total = 0
     for category, weight in CATEGORY_WEIGHTS.items():
         if category in scores:
-            total += scores[category]["score"] * weight
+            val = scores[category]
+            # Handle both {"score": 75, ...} and plain 75
+            if isinstance(val, dict):
+                score_val = val.get("score", 0)
+            elif isinstance(val, (int, float)):
+                score_val = val
+            else:
+                score_val = 0
+            total += score_val * weight
     return round(total, 1)
 
 
@@ -263,14 +271,70 @@ Your job is to produce comprehensive, accurate, and actionable safety assessment
 
 CRITICAL RULES:
 1. Be factual and evidence-based. Cite specific data points when possible.
-2. Score on a 0-100 scale where 100 = safest.
+2. Score on a 1-10 scale where 10 = safest.
 3. Be balanced — acknowledge both risks and positive safety factors.
 4. Include practical, actionable advice travelers can use.
 5. Never minimize real dangers, but don't fear-monger either.
 6. Consider different traveler profiles (solo, female, LGBTQ+, families).
+7. You MUST respond with ONLY valid JSON. No markdown fences, no explanations, no text before or after the JSON.
 
-OUTPUT FORMAT: You MUST respond with ONLY valid JSON matching the city schema.
-No markdown, no explanations — just the JSON object."""
+OUTPUT FORMAT: Respond with ONLY this exact JSON structure (no other text):
+{
+  "slug": "city-name",
+  "name": "City Name",
+  "country": "Country",
+  "countryCode": "XX",
+  "region": "Region Name",
+  "regionSlug": "region-name",
+  "lastUpdated": "2026-03-07",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe / Moderate Caution Advised / Exercise Caution",
+  "badgeLabel": "Generally Safe / Moderate Caution / Exercise Caution",
+  "badgeClass": "safe / caution / danger",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "2-3 sentence overview of the city's safety for tourists.",
+  "quickVerdict": "A paragraph giving the bottom-line safety assessment.",
+  "neighborhoods": [
+    {"name": "Neighborhood 1", "score": 8.5, "class": "safe", "description": "Description..."},
+    {"name": "Neighborhood 2", "score": 6.0, "class": "caution", "description": "Description..."},
+    {"name": "Neighborhood 3", "score": 3.5, "class": "danger", "description": "Description..."}
+  ],
+  "scams": [
+    {"name": "Scam Name", "risk": "high", "description": "How it works...", "howToAvoid": "How to avoid..."}
+  ],
+  "soloFemale": {"overview": "Overview paragraph...", "tips": ["Tip 1", "Tip 2", "Tip 3"]},
+  "nightSafety": {"overview": "Overview paragraph...", "tips": ["Tip 1", "Tip 2", "Tip 3"]},
+  "transport": {"metro": "Metro info...", "rideshare": "Rideshare info...", "taxis": "Taxi info...", "tips": "Bottom line tip..."},
+  "customs": ["Custom 1", "Custom 2", "Custom 3"],
+  "health": {"overview": "Overview...", "water": "Water safety...", "vaccinations": "Vaccination info...", "altitude": "Climate info..."},
+  "emergency": {"general": "Number", "police": "Number", "ambulance": "Number", "fire": "Number", "touristPolice": "Number or N/A", "usEmbassy": "Embassy info..."},
+  "faq": [
+    {"q": "Is City safe for tourists?", "a": "Answer..."},
+    {"q": "Is City safe at night?", "a": "Answer..."},
+    {"q": "Is City safe for solo female travelers?", "a": "Answer..."},
+    {"q": "What areas should I avoid in City?", "a": "Answer..."},
+    {"q": "Is it safe to use public transport in City?", "a": "Answer..."}
+  ],
+  "relatedCities": ["slug1", "slug2", "slug3"]
+}
+
+SCORING RULES:
+- overallScore: Average of the 7 category scores, rounded to 1 decimal
+- badgeClass: "safe" if overallScore >= 7.0, "caution" if 5.0-6.9, "danger" if below 5.0
+- badgeLabel: "Generally Safe" / "Moderate Caution" / "Exercise Caution"
+- neighborhood class: "safe" if score >= 7.0, "caution" if 5.0-6.9, "danger" if below 5.0
+- Include exactly 6 neighborhoods, 3-4 scams, 5 FAQ items
+- relatedCities should be slugs of cities in the same region
+
+REGION OPTIONS: South America, Central America & Caribbean, North America, Southeast Asia, Africa, Europe, Middle East, South Asia, East Asia, Oceania"""
 
 
 SYSTEM_PROMPT_REFRESH = """You are a travel safety data analyst updating existing city safety profiles.
@@ -305,10 +369,11 @@ If no alerts, respond with: []"""
 
 
 def generate_city(client, city_name: str, country: str) -> dict:
-    """Generate a complete safety profile for a new city."""
+    """Generate a complete safety profile for a new city in site-ready format."""
     logging.info(f"Generating new city profile: {city_name}, {country}")
 
     city_id = f"{city_name.lower().replace(' ', '-')}-{country.lower().replace(' ', '-')}"
+    slug = city_name.lower().replace(' ', '-')
 
     prompt = f"""Research and generate a complete safety profile for {city_name}, {country}.
 
@@ -316,29 +381,50 @@ Search for:
 1. Latest US State Department travel advisory for {country}
 2. Crime statistics and safety data for {city_name}
 3. Health risks and healthcare quality in {city_name}
-4. Political stability and civil unrest risk in {country}
-5. Natural disaster risks for {city_name}
-6. Common tourist scams in {city_name}
-7. LGBTQ+ safety and legal status in {country}
-8. Women's safety and solo female travel reports for {city_name}
-9. Nightlife safety in {city_name}
-10. Emergency contact numbers for {city_name}
+4. Natural disaster risks for {city_name}
+5. Common tourist scams in {city_name}
+6. Women's safety and solo female travel reports for {city_name}
+7. Nightlife safety in {city_name}
+8. Transport safety (metro, taxis, rideshare) in {city_name}
+9. Emergency contact numbers for {city_name}
+10. Local customs and etiquette in {country}
 
-Generate the full city JSON with city_id: "{city_id}"
-Include all score categories, sub-scores, content sections, and metadata.
-Set last_updated to today: {datetime.now(timezone.utc).isoformat()}
-Set auto_generated: true, human_reviewed: false"""
+Generate the city JSON with slug: "{slug}"
+Set lastUpdated to: "{datetime.now(timezone.utc).strftime('%Y-%m-%d')}"
+Include exactly 6 neighborhoods, 3-4 scams, and 5 FAQ items.
+For relatedCities, use slugs of other cities in the same region.
+Remember: scores are on a 1-10 scale. Respond with ONLY the JSON object."""
 
     response = call_claude(client, SYSTEM_PROMPT_GENERATE, prompt, use_search=True)
 
     try:
-        # Try to extract JSON from response
         city_data = extract_json(response)
-        city_data["city_id"] = city_id
-        city_data["overall_safety_score"] = calculate_overall_score(city_data.get("scores", {}))
-        tier_id, tier_label = determine_tier(city_data["overall_safety_score"])
-        city_data["safety_tier"] = tier_id
-        city_data["trending"] = "stable"
+        # Ensure required fields exist
+        city_data["slug"] = city_data.get("slug", slug)
+        city_data["name"] = city_data.get("name", city_name)
+        city_data["country"] = city_data.get("country", country)
+
+        # Calculate overallScore from category scores if not present or wrong
+        if "scores" in city_data:
+            scores = city_data["scores"]
+            score_values = [v for v in scores.values() if isinstance(v, (int, float))]
+            if score_values:
+                city_data["overallScore"] = round(sum(score_values) / len(score_values), 1)
+
+        # Set badge based on score
+        score = city_data.get("overallScore", 5.0)
+        if score >= 7.0:
+            city_data["badgeClass"] = "safe"
+            city_data["badgeLabel"] = "Generally Safe"
+        elif score >= 5.0:
+            city_data["badgeClass"] = "caution"
+            city_data["badgeLabel"] = "Moderate Caution"
+        else:
+            city_data["badgeClass"] = "danger"
+            city_data["badgeLabel"] = "Exercise Caution"
+
+        # Also save to agent's data dir for tracking
+        city_data["_city_id"] = city_id
         return city_data
     except Exception as e:
         logging.error(f"Failed to parse city data for {city_name}: {e}")
@@ -528,12 +614,13 @@ def run_refresh(client):
 
 
 def run_add_cities(client):
-    """Add new cities from the queue."""
+    """Add new cities from the queue and merge into site's city-data.json."""
     queue = load_queue()
     batch = queue[: CONFIG["batch_size_add"]]
     remaining = queue[CONFIG["batch_size_add"]:]
     logging.info(f"Queue has {len(queue)} cities, adding {len(batch)}")
 
+    new_cities = []
     for entry in batch:
         city_name = entry.get("name", entry.get("city", ""))
         country = entry.get("country", "")
@@ -542,11 +629,95 @@ def run_add_cities(client):
 
         city_data = generate_city(client, city_name, country)
         if city_data:
+            # Save to agent's data dir
             save_city(city_data)
-            log_change("add", city_data["city_id"],
-                       f"New city added with score {city_data.get('overall_safety_score', '?')}")
+            new_cities.append(city_data)
+            city_id = city_data.get("_city_id", city_data.get("slug", "unknown"))
+            log_change("add", city_id,
+                       f"New city added with score {city_data.get('overallScore', '?')}")
 
     save_queue(remaining)
+
+    # Merge new cities into the site's city-data.json
+    if new_cities:
+        merge_into_site_data(new_cities)
+
+
+def merge_into_site_data(new_cities: list[dict]):
+    """Merge new city data into the site's src/lib/city-data.json."""
+    site_data_path = Path("./src/lib/city-data.json")
+
+    # Load existing site data
+    if site_data_path.exists():
+        with open(site_data_path) as f:
+            site_data = json.load(f)
+    else:
+        site_data = {"cities": []}
+
+    # Handle both formats: {"cities": [...]} or just [...]
+    if isinstance(site_data, dict) and "cities" in site_data:
+        cities_list = site_data["cities"]
+    elif isinstance(site_data, list):
+        cities_list = site_data
+        site_data = {"cities": cities_list}
+    else:
+        cities_list = []
+        site_data = {"cities": cities_list}
+
+    existing_slugs = {c.get("slug") for c in cities_list}
+
+    added = 0
+    for city in new_cities:
+        # Remove internal tracking fields
+        clean_city = {k: v for k, v in city.items() if not k.startswith("_")}
+        slug = clean_city.get("slug", "")
+
+        if slug and slug not in existing_slugs:
+            cities_list.append(clean_city)
+            existing_slugs.add(slug)
+            added += 1
+            logging.info(f"Merged into site data: {clean_city.get('name', slug)}")
+        elif slug in existing_slugs:
+            logging.info(f"City already exists in site data, skipping: {slug}")
+
+    if added > 0:
+        with open(site_data_path, "w") as f:
+            json.dump(site_data, f, indent=2, ensure_ascii=False)
+        logging.info(f"Merged {added} new cities into {site_data_path}")
+
+        # Update sitemap
+        update_sitemap(new_cities)
+    else:
+        logging.info("No new cities to merge")
+
+
+def update_sitemap(new_cities: list[dict]):
+    """Add new city URLs to the sitemap."""
+    sitemap_path = Path("./public/sitemap.xml")
+    if not sitemap_path.exists():
+        logging.warning("sitemap.xml not found, skipping sitemap update")
+        return
+
+    with open(sitemap_path) as f:
+        content = f.read()
+
+    new_entries = ""
+    for city in new_cities:
+        slug = city.get("slug", "")
+        if slug and f"/cities/{slug}" not in content:
+            new_entries += f"""  <url>
+    <loc>https://www.isitsafetovisit.com/cities/{slug}</loc>
+    <lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>
+    <priority>0.8</priority>
+  </url>
+"""
+
+    if new_entries:
+        # Insert before closing </urlset> tag
+        content = content.replace("</urlset>", f"{new_entries}</urlset>")
+        with open(sitemap_path, "w") as f:
+            f.write(content)
+        logging.info(f"Updated sitemap with {len(new_cities)} new URLs")
 
 
 def run_rankings():
