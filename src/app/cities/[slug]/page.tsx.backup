@@ -13,14 +13,9 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   const city = getCityBySlug(params.slug);
   if (!city) return { title: 'City Not Found' };
   return {
-    title: `Is ${city.name} Safe to Visit in 2026? \u2014 Safety Guide, Scams & Tips`,
+    title: `Is ${city.name} Safe to Visit in 2026? — Safety Guide, Scams & Tips`,
     description: `Is ${city.name} safe for tourists in 2026? Honest neighborhood guide, common scams, safety tips. Updated ${formatDate(city.lastUpdated)}.`,
   };
-}
-
-function getBookingUrl(cityName: string, countryName: string): string {
-  const searchQuery = encodeURIComponent(`${cityName}, ${countryName}`);
-  return `https://www.awin1.com/cread.php?awinmid=6776&awinaffid=2793818&ued=https://www.booking.com/searchresults.html?ss=${searchQuery}`;
 }
 
 export default function CityPage({ params }: { params: { slug: string } }) {
@@ -28,13 +23,12 @@ export default function CityPage({ params }: { params: { slug: string } }) {
   if (!city) return <div>City not found</div>;
 
   const related = getRelatedCities(city);
-  const bookingUrl = getBookingUrl(city.name, city.country);
   const scoreColor = getScoreColor(city.overallScore);
   const scoreLabels: Record<string, string> = {
     pettyCrime: 'Petty Crime', violentCrime: 'Violent Crime', scamRisk: 'Scam Risk',
     womensSafety: "Women's Safety", nightSafety: 'Night Safety', transport: 'Transport', naturalHazards: 'Natural Hazards',
   };
-  const hoodLabels: Record<string, string> = { safe: '\u25CF SAFE', caution: '\u25CF CAUTION', danger: '\u25CF AVOID' };
+  const hoodLabels: Record<string, string> = { safe: '● SAFE', caution: '● CAUTION', danger: '● AVOID' };
 
   return (
     <>
@@ -42,8 +36,8 @@ export default function CityPage({ params }: { params: { slug: string } }) {
 
       <div className="container">
         <div className="breadcrumb">
-          <Link href="/">Home</Link> <span className="sep">{'\u203A'}</span>
-          <Link href="/cities">Cities</Link> <span className="sep">{'\u203A'}</span>
+          <Link href="/">Home</Link> <span className="sep">›</span>
+          <Link href="/cities">Cities</Link> <span className="sep">›</span>
           {city.name}
         </div>
       </div>
@@ -52,7 +46,7 @@ export default function CityPage({ params }: { params: { slug: string } }) {
         <div className="container">
           <div className="city-hero-grid">
             <div>
-              <div className="city-meta">{city.country} &middot; {city.region}</div>
+              <div className="city-meta">{city.country} · {city.region}</div>
               <h1>Is {city.name} <em>safe</em> to visit in 2026?</h1>
               <p className="city-summary">{city.summary}</p>
               <p className="city-updated">Last updated: <strong>{formatDate(city.lastUpdated)}</strong></p>
@@ -91,7 +85,7 @@ export default function CityPage({ params }: { params: { slug: string } }) {
             <section className="content-section" id="verdict">
               <h2>The Quick Verdict</h2>
               <div className="quick-verdict">
-                <h3>{'\u26A1'} Bottom Line</h3>
+                <h3>⚡ Bottom Line</h3>
                 <p>{city.quickVerdict}</p>
               </div>
             </section>
@@ -103,31 +97,16 @@ export default function CityPage({ params }: { params: { slug: string } }) {
                 {city.neighborhoods.map(h => (
                   <div key={h.name} className="hood-card">
                     <h4>{h.name}</h4>
-                    <div className={`hood-rating text-${h.class}`}>{hoodLabels[h.class]} &mdash; {h.score} / 10</div>
+                    <div className={`hood-rating text-${h.class}`}>{hoodLabels[h.class]} — {h.score} / 10</div>
                     <p>{h.description}</p>
                   </div>
                 ))}
               </div>
             </section>
 
-            {/* Booking.com CTA - after neighborhoods for maximum conversion */}
-            <div className="booking-cta">
-              <div className="booking-cta-content">
-                <div className="booking-cta-icon">{'\uD83C\uDFE8'}</div>
-                <div className="booking-cta-text">
-                  <h3>Find Safe, Top-Rated Hotels in {city.name}</h3>
-                  <p>Now that you know the safest neighborhoods, find the perfect place to stay. Browse verified hotels with free cancellation on most rooms.</p>
-                </div>
-              </div>
-              <a href={bookingUrl} target="_blank" rel="noopener noreferrer nofollow" className="booking-cta-btn">
-                Search Hotels on Booking.com {'\u2192'}
-              </a>
-              <p className="affiliate-disclaimer">Affiliate link &mdash; we may earn a commission at no cost to you</p>
-            </div>
-
             <section className="content-section" id="scams">
               <h2>Common Scams in {city.name}</h2>
-              <p>Awareness is your best defense &mdash; once you know how they work, they&rsquo;re easy to avoid.</p>
+              <p>Awareness is your best defense — once you know how they work, they&rsquo;re easy to avoid.</p>
               {city.scams.map(s => (
                 <div key={s.name} className="scam-card">
                   <div className="scam-header">
@@ -176,7 +155,7 @@ export default function CityPage({ params }: { params: { slug: string } }) {
             <section className="content-section" id="emergency">
               <h2>Emergency Information</h2>
               <div className="emergency-box">
-                <h3>{'\uD83D\uDEA8'} Emergency Numbers</h3>
+                <h3>🚨 Emergency Numbers</h3>
                 {Object.entries({ 'General Emergency': city.emergency.general, 'Police': city.emergency.police, 'Ambulance': city.emergency.ambulance, 'Fire Department': city.emergency.fire, 'Tourist Police': city.emergency.touristPolice, 'US Embassy': city.emergency.usEmbassy }).map(([label, num]) => (
                   <div key={label} className="emergency-row"><span>{label}</span><span className="emergency-num">{num}</span></div>
                 ))}
@@ -193,17 +172,10 @@ export default function CityPage({ params }: { params: { slug: string } }) {
 
           <div className="sidebar">
             <div className="affiliate-box">
-              <h4>{'\uD83D\uDEE1\uFE0F'} Travel Insurance for {city.country}</h4>
+              <h4>🛡️ Travel Insurance for {city.country}</h4>
               <p>Medical emergencies abroad can cost thousands. Travel insurance starts from $1.50/day.</p>
-              <a href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador" className="affiliate-btn" target="_blank" rel="noopener noreferrer nofollow">Get a Quote &mdash; SafetyWing</a>
-              <p className="affiliate-disclaimer">Affiliate link &mdash; we may earn a commission at no cost to you</p>
-            </div>
-
-            <div className="affiliate-box booking-sidebar-box">
-              <h4>{'\uD83C\uDFE8'} Hotels in {city.name}</h4>
-              <p>Find safe, well-reviewed hotels in the best neighborhoods. Free cancellation on most rooms.</p>
-              <a href={bookingUrl} target="_blank" rel="noopener noreferrer nofollow" className="affiliate-btn booking-btn">Search Hotels &mdash; Booking.com</a>
-              <p className="affiliate-disclaimer">Affiliate link &mdash; we may earn a commission at no cost to you</p>
+              <a href="https://safetywing.com/?referenceID=26484939&utm_source=26484939&utm_medium=Ambassador" className="affiliate-btn">Get a Quote — SafetyWing</a>
+              <p className="affiliate-disclaimer">Affiliate link — we may earn a commission at no cost to you</p>
             </div>
 
             {related.length > 0 && (
@@ -219,9 +191,9 @@ export default function CityPage({ params }: { params: { slug: string } }) {
             )}
 
             <div className="sidebar-card">
-              <h4>{'\u26A1'} Quick Safety Tips</h4>
+              <h4>⚡ Quick Safety Tips</h4>
               {city.soloFemale.tips.slice(0, 5).map((tip, i) => (
-                <p key={i} className="quick-tips-item">{'\u2713'} {tip}</p>
+                <p key={i} className="quick-tips-item">✓ {tip}</p>
               ))}
             </div>
           </div>
@@ -231,11 +203,11 @@ export default function CityPage({ params }: { params: { slug: string } }) {
       {related.length > 0 && (
         <section className="related-section">
           <div className="container">
-            <div className="section-header"><h2>Similar City Guides</h2><Link href="/cities">All Cities {'\u2192'}</Link></div>
+            <div className="section-header"><h2>Similar City Guides</h2><Link href="/cities">All Cities →</Link></div>
             <div className="related-grid">
               {related.slice(0, 3).map(rc => (
                 <Link key={rc.slug} href={`/cities/${rc.slug}`} className="related-card">
-                  <div className="related-card-region">{rc.country} &middot; {rc.region}</div>
+                  <div className="related-card-region">{rc.country} · {rc.region}</div>
                   <h3>{rc.name}</h3>
                   <p>{rc.summary.slice(0, 120)}...</p>
                 </Link>

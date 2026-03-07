@@ -231,3 +231,86 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
   .footer-grid { grid-template-columns: 1fr; }
   .section-header { flex-direction: column; gap: 8px; }
 }
+ 
+/* ============================================= */ 
+/* BOOKING.COM AFFILIATE STYLES                  */ 
+/* ============================================= */ 
+ 
+.booking-cta { 
+  background: linear-gradient(135deg, #f8f5f0 0%, #f0ebe3 100%); 
+  border: 2px solid var(--border); 
+  border-radius: 12px; 
+  padding: 2rem; 
+  margin: 2.5rem 0; 
+  text-align: center; 
+} 
+ 
+.booking-cta-content { 
+  display: flex; 
+  align-items: flex-start; 
+  gap: 1rem; 
+  text-align: left; 
+  margin-bottom: 1.5rem; 
+} 
+ 
+.booking-cta-icon { 
+  font-size: 2.5rem; 
+  line-height: 1; 
+  flex-shrink: 0; 
+} 
+ 
+.booking-cta-text h3 { 
+  font-family: 'DM Serif Display', serif; 
+  font-size: 1.3rem; 
+  color: var(--ink); 
+  margin: 0 0 0.4rem; 
+} 
+ 
+.booking-cta-text p { 
+  font-size: 0.95rem; 
+  color: var(--ink-muted); 
+  margin: 0; 
+  line-height: 1.5; 
+} 
+ 
+.booking-cta-btn { 
+  display: inline-block; 
+  background: #003580; 
+  color: #fff; 
+  font-family: 'Plus Jakarta Sans', sans-serif; 
+  font-weight: 700; 
+  font-size: 1rem; 
+  padding: 0.85rem 2rem; 
+  border-radius: 8px; 
+  text-decoration: none; 
+  transition: background 0.2s, transform 0.15s; 
+  letter-spacing: 0.01em; 
+} 
+ 
+.booking-cta-btn:hover { 
+  background: #00224f; 
+  transform: translateY(-1px); 
+  color: #fff; 
+} 
+ 
+.booking-sidebar-box { 
+  border-left: 4px solid #003580; 
+} 
+ 
+.booking-btn { 
+  background: #003580; 
+  color: #fff; 
+  display: block; 
+  text-align: center; 
+  padding: 0.75rem 1.25rem; 
+  border-radius: 8px; 
+  text-decoration: none; 
+  font-weight: 700; 
+  font-size: 0.9rem; 
+  transition: background 0.2s; 
+} 
+ 
+.booking-btn:hover { 
+  background: #00224f; 
+  color: #fff; 
+} 
