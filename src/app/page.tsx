@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import SafetyBadge from '@/components/SafetyBadge';
 import { getAllCities, type City } from '@/lib/cities';
@@ -48,7 +47,6 @@ export default function HomePage() {
 
   return (
     <>
-      <Nav />
       <section className="hero">
         <div className="container">
           <div className="hero-badge">Updated February 2026</div>

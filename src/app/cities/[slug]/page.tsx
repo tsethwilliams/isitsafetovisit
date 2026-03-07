@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import ScoreRow from '@/components/ScoreRow';
 import { getAllSlugs, getCityBySlug, getRelatedCities, formatDate, getScoreColor, type City } from '@/lib/cities';
@@ -38,7 +37,6 @@ export default function CityPage({ params }: { params: { slug: string } }) {
 
   return (
     <>
-      <Nav />
 
       <div className="container">
         <div className="breadcrumb">

@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import SafetyBadge from '@/components/SafetyBadge';
 import { getAllCities } from '@/lib/cities';
@@ -24,7 +23,6 @@ export default function CitiesIndex() {
 
   return (
     <>
-      <Nav />
       <div className="container" style={{ padding: '60px 24px 80px' }}>
         <h1 style={{ fontFamily: 'var(--font-display)', fontSize: 'clamp(2rem, 4vw, 3rem)', marginBottom: 12 }}>
           City Safety Guides
