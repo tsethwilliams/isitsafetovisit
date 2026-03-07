@@ -214,7 +214,7 @@ export default function RegionsMap({ cities }: Props) {
                       onClick={() => {
                         if (region) setSelected(selected === region ? null : region);
                       }}
-                      onMouseEnter={(e) => {
+                      onMouseEnter={(e: React.MouseEvent) => {
                         if (region) {
                           const avg = regionAvgScores[region];
                           setTooltip({
