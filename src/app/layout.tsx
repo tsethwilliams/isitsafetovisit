@@ -25,6 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           gtag('js', new Date());
           gtag('config', 'G-L7D51KXP2L');`}
         </Script>
+              <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3843312121610791" crossOrigin="anonymous" strategy="afterInteractive" />
       </head>
       <body>
         <Nav />
