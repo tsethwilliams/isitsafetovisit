@@ -1,0 +1,163 @@
+{
+  "slug": "stockholm",
+  "name": "Stockholm",
+  "country": "Sweden",
+  "countryCode": "SE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-08",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.2,
+    "scamRisk": 7.5,
+    "womensSafety": 8.5,
+    "nightSafety": 7.8,
+    "transport": 8.8,
+    "naturalHazards": 8.8
+  },
+  "summary": "Stockholm is one of Europe's safest capitals, ranking 4th globally for personal security with excellent public transport and low violent crime rates. While petty crime like pickpocketing exists in tourist areas, the city maintains high safety standards day and night. Sweden currently has a Level 2 travel advisory due to general terrorism concerns affecting all of Europe.",
+  "quickVerdict": "Stockholm consistently ranks among the world's safest cities, making it an excellent destination for all types of travelers. The Swedish capital boasts extremely low violent crime rates, efficient and safe public transportation running 24/7 on weekends, and a strong culture of gender equality that makes it particularly welcoming for solo female travelers. While petty crimes like pickpocketing can occur in tourist-heavy areas like Gamla Stan and around transport hubs, serious safety concerns are rare. The city's well-lit streets, reliable emergency services, and respectful local culture create an environment where visitors can explore confidently.",
+  "neighborhoods": [
+    {
+      "name": "Gamla Stan (Old Town)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Stockholm's historic heart with frequent police patrols due to high tourist traffic. Generally very safe but watch for pickpockets around major attractions and crowded squares during peak season."
+    },
+    {
+      "name": "Östermalm",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale district known as one of Stockholm's safest areas. Home to high-end shopping, fine dining, and cultural attractions like the Swedish History Museum. Well-patrolled and extremely low crime rates."
+    },
+    {
+      "name": "Södermalm",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Hip, bohemian district popular with locals and tourists. Generally safe with vibrant nightlife, though exercise normal precautions around bars and clubs, especially on weekends."
+    },
+    {
+      "name": "Norrmalm (City Center)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Business and shopping district centered around Central Station. Safe during the day but can get busier at night. Watch for petty crime around the train station and shopping areas."
+    },
+    {
+      "name": "Rinkeby",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Suburban area with higher crime rates compared to central Stockholm. While not typically on tourist itineraries, visitors should exercise extra caution if traveling here, particularly at night."
+    },
+    {
+      "name": "Stureplan",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale nightlife district with exclusive clubs and bars. Generally safe but can get crowded on weekends. Stick to well-lit main streets and reputable establishments."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tourist Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Groups work together using street performances, spilled substances, or helpful strangers to distract tourists while accomplices pickpocket valuables. Common around Gamla Stan and major transport hubs.",
+      "howToAvoid": "Stay alert in crowded tourist areas, secure valuables in front-facing bags, and politely decline unsolicited help or distractions from strangers."
+    },
+    {
+      "name": "Taxi Meter Fraud",
+      "risk": "medium",
+      "description": "Some unlicensed or dishonest taxi drivers manipulate meters, quote inflated flat rates, or switch fare rates without notice. Particularly problematic for airport transfers.",
+      "howToAvoid": "Use reputable companies like Taxi Stockholm, book through official apps like Uber or Bolt, agree on fares beforehand, and ensure the meter is running properly."
+    },
+    {
+      "name": "Embassy Phone Scams",
+      "risk": "low",
+      "description": "Fraudsters call claiming to be from embassies requesting money transfers or personal information for fake visa processes or emergency situations.",
+      "howToAvoid": "Verify all embassy communications through official channels. Real embassies never request money transfers or personal information via unsolicited calls."
+    },
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "low",
+      "description": "Some tourist-oriented restaurants may overcharge or add unexpected fees to bills, particularly in high-traffic areas without clearly posted prices.",
+      "howToAvoid": "Check menus for posted prices, ask about additional charges upfront, and verify bills carefully before paying. Choose restaurants with clear pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Stockholm is exceptionally safe for solo female travelers, ranking 3rd globally in the Women Peace and Security Index. Sweden's strong culture of gender equality, well-lit streets, and reliable public transport create an ideal environment for independent female travel. The city maintains excellent safety standards even late at night, with 24/7 weekend public transport and helpful emergency services.",
+    "tips": [
+      "Public transport is very safe even at night, with dedicated safety numbers to call if uncomfortable",
+      "Most Swedes speak excellent English and are respectful of personal space and boundaries",
+      "Stick to central areas like Östermalm, Gamla Stan, and Södermalm which are well-patrolled and busy",
+      "Swedish culture strongly discourages street harassment - unwanted attention is rare",
+      "Emergency services respond quickly and professionally - dial 112 for immediate assistance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Stockholm maintains excellent safety standards after dark, with well-lit streets, active nightlife districts, and reliable transportation. The city's low violent crime rates extend into nighttime hours, though normal urban precautions apply. Weekend public transport runs 24/7, making safe late-night travel convenient.",
+    "tips": [
+      "Use the 24/7 weekend metro service or reputable taxis for late-night transport",
+      "Nightlife areas like Stureplan and Södermalm have good police presence",
+      "Avoid isolated areas and dark alleys, stick to well-lit main streets",
+      "Swedish drinking culture is generally civilized, but be cautious around intoxicated individuals",
+      "Keep emergency number 112 easily accessible on your phone"
+    ]
+  },
+  "transport": {
+    "metro": "Stockholm's metro (T-bana) is exceptionally safe, clean, and reliable. It runs 24/7 on weekends and until late on weekdays. Stations are well-lit with good security presence. Download the SL app for tickets and route planning.",
+    "rideshare": "Uber and Bolt operate safely in Stockholm with good driver screening. Generally reliable and safe, though more expensive than public transport. Book through official apps to avoid unlicensed drivers.",
+    "taxis": "Licensed taxis with yellow number plates are safe but expensive. Stick to reputable companies like Taxi Stockholm, Taxi Kurir, or SverigeTaxi. Always ensure meters are running or agree on flat rates beforehand.",
+    "tips": "Public transport is your best bet - clean, safe, and efficient. For taxis, use official apps or licensed companies to avoid overcharging scams."
+  },
+  "customs": [
+    "Remove shoes when entering homes - this is mandatory Swedish etiquette",
+    "Respect personal space - Swedes value their 'social distancing' and quiet behavior in public",
+    "Be punctual - arriving on time is considered essential and respectful in Swedish culture"
+  ],
+  "health": {
+    "overview": "Sweden has one of the world's best healthcare systems, ranking 23rd globally by WHO. Stockholm offers excellent medical facilities and English-speaking staff.",
+    "water": "Tap water is completely safe to drink and of excellent quality throughout Stockholm.",
+    "vaccinations": "No special vaccinations required for Stockholm. Routine vaccines should be up to date.",
+    "altitude": "Stockholm is at sea level with a temperate climate. Winter temperatures can drop to -22°C, so dress warmly in cold months."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 (emergency) / 114-14 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Stockholm: +46 8 783 5300 (24/7 emergency line). Address: Dag Hammarskjölds Väg 31, SE-115 89 Stockholm. From US: 011 46 8 783 5300"
+  },
+  "faq": [
+    {
+      "q": "Is Stockholm safe for tourists?",
+      "a": "Yes, Stockholm is one of the world's safest capital cities, ranking 4th globally for personal security. Violent crime is rare, and the city maintains excellent safety standards for visitors."
+    },
+    {
+      "q": "Is Stockholm safe at night?",
+      "a": "Stockholm is very safe at night with well-lit streets and active nightlife areas. Public transport runs 24/7 on weekends, and police maintain good visibility in popular districts."
+    },
+    {
+      "q": "Is Stockholm safe for solo female travelers?",
+      "a": "Absolutely. Stockholm ranks 6th globally for solo female travel safety. Swedish culture strongly supports gender equality and respect, making it an ideal destination for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Stockholm?",
+      "a": "Central Stockholm is generally safe everywhere. Exercise extra caution in suburban areas like Rinkeby at night, though these aren't typical tourist destinations. Stick to well-lit main areas after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Stockholm?",
+      "a": "Stockholm's public transport is exceptionally safe, clean, and reliable. The metro system is considered one of the world's safest, running 24/7 on weekends with good security presence."
+    }
+  ],
+  "relatedCities": [
+    "copenhagen",
+    "oslo",
+    "helsinki",
+    "reykjavik",
+    "tallinn"
+  ],
+  "_city_id": "stockholm-sweden"
+}

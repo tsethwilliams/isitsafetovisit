@@ -9606,6 +9606,1154 @@
         "amsterdam",
         "berlin"
       ]
+    },
+    {
+      "slug": "stockholm",
+      "name": "Stockholm",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 8.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 8.2,
+        "scamRisk": 7.5,
+        "womensSafety": 8.5,
+        "nightSafety": 7.8,
+        "transport": 8.8,
+        "naturalHazards": 8.8
+      },
+      "summary": "Stockholm is one of Europe's safest capitals, ranking 4th globally for personal security with excellent public transport and low violent crime rates. While petty crime like pickpocketing exists in tourist areas, the city maintains high safety standards day and night. Sweden currently has a Level 2 travel advisory due to general terrorism concerns affecting all of Europe.",
+      "quickVerdict": "Stockholm consistently ranks among the world's safest cities, making it an excellent destination for all types of travelers. The Swedish capital boasts extremely low violent crime rates, efficient and safe public transportation running 24/7 on weekends, and a strong culture of gender equality that makes it particularly welcoming for solo female travelers. While petty crimes like pickpocketing can occur in tourist-heavy areas like Gamla Stan and around transport hubs, serious safety concerns are rare. The city's well-lit streets, reliable emergency services, and respectful local culture create an environment where visitors can explore confidently.",
+      "neighborhoods": [
+        {
+          "name": "Gamla Stan (Old Town)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Stockholm's historic heart with frequent police patrols due to high tourist traffic. Generally very safe but watch for pickpockets around major attractions and crowded squares during peak season."
+        },
+        {
+          "name": "Östermalm",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Upscale district known as one of Stockholm's safest areas. Home to high-end shopping, fine dining, and cultural attractions like the Swedish History Museum. Well-patrolled and extremely low crime rates."
+        },
+        {
+          "name": "Södermalm",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Hip, bohemian district popular with locals and tourists. Generally safe with vibrant nightlife, though exercise normal precautions around bars and clubs, especially on weekends."
+        },
+        {
+          "name": "Norrmalm (City Center)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Business and shopping district centered around Central Station. Safe during the day but can get busier at night. Watch for petty crime around the train station and shopping areas."
+        },
+        {
+          "name": "Rinkeby",
+          "score": 5.2,
+          "class": "caution",
+          "description": "Suburban area with higher crime rates compared to central Stockholm. While not typically on tourist itineraries, visitors should exercise extra caution if traveling here, particularly at night."
+        },
+        {
+          "name": "Stureplan",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Upscale nightlife district with exclusive clubs and bars. Generally safe but can get crowded on weekends. Stick to well-lit main streets and reputable establishments."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Tourist Distraction Pickpocketing",
+          "risk": "medium",
+          "description": "Groups work together using street performances, spilled substances, or helpful strangers to distract tourists while accomplices pickpocket valuables. Common around Gamla Stan and major transport hubs.",
+          "howToAvoid": "Stay alert in crowded tourist areas, secure valuables in front-facing bags, and politely decline unsolicited help or distractions from strangers."
+        },
+        {
+          "name": "Taxi Meter Fraud",
+          "risk": "medium",
+          "description": "Some unlicensed or dishonest taxi drivers manipulate meters, quote inflated flat rates, or switch fare rates without notice. Particularly problematic for airport transfers.",
+          "howToAvoid": "Use reputable companies like Taxi Stockholm, book through official apps like Uber or Bolt, agree on fares beforehand, and ensure the meter is running properly."
+        },
+        {
+          "name": "Embassy Phone Scams",
+          "risk": "low",
+          "description": "Fraudsters call claiming to be from embassies requesting money transfers or personal information for fake visa processes or emergency situations.",
+          "howToAvoid": "Verify all embassy communications through official channels. Real embassies never request money transfers or personal information via unsolicited calls."
+        },
+        {
+          "name": "Overpriced Restaurant Bills",
+          "risk": "low",
+          "description": "Some tourist-oriented restaurants may overcharge or add unexpected fees to bills, particularly in high-traffic areas without clearly posted prices.",
+          "howToAvoid": "Check menus for posted prices, ask about additional charges upfront, and verify bills carefully before paying. Choose restaurants with clear pricing."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Stockholm is exceptionally safe for solo female travelers, ranking 3rd globally in the Women Peace and Security Index. Sweden's strong culture of gender equality, well-lit streets, and reliable public transport create an ideal environment for independent female travel. The city maintains excellent safety standards even late at night, with 24/7 weekend public transport and helpful emergency services.",
+        "tips": [
+          "Public transport is very safe even at night, with dedicated safety numbers to call if uncomfortable",
+          "Most Swedes speak excellent English and are respectful of personal space and boundaries",
+          "Stick to central areas like Östermalm, Gamla Stan, and Södermalm which are well-patrolled and busy",
+          "Swedish culture strongly discourages street harassment - unwanted attention is rare",
+          "Emergency services respond quickly and professionally - dial 112 for immediate assistance"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Stockholm maintains excellent safety standards after dark, with well-lit streets, active nightlife districts, and reliable transportation. The city's low violent crime rates extend into nighttime hours, though normal urban precautions apply. Weekend public transport runs 24/7, making safe late-night travel convenient.",
+        "tips": [
+          "Use the 24/7 weekend metro service or reputable taxis for late-night transport",
+          "Nightlife areas like Stureplan and Södermalm have good police presence",
+          "Avoid isolated areas and dark alleys, stick to well-lit main streets",
+          "Swedish drinking culture is generally civilized, but be cautious around intoxicated individuals",
+          "Keep emergency number 112 easily accessible on your phone"
+        ]
+      },
+      "transport": {
+        "metro": "Stockholm's metro (T-bana) is exceptionally safe, clean, and reliable. It runs 24/7 on weekends and until late on weekdays. Stations are well-lit with good security presence. Download the SL app for tickets and route planning.",
+        "rideshare": "Uber and Bolt operate safely in Stockholm with good driver screening. Generally reliable and safe, though more expensive than public transport. Book through official apps to avoid unlicensed drivers.",
+        "taxis": "Licensed taxis with yellow number plates are safe but expensive. Stick to reputable companies like Taxi Stockholm, Taxi Kurir, or SverigeTaxi. Always ensure meters are running or agree on flat rates beforehand.",
+        "tips": "Public transport is your best bet - clean, safe, and efficient. For taxis, use official apps or licensed companies to avoid overcharging scams."
+      },
+      "customs": [
+        "Remove shoes when entering homes - this is mandatory Swedish etiquette",
+        "Respect personal space - Swedes value their 'social distancing' and quiet behavior in public",
+        "Be punctual - arriving on time is considered essential and respectful in Swedish culture"
+      ],
+      "health": {
+        "overview": "Sweden has one of the world's best healthcare systems, ranking 23rd globally by WHO. Stockholm offers excellent medical facilities and English-speaking staff.",
+        "water": "Tap water is completely safe to drink and of excellent quality throughout Stockholm.",
+        "vaccinations": "No special vaccinations required for Stockholm. Routine vaccines should be up to date.",
+        "altitude": "Stockholm is at sea level with a temperate climate. Winter temperatures can drop to -22°C, so dress warmly in cold months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112 (emergency) / 114-14 (non-emergency)",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Stockholm: +46 8 783 5300 (24/7 emergency line). Address: Dag Hammarskjölds Väg 31, SE-115 89 Stockholm. From US: 011 46 8 783 5300"
+      },
+      "faq": [
+        {
+          "q": "Is Stockholm safe for tourists?",
+          "a": "Yes, Stockholm is one of the world's safest capital cities, ranking 4th globally for personal security. Violent crime is rare, and the city maintains excellent safety standards for visitors."
+        },
+        {
+          "q": "Is Stockholm safe at night?",
+          "a": "Stockholm is very safe at night with well-lit streets and active nightlife areas. Public transport runs 24/7 on weekends, and police maintain good visibility in popular districts."
+        },
+        {
+          "q": "Is Stockholm safe for solo female travelers?",
+          "a": "Absolutely. Stockholm ranks 6th globally for solo female travel safety. Swedish culture strongly supports gender equality and respect, making it an ideal destination for women traveling alone."
+        },
+        {
+          "q": "What areas should I avoid in Stockholm?",
+          "a": "Central Stockholm is generally safe everywhere. Exercise extra caution in suburban areas like Rinkeby at night, though these aren't typical tourist destinations. Stick to well-lit main areas after dark."
+        },
+        {
+          "q": "Is it safe to use public transport in Stockholm?",
+          "a": "Stockholm's public transport is exceptionally safe, clean, and reliable. The metro system is considered one of the world's safest, running 24/7 on weekends with good security presence."
+        }
+      ],
+      "relatedCities": [
+        "copenhagen",
+        "oslo",
+        "helsinki",
+        "reykjavik",
+        "tallinn"
+      ]
+    },
+    {
+      "slug": "oslo",
+      "name": "Oslo",
+      "country": "Norway",
+      "countryCode": "NO",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 8.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.8,
+        "scamRisk": 8.0,
+        "womensSafety": 9.2,
+        "nightSafety": 8.5,
+        "transport": 9.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Oslo is one of the safest capital cities in Europe with extremely low violent crime rates and excellent safety infrastructure. While petty theft occurs in tourist areas and some scams target visitors, overall risk is minimal and Norway's high safety standards extend throughout the capital.",
+      "quickVerdict": "Oslo offers exceptional safety for tourists with violent crime being almost non-existent and excellent public safety systems. The main concerns are pickpocketing in crowded tourist areas and some taxi overcharging, but these are minor issues in what is consistently ranked among the world's safest cities. The Norwegian capital's progressive values, efficient emergency services, and generally helpful population make it ideal for all types of travelers including solo women.",
+      "neighborhoods": [
+        {
+          "name": "Sentrum (City Center)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Very safe during day with good police presence, but watch for pickpockets around Karl Johan Gate and near tourist attractions. Well-lit at night with regular foot traffic."
+        },
+        {
+          "name": "Frogner/Majorstuen",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Upscale residential area with excellent safety record. Home to Vigeland Park and embassy district. Very safe day and night with minimal crime."
+        },
+        {
+          "name": "Grünerløkka",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Trendy neighborhood popular with young locals and tourists. Generally very safe with vibrant nightlife areas that stay busy until late."
+        },
+        {
+          "name": "Aker Brygge",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern waterfront district with restaurants and nightlife. Safe but can get crowded, watch belongings near popular restaurants and bars."
+        },
+        {
+          "name": "Grønland/Tøyen",
+          "score": 6.5,
+          "class": "caution",
+          "description": "More diverse area with higher concentration of drug-related activity. Generally safe during day but avoid late at night, especially around Oslo Central Station."
+        },
+        {
+          "name": "Gamle Oslo",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Mixed residential and commercial area undergoing gentrification. Generally safe but some pockets near transport hubs may see occasional disturbances."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unscrupulous taxi drivers, particularly at Oslo Airport, may take longer routes or refuse to use meters to inflate fares significantly.",
+          "howToAvoid": "Use official taxi booking terminals at the airport, insist on fixed-price quotes beforehand, or use ride-sharing apps like Uber which show upfront pricing."
+        },
+        {
+          "name": "Fake Online Tour Bookings",
+          "risk": "medium",
+          "description": "Fraudulent websites mimicking legitimate tour operators for fjord cruises or Northern Lights trips, demanding upfront payment then disappearing.",
+          "howToAvoid": "Book directly through official Norwegian tourism websites or verified operators, verify SSL certificates and read reviews on trusted platforms before paying."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "low",
+          "description": "Devices attached to ATMs in busy locations like Central Station that capture card details and PIN numbers from tourists withdrawing cash.",
+          "howToAvoid": "Use ATMs inside banks during daylight hours, cover PIN entry, inspect card slots for loose parts, and monitor bank statements regularly."
+        },
+        {
+          "name": "Romance/Online Scams",
+          "risk": "medium",
+          "description": "Online scammers build romantic relationships with victims then claim emergencies requiring urgent money transfers, particularly targeting visitors using dating apps.",
+          "howToAvoid": "Never send money to someone you've only met online, be suspicious of urgent financial requests, and meet potential dates only in public places."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Oslo is exceptionally safe for solo female travelers and consistently ranks among the top destinations globally for women traveling alone. The city has very low crime rates, excellent gender equality standards, and a culture that deeply respects women's independence. Norway's progressive society means solo women can move freely day and night with minimal concerns.",
+        "tips": [
+          "The city is safe to walk alone at night, but stick to well-lit main streets and popular areas",
+          "Norwegian men generally respect personal boundaries - unsolicited approaches are rare and cultural norms discourage aggressive behavior",
+          "Public transport is very safe at all hours, with good lighting and regular security presence",
+          "Emergency services are highly efficient and most staff speak excellent English",
+          "Join the many local outdoor activities - Norwegians deeply respect solo hikers and nature enthusiasts"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Oslo maintains excellent safety standards after dark with well-lit streets, reliable public transport until midnight, and a generally peaceful nightlife scene. The biggest risks are alcohol-related incidents among locals on weekends, but tourists rarely encounter problems. Police presence is visible in entertainment districts.",
+        "tips": [
+          "Nightlife areas like Grünerløkka and Aker Brygge stay busy and safe until late with good crowd density",
+          "Public transport runs until midnight with extended weekend service - much safer than unlicensed taxis",
+          "Avoid visibly intoxicated behavior and never leave drinks unattended in bars",
+          "The area around Oslo Central Station can attract some drug users - not dangerous but best avoided late at night",
+          "Emergency services respond quickly and most hospitality staff speak English if you need help"
+        ]
+      },
+      "transport": {
+        "metro": "The T-bane metro system is exceptionally safe, clean, and efficient. Operating until midnight with extended weekend hours, it serves all major tourist areas. CCTV coverage and regular staff presence ensure security. Validated tickets are required - fines are substantial but inspectors are professional.",
+        "rideshare": "Uber and Bolt operate throughout Oslo offering transparent pricing and driver tracking. Generally safe and reliable alternative to traditional taxis, though still expensive by international standards. Particularly useful for airport transfers where you can compare prices.",
+        "taxis": "Licensed taxis are safe but very expensive. Use only official taxis with meters and taxi permits. Booking through hotel concierges or official apps ensures legitimacy. Avoid unlicensed operators around nightclub areas. All legitimate taxis accept card payments.",
+        "tips": "Public transport is your safest and most economical option. Buy tickets through the Ruter app to avoid higher on-board prices. Keep validated tickets until your journey ends as inspections are common and fines are around 750 NOK."
+      },
+      "customs": [
+        "Remove shoes when entering Norwegian homes - this is strictly observed and shows respect for cleanliness",
+        "Norwegians value personal space highly - maintain arm's length distance and avoid physical contact unless well acquainted",
+        "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+        "The Law of Jante emphasizes equality and modesty - avoid boasting about achievements or displaying wealth ostentatiously",
+        "Embrace 'friluftsliv' (outdoor life) - Norwegians deeply respect those who enjoy nature and outdoor activities regardless of weather"
+      ],
+      "health": {
+        "overview": "Norway has world-class healthcare with excellent medical facilities throughout Oslo. The tap water is among the world's cleanest and safe to drink. Healthcare costs can be high for non-EU visitors so comprehensive travel insurance is essential.",
+        "water": "Tap water in Oslo is completely safe to drink and often tastes better than bottled water. The city's water supply undergoes rigorous testing and treatment, making bottled water unnecessary.",
+        "vaccinations": "No special vaccinations required for Norway. Routine vaccines like MMR should be current. EU citizens should carry European Health Insurance Card (EHIC) for coverage.",
+        "altitude": "Oslo sits at sea level with a temperate climate. Summer temperatures average 15-20°C while winter can drop to -10°C. No altitude concerns but dress appropriately for weather conditions and potential rapid changes."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "113",
+        "fire": "110",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Oslo: Morgedalsvegen 36, 0378 Oslo. Phone: +47 2130-8540. Emergency after-hours: +47 2130-8540. Email: osloacs@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Oslo safe for tourists?",
+          "a": "Yes, Oslo is exceptionally safe for tourists and ranks among the world's safest capital cities. Violent crime is almost non-existent, and the main concerns are minor issues like pickpocketing in crowded areas."
+        },
+        {
+          "q": "Is Oslo safe at night?",
+          "a": "Oslo is very safe at night with good street lighting, active nightlife areas, and public transport running until midnight. The main precaution is avoiding the area around Central Station late at night."
+        },
+        {
+          "q": "Is Oslo safe for solo female travelers?",
+          "a": "Oslo is one of the world's best destinations for solo female travelers. Norway's progressive culture, excellent gender equality, and very low crime rates make it exceptionally safe for women traveling alone."
+        },
+        {
+          "q": "What areas should I avoid in Oslo?",
+          "a": "There are no truly dangerous areas, but exercise extra caution around Oslo Central Station at night and be aware of pickpockets in tourist-heavy areas like Karl Johan Gate. Grønland/Tøyen requires normal urban awareness."
+        },
+        {
+          "q": "Is it safe to use public transport in Oslo?",
+          "a": "Public transport in Oslo is very safe, efficient, and reliable. The metro, trams, and buses have good security measures, CCTV coverage, and run until midnight with extended weekend service."
+        }
+      ],
+      "relatedCities": [
+        "stockholm",
+        "copenhagen",
+        "helsinki",
+        "reykjavik",
+        "bergen"
+      ]
+    },
+    {
+      "slug": "helsinki",
+      "name": "Helsinki",
+      "country": "Finland",
+      "countryCode": "FI",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 8.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.0,
+        "violentCrime": 9.2,
+        "scamRisk": 8.1,
+        "womensSafety": 9.3,
+        "nightSafety": 8.7,
+        "transport": 8.9,
+        "naturalHazards": 8.3
+      },
+      "summary": "Helsinki ranks among the world's safest capitals, consistently rated as one of the safest cities globally with remarkably low crime rates and excellent safety infrastructure. The city combines Nordic social stability with efficient public services, modern transport systems, and a culture that values equality and personal security.",
+      "quickVerdict": "Helsinki is exceptionally safe for tourists, ranking among the world's top 5 safest cities with minimal violent crime and very low pickpocketing rates. The US State Department maintains a Level 1 advisory for Finland (Exercise Normal Precautions), reflecting the country's stability. While petty theft can occur in tourist areas during summer months, serious safety concerns are virtually non-existent. The city's excellent infrastructure, reliable emergency services, and progressive social values create an environment where visitors can explore confidently day and night.",
+      "neighborhoods": [
+        {
+          "name": "Kamppi & City Centre",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The main tourist hub with shopping centers, restaurants, and transport connections. Generally safe but attracts most petty crime during peak tourist season. Central Railway Station area requires extra vigilance at night."
+        },
+        {
+          "name": "Kallio",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy bohemian district popular with young locals and hipsters. Safe during the day with vibrant nightlife, though occasional intoxicated individuals may be present near bars late at night."
+        },
+        {
+          "name": "Punavuori & Eira",
+          "score": 9.1,
+          "class": "safe",
+          "description": "Upscale residential and design districts with excellent safety records. Well-lit streets, affluent atmosphere, and minimal crime make these among Helsinki's safest areas for walking and dining."
+        },
+        {
+          "name": "Kruununhaka",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Historic district near the harbor featuring Senate Square and Helsinki Cathedral. Very safe with heavy foot traffic, good lighting, and regular police presence due to tourist attractions."
+        },
+        {
+          "name": "Kaisaniemi Park Area",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Park area near Central Station that can attract homeless individuals and occasional drug activity. Generally safe during daylight hours but best avoided alone late at night."
+        },
+        {
+          "name": "Vuosaari & Eastern Suburbs",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Residential suburbs with lower crime rates than the city center. Well-connected by public transport and family-friendly, though more isolated and requiring longer travel times to main attractions."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unlicensed or unscrupulous taxi drivers, particularly around Kamppi district late at night, may take longer routes or overcharge intoxicated tourists. Some may quote inflated fixed prices.",
+          "howToAvoid": "Use official taxi apps like Taksi Helsinki, Uber, or Bolt with transparent pricing. Always check the taxi license displayed on the vehicle and request the meter be used for regulated fares."
+        },
+        {
+          "name": "Pickpocketing at Tourist Sites",
+          "risk": "medium",
+          "description": "Professional pickpockets target tourists at Market Square (Kauppatori), Central Station, and busy tram stops during summer months. They work in groups creating distractions while accomplices steal items.",
+          "howToAvoid": "Keep valuables in front-facing bags, avoid displaying expensive items or large amounts of cash, stay aware of your surroundings in crowds, and use the city's public lockers when available."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "low",
+          "description": "Card skimming devices occasionally found on ATMs in shopping centers and transport hubs, particularly targeting tourists who may not notice unusual attachments or hidden cameras recording PIN entry.",
+          "howToAvoid": "Use ATMs inside bank branches when possible, cover your PIN when entering, inspect ATMs for loose parts or unusual attachments, and withdraw smaller amounts more frequently."
+        },
+        {
+          "name": "Fake Accommodation Websites",
+          "risk": "low",
+          "description": "Fraudulent rental websites mimicking legitimate platforms demand upfront payments via bank transfer for non-existent Helsinki apartments or holiday rentals, especially during peak tourist seasons.",
+          "howToAvoid": "Book through verified platforms like Booking.com or official Finnish tourism sites, avoid bank transfers for payments, use credit cards for protection, and verify properties by calling official tourism boards."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Helsinki ranks among the world's safest cities for solo female travelers, with Finland placing 5th globally in the Women, Peace and Security Index 2025-26. The city's progressive gender equality culture, excellent public safety measures, and respect for personal space create an exceptionally welcoming environment for women traveling alone. Finnish culture strongly values equality and safety, with minimal harassment and very low risk of gender-based violence.",
+        "tips": [
+          "Helsinki's public transport is extremely safe for women even late at night, with well-lit stops and reliable services",
+          "Finnish culture respects personal space and privacy - unwanted attention or catcalling is rare and socially unacceptable",
+          "Most Helsinki residents speak English well, making communication easy and reducing vulnerability from language barriers",
+          "Use well-reviewed accommodations in safe areas like Punavuori, Eira, or Kruununhaka for optimal security and location",
+          "Trust your instincts around Central Station and Kaisaniemi Park late at night, though serious incidents are extremely rare"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Helsinki maintains exceptional nighttime safety with well-lit streets, reliable late-night public transport, and minimal violent crime. The city's nightlife districts like Kallio and Kamppi are generally safe, though standard urban precautions apply. Night buses operate until 4 AM, and the overall atmosphere remains secure even in entertainment areas. Police presence is adequate without being intrusive, and emergency services respond quickly.",
+        "tips": [
+          "Stick to main illuminated streets and popular areas when walking at night - Helsinki has excellent street lighting",
+          "Use HSL night buses (marked with 'N') running every 20-40 minutes until 4 AM for reliable late transport",
+          "While rare, avoid confrontations with heavily intoxicated individuals near nightlife areas - Finnish drinking culture can be intense",
+          "Download taxi apps like Taksi Helsinki, Uber, or Bolt for safe rides during surge pricing or when night buses aren't available",
+          "Stay alert around Central Railway Station and Kaisaniemi Park late at night, though these remain relatively safe compared to other European capitals"
+        ]
+      },
+      "transport": {
+        "metro": "Helsinki's metro system is modern, clean, and safe with good security coverage and emergency communication systems. Operating until approximately 11:30 PM on weekdays and later on weekends, it connects eastern areas efficiently with minimal safety concerns.",
+        "rideshare": "Uber and Bolt operate reliably in Helsinki with professional drivers and transparent pricing. Both apps provide safety features including driver verification and GPS tracking. Slightly cheaper than traditional taxis with good availability throughout the city.",
+        "taxis": "Licensed taxis are regulated and safe, though prices can vary significantly between companies. Use official taxi ranks or apps rather than hailing from the street. All taxis must display pricing information and accept card payments per Finnish regulations.",
+        "tips": "Public transport is exceptionally safe and punctual - HSL (Helsinki Regional Transport) operates integrated buses, trams, metro, and ferries. Purchase tickets via the HSL app for convenience. Night transport options include N-buses and rideshare services when regular services end."
+      },
+      "customs": [
+        "Finns value punctuality highly - arrive exactly on time, not early or late, for appointments and social gatherings",
+        "Personal space and quiet behavior are important - avoid loud conversations on public transport and respect the Finnish preference for silence",
+        "Directness in communication is appreciated over small talk - Finns prefer straightforward, honest interactions without excessive pleasantries",
+        "Remove shoes when entering Finnish homes, and don't be surprised by longer periods of silence in conversations as this is normal",
+        "Equality and modesty are core values - avoid boasting about achievements and treat everyone with equal respect regardless of gender or social status"
+      ],
+      "health": {
+        "overview": "Finland has an excellent healthcare system with high-quality medical facilities and well-trained English-speaking medical staff. Helsinki offers both public and private healthcare options, with emergency services available 24/7. Medical facilities meet or exceed international standards.",
+        "water": "Tap water throughout Helsinki is completely safe to drink and of exceptional quality. Finland has some of the purest tap water in the world, eliminating any need for bottled water.",
+        "vaccinations": "No special vaccinations are required for Finland. Routine vaccines (MMR, flu, etc.) should be up to date. Travel insurance is recommended as healthcare can be expensive for non-EU residents.",
+        "altitude": "Helsinki is at sea level with no altitude considerations. The climate features cold winters (average -5°C/23°F) and mild summers (15-20°C/59-68°F). Dress appropriately for weather conditions, especially in winter months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Helsinki: Itäinen Puistotie 14B, 00140 Helsinki. Phone: +358-9-616-250. Emergency after hours: +358-9-616-250 (select 0). Poison Information Centre: +358-9-471-977 (24/7)."
+      },
+      "faq": [
+        {
+          "q": "Is Helsinki safe for tourists?",
+          "a": "Yes, Helsinki is exceptionally safe for tourists, ranking among the world's top 5 safest cities. With very low crime rates, excellent infrastructure, and the US State Department's lowest Level 1 travel advisory for Finland, visitors face minimal safety risks beyond standard urban precautions."
+        },
+        {
+          "q": "Is Helsinki safe at night?",
+          "a": "Helsinki is very safe at night with well-lit streets, reliable night buses until 4 AM, and minimal violent crime. While standard urban caution is advised, particularly around Central Station and entertainment districts, nighttime safety is excellent compared to most European capitals."
+        },
+        {
+          "q": "Is Helsinki safe for solo female travelers?",
+          "a": "Helsinki is outstanding for solo female travelers, with Finland ranking 5th globally in women's safety indices. The culture respects personal space, harassment is rare, and the city's progressive gender equality values create a very welcoming environment for women traveling alone."
+        },
+        {
+          "q": "What areas should I avoid in Helsinki?",
+          "a": "Helsinki has no truly dangerous areas, but exercise extra caution around Central Railway Station and Kaisaniemi Park late at night due to occasional presence of intoxicated individuals or homeless persons. Even these areas remain relatively safe compared to other European cities."
+        },
+        {
+          "q": "Is it safe to use public transport in Helsinki?",
+          "a": "Yes, Helsinki's public transport (buses, trams, metro, ferries) is exceptionally safe, clean, and reliable. The HSL system operates with good security measures, and even late-night services maintain high safety standards. Pickpocketing is rare but possible during rush hours."
+        }
+      ],
+      "relatedCities": [
+        "stockholm",
+        "copenhagen",
+        "oslo",
+        "tallinn",
+        "reykjavik"
+      ]
+    },
+    {
+      "slug": "zurich",
+      "name": "Zurich",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 8.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.2,
+        "violentCrime": 9.1,
+        "scamRisk": 8.5,
+        "womensSafety": 8.8,
+        "nightSafety": 8.3,
+        "transport": 9.2,
+        "naturalHazards": 8.4
+      },
+      "summary": "Zurich stands among the safest major cities in Europe, with exceptionally low violent crime rates and minimal risk to tourists. The city combines Swiss precision in public safety with world-class infrastructure, making it ideal for all types of travelers including solo females.",
+      "quickVerdict": "Zurich is extremely safe for tourists, consistently ranking as one of the world's safest cities. Violent crime is extremely rare, and the biggest concern for visitors is minor pickpocketing in crowded areas. The excellent public transport system operates safely at all hours, streets are well-lit and clean, and Swiss culture emphasizes order and respect. While no destination is crime-free, Zurich comes close to that ideal, with visitors more likely to have lost items returned than stolen.",
+      "neighborhoods": [
+        {
+          "name": "Altstadt (Old Town)",
+          "score": 9.2,
+          "class": "safe",
+          "description": "The historic heart of Zurich with medieval architecture and cobblestone streets. Extremely safe day and night with heavy foot traffic and excellent lighting. Home to major museums, galleries, and the main shopping areas."
+        },
+        {
+          "name": "Enge",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Scenic lakeside district known for beautiful green spaces and the Rietberg Museum. Very quiet and secure, perfect for those seeking tranquility. Excellent transport connections and well-maintained streets make it ideal for evening strolls."
+        },
+        {
+          "name": "Seefeld",
+          "score": 8.6,
+          "class": "safe",
+          "description": "Trendy upscale neighborhood with modern amenities and vibrant cafe culture. Popular with young professionals and completely safe for tourists. Mix of traditional and contemporary architecture with excellent security infrastructure."
+        },
+        {
+          "name": "Wiedikon",
+          "score": 8.3,
+          "class": "safe",
+          "description": "Family-friendly residential area with parks, local shops, and authentic Swiss neighborhood feel. Very safe with good public transport connections to city center. Offers great value accommodation options while maintaining high safety standards."
+        },
+        {
+          "name": "Langstrasse (District 4)",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Known as Zurich's primary nightlife and red-light district, though heavily gentrified with upscale bars and restaurants. Generally safe but requires more awareness late at night. Petty crime slightly higher due to nighttime activity."
+        },
+        {
+          "name": "Oerlikon",
+          "score": 7.1,
+          "class": "safe",
+          "description": "Modern business district near the airport with shopping centers and entertainment venues. Safe for business travelers but can feel less personal than central areas. Well-connected by public transport with adequate security measures."
+        }
+      ],
+      "scams": [
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Scammers tamper with ATM card slots to make cards get stuck, then offer help while stealing card details and observing PIN entry.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, and never accept help from strangers at machines. Report stuck cards to police immediately."
+        },
+        {
+          "name": "Fake Charity Collections",
+          "risk": "medium",
+          "description": "People approach tourists with clipboards claiming to collect for charities, using this as distraction for pickpocketing or demanding money for fake causes.",
+          "howToAvoid": "Politely decline and walk away quickly. Never give personal information or money to street solicitors. Legitimate Swiss charities don't use aggressive street tactics."
+        },
+        {
+          "name": "Free Item Scams",
+          "risk": "low",
+          "description": "Scammers offer free friendship bracelets, flowers, or souvenirs, then aggressively demand payment or use the interaction to pickpocket victims.",
+          "howToAvoid": "Refuse all free items from strangers and keep walking. Don't engage in conversation or allow anyone to put items on you."
+        },
+        {
+          "name": "Overpriced Taxi Rides",
+          "risk": "low",
+          "description": "Some taxi drivers may take longer routes or charge excessive fares, especially from airport or train stations to tourist areas.",
+          "howToAvoid": "Use official taxis with proper markings, ensure meter is running, check approximate route on your phone, or use Uber as an alternative."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Zurich is exceptionally safe for solo female travelers, ranking among the top cities worldwide for women's safety. The culture respects women's independence, harassment is rare, and women regularly walk alone at night without concern. Public transport is completely safe at all hours, and Swiss men are generally respectful and non-threatening.",
+        "tips": [
+          "Feel confident walking alone day or night in all central areas",
+          "Public transport is safe 24/7 including night services",
+          "Swiss culture is reserved - locals mind their own business",
+          "Emergency help is always nearby with excellent police response",
+          "Hotel staff and tourism workers are professional and helpful"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Zurich maintains excellent safety standards after dark with well-lit streets, active nightlife areas, and reliable late-night public transport. Crime rates remain low at night, though standard urban precautions apply in busy entertainment districts. The city center and lakefront are particularly safe for evening activities.",
+        "tips": [
+          "Stick to main roads and well-lit areas when walking at night",
+          "Use reliable night bus services that run Friday-Sunday until 4am",
+          "Keep valuables secure in busy nightlife areas like Langstrasse",
+          "Trust your instincts - Swiss locals are helpful if you need assistance",
+          "Emergency services respond quickly throughout the city"
+        ]
+      },
+      "transport": {
+        "metro": "Zurich has an excellent integrated transport system including trams, buses, and S-Bahn trains. All are extremely safe, punctual, and well-maintained. The network covers the entire city with frequent service until around 12:30am.",
+        "rideshare": "Uber operates safely in Zurich and provides a reliable alternative to traditional taxis. The app-based system offers transparency in pricing and routes. All drivers must meet Swiss licensing requirements.",
+        "taxis": "Official taxis with blue and white signs are safe and regulated. Expect to pay premium prices but receive professional service. Always ensure the meter is running and verify the approximate route beforehand.",
+        "tips": "Buy tickets before boarding any public transport. The ZVV app makes ticket purchase easy. Night surcharge applies to late-night services. Transport police conduct regular safety patrols."
+      },
+      "customs": [
+        "Always greet people with a firm handshake and direct eye contact - this shows respect",
+        "Be punctual for all appointments and social meetings as Swiss culture highly values timeliness",
+        "Keep noise levels down in public spaces and on transport - Swiss prefer quiet, orderly environments",
+        "Don't litter anywhere as this is both illegal and socially unacceptable - Switzerland prides itself on cleanliness",
+        "Respect personal space and avoid being overly familiar with strangers - Swiss people tend to be more reserved initially"
+      ],
+      "health": {
+        "overview": "Switzerland has world-class healthcare with excellent medical facilities throughout Zurich. No special vaccinations required for tourists. Healthcare is expensive but of exceptional quality.",
+        "water": "Tap water is completely safe to drink throughout Switzerland and meets the highest quality standards. Many public fountains provide free drinking water.",
+        "vaccinations": "No special vaccinations required for Switzerland. Routine vaccinations like MMR, DPT, and seasonal flu are recommended as usual.",
+        "altitude": "Zurich sits at low altitude (400m) so no altitude concerns. Climate is temperate with cold winters and warm summers. Air quality is excellent."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "117",
+        "ambulance": "144",
+        "fire": "118",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Bern: +41-31-357-70-11. US Consulate in Zurich also available. For emergencies involving US citizens, call embassy after contacting local authorities."
+      },
+      "faq": [
+        {
+          "q": "Is Zurich safe for tourists?",
+          "a": "Yes, Zurich is exceptionally safe for tourists and consistently ranks among the world's safest cities. Violent crime is extremely rare, and the biggest risk is minor pickpocketing in crowded areas. The city has excellent infrastructure, lighting, and police presence."
+        },
+        {
+          "q": "Is Zurich safe at night?",
+          "a": "Yes, Zurich is very safe at night. Streets are well-lit, there's active nightlife, and public transport runs late. While standard urban precautions apply, both men and women regularly walk alone after dark without concern."
+        },
+        {
+          "q": "Is Zurich safe for solo female travelers?",
+          "a": "Absolutely. Zurich ranks among the top cities globally for women's safety. Harassment is rare, Swiss culture is respectful, and women routinely travel alone day and night. Public transport is completely safe at all hours."
+        },
+        {
+          "q": "What areas should I avoid in Zurich?",
+          "a": "There are no dangerous 'no-go' areas in Zurich. The Langstrasse district requires slightly more awareness late at night due to nightlife activity, but it's still generally safe. All central areas are completely safe for tourists."
+        },
+        {
+          "q": "Is it safe to use public transport in Zurich?",
+          "a": "Yes, Zurich's public transport is extremely safe, efficient, and reliable. The integrated system of trams, buses, and trains operates safely 24/7 with regular security patrols. Millions use it daily without incident."
+        }
+      ],
+      "relatedCities": [
+        "geneva",
+        "basel",
+        "bern",
+        "vienna",
+        "munich"
+      ]
+    },
+    {
+      "slug": "brussels",
+      "name": "Brussels",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 6.1,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 7.5,
+        "scamRisk": 4.0,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Brussels is moderately safe for tourists but requires heightened awareness of petty crime, especially pickpockets and scams in tourist areas. While violent crime rates remain low for travelers, the city has seen increasing safety challenges with elevated crime statistics compared to other European capitals.",
+      "quickVerdict": "Brussels offers rich culture, excellent cuisine, and significant EU attractions, but visitors should exercise moderate caution. The main safety concerns are pickpocketing and tourist scams rather than violent crime. With proper precautions and awareness of areas to avoid after dark, most tourists have safe and enjoyable visits. Stay vigilant in transport hubs, tourist areas, and avoid certain neighborhoods like Molenbeek and Schaerbeek at night.",
+      "neighborhoods": [
+        {
+          "name": "City Center/Pentagon",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The historic heart around Grand Place and main tourist attractions. Well-patrolled and generally safe during day and evening, though pickpocketing is common in crowded areas."
+        },
+        {
+          "name": "European Quarter",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern business district housing EU institutions. Very safe with strong security presence, quieter on weekends. Excellent for tourists seeking upscale, secure accommodations."
+        },
+        {
+          "name": "Ixelles",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy, multicultural neighborhood popular with expatriates and students. Generally safe with vibrant cafe culture, though standard urban caution is advised at night."
+        },
+        {
+          "name": "Molenbeek-Saint-Jean",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Working-class district with higher crime rates and security concerns. Not recommended for tourists, particularly after dark. Some areas undergoing regeneration but still advisable to avoid."
+        },
+        {
+          "name": "Brussels Midi/South Station Area",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Major transport hub with elevated crime risk including pickpocketing, scams, and aggressive begging. Exercise extreme caution, especially around the station and nearby streets."
+        },
+        {
+          "name": "Schaerbeek",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Mixed residential area with pockets of concern. Some parts are safe during day but avoid walking alone at night. Higher police presence in recent years but still requires caution."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Charity Collectors",
+          "risk": "high",
+          "description": "People with official-looking badges approach tourists claiming to collect donations for charities, often using clipboards to distract while accomplices pickpocket.",
+          "howToAvoid": "Never engage with clipboard-carrying solicitors, especially near tourist sites. Say you're not interested and keep walking. Check credentials carefully if genuinely interested in donating."
+        },
+        {
+          "name": "Overpriced Taxi Rides",
+          "risk": "high",
+          "description": "Unlicensed or dishonest taxi drivers target tourists with broken meters, excessive fares, or long detours, particularly from airports and train stations.",
+          "howToAvoid": "Use only licensed taxis with yellow-blue emblems, ensure meters are running, or use ride-sharing apps like Uber. Negotiate prices upfront for airport transfers."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams of thieves work together creating distractions while accomplices steal from bags and pockets, especially on public transport and near tourist attractions.",
+          "howToAvoid": "Stay alert to sudden commotions, keep valuables in front-facing pockets or money belts, and be extra cautious in crowded areas and on public transport."
+        },
+        {
+          "name": "Restaurant Bill Switching",
+          "risk": "medium",
+          "description": "Some establishments, particularly near tourist areas, may switch bills or add unauthorized charges, taking advantage of tourists unfamiliar with local prices.",
+          "howToAvoid": "Always check bills carefully before paying, ask for itemized receipts, and be wary of establishments with no visible prices or those that seem to cater exclusively to tourists."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Brussels is generally safe for solo female travelers with standard European city precautions. Women should be more cautious in certain areas, particularly around train stations and some neighborhoods after dark. The city has good infrastructure and helpful locals, but street harassment can occur.",
+        "tips": [
+          "Avoid walking alone at night in areas like Brussels Midi, Molenbeek, and Schaerbeek",
+          "Use taxis or rideshares for late-night transportation instead of public transport",
+          "Stay in central areas like City Center, European Quarter, or Ixelles for accommodation",
+          "Be prepared for occasional street harassment, particularly from groups of men in certain areas",
+          "Keep accommodation details private and don't share travel plans with strangers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Brussels nightlife is generally safe in central tourist areas and business districts, but caution increases after midnight. Certain neighborhoods should be completely avoided after dark, and public transport becomes less safe late at night. The city has adequate street lighting in main areas.",
+        "tips": [
+          "Stick to well-lit, populated areas and main thoroughfares after dark",
+          "Avoid Brussels Midi station area, Molenbeek, and Schaerbeek neighborhoods at night",
+          "Use taxis or rideshares instead of walking alone after 11 PM",
+          "Stay near your accommodation for late-night activities rather than venturing far",
+          "Travel with others when possible and keep emergency contacts readily available"
+        ]
+      },
+      "transport": {
+        "metro": "Brussels metro system is generally safe but pickpocketing is common, especially during rush hours and in crowded stations. Some stations near problem areas should be avoided late at night. Service runs until midnight with limited night bus alternatives.",
+        "rideshare": "Uber and Bolt operate effectively in Brussels and are considered safer than street taxis, especially for airport transfers and late-night rides. Drivers are licensed professionals and rides are trackable through apps.",
+        "taxis": "Licensed taxis with yellow-blue emblems are generally safe but more expensive than rideshares. Some drivers may attempt overcharging tourists, so ensure meters are running or negotiate prices upfront for longer journeys.",
+        "tips": "Download the STIB app for public transport schedules and consider getting a BRUPASS for convenient travel across all transport modes."
+      },
+      "customs": [
+        "Greetings involve handshakes for first meetings, progressing to three kisses on the cheek (starting left) among friends - men always shake hands with other men",
+        "Punctuality is highly valued - arrive on time for appointments and social engagements as tardiness is considered disrespectful",
+        "Tipping is not obligatory as service charges are included in bills, but rounding up or leaving small change (€0.50-2.50) is appreciated for good service"
+      ],
+      "health": {
+        "overview": "Belgium has excellent healthcare with high-quality medical facilities and well-trained professionals. Healthcare standards meet or exceed most international expectations with modern hospitals and clinics readily available.",
+        "water": "Tap water is completely safe to drink throughout Belgium and meets high EU standards. No need to purchase bottled water unless preferred for taste reasons.",
+        "vaccinations": "No special vaccinations required for Belgium beyond routine immunizations. Ensure MMR, DTaP, and annual flu vaccines are up to date. COVID-19 vaccination may be recommended.",
+        "altitude": "Brussels sits at low elevation with temperate maritime climate. No altitude-related health concerns. Weather can be unpredictable with frequent rain changes."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "101",
+        "ambulance": "112 (press 1)",
+        "fire": "112 (press 1)",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Brussels: +32-2-811-4000 (24/7 emergency line), located at 27 Boulevard du Regent, 1000 Brussels. For non-emergency consular services: USCitizenBrussels@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Brussels safe for tourists?",
+          "a": "Brussels is moderately safe for tourists with proper precautions. The main risks are petty crime like pickpocketing and scams rather than violent crime. Stay alert in tourist areas and transport hubs, and avoid certain neighborhoods after dark."
+        },
+        {
+          "q": "Is Brussels safe at night?",
+          "a": "Central Brussels is reasonably safe at night in well-lit tourist areas, but caution increases after midnight. Avoid areas like Brussels Midi station, Molenbeek, and Schaerbeek after dark. Use taxis or rideshares for late-night transportation."
+        },
+        {
+          "q": "Is Brussels safe for solo female travelers?",
+          "a": "Yes, with standard precautions. Solo female travelers should avoid certain areas at night, use taxis for late transportation, and stay in central neighborhoods. Street harassment can occur but is not pervasive throughout the city."
+        },
+        {
+          "q": "What areas should I avoid in Brussels?",
+          "a": "Avoid Molenbeek, Schaerbeek, and the area around Brussels Midi station, especially at night. Anneessens and certain parts of Anderlecht also require caution. During the day, exercise extra vigilance but these areas aren't necessarily off-limits."
+        },
+        {
+          "q": "Is it safe to use public transport in Brussels?",
+          "a": "Yes, public transport is generally safe but pickpocketing is common. Be extra cautious during rush hours, keep belongings secure, and avoid empty metro cars late at night. The system is well-maintained and extensively monitored."
+        }
+      ],
+      "relatedCities": [
+        "amsterdam",
+        "paris",
+        "cologne",
+        "luxembourg-city",
+        "the-hague"
+      ]
+    },
+    {
+      "slug": "krakow",
+      "name": "Krakow",
+      "country": "Poland",
+      "countryCode": "PL",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 7.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.5,
+        "scamRisk": 6.8,
+        "womensSafety": 8.2,
+        "nightSafety": 7.5,
+        "transport": 8.0,
+        "naturalHazards": 8.2
+      },
+      "summary": "Krakow is widely considered one of the safest major cities in Central Europe, with low violent crime rates and a strong police presence in tourist areas. While minor issues like petty theft and nightlife scams exist, the city maintains excellent infrastructure and a welcoming atmosphere for visitors.",
+      "quickVerdict": "Krakow ranks among Europe's safest destinations with a crime index of just 24.8 out of 100, safer than many Western European capitals. The US State Department maintains a Level 1 advisory (Exercise Normal Precautions), and recent studies rank Krakow as the top European destination for solo female travelers. Most safety concerns involve minor petty theft in crowded areas and tourist-targeted bar scams, both easily avoided with basic precautions. The city benefits from comprehensive CCTV coverage, well-lit streets, reliable public transport, and helpful locals who often speak English.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Stare Miasto)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic center is heavily policed with constant foot traffic and excellent lighting. Tourist-friendly with numerous cafes, restaurants, and attractions. CCTV coverage is comprehensive and emergency services respond quickly."
+        },
+        {
+          "name": "Wawel Castle Area",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Highly secure area with controlled entry points and strong security presence. Well-maintained paths and tourist facilities. Considered one of the safest areas in the city during both day and night."
+        },
+        {
+          "name": "Kazimierz (Jewish Quarter)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Vibrant cultural district with good lighting and regular police patrols. Popular nightlife area that remains relatively safe, though basic vigilance is advised in bars and clubs after midnight."
+        },
+        {
+          "name": "Podgorze",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Developing residential and cultural area across the Vistula River. Generally safe with good public transport connections, though some areas can feel quiet at night. Schindler's Museum area is well-monitored."
+        },
+        {
+          "name": "Nowa Huta",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Socialist-era district that's perfectly safe during the day but can feel isolated at night. Some areas have limited lighting and fewer tourists. Stick to main streets and use public transport after dark."
+        },
+        {
+          "name": "Kleparz/Train Station Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Busy transport hub with typical urban challenges. Higher concentration of pickpockets and occasional aggressive begging. Well-policed during the day but exercise caution with belongings and avoid poorly lit side streets at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Strip Club Overcharging",
+          "risk": "high",
+          "description": "Attractive women approach male tourists, especially near the Old Town, inviting them to bars or clubs. Once inside, victims face exorbitant drink prices (often 800+ PLN bills) and intimidating security.",
+          "howToAvoid": "Politely decline street invitations to bars. Research venues beforehand and avoid establishments with no visible prices. If approached by strangers, especially attractive women offering bar recommendations, walk away."
+        },
+        {
+          "name": "Fake Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unlicensed taxi drivers, particularly near nightlife areas and the airport, charge excessive fares or take longer routes. Some claim meters are broken and demand inflated fixed prices.",
+          "howToAvoid": "Use official ride-sharing apps like Uber or Bolt. Look for licensed taxis with visible company names, phone numbers, and rate cards in windows. Always ensure the meter is running or agree on price beforehand."
+        },
+        {
+          "name": "Bar Bill Inflation",
+          "risk": "medium",
+          "description": "When ordering drinks without specifying brands, bartenders serve expensive top-shelf alcohol and charge premium prices. Credit card transactions may be processed multiple times claiming 'payment failed'.",
+          "howToAvoid": "Always specify exact drink brands when ordering. Ask for prices before ordering if menus lack pricing. Pay with cash when possible, and if using cards, keep receipts and monitor transactions."
+        },
+        {
+          "name": "Currency Exchange Scam",
+          "risk": "medium",
+          "description": "Exchange offices, especially in tourist areas, advertise attractive rates but use confusing dual-rate systems or add hidden fees. Some illegitimate exchanges give counterfeit money or short-change customers.",
+          "howToAvoid": "Use official exchange offices (kantors) with clear rate displays. Check rates online first and compare multiple locations. Count money carefully before leaving and avoid street currency exchanges."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Krakow has been rated as Europe's top destination for solo female travelers in 2026 studies, with excellent safety scores for walking alone even at night. The city has low rates of street harassment and a culture that respects women travelers. Public spaces are well-lit, transport runs reliably until late, and locals are generally helpful and speak English well.",
+        "tips": [
+          "Stay in well-lit areas like Old Town and Kazimierz which remain active until late with good police presence",
+          "Use official transport apps like Uber or Bolt rather than hailing random taxis, especially after nightlife activities",
+          "Avoid isolated residential areas late at night and stick to main tourist districts where there's natural foot traffic",
+          "Trust your instincts - if someone seems overly friendly or pushy about bar recommendations, politely decline and move away",
+          "Keep emergency contacts and accommodation address saved in your phone, as well as basic Polish phrases for help"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Krakow's nightlife areas remain relatively safe with good lighting, regular police patrols, and active street life until the early hours. The Old Town and Kazimierz maintain the highest safety levels after dark. Most incidents involve alcohol-related situations or tourist-targeted scams rather than violent crime. Night buses and trams provide safe transport options.",
+        "tips": [
+          "Stick to well-populated areas like Market Square and main streets in Kazimierz where lighting is excellent and people are around",
+          "Travel in groups when possible and let someone know your plans when going out alone",
+          "Avoid excessive alcohol consumption and never leave drinks unattended in bars or clubs",
+          "Use official transport options rather than walking long distances alone after midnight",
+          "Keep valuables secure and avoid displaying expensive items, phones, or large amounts of cash visibly"
+        ]
+      },
+      "transport": {
+        "metro": "Krakow does not have a metro system, but operates an excellent integrated network of trams and buses running from 5am to 11pm, with night services continuing until 4am. Trams are modern, wheelchair accessible, and equipped with CCTV cameras. The system is reliable, punctual, and covers all major tourist areas.",
+        "rideshare": "Uber, Bolt, and FreeNow operate extensively throughout Krakow with good availability and competitive pricing (typically 50-70 PLN to city center from airport). These services offer upfront pricing, cashless payments, and regulated fares. Uber even has their Center of Excellence based in Krakow, ensuring quality service.",
+        "taxis": "Licensed taxis are reliable and use meters without issues. Look for vehicles with company names, phone numbers, and rate cards displayed in windows. Standard fares start around 7 PLN plus 2.30 PLN per kilometer. Avoid unmarked taxis near nightlife zones which may overcharge tourists.",
+        "tips": "Download ride-sharing apps before traveling as they're safer and cheaper than random street taxis. Buy transport tickets from machines at stops or use apps like Mobilet. Validate tickets immediately when boarding and keep them until your journey ends to avoid fines."
+      },
+      "customs": [
+        "Greet people with 'Dzien dobry' (good day) when entering shops or restaurants - skipping greetings is considered rude",
+        "Use formal address 'Pan' (Mr.) and 'Pani' (Mrs./Ms.) with strangers until invited to be casual, especially with older people",
+        "Say 'Smacznego' (enjoy your meal) before eating and wait for everyone to be served before starting",
+        "Remove shoes when entering someone's home and bring small gifts like flowers or wine when invited",
+        "Be punctual for appointments and social gatherings as tardiness is considered disrespectful",
+        "Keep hands visible on the table during meals and maintain eye contact during toasts",
+        "Dress modestly when visiting churches - cover shoulders and knees, men remove hats",
+        "Offer your seat to elderly, pregnant women, and those with small children on public transport"
+      ],
+      "health": {
+        "overview": "Krakow has excellent healthcare infrastructure with modern hospitals and clinics. The city's healthcare system meets EU standards and emergency services are highly responsive. Private healthcare options are widely available for tourists.",
+        "water": "Tap water is completely safe to drink and meets European Union safety standards. Many locals drink it regularly. Restaurants may charge 2-4 EUR for bottled water if you don't specifically request tap water.",
+        "vaccinations": "No special vaccinations required for Poland beyond standard travel recommendations. Ensure routine vaccinations like MMR, DPT, and seasonal flu are up to date. EU health insurance cards are accepted.",
+        "altitude": "Krakow sits at low altitude (219m above sea level) with a temperate climate. Winters can be cold with temperatures dropping below freezing, while summers are mild and pleasant. Air quality is generally good in tourist areas."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "997",
+        "ambulance": "999",
+        "fire": "998",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Krakow: Ulica Stolarska 9, Tel: +48 (12) 424-5100, After-hours emergencies: +48 (12) 424-5100. Main US Embassy in Warsaw: Aleje Ujazdowskie 29/31, Tel: +48 (22) 504-2000"
+      },
+      "faq": [
+        {
+          "q": "Is Krakow safe for tourists?",
+          "a": "Yes, Krakow is one of Europe's safest cities with a crime index of only 24.8. The US State Department rates it Level 1 (Exercise Normal Precautions). Violent crime against tourists is rare, and the city center is heavily policed with excellent lighting and infrastructure."
+        },
+        {
+          "q": "Is Krakow safe at night?",
+          "a": "Krakow is generally safe at night, especially in tourist areas like Old Town and Kazimierz which remain well-lit and active. The city scores 64/100 for safety walking alone after dark according to safety indices. Stick to main streets and use official transport options."
+        },
+        {
+          "q": "Is Krakow safe for solo female travelers?",
+          "a": "Krakow was rated Europe's #1 destination for solo female travelers in 2026 studies. Women report feeling safe even walking alone at night, with low harassment levels and helpful locals. The city has excellent public transport and well-lit tourist areas."
+        },
+        {
+          "q": "What areas should I avoid in Krakow?",
+          "a": "Most of Krakow is safe, but exercise extra caution in Nowa Huta at night and around the train station area where pickpockets are more common. Avoid unlicensed strip clubs and bars with no visible pricing. Empty residential areas late at night should also be avoided."
+        },
+        {
+          "q": "Is it safe to use public transport in Krakow?",
+          "a": "Yes, Krakow's public transport is very safe with modern vehicles equipped with CCTV cameras. Trams and buses run reliably until 11pm with night services continuing until 4am. Just keep valuables secure in crowded areas and validate tickets to avoid fines."
+        }
+      ],
+      "relatedCities": [
+        "warsaw",
+        "prague",
+        "budapest",
+        "vienna",
+        "bratislava"
+      ]
+    },
+    {
+      "slug": "warsaw",
+      "name": "Warsaw",
+      "country": "Poland",
+      "countryCode": "PL",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-08",
+      "overallScore": 7.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.5,
+        "scamRisk": 6.8,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 8.2,
+        "naturalHazards": 8.5
+      },
+      "summary": "Warsaw is one of Europe's safer capitals with low violent crime rates and well-developed infrastructure. The city offers excellent public transport, professional emergency services, and a welcoming atmosphere for tourists, though visitors should remain aware of common scams and pickpocketing in tourist areas.",
+      "quickVerdict": "Warsaw consistently ranks among Europe's safest capitals and is particularly welcoming for solo travelers, including women. With Poland maintaining a Level 1 US State Department travel advisory and ranking 25th globally on the Global Peace Index, the city presents minimal security concerns. Most tourist experiences are problem-free, with efficient emergency services, reliable public transportation, and strong police presence in central areas. While petty crime exists as in any major city, violent crime against tourists is rare, making Warsaw an excellent choice for first-time visitors to Eastern Europe.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Stare Miasto)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "UNESCO World Heritage site with heavy police presence and tourist-oriented infrastructure. Well-lit streets, numerous security cameras, and constant foot traffic make it one of Warsaw's safest areas day and night."
+        },
+        {
+          "name": "City Center (Srodmiescie)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Modern business district with excellent lighting, professional security, and reliable transport links. Home to major hotels, shopping centers, and the Palace of Culture, with strong police visibility around tourist attractions."
+        },
+        {
+          "name": "Royal Route",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic boulevard connecting Old Town to city center with 24-hour security presence and well-maintained pedestrian areas. Ideal for evening walks with numerous cafes, restaurants, and cultural sites providing natural surveillance."
+        },
+        {
+          "name": "Praga Polnoc",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Historic but rougher district across the Vistula River requiring extra caution, especially after dark. While gentrifying, it still has higher crime rates and fewer tourist facilities. Avoid walking alone at night and stick to main streets."
+        },
+        {
+          "name": "Wola District",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Rapidly developing area with modern office buildings and residential complexes. Generally safe during business hours but can be quiet in evenings. Good transport connections but fewer late-night dining options."
+        },
+        {
+          "name": "Mokotow",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Upscale residential area popular with expats and young professionals. Well-maintained parks, good restaurants, and reliable public transport. Safe for evening activities with active nightlife around Plac Zbawiciela."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police ID Check",
+          "risk": "medium",
+          "description": "Criminals posing as plainclothes police approach tourists asking to inspect wallets for counterfeit money or requesting PIN numbers for credit card verification.",
+          "howToAvoid": "Real police will never ask for your PIN or inspect cash. Ask for official ID, move to a public area, and contact 112 if suspicious. Real officers have proper badges and patrol cars nearby."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "medium",
+          "description": "Tourist-trap restaurants add unauthorized items to bills, charge for complimentary bread/water, or serve expensive liquor when cheaper options were ordered.",
+          "howToAvoid": "Always check menus for prices before ordering, specify your preferred brand for drinks, examine bills carefully, and avoid restaurants with aggressive street touts."
+        },
+        {
+          "name": "Strip Club Overcharging",
+          "risk": "high",
+          "description": "Establishments disguised as regular bars lure tourists with promises of free entry, then impose enormous drink bills (sometimes thousands of zloty) with intimidating security enforcement.",
+          "howToAvoid": "Avoid these venues entirely. Legitimate Warsaw nightlife doesn't operate with aggressive tactics. If something feels wrong, leave immediately and don't accept drinks from strangers."
+        },
+        {
+          "name": "Taxi Airport Scam",
+          "risk": "medium",
+          "description": "Unlicensed taxis at airports and tourist sites charge 3-5 times normal rates, sometimes over 200 PLN for routes that should cost 50 PLN.",
+          "howToAvoid": "Use only official taxi companies with company names and phone numbers displayed, or book through Uber, Bolt, or FreeNow apps for transparent pricing. Pre-book through hotels when possible."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Warsaw ranks as the 4th safest place in Poland for solo female travelers with a 4.5/5 safety rating. The city offers excellent infrastructure, reliable public transport, and a respectful local culture. Polish men are generally courteous and street harassment is rare compared to other European capitals. Well-lit streets, extensive CCTV coverage, and professional police response contribute to a secure environment for women traveling alone.",
+        "tips": [
+          "Avoid walking alone in Praga districts after 10 PM - take Uber, Bolt, or public transport instead",
+          "Warsaw's public transport runs until late with security cameras and is very safe for solo female travelers",
+          "Local culture is respectful with minimal persistent approaches - interactions are typically courteous and professional",
+          "Book female-only hostels or women-only dorm rooms which are widely available and prioritize safety with key card systems",
+          "Join Facebook groups like 'Women Who Travel' or use NomadSister platform for accommodation sharing with local women"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Warsaw's nightlife is vibrant and generally safe, with well-lit streets, active police presence, and extensive CCTV coverage in central areas. The city's entertainment districts around Plac Zbawiciela and along the Vistula River maintain good security, while public transport operates until late with regular service. However, some areas like Praga require extra caution after dark, and standard urban safety precautions should be observed.",
+        "tips": [
+          "Stick to main entertainment areas like Old Town, City Center, and Plac Zbawiciela which have strong security presence",
+          "Use official taxis, Uber, or Bolt rather than accepting rides from strangers - apps provide transparent pricing and driver tracking",
+          "Travel in groups when possible, especially when moving between venues or exploring less familiar neighborhoods",
+          "Be cautious around the Palace of Culture and Central Station at night due to higher concentration of intoxicated individuals",
+          "Keep emergency numbers handy (112 for general emergencies) and stay aware of your surroundings in crowded club areas"
+        ]
+      },
+      "transport": {
+        "metro": "Warsaw's two-line metro system (M1 and M2) is modern, clean, and very safe with security cameras, frequent service, and well-lit stations. Metro runs until late night with security guards present and connects major tourist areas efficiently.",
+        "rideshare": "Uber, Bolt, and FreeNow operate reliably throughout Warsaw with transparent pricing and GPS tracking. Generally safer and often cheaper than traditional taxis, with widespread availability even during early morning hours.",
+        "taxis": "Official taxis are regulated and safe but more expensive than ride-share apps. Always verify the company name, phone number, and taxi sign on roof. Airport taxis should cost 40-60 PLN to city center.",
+        "tips": "Public transport is excellent with integrated tickets valid across metro, buses, and trams. Validate tickets immediately when boarding to avoid fines. Avoid unlicensed taxis at airports and tourist sites - use apps for reliable pricing."
+      },
+      "customs": [
+        "Polish people value punctuality in both business and social situations - being late is considered disrespectful",
+        "Use formal titles (Pan for men, Pani for women) with surnames until invited to use first names",
+        "When visiting homes, bring odd-numbered flowers (avoid red, white, or chrysanthemums), wine, or chocolates as courtesy gifts",
+        "Give up seats on public transport to elderly, pregnant, disabled, or injured passengers - this is expected social etiquette",
+        "Remove shoes when entering someone's home and always compliment the host's hospitality during your visit"
+      ],
+      "health": {
+        "overview": "Poland has a well-developed healthcare system with modern medical facilities in Warsaw. The city offers excellent medical care with many English-speaking doctors and international clinics. EU citizens benefit from reciprocal healthcare arrangements, while others should ensure comprehensive travel insurance.",
+        "water": "Warsaw's tap water meets EU and WHO safety standards and is perfectly safe to drink. The water undergoes advanced treatment including filtration and disinfection before distribution. Some visitors prefer bottled water for taste preferences, but tap water poses no health risks.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. CDC recommends being up-to-date on standard vaccines including MMR, polio, and seasonal flu. Tick-borne encephalitis vaccination may be considered for extensive outdoor activities in forested areas.",
+        "altitude": "Warsaw sits at low elevation with no altitude-related health concerns. The city has a temperate climate with cold winters and mild summers. Air quality is generally good, though pollution can increase during winter months due to heating systems."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "997",
+        "ambulance": "999",
+        "fire": "998",
+        "touristPolice": "+48 608 599 999",
+        "usEmbassy": "US Embassy Warsaw: +48 22 504-2000 (24-hour emergency line). Located at Aleje Ujazdowskie 29/31. For American citizens: business hours +48 22 504-2784, after hours +48 22 504-2000."
+      },
+      "faq": [
+        {
+          "q": "Is Warsaw safe for tourists?",
+          "a": "Yes, Warsaw is very safe for tourists and ranks among Europe's safest capitals. With low violent crime rates, professional emergency services, and tourist-friendly infrastructure, most visitors experience no safety issues. The US State Department maintains a Level 1 advisory (lowest risk level) for Poland."
+        },
+        {
+          "q": "Is Warsaw safe at night?",
+          "a": "Warsaw is generally safe at night in central areas like Old Town, City Center, and main entertainment districts. These areas have good lighting, police presence, and CCTV coverage. Avoid Praga districts after dark and use common sense precautions like staying in groups and using official transport."
+        },
+        {
+          "q": "Is Warsaw safe for solo female travelers?",
+          "a": "Warsaw is excellent for solo female travelers, ranking 4th safest in Poland with a 4.5/5 safety rating. The city offers respectful local culture, reliable public transport, and minimal street harassment. Female-only accommodation options are widely available with enhanced security features."
+        },
+        {
+          "q": "What areas should I avoid in Warsaw?",
+          "a": "Avoid Praga Polnoc district, especially after dark, as it has higher crime rates despite ongoing gentrification. Exercise caution around Central Station and Palace of Culture at night due to increased presence of intoxicated individuals. Otherwise, tourist areas are very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Warsaw?",
+          "a": "Yes, Warsaw's public transport is very safe and efficient. The metro, buses, and trams have security cameras, regular police presence, and run until late. Always validate tickets to avoid fines and be aware of pickpockets during rush hours, though incidents are rare."
+        }
+      ],
+      "relatedCities": [
+        "prague",
+        "berlin",
+        "vienna",
+        "budapest",
+        "stockholm",
+        "copenhagen"
+      ]
     }
   ]
 }

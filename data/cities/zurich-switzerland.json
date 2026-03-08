@@ -1,0 +1,165 @@
+{
+  "slug": "zurich",
+  "name": "Zurich",
+  "country": "Switzerland",
+  "countryCode": "CH",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-08",
+  "overallScore": 8.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 9.1,
+    "scamRisk": 8.5,
+    "womensSafety": 8.8,
+    "nightSafety": 8.3,
+    "transport": 9.2,
+    "naturalHazards": 8.4
+  },
+  "summary": "Zurich stands among the safest major cities in Europe, with exceptionally low violent crime rates and minimal risk to tourists. The city combines Swiss precision in public safety with world-class infrastructure, making it ideal for all types of travelers including solo females.",
+  "quickVerdict": "Zurich is extremely safe for tourists, consistently ranking as one of the world's safest cities. Violent crime is extremely rare, and the biggest concern for visitors is minor pickpocketing in crowded areas. The excellent public transport system operates safely at all hours, streets are well-lit and clean, and Swiss culture emphasizes order and respect. While no destination is crime-free, Zurich comes close to that ideal, with visitors more likely to have lost items returned than stolen.",
+  "neighborhoods": [
+    {
+      "name": "Altstadt (Old Town)",
+      "score": 9.2,
+      "class": "safe",
+      "description": "The historic heart of Zurich with medieval architecture and cobblestone streets. Extremely safe day and night with heavy foot traffic and excellent lighting. Home to major museums, galleries, and the main shopping areas."
+    },
+    {
+      "name": "Enge",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Scenic lakeside district known for beautiful green spaces and the Rietberg Museum. Very quiet and secure, perfect for those seeking tranquility. Excellent transport connections and well-maintained streets make it ideal for evening strolls."
+    },
+    {
+      "name": "Seefeld",
+      "score": 8.6,
+      "class": "safe",
+      "description": "Trendy upscale neighborhood with modern amenities and vibrant cafe culture. Popular with young professionals and completely safe for tourists. Mix of traditional and contemporary architecture with excellent security infrastructure."
+    },
+    {
+      "name": "Wiedikon",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Family-friendly residential area with parks, local shops, and authentic Swiss neighborhood feel. Very safe with good public transport connections to city center. Offers great value accommodation options while maintaining high safety standards."
+    },
+    {
+      "name": "Langstrasse (District 4)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Known as Zurich's primary nightlife and red-light district, though heavily gentrified with upscale bars and restaurants. Generally safe but requires more awareness late at night. Petty crime slightly higher due to nighttime activity."
+    },
+    {
+      "name": "Oerlikon",
+      "score": 7.1,
+      "class": "safe",
+      "description": "Modern business district near the airport with shopping centers and entertainment venues. Safe for business travelers but can feel less personal than central areas. Well-connected by public transport with adequate security measures."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Scammers tamper with ATM card slots to make cards get stuck, then offer help while stealing card details and observing PIN entry.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, and never accept help from strangers at machines. Report stuck cards to police immediately."
+    },
+    {
+      "name": "Fake Charity Collections",
+      "risk": "medium",
+      "description": "People approach tourists with clipboards claiming to collect for charities, using this as distraction for pickpocketing or demanding money for fake causes.",
+      "howToAvoid": "Politely decline and walk away quickly. Never give personal information or money to street solicitors. Legitimate Swiss charities don't use aggressive street tactics."
+    },
+    {
+      "name": "Free Item Scams",
+      "risk": "low",
+      "description": "Scammers offer free friendship bracelets, flowers, or souvenirs, then aggressively demand payment or use the interaction to pickpocket victims.",
+      "howToAvoid": "Refuse all free items from strangers and keep walking. Don't engage in conversation or allow anyone to put items on you."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "low",
+      "description": "Some taxi drivers may take longer routes or charge excessive fares, especially from airport or train stations to tourist areas.",
+      "howToAvoid": "Use official taxis with proper markings, ensure meter is running, check approximate route on your phone, or use Uber as an alternative."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Zurich is exceptionally safe for solo female travelers, ranking among the top cities worldwide for women's safety. The culture respects women's independence, harassment is rare, and women regularly walk alone at night without concern. Public transport is completely safe at all hours, and Swiss men are generally respectful and non-threatening.",
+    "tips": [
+      "Feel confident walking alone day or night in all central areas",
+      "Public transport is safe 24/7 including night services",
+      "Swiss culture is reserved - locals mind their own business",
+      "Emergency help is always nearby with excellent police response",
+      "Hotel staff and tourism workers are professional and helpful"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Zurich maintains excellent safety standards after dark with well-lit streets, active nightlife areas, and reliable late-night public transport. Crime rates remain low at night, though standard urban precautions apply in busy entertainment districts. The city center and lakefront are particularly safe for evening activities.",
+    "tips": [
+      "Stick to main roads and well-lit areas when walking at night",
+      "Use reliable night bus services that run Friday-Sunday until 4am",
+      "Keep valuables secure in busy nightlife areas like Langstrasse",
+      "Trust your instincts - Swiss locals are helpful if you need assistance",
+      "Emergency services respond quickly throughout the city"
+    ]
+  },
+  "transport": {
+    "metro": "Zurich has an excellent integrated transport system including trams, buses, and S-Bahn trains. All are extremely safe, punctual, and well-maintained. The network covers the entire city with frequent service until around 12:30am.",
+    "rideshare": "Uber operates safely in Zurich and provides a reliable alternative to traditional taxis. The app-based system offers transparency in pricing and routes. All drivers must meet Swiss licensing requirements.",
+    "taxis": "Official taxis with blue and white signs are safe and regulated. Expect to pay premium prices but receive professional service. Always ensure the meter is running and verify the approximate route beforehand.",
+    "tips": "Buy tickets before boarding any public transport. The ZVV app makes ticket purchase easy. Night surcharge applies to late-night services. Transport police conduct regular safety patrols."
+  },
+  "customs": [
+    "Always greet people with a firm handshake and direct eye contact - this shows respect",
+    "Be punctual for all appointments and social meetings as Swiss culture highly values timeliness",
+    "Keep noise levels down in public spaces and on transport - Swiss prefer quiet, orderly environments",
+    "Don't litter anywhere as this is both illegal and socially unacceptable - Switzerland prides itself on cleanliness",
+    "Respect personal space and avoid being overly familiar with strangers - Swiss people tend to be more reserved initially"
+  ],
+  "health": {
+    "overview": "Switzerland has world-class healthcare with excellent medical facilities throughout Zurich. No special vaccinations required for tourists. Healthcare is expensive but of exceptional quality.",
+    "water": "Tap water is completely safe to drink throughout Switzerland and meets the highest quality standards. Many public fountains provide free drinking water.",
+    "vaccinations": "No special vaccinations required for Switzerland. Routine vaccinations like MMR, DPT, and seasonal flu are recommended as usual.",
+    "altitude": "Zurich sits at low altitude (400m) so no altitude concerns. Climate is temperate with cold winters and warm summers. Air quality is excellent."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "117",
+    "ambulance": "144",
+    "fire": "118",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Bern: +41-31-357-70-11. US Consulate in Zurich also available. For emergencies involving US citizens, call embassy after contacting local authorities."
+  },
+  "faq": [
+    {
+      "q": "Is Zurich safe for tourists?",
+      "a": "Yes, Zurich is exceptionally safe for tourists and consistently ranks among the world's safest cities. Violent crime is extremely rare, and the biggest risk is minor pickpocketing in crowded areas. The city has excellent infrastructure, lighting, and police presence."
+    },
+    {
+      "q": "Is Zurich safe at night?",
+      "a": "Yes, Zurich is very safe at night. Streets are well-lit, there's active nightlife, and public transport runs late. While standard urban precautions apply, both men and women regularly walk alone after dark without concern."
+    },
+    {
+      "q": "Is Zurich safe for solo female travelers?",
+      "a": "Absolutely. Zurich ranks among the top cities globally for women's safety. Harassment is rare, Swiss culture is respectful, and women routinely travel alone day and night. Public transport is completely safe at all hours."
+    },
+    {
+      "q": "What areas should I avoid in Zurich?",
+      "a": "There are no dangerous 'no-go' areas in Zurich. The Langstrasse district requires slightly more awareness late at night due to nightlife activity, but it's still generally safe. All central areas are completely safe for tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Zurich?",
+      "a": "Yes, Zurich's public transport is extremely safe, efficient, and reliable. The integrated system of trams, buses, and trains operates safely 24/7 with regular security patrols. Millions use it daily without incident."
+    }
+  ],
+  "relatedCities": [
+    "geneva",
+    "basel",
+    "bern",
+    "vienna",
+    "munich"
+  ],
+  "_city_id": "zurich-switzerland"
+}

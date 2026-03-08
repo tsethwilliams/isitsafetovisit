@@ -1,0 +1,168 @@
+{
+  "slug": "krakow",
+  "name": "Krakow",
+  "country": "Poland",
+  "countryCode": "PL",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-08",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.8,
+    "womensSafety": 8.2,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Krakow is widely considered one of the safest major cities in Central Europe, with low violent crime rates and a strong police presence in tourist areas. While minor issues like petty theft and nightlife scams exist, the city maintains excellent infrastructure and a welcoming atmosphere for visitors.",
+  "quickVerdict": "Krakow ranks among Europe's safest destinations with a crime index of just 24.8 out of 100, safer than many Western European capitals. The US State Department maintains a Level 1 advisory (Exercise Normal Precautions), and recent studies rank Krakow as the top European destination for solo female travelers. Most safety concerns involve minor petty theft in crowded areas and tourist-targeted bar scams, both easily avoided with basic precautions. The city benefits from comprehensive CCTV coverage, well-lit streets, reliable public transport, and helpful locals who often speak English.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Stare Miasto)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic center is heavily policed with constant foot traffic and excellent lighting. Tourist-friendly with numerous cafes, restaurants, and attractions. CCTV coverage is comprehensive and emergency services respond quickly."
+    },
+    {
+      "name": "Wawel Castle Area",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Highly secure area with controlled entry points and strong security presence. Well-maintained paths and tourist facilities. Considered one of the safest areas in the city during both day and night."
+    },
+    {
+      "name": "Kazimierz (Jewish Quarter)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Vibrant cultural district with good lighting and regular police patrols. Popular nightlife area that remains relatively safe, though basic vigilance is advised in bars and clubs after midnight."
+    },
+    {
+      "name": "Podgorze",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Developing residential and cultural area across the Vistula River. Generally safe with good public transport connections, though some areas can feel quiet at night. Schindler's Museum area is well-monitored."
+    },
+    {
+      "name": "Nowa Huta",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Socialist-era district that's perfectly safe during the day but can feel isolated at night. Some areas have limited lighting and fewer tourists. Stick to main streets and use public transport after dark."
+    },
+    {
+      "name": "Kleparz/Train Station Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy transport hub with typical urban challenges. Higher concentration of pickpockets and occasional aggressive begging. Well-policed during the day but exercise caution with belongings and avoid poorly lit side streets at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Strip Club Overcharging",
+      "risk": "high",
+      "description": "Attractive women approach male tourists, especially near the Old Town, inviting them to bars or clubs. Once inside, victims face exorbitant drink prices (often 800+ PLN bills) and intimidating security.",
+      "howToAvoid": "Politely decline street invitations to bars. Research venues beforehand and avoid establishments with no visible prices. If approached by strangers, especially attractive women offering bar recommendations, walk away."
+    },
+    {
+      "name": "Fake Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers, particularly near nightlife areas and the airport, charge excessive fares or take longer routes. Some claim meters are broken and demand inflated fixed prices.",
+      "howToAvoid": "Use official ride-sharing apps like Uber or Bolt. Look for licensed taxis with visible company names, phone numbers, and rate cards in windows. Always ensure the meter is running or agree on price beforehand."
+    },
+    {
+      "name": "Bar Bill Inflation",
+      "risk": "medium",
+      "description": "When ordering drinks without specifying brands, bartenders serve expensive top-shelf alcohol and charge premium prices. Credit card transactions may be processed multiple times claiming 'payment failed'.",
+      "howToAvoid": "Always specify exact drink brands when ordering. Ask for prices before ordering if menus lack pricing. Pay with cash when possible, and if using cards, keep receipts and monitor transactions."
+    },
+    {
+      "name": "Currency Exchange Scam",
+      "risk": "medium",
+      "description": "Exchange offices, especially in tourist areas, advertise attractive rates but use confusing dual-rate systems or add hidden fees. Some illegitimate exchanges give counterfeit money or short-change customers.",
+      "howToAvoid": "Use official exchange offices (kantors) with clear rate displays. Check rates online first and compare multiple locations. Count money carefully before leaving and avoid street currency exchanges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Krakow has been rated as Europe's top destination for solo female travelers in 2026 studies, with excellent safety scores for walking alone even at night. The city has low rates of street harassment and a culture that respects women travelers. Public spaces are well-lit, transport runs reliably until late, and locals are generally helpful and speak English well.",
+    "tips": [
+      "Stay in well-lit areas like Old Town and Kazimierz which remain active until late with good police presence",
+      "Use official transport apps like Uber or Bolt rather than hailing random taxis, especially after nightlife activities",
+      "Avoid isolated residential areas late at night and stick to main tourist districts where there's natural foot traffic",
+      "Trust your instincts - if someone seems overly friendly or pushy about bar recommendations, politely decline and move away",
+      "Keep emergency contacts and accommodation address saved in your phone, as well as basic Polish phrases for help"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Krakow's nightlife areas remain relatively safe with good lighting, regular police patrols, and active street life until the early hours. The Old Town and Kazimierz maintain the highest safety levels after dark. Most incidents involve alcohol-related situations or tourist-targeted scams rather than violent crime. Night buses and trams provide safe transport options.",
+    "tips": [
+      "Stick to well-populated areas like Market Square and main streets in Kazimierz where lighting is excellent and people are around",
+      "Travel in groups when possible and let someone know your plans when going out alone",
+      "Avoid excessive alcohol consumption and never leave drinks unattended in bars or clubs",
+      "Use official transport options rather than walking long distances alone after midnight",
+      "Keep valuables secure and avoid displaying expensive items, phones, or large amounts of cash visibly"
+    ]
+  },
+  "transport": {
+    "metro": "Krakow does not have a metro system, but operates an excellent integrated network of trams and buses running from 5am to 11pm, with night services continuing until 4am. Trams are modern, wheelchair accessible, and equipped with CCTV cameras. The system is reliable, punctual, and covers all major tourist areas.",
+    "rideshare": "Uber, Bolt, and FreeNow operate extensively throughout Krakow with good availability and competitive pricing (typically 50-70 PLN to city center from airport). These services offer upfront pricing, cashless payments, and regulated fares. Uber even has their Center of Excellence based in Krakow, ensuring quality service.",
+    "taxis": "Licensed taxis are reliable and use meters without issues. Look for vehicles with company names, phone numbers, and rate cards displayed in windows. Standard fares start around 7 PLN plus 2.30 PLN per kilometer. Avoid unmarked taxis near nightlife zones which may overcharge tourists.",
+    "tips": "Download ride-sharing apps before traveling as they're safer and cheaper than random street taxis. Buy transport tickets from machines at stops or use apps like Mobilet. Validate tickets immediately when boarding and keep them until your journey ends to avoid fines."
+  },
+  "customs": [
+    "Greet people with 'Dzien dobry' (good day) when entering shops or restaurants - skipping greetings is considered rude",
+    "Use formal address 'Pan' (Mr.) and 'Pani' (Mrs./Ms.) with strangers until invited to be casual, especially with older people",
+    "Say 'Smacznego' (enjoy your meal) before eating and wait for everyone to be served before starting",
+    "Remove shoes when entering someone's home and bring small gifts like flowers or wine when invited",
+    "Be punctual for appointments and social gatherings as tardiness is considered disrespectful",
+    "Keep hands visible on the table during meals and maintain eye contact during toasts",
+    "Dress modestly when visiting churches - cover shoulders and knees, men remove hats",
+    "Offer your seat to elderly, pregnant women, and those with small children on public transport"
+  ],
+  "health": {
+    "overview": "Krakow has excellent healthcare infrastructure with modern hospitals and clinics. The city's healthcare system meets EU standards and emergency services are highly responsive. Private healthcare options are widely available for tourists.",
+    "water": "Tap water is completely safe to drink and meets European Union safety standards. Many locals drink it regularly. Restaurants may charge 2-4 EUR for bottled water if you don't specifically request tap water.",
+    "vaccinations": "No special vaccinations required for Poland beyond standard travel recommendations. Ensure routine vaccinations like MMR, DPT, and seasonal flu are up to date. EU health insurance cards are accepted.",
+    "altitude": "Krakow sits at low altitude (219m above sea level) with a temperate climate. Winters can be cold with temperatures dropping below freezing, while summers are mild and pleasant. Air quality is generally good in tourist areas."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "997",
+    "ambulance": "999",
+    "fire": "998",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Krakow: Ulica Stolarska 9, Tel: +48 (12) 424-5100, After-hours emergencies: +48 (12) 424-5100. Main US Embassy in Warsaw: Aleje Ujazdowskie 29/31, Tel: +48 (22) 504-2000"
+  },
+  "faq": [
+    {
+      "q": "Is Krakow safe for tourists?",
+      "a": "Yes, Krakow is one of Europe's safest cities with a crime index of only 24.8. The US State Department rates it Level 1 (Exercise Normal Precautions). Violent crime against tourists is rare, and the city center is heavily policed with excellent lighting and infrastructure."
+    },
+    {
+      "q": "Is Krakow safe at night?",
+      "a": "Krakow is generally safe at night, especially in tourist areas like Old Town and Kazimierz which remain well-lit and active. The city scores 64/100 for safety walking alone after dark according to safety indices. Stick to main streets and use official transport options."
+    },
+    {
+      "q": "Is Krakow safe for solo female travelers?",
+      "a": "Krakow was rated Europe's #1 destination for solo female travelers in 2026 studies. Women report feeling safe even walking alone at night, with low harassment levels and helpful locals. The city has excellent public transport and well-lit tourist areas."
+    },
+    {
+      "q": "What areas should I avoid in Krakow?",
+      "a": "Most of Krakow is safe, but exercise extra caution in Nowa Huta at night and around the train station area where pickpockets are more common. Avoid unlicensed strip clubs and bars with no visible pricing. Empty residential areas late at night should also be avoided."
+    },
+    {
+      "q": "Is it safe to use public transport in Krakow?",
+      "a": "Yes, Krakow's public transport is very safe with modern vehicles equipped with CCTV cameras. Trams and buses run reliably until 11pm with night services continuing until 4am. Just keep valuables secure in crowded areas and validate tickets to avoid fines."
+    }
+  ],
+  "relatedCities": [
+    "warsaw",
+    "prague",
+    "budapest",
+    "vienna",
+    "bratislava"
+  ],
+  "_city_id": "krakow-poland"
+}

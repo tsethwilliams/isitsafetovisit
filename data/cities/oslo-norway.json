@@ -1,0 +1,165 @@
+{
+  "slug": "oslo",
+  "name": "Oslo",
+  "country": "Norway",
+  "countryCode": "NO",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-08",
+  "overallScore": 8.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 8.0,
+    "womensSafety": 9.2,
+    "nightSafety": 8.5,
+    "transport": 9.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Oslo is one of the safest capital cities in Europe with extremely low violent crime rates and excellent safety infrastructure. While petty theft occurs in tourist areas and some scams target visitors, overall risk is minimal and Norway's high safety standards extend throughout the capital.",
+  "quickVerdict": "Oslo offers exceptional safety for tourists with violent crime being almost non-existent and excellent public safety systems. The main concerns are pickpocketing in crowded tourist areas and some taxi overcharging, but these are minor issues in what is consistently ranked among the world's safest cities. The Norwegian capital's progressive values, efficient emergency services, and generally helpful population make it ideal for all types of travelers including solo women.",
+  "neighborhoods": [
+    {
+      "name": "Sentrum (City Center)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Very safe during day with good police presence, but watch for pickpockets around Karl Johan Gate and near tourist attractions. Well-lit at night with regular foot traffic."
+    },
+    {
+      "name": "Frogner/Majorstuen",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Upscale residential area with excellent safety record. Home to Vigeland Park and embassy district. Very safe day and night with minimal crime."
+    },
+    {
+      "name": "Grünerløkka",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Trendy neighborhood popular with young locals and tourists. Generally very safe with vibrant nightlife areas that stay busy until late."
+    },
+    {
+      "name": "Aker Brygge",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern waterfront district with restaurants and nightlife. Safe but can get crowded, watch belongings near popular restaurants and bars."
+    },
+    {
+      "name": "Grønland/Tøyen",
+      "score": 6.5,
+      "class": "caution",
+      "description": "More diverse area with higher concentration of drug-related activity. Generally safe during day but avoid late at night, especially around Oslo Central Station."
+    },
+    {
+      "name": "Gamle Oslo",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Mixed residential and commercial area undergoing gentrification. Generally safe but some pockets near transport hubs may see occasional disturbances."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unscrupulous taxi drivers, particularly at Oslo Airport, may take longer routes or refuse to use meters to inflate fares significantly.",
+      "howToAvoid": "Use official taxi booking terminals at the airport, insist on fixed-price quotes beforehand, or use ride-sharing apps like Uber which show upfront pricing."
+    },
+    {
+      "name": "Fake Online Tour Bookings",
+      "risk": "medium",
+      "description": "Fraudulent websites mimicking legitimate tour operators for fjord cruises or Northern Lights trips, demanding upfront payment then disappearing.",
+      "howToAvoid": "Book directly through official Norwegian tourism websites or verified operators, verify SSL certificates and read reviews on trusted platforms before paying."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Devices attached to ATMs in busy locations like Central Station that capture card details and PIN numbers from tourists withdrawing cash.",
+      "howToAvoid": "Use ATMs inside banks during daylight hours, cover PIN entry, inspect card slots for loose parts, and monitor bank statements regularly."
+    },
+    {
+      "name": "Romance/Online Scams",
+      "risk": "medium",
+      "description": "Online scammers build romantic relationships with victims then claim emergencies requiring urgent money transfers, particularly targeting visitors using dating apps.",
+      "howToAvoid": "Never send money to someone you've only met online, be suspicious of urgent financial requests, and meet potential dates only in public places."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Oslo is exceptionally safe for solo female travelers and consistently ranks among the top destinations globally for women traveling alone. The city has very low crime rates, excellent gender equality standards, and a culture that deeply respects women's independence. Norway's progressive society means solo women can move freely day and night with minimal concerns.",
+    "tips": [
+      "The city is safe to walk alone at night, but stick to well-lit main streets and popular areas",
+      "Norwegian men generally respect personal boundaries - unsolicited approaches are rare and cultural norms discourage aggressive behavior",
+      "Public transport is very safe at all hours, with good lighting and regular security presence",
+      "Emergency services are highly efficient and most staff speak excellent English",
+      "Join the many local outdoor activities - Norwegians deeply respect solo hikers and nature enthusiasts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Oslo maintains excellent safety standards after dark with well-lit streets, reliable public transport until midnight, and a generally peaceful nightlife scene. The biggest risks are alcohol-related incidents among locals on weekends, but tourists rarely encounter problems. Police presence is visible in entertainment districts.",
+    "tips": [
+      "Nightlife areas like Grünerløkka and Aker Brygge stay busy and safe until late with good crowd density",
+      "Public transport runs until midnight with extended weekend service - much safer than unlicensed taxis",
+      "Avoid visibly intoxicated behavior and never leave drinks unattended in bars",
+      "The area around Oslo Central Station can attract some drug users - not dangerous but best avoided late at night",
+      "Emergency services respond quickly and most hospitality staff speak English if you need help"
+    ]
+  },
+  "transport": {
+    "metro": "The T-bane metro system is exceptionally safe, clean, and efficient. Operating until midnight with extended weekend hours, it serves all major tourist areas. CCTV coverage and regular staff presence ensure security. Validated tickets are required - fines are substantial but inspectors are professional.",
+    "rideshare": "Uber and Bolt operate throughout Oslo offering transparent pricing and driver tracking. Generally safe and reliable alternative to traditional taxis, though still expensive by international standards. Particularly useful for airport transfers where you can compare prices.",
+    "taxis": "Licensed taxis are safe but very expensive. Use only official taxis with meters and taxi permits. Booking through hotel concierges or official apps ensures legitimacy. Avoid unlicensed operators around nightclub areas. All legitimate taxis accept card payments.",
+    "tips": "Public transport is your safest and most economical option. Buy tickets through the Ruter app to avoid higher on-board prices. Keep validated tickets until your journey ends as inspections are common and fines are around 750 NOK."
+  },
+  "customs": [
+    "Remove shoes when entering Norwegian homes - this is strictly observed and shows respect for cleanliness",
+    "Norwegians value personal space highly - maintain arm's length distance and avoid physical contact unless well acquainted",
+    "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+    "The Law of Jante emphasizes equality and modesty - avoid boasting about achievements or displaying wealth ostentatiously",
+    "Embrace 'friluftsliv' (outdoor life) - Norwegians deeply respect those who enjoy nature and outdoor activities regardless of weather"
+  ],
+  "health": {
+    "overview": "Norway has world-class healthcare with excellent medical facilities throughout Oslo. The tap water is among the world's cleanest and safe to drink. Healthcare costs can be high for non-EU visitors so comprehensive travel insurance is essential.",
+    "water": "Tap water in Oslo is completely safe to drink and often tastes better than bottled water. The city's water supply undergoes rigorous testing and treatment, making bottled water unnecessary.",
+    "vaccinations": "No special vaccinations required for Norway. Routine vaccines like MMR should be current. EU citizens should carry European Health Insurance Card (EHIC) for coverage.",
+    "altitude": "Oslo sits at sea level with a temperate climate. Summer temperatures average 15-20°C while winter can drop to -10°C. No altitude concerns but dress appropriately for weather conditions and potential rapid changes."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "113",
+    "fire": "110",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Oslo: Morgedalsvegen 36, 0378 Oslo. Phone: +47 2130-8540. Emergency after-hours: +47 2130-8540. Email: osloacs@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Oslo safe for tourists?",
+      "a": "Yes, Oslo is exceptionally safe for tourists and ranks among the world's safest capital cities. Violent crime is almost non-existent, and the main concerns are minor issues like pickpocketing in crowded areas."
+    },
+    {
+      "q": "Is Oslo safe at night?",
+      "a": "Oslo is very safe at night with good street lighting, active nightlife areas, and public transport running until midnight. The main precaution is avoiding the area around Central Station late at night."
+    },
+    {
+      "q": "Is Oslo safe for solo female travelers?",
+      "a": "Oslo is one of the world's best destinations for solo female travelers. Norway's progressive culture, excellent gender equality, and very low crime rates make it exceptionally safe for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Oslo?",
+      "a": "There are no truly dangerous areas, but exercise extra caution around Oslo Central Station at night and be aware of pickpockets in tourist-heavy areas like Karl Johan Gate. Grønland/Tøyen requires normal urban awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Oslo?",
+      "a": "Public transport in Oslo is very safe, efficient, and reliable. The metro, trams, and buses have good security measures, CCTV coverage, and run until midnight with extended weekend service."
+    }
+  ],
+  "relatedCities": [
+    "stockholm",
+    "copenhagen",
+    "helsinki",
+    "reykjavik",
+    "bergen"
+  ],
+  "_city_id": "oslo-norway"
+}
