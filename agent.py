@@ -784,7 +784,7 @@ def merge_into_site_data(new_cities: list[dict]):
 
 
 def update_sitemap(new_cities: list[dict]):
-    """Add new city URLs to the sitemap."""
+    """Add new city and country URLs to the sitemap."""
     sitemap_path = Path("./public/sitemap.xml")
     if not sitemap_path.exists():
         logging.warning("sitemap.xml not found, skipping sitemap update")
@@ -793,14 +793,33 @@ def update_sitemap(new_cities: list[dict]):
     with open(sitemap_path) as f:
         content = f.read()
 
+    today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     new_entries = ""
     for city in new_cities:
         slug = city.get("slug", "")
         if slug and f"/cities/{slug}" not in content:
             new_entries += f"""  <url>
     <loc>https://www.isitsafetovisit.com/cities/{slug}</loc>
-    <lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>
+    <lastmod>{today}</lastmod>
     <priority>0.8</priority>
+  </url>
+"""
+
+    # Add country URLs for any new countries in this batch
+    seen_country_slugs = set()
+    for city in new_cities:
+        country = city.get("country", "")
+        if not country:
+            continue
+        country_slug = country.lower().replace(" ", "-")
+        if country_slug in seen_country_slugs:
+            continue
+        seen_country_slugs.add(country_slug)
+        if f"/countries/{country_slug}" not in content:
+            new_entries += f"""  <url>
+    <loc>https://www.isitsafetovisit.com/countries/{country_slug}</loc>
+    <lastmod>{today}</lastmod>
+    <priority>0.7</priority>
   </url>
 """
 
