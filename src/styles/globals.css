@@ -1559,3 +1559,31 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
 
 /* Countries index page */
 .countries-index-page { padding-bottom: 4rem; }
+
+/* Region detail country chips */
+.region-detail-countries {
+  padding: 1.25rem 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.region-country-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.region-country-chip {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  background: var(--paper-warm);
+  border: 1.5px solid var(--border);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  transition: all 0.15s;
+}
+.region-country-chip:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}

@@ -232,6 +232,10 @@ const SCORE_COLORS: Record<string, string> = {
   none: '#cbd5e1',
 };
 
+function toCountrySlug(str: string) {
+  return str.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
 type Props = { cities: City[] };
 
 export default function RegionsMap({ cities }: Props) {
@@ -386,6 +390,17 @@ export default function RegionsMap({ cities }: Props) {
               <ul className="region-detail-list">
                 {info.travelTips.map((t, i) => <li key={i}>{t}</li>)}
               </ul>
+            </div>
+          </div>
+
+          <div className="region-detail-countries">
+            <h3 className="region-detail-section-title" style={{marginBottom:'0.75rem'}}>🌍 Countries in {selected}</h3>
+            <div className="region-country-chips">
+              {Array.from(new Set(selectedCities.map(c => c.country))).sort().map(country => (
+                <Link key={country} href={`/countries/${toCountrySlug(country)}`} className="region-country-chip">
+                  {country}
+                </Link>
+              ))}
             </div>
           </div>
 
