@@ -14,8 +14,7 @@ export default function Nav() {
         </Link>
         <ul className="nav-links">
           <li>
-            <Link href="/countries" className={pathname === '/countries' || pathname.startsWith('/countries/') ? 'nav-link active' : 'nav-link'}>Countries</Link>
-        <Link href="/cities" className={pathname?.startsWith('/cities') ? 'nav-link active' : 'nav-link'}>
+            <Link href="/cities" className={pathname?.startsWith('/cities') ? 'nav-link active' : 'nav-link'}>
               Cities
             </Link>
           </li>

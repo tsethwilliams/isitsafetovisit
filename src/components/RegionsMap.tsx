@@ -347,7 +347,7 @@ export default function RegionsMap({ cities }: Props) {
                   <span className={`region-detail-score score-${getScoreClass(regionAvg)}`}>
                     {regionAvg.toFixed(1)} avg safety score
                   </span>
-                  <span className="region-detail-citycount">{selectedCities.length} cities tracked</span>
+                  <span className="region-detail-citycount">{selectedCities.length} {selectedCities.length === 1 ? 'city' : 'cities'} tracked</span>
                 </div>
               </div>
             </div>
