@@ -73,7 +73,7 @@ export default function CountryPage({ params }: { params: { slug: string } }) {
   const categoryAvgs: Record<string, number> = {};
   const scoreKeys = ['pettyCrime','violentCrime','scamRisk','womensSafety','nightSafety','transport','naturalHazards'];
   for (const key of scoreKeys) {
-    const vals = countryCities.filter(c => c.scores?.[key as keyof typeof c.scores]).map(c => (c.scores as Record<string, number>)[key]);
+    const vals = countryCities.filter(c => c.scores != null).map(c => (c.scores as unknown as Record<string, number>)[key]).filter((v): v is number => typeof v === 'number');
     if (vals.length) categoryAvgs[key] = vals.reduce((a, b) => a + b, 0) / vals.length;
   }
 
