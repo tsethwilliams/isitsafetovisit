@@ -1,0 +1,165 @@
+{
+  "slug": "santiago",
+  "name": "Santiago",
+  "country": "Chile",
+  "countryCode": "CL",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Santiago is Chile's modern capital city with a moderate level of safety that requires common sense and basic precautions. While violent crime against tourists remains relatively low, petty theft, pickpocketing, and tourist scams have increased significantly since 2019.",
+  "quickVerdict": "Santiago offers tourists a generally manageable safety environment when proper precautions are taken. The city ranks as one of South America's safer capitals, though crime rates have risen in recent years. Petty theft is the primary concern, particularly in crowded areas like Plaza de Armas, Bellavista, and on public transportation. The US State Department currently rates Chile at Level 2: Exercise Increased Caution due to crime and civil unrest, placing it in the same category as France or the UK. Most incidents involve non-violent property crime rather than violent attacks against tourists.",
+  "neighborhoods": [
+    {
+      "name": "Las Condes",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Often called 'Sanhattan,' this upscale financial district offers excellent security, modern infrastructure, and high-end shopping. Well-lit streets with visible security presence make it ideal for tourists."
+    },
+    {
+      "name": "Providencia",
+      "score": 7.5,
+      "class": "safe",
+      "description": "A trendy residential and business area with excellent restaurants, cafes, and parks. Generally safe with good lighting and foot traffic, though some caution needed in quieter areas after dark."
+    },
+    {
+      "name": "Vitacura",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Family-friendly upscale neighborhood known for green spaces and luxury amenities. Excellent safety record with low crime rates and strong police presence throughout the day and night."
+    },
+    {
+      "name": "Lastarria",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Bohemian cultural district with historic architecture and vibrant arts scene. Safe during daylight hours but requires extra vigilance at night due to increased petty crime in recent years."
+    },
+    {
+      "name": "Bellavista",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Popular nightlife and cultural area near San Cristobal Hill. Crowded tourist zone with increased pickpocketing and scam activity, especially after dark. Use taxis for transportation at night."
+    },
+    {
+      "name": "Centro/Plaza de Armas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Historic city center with colonial architecture and major attractions. High risk of petty crime during the day and should be avoided entirely after sunset. Frequent reports of pickpocketing and bag snatching."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Thieves work in teams where one person creates a distraction (spilling something on you, asking for directions) while an accomplice steals your belongings. Common at tourist sites and Plaza de Armas.",
+      "howToAvoid": "Stay alert when approached by strangers offering help. Keep bags in front of you and be suspicious of anyone who tries to touch or clean you after a 'spill.'"
+    },
+    {
+      "name": "Fake Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers target tourists with inflated fares or broken meters, particularly at the airport. Some drivers may take longer routes or claim the meter is broken.",
+      "howToAvoid": "Use official airport taxis from designated counters, ride-sharing apps like Uber or Cabify, or pre-arranged hotel transfers. Ensure licensed taxis have yellow roofs and visible company logos."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Criminals install devices on ATMs to steal card information, particularly in downtown areas. Fake keypads and card readers are used to capture PIN numbers and card data.",
+      "howToAvoid": "Use ATMs inside banks or shopping malls rather than street-side machines. Cover your PIN when entering it and check for any unusual attachments on the card reader."
+    },
+    {
+      "name": "Punctured Tire Scam",
+      "risk": "medium",
+      "description": "Thieves deliberately puncture rental car tires to create a distraction while tourists stop to inspect the damage, then steal belongings from the vehicle during the confusion.",
+      "howToAvoid": "Keep valuables out of sight in vehicles. If you experience a sudden tire issue, drive to a safe, well-lit area before stopping. Don't leave bags visible in parked cars."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Santiago is generally safe for solo female travelers when basic precautions are followed. Chile ranks as one of the safest South American countries for women, with a solo female travel safety index rating of 1.8 out of 4. Most female travelers report positive experiences, though catcalling and unwanted attention from men on the street can occur. The main risks involve petty theft rather than violent crime against women.",
+    "tips": [
+      "Stay in safe neighborhoods like Providencia, Las Condes, or Vitacura",
+      "Use rideshare apps like Uber or Cabify instead of flagging taxis on the street, especially at night",
+      "Avoid walking alone in poorly lit areas after dark and stick to main streets with good foot traffic",
+      "Don't openly display expensive jewelry, electronics, or large amounts of cash",
+      "Consider joining group tours or activities to meet other travelers and locals safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Santiago's nightlife safety has declined since 2019, with many bars and clubs now closing earlier due to security concerns. Previously vibrant areas like Bellavista, Barrio Italia, and Lastarria have become less safe after dark. The safest nightlife options are in upscale areas like Vitacura and Las Condes, which maintain better security. Most locals now avoid central Santiago after 7 PM.",
+    "tips": [
+      "Use the 'Uber-to-door' policy - never walk more than a block at night, even in safe neighborhoods",
+      "Choose high-end venues in Vitacura or Las Condes which have strict security and upscale crowds",
+      "Join organized pub crawls in areas like Bellavista for safer group exploration of nightlife",
+      "Avoid downtown Santiago including Plaza de Armas and Mercado Central areas completely after dark",
+      "Keep drinks in sight at all times and never accept drinks from strangers due to reported drink spiking incidents"
+    ]
+  },
+  "transport": {
+    "metro": "Santiago's Metro is generally safe, efficient, and well-maintained with artistic stations featuring murals. The system serves most tourist destinations, though coverage in Las Condes is limited. Line 1 is most convenient for visitors. Watch for pickpockets during rush hours and keep belongings secure. The metro closes around 10:30 PM and requires a Bip! card for payment.",
+    "rideshare": "Uber, Cabify, and DiDi operate extensively in Santiago and are often safer and cheaper than traditional taxis. While technically not fully legal, these services are widely used and tolerated. They offer GPS tracking and driver details for added security. Expect surge pricing during peak hours or bad weather.",
+    "taxis": "Official taxis have black bodies with yellow roofs and should display taxi company logos. Always ensure the meter is running and visible. Radio taxis called by phone are safer but slightly more expensive. Avoid unlicensed taxis, especially at the airport. Typical fares: base rate 300-400 CLP plus 130-150 CLP per 200 meters.",
+    "tips": "Use the integrated Bip! card for metro and buses. Avoid displaying valuables on public transport. During rush hours, metro can be extremely crowded. Consider staying near metro stations if staying in budget areas. Airport transfers: official taxis cost 25,000-35,000 CLP to city center."
+  },
+  "customs": [
+    "Greet with a handshake when meeting for the first time; friends greet with a kiss on the right cheek",
+    "Use formal titles (Señor/Señora) and surnames until invited to use first names",
+    "Maintain direct eye contact during conversations and stand closer than typical North American/Northern European distances",
+    "Arrive 30-60 minutes late to social events as punctuality to parties is considered rude",
+    "Always finish food on your plate as leaving food suggests you didn't enjoy the meal"
+  ],
+  "health": {
+    "overview": "Chile has excellent healthcare standards, ranking 33rd globally according to the WHO - similar to Australia and Denmark. Santiago has world-class medical facilities with many internationally-trained doctors who speak English. The city has both public (FONASA) and private healthcare systems, with private clinics offering shorter wait times.",
+    "water": "Tap water in Santiago is safe to drink and Chileans take pride in their water quality. The water meets international safety standards, though travelers with sensitive stomachs may prefer bottled water initially.",
+    "vaccinations": "No special vaccinations required for Santiago. Routine vaccines should be up to date. Consider hepatitis A and typhoid for rural travel outside Santiago.",
+    "altitude": "Santiago sits at 520 meters (1,706 feet) above sea level, so altitude is not a concern. The city has a Mediterranean climate with hot, dry summers (Nov-Feb) reaching 30°C and mild winters rarely below 0°C."
+  },
+  "emergency": {
+    "general": "131 (Ambulance), 132 (Fire), 133 (Police)",
+    "police": "133 (Carabineros - general police)",
+    "ambulance": "131 (SAMU)",
+    "fire": "132 (Bomberos)",
+    "touristPolice": "133 (through general Carabineros)",
+    "usEmbassy": "US Embassy Santiago: +56 2 2330-3000 (24hrs), Located at Avenida Andres Bello 2800, Las Condes. Emergency after-hours: +56 2 2330-3000. Email: SantiagoUSA@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Santiago safe for tourists?",
+      "a": "Yes, Santiago is generally safe for tourists who take basic precautions. It's one of South America's safer capitals, though petty crime has increased since 2019. Most issues involve pickpocketing and theft rather than violent crime. Stay in safe neighborhoods, use official transportation, and avoid displaying valuables."
+    },
+    {
+      "q": "Is Santiago safe at night?",
+      "a": "Santiago's night safety varies greatly by location. Upscale areas like Las Condes and Vitacura remain relatively safe, while downtown Santiago and even popular areas like Bellavista have become less secure after dark. Always use taxis or rideshare apps for nighttime transportation and avoid walking alone."
+    },
+    {
+      "q": "Is Santiago safe for solo female travelers?",
+      "a": "Santiago is considered one of the safer South American cities for solo female travelers, with a safety rating of 1.8/4. Most women travel without serious incidents. Main precautions include staying in safe neighborhoods, using reputable transportation, avoiding isolated areas at night, and being aware of potential catcalling."
+    },
+    {
+      "q": "What areas should I avoid in Santiago?",
+      "a": "Avoid downtown Santiago (Centro) and Plaza de Armas area after dark. Be cautious in Bellavista and Lastarria at night. Completely avoid neighborhoods like Estación Central, parts of El Centro after sunset, and peripheral areas like Villa Francia, La Victoria, and San Bernardo mentioned in US State Dept warnings."
+    },
+    {
+      "q": "Is it safe to use public transport in Santiago?",
+      "a": "Yes, Santiago's public transport is generally safe during daylight hours. The Metro is efficient and secure, though watch for pickpockets during rush hours. Buses are reliable but can be crowded. Use the Bip! card system for payments and keep belongings secure. Avoid late-night public transport."
+    }
+  ],
+  "relatedCities": [
+    "valparaiso",
+    "buenos-aires",
+    "lima",
+    "bogota",
+    "montevideo"
+  ],
+  "_city_id": "santiago-chile"
+}

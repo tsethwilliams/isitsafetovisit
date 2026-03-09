@@ -1,0 +1,165 @@
+{
+  "slug": "lima",
+  "name": "Lima",
+  "country": "Peru",
+  "countryCode": "PE",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.2,
+    "nightSafety": 6.0,
+    "transport": 6.5,
+    "naturalHazards": 8.1
+  },
+  "summary": "Peru's vibrant capital offers world-class cuisine and cultural attractions but requires careful attention to safety protocols. Lima presents moderate crime risks primarily involving petty theft and scams targeting tourists in popular areas.",
+  "quickVerdict": "Lima is generally safe for tourists who exercise common sense and stay in recommended areas. While crime exists, most incidents involve pickpocketing and street theft rather than violent crime. The city has strong tourism infrastructure in districts like Miraflores and Barranco, with reliable transport options and emergency services. Following basic urban safety precautions significantly reduces risk.",
+  "neighborhoods": [
+    {
+      "name": "Miraflores",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Lima's premier tourist district with strong security presence, upscale hotels, and well-lit streets. Generally safe day and night with active police patrols and private security. Main risks are pickpocketing in crowded areas."
+    },
+    {
+      "name": "San Isidro",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Affluent business district with excellent security, upscale restaurants, and modern amenities. Considered one of Lima's safest areas with minimal crime rates. Popular with business travelers and families."
+    },
+    {
+      "name": "Barranco",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Bohemian arts district with vibrant nightlife and colonial architecture. Generally safe during the day and evening in main areas, though quieter streets require more caution after midnight. Strong tourist police presence."
+    },
+    {
+      "name": "Lima Centro",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic downtown with major attractions but higher crime rates. Safe during daylight hours with tour groups but avoid walking alone at night. Increased pickpocketing risk in crowded plazas and markets."
+    },
+    {
+      "name": "La Victoria",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Commercial district with major markets but significant crime risks. High rates of robbery and theft, especially around Gamarra textile district. Avoid after dark and exercise extreme caution even during day."
+    },
+    {
+      "name": "Callao",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Port district housing the airport with notorious crime reputation. Some areas experience high robbery rates and drug-related violence. Stick to airport area and main routes, avoid exploring on foot."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Currency Exchange",
+      "risk": "high",
+      "description": "Street vendors and some taxi drivers give counterfeit bills as change or during currency exchanges. Peru produces significant amounts of counterfeit US dollars and soles.",
+      "howToAvoid": "Only exchange money at banks or authorized exchange houses. Check bills carefully for watermarks and texture. Avoid street money changers completely."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "high",
+      "description": "Criminals clone credit cards at ATMs, restaurants, and shops, especially targeting tourists. Multiple charges appear after the transaction seems successful.",
+      "howToAvoid": "Use ATMs inside banks or shopping centers only. Cover your PIN entry. Monitor accounts closely and report suspicious activity immediately."
+    },
+    {
+      "name": "Fake Police Checkpoints",
+      "risk": "medium",
+      "description": "Scammers posing as police request to see passports and wallets, then steal cash or demand bribes. Often work in pairs near tourist areas.",
+      "howToAvoid": "Real police have proper identification and uniforms. Ask to see credentials and offer to go to the nearest police station. Never hand over your passport or wallet."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Teams of thieves create distractions while accomplices steal phones, bags, or valuables. Common in markets, plazas, and crowded transport.",
+      "howToAvoid": "Keep valuables in front pockets or money belts. Stay alert in crowds. If someone spills something on you or creates a commotion, immediately check your belongings."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lima is generally safe for solo female travelers who take standard precautions. The city receives thousands of independent female visitors annually. Main concerns include street harassment, accommodation safety, and navigating transport alone. Tourist areas like Miraflores have strong security infrastructure and supportive backpacker communities.",
+    "tips": [
+      "Use rideshare apps like Uber or Cabify instead of street taxis, especially at night",
+      "Stay in well-reviewed accommodations in Miraflores, Barranco, or San Isidro districts",
+      "Ignore catcalling completely - avoid eye contact and keep walking confidently",
+      "Don't leave drinks unattended in bars and clubs due to spiking risks",
+      "Dress modestly when visiting churches or rural areas outside the city"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lima's nightlife is generally safe in tourist districts with proper precautions. Miraflores and Barranco have active security presence and well-lit streets. Most venues close between 2-4 AM. Avoid walking alone in poorly lit areas and stick to busy, well-patrolled neighborhoods after dark.",
+    "tips": [
+      "Stick to well-lit main streets in Miraflores and Barranco after 10 PM",
+      "Use rideshare apps for transportation - confirm driver details before getting in",
+      "Avoid carrying large amounts of cash or displaying expensive items",
+      "Stay in groups when possible and let someone know your plans",
+      "Be extra cautious around Kennedy Park and Larcomar despite heavy foot traffic"
+    ]
+  },
+  "transport": {
+    "metro": "Line 1 runs east-west but doesn't serve major tourist areas well. Modern, air-conditioned trains cost S/1.50 per trip. Generally safe but watch belongings and avoid back pockets. Limited usefulness for sightseeing.",
+    "rideshare": "Uber and Cabify widely available and considered safer than street taxis. Generally reliable with upfront pricing. Verify driver and vehicle details. Airport pickups require following app instructions to designated areas.",
+    "taxis": "Use only official taxis with SETAME stickers or hotel-arranged services. Negotiate fares before starting as meters aren't used. Avoid unmarked street taxis, especially at terminals and airport. Green Taxi company is reputable.",
+    "tips": "The official Airport Express Lima bus is safest and cheapest for airport transfers. Public buses are crowded and confusing for tourists. Keep valuables secure on all transport and avoid displaying phones near windows."
+  },
+  "customs": [
+    "Greet with handshakes or single cheek kiss for women; men give half-hugs if familiar",
+    "Arrive 15-30 minutes late to social events unless specifically told 'hora inglesa' (on time)",
+    "Keep hands visible above table when dining and don't switch utensils between hands",
+    "Dress formally and modestly, especially in rural areas and religious sites",
+    "Respect for elders is important - offer seats and let them speak first"
+  ],
+  "health": {
+    "overview": "Lima has decent healthcare infrastructure with private hospitals offering high-quality care. Public system is strained but emergency services function. Private clinics in Miraflores and San Isidro meet international standards. Medical evacuation insurance recommended.",
+    "water": "Tap water not safe to drink. Use bottled or filtered water. Ice in tourist restaurants generally safe but avoid street vendors. Brush teeth with bottled water to be cautious.",
+    "vaccinations": "No special vaccines required for Lima city visits. Routine vaccines recommended: MMR, DPT, flu, COVID-19. Yellow fever only needed if traveling to Amazon regions afterward.",
+    "altitude": "Lima sits at sea level so no altitude concerns. However, coastal humidity can feel heavy. El Niño weather patterns can bring heavy rains and flooding during summer months (Dec-Mar)."
+  },
+  "emergency": {
+    "general": "105",
+    "police": "105",
+    "ambulance": "106/117",
+    "fire": "116",
+    "touristPolice": "460-1060",
+    "usEmbassy": "US Embassy Lima located at Avenida La Encalada, Surco. 24-hour emergency line: +51-1-618-2000. Register with STEP program for safety updates."
+  },
+  "faq": [
+    {
+      "q": "Is Lima safe for tourists?",
+      "a": "Yes, Lima is generally safe for tourists who stick to recommended areas and take standard precautions. Most crime involves petty theft rather than violence. Miraflores and San Isidro are particularly safe with strong security presence."
+    },
+    {
+      "q": "Is Lima safe at night?",
+      "a": "Lima's tourist districts are reasonably safe at night with proper precautions. Stay in well-lit areas of Miraflores and Barranco, use rideshare apps for transport, and avoid walking alone in quiet areas after midnight."
+    },
+    {
+      "q": "Is Lima safe for solo female travelers?",
+      "a": "Yes, thousands of women visit Lima independently each year. Main concerns are street harassment and transport safety. Use Uber/Cabify, stay in tourist areas, ignore catcalls, and don't leave drinks unattended in bars."
+    },
+    {
+      "q": "What areas should I avoid in Lima?",
+      "a": "Avoid La Victoria (especially at night), parts of Callao outside the airport route, and downtown Lima after dark. Even in safe areas, avoid displaying valuables and stay alert in crowded places like markets."
+    },
+    {
+      "q": "Is it safe to use public transport in Lima?",
+      "a": "The Metro Line 1 and Metropolitano bus system are relatively safe but watch for pickpockets. Rideshare apps are safer than street taxis. The official Airport Express bus is recommended for airport transfers."
+    }
+  ],
+  "relatedCities": [
+    "cusco",
+    "arequipa",
+    "bogota",
+    "quito",
+    "santiago"
+  ],
+  "_city_id": "lima-peru"
+}

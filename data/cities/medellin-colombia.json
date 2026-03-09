@@ -1,0 +1,161 @@
+{
+  "slug": "medellin",
+  "name": "Medellín",
+  "country": "Colombia",
+  "countryCode": "CO",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 6.8,
+    "scamRisk": 5.2,
+    "womensSafety": 6.1,
+    "nightSafety": 5.5,
+    "transport": 7.8,
+    "naturalHazards": 8.3
+  },
+  "summary": "Medellín has undergone a remarkable transformation from its troubled past, with homicide rates dropping from 381 per 100,000 in 1991 to around 14 per 100,000 in 2024. While petty crime remains a concern, the city offers excellent public transport and is generally safe in tourist areas with proper precautions.",
+  "quickVerdict": "Medellín is moderately safe for tourists who stay alert and follow basic security protocols. Tourist areas like El Poblado and Laureles are relatively secure during the day, but visitors should avoid walking alone at night and be particularly cautious of phone theft, armed robberies, and dating app scams targeting foreigners. The city's excellent metro system and improved infrastructure make it accessible, but crime rates vary significantly by neighborhood.",
+  "neighborhoods": [
+    {
+      "name": "El Poblado",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Medellín's main tourist hub with hotels, restaurants, and nightlife. Generally safe during the day with police presence, but can be risky around Parque Lleras at night. Popular with digital nomads and expats."
+    },
+    {
+      "name": "Laureles",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential neighborhood favored by locals and long-term expats. Calmer than El Poblado with good walkability during the day, tree-lined streets, and excellent connectivity to the metro system."
+    },
+    {
+      "name": "La Candelaria (El Centro)",
+      "score": 3.8,
+      "class": "danger",
+      "description": "The historic downtown area has the highest crime rates in the city. While interesting for daytime sightseeing near Plaza Botero, it becomes dangerous after dark and should be avoided at night."
+    },
+    {
+      "name": "Envigado",
+      "score": 7.5,
+      "class": "safe",
+      "description": "A separate municipality south of Medellín connected by metro. Quieter and more residential than central areas, popular with families and offering good value for longer stays."
+    },
+    {
+      "name": "Comuna 13",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Once extremely dangerous, now a popular tourist destination for its street art and transformation story. Safe during organized tours in daylight but avoid independent exploration."
+    },
+    {
+      "name": "Sabaneta",
+      "score": 7.6,
+      "class": "safe",
+      "description": "Small town south of Medellín accessible by metro. Very safe, family-oriented community with a traditional feel and lower crime rates than central Medellín."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Scopolamine Dating Scam",
+      "risk": "high",
+      "description": "Criminals use dating apps to target foreign men, drug them with scopolamine (burundanga), then rob them. Victims lose memory and are completely vulnerable.",
+      "howToAvoid": "Never accept drinks from strangers, meet only in public places, avoid taking dates to private locations, and limit alcohol consumption. Trust your instincts if feeling unusually drowsy."
+    },
+    {
+      "name": "Phone Theft",
+      "risk": "high",
+      "description": "Most common crime affecting tourists. Thieves on motorcycles or on foot snatch phones, especially from distracted users. Often happens on busy streets or near the metro.",
+      "howToAvoid": "Keep your phone hidden when not in use, avoid using it while walking, stay aware of motorcycles approaching, and consider carrying a decoy phone."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers take longer routes or claim broken meters to overcharge tourists. May also provide counterfeit change from large bills.",
+      "howToAvoid": "Use ride-hailing apps like Uber or DiDi when possible, ensure the meter is running, agree on fares beforehand for unofficial taxis, and carry small bills."
+    },
+    {
+      "name": "Fake Police",
+      "risk": "medium",
+      "description": "Criminals pose as police officers asking to check documents or money for counterfeiting, then steal valuables during the 'inspection' process.",
+      "howToAvoid": "Ask to be escorted to the nearest police station (CAI), verify credentials carefully, never hand over money or valuables, and know that real police rarely conduct street document checks."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Medellín requires extra caution but is manageable with proper precautions. Women should avoid walking alone at night, be particularly careful in nightlife areas, and stay in well-reviewed accommodations. Many female travelers report positive experiences when following safety guidelines.",
+    "tips": [
+      "Stay in secure accommodations in El Poblado or Laureles with 24/7 reception",
+      "Use rideshare apps or official taxis instead of walking after dark",
+      "Dress conservatively and avoid displaying expensive jewelry or electronics",
+      "Be extra cautious of drink spiking in bars and never accept drinks from strangers",
+      "Join group tours or connect with other female travelers through hostels or expat communities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Medellín becomes significantly less safe after dark, particularly outside tourist areas. Armed robberies increase at night, and even safe neighborhoods can become risky. The metro stops running around 10 PM, limiting transport options.",
+    "tips": [
+      "Avoid walking alone at night, especially in poorly lit areas",
+      "Use rideshare apps or official taxis for all nighttime transportation",
+      "Stay in groups when going out and designate a sober person to watch for dangers",
+      "Avoid Parque Lleras area late at night due to increased criminal activity",
+      "Keep nighttime activities to well-known, crowded venues with security presence"
+    ]
+  },
+  "transport": {
+    "metro": "Medellín's metro system is excellent - clean, efficient, and generally safe during operating hours (5:30 AM to 10:00 PM). Watch for pickpockets during rush hours and avoid displaying valuables. The integrated system includes metro, metrocable, and tram.",
+    "rideshare": "Uber, DiDi, and Cabify operate in Medellín, though technically illegal. They're generally safer than street taxis. Always verify license plate and driver details in the app before getting in. Useful for airport transfers and nighttime travel.",
+    "taxis": "Official yellow taxis are generally safe and must use meters. Companies like Taxis Libres offer phone booking. Avoid unmarked or suspicious vehicles. Ensure meter is running and have small bills ready. Airport taxis have fixed rates.",
+    "tips": "The integrated transport system is one of Medellín's highlights. Buy a Cívica card for all public transport. Avoid buses at night and be extra careful with belongings during peak hours."
+  },
+  "customs": [
+    "Greet with handshakes (men) or cheek kisses (women and mixed gender); use formal address 'usted' initially",
+    "Colombians value personal relationships - small talk about family and health is important before business",
+    "'Colombian time' allows 15-30 minutes lateness for social events, but be punctual for business meetings"
+  ],
+  "health": {
+    "overview": "Medellín has good healthcare facilities and is not a high-risk area for tropical diseases. The city sits at 1,500 meters elevation, so some visitors may experience mild altitude adjustment. Tap water is generally safe in the city.",
+    "water": "Tap water in Medellín is generally safe to drink, but bottled water is widely available and may be preferable for sensitive stomachs. Avoid ice in street vendors.",
+    "vaccinations": "Yellow fever vaccination not required for Medellín specifically, though recommended if traveling to rural areas under 2,300m elevation. Routine vaccinations should be up to date. Consider hepatitis A/B and typhoid.",
+    "altitude": "At 1,500m elevation, most people adjust well, but take it easy on arrival, stay hydrated, and avoid excessive alcohol initially. The climate is spring-like year-round with temperatures 20-28°C."
+  },
+  "emergency": {
+    "general": "123",
+    "police": "112",
+    "ambulance": "123",
+    "fire": "119",
+    "touristPolice": "(1) 337-4413",
+    "usEmbassy": "U.S. Embassy Bogotá: +57-601-275-2000 (24/7 emergency line). The embassy provides citizen services and can assist with emergencies, document replacement, and legal issues."
+  },
+  "faq": [
+    {
+      "q": "Is Medellín safe for tourists?",
+      "a": "Medellín is moderately safe for tourists who take proper precautions. The city has transformed dramatically since the 1990s, with tourist areas like El Poblado and Laureles being relatively secure during the day. However, petty crime is common and visitors should remain vigilant, especially regarding phone theft and armed robberies."
+    },
+    {
+      "q": "Is Medellín safe at night?",
+      "a": "Medellín becomes significantly less safe after dark. Avoid walking alone at night, even in tourist areas. Use rideshare apps or official taxis for transportation, stay in well-lit crowded areas, and be extra cautious around nightlife zones like Parque Lleras where crime rates increase late at night."
+    },
+    {
+      "q": "Is Medellín safe for solo female travelers?",
+      "a": "Solo female travel in Medellín requires extra caution but is possible with proper planning. Stay in secure accommodations, avoid walking alone after dark, use rideshare apps, be very careful about drink spiking, and consider connecting with other travelers or expat communities for activities."
+    },
+    {
+      "q": "What areas should I avoid in Medellín?",
+      "a": "Avoid La Candelaria (downtown) after dark, Comuna 13 without organized tours, and the outskirts of the city. Even in safe areas like El Poblado, be cautious around Parque Lleras late at night. Stay away from poorly lit streets and areas with few people around."
+    },
+    {
+      "q": "Is it safe to use public transport in Medellín?",
+      "a": "Medellín's metro system is excellent and generally safe during operating hours. Watch for pickpockets during rush hours and keep valuables secure. The metro stops running around 10 PM, so plan alternative transport for late nights. Buses are less recommended, especially after dark."
+    }
+  ],
+  "relatedCities": [
+    "bogota",
+    "cartagena",
+    "cali"
+  ],
+  "_city_id": "medellin-colombia"
+}

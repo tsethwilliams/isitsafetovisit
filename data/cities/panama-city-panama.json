@@ -1,0 +1,165 @@
+{
+  "slug": "panama-city",
+  "name": "Panama City",
+  "country": "Panama",
+  "countryCode": "PA",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Panama City is a modern metropolis with safe tourist areas like Casco Viejo and Punta Pacifica, but requires caution due to petty crime and nearby unsafe neighborhoods. The city offers excellent transport infrastructure and is generally safer than many other Central American capitals.",
+  "quickVerdict": "Panama City presents a tale of two cities - gleaming modern districts and historic areas that are well-patrolled versus impoverished neighborhoods with higher crime rates. Tourists who stick to recommended areas like Casco Viejo, El Cangrejo, and Punta Pacifica will find a relatively safe environment. However, opportunistic crime like pickpocketing and purse snatching is common in tourist areas, and violent crime exists in certain districts. With proper precautions and awareness of your surroundings, most visitors have safe and enjoyable experiences in this cosmopolitan Central American hub.",
+  "neighborhoods": [
+    {
+      "name": "Casco Viejo",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic district with heavy tourist police presence, well-lit streets, and constant foot traffic. Generally safe day and night, but avoid walking out of the area after dark."
+    },
+    {
+      "name": "Punta Pacifica",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern skyscraper district with high-end hotels and restaurants. Wealthy area with good security presence and low crime rates. Very safe for tourists."
+    },
+    {
+      "name": "El Cangrejo",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular expat and tourist area with numerous restaurants and accommodations. Generally safe and walkable with good infrastructure."
+    },
+    {
+      "name": "Marbella",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Well-developed neighborhood with shopping centers and hotels. Considered one of the safer residential areas in the city."
+    },
+    {
+      "name": "El Chorrillo",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Impoverished area bordering Casco Viejo with high crime rates. Tourists should avoid this neighborhood entirely, especially at night."
+    },
+    {
+      "name": "San Miguelito",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Densely populated district with elevated crime rates and gang activity. No tourist attractions justify visiting this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Military Personnel Scam",
+      "risk": "high",
+      "description": "Scammers pose as stranded US military personnel with elaborate stories about lost passports and needing money. They target hotel bars and tourist areas.",
+      "howToAvoid": "Never give money to strangers with sob stories. Real military personnel have embassy procedures for emergencies. Verify through official channels if approached."
+    },
+    {
+      "name": "Counterfeit Bills",
+      "risk": "medium",
+      "description": "Fake $50 and $100 USD bills are common, especially from street money changers and some taxi drivers who swap real bills for fake ones.",
+      "howToAvoid": "Only exchange money at banks or official exchange bureaus. Check bills carefully and avoid street money changers."
+    },
+    {
+      "name": "Overpriced Airport Taxis",
+      "risk": "medium",
+      "description": "Taxi drivers claim Uber is illegal or buses aren't running to charge inflated rates of $50+ from the airport instead of normal $25-30.",
+      "howToAvoid": "Use official airport taxis with fixed rates or rideshare apps. Know the approximate fare beforehand."
+    },
+    {
+      "name": "Bird Poop Distraction",
+      "risk": "medium",
+      "description": "Someone spills liquid on you and offers to help clean it while an accomplice steals your wallet or valuables during the distraction.",
+      "howToAvoid": "Be suspicious of strangers offering help after spills. Keep valuables secure and move away from the situation quickly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Panama City is moderately safe for solo female travelers compared to other Central American capitals. The main tourist areas have good security presence and many female travelers visit without incident. However, women should expect catcalling and unwanted attention, particularly in crowded areas. Staying in safe neighborhoods, using Uber instead of street taxis at night, and avoiding revealing clothing helps minimize issues.",
+    "tips": [
+      "Stay in safe areas like Casco Viejo, El Cangrejo, or Punta Pacifica",
+      "Use Uber or official taxis rather than walking alone at night",
+      "Expect catcalling - ignore it and keep moving confidently",
+      "Dress modestly to avoid unwanted attention",
+      "Share your location with someone trusted and check in regularly"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Panama City's nighttime safety varies dramatically by neighborhood. Tourist areas like Casco Viejo have police presence and are generally safe, while surrounding areas become dangerous after dark. The modern districts remain relatively safe but caution is always advised. Public transport shuts down early, making taxis or rideshares essential for night travel.",
+    "tips": [
+      "Stick to well-lit, populated tourist areas after dark",
+      "Never walk from Casco Viejo to adjacent neighborhoods at night",
+      "Use Uber or official taxis for transportation - avoid walking",
+      "Travel in groups when possible",
+      "Avoid displaying expensive items or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "The Panama Metro is modern, safe, and efficient with good security presence. Two operational lines cover major areas with English signage. Operating hours are 5 AM-11 PM weekdays, closing slightly earlier on weekends. Very tourist-friendly and affordable.",
+    "rideshare": "Uber operates widely throughout Panama City with competitive pricing and good availability. Generally safer and more convenient than street taxis. Surge pricing occurs during rush hours and rain. Cabify also available as alternative.",
+    "taxis": "Licensed yellow taxis are available but some have no meters, requiring fare negotiation. Safety incidents reported with unmarked taxis. Fixed rates from airport around $30-35. Better to arrange pickups in advance rather than hailing on street.",
+    "tips": "Metro is excellent for daytime travel. Use rideshare apps over street taxis, especially at night. Always verify driver and vehicle details match the app before getting in."
+  },
+  "customs": [
+    "Greet people with 'Buenas' casually or 'Buenas Dias/Tardes' formally",
+    "Women typically hug and may give a single cheek kiss when greeting",
+    "Men shake hands with strangers, hug with friends and family",
+    "Tipping 10% in restaurants is customary but not obligatory",
+    "Dress modestly in indigenous areas and small towns"
+  ],
+  "health": {
+    "overview": "Panama City has good medical facilities compared to rural areas, with several private hospitals meeting international standards. Public healthcare exists but private care is recommended for serious issues.",
+    "water": "Tap water in Panama City is generally safe to drink and tastes good - a rarity in Central America. However, bottled water is recommended in outlying areas and islands.",
+    "vaccinations": "Routine vaccines should be up-to-date. Hepatitis A and B recommended. Yellow fever required if arriving from infected areas. Consider typhoid if eating street food.",
+    "altitude": "Panama City is at sea level. Climate is tropical with high humidity year-round. Dengue, Zika, and chikungunya are present - use insect repellent. Malaria risk is minimal in the city itself."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "104",
+    "ambulance": "911",
+    "fire": "103",
+    "touristPolice": "511-9260",
+    "usEmbassy": "Building 783, Demetrio Basilio Lakas Avenue, Clayton. Emergency: (507) 317-5000. For US citizens in emergencies, call this number and follow instructions for emergency calls."
+  },
+  "faq": [
+    {
+      "q": "Is Panama City safe for tourists?",
+      "a": "Panama City is relatively safe for tourists who stay in recommended areas like Casco Viejo, El Cangrejo, and Punta Pacifica. However, petty crime like pickpocketing is common in tourist areas, and some neighborhoods should be avoided entirely. Overall safer than many Central American capitals with proper precautions."
+    },
+    {
+      "q": "Is Panama City safe at night?",
+      "a": "Nighttime safety depends heavily on location. Tourist areas like Casco Viejo have police presence and are generally safe, but adjacent neighborhoods become dangerous after dark. Never walk between areas at night - use Uber or official taxis instead."
+    },
+    {
+      "q": "Is Panama City safe for solo female travelers?",
+      "a": "Panama City is moderately safe for solo female travelers compared to regional standards. Expect catcalling and unwanted attention, but serious incidents are uncommon in tourist areas. Stay in safe neighborhoods, use rideshare apps at night, and dress modestly to minimize issues."
+    },
+    {
+      "q": "What areas should I avoid in Panama City?",
+      "a": "Avoid El Chorrillo, San Miguelito, Curundú, and other impoverished neighborhoods entirely. Even near tourist areas, don't walk outside of Casco Viejo boundaries at night. The city of Colón (at the Caribbean end of the canal) has particularly high crime rates."
+    },
+    {
+      "q": "Is it safe to use public transport in Panama City?",
+      "a": "Yes, the Panama Metro is modern, safe, and tourist-friendly with security personnel and English signage. Metro buses are also generally safe during daylight hours. For night travel, use Uber or official taxis rather than public transport."
+    }
+  ],
+  "relatedCities": [
+    "san-jose-costa-rica",
+    "guatemala-city",
+    "tegucigalpa",
+    "managua",
+    "san-salvador"
+  ],
+  "_city_id": "panama-city-panama"
+}

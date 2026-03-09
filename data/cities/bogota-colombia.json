@@ -1,0 +1,160 @@
+{
+  "slug": "bogota",
+  "name": "Bogotá",
+  "country": "Colombia",
+  "countryCode": "CO",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 5.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 6.5,
+    "scamRisk": 5.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.5,
+    "transport": 6.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Bogotá is Colombia's capital city that has significantly improved its safety profile in recent years, with tourism growing 4.7% in 2025. While petty crime remains common, particularly pickpocketing and phone theft, violent crime rates are lower than Colombia's national average at 14.8 per 100,000 inhabitants.",
+  "quickVerdict": "Bogotá can be visited safely with proper precautions and awareness. The city benefits from increased police presence in tourist areas and has safer neighborhoods like Zona Rosa, Chapinero, and Usaquén. However, visitors must remain vigilant about street crime, avoid walking alone after dark, and be cautious in areas like La Candelaria at night. Using official transportation and staying in recommended areas significantly reduces risks.",
+  "neighborhoods": [
+    {
+      "name": "Usaquén",
+      "score": 8.5,
+      "class": "safe",
+      "description": "One of Bogotá's wealthiest and safest neighborhoods with robust policing, upscale restaurants, and vibrant Sunday markets. Safe even at night with visible police presence."
+    },
+    {
+      "name": "Zona Rosa",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The main nightlife district with heavy police presence, numerous bars, restaurants, and clubs. Generally safe for tourists with good security infrastructure."
+    },
+    {
+      "name": "Chapinero",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular area for young professionals and expats featuring trendy cafes, boutique hotels, and vibrant nightlife. Eastern side of Carrera 7 is particularly secure."
+    },
+    {
+      "name": "Teusaquillo",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area hosting government buildings and embassies. Family-friendly with good security, though less nightlife than other safe zones."
+    },
+    {
+      "name": "La Candelaria",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic center with major attractions like the Gold Museum. Safe during daylight hours but becomes risky after dark with increased crime and drug activity."
+    },
+    {
+      "name": "Ciudad Bolívar",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Southern district with high crime rates including robbery and violence. Not recommended for tourists, especially during rainy season when flooding adds additional risks."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "high",
+      "description": "Criminals pose as police officers asking to check documents or foreign currency, leading to theft or extortion.",
+      "howToAvoid": "Ask to be escorted to the nearest CAI (police station). Real officers will comply, fake ones will leave."
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "high",
+      "description": "Drivers use modified meters with hidden buttons to inflate fares, or claim wrong bill denominations when receiving payment.",
+      "howToAvoid": "Use ride-sharing apps like Uber or DiDi, or call official taxi companies. Never hail taxis from the street."
+    },
+    {
+      "name": "Free Gift Bracelet Scam",
+      "risk": "medium",
+      "description": "Often by Venezuelan migrants who offer 'free' bracelets, tie them on your wrist, then demand 50,000-100,000 COP payment.",
+      "howToAvoid": "Refuse any 'free' items from strangers. Say no firmly and walk away immediately."
+    },
+    {
+      "name": "Pay Whatever Shoe Cleaning",
+      "risk": "medium",
+      "description": "Street vendors offer shoe cleaning without mentioning price, then demand excessive payment after service is complete.",
+      "howToAvoid": "Always agree on price beforehand or politely decline street services from vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel is possible in Bogotá with proper precautions and awareness. Women may attract more attention due to cultural norms, but interactions are generally more curious than threatening. Many female solo travelers visit successfully by staying in safe areas and following security guidelines.",
+    "tips": [
+      "Stay in secure neighborhoods like Chapinero, Zona Rosa, or Usaquén with 24/7 security",
+      "Use ride-sharing apps rather than walking alone, especially at night",
+      "Be prepared for questions about marital status from taxi drivers - this is cultural curiosity, not threatening"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety diminishes significantly in Bogotá after dark. While areas like Zona Rosa and Usaquén remain relatively safe due to police presence, incidents of gunpoint and knifepoint robberies increase at night. Solo walks after dark are strongly discouraged throughout the city.",
+    "tips": [
+      "Always travel in groups and use official taxis or ride-sharing apps after dark",
+      "Stick to well-lit areas with heavy foot traffic and police presence",
+      "Be extremely cautious of drink spiking - never accept drinks from strangers and watch your beverages closely"
+    ]
+  },
+  "transport": {
+    "metro": "Bogotá's first metro line is under construction and expected to open in 2028. Currently, the TransMilenio BRT system serves as the primary mass transit with dedicated bus lanes and 2.9 million daily passengers.",
+    "rideshare": "Uber, DiDi, and Cabify operate legally in Bogotá and are generally the safest transport option. Rides from La Candelaria to the airport cost around $7 USD. Apps provide safety through driver tracking and cashless payments.",
+    "taxis": "Official yellow taxis are available but have higher scam risk. Many use modified meters or overcharge tourists. If using taxis, only call official companies or ask hotels to arrange pickup. Never hail taxis from the street.",
+    "tips": "TransMilenio is efficient but crowded and prone to pickpocketing during rush hours (7-9 AM, 5-7 PM). Use TuLlave card for payments and keep belongings secure in front-facing bags."
+  },
+  "customs": [
+    "Greet with handshakes; close friends may exchange air kisses on the cheek",
+    "Dress conservatively, especially when visiting religious sites or government buildings",
+    "Tipping 10% at restaurants is standard practice, though service charge may be included"
+  ],
+  "health": {
+    "overview": "Colombia has universal healthcare coverage for 99% of the population, though quality varies significantly between public and private facilities. The healthcare system faces ongoing financial challenges with recent hospital closures and service suspensions.",
+    "water": "Tap water in Bogotá is generally safe to drink as it meets WHO standards. However, many travelers prefer bottled water to avoid stomach upset during adjustment period.",
+    "vaccinations": "Yellow fever vaccination recommended for travel to certain regions. Routine vaccinations should be up to date including measles, as cases are rising globally. Dengue is a year-round risk in Colombia.",
+    "altitude": "Bogotá sits at 2,640 meters (8,660 feet) above sea level. Altitude sickness is common with symptoms including shortness of breath, nausea, and increased heart rate. Take time to acclimatize and stay hydrated."
+  },
+  "emergency": {
+    "general": "123",
+    "police": "112",
+    "ambulance": "125",
+    "fire": "119",
+    "touristPolice": "+57 601 337 4413",
+    "usEmbassy": "U.S. Embassy Bogotá: +57 601 275 2000 (24-hour emergency line available). Located in the diplomatic zone, providing services including emergency passport replacement, legal referrals, and citizen assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Bogotá safe for tourists?",
+      "a": "Yes, with proper precautions. Stay in recommended neighborhoods like Zona Rosa and Chapinero, avoid walking alone at night, use official transportation, and remain aware of surroundings. Tourist areas have increased police presence."
+    },
+    {
+      "q": "Is Bogotá safe at night?",
+      "a": "Safety decreases significantly after dark. While areas like Zona Rosa and Usaquén remain relatively safe with police presence, avoid walking alone at night anywhere in the city. Use ride-sharing apps or official taxis for transportation."
+    },
+    {
+      "q": "Is Bogotá safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit safely. Stay in secure accommodations in safe neighborhoods, use ride-sharing apps, and expect cultural curiosity about your single status, which is normal rather than threatening."
+    },
+    {
+      "q": "What areas should I avoid in Bogotá?",
+      "a": "Avoid Ciudad Bolívar and San Cristóbal due to high crime rates. Be very cautious in La Candelaria after dark. Stay away from poorly lit areas and empty streets throughout the city, especially at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Bogotá?",
+      "a": "TransMilenio is generally safe but crowded, especially during rush hours when pickpocketing increases. Keep valuables secure and avoid travel during peak times (7-9 AM, 5-7 PM) when possible. Ride-sharing apps are typically safer."
+    }
+  ],
+  "relatedCities": [
+    "medellin",
+    "cartagena",
+    "cali",
+    "lima",
+    "quito",
+    "caracas"
+  ],
+  "_city_id": "bogota-colombia"
+}

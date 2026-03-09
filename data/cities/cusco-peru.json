@@ -1,0 +1,162 @@
+{
+  "slug": "cusco",
+  "name": "Cusco",
+  "country": "Peru",
+  "countryCode": "PE",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Cusco is generally safe for tourists with proper precautions, despite Peru's Level 2 travel advisory. The ancient Inca capital sees millions of visitors annually with most experiencing no serious safety issues. Main risks include altitude sickness at 11,200 feet, petty crime in tourist areas, and occasional transportation scams.",
+  "quickVerdict": "Cusco remains one of Peru's safest destinations for international visitors due to its tourism-dependent economy and strong police presence in historic areas. While petty crime like pickpocketing occurs in crowded markets and tourist zones, violent crime against tourists is rare. The biggest health concern is altitude sickness, which affects many visitors arriving from sea level. With basic street smarts, pre-arranged transport, and gradual acclimatization, most travelers have safe and memorable visits to this UNESCO World Heritage city.",
+  "neighborhoods": [
+    {
+      "name": "Plaza de Armas",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic main square is well-lit and heavily patrolled by tourist police, making it safe day and night despite crowds"
+    },
+    {
+      "name": "San Blas",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Charming artisan quarter with cobblestone streets, popular with travelers and generally secure during daylight hours"
+    },
+    {
+      "name": "Historic Center",
+      "score": 7.2,
+      "class": "safe",
+      "description": "UNESCO heritage zone with good lighting and tourist infrastructure, safest areas for accommodation and dining"
+    },
+    {
+      "name": "San Pedro Market Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Busy traditional market prone to pickpocketing and bag snatching, requires extra vigilance with belongings"
+    },
+    {
+      "name": "Wanchaq",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Residential district with limited tourist infrastructure and higher crime rates, best avoided especially at night"
+    },
+    {
+      "name": "Santiago",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Poorly lit area with narrow streets and reputation for criminal activity, not recommended for tourists"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Operators",
+      "risk": "high",
+      "description": "Unlicensed agencies sell discount tours with poor safety standards, fake permits, or no shows",
+      "howToAvoid": "Book only through established operators with verifiable reviews, avoid street vendors offering tour deals"
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Informal taxis quote inflated rates or take longer routes to increase fares, especially from airport",
+      "howToAvoid": "Use official taxis with meters, rideshare apps like Uber, or pre-arrange hotel transfers"
+    },
+    {
+      "name": "Counterfeit Money Switch",
+      "risk": "medium",
+      "description": "Vendors quickly swap genuine bills for fake ones using sleight of hand, claiming you gave them counterfeit money",
+      "howToAvoid": "Pay with exact change when possible, inspect bills before handing over, avoid large denomination notes"
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Teams work together with one person spilling something on you while accomplices steal belongings during cleanup",
+      "howToAvoid": "Keep walking if anything is spilled on you, secure valuables in hidden pouches, stay alert in crowded areas"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cusco is considered one of South America's safer destinations for solo female travelers, with thousands visiting annually without incident. The tourism-dependent city prioritizes visitor safety with tourist police presence in main areas. However, street harassment like catcalling is common and should be ignored completely. Female-only hostel dorms are widely available for added comfort.",
+    "tips": [
+      "Dress conservatively in highland areas, covering shoulders and knees especially outside tourist zones",
+      "Ignore catcalls and comments completely - don't engage or make eye contact, just keep walking confidently",
+      "Stay in well-lit tourist areas like Plaza de Armas and San Blas, avoid walking alone late at night",
+      "Use hotel-arranged taxis or rideshare apps rather than hailing street taxis, especially after dark",
+      "Join group tours for treks and activities rather than venturing into remote areas alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cusco's historic center remains relatively safe at night due to good lighting and tourist police patrols, but risks increase in quieter side streets and residential areas. The main Plaza de Armas stays busy and well-lit, making it safer than surrounding areas. Nightlife districts have regular security presence, though standard urban precautions are essential.",
+    "tips": [
+      "Stick to main tourist areas like Plaza de Armas and avoid dimly lit side streets when walking at night",
+      "Use official taxis or rideshare apps rather than walking long distances after dark",
+      "Don't accept drinks from strangers and never leave drinks unattended in bars and clubs",
+      "Travel in groups when possible and inform someone of your plans when going out"
+    ]
+  },
+  "transport": {
+    "metro": "Cusco has no metro system - transportation relies on taxis, buses, and rideshare apps within the compact historic center.",
+    "rideshare": "Uber operates reliably in Cusco with good driver availability and tracked rides, providing safer alternative to street taxis. Cabify is also available with higher-end vehicles.",
+    "taxis": "Official yellow and black taxis are generally safe but negotiate fares beforehand as meters aren't standard. Avoid unlicensed 'pirate taxis' without proper identification. Hotel-arranged taxis are most reliable option.",
+    "tips": "Use rideshare apps or official taxis for safety, especially at night. Within the historic center, many attractions are walkable. For airport transfers, pre-book through hotels or use established taxi companies to avoid overcharging."
+  },
+  "customs": [
+    "Greet people with 'Buenos días' before making requests - not greeting first is considered rude",
+    "Handshakes are standard for first meetings, women may kiss on one cheek between acquaintances",
+    "Ask permission before photographing people, especially those in traditional dress, and offer a small tip"
+  ],
+  "health": {
+    "overview": "Cusco's main health concern is altitude sickness at 11,200 feet elevation, affecting up to 37% of visitors arriving from sea level. Symptoms include headache, nausea, and fatigue within 24-48 hours. Quality medical care is available in the city but may be limited for serious emergencies.",
+    "water": "Don't drink tap water - stick to bottled water and avoid raw salads that may have been washed in tap water. Cooked foods are generally safe.",
+    "vaccinations": "No special vaccinations required for Cusco, but routine vaccinations should be up to date. Yellow fever vaccination may be needed if continuing to jungle areas.",
+    "altitude": "Acclimatize gradually, stay hydrated, avoid alcohol first few days, and consider acetazolamide (Diamox) if prone to altitude sickness. Coca tea is a traditional local remedy."
+  },
+  "emergency": {
+    "general": "105",
+    "police": "105",
+    "ambulance": "106",
+    "fire": "116",
+    "touristPolice": "084-221961",
+    "usEmbassy": "US Embassy Lima: +51-1-618-2000. US Consular Agent Cusco provides limited services - contact Lima for emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Cusco safe for tourists?",
+      "a": "Yes, Cusco is generally safe for tourists and considered one of Peru's safest destinations. The city depends heavily on tourism and maintains strong security in tourist areas. Most visitors experience no serious safety issues, though petty crime like pickpocketing can occur in crowded areas."
+    },
+    {
+      "q": "Is Cusco safe at night?",
+      "a": "The historic center and Plaza de Armas area are relatively safe at night due to good lighting and police presence. However, avoid quiet side streets and residential areas after dark. Use official taxis or rideshare apps rather than walking long distances at night."
+    },
+    {
+      "q": "Is Cusco safe for solo female travelers?",
+      "a": "Yes, thousands of solo female travelers visit Cusco safely each year. Stay in tourist areas, dress conservatively, ignore street harassment, and use reputable accommodations. Female-only hostel dorms are widely available for added comfort and security."
+    },
+    {
+      "q": "What areas should I avoid in Cusco?",
+      "a": "Avoid the Wanchaq and Santiago neighborhoods, especially at night, as they have higher crime rates. Be extra cautious around San Pedro Market where pickpocketing is common. Stay away from isolated areas and poorly lit streets after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Cusco?",
+      "a": "Public buses and combis are generally safe but can be crowded and confusing for tourists. Official taxis and rideshare apps like Uber are safer and more convenient options. Avoid unlicensed 'pirate taxis' and always agree on fares beforehand with street taxis."
+    }
+  ],
+  "relatedCities": [
+    "lima",
+    "arequipa",
+    "la-paz",
+    "quito",
+    "bogota"
+  ],
+  "_city_id": "cusco-peru"
+}

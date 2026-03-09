@@ -448,5 +448,53 @@
     "action": "alert",
     "city_id": "manila_philippines",
     "details": "{\"city_id\": \"manila_philippines\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Increased volcanic activity at nearby volcanoes. Mayon Volcano at Alert Level 3 with ongoing lava flows and strombolian activity. Bulusan showing increased seismicity as of March 2. Enhanced monitoring in effect.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T18:09:14.578438+00:00",
+    "action": "add",
+    "city_id": "panama-city-panama",
+    "details": "New city added with score 6.2"
+  },
+  {
+    "timestamp": "2026-03-09T18:10:59.460653+00:00",
+    "action": "add",
+    "city_id": "bogota-colombia",
+    "details": "New city added with score 5.9"
+  },
+  {
+    "timestamp": "2026-03-09T18:12:27.128605+00:00",
+    "action": "add",
+    "city_id": "medellin-colombia",
+    "details": "New city added with score 6.3"
+  },
+  {
+    "timestamp": "2026-03-09T18:13:51.752314+00:00",
+    "action": "add",
+    "city_id": "cartagena-colombia",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-09T18:15:25.585683+00:00",
+    "action": "add",
+    "city_id": "lima-peru",
+    "details": "New city added with score 6.3"
+  },
+  {
+    "timestamp": "2026-03-09T18:16:51.717558+00:00",
+    "action": "add",
+    "city_id": "cusco-peru",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-09T18:18:24.194549+00:00",
+    "action": "add",
+    "city_id": "buenos-aires-argentina",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-09T18:20:05.373521+00:00",
+    "action": "add",
+    "city_id": "santiago-chile",
+    "details": "New city added with score 6.4"
   }
 ]

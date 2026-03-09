@@ -343,3 +343,42 @@
 2026-03-09 14:39:20,944 [WARNING]   [medium] stockholm_sweden: Iranian diaspora protests March 7 in solidarity with Iranian people amid ongoing Iran war. Pro-monarchy demonstrations supporting Reza Pahlavi.
 2026-03-09 14:39:20,945 [WARNING]   [medium] rome_italy: Campi Flegrei volcano near Naples showing increased activity March 2. 13 earthquakes up to magnitude 3.0 recorded in 24 hours. Depths as shallow as 20 meters suggest possible eruption risk. Enhanced monitoring warranted.
 2026-03-09 14:39:20,946 [WARNING]   [medium] manila_philippines: Increased volcanic activity at nearby volcanoes. Mayon Volcano at Alert Level 3 with ongoing lava flows and strombolian activity. Bulusan showing increased seismicity as of March 2. Enhanced monitoring in effect.
+2026-03-09 18:06:44,420 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-09 18:06:44,458 [INFO] Queue has 319 cities, adding 8
+2026-03-09 18:06:44,458 [INFO] Generating new city profile: Panama City, Panama
+2026-03-09 18:07:33,336 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:07:33,408 [ERROR] Failed to parse city data for Panama City (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-09 18:07:33,408 [INFO] Retry 1/2 for Panama City
+2026-03-09 18:09:14,552 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:09:14,578 [INFO] Saved city data: panama-city-panama
+2026-03-09 18:09:14,578 [INFO] Generating new city profile: Bogota, Colombia
+2026-03-09 18:10:59,392 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:10:59,460 [INFO] Saved city data: bogota-colombia
+2026-03-09 18:10:59,461 [INFO] Generating new city profile: Medellin, Colombia
+2026-03-09 18:12:27,092 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:12:27,128 [INFO] Saved city data: medellin-colombia
+2026-03-09 18:12:27,129 [INFO] Generating new city profile: Cartagena, Colombia
+2026-03-09 18:13:51,711 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:13:51,752 [INFO] Saved city data: cartagena-colombia
+2026-03-09 18:13:51,752 [INFO] Generating new city profile: Lima, Peru
+2026-03-09 18:15:25,537 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:15:25,585 [INFO] Saved city data: lima-peru
+2026-03-09 18:15:25,586 [INFO] Generating new city profile: Cusco, Peru
+2026-03-09 18:16:51,633 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:16:51,717 [INFO] Saved city data: cusco-peru
+2026-03-09 18:16:51,718 [INFO] Generating new city profile: Buenos Aires, Argentina
+2026-03-09 18:18:24,146 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:18:24,194 [INFO] Saved city data: buenos-aires-argentina
+2026-03-09 18:18:24,195 [INFO] Generating new city profile: Santiago, Chile
+2026-03-09 18:20:05,322 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 18:20:05,373 [INFO] Saved city data: santiago-chile
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: panama-city
+2026-03-09 18:20:05,379 [INFO] Merged into site data: Bogotá
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: medellin
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: cartagena
+2026-03-09 18:20:05,379 [INFO] Merged into site data: Lima
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: cusco
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: buenos-aires
+2026-03-09 18:20:05,379 [INFO] City already exists in site data, skipping: santiago
+2026-03-09 18:20:05,392 [INFO] Merged 2 new cities into src/lib/city-data.json
+2026-03-09 18:20:05,393 [INFO] Updated sitemap with 8 new URLs
