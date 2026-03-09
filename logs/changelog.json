@@ -238,5 +238,107 @@
     "action": "add",
     "city_id": "chicago-united-states",
     "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.773735+00:00",
+    "action": "alert",
+    "city_id": "Brussels",
+    "details": "{\"city_id\": \"Brussels\", \"alert_type\": \"terrorism_threat\", \"severity\": \"high\", \"summary\": \"Europol warned of elevated terrorism threat across EU amid ongoing Middle East conflict, with increased risks of terrorism and violent extremism linked to Iranian networks or extremist actors\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.774583+00:00",
+    "action": "alert",
+    "city_id": "Berlin",
+    "details": "{\"city_id\": \"Berlin\", \"alert_type\": \"terrorism_threat\", \"severity\": \"high\", \"summary\": \"German authorities acknowledge changing threat situation amid Middle East conflict, with heightened security measures and terrorism concerns across Europe\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.775359+00:00",
+    "action": "alert",
+    "city_id": "Paris",
+    "details": "{\"city_id\": \"Paris\", \"alert_type\": \"terrorism_threat\", \"severity\": \"high\", \"summary\": \"France strengthened military security operation 'Op\\u00e9ration Sentinelle' and increased protection at exposed locations due to elevated terrorism threats\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.776051+00:00",
+    "action": "alert",
+    "city_id": "London",
+    "details": "{\"city_id\": \"London\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Major demonstrations occurred March 7-8 related to Middle East conflict, with 5,000-6,000 participants in anti-war protests and Iran-related demonstrations\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.776573+00:00",
+    "action": "alert",
+    "city_id": "Vienna",
+    "details": "{\"city_id\": \"Vienna\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Two major demonstrations March 7-8: anti-US/Israel actions and Iranian human rights protests, with up to 2,000 participants near US Embassy area\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.777195+00:00",
+    "action": "alert",
+    "city_id": "Madrid",
+    "details": "{\"city_id\": \"Madrid\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"International Women's Day demonstrations March 8 included anti-war messaging related to Middle East conflict alongside women's rights issues\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.781844+00:00",
+    "action": "alert",
+    "city_id": "Barcelona",
+    "details": "{\"city_id\": \"Barcelona\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"International Women's Day demonstrations March 8 with anti-war slogans opposing Middle East conflict included alongside gender equality messaging\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.782485+00:00",
+    "action": "alert",
+    "city_id": "Rome",
+    "details": "{\"city_id\": \"Rome\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Student protests against government policies occurred across Italy including Rome, with demonstrations under 'No Meloni Day' banner\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.783149+00:00",
+    "action": "alert",
+    "city_id": "Athens",
+    "details": "{\"city_id\": \"Athens\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Anti-war protesters gathered at US Embassy March 1 following Middle East strikes, with Iranian flags and anti-imperialist messaging\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.783823+00:00",
+    "action": "alert",
+    "city_id": "Stockholm",
+    "details": "{\"city_id\": \"Stockholm\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Pro-Iran demonstrations occurred March 7 with support for exiled crown prince amid ongoing Middle East conflict\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.784459+00:00",
+    "action": "alert",
+    "city_id": "Helsinki",
+    "details": "{\"city_id\": \"Helsinki\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"CDC Level 2 travel advisory issued March 4 for enhanced precautions due to circulating poliovirus, requiring updated polio vaccination\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.785166+00:00",
+    "action": "alert",
+    "city_id": "Munich",
+    "details": "{\"city_id\": \"Munich\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"CDC Level 2 travel advisory issued March 4 for enhanced precautions due to circulating poliovirus, requiring updated polio vaccination\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.785862+00:00",
+    "action": "alert",
+    "city_id": "Zurich",
+    "details": "{\"city_id\": \"Zurich\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"European airports experiencing widespread disruption March 4-5 with 283 delays and 82 cancellations due to Middle East airspace closures affecting global routes\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.786537+00:00",
+    "action": "alert",
+    "city_id": "Amsterdam",
+    "details": "{\"city_id\": \"Amsterdam\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Schiphol Airport among European hubs hit by major disruptions March 4-5, with cascading delays from Middle East airspace restrictions\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.787256+00:00",
+    "action": "alert",
+    "city_id": "Chicago",
+    "details": "{\"city_id\": \"Chicago\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"O'Hare experiencing major disruptions with 2,934 flight disruptions March 3 due to TSA staffing issues from government shutdown entering Day 18\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.787975+00:00",
+    "action": "alert",
+    "city_id": "New York City",
+    "details": "{\"city_id\": \"New York City\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"JFK Airport hit by major flight disruptions with 2,934 total US disruptions March 3, compounded by TSA reduced paychecks from government shutdown\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-09T08:01:14.788706+00:00",
+    "action": "alert",
+    "city_id": "Los Angeles",
+    "details": "{\"city_id\": \"Los Angeles\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Major anti-war rallies occurred in LA and other US cities following Middle East strikes, with coalition groups organizing demonstrations against military escalation\", \"action\": \"add_incident\"}"
   }
 ]

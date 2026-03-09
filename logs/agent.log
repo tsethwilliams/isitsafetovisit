@@ -264,3 +264,24 @@
 2026-03-09 07:48:08,878 [INFO] Merged into site data: Chicago
 2026-03-09 07:48:08,894 [INFO] Merged 7 new cities into src/lib/city-data.json
 2026-03-09 07:48:08,895 [INFO] Updated sitemap with 8 new URLs
+2026-03-09 08:00:36,245 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-09 08:00:36,290 [INFO] Checking alerts for 40 cities
+2026-03-09 08:01:14,707 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 08:01:14,773 [WARNING] ALERTS DETECTED: 17
+2026-03-09 08:01:14,773 [WARNING]   [high] Brussels: Europol warned of elevated terrorism threat across EU amid ongoing Middle East conflict, with increased risks of terrorism and violent extremism linked to Iranian networks or extremist actors
+2026-03-09 08:01:14,774 [WARNING]   [high] Berlin: German authorities acknowledge changing threat situation amid Middle East conflict, with heightened security measures and terrorism concerns across Europe
+2026-03-09 08:01:14,775 [WARNING]   [high] Paris: France strengthened military security operation 'Opération Sentinelle' and increased protection at exposed locations due to elevated terrorism threats
+2026-03-09 08:01:14,775 [WARNING]   [medium] London: Major demonstrations occurred March 7-8 related to Middle East conflict, with 5,000-6,000 participants in anti-war protests and Iran-related demonstrations
+2026-03-09 08:01:14,776 [WARNING]   [medium] Vienna: Two major demonstrations March 7-8: anti-US/Israel actions and Iranian human rights protests, with up to 2,000 participants near US Embassy area
+2026-03-09 08:01:14,776 [WARNING]   [low] Madrid: International Women's Day demonstrations March 8 included anti-war messaging related to Middle East conflict alongside women's rights issues
+2026-03-09 08:01:14,781 [WARNING]   [low] Barcelona: International Women's Day demonstrations March 8 with anti-war slogans opposing Middle East conflict included alongside gender equality messaging
+2026-03-09 08:01:14,782 [WARNING]   [low] Rome: Student protests against government policies occurred across Italy including Rome, with demonstrations under 'No Meloni Day' banner
+2026-03-09 08:01:14,782 [WARNING]   [medium] Athens: Anti-war protesters gathered at US Embassy March 1 following Middle East strikes, with Iranian flags and anti-imperialist messaging
+2026-03-09 08:01:14,783 [WARNING]   [low] Stockholm: Pro-Iran demonstrations occurred March 7 with support for exiled crown prince amid ongoing Middle East conflict
+2026-03-09 08:01:14,784 [WARNING]   [medium] Helsinki: CDC Level 2 travel advisory issued March 4 for enhanced precautions due to circulating poliovirus, requiring updated polio vaccination
+2026-03-09 08:01:14,784 [WARNING]   [medium] Munich: CDC Level 2 travel advisory issued March 4 for enhanced precautions due to circulating poliovirus, requiring updated polio vaccination
+2026-03-09 08:01:14,785 [WARNING]   [medium] Zurich: European airports experiencing widespread disruption March 4-5 with 283 delays and 82 cancellations due to Middle East airspace closures affecting global routes
+2026-03-09 08:01:14,786 [WARNING]   [medium] Amsterdam: Schiphol Airport among European hubs hit by major disruptions March 4-5, with cascading delays from Middle East airspace restrictions
+2026-03-09 08:01:14,786 [WARNING]   [high] Chicago: O'Hare experiencing major disruptions with 2,934 flight disruptions March 3 due to TSA staffing issues from government shutdown entering Day 18
+2026-03-09 08:01:14,787 [WARNING]   [high] New York City: JFK Airport hit by major flight disruptions with 2,934 total US disruptions March 3, compounded by TSA reduced paychecks from government shutdown
+2026-03-09 08:01:14,788 [WARNING]   [medium] Los Angeles: Major anti-war rallies occurred in LA and other US cities following Middle East strikes, with coalition groups organizing demonstrations against military escalation
