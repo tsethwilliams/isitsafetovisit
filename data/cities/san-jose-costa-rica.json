@@ -1,0 +1,166 @@
+{
+  "slug": "san-jose",
+  "name": "San Jose",
+  "country": "Costa Rica",
+  "countryCode": "CR",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "San Jose, Costa Rica's capital, presents a mixed safety profile for tourists with elevated petty crime rates but generally manageable risks with proper precautions. The city faces challenges from opportunistic theft and recent increases in crime targeting tourists, but maintains good emergency services and transport safety.",
+  "quickVerdict": "San Jose requires moderate caution from visitors, particularly regarding petty theft and certain neighborhoods after dark. While violent crime against tourists remains relatively uncommon, recent security alerts highlight increased property crimes, ATM scams, and robberies at tourist accommodations. The city's crime statistics show concerning trends with over 5,000 annual robbery cases and a notable spike in incidents targeting foreigners. However, with proper awareness, avoiding high-risk areas, and taking standard precautions, most visitors can explore the capital safely while enjoying its cultural attractions and using it as a gateway to Costa Rica's natural wonders.",
+  "neighborhoods": [
+    {
+      "name": "Barrio Escalante",
+      "score": 8.0,
+      "class": "safe",
+      "description": "San Jose's trendy gastronomic district with upscale restaurants, craft beer bars, and art galleries. Well-patrolled area popular with locals and tourists, featuring good lighting and regular foot traffic. Generally safe during day and evening hours with minimal crime reports."
+    },
+    {
+      "name": "Barrio Amon",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic residential neighborhood with colonial architecture, boutique hotels, and cultural sites. Quieter area with good security, popular among business travelers. Generally safe but limited nightlife options outside hotel bars."
+    },
+    {
+      "name": "Downtown Centro",
+      "score": 5.0,
+      "class": "caution",
+      "description": "The city's commercial and administrative heart with major attractions like Teatro Nacional and Mercado Central. High pedestrian traffic during day but significant pickpocketing risk. Requires vigilance, especially around transportation hubs and markets."
+    },
+    {
+      "name": "La California",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Nightlife district near universities with bars and clubs. Popular with younger crowds but elevated crime risk, particularly after dark. Multiple robbery incidents reported, requires group travel and official transportation."
+    },
+    {
+      "name": "Desamparados",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Residential area south of the city center with high poverty levels and gang activity. Frequent reports of armed robberies and drug-related crime. Tourists should avoid this area entirely, especially at night."
+    },
+    {
+      "name": "La Carpio",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Large slum area with significant crime problems including gang violence, drug trafficking, and armed robberies. One of the most dangerous neighborhoods in San Jose that tourists have no reason to visit."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police ATM Scam",
+      "risk": "high",
+      "description": "English-speaking scammers approach tourists posing as Americans living in Costa Rica, offer friendship activities, then pose as undercover police demanding ATM withdrawals after planting or offering drugs.",
+      "howToAvoid": "Never accept substances from strangers, don't go to secluded areas with new acquaintances, and demand proper police identification. Real police issue tickets, not demand cash payments."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "high",
+      "description": "Card skimmers attached to ATM machines, particularly at tourist-heavy locations, steal card information while criminals observe PIN entry. Sometimes involves accomplices offering help with machine problems.",
+      "howToAvoid": "Use ATMs inside banks or secure locations, cover PIN entry with your hand, inspect machines for unusual attachments, and refuse help from strangers at ATMs."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Teams of thieves work together where one spills drinks or creates distractions while accomplices steal valuables from bags and pockets, particularly in crowded bars and tourist areas.",
+      "howToAvoid": "Decline help cleaning spills, keep valuables secured and out of sight, remain aware of surroundings in crowded areas, and use bags with zippers and security features."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unofficial pirate taxis and some legitimate drivers overcharge tourists, take longer routes, or claim broken meters. May tell tourists buses aren't running or hotels are full to secure rides.",
+      "howToAvoid": "Use official red taxis with yellow triangles and meters, confirm approximate fare beforehand, use rideshare apps where available, and verify hotel availability independently."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in San Jose requires extra caution due to elevated harassment levels and safety concerns. Women report frequent catcalling, particularly in downtown areas, and face increased risks of assault, especially when using taxis or visiting beaches alone. The recent security alerts specifically mention incidents affecting women travelers, including sexual assault cases.",
+    "tips": [
+      "Avoid walking alone after dark, especially in downtown areas and poorly lit streets",
+      "Use official transportation only - red taxis with meters or reputable rideshare services",
+      "Stay in well-reviewed accommodations in safer neighborhoods like Barrio Escalante",
+      "Don't wear expensive jewelry or display signs of wealth that attract unwanted attention",
+      "Share your location with someone when taking transportation, particularly at night",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Jose's nighttime safety requires significant caution as crime rates increase substantially after dark. Downtown areas become particularly risky with poor lighting, increased robbery activity, and limited police presence. The nightlife districts, while popular, have reported multiple incidents of crimes against tourists, particularly around bars and clubs.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid walking alone after 8 PM",
+      "Use official transportation between venues rather than walking",
+      "Stay in groups when exploring nightlife areas like La California",
+      "Avoid displaying phones, cameras, or valuables on the street at night",
+      "Choose bars and restaurants in safer neighborhoods like Barrio Escalante",
+      "Keep emergency contact numbers readily available and inform someone of your plans"
+    ]
+  },
+  "transport": {
+    "metro": "San Jose has limited rail service with suburban trains connecting to nearby cities like Cartago and Heredia. The system is basic but generally safe during daylight hours with standard precautions against pickpocketing required.",
+    "rideshare": "Uber operates in San Jose metro area despite technically illegal status, offering cheaper and often safer alternatives to taxis. Drivers may ask passengers to sit in front seat and wait times can be affected by traffic. Generally reliable within the Greater Metropolitan Area.",
+    "taxis": "Official red taxis with yellow triangles and meters are the safest option. Airport taxis are orange and more expensive. Avoid pirate taxis (unmarked vehicles) which pose safety risks. Ensure meter is running and ask for approximate fare estimates.",
+    "tips": "Public buses are affordable but crowded with pickpocketing risks. Use official transportation only, especially for airport transfers. Traffic congestion is severe during rush hours, so allow extra time. Keep valuables secured and avoid displaying expensive items while traveling."
+  },
+  "customs": [
+    "Greet with firm handshakes, direct eye contact, and warm smiles - friends may exchange light cheek kisses",
+    "Embrace 'Tico Time' - punctuality is flexible for social events but important for business meetings",
+    "Family is central to culture - showing interest in family topics helps build rapport with locals",
+    "Use formal titles initially in business settings, then switch to first names as relationships develop",
+    "Practice environmental consciousness - Costa Ricans take pride in their eco-friendly reputation",
+    "Avoid sensitive political topics and respect the country's peaceful, neutral stance"
+  ],
+  "health": {
+    "overview": "Costa Rica offers good healthcare with modern private hospitals in San Jose like Hospital CIMA, while public hospitals provide adequate but crowded service. The country requires yellow fever vaccination for travelers from certain high-risk countries as of 2025.",
+    "water": "Tap water is generally safe in San Jose and major urban areas, though bottled water is recommended for sensitive stomachs. Avoid tap water in Limon and Puntarenas provinces.",
+    "vaccinations": "Routine vaccinations recommended include measles, mumps, rubella, tetanus, and hepatitis A. Yellow fever vaccination required if arriving from endemic countries. Consider typhoid for rural areas and dengue/chikungunya precautions against mosquitoes.",
+    "altitude": "San Jose sits at 1,150 meters above sea level with mild tropical climate. Temperatures range 70-80°F year-round. Rainy season May-November with afternoon showers. No altitude sickness concerns but stay hydrated and use sunscreen."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 117",
+    "ambulance": "911 or 128",
+    "fire": "911 or 118",
+    "touristPolice": "(506) 2258-1008 or (506) 2258-1022",
+    "usEmbassy": "U.S. Embassy San Jose, Pavas: +(506) 2519-2000, Emergency after-hours: +(506) 2220-3127. Address: Calle 98, Via 104, Pavas, San Jose. Email: ACSSanJose@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is San Jose safe for tourists?",
+      "a": "San Jose requires moderate caution due to elevated petty crime rates and recent increases in crimes targeting tourists. While violent crime against visitors remains relatively uncommon, property crimes, pickpocketing, and ATM scams are frequent concerns. Most tourists can visit safely with proper precautions."
+    },
+    {
+      "q": "Is San Jose safe at night?",
+      "a": "San Jose becomes significantly less safe after dark, particularly in downtown areas and certain neighborhoods. Crime rates increase substantially at night with poor lighting and reduced police presence. Tourists should avoid walking alone after 8 PM and use official transportation between venues."
+    },
+    {
+      "q": "Is San Jose safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extra caution in San Jose due to frequent catcalling and elevated risks of harassment and assault. Women are advised to avoid walking alone at night, use official transportation only, and stay in safer neighborhoods like Barrio Escalante while remaining vigilant about personal safety."
+    },
+    {
+      "q": "What areas should I avoid in San Jose?",
+      "a": "Avoid Desamparados, La Carpio, Los Guido, and Leon III due to high crime rates and gang activity. Exercise extra caution in downtown areas after dark, La California nightlife district, and around the Coca-Cola bus terminal. Stay alert in crowded tourist areas like Mercado Central where pickpocketing is common."
+    },
+    {
+      "q": "Is it safe to use public transport in San Jose?",
+      "a": "Public transportation in San Jose has moderate safety levels with pickpocketing being the primary concern on crowded buses. Official red taxis with meters are generally safe, while Uber operates reliably despite technical illegality. Avoid pirate taxis and keep valuables secured when using public transport."
+    }
+  ],
+  "relatedCities": [
+    "guatemala-city",
+    "tegucigalpa",
+    "managua"
+  ],
+  "_city_id": "san-jose-costa-rica"
+}

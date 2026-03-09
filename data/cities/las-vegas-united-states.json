@@ -1,0 +1,165 @@
+{
+  "slug": "las-vegas",
+  "name": "Las Vegas",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.2,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.8,
+    "naturalHazards": 8.0
+  },
+  "summary": "Las Vegas is generally safe for tourists, with heavy security presence on the Strip and downtown areas. Crime has been declining, with violent crime down 4.3% and property crime down 9.4% in recent years. Tourist areas benefit from extensive surveillance and police patrols.",
+  "quickVerdict": "Las Vegas is a safe destination for tourists who stick to main areas like the Strip and Fremont Street. The city has invested heavily in security infrastructure with extensive surveillance, police presence, and private security. While petty crime and tourist-targeted scams exist, violent crime against tourists is relatively rare. The key to staying safe is remaining in well-lit, high-traffic areas and being aware of common scams.",
+  "neighborhoods": [
+    {
+      "name": "The Strip",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Heavily surveilled with constant police and security presence. Well-lit and crowded, making it one of the safest areas for tourists day and night."
+    },
+    {
+      "name": "Fremont Street Experience",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Downtown's covered pedestrian mall with good security, but slightly grittier than the Strip. Safe within the main corridor but caution needed on edges."
+    },
+    {
+      "name": "Summerlin",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area with low crime rates, excellent infrastructure, and family-friendly environment. Popular with visitors staying off-Strip."
+    },
+    {
+      "name": "Henderson",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Suburban area southeast of Las Vegas with lower crime rates than the main city. Generally safe but requires transportation to reach main attractions."
+    },
+    {
+      "name": "West Las Vegas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Higher crime rates including violent crime. Not recommended for tourists, especially after dark. Avoid this area entirely if possible."
+    },
+    {
+      "name": "East Las Vegas/Near Airport",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Mixed area with some higher crime pockets. Exercise caution, especially around East Sahara Avenue. Better during daytime hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Street Performer Photo Demands",
+      "risk": "medium",
+      "description": "Costumed characters offer photos then aggressively demand payment. Common on the Strip with Elvis impersonators, superheroes, and showgirls.",
+      "howToAvoid": "Don't engage unless you're prepared to tip. Walk past without making eye contact or politely decline and keep moving."
+    },
+    {
+      "name": "Three Card Monte/Shell Games",
+      "risk": "high",
+      "description": "Hustlers on pedestrian walkways offer gambling games where you can't win. Cards are switched or balls are removed using sleight of hand.",
+      "howToAvoid": "Never participate in illegal street gambling. Remember these games are rigged and operated without permits. Stick to regulated casinos only."
+    },
+    {
+      "name": "Taxi Long Hauling",
+      "risk": "medium",
+      "description": "Some taxi drivers take longer routes, especially from the airport, to inflate fares. The tunnel route can add $10+ to your fare unnecessarily.",
+      "howToAvoid": "Use rideshare apps for transparent pricing, ask for the flat airport rate, or request the Swenson route instead of the tunnel from the airport."
+    },
+    {
+      "name": "Fake VIP Club Promotions",
+      "risk": "high",
+      "description": "Street hustlers sell fake VIP passes or offer free club access with hidden fees, drink minimums, or no actual benefits.",
+      "howToAvoid": "Only buy tickets from legitimate sources or hotel concierges. Real VIP hosts don't demand money on the spot. Be wary of too-good-to-be-true offers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Las Vegas is generally safe for solo female travelers, especially in main tourist areas. The Strip and Fremont Street have excellent security and lighting. Many women travel here alone successfully for business and leisure. However, basic precautions are essential, particularly regarding drinks and nightlife.",
+    "tips": [
+      "Stay in well-lit, busy areas like the Strip or Fremont Street Experience",
+      "Never leave drinks unattended and don't accept drinks from strangers",
+      "Use rideshare or taxis between areas rather than walking alone at night",
+      "Keep valuables secure in front pockets or zipped bags",
+      "Trust your instincts and move to populated areas if feeling uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Las Vegas is designed for nightlife and generally safe after dark in tourist zones. The Strip and Fremont Street remain well-patrolled and crowded until late. However, safety decreases after midnight as crowds thin and intoxication increases. Areas outside the main tourist corridors become riskier at night.",
+    "tips": [
+      "Stick to the Strip and Fremont Street corridors after dark",
+      "Use rideshare or taxis rather than walking between distant locations",
+      "Avoid displaying expensive jewelry or large amounts of cash",
+      "Stay alert in crowded areas where pickpockets may operate",
+      "Plan your route in advance and avoid poorly lit side streets"
+    ]
+  },
+  "transport": {
+    "metro": "The Las Vegas Monorail runs from MGM Grand to Sahara with stops at major casinos. Safe and convenient for Strip travel, costs $13 for 1-day pass, $56 for 7-day pass. Limited coverage but reliable within its route.",
+    "rideshare": "Uber and Lyft are widely available and generally safe. Use designated pickup areas at hotels and the airport. Surge pricing common during events and peak times. Airport rides include $4.50 surcharge. Always verify driver and vehicle details.",
+    "taxis": "Regulated by Nevada Taxicab Authority with standard safety protocols. Available at hotel stands and airport. Cannot be hailed on streets - must be called or picked up at designated areas. More predictable pricing than rideshare during surge times.",
+    "tips": "Use official pickup zones, share your ride location with someone you trust, and keep transportation apps updated. Public buses operate 24/7 on main routes and are budget-friendly but slower than other options."
+  },
+  "customs": [
+    "Tipping is expected for most services - 18-20% for restaurants, $1-2 per drink at bars, $5-10 for housekeeping",
+    "Gambling age is 21, and you must show ID to enter casino floors or purchase alcohol",
+    "Public drinking is only allowed in certain areas - not on the street outside designated zones",
+    "Dress codes vary by venue - upscale restaurants and nightclubs may require formal attire",
+    "Smoking is prohibited in most public places but allowed in casino gaming areas"
+  ],
+  "health": {
+    "overview": "Nevada ranks 41st nationally for healthcare quality with some physician shortages. Las Vegas has major hospitals including Sunrise, UMC, and Valley Health System facilities. Healthcare costs are below national average. The dry desert climate can cause dehydration issues.",
+    "water": "Tap water is safe to drink throughout Las Vegas and meets EPA standards. The dry climate increases dehydration risk, so drink plenty of fluids, especially when walking outdoors or consuming alcohol.",
+    "vaccinations": "No special vaccinations required for Las Vegas. Standard US immunizations recommended. Heat-related illnesses are more common than infectious diseases.",
+    "altitude": "Las Vegas sits at 2,000 feet elevation - minimal altitude effects. The desert climate features extreme summer heat (100°F+) and mild winters. UV exposure is high due to intense sunshine and minimal cloud cover."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency), 702-828-3111 (non-emergency LVMPD)",
+    "ambulance": "911",
+    "fire": "911 (emergency), 702-383-2888 (non-emergency Las Vegas Fire)",
+    "touristPolice": "Tourist Safety Division available through LVMPD at 702-828-3111",
+    "usEmbassy": "As a US domestic destination, US citizens should contact local authorities. International visitors can reach their home country's consulate or the State Department at 202-501-4444."
+  },
+  "faq": [
+    {
+      "q": "Is Las Vegas safe for tourists?",
+      "a": "Yes, Las Vegas is generally safe for tourists who stay in main areas like the Strip and Fremont Street. These areas have heavy security presence and are well-monitored. Crime against tourists in these zones is uncommon, though petty theft and scams do occur."
+    },
+    {
+      "q": "Is Las Vegas safe at night?",
+      "a": "Las Vegas is designed for nightlife and the main tourist areas remain safe and well-patrolled after dark. The Strip and Fremont Street stay busy until late. However, avoid wandering into residential areas or poorly lit side streets, especially after midnight."
+    },
+    {
+      "q": "Is Las Vegas safe for solo female travelers?",
+      "a": "Yes, many women travel to Las Vegas solo successfully. Stay in tourist areas, don't leave drinks unattended, use rideshare between locations, and follow standard solo travel safety practices. The main areas are well-lit and populated."
+    },
+    {
+      "q": "What areas should I avoid in Las Vegas?",
+      "a": "Avoid West Las Vegas, the area north of the Strip near The Strat known as Naked City, and poorly lit areas east of downtown. Stick to the Strip, Fremont Street Experience, and other well-established tourist areas for maximum safety."
+    },
+    {
+      "q": "Is it safe to use public transport in Las Vegas?",
+      "a": "Yes, rideshare services, taxis, and the monorail are all safe options. The RTC bus system operates 24/7 and is generally safe but slower. Always use official pickup zones and verify driver information when using rideshare services."
+    }
+  ],
+  "relatedCities": [
+    "los-angeles",
+    "phoenix",
+    "denver",
+    "san-diego",
+    "salt-lake-city"
+  ],
+  "_city_id": "las-vegas-united-states"
+}

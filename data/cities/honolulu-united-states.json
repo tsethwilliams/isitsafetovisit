@@ -1,0 +1,165 @@
+{
+  "slug": "honolulu",
+  "name": "Honolulu",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.2,
+    "scamRisk": 5.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Honolulu stands as one of America's safest major cities, offering tourists a welcoming environment with low violent crime rates and strong police presence. While petty crime and tourist-targeted scams exist, particularly in Waikiki, the city maintains excellent safety standards for visitors.",
+  "quickVerdict": "Honolulu is generally very safe for tourists, ranking among the safest cities in the United States. While visitors should remain alert for petty theft and scams in tourist areas, violent crime affecting tourists is rare. The city benefits from comprehensive emergency services, good public transportation, and the famous aloha spirit that creates a welcoming atmosphere for all travelers.",
+  "neighborhoods": [
+    {
+      "name": "Waikiki Beach",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The tourist heart of Honolulu with strong police presence and security. Well-lit streets stay busy until late with regular patrols. Main tourist areas along Kalakaua Avenue are very safe for walking day and night."
+    },
+    {
+      "name": "Downtown Honolulu",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Business district with good daytime security and police presence. Well-maintained area during business hours with adequate lighting. Some areas become quieter after work hours but remain generally safe."
+    },
+    {
+      "name": "Chinatown",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Vibrant cultural district with good restaurants and nightlife. Generally safe during the day but can feel less secure at night. Stick to main streets and avoid isolated areas after dark."
+    },
+    {
+      "name": "Kalihi-Palama",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Local residential area with higher crime rates than tourist zones. Not typically visited by tourists but requires standard urban precautions if traveling through. Limited tourist infrastructure."
+    },
+    {
+      "name": "Ala Moana",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Shopping and business area near the harbor with good security at the mall and surrounding areas. Well-patrolled with good lighting and regular foot traffic during the day and evening."
+    },
+    {
+      "name": "Manoa Valley",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area near the university with very low crime rates. Quiet, well-maintained neighborhood popular for hiking trails. Excellent safety record with minimal incidents reported."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers deliberately taking longer routes or overcharging, especially from airport to Waikiki. Some quote inflated flat rates or take scenic routes to increase fares.",
+      "howToAvoid": "Use rideshare apps like Uber, Lyft, or local Holoholo app for transparent pricing. If using taxis, insist on meter usage and know the approximate distance to your destination."
+    },
+    {
+      "name": "Timeshare Presentations",
+      "risk": "medium",
+      "description": "Street vendors offering free or discounted attraction tickets in exchange for attending timeshare presentations. Often disguised as activity brokers or tour guides.",
+      "howToAvoid": "Decline any offers from street vendors for free tickets requiring presentations. Book attractions directly through official websites or verified tour companies."
+    },
+    {
+      "name": "Fake Booking Websites",
+      "risk": "high",
+      "description": "Third-party booking sites offering dramatically discounted accommodations that don't exist or have hidden fees. Some sites mimic legitimate hotel booking platforms.",
+      "howToAvoid": "Book directly through hotel websites or established travel agents. Verify suspicious deals by calling hotels directly. Use credit cards for purchase protection."
+    },
+    {
+      "name": "Pearl Harbor Tour Markup",
+      "risk": "medium",
+      "description": "Companies charging premium prices for Pearl Harbor tours when basic admission to USS Arizona Memorial is free. Overpriced packages for what amounts to free access and transportation.",
+      "howToAvoid": "Know that Pearl Harbor basic admission is free. Book directly through official National Park Service website or take public transportation to save money."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Honolulu is considered one of the safest U.S. cities for solo female travelers. The city has low violent crime rates, strong police presence in tourist areas, and the welcoming aloha spirit. Most areas are well-lit and populated, particularly in Waikiki and downtown. Women report feeling comfortable walking alone during the day and in busy areas at night.",
+    "tips": [
+      "Stay in well-lit, populated areas at night, particularly in Waikiki where there's constant foot traffic",
+      "Use rideshare apps or hotel transportation rather than walking alone late at night in less busy areas",
+      "Be aware of your surroundings near the Ala Wai Canal area which can feel isolated after dark",
+      "Trust local advice and hotel staff recommendations for safe areas to explore",
+      "Consider female-only hostels or accommodations if staying in budget lodging"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Honolulu's main tourist areas are generally safe at night with good lighting and police patrols. Waikiki stays lively until late with plenty of people around. The city has implemented enhanced security measures including drone surveillance and increased security presence. Crime rates are significantly lower than comparable mainland cities.",
+    "tips": [
+      "Stick to main tourist areas like Kalakaua Avenue and Kuhio Avenue in Waikiki where there's consistent activity",
+      "Avoid isolated areas like parts of the Ala Wai Canal or empty beaches after dark",
+      "Travel in groups when possible and stay on well-lit streets",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash",
+      "Use hotel concierge recommendations for safe nightlife venues and transportation options"
+    ]
+  },
+  "transport": {
+    "metro": "TheBus is Honolulu's public transportation system, covering most of the island with frequent service. It's generally safe and reliable with good lighting at stops and security cameras. Routes connect all major tourist attractions and the system is well-used by both locals and visitors.",
+    "rideshare": "Uber, Lyft, and local Holoholo rideshare services operate throughout Honolulu with good coverage. These apps provide transparent pricing and GPS tracking, making them safer than traditional taxis. Pickup areas at airports and popular venues are clearly marked.",
+    "taxis": "Traditional taxis exist but have reputation issues with overcharging tourists. Drivers may take longer routes or quote inflated flat rates. Some visitors report significant fare differences between meter and quoted prices, particularly for airport transfers.",
+    "tips": "Use rideshare apps for the most reliable and fairly-priced transportation. TheBus is safe and economical for longer distances. Avoid traditional taxis unless necessary, and always insist on meter usage if using them."
+  },
+  "customs": [
+    "Remove shoes before entering homes - this is standard practice throughout Hawaii as a sign of respect",
+    "Embrace the aloha spirit by being friendly, patient, and respectful to locals and fellow visitors",
+    "Don't take lava rocks, coral, or sand from beaches as souvenirs - it's considered bad luck and environmentally harmful",
+    "Respect sacred sites and cultural landmarks by following posted guidelines and staying on designated paths",
+    "Practice 'Hawaiian time' - be flexible with schedules and don't rush, as island life moves at a slower pace"
+  ],
+  "health": {
+    "overview": "Honolulu has excellent healthcare facilities including multiple hospitals and clinics that serve tourists. The Queen's Medical Center and Straub Medical Center provide comprehensive emergency and specialty care. Hawaii has modern medical facilities comparable to mainland United States standards.",
+    "water": "Tap water is safe to drink throughout Honolulu and meets all federal safety standards. No special precautions needed for water consumption.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel vaccines like hepatitis A and typhoid may be recommended by some doctors but are not required for entry.",
+    "altitude": "Honolulu is at sea level with a tropical climate. Year-round temperatures range from 70-85°F. Strong UV rays require sun protection, and ocean activities need awareness of currents and marine life."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (808) 529-3111",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - Honolulu is in the United States. For federal assistance: (808) 541-2860"
+  },
+  "faq": [
+    {
+      "q": "Is Honolulu safe for tourists?",
+      "a": "Yes, Honolulu is very safe for tourists and ranks among the safest major cities in the United States. Violent crime rates are low, and there's strong police presence in tourist areas. Standard precautions against petty theft are recommended."
+    },
+    {
+      "q": "Is Honolulu safe at night?",
+      "a": "Waikiki and main tourist areas are safe at night with good lighting and police patrols. The areas stay busy until late. However, avoid isolated areas like parts of the Ala Wai Canal and stick to well-populated streets."
+    },
+    {
+      "q": "Is Honolulu safe for solo female travelers?",
+      "a": "Yes, Honolulu is considered one of the safest cities in America for solo female travelers. Women report feeling comfortable exploring during the day and in busy areas at night. Use standard precautions and stay in well-lit tourist areas."
+    },
+    {
+      "q": "What areas should I avoid in Honolulu?",
+      "a": "While most of Honolulu is safe, be cautious in parts of Kalihi-Palama neighborhood, isolated areas near the Ala Wai Canal after dark, and avoid leaving valuables in cars anywhere, especially at beach parking lots."
+    },
+    {
+      "q": "Is it safe to use public transport in Honolulu?",
+      "a": "Yes, TheBus public transportation system is safe, reliable, and well-used by both locals and tourists. Buses are equipped with security cameras and stops are generally well-lit. Rideshare services are also readily available and safe."
+    }
+  ],
+  "relatedCities": [
+    "anchorage",
+    "fairbanks",
+    "auckland",
+    "sydney",
+    "wellington"
+  ],
+  "_city_id": "honolulu-united-states"
+}

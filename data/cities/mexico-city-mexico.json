@@ -1,0 +1,163 @@
+{
+  "slug": "mexico-city",
+  "name": "Mexico City",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "Mexico City is generally safe for tourists who stay in tourist-friendly neighborhoods and use common sense precautions. While petty crime and scams are the primary concerns, violent crime against tourists is rare. The city has improved dramatically over the past decade with strong tourist police presence.",
+  "quickVerdict": "Mexico City can be safely explored by tourists who stick to well-known neighborhoods like Roma Norte, Condesa, and Polanco, and use reliable transportation like Uber. The biggest risks are pickpocketing, taxi scams, and tourist-targeted fraud rather than violent crime. With over 12 million visitors annually, most travelers have safe, incident-free trips by following basic urban safety practices and staying alert in crowded areas.",
+  "neighborhoods": [
+    {
+      "name": "Roma Norte",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Hip, artsy neighborhood with tree-lined streets, excellent restaurants, and strong police presence. Popular with expats and young professionals. Generally very safe during day and night, though petty theft can occur."
+    },
+    {
+      "name": "La Condesa",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Leafy, European-style neighborhood with parks, cafes, and upscale dining. Well-patrolled and walkable with good lighting. Considered one of the safest areas for tourists and solo travelers."
+    },
+    {
+      "name": "Polanco",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale business and shopping district with luxury hotels, high-end boutiques, and excellent security. Heavy police presence and private security make it very safe day and night."
+    },
+    {
+      "name": "Centro Historico",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic downtown with major attractions and UNESCO World Heritage sites. Safe during the day with crowds and police, but can become sketchy after dark. Watch for pickpockets near tourist sites."
+    },
+    {
+      "name": "Coyoacan",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Charming colonial neighborhood with cobblestone streets, markets, and cultural sites. Generally safe and peaceful with a village-like atmosphere, though less nightlife infrastructure."
+    },
+    {
+      "name": "Iztapalapa",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Working-class area with high crime rates and few tourist attractions. Not recommended for visitors due to elevated risks of robbery and limited police presence in some areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Express Kidnapping",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers, often working with accomplices, force passengers to ATMs to withdraw cash before releasing them. Most common with street-hailed taxis at night.",
+      "howToAvoid": "Use only Uber, DiDi, or official sitio taxis. Never hail random street taxis, especially at night. Look for pink and white official taxis with A or B license plates and visible driver ID."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "high",
+      "description": "Criminals install skimming devices on ATMs to steal card information, or fake helpful strangers offer assistance while memorizing PIN numbers.",
+      "howToAvoid": "Use ATMs inside banks or hotels only. Cover your PIN when entering. Refuse unsolicited help. Check for unusual devices attached to card slots."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Groups work together where one person distracts tourists by asking directions or pointing out fake spills while accomplices steal wallets, phones, or bags.",
+      "howToAvoid": "Stay alert in crowded areas. Keep valuables in front-facing bags or hidden. Be wary of overly helpful strangers or people pointing out stains on clothing."
+    },
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "medium",
+      "description": "Tourist-area restaurants add items not ordered, include excessive service charges, or present menus with inflated prices specifically for foreign visitors.",
+      "howToAvoid": "Check prices before ordering. Ask for itemized bills. Confirm the final amount before paying. Research restaurant reputations online before visiting."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Mexico City is generally safe for solo female travelers who take appropriate precautions and stay in tourist-friendly neighborhoods. The city has women-only metro cars and buses, and many areas like Roma Norte and Condesa have strong female expat communities. However, women should be more cautious at night and aware of machismo culture in some areas.",
+    "tips": [
+      "Use women-only metro cars (front cars) and bus sections during rush hours",
+      "Stay in well-lit, busy neighborhoods like Roma Norte, Condesa, or Polanco",
+      "Use Uber or official taxis instead of walking alone at night",
+      "Dress modestly to avoid unwanted attention, especially outside tourist areas",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Mexico City varies dramatically by neighborhood. Areas like Roma Norte, Condesa, and Polanco remain relatively safe with good lighting and foot traffic, while other areas become much riskier after dark. The general rule is to stick to well-known entertainment districts and use reliable transportation.",
+    "tips": [
+      "Stick to busy, well-lit streets in tourist neighborhoods after dark",
+      "Always use Uber or official taxis instead of walking long distances at night",
+      "Avoid Centro Historico and unknown neighborhoods after 10 PM",
+      "Never leave drinks unattended in bars and clubs",
+      "Travel in groups when possible and let someone know your plans"
+    ]
+  },
+  "transport": {
+    "metro": "The Mexico City Metro is extensive and cheap but gets extremely crowded during rush hours. Women-only cars are available at the front of trains. Generally safe during daytime but avoid during late night hours. Watch for pickpockets in crowded conditions.",
+    "rideshare": "Uber and DiDi operate throughout the city and are considered the safest transportation options. Both apps work well with English interfaces. Prices are affordable and drivers are generally reliable. Always verify license plate and driver before getting in.",
+    "taxis": "Official pink and white taxis are regulated but more expensive than ride-sharing. Ensure license plates start with A or B and driver ID is visible. Never hail unmarked street taxis. Sitio (radio) taxis are safer than street taxis.",
+    "tips": "Use ride-sharing apps whenever possible. Avoid public transport during rush hours (7-9 AM, 5-7 PM) due to overcrowding. Keep mobile data active to track rides and call for help if needed."
+  },
+  "customs": [
+    "Greet people with handshakes or cheek kisses depending on familiarity, and always greet each person individually in group settings",
+    "Use formal Spanish (usted) when addressing strangers, elders, or service staff until invited to use informal language",
+    "Tipping is expected - 10-15% at restaurants, small amounts for gas station attendants, hotel staff, and supermarket bag boys",
+    "Say 'con permiso' when passing by people and 'buen provecho' before eating meals",
+    "Punctuality is more relaxed than in North America - being 15-30 minutes late for social events is normal"
+  ],
+  "health": {
+    "overview": "Mexico City has adequate healthcare with both public and private options. The altitude of 7,380 feet may affect some visitors initially. Air pollution can be an issue, especially during winter months.",
+    "water": "Do not drink tap water. Use bottled or filtered water for drinking and brushing teeth. Ice in restaurants is generally safe as it's made from purified water.",
+    "vaccinations": "No special vaccinations required for Mexico City. Standard travel vaccines (hepatitis A/B, typhoid) may be recommended. Ensure routine vaccinations are up to date.",
+    "altitude": "At 7,380 feet elevation, some visitors may experience mild altitude sickness initially. Air pollution can aggravate asthma and respiratory conditions, especially in winter."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "(55) 5207-4155",
+    "usEmbassy": "U.S. Embassy Mexico City: +52 55 8526-2561. Located at Paseo de la Reforma 305, Colonia Cuauhtémoc. Emergency services: +1-202-501-4444 (from abroad) or +1-888-407-4747 (from U.S./Canada)."
+  },
+  "faq": [
+    {
+      "q": "Is Mexico City safe for tourists?",
+      "a": "Yes, Mexico City is generally safe for tourists who stick to well-known neighborhoods like Roma Norte, Condesa, and Polanco, use reliable transportation, and follow basic urban safety practices. Over 12 million visitors come annually with most having safe trips."
+    },
+    {
+      "q": "Is Mexico City safe at night?",
+      "a": "Safety at night depends heavily on location. Areas like Roma Norte and Condesa remain relatively safe with good lighting and police presence, but it's best to use Uber for transportation and avoid walking alone in unfamiliar areas after dark."
+    },
+    {
+      "q": "Is Mexico City safe for solo female travelers?",
+      "a": "Yes, with precautions. Many solo female travelers visit safely by staying in tourist-friendly neighborhoods, using women-only metro cars, taking Uber at night, and dressing modestly. Trust your instincts and stay in well-populated areas."
+    },
+    {
+      "q": "What areas should I avoid in Mexico City?",
+      "a": "Avoid Iztapalapa, outer areas of Ecatepec, and peripheral neighborhoods with high poverty rates. Even in safe areas, avoid empty streets late at night and exercise extra caution in Centro Historico after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Mexico City?",
+      "a": "The Metro is generally safe during daytime but gets very crowded during rush hours when pickpocketing risks increase. Women should use the designated women-only cars. Uber and DiDi are safer and more convenient alternatives."
+    }
+  ],
+  "relatedCities": [
+    "guadalajara",
+    "monterrey",
+    "puebla"
+  ],
+  "_city_id": "mexico-city-mexico"
+}

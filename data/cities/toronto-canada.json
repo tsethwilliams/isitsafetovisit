@@ -1,0 +1,165 @@
+{
+  "slug": "toronto",
+  "name": "Toronto",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.4,
+    "scamRisk": 7.0,
+    "womensSafety": 8.2,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 8.8
+  },
+  "summary": "Toronto ranks as one of the world's safest major cities, consistently rated 6th globally and safest in North America by The Economist. With declining violent crime rates in 2025 reaching 20-year lows and excellent healthcare infrastructure, the city offers a secure environment for tourists despite some property crime concerns in certain neighborhoods.",
+  "quickVerdict": "Toronto is exceptionally safe for tourists, with crime statistics significantly lower than other major North American cities. While property crimes like break-ins occur primarily in wealthy residential areas and some tourist districts, violent crime has dropped dramatically to historic lows. The city's excellent public transportation, world-class healthcare system, and strong police presence make it ideal for all types of travelers including solo females and families.",
+  "neighborhoods": [
+    {
+      "name": "Downtown Core & Financial District",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Toronto bounded by Spadina, Dundas, Yonge and the waterfront. Heavy police presence, constant foot traffic, and good lighting make this area very safe day and night. Tourist-friendly with major attractions."
+    },
+    {
+      "name": "Yorkville",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale neighborhood with luxury shopping and dining. Excellent safety record with minimal crime due to affluent demographics and strong security presence. Perfect for tourists seeking high-end experiences."
+    },
+    {
+      "name": "Entertainment District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Richmond and Adelaide Street area with bars and nightclubs. Generally safe but use caution on weekend nights due to intoxicated crowds and increased police activity. Stay in well-lit areas."
+    },
+    {
+      "name": "Kensington Market",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Bohemian area with eclectic shops and restaurants. Safe during the day but can be sketchy after dark with fewer people around. Exercise normal urban precautions, especially at night."
+    },
+    {
+      "name": "Jane and Finch",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Northwest Toronto neighborhood with higher crime rates including shootings and drug activity. Not recommended for tourists, especially after dark. Avoid this area unless absolutely necessary."
+    },
+    {
+      "name": "Regent Park",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Downtown east neighborhood undergoing revitalization. Improving safety but still has higher crime rates than city average. Use caution, particularly in the evening hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Government Officials",
+      "risk": "moderate",
+      "description": "Scammers impersonate Service Canada, Immigration, or Revenue Agency officials via phone or email, threatening arrest or deportation unless immediate payment is made.",
+      "howToAvoid": "Government agencies never request personal information or payment over phone/email. Hang up and call the official number directly to verify any claims."
+    },
+    {
+      "name": "Fake Event Tickets",
+      "risk": "moderate",
+      "description": "Individuals sell counterfeit tickets to popular Toronto events, concerts, and sports games at discounted prices, especially around major venues like CN Tower and Entertainment District.",
+      "howToAvoid": "Only purchase tickets from official venues, authorized sellers, or verified websites like Ticketmaster. Be extremely wary of street vendors offering 'great deals'."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "moderate",
+      "description": "Card skimmers attached to ATMs in high-traffic tourist areas capture credit card information, particularly at standalone machines in convenience stores or bars.",
+      "howToAvoid": "Use ATMs inside banks when possible. Check for loose or unusual attachments on card slots. Cover your PIN when entering. Monitor bank statements regularly."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "low",
+      "description": "Some taxi drivers claim broken meters and quote inflated flat rates, particularly targeting tourists from airports or tourist attractions.",
+      "howToAvoid": "Never accept a taxi with a broken meter. Use licensed taxis with working meters, or preferably use Uber/Lyft with transparent pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Toronto is exceptionally safe for solo female travelers, ranking among the world's top destinations for women. The city has excellent infrastructure, reliable public transportation, and a respectful culture with low harassment rates. Local women report feeling comfortable walking alone during the day and reasonably safe at night in well-lit areas.",
+    "tips": [
+      "Downtown areas are very safe day and night with good lighting and police presence",
+      "Use the TTC public transit system which is safe and well-monitored, even late at night",
+      "Stay in the downtown core or Yorkville areas for optimal safety and convenience",
+      "Avoid Jane-Finch area and be cautious in Entertainment District on weekend nights",
+      "Trust your instincts and don't hesitate to ask locals for help - Canadians are very helpful"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Toronto maintains good safety standards at night, though risks increase slightly after dark as in any major city. The downtown core remains well-lit and patrolled, while the Entertainment District sees increased police presence on weekends. Most violent crime occurs in outer neighborhoods not frequented by tourists.",
+    "tips": [
+      "Stick to well-lit main streets and avoid dark alleys or isolated areas",
+      "Use Uber, Lyft, or TTC's Blue Night Network rather than walking long distances alone",
+      "Be extra cautious in the Entertainment District on weekends due to intoxicated crowds",
+      "The PATH underground system is less busy at night but generally safe",
+      "Emergency services respond quickly and 911 is available in 240+ languages"
+    ]
+  },
+  "transport": {
+    "metro": "The TTC subway system is safe and efficient with police presence and SafeTTC app for reporting concerns. Runs until 1:30 AM with Blue Night Network buses after. Some stations have increased security due to recent incidents but violent crime on transit remains low.",
+    "rideshare": "Uber and Lyft operate safely throughout Toronto with standard safety features. Prices surge during peak times and bad weather. More reliable and transparent than traditional taxis, especially for tourists.",
+    "taxis": "Licensed taxis are generally safe with regulated metered fares. Ensure the meter is running and avoid any driver claiming a broken meter. Co-op Cabs and Beck are reputable companies. 10-15% tip is customary.",
+    "tips": "Public transport is excellent and safe. Download the TTC or Triplinx app for real-time updates. Keep valuables secure during rush hour when crowded. PRESTO card works across all transit systems in the region."
+  },
+  "customs": [
+    "Canadians are extremely polite - always say please, thank you, and sorry liberally",
+    "Tipping is mandatory: 15-20% at restaurants, 10-15% for taxis and services",
+    "Remove shoes when entering someone's home - this is widely expected",
+    "Punctuality is highly valued - arrive on time for all appointments and meetings",
+    "Queue properly and never cut in line - this is a serious social taboo"
+  ],
+  "health": {
+    "overview": "Canada has world-class healthcare but tourists must pay out-of-pocket without travel insurance. Toronto has excellent hospitals and medical facilities with English-speaking staff. Air quality is good and tap water is completely safe to drink.",
+    "water": "Toronto's tap water is excellent quality, regularly tested, and sourced from Lake Ontario. Safe to drink without purification. Public water fountains are available throughout the city.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations (hepatitis A/B, influenza) may be recommended. Canada has no malaria risk and very low disease transmission rates.",
+    "altitude": "Toronto is at sea level with no altitude concerns. Climate ranges from hot summers (30°C/86°F) to cold winters (-10°C/14°F). Winter weather can pose health risks from extreme cold."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 416-808-2222 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911 or 416-338-9050 (non-emergency)",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Toronto: 360 University Avenue, Toronto ON M5G 1S4. Phone: 416-595-1700. Emergency services for US citizens available 24/7 through Washington."
+  },
+  "faq": [
+    {
+      "q": "Is Toronto safe for tourists?",
+      "a": "Yes, Toronto is exceptionally safe for tourists, ranking 6th among world's safest major cities. Crime rates are low compared to other North American cities, with excellent police presence and emergency services."
+    },
+    {
+      "q": "Is Toronto safe at night?",
+      "a": "Toronto is generally safe at night, especially in the downtown core and tourist areas which are well-lit and patrolled. Use normal urban precautions, avoid dark alleys, and consider using ride-sharing or public transit for longer distances."
+    },
+    {
+      "q": "Is Toronto safe for solo female travelers?",
+      "a": "Absolutely. Toronto is considered one of the world's safest cities for solo female travelers with low harassment rates, excellent public transport, and respectful local culture. Many women report feeling comfortable walking alone even at night in downtown areas."
+    },
+    {
+      "q": "What areas should I avoid in Toronto?",
+      "a": "Avoid Jane-Finch area in northwest Toronto due to higher crime rates. Exercise caution in Regent Park and some parts of Scarborough. The Entertainment District requires extra vigilance on weekend nights due to intoxicated crowds."
+    },
+    {
+      "q": "Is it safe to use public transport in Toronto?",
+      "a": "Yes, the TTC system is safe and reliable with police presence and monitoring. Some incidents have occurred recently but violent crime on transit remains low. Use the SafeTTC app to report any concerns discreetly."
+    }
+  ],
+  "relatedCities": [
+    "vancouver",
+    "montreal",
+    "ottawa",
+    "calgary",
+    "quebec-city"
+  ],
+  "_city_id": "toronto-canada"
+}

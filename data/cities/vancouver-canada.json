@@ -1,0 +1,163 @@
+{
+  "slug": "vancouver",
+  "name": "Vancouver",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.8,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.2,
+    "transport": 8.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Vancouver is considered one of Canada's safest major cities, with violent crime decreasing significantly in recent years and excellent public safety infrastructure. While property crime remains a concern, particularly vehicle break-ins, the city maintains low overall crime rates compared to other North American cities.",
+  "quickVerdict": "Vancouver consistently ranks as one of the safest cities in North America, with Canada maintaining its Level 1 US State Department travel advisory status. The city has seen notable improvements in violent crime rates, dropping to 23-year lows in some categories, though visitors should remain vigilant about property crime, particularly in the Downtown Eastside area. The excellent public transit system, comprehensive healthcare, and strong emergency response infrastructure make it very safe for tourists.",
+  "neighborhoods": [
+    {
+      "name": "West End",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale residential area near downtown with excellent walkability, well-lit streets, and high police presence. Very safe for tourists day and night."
+    },
+    {
+      "name": "Yaletown",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern downtown district with luxury condos, upscale dining, and good security. Popular nightlife area that remains relatively safe with regular police patrols."
+    },
+    {
+      "name": "Gastown",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Historic tourist district with cobblestone streets and popular attractions. Generally safe during the day but exercise some caution at night, especially on the eastern edges."
+    },
+    {
+      "name": "Kitsilano",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Beachside neighborhood popular with young professionals. Very safe residential area with good lighting and community presence."
+    },
+    {
+      "name": "Commercial Drive",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Diverse cultural area with great restaurants and shops. Generally safe but can get busy at night, requiring normal urban precautions."
+    },
+    {
+      "name": "Downtown Eastside",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Area with high concentration of homeless population and drug use. Visitors should avoid this area, especially at night, though daytime visits with awareness are generally manageable."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bank Investigator Impersonation",
+      "risk": "high",
+      "description": "Sophisticated scammers pose as bank fraud investigators, convincing victims to withdraw cash or purchase gold bars for 'investigation purposes'. Recent cases have resulted in losses exceeding $685,000.",
+      "howToAvoid": "Never give personal banking information over the phone. Banks will never ask you to withdraw money or buy gold for investigations. Hang up and call your bank directly using the number on your card."
+    },
+    {
+      "name": "Chinese Community Blessing Scams",
+      "risk": "medium",
+      "description": "Fraudsters target elderly Chinese residents with blessing ceremonies, claiming to remove bad luck while stealing cash and jewelry. Victims have lost nearly $150,000 in recent incidents.",
+      "howToAvoid": "Be suspicious of strangers approaching with offers of spiritual ceremonies or blessings. Never hand over money or valuables to unknown individuals."
+    },
+    {
+      "name": "Fake Government Official Calls",
+      "risk": "medium",
+      "description": "Scammers impersonate Service Canada, Revenue Agency, or Immigration officials, threatening arrest or deportation unless immediate payment is made via gift cards or wire transfers.",
+      "howToAvoid": "Government agencies never demand immediate payment over the phone or threaten arrest. Hang up and contact the agency directly through official channels to verify any claims."
+    },
+    {
+      "name": "Tourist Taxi Overcharging",
+      "risk": "low",
+      "description": "Some taxi drivers may overcharge tourists by claiming broken meters, taking longer routes, or adding unauthorized fees, especially from the airport.",
+      "howToAvoid": "Use rideshare apps like Uber or Lyft when possible. For taxis, ask for an estimated fare upfront and ensure the meter is running. Keep receipts and report issues to the taxi company."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Vancouver is considered very safe for solo female travelers, ranking among the top destinations globally. The city has strong gender equality laws, well-lit streets, reliable public transport, and a progressive culture that respects women's independence. Most solo female travelers report feeling comfortable walking around during the day and evening in main areas.",
+    "tips": [
+      "Avoid the Downtown Eastside area, particularly East Hastings Street, especially at night",
+      "Use the excellent public transit system - SkyTrain and buses are safe and well-monitored",
+      "Stay in well-populated areas like West End, Yaletown, or Kitsilano for accommodation",
+      "Trust your instincts and don't hesitate to ask locals for help - Canadians are typically very helpful",
+      "Use rideshare apps for late-night transportation rather than walking alone in less busy areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Vancouver's nightlife areas are generally safe with good police presence and well-lit streets. The main entertainment districts like Granville Street, Gastown, and Yaletown have regular patrols and security. However, some areas like parts of Gastown and the Downtown Eastside require extra caution after dark.",
+    "tips": [
+      "Stick to main nightlife areas like Granville Street, Yaletown, and central Gastown",
+      "Travel in groups when possible and don't leave drinks unattended",
+      "Use Uber, Lyft, or taxis for late-night transportation rather than walking long distances",
+      "Be aware of your surroundings and trust your instincts if something feels off",
+      "Keep valuables secure and avoid displaying expensive items like jewelry or electronics"
+    ]
+  },
+  "transport": {
+    "metro": "Vancouver's SkyTrain is considered one of the world's safest automated transit systems, operating on three lines with excellent safety records. Stations are well-lit, monitored by security cameras, and have emergency communication systems. Transit Police patrol the system regularly.",
+    "rideshare": "Uber and Lyft operate throughout Vancouver since 2020 and are generally safe and reliable. Both apps have built-in safety features like trip sharing and driver verification. Rides are typically more expensive than public transit but offer door-to-door convenience.",
+    "taxis": "Licensed taxis are regulated and safe, though more expensive than rideshare options. Always ensure the taxi is licensed (look for proper identification) and the meter is running. Airport taxis to downtown cost approximately CAD $32-39.",
+    "tips": "Public transit is the safest and most affordable option. Get a Compass Card for easy payment across all TransLink services including SkyTrain, buses, and SeaBus. The system operates until about 1 AM with NightBus service afterwards."
+  },
+  "customs": [
+    "Canadians are famously polite - saying 'please', 'thank you', and 'sorry' frequently is expected and appreciated",
+    "Tipping is customary at restaurants (15-20%), bars, and for services like taxis and hairdressers",
+    "Remove shoes when entering someone's home unless told otherwise",
+    "Respect personal space - Canadians value arm's length distance in conversations and dislike being touched by strangers",
+    "Queue politely and wait your turn - cutting in line is considered very rude and will draw negative attention"
+  ],
+  "health": {
+    "overview": "Vancouver has excellent healthcare infrastructure with world-class hospitals and medical facilities. The air quality is generally good, though wildfire smoke can occasionally affect the city during summer months. No special vaccinations are required for travel to Vancouver.",
+    "water": "Tap water in Vancouver is safe to drink and meets all Canadian federal guidelines. The city's water supply comes from protected mountain watersheds and is regularly tested for quality and safety.",
+    "vaccinations": "No special vaccinations are required for Vancouver. Routine vaccines like MMR, flu, and COVID-19 are recommended. Travel insurance is strongly advised as healthcare can be expensive for visitors.",
+    "altitude": "Vancouver is at sea level with a mild oceanic climate. Summers are warm and dry (average 22°C/72°F) while winters are cool and rainy (average 6°C/43°F). Pack layers and rain gear year-round."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 604-717-3321 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Vancouver: 1075 West Pender Street, Phone: 604-685-4311, Emergency: 604-685-4311"
+  },
+  "faq": [
+    {
+      "q": "Is Vancouver safe for tourists?",
+      "a": "Yes, Vancouver is very safe for tourists and consistently ranks among North America's safest cities. Violent crime rates have decreased significantly in recent years, though visitors should be aware of property crime and avoid the Downtown Eastside area."
+    },
+    {
+      "q": "Is Vancouver safe at night?",
+      "a": "Vancouver is generally safe at night in main tourist areas like downtown, Yaletown, and Gastown. The nightlife districts are well-patrolled and lit. However, avoid walking alone in less populated areas and use rideshare or taxis for late-night transportation."
+    },
+    {
+      "q": "Is Vancouver safe for solo female travelers?",
+      "a": "Yes, Vancouver is excellent for solo female travelers and ranks among the world's safest destinations for women. The city has strong gender equality laws, good public transport, and a culture that respects women's independence. Basic urban precautions are sufficient."
+    },
+    {
+      "q": "What areas should I avoid in Vancouver?",
+      "a": "The main area to avoid is the Downtown Eastside, particularly East Hastings Street, due to high concentrations of homelessness and drug use. Parts of Gastown can be sketchy at night. Otherwise, Vancouver is very safe throughout most neighborhoods."
+    },
+    {
+      "q": "Is it safe to use public transport in Vancouver?",
+      "a": "Yes, Vancouver's public transport system is very safe and efficient. The SkyTrain is fully automated with excellent safety records, and buses are reliable. The TransLink system is well-monitored with Transit Police patrols and emergency communication systems throughout."
+    }
+  ],
+  "relatedCities": [
+    "toronto",
+    "montreal",
+    "calgary"
+  ],
+  "_city_id": "vancouver-canada"
+}

@@ -11882,6 +11882,825 @@
         "milwaukee",
         "boston"
       ]
+    },
+    {
+      "slug": "las-vegas",
+      "name": "Las Vegas",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 7.2,
+        "scamRisk": 5.5,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 7.8,
+        "naturalHazards": 8.0
+      },
+      "summary": "Las Vegas is generally safe for tourists, with heavy security presence on the Strip and downtown areas. Crime has been declining, with violent crime down 4.3% and property crime down 9.4% in recent years. Tourist areas benefit from extensive surveillance and police patrols.",
+      "quickVerdict": "Las Vegas is a safe destination for tourists who stick to main areas like the Strip and Fremont Street. The city has invested heavily in security infrastructure with extensive surveillance, police presence, and private security. While petty crime and tourist-targeted scams exist, violent crime against tourists is relatively rare. The key to staying safe is remaining in well-lit, high-traffic areas and being aware of common scams.",
+      "neighborhoods": [
+        {
+          "name": "The Strip",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Heavily surveilled with constant police and security presence. Well-lit and crowded, making it one of the safest areas for tourists day and night."
+        },
+        {
+          "name": "Fremont Street Experience",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Downtown's covered pedestrian mall with good security, but slightly grittier than the Strip. Safe within the main corridor but caution needed on edges."
+        },
+        {
+          "name": "Summerlin",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale residential area with low crime rates, excellent infrastructure, and family-friendly environment. Popular with visitors staying off-Strip."
+        },
+        {
+          "name": "Henderson",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Suburban area southeast of Las Vegas with lower crime rates than the main city. Generally safe but requires transportation to reach main attractions."
+        },
+        {
+          "name": "West Las Vegas",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Higher crime rates including violent crime. Not recommended for tourists, especially after dark. Avoid this area entirely if possible."
+        },
+        {
+          "name": "East Las Vegas/Near Airport",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Mixed area with some higher crime pockets. Exercise caution, especially around East Sahara Avenue. Better during daytime hours."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Street Performer Photo Demands",
+          "risk": "medium",
+          "description": "Costumed characters offer photos then aggressively demand payment. Common on the Strip with Elvis impersonators, superheroes, and showgirls.",
+          "howToAvoid": "Don't engage unless you're prepared to tip. Walk past without making eye contact or politely decline and keep moving."
+        },
+        {
+          "name": "Three Card Monte/Shell Games",
+          "risk": "high",
+          "description": "Hustlers on pedestrian walkways offer gambling games where you can't win. Cards are switched or balls are removed using sleight of hand.",
+          "howToAvoid": "Never participate in illegal street gambling. Remember these games are rigged and operated without permits. Stick to regulated casinos only."
+        },
+        {
+          "name": "Taxi Long Hauling",
+          "risk": "medium",
+          "description": "Some taxi drivers take longer routes, especially from the airport, to inflate fares. The tunnel route can add $10+ to your fare unnecessarily.",
+          "howToAvoid": "Use rideshare apps for transparent pricing, ask for the flat airport rate, or request the Swenson route instead of the tunnel from the airport."
+        },
+        {
+          "name": "Fake VIP Club Promotions",
+          "risk": "high",
+          "description": "Street hustlers sell fake VIP passes or offer free club access with hidden fees, drink minimums, or no actual benefits.",
+          "howToAvoid": "Only buy tickets from legitimate sources or hotel concierges. Real VIP hosts don't demand money on the spot. Be wary of too-good-to-be-true offers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Las Vegas is generally safe for solo female travelers, especially in main tourist areas. The Strip and Fremont Street have excellent security and lighting. Many women travel here alone successfully for business and leisure. However, basic precautions are essential, particularly regarding drinks and nightlife.",
+        "tips": [
+          "Stay in well-lit, busy areas like the Strip or Fremont Street Experience",
+          "Never leave drinks unattended and don't accept drinks from strangers",
+          "Use rideshare or taxis between areas rather than walking alone at night",
+          "Keep valuables secure in front pockets or zipped bags",
+          "Trust your instincts and move to populated areas if feeling uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Las Vegas is designed for nightlife and generally safe after dark in tourist zones. The Strip and Fremont Street remain well-patrolled and crowded until late. However, safety decreases after midnight as crowds thin and intoxication increases. Areas outside the main tourist corridors become riskier at night.",
+        "tips": [
+          "Stick to the Strip and Fremont Street corridors after dark",
+          "Use rideshare or taxis rather than walking between distant locations",
+          "Avoid displaying expensive jewelry or large amounts of cash",
+          "Stay alert in crowded areas where pickpockets may operate",
+          "Plan your route in advance and avoid poorly lit side streets"
+        ]
+      },
+      "transport": {
+        "metro": "The Las Vegas Monorail runs from MGM Grand to Sahara with stops at major casinos. Safe and convenient for Strip travel, costs $13 for 1-day pass, $56 for 7-day pass. Limited coverage but reliable within its route.",
+        "rideshare": "Uber and Lyft are widely available and generally safe. Use designated pickup areas at hotels and the airport. Surge pricing common during events and peak times. Airport rides include $4.50 surcharge. Always verify driver and vehicle details.",
+        "taxis": "Regulated by Nevada Taxicab Authority with standard safety protocols. Available at hotel stands and airport. Cannot be hailed on streets - must be called or picked up at designated areas. More predictable pricing than rideshare during surge times.",
+        "tips": "Use official pickup zones, share your ride location with someone you trust, and keep transportation apps updated. Public buses operate 24/7 on main routes and are budget-friendly but slower than other options."
+      },
+      "customs": [
+        "Tipping is expected for most services - 18-20% for restaurants, $1-2 per drink at bars, $5-10 for housekeeping",
+        "Gambling age is 21, and you must show ID to enter casino floors or purchase alcohol",
+        "Public drinking is only allowed in certain areas - not on the street outside designated zones",
+        "Dress codes vary by venue - upscale restaurants and nightclubs may require formal attire",
+        "Smoking is prohibited in most public places but allowed in casino gaming areas"
+      ],
+      "health": {
+        "overview": "Nevada ranks 41st nationally for healthcare quality with some physician shortages. Las Vegas has major hospitals including Sunrise, UMC, and Valley Health System facilities. Healthcare costs are below national average. The dry desert climate can cause dehydration issues.",
+        "water": "Tap water is safe to drink throughout Las Vegas and meets EPA standards. The dry climate increases dehydration risk, so drink plenty of fluids, especially when walking outdoors or consuming alcohol.",
+        "vaccinations": "No special vaccinations required for Las Vegas. Standard US immunizations recommended. Heat-related illnesses are more common than infectious diseases.",
+        "altitude": "Las Vegas sits at 2,000 feet elevation - minimal altitude effects. The desert climate features extreme summer heat (100°F+) and mild winters. UV exposure is high due to intense sunshine and minimal cloud cover."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency), 702-828-3111 (non-emergency LVMPD)",
+        "ambulance": "911",
+        "fire": "911 (emergency), 702-383-2888 (non-emergency Las Vegas Fire)",
+        "touristPolice": "Tourist Safety Division available through LVMPD at 702-828-3111",
+        "usEmbassy": "As a US domestic destination, US citizens should contact local authorities. International visitors can reach their home country's consulate or the State Department at 202-501-4444."
+      },
+      "faq": [
+        {
+          "q": "Is Las Vegas safe for tourists?",
+          "a": "Yes, Las Vegas is generally safe for tourists who stay in main areas like the Strip and Fremont Street. These areas have heavy security presence and are well-monitored. Crime against tourists in these zones is uncommon, though petty theft and scams do occur."
+        },
+        {
+          "q": "Is Las Vegas safe at night?",
+          "a": "Las Vegas is designed for nightlife and the main tourist areas remain safe and well-patrolled after dark. The Strip and Fremont Street stay busy until late. However, avoid wandering into residential areas or poorly lit side streets, especially after midnight."
+        },
+        {
+          "q": "Is Las Vegas safe for solo female travelers?",
+          "a": "Yes, many women travel to Las Vegas solo successfully. Stay in tourist areas, don't leave drinks unattended, use rideshare between locations, and follow standard solo travel safety practices. The main areas are well-lit and populated."
+        },
+        {
+          "q": "What areas should I avoid in Las Vegas?",
+          "a": "Avoid West Las Vegas, the area north of the Strip near The Strat known as Naked City, and poorly lit areas east of downtown. Stick to the Strip, Fremont Street Experience, and other well-established tourist areas for maximum safety."
+        },
+        {
+          "q": "Is it safe to use public transport in Las Vegas?",
+          "a": "Yes, rideshare services, taxis, and the monorail are all safe options. The RTC bus system operates 24/7 and is generally safe but slower. Always use official pickup zones and verify driver information when using rideshare services."
+        }
+      ],
+      "relatedCities": [
+        "los-angeles",
+        "phoenix",
+        "denver",
+        "san-diego",
+        "salt-lake-city"
+      ]
+    },
+    {
+      "slug": "honolulu",
+      "name": "Honolulu",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "Oceania",
+      "regionSlug": "oceania",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.2,
+        "scamRisk": 5.5,
+        "womensSafety": 7.8,
+        "nightSafety": 7.0,
+        "transport": 7.5,
+        "naturalHazards": 8.5
+      },
+      "summary": "Honolulu stands as one of America's safest major cities, offering tourists a welcoming environment with low violent crime rates and strong police presence. While petty crime and tourist-targeted scams exist, particularly in Waikiki, the city maintains excellent safety standards for visitors.",
+      "quickVerdict": "Honolulu is generally very safe for tourists, ranking among the safest cities in the United States. While visitors should remain alert for petty theft and scams in tourist areas, violent crime affecting tourists is rare. The city benefits from comprehensive emergency services, good public transportation, and the famous aloha spirit that creates a welcoming atmosphere for all travelers.",
+      "neighborhoods": [
+        {
+          "name": "Waikiki Beach",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The tourist heart of Honolulu with strong police presence and security. Well-lit streets stay busy until late with regular patrols. Main tourist areas along Kalakaua Avenue are very safe for walking day and night."
+        },
+        {
+          "name": "Downtown Honolulu",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Business district with good daytime security and police presence. Well-maintained area during business hours with adequate lighting. Some areas become quieter after work hours but remain generally safe."
+        },
+        {
+          "name": "Chinatown",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Vibrant cultural district with good restaurants and nightlife. Generally safe during the day but can feel less secure at night. Stick to main streets and avoid isolated areas after dark."
+        },
+        {
+          "name": "Kalihi-Palama",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Local residential area with higher crime rates than tourist zones. Not typically visited by tourists but requires standard urban precautions if traveling through. Limited tourist infrastructure."
+        },
+        {
+          "name": "Ala Moana",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Shopping and business area near the harbor with good security at the mall and surrounding areas. Well-patrolled with good lighting and regular foot traffic during the day and evening."
+        },
+        {
+          "name": "Manoa Valley",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential area near the university with very low crime rates. Quiet, well-maintained neighborhood popular for hiking trails. Excellent safety record with minimal incidents reported."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Drivers deliberately taking longer routes or overcharging, especially from airport to Waikiki. Some quote inflated flat rates or take scenic routes to increase fares.",
+          "howToAvoid": "Use rideshare apps like Uber, Lyft, or local Holoholo app for transparent pricing. If using taxis, insist on meter usage and know the approximate distance to your destination."
+        },
+        {
+          "name": "Timeshare Presentations",
+          "risk": "medium",
+          "description": "Street vendors offering free or discounted attraction tickets in exchange for attending timeshare presentations. Often disguised as activity brokers or tour guides.",
+          "howToAvoid": "Decline any offers from street vendors for free tickets requiring presentations. Book attractions directly through official websites or verified tour companies."
+        },
+        {
+          "name": "Fake Booking Websites",
+          "risk": "high",
+          "description": "Third-party booking sites offering dramatically discounted accommodations that don't exist or have hidden fees. Some sites mimic legitimate hotel booking platforms.",
+          "howToAvoid": "Book directly through hotel websites or established travel agents. Verify suspicious deals by calling hotels directly. Use credit cards for purchase protection."
+        },
+        {
+          "name": "Pearl Harbor Tour Markup",
+          "risk": "medium",
+          "description": "Companies charging premium prices for Pearl Harbor tours when basic admission to USS Arizona Memorial is free. Overpriced packages for what amounts to free access and transportation.",
+          "howToAvoid": "Know that Pearl Harbor basic admission is free. Book directly through official National Park Service website or take public transportation to save money."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Honolulu is considered one of the safest U.S. cities for solo female travelers. The city has low violent crime rates, strong police presence in tourist areas, and the welcoming aloha spirit. Most areas are well-lit and populated, particularly in Waikiki and downtown. Women report feeling comfortable walking alone during the day and in busy areas at night.",
+        "tips": [
+          "Stay in well-lit, populated areas at night, particularly in Waikiki where there's constant foot traffic",
+          "Use rideshare apps or hotel transportation rather than walking alone late at night in less busy areas",
+          "Be aware of your surroundings near the Ala Wai Canal area which can feel isolated after dark",
+          "Trust local advice and hotel staff recommendations for safe areas to explore",
+          "Consider female-only hostels or accommodations if staying in budget lodging"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Honolulu's main tourist areas are generally safe at night with good lighting and police patrols. Waikiki stays lively until late with plenty of people around. The city has implemented enhanced security measures including drone surveillance and increased security presence. Crime rates are significantly lower than comparable mainland cities.",
+        "tips": [
+          "Stick to main tourist areas like Kalakaua Avenue and Kuhio Avenue in Waikiki where there's consistent activity",
+          "Avoid isolated areas like parts of the Ala Wai Canal or empty beaches after dark",
+          "Travel in groups when possible and stay on well-lit streets",
+          "Keep valuables secure and avoid displaying expensive items or large amounts of cash",
+          "Use hotel concierge recommendations for safe nightlife venues and transportation options"
+        ]
+      },
+      "transport": {
+        "metro": "TheBus is Honolulu's public transportation system, covering most of the island with frequent service. It's generally safe and reliable with good lighting at stops and security cameras. Routes connect all major tourist attractions and the system is well-used by both locals and visitors.",
+        "rideshare": "Uber, Lyft, and local Holoholo rideshare services operate throughout Honolulu with good coverage. These apps provide transparent pricing and GPS tracking, making them safer than traditional taxis. Pickup areas at airports and popular venues are clearly marked.",
+        "taxis": "Traditional taxis exist but have reputation issues with overcharging tourists. Drivers may take longer routes or quote inflated flat rates. Some visitors report significant fare differences between meter and quoted prices, particularly for airport transfers.",
+        "tips": "Use rideshare apps for the most reliable and fairly-priced transportation. TheBus is safe and economical for longer distances. Avoid traditional taxis unless necessary, and always insist on meter usage if using them."
+      },
+      "customs": [
+        "Remove shoes before entering homes - this is standard practice throughout Hawaii as a sign of respect",
+        "Embrace the aloha spirit by being friendly, patient, and respectful to locals and fellow visitors",
+        "Don't take lava rocks, coral, or sand from beaches as souvenirs - it's considered bad luck and environmentally harmful",
+        "Respect sacred sites and cultural landmarks by following posted guidelines and staying on designated paths",
+        "Practice 'Hawaiian time' - be flexible with schedules and don't rush, as island life moves at a slower pace"
+      ],
+      "health": {
+        "overview": "Honolulu has excellent healthcare facilities including multiple hospitals and clinics that serve tourists. The Queen's Medical Center and Straub Medical Center provide comprehensive emergency and specialty care. Hawaii has modern medical facilities comparable to mainland United States standards.",
+        "water": "Tap water is safe to drink throughout Honolulu and meets all federal safety standards. No special precautions needed for water consumption.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel vaccines like hepatitis A and typhoid may be recommended by some doctors but are not required for entry.",
+        "altitude": "Honolulu is at sea level with a tropical climate. Year-round temperatures range from 70-85°F. Strong UV rays require sun protection, and ocean activities need awareness of currents and marine life."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or (808) 529-3111",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "Not applicable - Honolulu is in the United States. For federal assistance: (808) 541-2860"
+      },
+      "faq": [
+        {
+          "q": "Is Honolulu safe for tourists?",
+          "a": "Yes, Honolulu is very safe for tourists and ranks among the safest major cities in the United States. Violent crime rates are low, and there's strong police presence in tourist areas. Standard precautions against petty theft are recommended."
+        },
+        {
+          "q": "Is Honolulu safe at night?",
+          "a": "Waikiki and main tourist areas are safe at night with good lighting and police patrols. The areas stay busy until late. However, avoid isolated areas like parts of the Ala Wai Canal and stick to well-populated streets."
+        },
+        {
+          "q": "Is Honolulu safe for solo female travelers?",
+          "a": "Yes, Honolulu is considered one of the safest cities in America for solo female travelers. Women report feeling comfortable exploring during the day and in busy areas at night. Use standard precautions and stay in well-lit tourist areas."
+        },
+        {
+          "q": "What areas should I avoid in Honolulu?",
+          "a": "While most of Honolulu is safe, be cautious in parts of Kalihi-Palama neighborhood, isolated areas near the Ala Wai Canal after dark, and avoid leaving valuables in cars anywhere, especially at beach parking lots."
+        },
+        {
+          "q": "Is it safe to use public transport in Honolulu?",
+          "a": "Yes, TheBus public transportation system is safe, reliable, and well-used by both locals and tourists. Buses are equipped with security cameras and stops are generally well-lit. Rideshare services are also readily available and safe."
+        }
+      ],
+      "relatedCities": [
+        "anchorage",
+        "fairbanks",
+        "auckland",
+        "sydney",
+        "wellington"
+      ]
+    },
+    {
+      "slug": "toronto",
+      "name": "Toronto",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.4,
+        "scamRisk": 7.0,
+        "womensSafety": 8.2,
+        "nightSafety": 7.5,
+        "transport": 8.0,
+        "naturalHazards": 8.8
+      },
+      "summary": "Toronto ranks as one of the world's safest major cities, consistently rated 6th globally and safest in North America by The Economist. With declining violent crime rates in 2025 reaching 20-year lows and excellent healthcare infrastructure, the city offers a secure environment for tourists despite some property crime concerns in certain neighborhoods.",
+      "quickVerdict": "Toronto is exceptionally safe for tourists, with crime statistics significantly lower than other major North American cities. While property crimes like break-ins occur primarily in wealthy residential areas and some tourist districts, violent crime has dropped dramatically to historic lows. The city's excellent public transportation, world-class healthcare system, and strong police presence make it ideal for all types of travelers including solo females and families.",
+      "neighborhoods": [
+        {
+          "name": "Downtown Core & Financial District",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of Toronto bounded by Spadina, Dundas, Yonge and the waterfront. Heavy police presence, constant foot traffic, and good lighting make this area very safe day and night. Tourist-friendly with major attractions."
+        },
+        {
+          "name": "Yorkville",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Upscale neighborhood with luxury shopping and dining. Excellent safety record with minimal crime due to affluent demographics and strong security presence. Perfect for tourists seeking high-end experiences."
+        },
+        {
+          "name": "Entertainment District",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Richmond and Adelaide Street area with bars and nightclubs. Generally safe but use caution on weekend nights due to intoxicated crowds and increased police activity. Stay in well-lit areas."
+        },
+        {
+          "name": "Kensington Market",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Bohemian area with eclectic shops and restaurants. Safe during the day but can be sketchy after dark with fewer people around. Exercise normal urban precautions, especially at night."
+        },
+        {
+          "name": "Jane and Finch",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Northwest Toronto neighborhood with higher crime rates including shootings and drug activity. Not recommended for tourists, especially after dark. Avoid this area unless absolutely necessary."
+        },
+        {
+          "name": "Regent Park",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Downtown east neighborhood undergoing revitalization. Improving safety but still has higher crime rates than city average. Use caution, particularly in the evening hours."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Government Officials",
+          "risk": "moderate",
+          "description": "Scammers impersonate Service Canada, Immigration, or Revenue Agency officials via phone or email, threatening arrest or deportation unless immediate payment is made.",
+          "howToAvoid": "Government agencies never request personal information or payment over phone/email. Hang up and call the official number directly to verify any claims."
+        },
+        {
+          "name": "Fake Event Tickets",
+          "risk": "moderate",
+          "description": "Individuals sell counterfeit tickets to popular Toronto events, concerts, and sports games at discounted prices, especially around major venues like CN Tower and Entertainment District.",
+          "howToAvoid": "Only purchase tickets from official venues, authorized sellers, or verified websites like Ticketmaster. Be extremely wary of street vendors offering 'great deals'."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "moderate",
+          "description": "Card skimmers attached to ATMs in high-traffic tourist areas capture credit card information, particularly at standalone machines in convenience stores or bars.",
+          "howToAvoid": "Use ATMs inside banks when possible. Check for loose or unusual attachments on card slots. Cover your PIN when entering. Monitor bank statements regularly."
+        },
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "low",
+          "description": "Some taxi drivers claim broken meters and quote inflated flat rates, particularly targeting tourists from airports or tourist attractions.",
+          "howToAvoid": "Never accept a taxi with a broken meter. Use licensed taxis with working meters, or preferably use Uber/Lyft with transparent pricing."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Toronto is exceptionally safe for solo female travelers, ranking among the world's top destinations for women. The city has excellent infrastructure, reliable public transportation, and a respectful culture with low harassment rates. Local women report feeling comfortable walking alone during the day and reasonably safe at night in well-lit areas.",
+        "tips": [
+          "Downtown areas are very safe day and night with good lighting and police presence",
+          "Use the TTC public transit system which is safe and well-monitored, even late at night",
+          "Stay in the downtown core or Yorkville areas for optimal safety and convenience",
+          "Avoid Jane-Finch area and be cautious in Entertainment District on weekend nights",
+          "Trust your instincts and don't hesitate to ask locals for help - Canadians are very helpful"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Toronto maintains good safety standards at night, though risks increase slightly after dark as in any major city. The downtown core remains well-lit and patrolled, while the Entertainment District sees increased police presence on weekends. Most violent crime occurs in outer neighborhoods not frequented by tourists.",
+        "tips": [
+          "Stick to well-lit main streets and avoid dark alleys or isolated areas",
+          "Use Uber, Lyft, or TTC's Blue Night Network rather than walking long distances alone",
+          "Be extra cautious in the Entertainment District on weekends due to intoxicated crowds",
+          "The PATH underground system is less busy at night but generally safe",
+          "Emergency services respond quickly and 911 is available in 240+ languages"
+        ]
+      },
+      "transport": {
+        "metro": "The TTC subway system is safe and efficient with police presence and SafeTTC app for reporting concerns. Runs until 1:30 AM with Blue Night Network buses after. Some stations have increased security due to recent incidents but violent crime on transit remains low.",
+        "rideshare": "Uber and Lyft operate safely throughout Toronto with standard safety features. Prices surge during peak times and bad weather. More reliable and transparent than traditional taxis, especially for tourists.",
+        "taxis": "Licensed taxis are generally safe with regulated metered fares. Ensure the meter is running and avoid any driver claiming a broken meter. Co-op Cabs and Beck are reputable companies. 10-15% tip is customary.",
+        "tips": "Public transport is excellent and safe. Download the TTC or Triplinx app for real-time updates. Keep valuables secure during rush hour when crowded. PRESTO card works across all transit systems in the region."
+      },
+      "customs": [
+        "Canadians are extremely polite - always say please, thank you, and sorry liberally",
+        "Tipping is mandatory: 15-20% at restaurants, 10-15% for taxis and services",
+        "Remove shoes when entering someone's home - this is widely expected",
+        "Punctuality is highly valued - arrive on time for all appointments and meetings",
+        "Queue properly and never cut in line - this is a serious social taboo"
+      ],
+      "health": {
+        "overview": "Canada has world-class healthcare but tourists must pay out-of-pocket without travel insurance. Toronto has excellent hospitals and medical facilities with English-speaking staff. Air quality is good and tap water is completely safe to drink.",
+        "water": "Toronto's tap water is excellent quality, regularly tested, and sourced from Lake Ontario. Safe to drink without purification. Public water fountains are available throughout the city.",
+        "vaccinations": "No special vaccinations required. Standard travel vaccinations (hepatitis A/B, influenza) may be recommended. Canada has no malaria risk and very low disease transmission rates.",
+        "altitude": "Toronto is at sea level with no altitude concerns. Climate ranges from hot summers (30°C/86°F) to cold winters (-10°C/14°F). Winter weather can pose health risks from extreme cold."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) or 416-808-2222 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911 or 416-338-9050 (non-emergency)",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Toronto: 360 University Avenue, Toronto ON M5G 1S4. Phone: 416-595-1700. Emergency services for US citizens available 24/7 through Washington."
+      },
+      "faq": [
+        {
+          "q": "Is Toronto safe for tourists?",
+          "a": "Yes, Toronto is exceptionally safe for tourists, ranking 6th among world's safest major cities. Crime rates are low compared to other North American cities, with excellent police presence and emergency services."
+        },
+        {
+          "q": "Is Toronto safe at night?",
+          "a": "Toronto is generally safe at night, especially in the downtown core and tourist areas which are well-lit and patrolled. Use normal urban precautions, avoid dark alleys, and consider using ride-sharing or public transit for longer distances."
+        },
+        {
+          "q": "Is Toronto safe for solo female travelers?",
+          "a": "Absolutely. Toronto is considered one of the world's safest cities for solo female travelers with low harassment rates, excellent public transport, and respectful local culture. Many women report feeling comfortable walking alone even at night in downtown areas."
+        },
+        {
+          "q": "What areas should I avoid in Toronto?",
+          "a": "Avoid Jane-Finch area in northwest Toronto due to higher crime rates. Exercise caution in Regent Park and some parts of Scarborough. The Entertainment District requires extra vigilance on weekend nights due to intoxicated crowds."
+        },
+        {
+          "q": "Is it safe to use public transport in Toronto?",
+          "a": "Yes, the TTC system is safe and reliable with police presence and monitoring. Some incidents have occurred recently but violent crime on transit remains low. Use the SafeTTC app to report any concerns discreetly."
+        }
+      ],
+      "relatedCities": [
+        "vancouver",
+        "montreal",
+        "ottawa",
+        "calgary",
+        "quebec-city"
+      ]
+    },
+    {
+      "slug": "vancouver",
+      "name": "Vancouver",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 7.8,
+        "scamRisk": 6.5,
+        "womensSafety": 8.0,
+        "nightSafety": 7.2,
+        "transport": 8.5,
+        "naturalHazards": 7.5
+      },
+      "summary": "Vancouver is considered one of Canada's safest major cities, with violent crime decreasing significantly in recent years and excellent public safety infrastructure. While property crime remains a concern, particularly vehicle break-ins, the city maintains low overall crime rates compared to other North American cities.",
+      "quickVerdict": "Vancouver consistently ranks as one of the safest cities in North America, with Canada maintaining its Level 1 US State Department travel advisory status. The city has seen notable improvements in violent crime rates, dropping to 23-year lows in some categories, though visitors should remain vigilant about property crime, particularly in the Downtown Eastside area. The excellent public transit system, comprehensive healthcare, and strong emergency response infrastructure make it very safe for tourists.",
+      "neighborhoods": [
+        {
+          "name": "West End",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Upscale residential area near downtown with excellent walkability, well-lit streets, and high police presence. Very safe for tourists day and night."
+        },
+        {
+          "name": "Yaletown",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Modern downtown district with luxury condos, upscale dining, and good security. Popular nightlife area that remains relatively safe with regular police patrols."
+        },
+        {
+          "name": "Gastown",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Historic tourist district with cobblestone streets and popular attractions. Generally safe during the day but exercise some caution at night, especially on the eastern edges."
+        },
+        {
+          "name": "Kitsilano",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Beachside neighborhood popular with young professionals. Very safe residential area with good lighting and community presence."
+        },
+        {
+          "name": "Commercial Drive",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Diverse cultural area with great restaurants and shops. Generally safe but can get busy at night, requiring normal urban precautions."
+        },
+        {
+          "name": "Downtown Eastside",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Area with high concentration of homeless population and drug use. Visitors should avoid this area, especially at night, though daytime visits with awareness are generally manageable."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Bank Investigator Impersonation",
+          "risk": "high",
+          "description": "Sophisticated scammers pose as bank fraud investigators, convincing victims to withdraw cash or purchase gold bars for 'investigation purposes'. Recent cases have resulted in losses exceeding $685,000.",
+          "howToAvoid": "Never give personal banking information over the phone. Banks will never ask you to withdraw money or buy gold for investigations. Hang up and call your bank directly using the number on your card."
+        },
+        {
+          "name": "Chinese Community Blessing Scams",
+          "risk": "medium",
+          "description": "Fraudsters target elderly Chinese residents with blessing ceremonies, claiming to remove bad luck while stealing cash and jewelry. Victims have lost nearly $150,000 in recent incidents.",
+          "howToAvoid": "Be suspicious of strangers approaching with offers of spiritual ceremonies or blessings. Never hand over money or valuables to unknown individuals."
+        },
+        {
+          "name": "Fake Government Official Calls",
+          "risk": "medium",
+          "description": "Scammers impersonate Service Canada, Revenue Agency, or Immigration officials, threatening arrest or deportation unless immediate payment is made via gift cards or wire transfers.",
+          "howToAvoid": "Government agencies never demand immediate payment over the phone or threaten arrest. Hang up and contact the agency directly through official channels to verify any claims."
+        },
+        {
+          "name": "Tourist Taxi Overcharging",
+          "risk": "low",
+          "description": "Some taxi drivers may overcharge tourists by claiming broken meters, taking longer routes, or adding unauthorized fees, especially from the airport.",
+          "howToAvoid": "Use rideshare apps like Uber or Lyft when possible. For taxis, ask for an estimated fare upfront and ensure the meter is running. Keep receipts and report issues to the taxi company."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Vancouver is considered very safe for solo female travelers, ranking among the top destinations globally. The city has strong gender equality laws, well-lit streets, reliable public transport, and a progressive culture that respects women's independence. Most solo female travelers report feeling comfortable walking around during the day and evening in main areas.",
+        "tips": [
+          "Avoid the Downtown Eastside area, particularly East Hastings Street, especially at night",
+          "Use the excellent public transit system - SkyTrain and buses are safe and well-monitored",
+          "Stay in well-populated areas like West End, Yaletown, or Kitsilano for accommodation",
+          "Trust your instincts and don't hesitate to ask locals for help - Canadians are typically very helpful",
+          "Use rideshare apps for late-night transportation rather than walking alone in less busy areas"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Vancouver's nightlife areas are generally safe with good police presence and well-lit streets. The main entertainment districts like Granville Street, Gastown, and Yaletown have regular patrols and security. However, some areas like parts of Gastown and the Downtown Eastside require extra caution after dark.",
+        "tips": [
+          "Stick to main nightlife areas like Granville Street, Yaletown, and central Gastown",
+          "Travel in groups when possible and don't leave drinks unattended",
+          "Use Uber, Lyft, or taxis for late-night transportation rather than walking long distances",
+          "Be aware of your surroundings and trust your instincts if something feels off",
+          "Keep valuables secure and avoid displaying expensive items like jewelry or electronics"
+        ]
+      },
+      "transport": {
+        "metro": "Vancouver's SkyTrain is considered one of the world's safest automated transit systems, operating on three lines with excellent safety records. Stations are well-lit, monitored by security cameras, and have emergency communication systems. Transit Police patrol the system regularly.",
+        "rideshare": "Uber and Lyft operate throughout Vancouver since 2020 and are generally safe and reliable. Both apps have built-in safety features like trip sharing and driver verification. Rides are typically more expensive than public transit but offer door-to-door convenience.",
+        "taxis": "Licensed taxis are regulated and safe, though more expensive than rideshare options. Always ensure the taxi is licensed (look for proper identification) and the meter is running. Airport taxis to downtown cost approximately CAD $32-39.",
+        "tips": "Public transit is the safest and most affordable option. Get a Compass Card for easy payment across all TransLink services including SkyTrain, buses, and SeaBus. The system operates until about 1 AM with NightBus service afterwards."
+      },
+      "customs": [
+        "Canadians are famously polite - saying 'please', 'thank you', and 'sorry' frequently is expected and appreciated",
+        "Tipping is customary at restaurants (15-20%), bars, and for services like taxis and hairdressers",
+        "Remove shoes when entering someone's home unless told otherwise",
+        "Respect personal space - Canadians value arm's length distance in conversations and dislike being touched by strangers",
+        "Queue politely and wait your turn - cutting in line is considered very rude and will draw negative attention"
+      ],
+      "health": {
+        "overview": "Vancouver has excellent healthcare infrastructure with world-class hospitals and medical facilities. The air quality is generally good, though wildfire smoke can occasionally affect the city during summer months. No special vaccinations are required for travel to Vancouver.",
+        "water": "Tap water in Vancouver is safe to drink and meets all Canadian federal guidelines. The city's water supply comes from protected mountain watersheds and is regularly tested for quality and safety.",
+        "vaccinations": "No special vaccinations are required for Vancouver. Routine vaccines like MMR, flu, and COVID-19 are recommended. Travel insurance is strongly advised as healthcare can be expensive for visitors.",
+        "altitude": "Vancouver is at sea level with a mild oceanic climate. Summers are warm and dry (average 22°C/72°F) while winters are cool and rainy (average 6°C/43°F). Pack layers and rain gear year-round."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) or 604-717-3321 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Vancouver: 1075 West Pender Street, Phone: 604-685-4311, Emergency: 604-685-4311"
+      },
+      "faq": [
+        {
+          "q": "Is Vancouver safe for tourists?",
+          "a": "Yes, Vancouver is very safe for tourists and consistently ranks among North America's safest cities. Violent crime rates have decreased significantly in recent years, though visitors should be aware of property crime and avoid the Downtown Eastside area."
+        },
+        {
+          "q": "Is Vancouver safe at night?",
+          "a": "Vancouver is generally safe at night in main tourist areas like downtown, Yaletown, and Gastown. The nightlife districts are well-patrolled and lit. However, avoid walking alone in less populated areas and use rideshare or taxis for late-night transportation."
+        },
+        {
+          "q": "Is Vancouver safe for solo female travelers?",
+          "a": "Yes, Vancouver is excellent for solo female travelers and ranks among the world's safest destinations for women. The city has strong gender equality laws, good public transport, and a culture that respects women's independence. Basic urban precautions are sufficient."
+        },
+        {
+          "q": "What areas should I avoid in Vancouver?",
+          "a": "The main area to avoid is the Downtown Eastside, particularly East Hastings Street, due to high concentrations of homelessness and drug use. Parts of Gastown can be sketchy at night. Otherwise, Vancouver is very safe throughout most neighborhoods."
+        },
+        {
+          "q": "Is it safe to use public transport in Vancouver?",
+          "a": "Yes, Vancouver's public transport system is very safe and efficient. The SkyTrain is fully automated with excellent safety records, and buses are reliable. The TransLink system is well-monitored with Transit Police patrols and emergency communication systems throughout."
+        }
+      ],
+      "relatedCities": [
+        "toronto",
+        "montreal",
+        "calgary"
+      ]
+    },
+    {
+      "slug": "san-jose",
+      "name": "San Jose",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "region": "Central America & Caribbean",
+      "regionSlug": "central-america-caribbean",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 6.3,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.0,
+        "violentCrime": 6.5,
+        "scamRisk": 5.5,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "San Jose, Costa Rica's capital, presents a mixed safety profile for tourists with elevated petty crime rates but generally manageable risks with proper precautions. The city faces challenges from opportunistic theft and recent increases in crime targeting tourists, but maintains good emergency services and transport safety.",
+      "quickVerdict": "San Jose requires moderate caution from visitors, particularly regarding petty theft and certain neighborhoods after dark. While violent crime against tourists remains relatively uncommon, recent security alerts highlight increased property crimes, ATM scams, and robberies at tourist accommodations. The city's crime statistics show concerning trends with over 5,000 annual robbery cases and a notable spike in incidents targeting foreigners. However, with proper awareness, avoiding high-risk areas, and taking standard precautions, most visitors can explore the capital safely while enjoying its cultural attractions and using it as a gateway to Costa Rica's natural wonders.",
+      "neighborhoods": [
+        {
+          "name": "Barrio Escalante",
+          "score": 8.0,
+          "class": "safe",
+          "description": "San Jose's trendy gastronomic district with upscale restaurants, craft beer bars, and art galleries. Well-patrolled area popular with locals and tourists, featuring good lighting and regular foot traffic. Generally safe during day and evening hours with minimal crime reports."
+        },
+        {
+          "name": "Barrio Amon",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic residential neighborhood with colonial architecture, boutique hotels, and cultural sites. Quieter area with good security, popular among business travelers. Generally safe but limited nightlife options outside hotel bars."
+        },
+        {
+          "name": "Downtown Centro",
+          "score": 5.0,
+          "class": "caution",
+          "description": "The city's commercial and administrative heart with major attractions like Teatro Nacional and Mercado Central. High pedestrian traffic during day but significant pickpocketing risk. Requires vigilance, especially around transportation hubs and markets."
+        },
+        {
+          "name": "La California",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Nightlife district near universities with bars and clubs. Popular with younger crowds but elevated crime risk, particularly after dark. Multiple robbery incidents reported, requires group travel and official transportation."
+        },
+        {
+          "name": "Desamparados",
+          "score": 3.0,
+          "class": "danger",
+          "description": "Residential area south of the city center with high poverty levels and gang activity. Frequent reports of armed robberies and drug-related crime. Tourists should avoid this area entirely, especially at night."
+        },
+        {
+          "name": "La Carpio",
+          "score": 2.5,
+          "class": "danger",
+          "description": "Large slum area with significant crime problems including gang violence, drug trafficking, and armed robberies. One of the most dangerous neighborhoods in San Jose that tourists have no reason to visit."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police ATM Scam",
+          "risk": "high",
+          "description": "English-speaking scammers approach tourists posing as Americans living in Costa Rica, offer friendship activities, then pose as undercover police demanding ATM withdrawals after planting or offering drugs.",
+          "howToAvoid": "Never accept substances from strangers, don't go to secluded areas with new acquaintances, and demand proper police identification. Real police issue tickets, not demand cash payments."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "high",
+          "description": "Card skimmers attached to ATM machines, particularly at tourist-heavy locations, steal card information while criminals observe PIN entry. Sometimes involves accomplices offering help with machine problems.",
+          "howToAvoid": "Use ATMs inside banks or secure locations, cover PIN entry with your hand, inspect machines for unusual attachments, and refuse help from strangers at ATMs."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams of thieves work together where one spills drinks or creates distractions while accomplices steal valuables from bags and pockets, particularly in crowded bars and tourist areas.",
+          "howToAvoid": "Decline help cleaning spills, keep valuables secured and out of sight, remain aware of surroundings in crowded areas, and use bags with zippers and security features."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unofficial pirate taxis and some legitimate drivers overcharge tourists, take longer routes, or claim broken meters. May tell tourists buses aren't running or hotels are full to secure rides.",
+          "howToAvoid": "Use official red taxis with yellow triangles and meters, confirm approximate fare beforehand, use rideshare apps where available, and verify hotel availability independently."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in San Jose requires extra caution due to elevated harassment levels and safety concerns. Women report frequent catcalling, particularly in downtown areas, and face increased risks of assault, especially when using taxis or visiting beaches alone. The recent security alerts specifically mention incidents affecting women travelers, including sexual assault cases.",
+        "tips": [
+          "Avoid walking alone after dark, especially in downtown areas and poorly lit streets",
+          "Use official transportation only - red taxis with meters or reputable rideshare services",
+          "Stay in well-reviewed accommodations in safer neighborhoods like Barrio Escalante",
+          "Don't wear expensive jewelry or display signs of wealth that attract unwanted attention",
+          "Share your location with someone when taking transportation, particularly at night",
+          "Trust your instincts and remove yourself from uncomfortable situations immediately"
+        ]
+      },
+      "nightSafety": {
+        "overview": "San Jose's nighttime safety requires significant caution as crime rates increase substantially after dark. Downtown areas become particularly risky with poor lighting, increased robbery activity, and limited police presence. The nightlife districts, while popular, have reported multiple incidents of crimes against tourists, particularly around bars and clubs.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid walking alone after 8 PM",
+          "Use official transportation between venues rather than walking",
+          "Stay in groups when exploring nightlife areas like La California",
+          "Avoid displaying phones, cameras, or valuables on the street at night",
+          "Choose bars and restaurants in safer neighborhoods like Barrio Escalante",
+          "Keep emergency contact numbers readily available and inform someone of your plans"
+        ]
+      },
+      "transport": {
+        "metro": "San Jose has limited rail service with suburban trains connecting to nearby cities like Cartago and Heredia. The system is basic but generally safe during daylight hours with standard precautions against pickpocketing required.",
+        "rideshare": "Uber operates in San Jose metro area despite technically illegal status, offering cheaper and often safer alternatives to taxis. Drivers may ask passengers to sit in front seat and wait times can be affected by traffic. Generally reliable within the Greater Metropolitan Area.",
+        "taxis": "Official red taxis with yellow triangles and meters are the safest option. Airport taxis are orange and more expensive. Avoid pirate taxis (unmarked vehicles) which pose safety risks. Ensure meter is running and ask for approximate fare estimates.",
+        "tips": "Public buses are affordable but crowded with pickpocketing risks. Use official transportation only, especially for airport transfers. Traffic congestion is severe during rush hours, so allow extra time. Keep valuables secured and avoid displaying expensive items while traveling."
+      },
+      "customs": [
+        "Greet with firm handshakes, direct eye contact, and warm smiles - friends may exchange light cheek kisses",
+        "Embrace 'Tico Time' - punctuality is flexible for social events but important for business meetings",
+        "Family is central to culture - showing interest in family topics helps build rapport with locals",
+        "Use formal titles initially in business settings, then switch to first names as relationships develop",
+        "Practice environmental consciousness - Costa Ricans take pride in their eco-friendly reputation",
+        "Avoid sensitive political topics and respect the country's peaceful, neutral stance"
+      ],
+      "health": {
+        "overview": "Costa Rica offers good healthcare with modern private hospitals in San Jose like Hospital CIMA, while public hospitals provide adequate but crowded service. The country requires yellow fever vaccination for travelers from certain high-risk countries as of 2025.",
+        "water": "Tap water is generally safe in San Jose and major urban areas, though bottled water is recommended for sensitive stomachs. Avoid tap water in Limon and Puntarenas provinces.",
+        "vaccinations": "Routine vaccinations recommended include measles, mumps, rubella, tetanus, and hepatitis A. Yellow fever vaccination required if arriving from endemic countries. Consider typhoid for rural areas and dengue/chikungunya precautions against mosquitoes.",
+        "altitude": "San Jose sits at 1,150 meters above sea level with mild tropical climate. Temperatures range 70-80°F year-round. Rainy season May-November with afternoon showers. No altitude sickness concerns but stay hydrated and use sunscreen."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or 117",
+        "ambulance": "911 or 128",
+        "fire": "911 or 118",
+        "touristPolice": "(506) 2258-1008 or (506) 2258-1022",
+        "usEmbassy": "U.S. Embassy San Jose, Pavas: +(506) 2519-2000, Emergency after-hours: +(506) 2220-3127. Address: Calle 98, Via 104, Pavas, San Jose. Email: ACSSanJose@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is San Jose safe for tourists?",
+          "a": "San Jose requires moderate caution due to elevated petty crime rates and recent increases in crimes targeting tourists. While violent crime against visitors remains relatively uncommon, property crimes, pickpocketing, and ATM scams are frequent concerns. Most tourists can visit safely with proper precautions."
+        },
+        {
+          "q": "Is San Jose safe at night?",
+          "a": "San Jose becomes significantly less safe after dark, particularly in downtown areas and certain neighborhoods. Crime rates increase substantially at night with poor lighting and reduced police presence. Tourists should avoid walking alone after 8 PM and use official transportation between venues."
+        },
+        {
+          "q": "Is San Jose safe for solo female travelers?",
+          "a": "Solo female travelers should exercise extra caution in San Jose due to frequent catcalling and elevated risks of harassment and assault. Women are advised to avoid walking alone at night, use official transportation only, and stay in safer neighborhoods like Barrio Escalante while remaining vigilant about personal safety."
+        },
+        {
+          "q": "What areas should I avoid in San Jose?",
+          "a": "Avoid Desamparados, La Carpio, Los Guido, and Leon III due to high crime rates and gang activity. Exercise extra caution in downtown areas after dark, La California nightlife district, and around the Coca-Cola bus terminal. Stay alert in crowded tourist areas like Mercado Central where pickpocketing is common."
+        },
+        {
+          "q": "Is it safe to use public transport in San Jose?",
+          "a": "Public transportation in San Jose has moderate safety levels with pickpocketing being the primary concern on crowded buses. Official red taxis with meters are generally safe, while Uber operates reliably despite technical illegality. Avoid pirate taxis and keep valuables secured when using public transport."
+        }
+      ],
+      "relatedCities": [
+        "guatemala-city",
+        "tegucigalpa",
+        "managua"
+      ]
     }
   ]
 }
