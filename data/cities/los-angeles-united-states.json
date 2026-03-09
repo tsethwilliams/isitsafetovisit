@@ -1,0 +1,161 @@
+{
+  "slug": "los-angeles",
+  "name": "Los Angeles",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.0,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "Los Angeles is a generally safe destination for tourists with proper precautions, though it experiences higher crime rates than the national average. The city's vast size creates significant neighborhood-by-neighborhood variations in safety, with affluent western areas much safer than downtown and southern districts.",
+  "quickVerdict": "LA is reasonably safe for tourists who stay in well-traveled areas and take standard urban precautions. While the city has higher crime rates than the national average, most tourist attractions are located in safer neighborhoods with good security. The key is neighborhood awareness - areas like Beverly Hills, Santa Monica, and West Hollywood are quite safe, while downtown LA, Skid Row, and certain southern neighborhoods require extra caution, especially at night. Public transportation is usable but exercise caution during off-peak hours.",
+  "neighborhoods": [
+    {
+      "name": "Beverly Hills/West Hollywood",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale areas with heavy security presence, low crime rates, and well-lit streets. Generally safe at all hours with active nightlife districts and tourist-friendly amenities."
+    },
+    {
+      "name": "Santa Monica",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Beach community with good lighting, regular police patrols, and active pedestrian areas. The Third Street Promenade remains relatively safe even at night."
+    },
+    {
+      "name": "Hollywood",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Tourist-heavy area with pickpocketing concerns around the Walk of Fame. Crime rates are 109% above national average, with southeast Hollywood being particularly risky."
+    },
+    {
+      "name": "Downtown LA",
+      "score": 4.5,
+      "class": "danger",
+      "description": "High crime rates, especially between 10 PM and 2 AM. Crime rate is 743% higher than city average. Contains some safe business districts but requires constant vigilance."
+    },
+    {
+      "name": "Koreatown",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Crime rates 32% above national average with frequent gang activity and late-night incidents around bars and karaoke venues. Peak crime occurs between 6 PM and midnight."
+    },
+    {
+      "name": "Skid Row",
+      "score": 2.0,
+      "class": "danger",
+      "description": "One of the most dangerous areas in LA with extremely high homeless population, drug activity, and violent crime. Tourists should completely avoid this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Free CD Scam",
+      "risk": "high",
+      "description": "Individuals force CDs into tourists' hands near Hollywood Boulevard and Venice Beach, then demand payment around $20 while intimidating victims.",
+      "howToAvoid": "Never accept anything from street vendors, keep walking, and avoid engaging with people pushing items on you."
+    },
+    {
+      "name": "Follow-Home Robberies",
+      "risk": "high",
+      "description": "Gang members follow people leaving upscale restaurants or shopping areas to their homes or hotels, then attack them upon arrival.",
+      "howToAvoid": "Stay alert when leaving high-end venues, vary your routes, and consider using rideshare instead of walking to parked cars."
+    },
+    {
+      "name": "Fake Celebrity Tours",
+      "risk": "medium",
+      "description": "Street vendors sell overpriced tours to celebrity homes and Hollywood attractions, often providing misleading information or poor service.",
+      "howToAvoid": "Book tours through established companies or your hotel concierge rather than street sellers."
+    },
+    {
+      "name": "Parking Attendant Scam",
+      "risk": "medium",
+      "description": "Individuals offer to watch your car for money in areas where it's not an official service, then may damage the vehicle if you refuse to pay.",
+      "howToAvoid": "Only use legitimate parking services, ignore unofficial parking attendants, and park in official lots when possible."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Los Angeles can be safely navigated by solo female travelers with proper planning and awareness. The key is staying in well-reviewed accommodations in safer neighborhoods and avoiding certain areas, especially at night. Many native California women exercise caution when traveling solo in LA, so extra planning is essential.",
+    "tips": [
+      "Stay in well-lit, populated areas and avoid walking alone after dark in unfamiliar neighborhoods",
+      "Use rideshare services like Uber or Lyft instead of public transportation at night",
+      "Keep valuables concealed and carry pepper spray, which is legal in California",
+      "Stick to tourist-friendly areas like Santa Monica, Beverly Hills, and West Hollywood",
+      "Trust your instincts and don't hesitate to leave situations that feel unsafe"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in LA varies dramatically by neighborhood. Violent crime spikes by 22% after 9 PM, particularly in downtown and Hollywood areas. Well-lit commercial districts like West Hollywood and Santa Monica remain relatively safe, while areas like downtown LA and Koreatown see significant increases in crime after dark.",
+    "tips": [
+      "Stay in well-populated, well-lit commercial areas with active nightlife",
+      "Avoid downtown LA, Hollywood Boulevard, and eastern neighborhoods after dark",
+      "Use rideshare services rather than walking or public transit at night",
+      "Travel in groups when possible and let someone know your plans",
+      "Stick to main streets and avoid poorly lit side streets or parking areas"
+    ]
+  },
+  "transport": {
+    "metro": "LA Metro is generally clean and safe during peak hours but can be risky at night or in empty cars. The system has experienced safety incidents including stabbings. Red Line and Blue Line have higher crime rates than other lines.",
+    "rideshare": "Uber and Lyft are extremely popular and generally safe options. Expect to pay $15-40 for typical rides within the city. Surge pricing can triple costs during events and late nights. Always verify license plate and driver details before entering.",
+    "taxis": "Traditional taxis are available but less common than rideshare. Flat rate from LAX to downtown is around $50. Avoid unlicensed taxi drivers who approach at airports - use only official taxi stands.",
+    "tips": "Public transportation is best avoided at night. For maximum safety, use rideshare services or rent a car. If using Metro, stay alert, avoid empty cars, and keep valuables hidden."
+  },
+  "customs": [
+    "Tipping is expected: 18-20% at restaurants, $1-2 per drink at bars, 15-20% for taxi/rideshare drivers",
+    "LA has a casual dress culture, but some upscale restaurants and clubs have dress codes",
+    "Cannabis is legal for adults 21+ but cannot be consumed in public spaces or while driving"
+  ],
+  "health": {
+    "overview": "Los Angeles has excellent healthcare facilities including world-class hospitals, but access can be challenging due to cost and system strain. Seven public health clinics recently closed due to budget constraints, affecting underserved communities.",
+    "water": "Tap water is safe to drink throughout Los Angeles and meets federal standards.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. COVID-19 vaccination recommended.",
+    "altitude": "Los Angeles is at sea level with a Mediterranean climate. Air quality can be poor due to smog, especially in summer months. UV exposure is high year-round due to sunny weather."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 for emergencies, 877-ASK-LAPD (877-275-5273) for non-emergencies",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Los Angeles is within the United States. For assistance with federal matters, contact local federal offices or consulates for other countries."
+  },
+  "faq": [
+    {
+      "q": "Is Los Angeles safe for tourists?",
+      "a": "Yes, LA is generally safe for tourists who take normal urban precautions. Stay in well-traveled tourist areas, avoid high-crime neighborhoods like Skid Row, and remain aware of your surroundings. Tourist attractions have good security measures."
+    },
+    {
+      "q": "Is Los Angeles safe at night?",
+      "a": "Safety at night depends heavily on location. Areas like West Hollywood, Santa Monica, and Beverly Hills remain relatively safe, while downtown LA, Hollywood Boulevard, and eastern neighborhoods see significant crime increases after 9 PM. Use rideshare services for nighttime transportation."
+    },
+    {
+      "q": "Is Los Angeles safe for solo female travelers?",
+      "a": "LA can be safe for solo women with careful planning. Stay in safer neighborhoods, avoid walking alone at night, use rideshare services, and keep valuables concealed. Many areas like Santa Monica and West Hollywood are quite female-friendly."
+    },
+    {
+      "q": "What areas should I avoid in Los Angeles?",
+      "a": "Avoid Skid Row, parts of downtown LA after dark, East Los Angeles, Watts, Compton, and poorly lit areas in Hollywood. Also exercise caution in Koreatown at night and avoid isolated areas throughout the city."
+    },
+    {
+      "q": "Is it safe to use public transport in Los Angeles?",
+      "a": "Metro is generally safe during peak daytime hours but can be risky at night or in empty cars. The system has experienced safety incidents. For maximum safety, use rideshare services, especially after dark or when traveling alone."
+    }
+  ],
+  "relatedCities": [
+    "san-francisco",
+    "san-diego",
+    "las-vegas"
+  ],
+  "_city_id": "los-angeles-united-states"
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "miami",
+  "name": "Miami",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 5.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 4.0,
+    "womensSafety": 6.8,
+    "nightSafety": 5.8,
+    "transport": 6.5,
+    "naturalHazards": 4.3
+  },
+  "summary": "Miami has experienced significant crime reductions in recent years with violent crime down dramatically and community safety initiatives showing results. However, it remains a major metropolitan area with higher-than-average crime rates compared to national statistics, requiring standard urban precautions.",
+  "quickVerdict": "Miami is generally safe for tourists who exercise normal urban precautions, particularly during daylight hours in well-frequented areas like South Beach, Brickell, and downtown. While recent data shows encouraging crime reduction trends with 18% decrease in overall crime and substantial drops in violent offenses, Miami still ranks higher than many US cities for both property and violent crime. The city's reputation as a fraud hotspot requires extra vigilance against scams, especially in tourist areas. Most visitors enjoy trouble-free visits by staying in established neighborhoods, avoiding isolated areas at night, and using common sense safety practices.",
+  "neighborhoods": [
+    {
+      "name": "Coral Gables",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area with low crime rates, excellent police presence, and well-maintained streets. Known for its Mediterranean Revival architecture and safe walking environment both day and night."
+    },
+    {
+      "name": "Brickell",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern financial district with high-rise condos, strong security presence, and active nightlife. Well-patrolled area with good lighting and frequent foot traffic making it relatively safe for tourists."
+    },
+    {
+      "name": "South Beach",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tourist hotspot with vibrant nightlife but higher rates of petty crime, pickpocketing, and tourist-targeted scams. Generally safe during day but requires extra caution at night, especially on the beach itself."
+    },
+    {
+      "name": "Wynwood",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Arts district that has gentrified significantly but still sees some property crime. Generally safe during art walks and events but can feel isolated in certain areas after dark."
+    },
+    {
+      "name": "Downtown Miami",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Mixed area with business districts that are safe during day but can become deserted at night. Some areas near government buildings are well-patrolled while others see more crime after hours."
+    },
+    {
+      "name": "Liberty City",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Historic neighborhood with ongoing socioeconomic challenges and higher violent crime rates. Not recommended for tourists, especially at night. Limited police presence in some areas despite community improvement efforts."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "high",
+      "description": "Establishments along Ocean Drive and tourist areas add hidden charges, inflate prices for non-advertised items, or use aggressive tactics to lure tourists with fake discounts that don't materialize.",
+      "howToAvoid": "Always check prices before ordering, read menus carefully, verify bills before paying, and avoid restaurants with overly aggressive street promoters."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Fraudsters install skimming devices on ATMs, particularly near tourist-heavy areas like Collins Avenue and South Beach, to steal card information and PINs.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN when entering it, check for loose or unusual attachments on card slots, and monitor bank statements regularly."
+    },
+    {
+      "name": "Rental and Travel Scams",
+      "risk": "high",
+      "description": "Fake vacation rental listings, fraudulent Airbnb properties, and bogus travel deals targeting Miami visitors, often demanding deposits through untraceable payment apps.",
+      "howToAvoid": "Book through verified platforms, verify property listings independently, never wire money or use prepaid cards, and meet rental agents in person when possible."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams of thieves create distractions by spilling drinks, dropping items, or asking for directions while accomplices steal wallets, phones, or bags, particularly in crowded tourist areas.",
+      "howToAvoid": "Stay aware of surroundings, keep valuables secured in front pockets or hidden pouches, be wary of overly helpful strangers, and don't let anyone distract you from your belongings."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Miami is generally safe for solo female travelers during daylight hours in tourist areas, with many women reporting positive experiences exploring beaches, restaurants, and attractions independently. However, extra precautions are recommended at night, particularly regarding transportation and accommodation choices. Sexual harassment from strangers is reported as a common issue in public spaces, though serious incidents remain relatively rare.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Brickell, Coral Gables, or Coconut Grove",
+      "Use rideshare apps rather than walking alone at night or taking random taxis",
+      "Join group activities or bar crawls to experience nightlife more safely",
+      "Keep drinks covered and never leave them unattended in bars or clubs",
+      "Trust your instincts and leave situations that feel uncomfortable immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Miami's nightlife is world-famous and generally enjoyable, but requires extra awareness after dark. Well-lit tourist areas like Ocean Drive, Lincoln Road, and Brickell maintain active police presence and foot traffic, making them relatively safe. However, beaches become poorly lit and risky after sunset, while some residential areas can feel isolated.",
+    "tips": [
+      "Stick to busy, well-lit areas with active nightlife rather than wandering into quiet streets",
+      "Avoid walking on beaches after dark as they become poorly lit and isolated",
+      "Plan transportation in advance using rideshare apps or licensed taxis",
+      "Stay with groups when possible and let others know your plans",
+      "Be extra cautious around clubs with aggressive promoters or unclear pricing"
+    ]
+  },
+  "transport": {
+    "metro": "Miami's Metrorail operates from 5am to midnight with generally safe daytime use, but exercise caution during late evening hours and avoid empty stations. The system is limited and doesn't reach Miami Beach, requiring bus connections.",
+    "rideshare": "Uber and Lyft are widely available and considered the safest transportation option, especially at night. Always verify license plates and driver details before entering vehicles.",
+    "taxis": "Licensed taxis are regulated and generally safe, though more expensive than rideshare options. Avoid unlicensed vehicles and ensure meters are running or agree on fares upfront.",
+    "tips": "Public transportation is safest during peak hours with other passengers present. For Miami Beach, use the Airport Flyer bus or rideshare services rather than attempting complex public transit connections."
+  },
+  "customs": [
+    "Miami is highly multicultural with Spanish widely spoken - over half the population was born outside the US",
+    "Tipping 18-20% is expected at restaurants and bars, with service charges sometimes included",
+    "Beach culture is casual but cover-ups are required when leaving beach areas",
+    "Miami operates on Eastern Time and follows US federal holidays and business practices"
+  ],
+  "health": {
+    "overview": "Miami offers excellent healthcare with world-class hospitals and medical facilities. The city has multiple Level 1 trauma centers and specialized care available 24/7. No special vaccinations are required, and healthcare standards meet high US regulations.",
+    "water": "Tap water is safe to drink and meets EPA standards, though some visitors prefer bottled water due to taste preferences from local limestone filtration.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider updating standard vaccines like flu, COVID-19, and tetanus before travel.",
+    "altitude": "Miami is at sea level with no altitude concerns. The tropical climate is hot and humid year-round with hurricane season from June through November requiring weather monitoring."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (305) 603-6640",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy in Miami (domestic city). International visitors should contact their home country's consulate. Miami has numerous foreign consulates in the Brickell and downtown areas."
+  },
+  "faq": [
+    {
+      "q": "Is Miami safe for tourists?",
+      "a": "Yes, Miami is generally safe for tourists who exercise normal urban precautions. Stay in well-established areas, avoid displaying valuable items, and use common sense. Recent crime statistics show improving trends with significant reductions in violent crime."
+    },
+    {
+      "q": "Is Miami safe at night?",
+      "a": "Popular nightlife areas like Ocean Drive, Lincoln Road, and Brickell are relatively safe due to active police presence and crowds, but avoid isolated areas and beaches after dark. Always use rideshare services or taxis rather than walking alone at night."
+    },
+    {
+      "q": "Is Miami safe for solo female travelers?",
+      "a": "Miami can be safe for solo female travelers with proper precautions. Stick to busy tourist areas during the day, stay in reputable accommodations, use rideshare apps at night, and be aware that sexual harassment from strangers is commonly reported."
+    },
+    {
+      "q": "What areas should I avoid in Miami?",
+      "a": "Avoid Liberty City, Overtown, and isolated areas of downtown at night. Also avoid walking on beaches after dark, empty parking lots, and areas with heavy drug activity. Stick to well-lit, populated tourist zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Miami?",
+      "a": "Metrorail and Metrobus are generally safe during daytime hours but use caution at night. The system is limited and doesn't reach Miami Beach. Rideshare apps are safer and more convenient, especially for tourists unfamiliar with routes."
+    }
+  ],
+  "relatedCities": [
+    "orlando",
+    "tampa",
+    "fort-lauderdale"
+  ],
+  "_city_id": "miami-united-states"
+}

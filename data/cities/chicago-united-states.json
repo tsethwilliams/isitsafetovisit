@@ -1,0 +1,164 @@
+{
+  "slug": "chicago",
+  "name": "Chicago",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.5,
+    "scamRisk": 6.2,
+    "womensSafety": 7.4,
+    "nightSafety": 6.9,
+    "transport": 7.8,
+    "naturalHazards": 8.5
+  },
+  "summary": "Chicago has experienced its safest period in decades, with violent crime reaching 10-year lows and homicides dropping by 50% since 2025. While tourist areas like the Loop, River North, and Lincoln Park remain very safe, visitors should be aware of neighborhood variations and use common urban safety precautions.",
+  "quickVerdict": "Chicago offers a safe experience for tourists in 2026, particularly in popular visitor areas. The city has made remarkable progress in reducing crime, with overall violent crime at its lowest point in over a decade. Popular tourist destinations like Millennium Park, Navy Pier, and the Magnificent Mile are well-patrolled and secure. However, like any major city, Chicago requires basic urban awareness - stick to well-lit areas at night, avoid less populated neighborhoods on the South and West Sides, and use rideshare services or taxis after dark rather than walking alone.",
+  "neighborhoods": [
+    {
+      "name": "River North",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Prime tourist area with luxury hotels, restaurants, and nightlife. Well-patrolled with excellent security and numerous people on the streets day and night."
+    },
+    {
+      "name": "The Loop",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Downtown business district housing major attractions like Millennium Park and Art Institute. Very safe during daytime but can feel empty after business hours."
+    },
+    {
+      "name": "Lincoln Park",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale neighborhood with tree-lined streets, parks, and the famous zoo. Popular with young professionals and families, making it consistently safe and walkable."
+    },
+    {
+      "name": "Wicker Park/Bucktown",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Hip, artsy neighborhoods with trendy bars and restaurants. Generally safe but exercise normal precautions when bar-hopping late at night."
+    },
+    {
+      "name": "Uptown",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Improving area with cultural attractions but mixed safety record. Crime is 10% lower than national average but residents recommend staying alert, especially at night."
+    },
+    {
+      "name": "South Shore",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Neighborhood experiencing ongoing challenges with violent crime. Not recommended for tourists, though some areas near the lakefront are being revitalized."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Airport Scam",
+      "risk": "high",
+      "description": "Unlicensed drivers at airports offering rides at inflated rates, sometimes charging hundreds for downtown trips.",
+      "howToAvoid": "Use only official rideshare apps or licensed taxis. A legitimate ride to downtown should cost around $40-60, not $200+."
+    },
+    {
+      "name": "Street Performer Payment Demands",
+      "risk": "medium",
+      "description": "Aggressive street performers in tourist areas demanding tips of $10-20 after entertaining crowds without consent.",
+      "howToAvoid": "Don't engage if you don't want to pay. Walk away confidently and find a police officer if they become confrontational."
+    },
+    {
+      "name": "Three-Card Monte/Shell Games",
+      "risk": "medium",
+      "description": "Classic street gambling scams around Navy Pier and tourist areas, often involving accomplices who pretend to win to encourage participation.",
+      "howToAvoid": "These games are rigged - you cannot win. Don't participate and be aware that pickpockets may target distracted spectators."
+    },
+    {
+      "name": "AI Voice Cloning Phone Scams",
+      "risk": "high",
+      "description": "Sophisticated 2026 scam using AI to clone voices from social media, with fake officials demanding cryptocurrency payments for fabricated legal issues.",
+      "howToAvoid": "Real law enforcement never demands payment over the phone or requests cryptocurrency. Hang up and call official numbers directly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Chicago is generally safe for solo female travelers, especially with recent crime reductions making it safer than it's been in decades. Popular tourist areas have good security and plenty of people around. Women report feeling comfortable dining alone and exploring during daytime hours. However, standard precautions apply - avoid walking alone late at night and use rideshare services after 9 PM when public transport feels less secure.",
+    "tips": [
+      "Stick to well-lit, populated areas like River North, Lincoln Park, and the Loop",
+      "Use rideshare apps instead of the CTA trains after 9 PM - many women make this switch for safety",
+      "Carry a cross-body bag or backpack with zippers when visiting crowded areas like Navy Pier",
+      "Trust your instincts - if a situation feels uncomfortable, leave immediately and tactfully",
+      "Consider staying in tourist-friendly neighborhoods with 24/7 concierge services"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Chicago's nightlife is vibrant and generally safe in the right areas. Popular nightlife districts like River North, Gold Coast, and parts of Lincoln Park remain active and secure late into the night. The city's bar and club scene has professional security, and many venues stay busy until 2-5 AM. However, the Loop becomes quite empty after business hours, and some residential areas are better avoided after dark.",
+    "tips": [
+      "Stick to busy nightlife areas - River North, Gold Coast, and Wicker Park have the most activity",
+      "Use rideshare services instead of walking long distances at night",
+      "Stay with groups when bar hopping and establish check-in points with friends",
+      "Watch your drinks being made and never accept drinks from strangers",
+      "Most bars close at 2 AM weekdays, 3 AM Sundays - plan transportation in advance"
+    ]
+  },
+  "transport": {
+    "metro": "The Chicago Transit Authority (CTA) operates 8 train lines and 127 bus routes covering the city extensively. The Red and Blue lines run 24/7, while others operate until around 1 AM. The system is generally safe during daytime hours but many locals, especially women, switch to rideshare after 9 PM when trains feel less secure due to smaller crowds.",
+    "rideshare": "Uber and Lyft are widely available and popular safety choices, especially for nighttime travel. Both apps allow easy reporting of unsafe drivers and provide trip tracking. Rides within the city typically cost $8-15 and are considered safer than taxis due to accountability features and GPS tracking.",
+    "taxis": "Licensed taxis accept credit cards and can be hailed citywide or booked via ARRO and Curb apps. However, avoid airport taxi scams where unlicensed operators charge inflated rates. Legitimate downtown rides should cost $40-60 maximum, not the $200+ that scammers charge tourists.",
+    "tips": "The CTA offers day passes and Ventra cards for convenient payment. Divvy bike-share is excellent for short trips with 15,000+ bikes citywide. For airport transport, take the Blue Line train or official rideshare - it's faster and much cheaper than taxis."
+  },
+  "customs": [
+    "Tipping is mandatory in restaurants (15-20% of the bill), bars ($1-2 per drink), and for hotel staff ($2-5 for porters/housekeeping)",
+    "Americans appreciate directness in communication but paired with politeness - say please, thank you, and maintain eye contact during conversations",
+    "Personal space is important - maintain arm's length distance and avoid standing too close during conversations unless invited closer"
+  ],
+  "health": {
+    "overview": "Chicago has world-class healthcare with three hospitals ranking in global top 200: Northwestern Memorial (#61), Rush University Medical Center (#130), and University of Chicago Medical Center (#135). The city has excellent emergency services and medical facilities throughout the metro area.",
+    "water": "Tap water is safe to drink throughout Chicago and is provided free at restaurants. The city's water treatment meets all federal standards and locals regularly drink from the tap without concern.",
+    "vaccinations": "No special vaccinations required for Chicago. Standard travel immunizations (routine vaccines like MMR, flu shot) are recommended. The US has high vaccination rates and good disease surveillance systems.",
+    "altitude": "Chicago sits at 594 feet above sea level with no altitude concerns. The climate features cold winters (wind chills to -22°F) and warm, humid summers. Lake Michigan moderates temperatures year-round."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 311 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "311 (general police non-emergency line)",
+    "usEmbassy": "N/A - Chicago is a US city. International visitors needing consular assistance should contact their home country's consulate in Chicago."
+  },
+  "faq": [
+    {
+      "q": "Is Chicago safe for tourists?",
+      "a": "Yes, Chicago is experiencing its safest period in decades with violent crime at 10-year lows. Tourist areas like River North, the Loop, and Lincoln Park are well-patrolled and secure. Stick to popular neighborhoods and use normal urban precautions."
+    },
+    {
+      "q": "Is Chicago safe at night?",
+      "a": "Chicago's nightlife districts like River North and Gold Coast are generally safe and active until 2-5 AM. However, avoid walking alone late at night and use rideshare services. The Loop becomes empty after business hours, so consider staying in more residential areas."
+    },
+    {
+      "q": "Is Chicago safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Chicago safely. Stay in tourist-friendly areas, use rideshare after 9 PM instead of public transit, and trust your instincts. Crime has dropped significantly, making it safer than it's been in decades."
+    },
+    {
+      "q": "What areas should I avoid in Chicago?",
+      "a": "Avoid certain parts of the South and West Sides, particularly neighborhoods like South Shore and Austin. These areas have higher crime rates and few tourist attractions. Stick to central areas like River North, Lincoln Park, and the Loop."
+    },
+    {
+      "q": "Is it safe to use public transport in Chicago?",
+      "a": "Yes, the CTA is generally safe during daytime hours and well-used. However, many locals switch to rideshare after 9 PM when trains have fewer passengers. The Red and Blue lines run 24/7, but rideshare is often preferred for late-night travel."
+    }
+  ],
+  "relatedCities": [
+    "new-york",
+    "los-angeles",
+    "toronto",
+    "detroit",
+    "milwaukee",
+    "boston"
+  ],
+  "_city_id": "chicago-united-states"
+}

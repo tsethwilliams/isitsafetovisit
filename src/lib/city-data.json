@@ -10754,6 +10754,1134 @@
         "stockholm",
         "copenhagen"
       ]
+    },
+    {
+      "slug": "sofia",
+      "name": "Sofia",
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.2,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 7.5,
+        "naturalHazards": 7.6
+      },
+      "summary": "Sofia is one of Europe's safer capitals with low violent crime rates and a Level 1 US State Department travel advisory. While petty crimes like pickpocketing occur in tourist areas, the city is considered very safe for visitors including solo female travelers.",
+      "quickVerdict": "Sofia ranks among Europe's safest capitals with crime rates lower than London, Paris, or Brussels. The US State Department rates Bulgaria as Level 1 - Exercise Normal Precautions, the lowest risk category. Violent crime against tourists is extremely rare, and the main concerns are petty theft, taxi scams, and pickpocketing in crowded areas. The city is particularly safe for solo female travelers, with many women reporting feeling secure walking alone even at night in central areas.",
+      "neighborhoods": [
+        {
+          "name": "City Center/Vitosha Boulevard",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The heart of Sofia with excellent lighting, regular police presence, and bustling activity. Safe for walking day and night, with plenty of restaurants, shops, and tourist attractions."
+        },
+        {
+          "name": "Alexander Nevsky Cathedral Area",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Historic and well-maintained area around the famous cathedral. Popular with tourists, well-lit, and regularly patrolled. Watch for pickpockets due to crowds."
+        },
+        {
+          "name": "NDK/South Park Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern business district with the National Palace of Culture. Safe for evening walks with good lighting and security. Popular for nightlife and dining."
+        },
+        {
+          "name": "Serdica/Central Train Station",
+          "score": 5.5,
+          "class": "caution",
+          "description": "While improved in recent years, the area around Central Station can be sketchy at night. Higher concentration of pickpockets and fake taxi operators. Avoid after dark."
+        },
+        {
+          "name": "Lyulin/Filipovtsi Districts",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Outer residential areas with limited tourist infrastructure. Higher crime rates and poor lighting. Not recommended for tourists, especially at night."
+        },
+        {
+          "name": "Fakulteta District",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Roma neighborhood with significant poverty and social challenges. High crime rates and not tourist-friendly. Local authorities advise avoiding this area entirely."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Taxi Overcharging",
+          "risk": "high",
+          "description": "Unlicensed taxis especially around the airport and train stations charge 5-10 times normal rates. Some fake company stickers and phone numbers to appear legitimate.",
+          "howToAvoid": "Use official taxi apps like Yellow Taxi or Taxi Me. Check rate stickers on windows - should be 0.79-0.99 leva per km. Book through your hotel or use marked taxi ranks."
+        },
+        {
+          "name": "Currency Exchange Scams",
+          "risk": "medium",
+          "description": "Street exchange offers attractive rates but provide counterfeit bills or add extra digits to exchange rates, turning 1.95 into 1.195 leva per euro.",
+          "howToAvoid": "Only exchange money at banks or official exchange offices. Never use street vendors. Check banknotes carefully - valid notes are issued after 1999."
+        },
+        {
+          "name": "Restaurant Bill Inflation",
+          "risk": "medium",
+          "description": "Some restaurants in tourist areas add hidden fees or overcharge for items not clearly priced, especially for tourists who don't check menus carefully.",
+          "howToAvoid": "Always ask for menus with prices listed. Verify bills before paying. Ask about any charges you don't understand. Consider dining where locals eat."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Skimming devices placed on ATMs in busy locations capture card details from unsuspecting users, particularly targeting tourists unfamiliar with local machines.",
+          "howToAvoid": "Use ATMs inside banks during daylight hours. Cover your PIN when entering. Check for unusual attachments on card slots. Avoid standalone ATMs in isolated areas."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Sofia is very safe for solo female travelers, with many women reporting positive experiences walking alone even at night in central areas. The city has low rates of harassment and violence against women, though basic precautions are still recommended.",
+        "tips": [
+          "Stick to well-lit central areas like Vitosha Boulevard and around major attractions after dark",
+          "Use official taxis or ride-sharing apps rather than street taxis, especially late at night",
+          "Join walking tours or stay in social hostels to meet other travelers safely"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Sofia's central areas remain safe until late with good lighting and regular police presence. The nightlife districts around Vitosha Boulevard and NDK are particularly secure, though some outer neighborhoods should be avoided after dark.",
+        "tips": [
+          "Stay in the city center and main entertainment districts where there's regular foot traffic",
+          "Avoid the areas around Central Train Station and outer residential districts at night",
+          "Use official transportation apps or arrange rides through restaurants/bars rather than hailing taxis on the street"
+        ]
+      },
+      "transport": {
+        "metro": "Very safe and efficient with good security presence. Clean, well-lit stations with English signage. Runs until midnight with some lines extending later on weekends. Consider the safest transport option in Sofia.",
+        "rideshare": "No Uber available. Use local apps like Yellow Taxi, Taxi Me, or TaxiMe which work similarly and are generally reliable when booked through the apps.",
+        "taxis": "Mixed reliability - official taxis are safe but fake taxis are a major scam risk. Always verify company markings and rate stickers (should show 0.79-0.99 leva/km). Airport taxis often overcharge tourists.",
+        "tips": "Metro is your best bet for safety and reliability. For taxis, always use apps or ask hotels to call. Avoid unmarked vehicles or those with rates above 1 leva per kilometer."
+      },
+      "customs": [
+        "Bulgarians nod their head up and down to mean 'no' and shake side to side to mean 'yes' - opposite of most countries",
+        "Greet with firm handshakes and direct eye contact. Address people formally as 'Gospodin' (Mr.) or 'Gospozha' (Mrs.) unless invited to use first names",
+        "Show respect for elders - they are greeted first, served first, and offered the best seats. This extends to public transport and dining situations"
+      ],
+      "health": {
+        "overview": "Bulgaria's healthcare system has quality private facilities in Sofia but public healthcare faces challenges. No special health risks for tourists beyond standard precautions.",
+        "water": "Tap water is generally safe to drink in Sofia, though some visitors prefer bottled water. No major water-borne illness risks reported.",
+        "vaccinations": "No vaccinations required for entry. Standard travel vaccinations (hepatitis A/B, tetanus) recommended as usual precautions.",
+        "altitude": "Sofia sits at 550m elevation so no altitude concerns. Continental climate with cold winters, hot summers. Air pollution can be elevated during winter months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "166",
+        "ambulance": "150",
+        "fire": "160",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Sofia: +359 (2) 937-5100 (business hours) or +359 (2) 937-5101 (after hours). Address: 16 Kozyak Street, Sofia 1408. For US citizens abroad: +1-888-407-4747 (from US/Canada) or +1-202-501-4444 (from abroad)."
+      },
+      "faq": [
+        {
+          "q": "Is Sofia safe for tourists?",
+          "a": "Yes, Sofia is very safe for tourists with crime rates lower than many Western European capitals. The US State Department gives Bulgaria its lowest risk rating (Level 1). Violent crime against tourists is extremely rare, with pickpocketing being the main concern in crowded areas."
+        },
+        {
+          "q": "Is Sofia safe at night?",
+          "a": "Central Sofia is safe at night, especially around Vitosha Boulevard, the cathedral area, and NDK district. These areas have good lighting and police presence. However, avoid the train station area and outer neighborhoods after dark."
+        },
+        {
+          "q": "Is Sofia safe for solo female travelers?",
+          "a": "Sofia is very safe for solo female travelers. Many women report feeling comfortable walking alone even at night in central areas. Harassment is uncommon, and the city has lower crime rates than most European capitals. Basic precautions still apply."
+        },
+        {
+          "q": "What areas should I avoid in Sofia?",
+          "a": "Avoid Fakulteta and Filipovtsi districts entirely. Be cautious around Central Train Station, especially at night. The Lyulin area is also not tourist-friendly. Stick to central areas like Vitosha Boulevard, the cathedral district, and NDK area."
+        },
+        {
+          "q": "Is it safe to use public transport in Sofia?",
+          "a": "Yes, public transport is safe. The metro is the safest option with good security and clean stations. Buses and trams are generally safe but watch for pickpockets during rush hours. Taxis can be problematic due to scams, so use official apps."
+        }
+      ],
+      "relatedCities": [
+        "prague",
+        "budapest",
+        "bucharest"
+      ]
+    },
+    {
+      "slug": "tirana",
+      "name": "Tirana",
+      "country": "Albania",
+      "countryCode": "AL",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 6.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.0,
+        "nightSafety": 6.5,
+        "transport": 6.5,
+        "naturalHazards": 7.5
+      },
+      "summary": "Tirana is Albania's vibrant capital and generally safe for tourists, with low violent crime rates but moderate concerns about petty theft and scams. The US State Department maintains a Level 2 advisory advising increased caution due to crime, though Albania has one of Europe's lowest robbery rates.",
+      "quickVerdict": "Tirana offers a safe and welcoming environment for most visitors, with Albanians renowned for their hospitality toward foreigners. While violent crime against tourists is rare, travelers should remain aware of pickpocketing in crowded areas, potential taxi overcharging, and earthquake risks. The city's growing tourism infrastructure and friendly locals make it an increasingly popular destination, though basic precautions are advised as in any major European capital.",
+      "neighborhoods": [
+        {
+          "name": "Blloku District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Tirana's trendy nightlife hub with upscale bars, restaurants, and hotels. Well-patrolled and popular with tourists, though some establishments have had safety concerns requiring caution when choosing venues."
+        },
+        {
+          "name": "Skanderbeg Square Area",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Central tourist area around the main square, National Historical Museum, and government buildings. High police presence and generally very safe, though watch for pickpockets in crowds."
+        },
+        {
+          "name": "New Bazaar (Pazari i Ri)",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Bustling market area with restaurants and shops. Safe during day but requires extra vigilance for pickpockets. Some petty theft reported in crowded market areas."
+        },
+        {
+          "name": "Grand Park Area",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Large park area with lakes and recreational facilities. Generally safe during daylight hours but avoid isolated areas after dark and stay on main paths."
+        },
+        {
+          "name": "Outer Residential Areas",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Suburban neighborhoods outside the center. Less tourist infrastructure and limited lighting at night. Generally safe but use taxis after dark rather than walking long distances."
+        },
+        {
+          "name": "Industrial/Port Areas",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Less developed areas with limited security presence. Poor lighting and fewer people around, especially at night. Avoid these areas unless absolutely necessary, particularly after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Unlicensed drivers or official taxis charging inflated fares, especially targeting tourists at airports and popular destinations.",
+          "howToAvoid": "Use official taxi companies like Speed Taxi or UPs Taxi, agree on fares beforehand, use taxi apps, or book through reputable services with fixed rates."
+        },
+        {
+          "name": "Restaurant Bill Manipulation",
+          "risk": "medium",
+          "description": "Some establishments overcharge tourists with hidden fees, inflated prices for drinks, or incorrect change. Recent US Embassy warnings highlight specific problematic venues.",
+          "howToAvoid": "Check menu prices carefully, ask about service charges upfront, avoid the restaurants specifically warned against by the US Embassy, and count your change twice."
+        },
+        {
+          "name": "ATM and Currency Exchange Tricks",
+          "risk": "medium",
+          "description": "Skimming devices on ATMs or unfavorable exchange rates at unofficial currency exchanges, particularly targeting tourists unfamiliar with local currency.",
+          "howToAvoid": "Use ATMs inside banks, check for tampering before use, exchange money only at official banks or licensed exchanges, and be cautious of unsolicited help at ATMs."
+        },
+        {
+          "name": "False Accommodation Bookings",
+          "risk": "medium",
+          "description": "Fake online listings or misrepresented properties, particularly affecting travelers looking for last-minute or budget accommodations in Tirana.",
+          "howToAvoid": "Book through reputable platforms, verify property exists through multiple sources, avoid paying by bank transfer, and read recent reviews carefully before booking."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Tirana is generally considered safe for solo female travelers, with many women reporting positive experiences. Albanian hospitality extends particularly to women, and violent crime is rare. However, some unwanted attention and catcalling can occur, especially in busy areas. The city center and tourist areas are well-patrolled and most women feel comfortable walking during the day.",
+        "tips": [
+          "Stay in central areas like Blloku or near Skanderbeg Square for better safety and accessibility",
+          "Use official taxis or rideshare apps rather than walking alone late at night",
+          "Dress modestly when visiting religious sites or rural areas to show cultural respect",
+          "Be confident and avoid engaging with persistent strangers, though most locals are genuinely helpful",
+          "Watch your drink in bars and avoid accepting drinks from strangers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Tirana's nightlife is active and generally well-behaved, with many areas remaining safe until midnight. The city has a vibrant bar and club scene concentrated in Blloku district. Most locals and tourists report feeling safe during evening hours, though standard precautions apply. Police presence is adequate in central areas, and violent crime at night is uncommon.",
+        "tips": [
+          "Stick to well-lit, populated areas and main streets when moving between venues",
+          "Use taxis after midnight rather than walking long distances alone",
+          "Stay aware of your surroundings and keep valuables secure in crowded bars",
+          "Travel in groups when possible and let someone know your plans",
+          "Avoid poorly lit parks or isolated areas after dark, even if they seem safe during the day"
+        ]
+      },
+      "transport": {
+        "metro": "Tirana does not have a metro system. The city is planning future light rail projects but currently relies on buses and other transport modes.",
+        "rideshare": "Several local apps available including Patoko and other services. Generally safe and reliable with trackable rides and cashless payments, though less developed than in major European cities.",
+        "taxis": "Official taxis are yellow with red writing and meters. Companies like Speed Taxi, UPs Taxi, and Green Taxi are reliable. Watch for unlicensed drivers and agree on fares beforehand if meters aren't used.",
+        "tips": "Public buses are cheap but crowded with no fixed schedules. Taxis are plentiful and affordable, especially for night travel. Always use licensed services and be cautious of pickpockets on public transport."
+      },
+      "customs": [
+        "Albanians are known for exceptional hospitality - accept offered coffee or refreshments as refusing may seem rude",
+        "Respect for elders is highly important - stand when greeting older people and show deference in conversation",
+        "Traditional head gestures can be confusing - an upward head flick may mean 'no' though most young people use standard international gestures",
+        "Remove shoes when entering homes (some families insist, others don't) and bring a small gift if visiting someone's home",
+        "Albanians often argue over who pays the bill as a matter of honor - as a guest, offer once but accept if your host insists"
+      ],
+      "health": {
+        "overview": "Healthcare quality varies significantly between Tirana and rural areas. Private clinics in the capital provide better care but require upfront payment. Public hospitals outside Tirana lack advanced equipment and English-speaking staff may be limited.",
+        "water": "Tap water is not reliably safe to drink throughout Albania. Stick to bottled water which is widely available and inexpensive. Most hotels and restaurants serve bottled or properly treated water.",
+        "vaccinations": "No special vaccinations required for Albania. Routine vaccinations should be up to date. Yellow fever certificate required only if arriving from affected countries.",
+        "altitude": "Tirana sits at low elevation with a Mediterranean climate. Hot, dry summers and mild, wet winters. Air pollution can be an issue during summer months due to traffic and construction."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "129",
+        "ambulance": "127",
+        "fire": "128",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Tirana: +355 (0)4224-7285 (24/7). Located at Rruga Elbasanit 103, Tirana. Email: ACSTirana@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Tirana safe for tourists?",
+          "a": "Yes, Tirana is generally safe for tourists. Violent crime is rare and Albanians are known for their hospitality toward visitors. However, remain alert for pickpocketing in crowded areas and use standard safety precautions as in any major city."
+        },
+        {
+          "q": "Is Tirana safe at night?",
+          "a": "Tirana is reasonably safe at night, especially in central areas like Blloku and around Skanderbeg Square. The nightlife scene is active and well-behaved. Use taxis after midnight and stick to well-lit, populated streets."
+        },
+        {
+          "q": "Is Tirana safe for solo female travelers?",
+          "a": "Yes, many solo female travelers report positive experiences in Tirana. While some unwanted attention can occur, violent crime is rare. Stay in central areas, use official transport at night, and dress modestly in conservative areas."
+        },
+        {
+          "q": "What areas should I avoid in Tirana?",
+          "a": "Avoid isolated industrial areas, poorly lit outskirts at night, and specific restaurants warned against by the US Embassy. The border area with Kosovo requires extra caution, though central Tirana has no major no-go zones."
+        },
+        {
+          "q": "Is it safe to use public transport in Tirana?",
+          "a": "Public transport is generally safe but can be crowded and unreliable. Watch for pickpockets on buses and keep valuables secure. Taxis are safer and affordable, especially at night - use official companies with meters or apps."
+        }
+      ],
+      "relatedCities": [
+        "belgrade",
+        "sarajevo",
+        "skopje"
+      ]
+    },
+    {
+      "slug": "new-york-city",
+      "name": "New York City",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.5,
+        "naturalHazards": 7.9
+      },
+      "summary": "New York City is one of the safest major cities in America, with crime rates at historic lows in 2026. While petty crime like pickpocketing exists in tourist areas, violent crime has decreased significantly with murders and shootings reaching the lowest levels since the 1990s.",
+      "quickVerdict": "New York City is generally safe for tourists in 2026, ranking as one of America's safest large cities. The NYPD has implemented comprehensive safety measures including enhanced subway patrols, platform barriers, and the CURE program for nightlife venues. While visitors should remain alert for pickpockets and tourist scams, especially in Times Square and tourist hotspots, the overall risk of serious crime is low. The city's excellent public transportation, world-class healthcare system, and 24/7 police presence make it well-suited for all types of travelers.",
+      "neighborhoods": [
+        {
+          "name": "Midtown Manhattan",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Heart of tourist activity with heavy police presence, well-lit streets, and constant foot traffic. Times Square area requires extra caution for tourist scams but is generally very safe due to massive security presence."
+        },
+        {
+          "name": "Upper East Side",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Upscale residential neighborhood known for its safety, tree-lined streets, and proximity to Central Park. Low crime rates and excellent for solo travelers and families."
+        },
+        {
+          "name": "Greenwich Village",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Historic neighborhood with charming streets, active nightlife, and good safety record. Well-patrolled area popular with both locals and tourists."
+        },
+        {
+          "name": "Lower East Side",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Trendy neighborhood that has undergone significant gentrification. Generally safe during the day with vibrant nightlife scene, though some caution advised late at night."
+        },
+        {
+          "name": "Williamsburg Brooklyn",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Hip Brooklyn neighborhood with excellent safety record, popular restaurants and bars. Well-connected by subway and generally safe for solo travelers."
+        },
+        {
+          "name": "South Bronx",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Some areas still experience higher crime rates though improving. Visitors should exercise increased caution, especially at night, and stick to main commercial areas."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Times Square Characters",
+          "risk": "high",
+          "description": "Costumed characters demand tips after photos, sometimes aggressively holding phones hostage until payment is made.",
+          "howToAvoid": "Avoid taking photos with street performers or agree on price upfront. If approached aggressively, walk away and seek help from nearby police."
+        },
+        {
+          "name": "Fake Statue of Liberty Tickets",
+          "risk": "high",
+          "description": "Scammers near Battery Park sell overpriced fake ferry tickets or tours that don't include official Statue of Liberty access.",
+          "howToAvoid": "Only buy tickets from Castle Clinton official booth or Statue Cruises website. Ignore street vendors and unofficial ticket sellers."
+        },
+        {
+          "name": "CD and Bracelet Hustles",
+          "risk": "medium",
+          "description": "Street vendors give free CDs or put bracelets on tourists then demand payment, sometimes becoming confrontational.",
+          "howToAvoid": "Never accept anything free from street vendors. Keep hands in pockets, avoid eye contact, and say no firmly while walking away."
+        },
+        {
+          "name": "Taxi and Pedicab Overcharging",
+          "risk": "medium",
+          "description": "Unlicensed cabs at airports and overpriced pedicab rides in Central Park that quote low prices then demand much higher payments.",
+          "howToAvoid": "Use only yellow taxis or ride-share apps. For pedicabs, agree on total price before getting in and ensure it's clearly posted on the vehicle."
+        }
+      ],
+      "soloFemale": {
+        "overview": "New York City ranks as the 3rd best state for solo female travelers in 2026. The city is generally safe for women traveling alone, with well-lit streets, 24/7 activity, and strong police presence. Most neighborhoods are walkable and safe, though standard urban precautions apply. The subway system is regularly patrolled and crime rates have decreased significantly.",
+        "tips": [
+          "Stay in well-lit, populated areas especially after dark and trust your instincts",
+          "Use official ride-share apps or yellow taxis rather than walking long distances at night",
+          "Keep valuables secure and avoid displaying expensive items in crowded tourist areas",
+          "Share your location with friends/family when exploring and consider staying within 10 minutes of subway stations",
+          "Be aware that harassment can occur on public transport - move to different cars if uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "New York's nightlife is highly regulated with specialized NYPD patrol units and the Mayor's Office of Nightlife coordinating safety measures. The city offers a highly secure nightlife environment with advanced monitoring systems. High-density areas like Lower East Side, Hell's Kitchen, and Chelsea receive strong weekend patrols. Crime rates in nightlife districts have decreased with enhanced safety programs.",
+        "tips": [
+          "Stick to well-established venues in popular nightlife districts with good security measures",
+          "Stay with your group and designate a meeting point in case of separation",
+          "Be cautious of drink tampering and never leave drinks unattended",
+          "Use official transportation like yellow cabs or ride-share apps rather than walking alone",
+          "Avoid unknown neighborhoods late at night and stay in well-lit areas with foot traffic"
+        ]
+      },
+      "transport": {
+        "metro": "NYC subway runs 24/7 with 25 routes and 470+ stations. Crime is at 16-year lows with enhanced NYPD patrols, platform barriers at 115 stations, and LED lighting improvements. Fare is $3.00 with OMNY contactless payment system. Stay alert late at night and avoid empty cars.",
+        "rideshare": "Uber and Lyft operate citywide with good availability. Generally safe and reliable option, especially for late-night travel. Always verify license plates and driver details before getting in vehicle.",
+        "taxis": "Yellow taxis are regulated, metered, and generally safe. Available 24/7 throughout Manhattan and at major transportation hubs. More expensive than subway but convenient for short trips and late nights.",
+        "tips": "Subway is safest and most efficient for daytime travel. Use ride-share or taxis for late-night travel. Stay near conductor car on subway trains and report suspicious activity to MTA Police at 888-682-9117."
+      },
+      "customs": [
+        "Tipping is expected - 18-20% at restaurants, $1-2 per bag for hotel staff, and round up taxi fares",
+        "Americans value personal space and direct communication - maintain arm's length distance in conversations",
+        "Greet with firm handshakes and direct eye contact, first names are commonly used even in professional settings"
+      ],
+      "health": {
+        "overview": "NYC has world-class healthcare system with numerous top-rated hospitals including Mount Sinai, NYU Langone, and NewYork-Presbyterian. Healthcare costs are very high, so travel insurance is essential. No special health risks for visitors beyond typical urban environment concerns.",
+        "water": "Tap water is safe to drink and regularly tested. NYC tap water is considered some of the best in the US and bottled water is unnecessary.",
+        "vaccinations": "No special vaccinations required. Standard travel vaccines (Hepatitis A/B, influenza) recommended. COVID-19 vaccination advisable but not required for entry.",
+        "altitude": "Sea level location with humid continental climate. Summers can be hot and humid (80-85°F), winters cold (30-40°F). No altitude concerns for most visitors."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A - use 911 for all police emergencies",
+        "usEmbassy": "Not applicable - New York is within the United States. For international visitors, contact your home country's consulate in NYC."
+      },
+      "faq": [
+        {
+          "q": "Is New York City safe for tourists?",
+          "a": "Yes, New York City is one of the safest large cities in America with crime at historic lows in 2026. While petty crime exists in tourist areas, violent crime is rare and the city has extensive police presence and safety measures."
+        },
+        {
+          "q": "Is New York City safe at night?",
+          "a": "Manhattan and popular Brooklyn neighborhoods are generally safe at night due to 24/7 activity and good lighting. The nightlife districts have enhanced police patrols and safety programs. Use common sense, stay in groups, and use official transportation."
+        },
+        {
+          "q": "Is New York City safe for solo female travelers?",
+          "a": "Yes, NYC ranks as one of the top destinations for solo female travelers. The city is walkable, well-lit, and has excellent public transport. Standard precautions apply - stay alert, use official transportation at night, and trust your instincts."
+        },
+        {
+          "q": "What areas should I avoid in New York City?",
+          "a": "Most tourist areas are safe. Exercise more caution in parts of the South Bronx and some outer borough areas late at night. Stick to main streets and tourist districts, especially Times Square, Midtown, and popular Brooklyn neighborhoods."
+        },
+        {
+          "q": "Is it safe to use public transport in New York City?",
+          "a": "Yes, the subway system is generally safe with crime at 16-year lows and enhanced police patrols. Over 1.2 billion annual rides with very low crime rates per capita. Stay alert, avoid empty cars late at night, and report suspicious activity."
+        }
+      ],
+      "relatedCities": [
+        "boston",
+        "washington-dc",
+        "philadelphia",
+        "chicago",
+        "miami"
+      ]
+    },
+    {
+      "slug": "los-angeles",
+      "name": "Los Angeles",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 6.0,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.0,
+        "scamRisk": 5.0,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.0,
+        "naturalHazards": 6.8
+      },
+      "summary": "Los Angeles is a generally safe destination for tourists with proper precautions, though it experiences higher crime rates than the national average. The city's vast size creates significant neighborhood-by-neighborhood variations in safety, with affluent western areas much safer than downtown and southern districts.",
+      "quickVerdict": "LA is reasonably safe for tourists who stay in well-traveled areas and take standard urban precautions. While the city has higher crime rates than the national average, most tourist attractions are located in safer neighborhoods with good security. The key is neighborhood awareness - areas like Beverly Hills, Santa Monica, and West Hollywood are quite safe, while downtown LA, Skid Row, and certain southern neighborhoods require extra caution, especially at night. Public transportation is usable but exercise caution during off-peak hours.",
+      "neighborhoods": [
+        {
+          "name": "Beverly Hills/West Hollywood",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale areas with heavy security presence, low crime rates, and well-lit streets. Generally safe at all hours with active nightlife districts and tourist-friendly amenities."
+        },
+        {
+          "name": "Santa Monica",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Beach community with good lighting, regular police patrols, and active pedestrian areas. The Third Street Promenade remains relatively safe even at night."
+        },
+        {
+          "name": "Hollywood",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Tourist-heavy area with pickpocketing concerns around the Walk of Fame. Crime rates are 109% above national average, with southeast Hollywood being particularly risky."
+        },
+        {
+          "name": "Downtown LA",
+          "score": 4.5,
+          "class": "danger",
+          "description": "High crime rates, especially between 10 PM and 2 AM. Crime rate is 743% higher than city average. Contains some safe business districts but requires constant vigilance."
+        },
+        {
+          "name": "Koreatown",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Crime rates 32% above national average with frequent gang activity and late-night incidents around bars and karaoke venues. Peak crime occurs between 6 PM and midnight."
+        },
+        {
+          "name": "Skid Row",
+          "score": 2.0,
+          "class": "danger",
+          "description": "One of the most dangerous areas in LA with extremely high homeless population, drug activity, and violent crime. Tourists should completely avoid this area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Free CD Scam",
+          "risk": "high",
+          "description": "Individuals force CDs into tourists' hands near Hollywood Boulevard and Venice Beach, then demand payment around $20 while intimidating victims.",
+          "howToAvoid": "Never accept anything from street vendors, keep walking, and avoid engaging with people pushing items on you."
+        },
+        {
+          "name": "Follow-Home Robberies",
+          "risk": "high",
+          "description": "Gang members follow people leaving upscale restaurants or shopping areas to their homes or hotels, then attack them upon arrival.",
+          "howToAvoid": "Stay alert when leaving high-end venues, vary your routes, and consider using rideshare instead of walking to parked cars."
+        },
+        {
+          "name": "Fake Celebrity Tours",
+          "risk": "medium",
+          "description": "Street vendors sell overpriced tours to celebrity homes and Hollywood attractions, often providing misleading information or poor service.",
+          "howToAvoid": "Book tours through established companies or your hotel concierge rather than street sellers."
+        },
+        {
+          "name": "Parking Attendant Scam",
+          "risk": "medium",
+          "description": "Individuals offer to watch your car for money in areas where it's not an official service, then may damage the vehicle if you refuse to pay.",
+          "howToAvoid": "Only use legitimate parking services, ignore unofficial parking attendants, and park in official lots when possible."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Los Angeles can be safely navigated by solo female travelers with proper planning and awareness. The key is staying in well-reviewed accommodations in safer neighborhoods and avoiding certain areas, especially at night. Many native California women exercise caution when traveling solo in LA, so extra planning is essential.",
+        "tips": [
+          "Stay in well-lit, populated areas and avoid walking alone after dark in unfamiliar neighborhoods",
+          "Use rideshare services like Uber or Lyft instead of public transportation at night",
+          "Keep valuables concealed and carry pepper spray, which is legal in California",
+          "Stick to tourist-friendly areas like Santa Monica, Beverly Hills, and West Hollywood",
+          "Trust your instincts and don't hesitate to leave situations that feel unsafe"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety in LA varies dramatically by neighborhood. Violent crime spikes by 22% after 9 PM, particularly in downtown and Hollywood areas. Well-lit commercial districts like West Hollywood and Santa Monica remain relatively safe, while areas like downtown LA and Koreatown see significant increases in crime after dark.",
+        "tips": [
+          "Stay in well-populated, well-lit commercial areas with active nightlife",
+          "Avoid downtown LA, Hollywood Boulevard, and eastern neighborhoods after dark",
+          "Use rideshare services rather than walking or public transit at night",
+          "Travel in groups when possible and let someone know your plans",
+          "Stick to main streets and avoid poorly lit side streets or parking areas"
+        ]
+      },
+      "transport": {
+        "metro": "LA Metro is generally clean and safe during peak hours but can be risky at night or in empty cars. The system has experienced safety incidents including stabbings. Red Line and Blue Line have higher crime rates than other lines.",
+        "rideshare": "Uber and Lyft are extremely popular and generally safe options. Expect to pay $15-40 for typical rides within the city. Surge pricing can triple costs during events and late nights. Always verify license plate and driver details before entering.",
+        "taxis": "Traditional taxis are available but less common than rideshare. Flat rate from LAX to downtown is around $50. Avoid unlicensed taxi drivers who approach at airports - use only official taxi stands.",
+        "tips": "Public transportation is best avoided at night. For maximum safety, use rideshare services or rent a car. If using Metro, stay alert, avoid empty cars, and keep valuables hidden."
+      },
+      "customs": [
+        "Tipping is expected: 18-20% at restaurants, $1-2 per drink at bars, 15-20% for taxi/rideshare drivers",
+        "LA has a casual dress culture, but some upscale restaurants and clubs have dress codes",
+        "Cannabis is legal for adults 21+ but cannot be consumed in public spaces or while driving"
+      ],
+      "health": {
+        "overview": "Los Angeles has excellent healthcare facilities including world-class hospitals, but access can be challenging due to cost and system strain. Seven public health clinics recently closed due to budget constraints, affecting underserved communities.",
+        "water": "Tap water is safe to drink throughout Los Angeles and meets federal standards.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. COVID-19 vaccination recommended.",
+        "altitude": "Los Angeles is at sea level with a Mediterranean climate. Air quality can be poor due to smog, especially in summer months. UV exposure is high year-round due to sunny weather."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 for emergencies, 877-ASK-LAPD (877-275-5273) for non-emergencies",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "N/A - Los Angeles is within the United States. For assistance with federal matters, contact local federal offices or consulates for other countries."
+      },
+      "faq": [
+        {
+          "q": "Is Los Angeles safe for tourists?",
+          "a": "Yes, LA is generally safe for tourists who take normal urban precautions. Stay in well-traveled tourist areas, avoid high-crime neighborhoods like Skid Row, and remain aware of your surroundings. Tourist attractions have good security measures."
+        },
+        {
+          "q": "Is Los Angeles safe at night?",
+          "a": "Safety at night depends heavily on location. Areas like West Hollywood, Santa Monica, and Beverly Hills remain relatively safe, while downtown LA, Hollywood Boulevard, and eastern neighborhoods see significant crime increases after 9 PM. Use rideshare services for nighttime transportation."
+        },
+        {
+          "q": "Is Los Angeles safe for solo female travelers?",
+          "a": "LA can be safe for solo women with careful planning. Stay in safer neighborhoods, avoid walking alone at night, use rideshare services, and keep valuables concealed. Many areas like Santa Monica and West Hollywood are quite female-friendly."
+        },
+        {
+          "q": "What areas should I avoid in Los Angeles?",
+          "a": "Avoid Skid Row, parts of downtown LA after dark, East Los Angeles, Watts, Compton, and poorly lit areas in Hollywood. Also exercise caution in Koreatown at night and avoid isolated areas throughout the city."
+        },
+        {
+          "q": "Is it safe to use public transport in Los Angeles?",
+          "a": "Metro is generally safe during peak daytime hours but can be risky at night or in empty cars. The system has experienced safety incidents. For maximum safety, use rideshare services, especially after dark or when traveling alone."
+        }
+      ],
+      "relatedCities": [
+        "san-francisco",
+        "san-diego",
+        "las-vegas"
+      ]
+    },
+    {
+      "slug": "miami",
+      "name": "Miami",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 5.6,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.5,
+        "scamRisk": 4.0,
+        "womensSafety": 6.8,
+        "nightSafety": 5.8,
+        "transport": 6.5,
+        "naturalHazards": 4.3
+      },
+      "summary": "Miami has experienced significant crime reductions in recent years with violent crime down dramatically and community safety initiatives showing results. However, it remains a major metropolitan area with higher-than-average crime rates compared to national statistics, requiring standard urban precautions.",
+      "quickVerdict": "Miami is generally safe for tourists who exercise normal urban precautions, particularly during daylight hours in well-frequented areas like South Beach, Brickell, and downtown. While recent data shows encouraging crime reduction trends with 18% decrease in overall crime and substantial drops in violent offenses, Miami still ranks higher than many US cities for both property and violent crime. The city's reputation as a fraud hotspot requires extra vigilance against scams, especially in tourist areas. Most visitors enjoy trouble-free visits by staying in established neighborhoods, avoiding isolated areas at night, and using common sense safety practices.",
+      "neighborhoods": [
+        {
+          "name": "Coral Gables",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential area with low crime rates, excellent police presence, and well-maintained streets. Known for its Mediterranean Revival architecture and safe walking environment both day and night."
+        },
+        {
+          "name": "Brickell",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Modern financial district with high-rise condos, strong security presence, and active nightlife. Well-patrolled area with good lighting and frequent foot traffic making it relatively safe for tourists."
+        },
+        {
+          "name": "South Beach",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Tourist hotspot with vibrant nightlife but higher rates of petty crime, pickpocketing, and tourist-targeted scams. Generally safe during day but requires extra caution at night, especially on the beach itself."
+        },
+        {
+          "name": "Wynwood",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Arts district that has gentrified significantly but still sees some property crime. Generally safe during art walks and events but can feel isolated in certain areas after dark."
+        },
+        {
+          "name": "Downtown Miami",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Mixed area with business districts that are safe during day but can become deserted at night. Some areas near government buildings are well-patrolled while others see more crime after hours."
+        },
+        {
+          "name": "Liberty City",
+          "score": 3.2,
+          "class": "danger",
+          "description": "Historic neighborhood with ongoing socioeconomic challenges and higher violent crime rates. Not recommended for tourists, especially at night. Limited police presence in some areas despite community improvement efforts."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "high",
+          "description": "Establishments along Ocean Drive and tourist areas add hidden charges, inflate prices for non-advertised items, or use aggressive tactics to lure tourists with fake discounts that don't materialize.",
+          "howToAvoid": "Always check prices before ordering, read menus carefully, verify bills before paying, and avoid restaurants with overly aggressive street promoters."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Fraudsters install skimming devices on ATMs, particularly near tourist-heavy areas like Collins Avenue and South Beach, to steal card information and PINs.",
+          "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN when entering it, check for loose or unusual attachments on card slots, and monitor bank statements regularly."
+        },
+        {
+          "name": "Rental and Travel Scams",
+          "risk": "high",
+          "description": "Fake vacation rental listings, fraudulent Airbnb properties, and bogus travel deals targeting Miami visitors, often demanding deposits through untraceable payment apps.",
+          "howToAvoid": "Book through verified platforms, verify property listings independently, never wire money or use prepaid cards, and meet rental agents in person when possible."
+        },
+        {
+          "name": "Distraction Theft",
+          "risk": "medium",
+          "description": "Teams of thieves create distractions by spilling drinks, dropping items, or asking for directions while accomplices steal wallets, phones, or bags, particularly in crowded tourist areas.",
+          "howToAvoid": "Stay aware of surroundings, keep valuables secured in front pockets or hidden pouches, be wary of overly helpful strangers, and don't let anyone distract you from your belongings."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Miami is generally safe for solo female travelers during daylight hours in tourist areas, with many women reporting positive experiences exploring beaches, restaurants, and attractions independently. However, extra precautions are recommended at night, particularly regarding transportation and accommodation choices. Sexual harassment from strangers is reported as a common issue in public spaces, though serious incidents remain relatively rare.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safer neighborhoods like Brickell, Coral Gables, or Coconut Grove",
+          "Use rideshare apps rather than walking alone at night or taking random taxis",
+          "Join group activities or bar crawls to experience nightlife more safely",
+          "Keep drinks covered and never leave them unattended in bars or clubs",
+          "Trust your instincts and leave situations that feel uncomfortable immediately"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Miami's nightlife is world-famous and generally enjoyable, but requires extra awareness after dark. Well-lit tourist areas like Ocean Drive, Lincoln Road, and Brickell maintain active police presence and foot traffic, making them relatively safe. However, beaches become poorly lit and risky after sunset, while some residential areas can feel isolated.",
+        "tips": [
+          "Stick to busy, well-lit areas with active nightlife rather than wandering into quiet streets",
+          "Avoid walking on beaches after dark as they become poorly lit and isolated",
+          "Plan transportation in advance using rideshare apps or licensed taxis",
+          "Stay with groups when possible and let others know your plans",
+          "Be extra cautious around clubs with aggressive promoters or unclear pricing"
+        ]
+      },
+      "transport": {
+        "metro": "Miami's Metrorail operates from 5am to midnight with generally safe daytime use, but exercise caution during late evening hours and avoid empty stations. The system is limited and doesn't reach Miami Beach, requiring bus connections.",
+        "rideshare": "Uber and Lyft are widely available and considered the safest transportation option, especially at night. Always verify license plates and driver details before entering vehicles.",
+        "taxis": "Licensed taxis are regulated and generally safe, though more expensive than rideshare options. Avoid unlicensed vehicles and ensure meters are running or agree on fares upfront.",
+        "tips": "Public transportation is safest during peak hours with other passengers present. For Miami Beach, use the Airport Flyer bus or rideshare services rather than attempting complex public transit connections."
+      },
+      "customs": [
+        "Miami is highly multicultural with Spanish widely spoken - over half the population was born outside the US",
+        "Tipping 18-20% is expected at restaurants and bars, with service charges sometimes included",
+        "Beach culture is casual but cover-ups are required when leaving beach areas",
+        "Miami operates on Eastern Time and follows US federal holidays and business practices"
+      ],
+      "health": {
+        "overview": "Miami offers excellent healthcare with world-class hospitals and medical facilities. The city has multiple Level 1 trauma centers and specialized care available 24/7. No special vaccinations are required, and healthcare standards meet high US regulations.",
+        "water": "Tap water is safe to drink and meets EPA standards, though some visitors prefer bottled water due to taste preferences from local limestone filtration.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Consider updating standard vaccines like flu, COVID-19, and tetanus before travel.",
+        "altitude": "Miami is at sea level with no altitude concerns. The tropical climate is hot and humid year-round with hurricane season from June through November requiring weather monitoring."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or (305) 603-6640",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "No US Embassy in Miami (domestic city). International visitors should contact their home country's consulate. Miami has numerous foreign consulates in the Brickell and downtown areas."
+      },
+      "faq": [
+        {
+          "q": "Is Miami safe for tourists?",
+          "a": "Yes, Miami is generally safe for tourists who exercise normal urban precautions. Stay in well-established areas, avoid displaying valuable items, and use common sense. Recent crime statistics show improving trends with significant reductions in violent crime."
+        },
+        {
+          "q": "Is Miami safe at night?",
+          "a": "Popular nightlife areas like Ocean Drive, Lincoln Road, and Brickell are relatively safe due to active police presence and crowds, but avoid isolated areas and beaches after dark. Always use rideshare services or taxis rather than walking alone at night."
+        },
+        {
+          "q": "Is Miami safe for solo female travelers?",
+          "a": "Miami can be safe for solo female travelers with proper precautions. Stick to busy tourist areas during the day, stay in reputable accommodations, use rideshare apps at night, and be aware that sexual harassment from strangers is commonly reported."
+        },
+        {
+          "q": "What areas should I avoid in Miami?",
+          "a": "Avoid Liberty City, Overtown, and isolated areas of downtown at night. Also avoid walking on beaches after dark, empty parking lots, and areas with heavy drug activity. Stick to well-lit, populated tourist zones."
+        },
+        {
+          "q": "Is it safe to use public transport in Miami?",
+          "a": "Metrorail and Metrobus are generally safe during daytime hours but use caution at night. The system is limited and doesn't reach Miami Beach. Rideshare apps are safer and more convenient, especially for tourists unfamiliar with routes."
+        }
+      ],
+      "relatedCities": [
+        "orlando",
+        "tampa",
+        "fort-lauderdale"
+      ]
+    },
+    {
+      "slug": "san-francisco",
+      "name": "San Francisco",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 6.5,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 6.8,
+        "scamRisk": 5.5,
+        "womensSafety": 7.2,
+        "nightSafety": 5.8,
+        "transport": 7.0,
+        "naturalHazards": 8.4
+      },
+      "summary": "San Francisco is generally safe for tourists but faces notable challenges with property crime, particularly car break-ins and theft. While violent crime rates are relatively low, petty theft is significantly higher than in other major US cities. The city has made progress in reducing homicides and improving transit safety.",
+      "quickVerdict": "San Francisco offers an incredible experience for visitors but requires heightened awareness, especially regarding property crime. Car break-ins are extremely common, and petty theft occurs frequently in tourist areas. However, violent crime against visitors is uncommon, and the city maintains strong public transport systems and emergency services. Solo female travelers generally feel safe during daylight hours, though extra caution is advised at night. With proper precautions and awareness, San Francisco remains a worthwhile destination.",
+      "neighborhoods": [
+        {
+          "name": "Union Square",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Tourist-friendly area with good lighting, police presence, and plenty of foot traffic. Generally safe during day and evening hours with numerous shops and restaurants."
+        },
+        {
+          "name": "Fisherman's Wharf",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Popular tourist destination with heavy security presence and constant activity. Well-patrolled area with good safety infrastructure for visitors."
+        },
+        {
+          "name": "Marina District",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale residential neighborhood with low crime rates. Well-lit streets, affluent area with good police response times and safe for evening walks."
+        },
+        {
+          "name": "Mission District",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Vibrant cultural area with excellent food and nightlife, but higher property crime rates. Safe during busy hours but exercise extra caution after midnight."
+        },
+        {
+          "name": "Tenderloin",
+          "score": 3.2,
+          "class": "danger",
+          "description": "High crime area with significant drug activity, homelessness, and safety concerns. Avoid walking alone especially at night. Stay on main streets if you must transit through."
+        },
+        {
+          "name": "Castro District",
+          "score": 7.0,
+          "class": "safe",
+          "description": "LGBTQ-friendly neighborhood with active nightlife and community presence. Generally safe with good lighting and foot traffic during evening hours."
+        }
+      ],
+      "scams": [
+        {
+          "name": "BART Transit Card Scam",
+          "risk": "medium",
+          "description": "Individuals offer to help with BART ticket machines or sell discounted cards that may have no value.",
+          "howToAvoid": "Only purchase transit cards from official machines or staffed booths. Politely decline help from strangers at stations."
+        },
+        {
+          "name": "Apartment Rental Scam",
+          "risk": "high",
+          "description": "Fake apartment listings on social media platforms requesting deposits before viewing. Often use AI-generated content and stolen photos.",
+          "howToAvoid": "Never send money before viewing in person. Verify listings through official real estate websites and meet landlords face-to-face."
+        },
+        {
+          "name": "Sob Story Money Requests",
+          "risk": "medium",
+          "description": "Individuals approach with compelling stories needing money for gas, food, or transport, often at tourist areas or transit stations.",
+          "howToAvoid": "Politely decline and keep walking. If you want to help, direct people to local social services or offer to call 311 for city resources."
+        },
+        {
+          "name": "Romance Investment Scam",
+          "risk": "high",
+          "description": "Online dating matches eventually request cryptocurrency investments or financial help, often using AI-enhanced profiles and fake trading platforms.",
+          "howToAvoid": "Never send money or invest based on online relationships. Be suspicious of investment opportunities from dating app matches."
+        }
+      ],
+      "soloFemale": {
+        "overview": "San Francisco is generally considered safe for solo female travelers, ranking among the better US cities for women traveling alone. The city has a progressive culture and strong public transportation system. However, property crime is a concern, and certain areas require extra caution, especially at night. Most female travelers report positive experiences when following basic safety precautions.",
+        "tips": [
+          "Stay in well-lit, populated areas especially after dark",
+          "Use rideshare services rather than walking alone late at night",
+          "Keep valuables secure and avoid displaying expensive items openly",
+          "Trust your instincts and leave situations that feel uncomfortable",
+          "Consider staying in neighborhoods like Marina, Union Square, or North Beach"
+        ]
+      },
+      "nightSafety": {
+        "overview": "San Francisco's nightlife safety varies significantly by neighborhood and time. Tourist areas like Union Square and North Beach remain relatively safe with good lighting and police presence. However, some areas become more dangerous after midnight, particularly the Tenderloin and parts of the Mission. The city has active nightlife in safe zones, but travelers should plan their routes and transportation in advance.",
+        "tips": [
+          "Stick to well-lit main streets and avoid empty alleys",
+          "Use rideshare apps instead of walking long distances at night",
+          "Stay in groups when possible and let someone know your plans",
+          "Avoid parks and isolated areas after dark",
+          "Keep emergency numbers saved and stay aware of your surroundings"
+        ]
+      },
+      "transport": {
+        "metro": "BART connects SF to the wider Bay Area and is generally safe during daytime with recent improvements in cleanliness and security. Crime down 17% year-over-year with high rider satisfaction ratings.",
+        "rideshare": "Uber and Lyft are widely available and considered safe options. Standard tipping is 15-20% of fare. Both apps allow rating drivers and tracking trips for safety.",
+        "taxis": "Traditional taxis are safe but less common than rideshare. Ensure the taxi is officially licensed and the meter is running. Tip 10-15% of the fare.",
+        "tips": "Public transit is extensive with Muni buses and trains covering the city. Use Clipper Card for all transit. Avoid displaying phones or valuables on crowded transit and stay alert during late-night travel."
+      },
+      "customs": [
+        "Tipping is expected - 18-20% at restaurants, $1-2 per drink at bars, 15-20% for rideshare",
+        "Americans are generally friendly and casual - small talk with strangers is normal",
+        "Personal space is important - maintain arm's length distance in conversations",
+        "Punctuality is valued - arrive on time for reservations and appointments",
+        "Remove hats indoors and during national anthem",
+        "It's polite to say 'please' and 'thank you' frequently in interactions"
+      ],
+      "health": {
+        "overview": "San Francisco has excellent healthcare facilities including UCSF Medical Center and San Francisco General Hospital. The city provides high-quality medical care with no significant health risks for tourists.",
+        "water": "Tap water is completely safe to drink and meets all federal standards. San Francisco has one of the best water supplies in the US with no violations in recent quality reports.",
+        "vaccinations": "No special vaccinations required for visiting San Francisco. Routine vaccinations like MMR, flu, and COVID-19 boosters are recommended as for general US travel.",
+        "altitude": "San Francisco is at sea level with a Mediterranean climate. Temperatures range from 50-65°F year-round. Dress in layers as weather can change quickly, especially with morning fog."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or 415-553-0123 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US citizens should contact local authorities directly. For assistance abroad, call 1-888-407-4747 (from US) or 1-202-501-4444 (from abroad)"
+      },
+      "faq": [
+        {
+          "q": "Is San Francisco safe for tourists?",
+          "a": "Yes, San Francisco is generally safe for tourists, though property crime like car break-ins is common. Violent crime against visitors is rare. Stay aware in tourist areas and avoid leaving valuables in cars."
+        },
+        {
+          "q": "Is San Francisco safe at night?",
+          "a": "Safety varies by neighborhood. Areas like Union Square, Fisherman's Wharf, and Marina are well-lit and patrolled. Avoid the Tenderloin and empty streets after midnight. Use rideshare services for transportation."
+        },
+        {
+          "q": "Is San Francisco safe for solo female travelers?",
+          "a": "Yes, San Francisco is considered one of the safer US cities for solo female travelers. The city has a progressive culture and good public transport. Exercise normal precautions and avoid isolated areas at night."
+        },
+        {
+          "q": "What areas should I avoid in San Francisco?",
+          "a": "The Tenderloin has high crime rates and drug activity. Parts of the Mission can be unsafe late at night. Also avoid leaving anything visible in parked cars anywhere in the city as break-ins are extremely common."
+        },
+        {
+          "q": "Is it safe to use public transport in San Francisco?",
+          "a": "Yes, BART and Muni are generally safe, especially during daytime. Recent improvements have increased safety and satisfaction ratings. Stay alert, secure valuables, and avoid isolated stations late at night."
+        }
+      ],
+      "relatedCities": [
+        "los-angeles",
+        "seattle",
+        "portland",
+        "vancouver"
+      ]
+    },
+    {
+      "slug": "chicago",
+      "name": "Chicago",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 7.5,
+        "scamRisk": 6.2,
+        "womensSafety": 7.4,
+        "nightSafety": 6.9,
+        "transport": 7.8,
+        "naturalHazards": 8.5
+      },
+      "summary": "Chicago has experienced its safest period in decades, with violent crime reaching 10-year lows and homicides dropping by 50% since 2025. While tourist areas like the Loop, River North, and Lincoln Park remain very safe, visitors should be aware of neighborhood variations and use common urban safety precautions.",
+      "quickVerdict": "Chicago offers a safe experience for tourists in 2026, particularly in popular visitor areas. The city has made remarkable progress in reducing crime, with overall violent crime at its lowest point in over a decade. Popular tourist destinations like Millennium Park, Navy Pier, and the Magnificent Mile are well-patrolled and secure. However, like any major city, Chicago requires basic urban awareness - stick to well-lit areas at night, avoid less populated neighborhoods on the South and West Sides, and use rideshare services or taxis after dark rather than walking alone.",
+      "neighborhoods": [
+        {
+          "name": "River North",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Prime tourist area with luxury hotels, restaurants, and nightlife. Well-patrolled with excellent security and numerous people on the streets day and night."
+        },
+        {
+          "name": "The Loop",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Downtown business district housing major attractions like Millennium Park and Art Institute. Very safe during daytime but can feel empty after business hours."
+        },
+        {
+          "name": "Lincoln Park",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale neighborhood with tree-lined streets, parks, and the famous zoo. Popular with young professionals and families, making it consistently safe and walkable."
+        },
+        {
+          "name": "Wicker Park/Bucktown",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Hip, artsy neighborhoods with trendy bars and restaurants. Generally safe but exercise normal precautions when bar-hopping late at night."
+        },
+        {
+          "name": "Uptown",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Improving area with cultural attractions but mixed safety record. Crime is 10% lower than national average but residents recommend staying alert, especially at night."
+        },
+        {
+          "name": "South Shore",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Neighborhood experiencing ongoing challenges with violent crime. Not recommended for tourists, though some areas near the lakefront are being revitalized."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Taxi Airport Scam",
+          "risk": "high",
+          "description": "Unlicensed drivers at airports offering rides at inflated rates, sometimes charging hundreds for downtown trips.",
+          "howToAvoid": "Use only official rideshare apps or licensed taxis. A legitimate ride to downtown should cost around $40-60, not $200+."
+        },
+        {
+          "name": "Street Performer Payment Demands",
+          "risk": "medium",
+          "description": "Aggressive street performers in tourist areas demanding tips of $10-20 after entertaining crowds without consent.",
+          "howToAvoid": "Don't engage if you don't want to pay. Walk away confidently and find a police officer if they become confrontational."
+        },
+        {
+          "name": "Three-Card Monte/Shell Games",
+          "risk": "medium",
+          "description": "Classic street gambling scams around Navy Pier and tourist areas, often involving accomplices who pretend to win to encourage participation.",
+          "howToAvoid": "These games are rigged - you cannot win. Don't participate and be aware that pickpockets may target distracted spectators."
+        },
+        {
+          "name": "AI Voice Cloning Phone Scams",
+          "risk": "high",
+          "description": "Sophisticated 2026 scam using AI to clone voices from social media, with fake officials demanding cryptocurrency payments for fabricated legal issues.",
+          "howToAvoid": "Real law enforcement never demands payment over the phone or requests cryptocurrency. Hang up and call official numbers directly."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Chicago is generally safe for solo female travelers, especially with recent crime reductions making it safer than it's been in decades. Popular tourist areas have good security and plenty of people around. Women report feeling comfortable dining alone and exploring during daytime hours. However, standard precautions apply - avoid walking alone late at night and use rideshare services after 9 PM when public transport feels less secure.",
+        "tips": [
+          "Stick to well-lit, populated areas like River North, Lincoln Park, and the Loop",
+          "Use rideshare apps instead of the CTA trains after 9 PM - many women make this switch for safety",
+          "Carry a cross-body bag or backpack with zippers when visiting crowded areas like Navy Pier",
+          "Trust your instincts - if a situation feels uncomfortable, leave immediately and tactfully",
+          "Consider staying in tourist-friendly neighborhoods with 24/7 concierge services"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Chicago's nightlife is vibrant and generally safe in the right areas. Popular nightlife districts like River North, Gold Coast, and parts of Lincoln Park remain active and secure late into the night. The city's bar and club scene has professional security, and many venues stay busy until 2-5 AM. However, the Loop becomes quite empty after business hours, and some residential areas are better avoided after dark.",
+        "tips": [
+          "Stick to busy nightlife areas - River North, Gold Coast, and Wicker Park have the most activity",
+          "Use rideshare services instead of walking long distances at night",
+          "Stay with groups when bar hopping and establish check-in points with friends",
+          "Watch your drinks being made and never accept drinks from strangers",
+          "Most bars close at 2 AM weekdays, 3 AM Sundays - plan transportation in advance"
+        ]
+      },
+      "transport": {
+        "metro": "The Chicago Transit Authority (CTA) operates 8 train lines and 127 bus routes covering the city extensively. The Red and Blue lines run 24/7, while others operate until around 1 AM. The system is generally safe during daytime hours but many locals, especially women, switch to rideshare after 9 PM when trains feel less secure due to smaller crowds.",
+        "rideshare": "Uber and Lyft are widely available and popular safety choices, especially for nighttime travel. Both apps allow easy reporting of unsafe drivers and provide trip tracking. Rides within the city typically cost $8-15 and are considered safer than taxis due to accountability features and GPS tracking.",
+        "taxis": "Licensed taxis accept credit cards and can be hailed citywide or booked via ARRO and Curb apps. However, avoid airport taxi scams where unlicensed operators charge inflated rates. Legitimate downtown rides should cost $40-60 maximum, not the $200+ that scammers charge tourists.",
+        "tips": "The CTA offers day passes and Ventra cards for convenient payment. Divvy bike-share is excellent for short trips with 15,000+ bikes citywide. For airport transport, take the Blue Line train or official rideshare - it's faster and much cheaper than taxis."
+      },
+      "customs": [
+        "Tipping is mandatory in restaurants (15-20% of the bill), bars ($1-2 per drink), and for hotel staff ($2-5 for porters/housekeeping)",
+        "Americans appreciate directness in communication but paired with politeness - say please, thank you, and maintain eye contact during conversations",
+        "Personal space is important - maintain arm's length distance and avoid standing too close during conversations unless invited closer"
+      ],
+      "health": {
+        "overview": "Chicago has world-class healthcare with three hospitals ranking in global top 200: Northwestern Memorial (#61), Rush University Medical Center (#130), and University of Chicago Medical Center (#135). The city has excellent emergency services and medical facilities throughout the metro area.",
+        "water": "Tap water is safe to drink throughout Chicago and is provided free at restaurants. The city's water treatment meets all federal standards and locals regularly drink from the tap without concern.",
+        "vaccinations": "No special vaccinations required for Chicago. Standard travel immunizations (routine vaccines like MMR, flu shot) are recommended. The US has high vaccination rates and good disease surveillance systems.",
+        "altitude": "Chicago sits at 594 feet above sea level with no altitude concerns. The climate features cold winters (wind chills to -22°F) and warm, humid summers. Lake Michigan moderates temperatures year-round."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) / 311 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "311 (general police non-emergency line)",
+        "usEmbassy": "N/A - Chicago is a US city. International visitors needing consular assistance should contact their home country's consulate in Chicago."
+      },
+      "faq": [
+        {
+          "q": "Is Chicago safe for tourists?",
+          "a": "Yes, Chicago is experiencing its safest period in decades with violent crime at 10-year lows. Tourist areas like River North, the Loop, and Lincoln Park are well-patrolled and secure. Stick to popular neighborhoods and use normal urban precautions."
+        },
+        {
+          "q": "Is Chicago safe at night?",
+          "a": "Chicago's nightlife districts like River North and Gold Coast are generally safe and active until 2-5 AM. However, avoid walking alone late at night and use rideshare services. The Loop becomes empty after business hours, so consider staying in more residential areas."
+        },
+        {
+          "q": "Is Chicago safe for solo female travelers?",
+          "a": "Yes, many solo female travelers visit Chicago safely. Stay in tourist-friendly areas, use rideshare after 9 PM instead of public transit, and trust your instincts. Crime has dropped significantly, making it safer than it's been in decades."
+        },
+        {
+          "q": "What areas should I avoid in Chicago?",
+          "a": "Avoid certain parts of the South and West Sides, particularly neighborhoods like South Shore and Austin. These areas have higher crime rates and few tourist attractions. Stick to central areas like River North, Lincoln Park, and the Loop."
+        },
+        {
+          "q": "Is it safe to use public transport in Chicago?",
+          "a": "Yes, the CTA is generally safe during daytime hours and well-used. However, many locals switch to rideshare after 9 PM when trains have fewer passengers. The Red and Blue lines run 24/7, but rideshare is often preferred for late-night travel."
+        }
+      ],
+      "relatedCities": [
+        "new-york",
+        "los-angeles",
+        "toronto",
+        "detroit",
+        "milwaukee",
+        "boston"
+      ]
     }
   ]
 }

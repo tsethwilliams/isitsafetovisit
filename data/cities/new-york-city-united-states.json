@@ -1,0 +1,163 @@
+{
+  "slug": "new-york-city",
+  "name": "New York City",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 7.9
+  },
+  "summary": "New York City is one of the safest major cities in America, with crime rates at historic lows in 2026. While petty crime like pickpocketing exists in tourist areas, violent crime has decreased significantly with murders and shootings reaching the lowest levels since the 1990s.",
+  "quickVerdict": "New York City is generally safe for tourists in 2026, ranking as one of America's safest large cities. The NYPD has implemented comprehensive safety measures including enhanced subway patrols, platform barriers, and the CURE program for nightlife venues. While visitors should remain alert for pickpockets and tourist scams, especially in Times Square and tourist hotspots, the overall risk of serious crime is low. The city's excellent public transportation, world-class healthcare system, and 24/7 police presence make it well-suited for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Midtown Manhattan",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Heart of tourist activity with heavy police presence, well-lit streets, and constant foot traffic. Times Square area requires extra caution for tourist scams but is generally very safe due to massive security presence."
+    },
+    {
+      "name": "Upper East Side",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale residential neighborhood known for its safety, tree-lined streets, and proximity to Central Park. Low crime rates and excellent for solo travelers and families."
+    },
+    {
+      "name": "Greenwich Village",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historic neighborhood with charming streets, active nightlife, and good safety record. Well-patrolled area popular with both locals and tourists."
+    },
+    {
+      "name": "Lower East Side",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Trendy neighborhood that has undergone significant gentrification. Generally safe during the day with vibrant nightlife scene, though some caution advised late at night."
+    },
+    {
+      "name": "Williamsburg Brooklyn",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Hip Brooklyn neighborhood with excellent safety record, popular restaurants and bars. Well-connected by subway and generally safe for solo travelers."
+    },
+    {
+      "name": "South Bronx",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Some areas still experience higher crime rates though improving. Visitors should exercise increased caution, especially at night, and stick to main commercial areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Times Square Characters",
+      "risk": "high",
+      "description": "Costumed characters demand tips after photos, sometimes aggressively holding phones hostage until payment is made.",
+      "howToAvoid": "Avoid taking photos with street performers or agree on price upfront. If approached aggressively, walk away and seek help from nearby police."
+    },
+    {
+      "name": "Fake Statue of Liberty Tickets",
+      "risk": "high",
+      "description": "Scammers near Battery Park sell overpriced fake ferry tickets or tours that don't include official Statue of Liberty access.",
+      "howToAvoid": "Only buy tickets from Castle Clinton official booth or Statue Cruises website. Ignore street vendors and unofficial ticket sellers."
+    },
+    {
+      "name": "CD and Bracelet Hustles",
+      "risk": "medium",
+      "description": "Street vendors give free CDs or put bracelets on tourists then demand payment, sometimes becoming confrontational.",
+      "howToAvoid": "Never accept anything free from street vendors. Keep hands in pockets, avoid eye contact, and say no firmly while walking away."
+    },
+    {
+      "name": "Taxi and Pedicab Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed cabs at airports and overpriced pedicab rides in Central Park that quote low prices then demand much higher payments.",
+      "howToAvoid": "Use only yellow taxis or ride-share apps. For pedicabs, agree on total price before getting in and ensure it's clearly posted on the vehicle."
+    }
+  ],
+  "soloFemale": {
+    "overview": "New York City ranks as the 3rd best state for solo female travelers in 2026. The city is generally safe for women traveling alone, with well-lit streets, 24/7 activity, and strong police presence. Most neighborhoods are walkable and safe, though standard urban precautions apply. The subway system is regularly patrolled and crime rates have decreased significantly.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark and trust your instincts",
+      "Use official ride-share apps or yellow taxis rather than walking long distances at night",
+      "Keep valuables secure and avoid displaying expensive items in crowded tourist areas",
+      "Share your location with friends/family when exploring and consider staying within 10 minutes of subway stations",
+      "Be aware that harassment can occur on public transport - move to different cars if uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "New York's nightlife is highly regulated with specialized NYPD patrol units and the Mayor's Office of Nightlife coordinating safety measures. The city offers a highly secure nightlife environment with advanced monitoring systems. High-density areas like Lower East Side, Hell's Kitchen, and Chelsea receive strong weekend patrols. Crime rates in nightlife districts have decreased with enhanced safety programs.",
+    "tips": [
+      "Stick to well-established venues in popular nightlife districts with good security measures",
+      "Stay with your group and designate a meeting point in case of separation",
+      "Be cautious of drink tampering and never leave drinks unattended",
+      "Use official transportation like yellow cabs or ride-share apps rather than walking alone",
+      "Avoid unknown neighborhoods late at night and stay in well-lit areas with foot traffic"
+    ]
+  },
+  "transport": {
+    "metro": "NYC subway runs 24/7 with 25 routes and 470+ stations. Crime is at 16-year lows with enhanced NYPD patrols, platform barriers at 115 stations, and LED lighting improvements. Fare is $3.00 with OMNY contactless payment system. Stay alert late at night and avoid empty cars.",
+    "rideshare": "Uber and Lyft operate citywide with good availability. Generally safe and reliable option, especially for late-night travel. Always verify license plates and driver details before getting in vehicle.",
+    "taxis": "Yellow taxis are regulated, metered, and generally safe. Available 24/7 throughout Manhattan and at major transportation hubs. More expensive than subway but convenient for short trips and late nights.",
+    "tips": "Subway is safest and most efficient for daytime travel. Use ride-share or taxis for late-night travel. Stay near conductor car on subway trains and report suspicious activity to MTA Police at 888-682-9117."
+  },
+  "customs": [
+    "Tipping is expected - 18-20% at restaurants, $1-2 per bag for hotel staff, and round up taxi fares",
+    "Americans value personal space and direct communication - maintain arm's length distance in conversations",
+    "Greet with firm handshakes and direct eye contact, first names are commonly used even in professional settings"
+  ],
+  "health": {
+    "overview": "NYC has world-class healthcare system with numerous top-rated hospitals including Mount Sinai, NYU Langone, and NewYork-Presbyterian. Healthcare costs are very high, so travel insurance is essential. No special health risks for visitors beyond typical urban environment concerns.",
+    "water": "Tap water is safe to drink and regularly tested. NYC tap water is considered some of the best in the US and bottled water is unnecessary.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines (Hepatitis A/B, influenza) recommended. COVID-19 vaccination advisable but not required for entry.",
+    "altitude": "Sea level location with humid continental climate. Summers can be hot and humid (80-85°F), winters cold (30-40°F). No altitude concerns for most visitors."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A - use 911 for all police emergencies",
+    "usEmbassy": "Not applicable - New York is within the United States. For international visitors, contact your home country's consulate in NYC."
+  },
+  "faq": [
+    {
+      "q": "Is New York City safe for tourists?",
+      "a": "Yes, New York City is one of the safest large cities in America with crime at historic lows in 2026. While petty crime exists in tourist areas, violent crime is rare and the city has extensive police presence and safety measures."
+    },
+    {
+      "q": "Is New York City safe at night?",
+      "a": "Manhattan and popular Brooklyn neighborhoods are generally safe at night due to 24/7 activity and good lighting. The nightlife districts have enhanced police patrols and safety programs. Use common sense, stay in groups, and use official transportation."
+    },
+    {
+      "q": "Is New York City safe for solo female travelers?",
+      "a": "Yes, NYC ranks as one of the top destinations for solo female travelers. The city is walkable, well-lit, and has excellent public transport. Standard precautions apply - stay alert, use official transportation at night, and trust your instincts."
+    },
+    {
+      "q": "What areas should I avoid in New York City?",
+      "a": "Most tourist areas are safe. Exercise more caution in parts of the South Bronx and some outer borough areas late at night. Stick to main streets and tourist districts, especially Times Square, Midtown, and popular Brooklyn neighborhoods."
+    },
+    {
+      "q": "Is it safe to use public transport in New York City?",
+      "a": "Yes, the subway system is generally safe with crime at 16-year lows and enhanced police patrols. Over 1.2 billion annual rides with very low crime rates per capita. Stay alert, avoid empty cars late at night, and report suspicious activity."
+    }
+  ],
+  "relatedCities": [
+    "boston",
+    "washington-dc",
+    "philadelphia",
+    "chicago",
+    "miami"
+  ],
+  "_city_id": "new-york-city-united-states"
+}

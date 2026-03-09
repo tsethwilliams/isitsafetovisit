@@ -1,0 +1,165 @@
+{
+  "slug": "san-francisco",
+  "name": "San Francisco",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 6.8,
+    "scamRisk": 5.5,
+    "womensSafety": 7.2,
+    "nightSafety": 5.8,
+    "transport": 7.0,
+    "naturalHazards": 8.4
+  },
+  "summary": "San Francisco is generally safe for tourists but faces notable challenges with property crime, particularly car break-ins and theft. While violent crime rates are relatively low, petty theft is significantly higher than in other major US cities. The city has made progress in reducing homicides and improving transit safety.",
+  "quickVerdict": "San Francisco offers an incredible experience for visitors but requires heightened awareness, especially regarding property crime. Car break-ins are extremely common, and petty theft occurs frequently in tourist areas. However, violent crime against visitors is uncommon, and the city maintains strong public transport systems and emergency services. Solo female travelers generally feel safe during daylight hours, though extra caution is advised at night. With proper precautions and awareness, San Francisco remains a worthwhile destination.",
+  "neighborhoods": [
+    {
+      "name": "Union Square",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist-friendly area with good lighting, police presence, and plenty of foot traffic. Generally safe during day and evening hours with numerous shops and restaurants."
+    },
+    {
+      "name": "Fisherman's Wharf",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular tourist destination with heavy security presence and constant activity. Well-patrolled area with good safety infrastructure for visitors."
+    },
+    {
+      "name": "Marina District",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential neighborhood with low crime rates. Well-lit streets, affluent area with good police response times and safe for evening walks."
+    },
+    {
+      "name": "Mission District",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Vibrant cultural area with excellent food and nightlife, but higher property crime rates. Safe during busy hours but exercise extra caution after midnight."
+    },
+    {
+      "name": "Tenderloin",
+      "score": 3.2,
+      "class": "danger",
+      "description": "High crime area with significant drug activity, homelessness, and safety concerns. Avoid walking alone especially at night. Stay on main streets if you must transit through."
+    },
+    {
+      "name": "Castro District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "LGBTQ-friendly neighborhood with active nightlife and community presence. Generally safe with good lighting and foot traffic during evening hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "BART Transit Card Scam",
+      "risk": "medium",
+      "description": "Individuals offer to help with BART ticket machines or sell discounted cards that may have no value.",
+      "howToAvoid": "Only purchase transit cards from official machines or staffed booths. Politely decline help from strangers at stations."
+    },
+    {
+      "name": "Apartment Rental Scam",
+      "risk": "high",
+      "description": "Fake apartment listings on social media platforms requesting deposits before viewing. Often use AI-generated content and stolen photos.",
+      "howToAvoid": "Never send money before viewing in person. Verify listings through official real estate websites and meet landlords face-to-face."
+    },
+    {
+      "name": "Sob Story Money Requests",
+      "risk": "medium",
+      "description": "Individuals approach with compelling stories needing money for gas, food, or transport, often at tourist areas or transit stations.",
+      "howToAvoid": "Politely decline and keep walking. If you want to help, direct people to local social services or offer to call 311 for city resources."
+    },
+    {
+      "name": "Romance Investment Scam",
+      "risk": "high",
+      "description": "Online dating matches eventually request cryptocurrency investments or financial help, often using AI-enhanced profiles and fake trading platforms.",
+      "howToAvoid": "Never send money or invest based on online relationships. Be suspicious of investment opportunities from dating app matches."
+    }
+  ],
+  "soloFemale": {
+    "overview": "San Francisco is generally considered safe for solo female travelers, ranking among the better US cities for women traveling alone. The city has a progressive culture and strong public transportation system. However, property crime is a concern, and certain areas require extra caution, especially at night. Most female travelers report positive experiences when following basic safety precautions.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark",
+      "Use rideshare services rather than walking alone late at night",
+      "Keep valuables secure and avoid displaying expensive items openly",
+      "Trust your instincts and leave situations that feel uncomfortable",
+      "Consider staying in neighborhoods like Marina, Union Square, or North Beach"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Francisco's nightlife safety varies significantly by neighborhood and time. Tourist areas like Union Square and North Beach remain relatively safe with good lighting and police presence. However, some areas become more dangerous after midnight, particularly the Tenderloin and parts of the Mission. The city has active nightlife in safe zones, but travelers should plan their routes and transportation in advance.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty alleys",
+      "Use rideshare apps instead of walking long distances at night",
+      "Stay in groups when possible and let someone know your plans",
+      "Avoid parks and isolated areas after dark",
+      "Keep emergency numbers saved and stay aware of your surroundings"
+    ]
+  },
+  "transport": {
+    "metro": "BART connects SF to the wider Bay Area and is generally safe during daytime with recent improvements in cleanliness and security. Crime down 17% year-over-year with high rider satisfaction ratings.",
+    "rideshare": "Uber and Lyft are widely available and considered safe options. Standard tipping is 15-20% of fare. Both apps allow rating drivers and tracking trips for safety.",
+    "taxis": "Traditional taxis are safe but less common than rideshare. Ensure the taxi is officially licensed and the meter is running. Tip 10-15% of the fare.",
+    "tips": "Public transit is extensive with Muni buses and trains covering the city. Use Clipper Card for all transit. Avoid displaying phones or valuables on crowded transit and stay alert during late-night travel."
+  },
+  "customs": [
+    "Tipping is expected - 18-20% at restaurants, $1-2 per drink at bars, 15-20% for rideshare",
+    "Americans are generally friendly and casual - small talk with strangers is normal",
+    "Personal space is important - maintain arm's length distance in conversations",
+    "Punctuality is valued - arrive on time for reservations and appointments",
+    "Remove hats indoors and during national anthem",
+    "It's polite to say 'please' and 'thank you' frequently in interactions"
+  ],
+  "health": {
+    "overview": "San Francisco has excellent healthcare facilities including UCSF Medical Center and San Francisco General Hospital. The city provides high-quality medical care with no significant health risks for tourists.",
+    "water": "Tap water is completely safe to drink and meets all federal standards. San Francisco has one of the best water supplies in the US with no violations in recent quality reports.",
+    "vaccinations": "No special vaccinations required for visiting San Francisco. Routine vaccinations like MMR, flu, and COVID-19 boosters are recommended as for general US travel.",
+    "altitude": "San Francisco is at sea level with a Mediterranean climate. Temperatures range from 50-65°F year-round. Dress in layers as weather can change quickly, especially with morning fog."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 415-553-0123 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens should contact local authorities directly. For assistance abroad, call 1-888-407-4747 (from US) or 1-202-501-4444 (from abroad)"
+  },
+  "faq": [
+    {
+      "q": "Is San Francisco safe for tourists?",
+      "a": "Yes, San Francisco is generally safe for tourists, though property crime like car break-ins is common. Violent crime against visitors is rare. Stay aware in tourist areas and avoid leaving valuables in cars."
+    },
+    {
+      "q": "Is San Francisco safe at night?",
+      "a": "Safety varies by neighborhood. Areas like Union Square, Fisherman's Wharf, and Marina are well-lit and patrolled. Avoid the Tenderloin and empty streets after midnight. Use rideshare services for transportation."
+    },
+    {
+      "q": "Is San Francisco safe for solo female travelers?",
+      "a": "Yes, San Francisco is considered one of the safer US cities for solo female travelers. The city has a progressive culture and good public transport. Exercise normal precautions and avoid isolated areas at night."
+    },
+    {
+      "q": "What areas should I avoid in San Francisco?",
+      "a": "The Tenderloin has high crime rates and drug activity. Parts of the Mission can be unsafe late at night. Also avoid leaving anything visible in parked cars anywhere in the city as break-ins are extremely common."
+    },
+    {
+      "q": "Is it safe to use public transport in San Francisco?",
+      "a": "Yes, BART and Muni are generally safe, especially during daytime. Recent improvements have increased safety and satisfaction ratings. Stay alert, secure valuables, and avoid isolated stations late at night."
+    }
+  ],
+  "relatedCities": [
+    "los-angeles",
+    "seattle",
+    "portland",
+    "vancouver"
+  ],
+  "_city_id": "san-francisco-united-states"
+}

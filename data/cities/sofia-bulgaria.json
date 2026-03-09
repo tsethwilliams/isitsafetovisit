@@ -1,0 +1,157 @@
+{
+  "slug": "sofia",
+  "name": "Sofia",
+  "country": "Bulgaria",
+  "countryCode": "BG",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 7.6
+  },
+  "summary": "Sofia is one of Europe's safer capitals with low violent crime rates and a Level 1 US State Department travel advisory. While petty crimes like pickpocketing occur in tourist areas, the city is considered very safe for visitors including solo female travelers.",
+  "quickVerdict": "Sofia ranks among Europe's safest capitals with crime rates lower than London, Paris, or Brussels. The US State Department rates Bulgaria as Level 1 - Exercise Normal Precautions, the lowest risk category. Violent crime against tourists is extremely rare, and the main concerns are petty theft, taxi scams, and pickpocketing in crowded areas. The city is particularly safe for solo female travelers, with many women reporting feeling secure walking alone even at night in central areas.",
+  "neighborhoods": [
+    {
+      "name": "City Center/Vitosha Boulevard",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The heart of Sofia with excellent lighting, regular police presence, and bustling activity. Safe for walking day and night, with plenty of restaurants, shops, and tourist attractions."
+    },
+    {
+      "name": "Alexander Nevsky Cathedral Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic and well-maintained area around the famous cathedral. Popular with tourists, well-lit, and regularly patrolled. Watch for pickpockets due to crowds."
+    },
+    {
+      "name": "NDK/South Park Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern business district with the National Palace of Culture. Safe for evening walks with good lighting and security. Popular for nightlife and dining."
+    },
+    {
+      "name": "Serdica/Central Train Station",
+      "score": 5.5,
+      "class": "caution",
+      "description": "While improved in recent years, the area around Central Station can be sketchy at night. Higher concentration of pickpockets and fake taxi operators. Avoid after dark."
+    },
+    {
+      "name": "Lyulin/Filipovtsi Districts",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Outer residential areas with limited tourist infrastructure. Higher crime rates and poor lighting. Not recommended for tourists, especially at night."
+    },
+    {
+      "name": "Fakulteta District",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Roma neighborhood with significant poverty and social challenges. High crime rates and not tourist-friendly. Local authorities advise avoiding this area entirely."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed taxis especially around the airport and train stations charge 5-10 times normal rates. Some fake company stickers and phone numbers to appear legitimate.",
+      "howToAvoid": "Use official taxi apps like Yellow Taxi or Taxi Me. Check rate stickers on windows - should be 0.79-0.99 leva per km. Book through your hotel or use marked taxi ranks."
+    },
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "medium",
+      "description": "Street exchange offers attractive rates but provide counterfeit bills or add extra digits to exchange rates, turning 1.95 into 1.195 leva per euro.",
+      "howToAvoid": "Only exchange money at banks or official exchange offices. Never use street vendors. Check banknotes carefully - valid notes are issued after 1999."
+    },
+    {
+      "name": "Restaurant Bill Inflation",
+      "risk": "medium",
+      "description": "Some restaurants in tourist areas add hidden fees or overcharge for items not clearly priced, especially for tourists who don't check menus carefully.",
+      "howToAvoid": "Always ask for menus with prices listed. Verify bills before paying. Ask about any charges you don't understand. Consider dining where locals eat."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Skimming devices placed on ATMs in busy locations capture card details from unsuspecting users, particularly targeting tourists unfamiliar with local machines.",
+      "howToAvoid": "Use ATMs inside banks during daylight hours. Cover your PIN when entering. Check for unusual attachments on card slots. Avoid standalone ATMs in isolated areas."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sofia is very safe for solo female travelers, with many women reporting positive experiences walking alone even at night in central areas. The city has low rates of harassment and violence against women, though basic precautions are still recommended.",
+    "tips": [
+      "Stick to well-lit central areas like Vitosha Boulevard and around major attractions after dark",
+      "Use official taxis or ride-sharing apps rather than street taxis, especially late at night",
+      "Join walking tours or stay in social hostels to meet other travelers safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sofia's central areas remain safe until late with good lighting and regular police presence. The nightlife districts around Vitosha Boulevard and NDK are particularly secure, though some outer neighborhoods should be avoided after dark.",
+    "tips": [
+      "Stay in the city center and main entertainment districts where there's regular foot traffic",
+      "Avoid the areas around Central Train Station and outer residential districts at night",
+      "Use official transportation apps or arrange rides through restaurants/bars rather than hailing taxis on the street"
+    ]
+  },
+  "transport": {
+    "metro": "Very safe and efficient with good security presence. Clean, well-lit stations with English signage. Runs until midnight with some lines extending later on weekends. Consider the safest transport option in Sofia.",
+    "rideshare": "No Uber available. Use local apps like Yellow Taxi, Taxi Me, or TaxiMe which work similarly and are generally reliable when booked through the apps.",
+    "taxis": "Mixed reliability - official taxis are safe but fake taxis are a major scam risk. Always verify company markings and rate stickers (should show 0.79-0.99 leva/km). Airport taxis often overcharge tourists.",
+    "tips": "Metro is your best bet for safety and reliability. For taxis, always use apps or ask hotels to call. Avoid unmarked vehicles or those with rates above 1 leva per kilometer."
+  },
+  "customs": [
+    "Bulgarians nod their head up and down to mean 'no' and shake side to side to mean 'yes' - opposite of most countries",
+    "Greet with firm handshakes and direct eye contact. Address people formally as 'Gospodin' (Mr.) or 'Gospozha' (Mrs.) unless invited to use first names",
+    "Show respect for elders - they are greeted first, served first, and offered the best seats. This extends to public transport and dining situations"
+  ],
+  "health": {
+    "overview": "Bulgaria's healthcare system has quality private facilities in Sofia but public healthcare faces challenges. No special health risks for tourists beyond standard precautions.",
+    "water": "Tap water is generally safe to drink in Sofia, though some visitors prefer bottled water. No major water-borne illness risks reported.",
+    "vaccinations": "No vaccinations required for entry. Standard travel vaccinations (hepatitis A/B, tetanus) recommended as usual precautions.",
+    "altitude": "Sofia sits at 550m elevation so no altitude concerns. Continental climate with cold winters, hot summers. Air pollution can be elevated during winter months."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "166",
+    "ambulance": "150",
+    "fire": "160",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Sofia: +359 (2) 937-5100 (business hours) or +359 (2) 937-5101 (after hours). Address: 16 Kozyak Street, Sofia 1408. For US citizens abroad: +1-888-407-4747 (from US/Canada) or +1-202-501-4444 (from abroad)."
+  },
+  "faq": [
+    {
+      "q": "Is Sofia safe for tourists?",
+      "a": "Yes, Sofia is very safe for tourists with crime rates lower than many Western European capitals. The US State Department gives Bulgaria its lowest risk rating (Level 1). Violent crime against tourists is extremely rare, with pickpocketing being the main concern in crowded areas."
+    },
+    {
+      "q": "Is Sofia safe at night?",
+      "a": "Central Sofia is safe at night, especially around Vitosha Boulevard, the cathedral area, and NDK district. These areas have good lighting and police presence. However, avoid the train station area and outer neighborhoods after dark."
+    },
+    {
+      "q": "Is Sofia safe for solo female travelers?",
+      "a": "Sofia is very safe for solo female travelers. Many women report feeling comfortable walking alone even at night in central areas. Harassment is uncommon, and the city has lower crime rates than most European capitals. Basic precautions still apply."
+    },
+    {
+      "q": "What areas should I avoid in Sofia?",
+      "a": "Avoid Fakulteta and Filipovtsi districts entirely. Be cautious around Central Train Station, especially at night. The Lyulin area is also not tourist-friendly. Stick to central areas like Vitosha Boulevard, the cathedral district, and NDK area."
+    },
+    {
+      "q": "Is it safe to use public transport in Sofia?",
+      "a": "Yes, public transport is safe. The metro is the safest option with good security and clean stations. Buses and trams are generally safe but watch for pickpockets during rush hours. Taxis can be problematic due to scams, so use official apps."
+    }
+  ],
+  "relatedCities": [
+    "prague",
+    "budapest",
+    "bucharest"
+  ],
+  "_city_id": "sofia-bulgaria"
+}
