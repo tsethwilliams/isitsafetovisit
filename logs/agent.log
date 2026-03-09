@@ -329,3 +329,17 @@
 2026-03-09 12:07:23,420 [INFO] Merged into site data: San Jose
 2026-03-09 12:07:23,435 [INFO] Merged 5 new cities into src/lib/city-data.json
 2026-03-09 12:07:23,435 [INFO] Updated sitemap with 8 new URLs
+2026-03-09 14:38:27,761 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-09 14:38:27,809 [INFO] Checking alerts for 48 cities
+2026-03-09 14:39:20,880 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 14:39:20,939 [WARNING] ALERTS DETECTED: 10
+2026-03-09 14:39:20,939 [WARNING]   [high] istanbul_turkey: Turkey travel advisory updated March 8-9, 2026. Level 2 maintained but new area restrictions added. Turkish airspace struck by Iranian missile March 4. Southeast Turkey travel ban due to Iran conflict. U.S. government staff subject to travel restrictions since February 28.
+2026-03-09 14:39:20,940 [WARNING]   [critical] cancun_mexico: Widespread cartel violence erupted Feb 22-23 following death of El Mencho drug lord. U.S. Embassy issued shelter-in-place orders for Quintana Roo (Cancun area). Flight cancellations, tourist disruptions. 89+ killed including 25 soldiers. Violence ongoing with power vacuum in CJNG cartel.
+2026-03-09 14:39:20,941 [WARNING]   [critical] mexico_city_mexico: Major cartel violence following El Mencho killing Feb 22. Nationwide attacks, arson, highway blockades in multiple states. U.S. Embassy crisis hotline activated. Shelter-in-place orders issued. Transportation disrupted.
+2026-03-09 14:39:20,942 [WARNING]   [critical] playa_del_carmen_mexico: Quintana Roo affected by widespread cartel violence following El Mencho death. U.S. Embassy shelter-in-place advisory active for region. Tourist areas impacted with transportation and flight disruptions.
+2026-03-09 14:39:20,942 [WARNING]   [medium] london_united_kingdom: Large-scale Iranian diaspora protests March 7, 2026. 5,000-6,000 attended anti-war march with 'Hands Off Iran' theme. Also pro-monarchy demonstrations. Generally peaceful but significant crowds in central London.
+2026-03-09 14:39:20,943 [WARNING]   [medium] paris_france: Two competing Iranian diaspora demonstrations March 7. Pro-monarchy supporters vs. anti-monarchy protesters. Some carrying photos of exiled crown prince. Generally peaceful but tensions between opposing groups.
+2026-03-09 14:39:20,944 [WARNING]   [medium] berlin_germany: Iranian diaspora protests March 7 supporting exiled crown prince Reza Pahlavi. Part of coordinated Europe-wide demonstrations related to Iran conflict. Peaceful gatherings.
+2026-03-09 14:39:20,944 [WARNING]   [medium] stockholm_sweden: Iranian diaspora protests March 7 in solidarity with Iranian people amid ongoing Iran war. Pro-monarchy demonstrations supporting Reza Pahlavi.
+2026-03-09 14:39:20,945 [WARNING]   [medium] rome_italy: Campi Flegrei volcano near Naples showing increased activity March 2. 13 earthquakes up to magnitude 3.0 recorded in 24 hours. Depths as shallow as 20 meters suggest possible eruption risk. Enhanced monitoring warranted.
+2026-03-09 14:39:20,946 [WARNING]   [medium] manila_philippines: Increased volcanic activity at nearby volcanoes. Mayon Volcano at Alert Level 3 with ongoing lava flows and strombolian activity. Bulusan showing increased seismicity as of March 2. Enhanced monitoring in effect.
