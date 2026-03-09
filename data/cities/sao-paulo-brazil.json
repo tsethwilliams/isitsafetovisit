@@ -1,0 +1,162 @@
+{
+  "slug": "sao-paulo",
+  "name": "São Paulo",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 7.5,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 7.9
+  },
+  "summary": "São Paulo is one of Brazil's safest major cities with significantly declining homicide rates, now at 6.4 per 100,000 residents - three times below the national average. While violent crime is relatively low, property crime including smartphone theft and express kidnappings remains the primary concern for tourists.",
+  "quickVerdict": "São Paulo offers a relatively safe experience for tourists who exercise proper precautions and choose the right neighborhoods. The city has transformed dramatically with homicides falling by 80% since 2001, making it statistically safer than many US cities. However, petty crime targeting tourists remains common, particularly smartphone theft and pickpocketing in crowded areas. Success depends heavily on neighborhood selection - upscale areas like Jardins and Itaim Bibi are comparable to safe European districts, while areas like Centro require heightened awareness, especially at night. The key is staying alert, using ride-hailing apps after dark, and avoiding displays of wealth.",
+  "neighborhoods": [
+    {
+      "name": "Jardins",
+      "score": 8.5,
+      "class": "safe",
+      "description": "São Paulo's most prestigious and secure neighborhood, featuring upscale shopping, restaurants, and hotels. Excellent police presence and well-maintained streets make it ideal for tourists. Safe for walking during day and evening hours."
+    },
+    {
+      "name": "Itaim Bibi",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern business district with luxury hotels, fine dining, and corporate headquarters. Comparable to upscale European neighborhoods in terms of safety. Well-patrolled streets and good infrastructure."
+    },
+    {
+      "name": "Vila Madalena",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Bohemian arts district known for street art, bars, and nightlife. Generally safe during the day for cultural exploration, but exercise standard caution with valuables during nighttime activities."
+    },
+    {
+      "name": "Pinheiros",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood with excellent food scene and cultural venues. Safe during day and well-suited for exploration. Use ride-hail apps rather than walking after midnight."
+    },
+    {
+      "name": "Centro Histórico",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Historic downtown area with colonial architecture and cultural sites. Generally safe during business hours but can be dangerous after hours and weekends. Avoid the Luz station area entirely."
+    },
+    {
+      "name": "Cracolândia",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Drug-heavy area near Luz station with high crime rates and open drug use. Considered off-limits to tourists at all times. Even guided tours are not recommended by authorities."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Express Kidnapping via Dating Apps",
+      "risk": "high",
+      "description": "Criminals use fake dating profiles on Tinder and similar apps to lure victims, then force them to withdraw money using the Pix instant payment system. Over 90% of São Paulo kidnappings in 2022 originated from dating apps.",
+      "howToAvoid": "Be extremely cautious with dating apps. Meet only in public places, tell someone your plans, and never go to private locations with someone you've just met online."
+    },
+    {
+      "name": "Smartphone Theft",
+      "risk": "high",
+      "description": "The most common crime targeting tourists. Thieves on motorcycles or bicycles snatch phones from pedestrians, car windows, and even through broken car windows at traffic lights. Often involves teams working together.",
+      "howToAvoid": "Keep phones hidden when not in use. Never use phones near car windows. Step inside shops or cafes to check maps. Consider using an older phone or keeping your main device hidden."
+    },
+    {
+      "name": "ATM Skimming and Express Robbery",
+      "risk": "medium",
+      "description": "Criminals install skimming devices on ATMs or force victims to withdraw money immediately after using machines. Some involve fake taxi drivers offering rides to unsuspecting tourists.",
+      "howToAvoid": "Only use ATMs inside banks or shopping malls during daylight hours. Avoid street ATMs entirely. Never accept unsolicited taxi rides or assistance from strangers near banks."
+    },
+    {
+      "name": "Fake Police Officers",
+      "risk": "medium",
+      "description": "Individuals posing as police approach tourists asking to check wallets or passports, then steal valuables. May work in teams with one person creating a distraction.",
+      "howToAvoid": "Real police rarely conduct random document checks on tourists. Ask to see identification and insist on going to a police station if approached. Never hand over your wallet or documents on the street."
+    }
+  ],
+  "soloFemale": {
+    "overview": "São Paulo can be navigated safely by solo female travelers with proper precautions and neighborhood awareness. While harassment exists, many women travel the city successfully by staying alert and following local safety customs. The key is choosing safe accommodations in areas like Jardins or Pinheiros and using ride-hailing apps for transport, especially after dark.",
+    "tips": [
+      "Stay in upscale neighborhoods like Jardins, Itaim Bibi, or Pinheiros where solo female travelers report feeling safer",
+      "Use ride-hailing apps like Uber or 99 rather than walking alone at night, even in safe areas",
+      "Consider Femitaxi, a women-only taxi service with female drivers created specifically for safety concerns",
+      "Dress conservatively and avoid displaying expensive jewelry, watches, or electronics that mark you as a tourist target",
+      "Trust your instincts and don't hesitate to enter shops or hotels if you feel uncomfortable on the street"
+    ]
+  },
+  "nightSafety": {
+    "overview": "São Paulo's nightlife is vibrant and generally accessible, but safety varies dramatically by location and requires careful planning. Well-lit areas like Jardins, Vila Madalena, and Pinheiros offer relatively safe nighttime experiences, while downtown areas become significantly riskier after dark. The city was recently named the world's best nightlife destination, but this comes with the need for increased awareness.",
+    "tips": [
+      "Stick to established nightlife areas like Vila Madalena, Jardins, and the Paulista corridor which have better police presence and foot traffic",
+      "Always use ride-hailing apps for transportation after dark - never walk alone or hail random taxis on the street",
+      "Travel in groups when possible and let someone know your plans and expected return time",
+      "Keep valuables minimal and hidden, as pickpocketing increases around popular nightlife spots",
+      "Avoid downtown Centro entirely at night, especially areas near Luz station and Cracolândia"
+    ]
+  },
+  "transport": {
+    "metro": "São Paulo's metro system is generally safe, modern, and efficient during daytime hours, connecting major tourist areas and business districts. The system is considered one of the cleanest and most reliable in Latin America, though it can become crowded during rush hours. After 10 PM, safety decreases and using ride-hailing apps becomes preferable.",
+    "rideshare": "Uber, 99, and other ride-hailing apps are widely available, affordable, and considered the safest transport option, especially at night. The apps provide driver tracking, route monitoring, and cashless payments. Always verify the license plate matches before entering any vehicle.",
+    "taxis": "Official white taxis with roof signs are generally honest and safe, though few drivers speak English. Use only licensed taxis from designated stands or call dispatch services. Taxis can use bus lanes, making them faster during peak hours, but ride-hailing apps are typically more secure for tourists.",
+    "tips": "Public transport is safe during daylight but switch to ride-hailing apps after dark. Keep valuables hidden on crowded buses and trains. Always verify driver identity before entering any vehicle."
+  },
+  "customs": [
+    "Greetings involve handshakes for business and cheek kisses (beijinhos) between friends - typically one or two kisses depending on the region",
+    "Dining is social with meals taken slowly; restaurants often add a 10% service charge (taxa de serviço) which is customary to pay",
+    "Brazilians are punctual for business but more relaxed with social events - being 15-30 minutes late is often acceptable for parties"
+  ],
+  "health": {
+    "overview": "São Paulo has excellent private healthcare facilities comparable to international standards, though public hospitals can be overcrowded. The city is not in a yellow fever risk zone, but travelers should be aware of dengue, Zika, and chikungunya transmission. Tap water quality varies and bottled water is recommended for tourists.",
+    "water": "Tap water in São Paulo meets basic safety standards but quality varies by neighborhood. Bottled water is widely available and recommended for tourists to avoid stomach upset. Ice in restaurants and hotels is generally safe.",
+    "vaccinations": "No special vaccinations required for São Paulo city itself. Yellow fever vaccination recommended if traveling to rural São Paulo state or other Brazilian regions. Routine vaccines (measles, DTP, flu) should be up to date.",
+    "altitude": "São Paulo sits at 760 meters (2,500 feet) above sea level, which doesn't cause altitude sickness. The subtropical climate features warm, rainy summers (Dec-Mar) and mild, dry winters (Jun-Aug). Air pollution can be high in central areas."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "011-3120-4447",
+    "usEmbassy": "US Consulate General São Paulo: +55 11 5186-7000, located at Rua Henri Dunant, 500, Chácara Santo Antônio"
+  },
+  "faq": [
+    {
+      "q": "Is São Paulo safe for tourists?",
+      "a": "São Paulo is moderately safe for tourists who take proper precautions. It's statistically one of Brazil's safest major cities with dramatically declining crime rates, but petty crime like smartphone theft remains common. Success depends on choosing safe neighborhoods and staying alert."
+    },
+    {
+      "q": "Is São Paulo safe at night?",
+      "a": "São Paulo's nightlife can be enjoyed safely in proper areas like Jardins, Vila Madalena, and Pinheiros, but requires planning. Always use ride-hailing apps for transport, stick to well-lit areas with good foot traffic, and completely avoid downtown Centro after dark."
+    },
+    {
+      "q": "Is São Paulo safe for solo female travelers?",
+      "a": "Solo female travelers can visit São Paulo safely with extra precautions. Stay in upscale neighborhoods, use ride-hailing apps exclusively after dark, and consider women-only services like Femitaxi. Many women travel here successfully by following local safety customs."
+    },
+    {
+      "q": "What areas should I avoid in São Paulo?",
+      "a": "Completely avoid Cracolândia and the Luz station area at all times. Exercise caution in downtown Centro, especially after business hours. Avoid favelas and the city's outer periphery (North and East Zones) which have limited police presence."
+    },
+    {
+      "q": "Is it safe to use public transport in São Paulo?",
+      "a": "The metro system is generally safe and efficient during daytime hours but becomes riskier at night. Buses are more prone to petty crime. For safety, use public transport during peak hours and switch to ride-hailing apps like Uber or 99 after dark."
+    }
+  ],
+  "relatedCities": [
+    "rio-de-janeiro",
+    "brasilia",
+    "salvador",
+    "belo-horizonte"
+  ],
+  "_city_id": "sao-paulo-brazil"
+}

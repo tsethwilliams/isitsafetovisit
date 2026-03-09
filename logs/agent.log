@@ -386,3 +386,39 @@
 2026-03-09 19:53:56,616 [INFO] Checking alerts for 56 cities
 2026-03-09 19:54:38,783 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-09 19:54:38,878 [INFO] No safety alerts detected
+2026-03-09 22:59:46,473 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-09 22:59:46,513 [INFO] Queue has 311 cities, adding 8
+2026-03-09 22:59:46,513 [INFO] Generating new city profile: Rio de Janeiro, Brazil
+2026-03-09 23:01:49,387 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:01:49,612 [INFO] Saved city data: rio-de-janeiro-brazil
+2026-03-09 23:01:49,613 [INFO] Generating new city profile: Sao Paulo, Brazil
+2026-03-09 23:03:24,707 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:03:24,895 [INFO] Saved city data: sao-paulo-brazil
+2026-03-09 23:03:24,896 [INFO] Generating new city profile: Dubai, United Arab Emirates
+2026-03-09 23:05:10,367 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:05:10,560 [INFO] Saved city data: dubai-united-arab-emirates
+2026-03-09 23:05:10,561 [INFO] Generating new city profile: Abu Dhabi, United Arab Emirates
+2026-03-09 23:06:44,348 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:06:44,478 [INFO] Saved city data: abu-dhabi-united-arab-emirates
+2026-03-09 23:06:44,479 [INFO] Generating new city profile: Doha, Qatar
+2026-03-09 23:08:15,076 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:08:15,208 [INFO] Saved city data: doha-qatar
+2026-03-09 23:08:15,209 [INFO] Generating new city profile: Riyadh, Saudi Arabia
+2026-03-09 23:09:36,117 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:09:36,306 [INFO] Saved city data: riyadh-saudi-arabia
+2026-03-09 23:09:36,307 [INFO] Generating new city profile: Amman, Jordan
+2026-03-09 23:11:34,499 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:11:34,631 [INFO] Saved city data: amman-jordan
+2026-03-09 23:11:34,632 [INFO] Generating new city profile: Tel Aviv, Israel
+2026-03-09 23:12:55,989 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-09 23:12:56,052 [INFO] Saved city data: tel-aviv-israel
+2026-03-09 23:12:56,058 [INFO] City already exists in site data, skipping: rio-de-janeiro
+2026-03-09 23:12:56,058 [INFO] City already exists in site data, skipping: sao-paulo
+2026-03-09 23:12:56,058 [INFO] City already exists in site data, skipping: dubai
+2026-03-09 23:12:56,058 [INFO] Merged into site data: Abu Dhabi
+2026-03-09 23:12:56,058 [INFO] Merged into site data: Doha
+2026-03-09 23:12:56,058 [INFO] Merged into site data: Riyadh
+2026-03-09 23:12:56,059 [INFO] City already exists in site data, skipping: amman
+2026-03-09 23:12:56,059 [INFO] Merged into site data: Tel Aviv
+2026-03-09 23:12:56,074 [INFO] Merged 4 new cities into src/lib/city-data.json
+2026-03-09 23:12:56,074 [INFO] Updated sitemap with 8 new URLs

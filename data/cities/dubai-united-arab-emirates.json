@@ -1,0 +1,167 @@
+{
+  "slug": "dubai",
+  "name": "Dubai",
+  "country": "United Arab Emirates",
+  "countryCode": "AE",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.5,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.7,
+    "violentCrime": 8.9,
+    "scamRisk": 7.1,
+    "womensSafety": 8.2,
+    "nightSafety": 7.9,
+    "transport": 8.4,
+    "naturalHazards": 3.4
+  },
+  "summary": "Dubai is normally one of the world's safest cities with exceptional security, low crime rates, and excellent infrastructure. However, current regional military conflicts and security alerts have severely elevated risks for tourists.",
+  "quickVerdict": "While Dubai maintains its reputation as one of the world's safest cities under normal circumstances, the current security situation in March 2026 makes travel extremely dangerous. The U.S. State Department has issued a Level 3 'Reconsider Travel' advisory due to ongoing military conflicts with Iran, missile and drone attacks, and ordered departure of non-emergency government personnel. Current visitors are advised to shelter in place, and those considering travel should postpone until the security situation stabilizes.",
+  "neighborhoods": [
+    {
+      "name": "Dubai Marina & JBR",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Normally one of Dubai's safest areas with excellent security, modern infrastructure, and low crime rates. However, current regional conflicts pose elevated risks."
+    },
+    {
+      "name": "Downtown Dubai",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The business and tourist heart with world-class security around major attractions. Despite normally being very safe, current military tensions affect all areas."
+    },
+    {
+      "name": "Jumeirah",
+      "score": 8.6,
+      "class": "safe",
+      "description": "Upscale residential and beach area that's typically very secure for tourists and families, though regional security concerns currently apply citywide."
+    },
+    {
+      "name": "Business Bay",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Modern business district with excellent safety infrastructure under normal conditions, but current geopolitical tensions create uncertainty."
+    },
+    {
+      "name": "Deira & Bur Dubai",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Historic areas with traditional souks where petty crime like overcharging is more common, though violent crime remains rare. Regional conflicts add current risks."
+    },
+    {
+      "name": "Areas Near Military/Government",
+      "score": 2.1,
+      "class": "danger",
+      "description": "Currently extremely dangerous due to ongoing missile and drone attacks targeting government and military installations. Avoid all areas near such facilities."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers at airports and tourist areas may refuse to use meters or take longer routes, especially targeting newcomers.",
+      "howToAvoid": "Use only official RTA taxis with visible logos, or ride-hailing apps like Careem and Uber. Confirm the meter is running before departure."
+    },
+    {
+      "name": "Fake Gold/Shopping Scams",
+      "risk": "medium",
+      "description": "In Gold Souk and some shops, vendors may sell fake gold or drastically overcharge tourists for jewelry and souvenirs.",
+      "howToAvoid": "Shop only at licensed establishments, verify authenticity certificates, and compare prices across multiple shops before purchasing."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unofficial guides in old Dubai areas approach tourists offering services, then demand high fees or cause scenes if refused payment.",
+      "howToAvoid": "Use only licensed tour operators and official tourist information centers. Politely decline unsolicited offers and walk away."
+    },
+    {
+      "name": "Drink Spiking",
+      "risk": "low",
+      "description": "Rare incidents in bars and clubs where drinks may be tampered with, particularly targeting solo female travelers.",
+      "howToAvoid": "Never leave drinks unattended, don't accept drinks from strangers, and stay with trusted friends when going out."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Dubai is normally considered one of the world's safest cities for solo female travelers, with strong legal protections, low harassment rates, and excellent infrastructure including women-only metro carriages and female-driven pink taxis. However, current military conflicts in the region create serious security risks that override normal safety advantages.",
+    "tips": [
+      "Current security situation makes solo travel inadvisable - follow embassy shelter-in-place guidance",
+      "If already in Dubai, stay in secure accommodations and avoid areas near government/military facilities",
+      "Under normal conditions, use women-only metro carriages and request female taxi drivers for added comfort",
+      "Dress modestly covering shoulders and knees in public areas and carry a light scarf for mosques",
+      "Dubai Police app has SOS feature for emergencies - keep emergency number 999 readily available"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Dubai typically has exceptional nighttime safety with well-lit streets, extensive CCTV coverage, and visible security presence making late-night activities comfortable for most travelers. The current security crisis, however, has created significant risks including potential missile and drone attacks that make nighttime movement dangerous.",
+    "tips": [
+      "Current shelter-in-place orders make nighttime travel extremely inadvisable",
+      "If movement is absolutely necessary, avoid areas near government buildings and military installations",
+      "Under normal circumstances, use official taxis or ride-hailing apps rather than walking alone at night",
+      "Stay in well-lit, busy areas and inform someone of your whereabouts when going out",
+      "Many hotels and malls remain open late with excellent security under typical conditions"
+    ]
+  },
+  "transport": {
+    "metro": "Dubai Metro is modern, clean, and safe with dedicated women-only carriages. However, service may be disrupted due to current security situation.",
+    "rideshare": "Careem and Uber operate safely with tracked vehicles and vetted drivers. Currently limited due to movement restrictions and curfews.",
+    "taxis": "Official RTA taxis are highly regulated and safe. Female-driven pink taxis available for women. Service may be restricted during current crisis.",
+    "tips": "During current security crisis, minimize all travel and follow official evacuation guidance if departing. Under normal conditions, Dubai has world-class public transport safety."
+  },
+  "customs": [
+    "Dress modestly in public - cover shoulders and knees, especially in traditional areas and government buildings",
+    "Use right hand for eating, greeting, and giving/receiving items as left hand is considered unclean",
+    "Avoid public displays of affection beyond hand-holding for married couples - kissing may result in legal issues",
+    "Remove shoes when entering homes and some traditional establishments",
+    "Respect Islamic prayer times and avoid loud activities near mosques during calls to prayer",
+    "During Ramadan, avoid eating, drinking, or smoking in public during daylight hours out of respect"
+  ],
+  "health": {
+    "overview": "Dubai has world-class healthcare with internationally accredited hospitals and medical facilities ranking among the best globally. The UAE healthcare system ranks in the top 50 worldwide with 260 internationally accredited facilities in Dubai alone.",
+    "water": "Tap water is safe to drink and meets international standards, though bottled water is widely available and preferred by many visitors.",
+    "vaccinations": "No special vaccinations required for most travelers. Routine vaccines like MMR, DTaP, and flu shots recommended. Consult a travel medicine specialist for personalized advice.",
+    "altitude": "Dubai is at sea level with no altitude concerns. Main health risk is extreme heat (120°F+) during summer months requiring constant hydration and air conditioning."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "998",
+    "fire": "997",
+    "touristPolice": "800-2255 (Dubai Tourism Police)",
+    "usEmbassy": "U.S. Consulate General Dubai temporarily closed due to security situation. U.S. citizens should contact +1-202-501-4444 for emergency assistance and complete crisis intake form at mytravel.state.gov/s/crisis-intake"
+  },
+  "faq": [
+    {
+      "q": "Is Dubai safe for tourists?",
+      "a": "Dubai is normally one of the world's safest cities with extremely low crime rates and excellent security. However, as of March 2026, the U.S. State Department has issued a Level 3 'Reconsider Travel' advisory due to regional military conflicts, missile attacks, and security threats. Travel is currently not recommended."
+    },
+    {
+      "q": "Is Dubai safe at night?",
+      "a": "Under normal circumstances, Dubai has exceptional nighttime safety with well-lit streets and strong security presence. Currently, shelter-in-place orders are in effect due to ongoing missile and drone attacks, making nighttime movement extremely dangerous."
+    },
+    {
+      "q": "Is Dubai safe for solo female travelers?",
+      "a": "Dubai is typically rated as one of the top cities worldwide for solo female travel, with strong legal protections and dedicated women-only facilities. However, the current security crisis makes any travel, especially solo travel, inadvisable until the situation stabilizes."
+    },
+    {
+      "q": "What areas should I avoid in Dubai?",
+      "a": "Currently, avoid all areas near government buildings, military installations, and critical infrastructure due to ongoing missile and drone attacks. Under normal conditions, all areas of Dubai are generally safe, with only minor caution needed in older souks for tourist-targeted scams."
+    },
+    {
+      "q": "Is it safe to use public transport in Dubai?",
+      "a": "Dubai's public transport is normally world-class and very safe, including the metro, buses, and official taxis. However, current security restrictions and potential for attacks make all public transport risky. Emergency evacuation flights are being coordinated by embassies for those needing to leave."
+    }
+  ],
+  "relatedCities": [
+    "abu-dhabi",
+    "doha",
+    "riyadh",
+    "kuwait-city",
+    "manama",
+    "muscat"
+  ],
+  "_city_id": "dubai-united-arab-emirates"
+}

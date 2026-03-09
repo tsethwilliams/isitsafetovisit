@@ -1,0 +1,165 @@
+{
+  "slug": "riyadh",
+  "name": "Riyadh",
+  "country": "Saudi Arabia",
+  "countryCode": "SA",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 7.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 8.5,
+    "scamRisk": 7.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.8,
+    "transport": 7.8,
+    "naturalHazards": 7.5
+  },
+  "summary": "Riyadh is generally safe for tourists with very low violent crime rates and minimal petty crime. However, recent regional tensions and strict local laws requiring cultural awareness affect the overall safety assessment.",
+  "quickVerdict": "Riyadh offers one of the lowest crime rates globally, particularly for violent crimes, making it relatively safe for tourists on a day-to-day basis. The main concerns stem from current regional security tensions due to ongoing conflicts, strict social media laws with severe penalties, and the need to respect conservative Islamic customs. While the city is modern and welcoming to tourists, visitors must be aware of cultural sensitivities and legal restrictions that differ significantly from Western norms.",
+  "neighborhoods": [
+    {
+      "name": "Al Olaya District",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern business district with upscale shopping malls, hotels, and restaurants. Well-patrolled and popular with tourists and expats."
+    },
+    {
+      "name": "Diplomatic Quarter",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Heavily secured area housing embassies and diplomatic residences. Excellent security infrastructure and very safe for visitors."
+    },
+    {
+      "name": "King Abdullah Financial District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "New financial center with modern architecture, good transportation links, and strong security presence during business hours."
+    },
+    {
+      "name": "Al Diriyah",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic UNESCO site with tourist facilities. Generally safe but can be crowded during peak tourist seasons."
+    },
+    {
+      "name": "Al Batha",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Commercial district with traditional markets. More crowded and prone to pickpocketing and tourist-targeted scams."
+    },
+    {
+      "name": "Al Shumaisi",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Working-class neighborhood with higher crime rates. Visitors should exercise extra caution, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Bird Droppings Scam",
+      "risk": "medium",
+      "description": "Someone throws white paste on you that looks like bird droppings, then an accomplice offers to help clean it while attempting to pickpocket you.",
+      "howToAvoid": "Be aware in crowded areas, politely decline unsolicited help from strangers, and keep valuables secure."
+    },
+    {
+      "name": "Sob Story Begging",
+      "risk": "medium",
+      "description": "Scammers approach tourists with elaborate stories about needing money for medical treatment or being stranded, often showing fake documents.",
+      "howToAvoid": "Don't give money to people approaching with sob stories, no matter how convincing. Direct them to official authorities if genuinely concerned."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers claim meters are broken and charge inflated fixed prices, especially targeting tourists and airport travelers.",
+      "howToAvoid": "Use ride-sharing apps like Uber or Careem, insist on metered fares with licensed taxis, or negotiate price beforehand."
+    },
+    {
+      "name": "Fake Investment Opportunities",
+      "risk": "low",
+      "description": "Scammers claim to represent legitimate investment companies offering unrealistic returns, particularly targeting expats.",
+      "howToAvoid": "Never invest based on unsolicited offers, verify company credentials through official channels, and be skeptical of guaranteed high returns."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Riyadh is generally safe with significant improvements since 2019. Women can now travel independently without male guardians and the conservative society actually provides protection from harassment. However, cultural sensitivity regarding dress code and behavior is essential.",
+    "tips": [
+      "Dress modestly covering shoulders and knees - loose-fitting clothing is recommended",
+      "While hijab is not mandatory, carry a headscarf for certain situations or religious sites",
+      "Use reputable transportation like Uber, Careem, or official taxis rather than street taxis",
+      "Stay in well-reviewed hotels in tourist-friendly areas like Al Olaya or the Diplomatic Quarter",
+      "Be aware that some facilities may have gender segregation - follow local guidance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Riyadh is quite safe at night with low street crime rates and good lighting in main areas. However, nightlife options are limited due to cultural restrictions, and some areas may have reduced activity after dark.",
+    "tips": [
+      "Stick to well-lit main streets and avoid poorly lit or deserted areas",
+      "Use ride-sharing apps rather than walking alone late at night",
+      "Most entertainment venues close relatively early - plan accordingly",
+      "Hotel areas and major shopping districts remain active and safe in the evenings",
+      "Be aware that some restaurants and cafes may have different operating hours during prayer times"
+    ]
+  },
+  "transport": {
+    "metro": "The new Riyadh Metro opened in late 2024 with 6 lines and 85 stations. Modern, air-conditioned, and safe with good security. Fares range from 3-10 SAR and operates from early morning to late evening.",
+    "rideshare": "Uber and Careem are widely available, safe, and recommended. Apps show fixed pricing, driver details, and GPS tracking. Careem is locally popular and offers female driver options. Payment by card or cash accepted.",
+    "taxis": "Licensed green taxis are metered and generally safe, but communication can be challenging if you don't speak Arabic. Some unlicensed drivers may overcharge tourists. Always verify the meter is running.",
+    "tips": "Ride-sharing apps are the safest and most convenient option. Public transport is modern and secure. Avoid unlicensed street taxis, especially at airports."
+  },
+  "customs": [
+    "Dress modestly in public - cover shoulders and knees, avoid tight-fitting clothing",
+    "Remove shoes when entering homes and some traditional establishments",
+    "Use right hand for greeting, eating, and passing items as left hand is considered unclean",
+    "Respect prayer times when shops and services may temporarily close",
+    "Avoid public displays of affection, particularly between unmarried couples",
+    "Photography of people (especially women) should be done with explicit permission",
+    "Be mindful of Ramadan customs if visiting during the holy month"
+  ],
+  "health": {
+    "overview": "Healthcare in Riyadh is of high quality with modern facilities and well-trained professionals. The city has invested heavily in healthcare infrastructure as part of Vision 2030, with several world-class hospitals and medical centers.",
+    "water": "Tap water is generally safe but bottled water is widely available and recommended for sensitive stomachs. Most hotels and restaurants use filtered water.",
+    "vaccinations": "No special vaccinations required for most travelers. Routine vaccinations should be up to date. Hepatitis A and B vaccines may be recommended for some travelers.",
+    "altitude": "Riyadh sits at 2,000 feet elevation so no altitude concerns. Climate is hot and dry - stay hydrated, use sunscreen, and avoid prolonged sun exposure especially in summer months."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "999 or 911",
+    "ambulance": "997",
+    "fire": "998",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Riyadh: +966-11-835-4000 (located in Diplomatic Quarter). Emergency consular services available. Citizens should enroll in STEP program for security updates."
+  },
+  "faq": [
+    {
+      "q": "Is Riyadh safe for tourists?",
+      "a": "Yes, Riyadh has very low crime rates and is generally safe for tourists. Main concerns are regional tensions, strict laws about social media criticism, and the need to respect local customs. Follow current US State Department guidance."
+    },
+    {
+      "q": "Is Riyadh safe at night?",
+      "a": "Riyadh is quite safe at night with low crime rates. Stick to well-lit main areas and use ride-sharing apps for transportation. Nightlife options are limited due to cultural restrictions."
+    },
+    {
+      "q": "Is Riyadh safe for solo female travelers?",
+      "a": "Yes, solo female travel is generally safe in Riyadh. Women can travel independently without guardians since 2019. Dress modestly, use reputable transportation, and stay in tourist-friendly areas."
+    },
+    {
+      "q": "What areas should I avoid in Riyadh?",
+      "a": "Avoid Al Shumaisi neighborhood due to higher crime rates. Be cautious in Al Batha markets where pickpocketing occurs. Stay away from areas near the Yemen border (20+ miles) as advised by US authorities."
+    },
+    {
+      "q": "Is it safe to use public transport in Riyadh?",
+      "a": "Yes, the new Riyadh Metro is modern, safe, and well-secured. Buses are also safe but less convenient for tourists. Ride-sharing apps like Uber and Careem are highly recommended and very safe."
+    }
+  ],
+  "relatedCities": [
+    "dubai",
+    "doha",
+    "kuwait-city"
+  ],
+  "_city_id": "riyadh-saudi-arabia"
+}

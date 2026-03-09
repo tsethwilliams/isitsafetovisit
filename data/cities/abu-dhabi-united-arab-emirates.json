@@ -1,0 +1,165 @@
+{
+  "slug": "abu-dhabi",
+  "name": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "countryCode": "AE",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.5,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.0,
+    "transport": 7.5,
+    "naturalHazards": 3.2
+  },
+  "summary": "Abu Dhabi, the UAE's capital, was historically one of the world's safest cities until March 2026, when the US State Department elevated the region to Level 3 due to armed conflict with Iran and terrorism threats. Currently under shelter-in-place orders, the city maintains its exceptionally low crime rates but faces unprecedented security risks from missile and drone attacks.",
+  "quickVerdict": "While Abu Dhabi consistently ranked as the world's safest city with extremely low crime rates, the current security situation is extraordinary. The US has ordered non-emergency personnel to leave due to active armed conflict and ongoing missile threats from Iran. The UAE remains under Level 3 travel advisory with shelter-in-place orders in effect. Though local crime remains minimal, the terrorism and missile attack risks create an unprecedented safety challenge that travelers should carefully consider.",
+  "neighborhoods": [
+    {
+      "name": "Abu Dhabi Corniche",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The waterfront promenade remains well-patrolled and generally secure despite current tensions. Stay alert for security announcements and avoid large gatherings during the crisis period."
+    },
+    {
+      "name": "Yas Island",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tourism and entertainment hub with good security infrastructure, though events may be cancelled. Check venue status before visiting and follow shelter-in-place guidelines."
+    },
+    {
+      "name": "Saadiyat Island",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Cultural district housing major museums with enhanced security measures in place. Museums may have restricted hours or closures during the current crisis."
+    },
+    {
+      "name": "Al Reem Island",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Modern residential and business district with good infrastructure but potential exposure to aerial threats. Residents advised to stay indoors during alerts."
+    },
+    {
+      "name": "Zayed International Airport Area",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Major transport hub with heightened security risks. Flight disruptions common and limited commercial options available. Access restricted to confirmed travelers only."
+    },
+    {
+      "name": "Port Areas",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Industrial zones considered potential targets with significant security restrictions. Avoid unless essential business, and follow all security protocols if access required."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Holiday Ticket Scams",
+      "risk": "high",
+      "description": "Fraudsters create fake social media groups selling discounted tickets for events, travel packages, and attractions using AI-generated images and chatbots to appear legitimate.",
+      "howToAvoid": "Only purchase tickets from official websites or verified vendors. Verify website URLs carefully and avoid deals that seem too good to be true, especially on social media."
+    },
+    {
+      "name": "Unlicensed Tour Guide Scam",
+      "risk": "medium",
+      "description": "Fake guides approach tourists offering city tours and special access to attractions, then demand inflated payments and may create scenes if refused.",
+      "howToAvoid": "Only use licensed tour guides with Department of Culture and Tourism badges. Politely decline unsolicited offers and book through official tourist information centers."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unofficial taxis without meters charge triple the normal rates, especially at airports. Some fake police may also demand cash payments for fabricated fines.",
+      "howToAvoid": "Use official silver taxis with yellow roofs or booking apps like Abu Dhabi Taxi, Uber, or Careem. Never pay cash fines to police - legitimate fines are issued via SMS."
+    },
+    {
+      "name": "Desert Safari Fraud",
+      "risk": "medium",
+      "description": "Unlicensed operators offer cheap desert safaris through fake websites and middlemen, often resulting in cancellations, poor service, or unsafe experiences.",
+      "howToAvoid": "Book only with licensed operators registered with Abu Dhabi tourism authorities. Verify physical office addresses and read recent reviews before payment."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Abu Dhabi has historically been exceptional for solo female travelers, ranking among the world's safest cities with very low harassment rates and respectful local attitudes. However, the current crisis significantly changes the risk profile. While local crime remains minimal and cultural respect for women continues, the shelter-in-place orders and missile threat create unprecedented challenges for solo travelers.",
+    "tips": [
+      "Follow all shelter-in-place orders and embassy guidance - current situation overrides normal safety considerations",
+      "Dress modestly covering shoulders and knees in public spaces, and carry a light jacket for air-conditioned venues",
+      "Stay in well-reviewed hotels with good security and female-friendly amenities like women-only floors or facilities",
+      "Use official transport options including pink taxis driven by women for added comfort",
+      "Keep emergency contacts readily available and maintain communication with family about your status"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Under normal circumstances, Abu Dhabi's nightlife is very safe with well-regulated venues and strong police presence. However, current shelter-in-place recommendations significantly restrict nighttime activities. Many venues have reduced hours or temporary closures, and the missile threat creates additional risks during evening hours.",
+    "tips": [
+      "Comply with current shelter-in-place guidelines and avoid unnecessary nighttime travel",
+      "If out, stay in well-lit areas with good security and avoid isolated locations",
+      "Use official transport apps rather than hailing street taxis, especially during crisis periods",
+      "Keep alert for emergency sirens or notifications and know shelter procedures",
+      "Consider hotel venues over distant nightlife spots to minimize travel during current tensions"
+    ]
+  },
+  "transport": {
+    "metro": "Abu Dhabi does not currently have a metro system, though a network is planned for completion by 2030. The city relies on buses, taxis, and ride-sharing services for public transport.",
+    "rideshare": "Uber and Careem operate effectively with good safety standards and tracking features. Both apps allow trip sharing and have established complaint procedures. Service may be limited during current security situation.",
+    "taxis": "Official taxis are silver with yellow roofs and highly regulated by TransAD. Pink taxis driven by women are available for female passengers. All taxis have meters, security cameras, and many run on clean fuel. Airport access currently restricted to confirmed travelers.",
+    "tips": "Use official transport apps for safety and convenience. The Darbi app provides real-time public transport information, though services may be reduced during current crisis. Keep documents readily accessible as ID checks are common during heightened security."
+  },
+  "customs": [
+    "Dress modestly in public covering shoulders and knees - conservative dress shows respect for Islamic culture",
+    "Use your right hand for eating, greeting, and giving/receiving items - the left hand is considered unclean",
+    "Avoid public displays of affection beyond holding hands - kissing and hugging in public can result in legal consequences",
+    "Remove shoes when entering homes and some establishments - follow the lead of your hosts",
+    "Show respect during prayer times and avoid photographing people without permission, especially women",
+    "Accept hospitality graciously - refusing offered food or drinks multiple times may be considered rude"
+  ],
+  "health": {
+    "overview": "Abu Dhabi offers world-class healthcare with excellent hospitals and medical facilities. The Department of Health maintains high standards and the city has comprehensive emergency medical services. However, current conflict situation may affect some medical services availability.",
+    "water": "Tap water is safe to drink throughout Abu Dhabi as it meets international standards. Bottled water is widely available and many residents prefer it for taste. Stay well-hydrated in the hot climate.",
+    "vaccinations": "No special vaccinations required for Abu Dhabi. Routine vaccines like MMR, DPT, flu, and COVID-19 should be up to date. The UAE has comprehensive vaccination programs and digital health tracking through the Al Hosn app.",
+    "altitude": "Abu Dhabi is at sea level with extremely hot summers (40°C+) and mild winters. Desert climate requires sun protection, hydration, and appropriate clothing. Air conditioning is ubiquitous indoors."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "998",
+    "fire": "997",
+    "touristPolice": "+971 2 800 2626",
+    "usEmbassy": "US Embassy Abu Dhabi: +971 2 414 2200. Currently operating limited services due to security situation. US citizens should complete Crisis Intake Form at mytravel.state.gov/s/crisis-intake and monitor embassy alerts."
+  },
+  "faq": [
+    {
+      "q": "Is Abu Dhabi safe for tourists?",
+      "a": "Under normal circumstances, Abu Dhabi ranks as one of the world's safest cities. However, the current situation is exceptional - the US has issued a Level 3 travel advisory due to armed conflict and terrorism threats. Consider postponing travel until conditions improve."
+    },
+    {
+      "q": "Is Abu Dhabi safe at night?",
+      "a": "Historically very safe with low crime rates and good lighting. Currently, shelter-in-place orders are in effect due to missile threats. Avoid unnecessary nighttime movement and stay alert for emergency notifications."
+    },
+    {
+      "q": "Is Abu Dhabi safe for solo female travelers?",
+      "a": "Previously ranked among the best destinations for solo female travelers with respectful local culture and minimal harassment. Current security crisis changes the risk profile significantly - the embassy recommends departure for all non-essential personnel."
+    },
+    {
+      "q": "What areas should I avoid in Abu Dhabi?",
+      "a": "Currently, avoid airport areas unless you have confirmed travel, industrial port zones, and government buildings. Stay away from large gatherings and follow shelter-in-place guidance. Monitor local authorities for restricted areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Abu Dhabi?",
+      "a": "Public transport is normally very safe and well-regulated. During the current crisis, services may be reduced and additional security measures are in place. Use official transport apps and keep identification readily available."
+    }
+  ],
+  "relatedCities": [
+    "dubai",
+    "doha",
+    "riyadh",
+    "kuwait-city"
+  ],
+  "_city_id": "abu-dhabi-united-arab-emirates"
+}

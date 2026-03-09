@@ -1,0 +1,163 @@
+{
+  "slug": "rio-de-janeiro",
+  "name": "Rio de Janeiro",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 6.0,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 5.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Rio de Janeiro presents moderate safety challenges for tourists, with higher crime rates in some areas but well-policed tourist zones. The city requires awareness and precautions, especially regarding petty crime and certain neighborhoods, but millions visit safely each year.",
+  "quickVerdict": "Rio de Janeiro is generally safe for tourists who stay in the South Zone neighborhoods like Copacabana, Ipanema, and Leblon, and take standard urban precautions. While the city has areas to avoid and petty crime concerns, proper planning and street-smart behavior allow visitors to enjoy this vibrant destination safely. The key is choosing the right neighborhoods, avoiding favelas, being cautious at night, and staying alert to your surroundings.",
+  "neighborhoods": [
+    {
+      "name": "Ipanema",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale beachfront neighborhood with strong police presence, well-lit streets, and heavy tourist traffic. Home to the famous beach and excellent restaurants, it's considered one of the safest areas in Rio with good infrastructure and security."
+    },
+    {
+      "name": "Leblon",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Rio's most affluent neighborhood with private security, excellent police patrols, and family-friendly atmosphere. High-end shops, restaurants, and proximity to the beach make it ideal for visitors seeking maximum safety and comfort."
+    },
+    {
+      "name": "Copacabana",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Iconic beach neighborhood with heavy police presence and tourist infrastructure. While generally safe during the day, visitors should be cautious of pickpockets on the beach and avoid walking alone late at night."
+    },
+    {
+      "name": "Barra da Tijuca",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern, planned neighborhood often called Rio's Miami with wide avenues, shopping malls, and long beaches. Safer than central areas but more spread out, requiring transportation to reach other parts of the city."
+    },
+    {
+      "name": "Centro Downtown",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Historic business district with cultural attractions but higher crime rates, especially at night and weekends. Safe to visit during daylight hours with crowds, but avoid after business hours and stay alert for pickpockets."
+    },
+    {
+      "name": "Rocinha",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Largest favela in Brazil with ongoing security issues related to drug trafficking and armed violence. Not recommended for independent visits despite some organized tours - recent military interventions highlight continuing instability."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Beach Distraction Theft",
+      "risk": "high",
+      "description": "Fake vendors approach tourists on popular beaches like Copacabana and Ipanema, using one person to distract while an accomplice steals phones, wallets, or bags from unattended belongings.",
+      "howToAvoid": "Never leave valuables unattended on the beach. Keep belongings in sight at all times and be wary of overly friendly strangers approaching you. Use hotel safes for valuables."
+    },
+    {
+      "name": "Credit Card Overcharging",
+      "risk": "high",
+      "description": "Vendors at beach kiosks or restaurants use broken card machine displays or manipulate transactions to charge excessive amounts, especially targeting international cards without PIN requirements.",
+      "howToAvoid": "Always check the amount before inserting your card, ask to see the screen, pay with cash when possible, and monitor your statements. Prefer established restaurants over beach vendors."
+    },
+    {
+      "name": "Fake Baby Products Scam",
+      "risk": "medium",
+      "description": "Women with children approach tourists asking for help buying diapers or baby formula, directing them to specific shops where they have arrangements to split the money after tourists leave.",
+      "howToAvoid": "Offer food directly instead of money or products. If you want to help, buy items from a different store or give small amounts of cash directly."
+    },
+    {
+      "name": "Drink Spiking",
+      "risk": "high",
+      "description": "Criminals drug tourists' drinks in bars, nightclubs, or through dating apps, then rob them while incapacitated. Particularly targets solo travelers and has been specifically noted as common in Rio.",
+      "howToAvoid": "Never accept drinks from strangers, don't leave drinks unattended, avoid going out alone, and tell someone your plans. Stick to busy, reputable venues."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Rio is possible but requires extra awareness and precautions. Many women visit safely each year by staying in tourist areas, using common sense, and avoiding risky situations. The metro has women-only cars during rush hour, and there's a strong sense of community among Brazilian women who often help fellow female travelers.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like Ipanema, Leblon, or Copacabana",
+      "Use women-only metro cars during rush hour - look for pink signs and markings",
+      "Dress modestly and avoid displaying expensive jewelry or electronics openly",
+      "Join group tours for nightlife and favela visits rather than exploring alone",
+      "Tell someone your plans and check in regularly, especially when going out at night"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Rio's nightlife is vibrant but requires careful navigation. Tourist areas like Lapa, Ipanema, and Leblon have active nightlife scenes with police presence, but visitors should stick to well-lit, busy areas and avoid walking alone. Beaches should be completely avoided after dark, and transportation via Uber or licensed taxis is essential.",
+    "tips": [
+      "Stay in groups and avoid walking alone, especially to/from venues",
+      "Use Uber or licensed taxis instead of walking, even short distances",
+      "Never walk on beaches after dark - this is a major safety risk",
+      "Keep valuables minimal and avoid displaying phones or cash openly",
+      "Stick to busy, well-lit streets and established venues in tourist areas"
+    ]
+  },
+  "transport": {
+    "metro": "Rio's metro system is clean, efficient, and considered the safest public transport option. Three lines connect major tourist areas with air conditioning and good security. Women-only cars are available during rush hours marked with pink signs.",
+    "rideshare": "Uber and 99 are widely available, safe, and recommended over street taxis. Always verify driver and license plate match the app before getting in. GPS tracking and cashless payment make these services more secure than traditional taxis.",
+    "taxis": "Official yellow taxis with red license plates and company markings are generally safe, but ensure meters are used. Avoid unmarked 'gypsy cabs' especially at airports. Licensed taxis are more expensive than rideshare but remain a viable option.",
+    "tips": "Avoid municipal buses at night due to security risks. The metro is safest during day hours. For airport transfers, pre-book transport or use official taxi stands. After midnight, taxis and Uber drivers often run red lights as a safety precaution - this is normal."
+  },
+  "customs": [
+    "Greetings involve cheek kisses (beijinhos) - typically one kiss in São Paulo, two in Rio. Handshakes are common in business settings",
+    "Arrive 15-30 minutes late to social gatherings - punctuality can be seen as overeager. Business meetings require punctuality",
+    "Dress well for social occasions as Brazilians value appearance. Beach attire is only acceptable at the beach, not in public areas",
+    "Tipping 10% is expected at restaurants and often automatically included. Round up for taxis and tip hotel staff",
+    "Personal space is smaller than in many cultures - touching arms or backs during conversation is normal and friendly"
+  ],
+  "health": {
+    "overview": "Brazil has a universal healthcare system (SUS) that provides free emergency care to all, including tourists. Private hospitals offer higher standards but are expensive. Rio has good medical infrastructure with quality private facilities concentrated in the South Zone.",
+    "water": "Tap water is generally safe to drink in Rio's tourist areas, though many visitors prefer bottled water. Avoid ice in street vendors and stick to sealed bottled water for complete safety.",
+    "vaccinations": "Yellow fever vaccination recommended for travelers over 9 months old. Routine vaccines should be up to date. Consider hepatitis A/B and typhoid vaccines. No mandatory vaccinations required for entry.",
+    "altitude": "Rio is at sea level so no altitude concerns. Climate is tropical with high humidity. Use strong sunscreen, stay hydrated, and take precautions against mosquito-borne diseases like dengue and Zika."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "+55 21 2332-2924",
+    "usEmbassy": "U.S. Consulate General Rio de Janeiro: +55 21 3823-2000, located at Avenida Presidente Wilson 147, Castelo. For after-hours emergencies: +55 21 3823-2029"
+  },
+  "faq": [
+    {
+      "q": "Is Rio de Janeiro safe for tourists?",
+      "a": "Rio is moderately safe for tourists who take proper precautions. Stay in the South Zone neighborhoods like Ipanema, Leblon, and Copacabana, avoid favelas and downtown at night, and remain aware of your surroundings. Millions visit safely each year."
+    },
+    {
+      "q": "Is Rio de Janeiro safe at night?",
+      "a": "Nighttime requires extra caution but Rio has vibrant nightlife in tourist areas. Stick to well-lit, busy areas like Lapa and Ipanema, travel in groups, use Uber or taxis, and never walk on beaches after dark. Avoid downtown and residential areas at night."
+    },
+    {
+      "q": "Is Rio de Janeiro safe for solo female travelers?",
+      "a": "Solo female travel is possible with careful planning. Stay in safe neighborhoods, use women-only metro cars during rush hour, join group tours for nightlife, dress modestly, and always tell someone your plans. Many women visit Rio successfully alone each year."
+    },
+    {
+      "q": "What areas should I avoid in Rio de Janeiro?",
+      "a": "Avoid all favelas including Rocinha and Complexo do Alemão, downtown after business hours, the North Zone, and any beaches at night. During the day, Centro is fine for sightseeing but requires caution for pickpockets."
+    },
+    {
+      "q": "Is it safe to use public transport in Rio de Janeiro?",
+      "a": "The metro is the safest public transport option - clean, efficient, and well-monitored. Avoid municipal buses especially at night. Use Uber or licensed taxis for most journeys. Walking is safe in tourist areas during daylight but avoid it at night."
+    }
+  ],
+  "relatedCities": [
+    "sao-paulo",
+    "salvador",
+    "brasilia"
+  ],
+  "_city_id": "rio-de-janeiro-brazil"
+}

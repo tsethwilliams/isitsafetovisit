@@ -13024,6 +13024,660 @@
         "quito",
         "santiago"
       ]
+    },
+    {
+      "slug": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 6.5,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 7.8,
+        "scamRisk": 6.5,
+        "womensSafety": 7.2,
+        "nightSafety": 6.0,
+        "transport": 7.5,
+        "naturalHazards": 3.2
+      },
+      "summary": "Abu Dhabi, the UAE's capital, was historically one of the world's safest cities until March 2026, when the US State Department elevated the region to Level 3 due to armed conflict with Iran and terrorism threats. Currently under shelter-in-place orders, the city maintains its exceptionally low crime rates but faces unprecedented security risks from missile and drone attacks.",
+      "quickVerdict": "While Abu Dhabi consistently ranked as the world's safest city with extremely low crime rates, the current security situation is extraordinary. The US has ordered non-emergency personnel to leave due to active armed conflict and ongoing missile threats from Iran. The UAE remains under Level 3 travel advisory with shelter-in-place orders in effect. Though local crime remains minimal, the terrorism and missile attack risks create an unprecedented safety challenge that travelers should carefully consider.",
+      "neighborhoods": [
+        {
+          "name": "Abu Dhabi Corniche",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The waterfront promenade remains well-patrolled and generally secure despite current tensions. Stay alert for security announcements and avoid large gatherings during the crisis period."
+        },
+        {
+          "name": "Yas Island",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Tourism and entertainment hub with good security infrastructure, though events may be cancelled. Check venue status before visiting and follow shelter-in-place guidelines."
+        },
+        {
+          "name": "Saadiyat Island",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Cultural district housing major museums with enhanced security measures in place. Museums may have restricted hours or closures during the current crisis."
+        },
+        {
+          "name": "Al Reem Island",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Modern residential and business district with good infrastructure but potential exposure to aerial threats. Residents advised to stay indoors during alerts."
+        },
+        {
+          "name": "Zayed International Airport Area",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Major transport hub with heightened security risks. Flight disruptions common and limited commercial options available. Access restricted to confirmed travelers only."
+        },
+        {
+          "name": "Port Areas",
+          "score": 3.0,
+          "class": "danger",
+          "description": "Industrial zones considered potential targets with significant security restrictions. Avoid unless essential business, and follow all security protocols if access required."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Holiday Ticket Scams",
+          "risk": "high",
+          "description": "Fraudsters create fake social media groups selling discounted tickets for events, travel packages, and attractions using AI-generated images and chatbots to appear legitimate.",
+          "howToAvoid": "Only purchase tickets from official websites or verified vendors. Verify website URLs carefully and avoid deals that seem too good to be true, especially on social media."
+        },
+        {
+          "name": "Unlicensed Tour Guide Scam",
+          "risk": "medium",
+          "description": "Fake guides approach tourists offering city tours and special access to attractions, then demand inflated payments and may create scenes if refused.",
+          "howToAvoid": "Only use licensed tour guides with Department of Culture and Tourism badges. Politely decline unsolicited offers and book through official tourist information centers."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unofficial taxis without meters charge triple the normal rates, especially at airports. Some fake police may also demand cash payments for fabricated fines.",
+          "howToAvoid": "Use official silver taxis with yellow roofs or booking apps like Abu Dhabi Taxi, Uber, or Careem. Never pay cash fines to police - legitimate fines are issued via SMS."
+        },
+        {
+          "name": "Desert Safari Fraud",
+          "risk": "medium",
+          "description": "Unlicensed operators offer cheap desert safaris through fake websites and middlemen, often resulting in cancellations, poor service, or unsafe experiences.",
+          "howToAvoid": "Book only with licensed operators registered with Abu Dhabi tourism authorities. Verify physical office addresses and read recent reviews before payment."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Abu Dhabi has historically been exceptional for solo female travelers, ranking among the world's safest cities with very low harassment rates and respectful local attitudes. However, the current crisis significantly changes the risk profile. While local crime remains minimal and cultural respect for women continues, the shelter-in-place orders and missile threat create unprecedented challenges for solo travelers.",
+        "tips": [
+          "Follow all shelter-in-place orders and embassy guidance - current situation overrides normal safety considerations",
+          "Dress modestly covering shoulders and knees in public spaces, and carry a light jacket for air-conditioned venues",
+          "Stay in well-reviewed hotels with good security and female-friendly amenities like women-only floors or facilities",
+          "Use official transport options including pink taxis driven by women for added comfort",
+          "Keep emergency contacts readily available and maintain communication with family about your status"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Under normal circumstances, Abu Dhabi's nightlife is very safe with well-regulated venues and strong police presence. However, current shelter-in-place recommendations significantly restrict nighttime activities. Many venues have reduced hours or temporary closures, and the missile threat creates additional risks during evening hours.",
+        "tips": [
+          "Comply with current shelter-in-place guidelines and avoid unnecessary nighttime travel",
+          "If out, stay in well-lit areas with good security and avoid isolated locations",
+          "Use official transport apps rather than hailing street taxis, especially during crisis periods",
+          "Keep alert for emergency sirens or notifications and know shelter procedures",
+          "Consider hotel venues over distant nightlife spots to minimize travel during current tensions"
+        ]
+      },
+      "transport": {
+        "metro": "Abu Dhabi does not currently have a metro system, though a network is planned for completion by 2030. The city relies on buses, taxis, and ride-sharing services for public transport.",
+        "rideshare": "Uber and Careem operate effectively with good safety standards and tracking features. Both apps allow trip sharing and have established complaint procedures. Service may be limited during current security situation.",
+        "taxis": "Official taxis are silver with yellow roofs and highly regulated by TransAD. Pink taxis driven by women are available for female passengers. All taxis have meters, security cameras, and many run on clean fuel. Airport access currently restricted to confirmed travelers.",
+        "tips": "Use official transport apps for safety and convenience. The Darbi app provides real-time public transport information, though services may be reduced during current crisis. Keep documents readily accessible as ID checks are common during heightened security."
+      },
+      "customs": [
+        "Dress modestly in public covering shoulders and knees - conservative dress shows respect for Islamic culture",
+        "Use your right hand for eating, greeting, and giving/receiving items - the left hand is considered unclean",
+        "Avoid public displays of affection beyond holding hands - kissing and hugging in public can result in legal consequences",
+        "Remove shoes when entering homes and some establishments - follow the lead of your hosts",
+        "Show respect during prayer times and avoid photographing people without permission, especially women",
+        "Accept hospitality graciously - refusing offered food or drinks multiple times may be considered rude"
+      ],
+      "health": {
+        "overview": "Abu Dhabi offers world-class healthcare with excellent hospitals and medical facilities. The Department of Health maintains high standards and the city has comprehensive emergency medical services. However, current conflict situation may affect some medical services availability.",
+        "water": "Tap water is safe to drink throughout Abu Dhabi as it meets international standards. Bottled water is widely available and many residents prefer it for taste. Stay well-hydrated in the hot climate.",
+        "vaccinations": "No special vaccinations required for Abu Dhabi. Routine vaccines like MMR, DPT, flu, and COVID-19 should be up to date. The UAE has comprehensive vaccination programs and digital health tracking through the Al Hosn app.",
+        "altitude": "Abu Dhabi is at sea level with extremely hot summers (40°C+) and mild winters. Desert climate requires sun protection, hydration, and appropriate clothing. Air conditioning is ubiquitous indoors."
+      },
+      "emergency": {
+        "general": "999",
+        "police": "999",
+        "ambulance": "998",
+        "fire": "997",
+        "touristPolice": "+971 2 800 2626",
+        "usEmbassy": "US Embassy Abu Dhabi: +971 2 414 2200. Currently operating limited services due to security situation. US citizens should complete Crisis Intake Form at mytravel.state.gov/s/crisis-intake and monitor embassy alerts."
+      },
+      "faq": [
+        {
+          "q": "Is Abu Dhabi safe for tourists?",
+          "a": "Under normal circumstances, Abu Dhabi ranks as one of the world's safest cities. However, the current situation is exceptional - the US has issued a Level 3 travel advisory due to armed conflict and terrorism threats. Consider postponing travel until conditions improve."
+        },
+        {
+          "q": "Is Abu Dhabi safe at night?",
+          "a": "Historically very safe with low crime rates and good lighting. Currently, shelter-in-place orders are in effect due to missile threats. Avoid unnecessary nighttime movement and stay alert for emergency notifications."
+        },
+        {
+          "q": "Is Abu Dhabi safe for solo female travelers?",
+          "a": "Previously ranked among the best destinations for solo female travelers with respectful local culture and minimal harassment. Current security crisis changes the risk profile significantly - the embassy recommends departure for all non-essential personnel."
+        },
+        {
+          "q": "What areas should I avoid in Abu Dhabi?",
+          "a": "Currently, avoid airport areas unless you have confirmed travel, industrial port zones, and government buildings. Stay away from large gatherings and follow shelter-in-place guidance. Monitor local authorities for restricted areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Abu Dhabi?",
+          "a": "Public transport is normally very safe and well-regulated. During the current crisis, services may be reduced and additional security measures are in place. Use official transport apps and keep identification readily available."
+        }
+      ],
+      "relatedCities": [
+        "dubai",
+        "doha",
+        "riyadh",
+        "kuwait-city"
+      ]
+    },
+    {
+      "slug": "doha",
+      "name": "Doha",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 5.9,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 8.5,
+        "scamRisk": 7.5,
+        "womensSafety": 4.0,
+        "nightSafety": 4.0,
+        "transport": 6.5,
+        "naturalHazards": 2.0
+      },
+      "summary": "Doha is typically one of the safest capitals in the world with exceptionally low crime rates and strong security. However, US government has issued Level 3 travel advisories due to current regional armed conflict and ordered departure of non-emergency US personnel as of March 2026.",
+      "quickVerdict": "Under normal circumstances, Doha ranks among the world's safest cities with minimal crime and excellent security infrastructure. Currently, elevated regional tensions have led to US travel warnings and evacuation orders for non-emergency personnel. The immediate threat comes from regional military conflict rather than local crime or terrorism. Travelers should monitor embassy communications closely and be prepared to shelter in place or depart immediately if conditions deteriorate.",
+      "neighborhoods": [
+        {
+          "name": "West Bay",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The gleaming business district with modern towers and luxury hotels. Normally very safe with excellent security, though current regional tensions apply citywide."
+        },
+        {
+          "name": "The Pearl-Qatar",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale man-made island with luxury residences and marina. Among Qatar's safest areas with private security and controlled access."
+        },
+        {
+          "name": "Msheireb Downtown",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Modern downtown area blending heritage with contemporary development. Well-lit with good security infrastructure and pedestrian-friendly design."
+        },
+        {
+          "name": "Souq Waqif",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Traditional market area popular with tourists. Generally safe but watch for pickpockets in crowds and tourist-targeted scams."
+        },
+        {
+          "name": "Katara Cultural Village",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Cultural and entertainment complex with galleries and restaurants. Well-maintained with security presence and good lighting."
+        },
+        {
+          "name": "Industrial Area",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Working-class area housing migrant workers. Not tourist-friendly with limited amenities and higher density housing conditions."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "high",
+          "description": "Drivers claim the meter is broken or refuse to use it, demanding flat rates 2-3 times higher than normal fares.",
+          "howToAvoid": "Always insist the meter is turned on before starting the journey. Use ride-hailing apps like Uber or Careem for transparent pricing."
+        },
+        {
+          "name": "Counterfeit Souvenir Sales",
+          "risk": "medium",
+          "description": "Vendors sell fake handicrafts and pearls as authentic Qatari products at inflated tourist prices.",
+          "howToAvoid": "Shop at reputable stores and ask for authenticity certificates. Research typical prices beforehand and bargain appropriately."
+        },
+        {
+          "name": "Fake Tour Guide Services",
+          "risk": "medium",
+          "description": "Individuals approach tourists offering unauthorized guide services or exclusive access to attractions for fees.",
+          "howToAvoid": "Use only licensed tour operators and official information desks. Genuine services don't approach visitors on the street."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Fraudsters offer help at ATMs to scan cards or watch PIN entry, later draining accounts.",
+          "howToAvoid": "Use ATMs inside bank branches or malls. Cover your PIN when entering and never accept help from strangers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Under normal conditions, Doha ranks among the world's safest cities for solo female travelers, with women able to walk safely even at night. The current regional conflict situation affects all travelers equally. Conservative dress covering shoulders and knees is essential, and women should respect local customs while moving around the city.",
+        "tips": [
+          "Dress modestly covering shoulders and knees in all public areas",
+          "Use family carriages on the Metro which are reserved for women and families",
+          "Stay informed about current security situation through embassy alerts",
+          "Respect local customs regarding public displays of affection and behavior"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Doha normally has excellent night safety with well-lit streets and visible security presence, but current regional tensions require extra caution. The city center, Corniche, and major areas remain well-patrolled, though travelers should avoid unnecessary movement during the current situation and follow embassy guidance about shelter-in-place recommendations.",
+        "tips": [
+          "Follow current US Embassy shelter-in-place recommendations",
+          "Stick to well-lit main areas if movement is necessary",
+          "Keep embassy contact information readily available",
+          "Avoid travel to remote areas during current regional tensions"
+        ]
+      },
+      "transport": {
+        "metro": "The Doha Metro is modern, safe, and reliable with three lines serving major areas. Family carriages are available for women and families. Currently operating but monitor for any service disruptions due to regional situation.",
+        "rideshare": "Uber and Careem operate normally throughout the city with transparent pricing. These remain the safest transport options during current tensions as they provide tracking and contactless payment.",
+        "taxis": "Official Karwa taxis are generally safe but watch for meter scams. Some drivers may overcharge tourists. Use apps when possible for fare transparency.",
+        "tips": "Public transport continues operating but stay alert for any emergency announcements. Keep transportation apps downloaded and accounts set up in case of evacuation needs."
+      },
+      "customs": [
+        "Dress modestly with shoulders and knees covered in public areas",
+        "Avoid public displays of affection as they are culturally inappropriate",
+        "Alcohol is only available in licensed hotel bars and restaurants",
+        "Respect Ramadan customs during the holy month if visiting then",
+        "Friday is the holy day with many businesses closed for prayers"
+      ],
+      "health": {
+        "overview": "Qatar has excellent healthcare standards with world-class facilities and English-speaking medical staff. The healthcare system ranks among the top globally with both public and private options available.",
+        "water": "Tap water is generally safe as it comes from desalination plants meeting WHO standards, though many prefer bottled water for taste.",
+        "vaccinations": "No special vaccinations required for most travelers. Standard travel vaccines like Hepatitis A/B may be recommended.",
+        "altitude": "Doha is at sea level. Main health concern is extreme heat during summer months requiring hydration and sun protection."
+      },
+      "emergency": {
+        "general": "999",
+        "police": "999",
+        "ambulance": "999",
+        "fire": "999",
+        "touristPolice": "234 2000",
+        "usEmbassy": "US Embassy Doha: ACSDoha@state.gov (currently suspended routine services, emergency only)"
+      },
+      "faq": [
+        {
+          "q": "Is Doha safe for tourists?",
+          "a": "Under normal circumstances, Doha is exceptionally safe with very low crime rates. Currently, US authorities recommend reconsidering travel due to regional military tensions, not local safety issues."
+        },
+        {
+          "q": "Is Doha safe at night?",
+          "a": "Typically yes, with well-lit streets and security presence. However, current regional situation requires following embassy guidance about nighttime movement and shelter-in-place recommendations."
+        },
+        {
+          "q": "Is Doha safe for solo female travelers?",
+          "a": "Normally excellent for solo women with conservative dress required. Current regional tensions affect all travelers equally. Women should monitor embassy communications closely."
+        },
+        {
+          "q": "What areas should I avoid in Doha?",
+          "a": "The Industrial Area lacks tourist amenities. Currently, US Embassy recommends Americans avoid unnecessary movement citywide and be prepared to shelter in place."
+        },
+        {
+          "q": "Is it safe to use public transport in Doha?",
+          "a": "The Metro and official buses are normally very safe and reliable. During current situation, continue using if needed but stay alert for emergency announcements."
+        }
+      ],
+      "relatedCities": [
+        "dubai",
+        "abu-dhabi",
+        "kuwait-city",
+        "riyadh",
+        "muscat"
+      ]
+    },
+    {
+      "slug": "riyadh",
+      "name": "Riyadh",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 7.5,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.2,
+        "violentCrime": 8.5,
+        "scamRisk": 7.0,
+        "womensSafety": 6.5,
+        "nightSafety": 6.8,
+        "transport": 7.8,
+        "naturalHazards": 7.5
+      },
+      "summary": "Riyadh is generally safe for tourists with very low violent crime rates and minimal petty crime. However, recent regional tensions and strict local laws requiring cultural awareness affect the overall safety assessment.",
+      "quickVerdict": "Riyadh offers one of the lowest crime rates globally, particularly for violent crimes, making it relatively safe for tourists on a day-to-day basis. The main concerns stem from current regional security tensions due to ongoing conflicts, strict social media laws with severe penalties, and the need to respect conservative Islamic customs. While the city is modern and welcoming to tourists, visitors must be aware of cultural sensitivities and legal restrictions that differ significantly from Western norms.",
+      "neighborhoods": [
+        {
+          "name": "Al Olaya District",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Modern business district with upscale shopping malls, hotels, and restaurants. Well-patrolled and popular with tourists and expats."
+        },
+        {
+          "name": "Diplomatic Quarter",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Heavily secured area housing embassies and diplomatic residences. Excellent security infrastructure and very safe for visitors."
+        },
+        {
+          "name": "King Abdullah Financial District",
+          "score": 8.0,
+          "class": "safe",
+          "description": "New financial center with modern architecture, good transportation links, and strong security presence during business hours."
+        },
+        {
+          "name": "Al Diriyah",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Historic UNESCO site with tourist facilities. Generally safe but can be crowded during peak tourist seasons."
+        },
+        {
+          "name": "Al Batha",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Commercial district with traditional markets. More crowded and prone to pickpocketing and tourist-targeted scams."
+        },
+        {
+          "name": "Al Shumaisi",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Working-class neighborhood with higher crime rates. Visitors should exercise extra caution, especially at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Bird Droppings Scam",
+          "risk": "medium",
+          "description": "Someone throws white paste on you that looks like bird droppings, then an accomplice offers to help clean it while attempting to pickpocket you.",
+          "howToAvoid": "Be aware in crowded areas, politely decline unsolicited help from strangers, and keep valuables secure."
+        },
+        {
+          "name": "Sob Story Begging",
+          "risk": "medium",
+          "description": "Scammers approach tourists with elaborate stories about needing money for medical treatment or being stranded, often showing fake documents.",
+          "howToAvoid": "Don't give money to people approaching with sob stories, no matter how convincing. Direct them to official authorities if genuinely concerned."
+        },
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "high",
+          "description": "Unlicensed taxi drivers claim meters are broken and charge inflated fixed prices, especially targeting tourists and airport travelers.",
+          "howToAvoid": "Use ride-sharing apps like Uber or Careem, insist on metered fares with licensed taxis, or negotiate price beforehand."
+        },
+        {
+          "name": "Fake Investment Opportunities",
+          "risk": "low",
+          "description": "Scammers claim to represent legitimate investment companies offering unrealistic returns, particularly targeting expats.",
+          "howToAvoid": "Never invest based on unsolicited offers, verify company credentials through official channels, and be skeptical of guaranteed high returns."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Riyadh is generally safe with significant improvements since 2019. Women can now travel independently without male guardians and the conservative society actually provides protection from harassment. However, cultural sensitivity regarding dress code and behavior is essential.",
+        "tips": [
+          "Dress modestly covering shoulders and knees - loose-fitting clothing is recommended",
+          "While hijab is not mandatory, carry a headscarf for certain situations or religious sites",
+          "Use reputable transportation like Uber, Careem, or official taxis rather than street taxis",
+          "Stay in well-reviewed hotels in tourist-friendly areas like Al Olaya or the Diplomatic Quarter",
+          "Be aware that some facilities may have gender segregation - follow local guidance"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Riyadh is quite safe at night with low street crime rates and good lighting in main areas. However, nightlife options are limited due to cultural restrictions, and some areas may have reduced activity after dark.",
+        "tips": [
+          "Stick to well-lit main streets and avoid poorly lit or deserted areas",
+          "Use ride-sharing apps rather than walking alone late at night",
+          "Most entertainment venues close relatively early - plan accordingly",
+          "Hotel areas and major shopping districts remain active and safe in the evenings",
+          "Be aware that some restaurants and cafes may have different operating hours during prayer times"
+        ]
+      },
+      "transport": {
+        "metro": "The new Riyadh Metro opened in late 2024 with 6 lines and 85 stations. Modern, air-conditioned, and safe with good security. Fares range from 3-10 SAR and operates from early morning to late evening.",
+        "rideshare": "Uber and Careem are widely available, safe, and recommended. Apps show fixed pricing, driver details, and GPS tracking. Careem is locally popular and offers female driver options. Payment by card or cash accepted.",
+        "taxis": "Licensed green taxis are metered and generally safe, but communication can be challenging if you don't speak Arabic. Some unlicensed drivers may overcharge tourists. Always verify the meter is running.",
+        "tips": "Ride-sharing apps are the safest and most convenient option. Public transport is modern and secure. Avoid unlicensed street taxis, especially at airports."
+      },
+      "customs": [
+        "Dress modestly in public - cover shoulders and knees, avoid tight-fitting clothing",
+        "Remove shoes when entering homes and some traditional establishments",
+        "Use right hand for greeting, eating, and passing items as left hand is considered unclean",
+        "Respect prayer times when shops and services may temporarily close",
+        "Avoid public displays of affection, particularly between unmarried couples",
+        "Photography of people (especially women) should be done with explicit permission",
+        "Be mindful of Ramadan customs if visiting during the holy month"
+      ],
+      "health": {
+        "overview": "Healthcare in Riyadh is of high quality with modern facilities and well-trained professionals. The city has invested heavily in healthcare infrastructure as part of Vision 2030, with several world-class hospitals and medical centers.",
+        "water": "Tap water is generally safe but bottled water is widely available and recommended for sensitive stomachs. Most hotels and restaurants use filtered water.",
+        "vaccinations": "No special vaccinations required for most travelers. Routine vaccinations should be up to date. Hepatitis A and B vaccines may be recommended for some travelers.",
+        "altitude": "Riyadh sits at 2,000 feet elevation so no altitude concerns. Climate is hot and dry - stay hydrated, use sunscreen, and avoid prolonged sun exposure especially in summer months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "999 or 911",
+        "ambulance": "997",
+        "fire": "998",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Riyadh: +966-11-835-4000 (located in Diplomatic Quarter). Emergency consular services available. Citizens should enroll in STEP program for security updates."
+      },
+      "faq": [
+        {
+          "q": "Is Riyadh safe for tourists?",
+          "a": "Yes, Riyadh has very low crime rates and is generally safe for tourists. Main concerns are regional tensions, strict laws about social media criticism, and the need to respect local customs. Follow current US State Department guidance."
+        },
+        {
+          "q": "Is Riyadh safe at night?",
+          "a": "Riyadh is quite safe at night with low crime rates. Stick to well-lit main areas and use ride-sharing apps for transportation. Nightlife options are limited due to cultural restrictions."
+        },
+        {
+          "q": "Is Riyadh safe for solo female travelers?",
+          "a": "Yes, solo female travel is generally safe in Riyadh. Women can travel independently without guardians since 2019. Dress modestly, use reputable transportation, and stay in tourist-friendly areas."
+        },
+        {
+          "q": "What areas should I avoid in Riyadh?",
+          "a": "Avoid Al Shumaisi neighborhood due to higher crime rates. Be cautious in Al Batha markets where pickpocketing occurs. Stay away from areas near the Yemen border (20+ miles) as advised by US authorities."
+        },
+        {
+          "q": "Is it safe to use public transport in Riyadh?",
+          "a": "Yes, the new Riyadh Metro is modern, safe, and well-secured. Buses are also safe but less convenient for tourists. Ride-sharing apps like Uber and Careem are highly recommended and very safe."
+        }
+      ],
+      "relatedCities": [
+        "dubai",
+        "doha",
+        "kuwait-city"
+      ]
+    },
+    {
+      "slug": "tel-aviv",
+      "name": "Tel Aviv",
+      "country": "Israel",
+      "countryCode": "IL",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-09",
+      "overallScore": 5.8,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 7.5,
+        "scamRisk": 5.5,
+        "womensSafety": 7.0,
+        "nightSafety": 6.5,
+        "transport": 7.0,
+        "naturalHazards": 1.0
+      },
+      "summary": "Tel Aviv is generally safe for tourists with low violent crime rates and excellent infrastructure, ranking 41st globally on safety indices. However, the ongoing regional conflict and elevated terrorism risk create an elevated security environment that requires increased caution.",
+      "quickVerdict": "Tel Aviv offers a vibrant, modern Mediterranean experience with strong security measures, excellent healthcare, and low day-to-day crime risks. While the city itself functions normally with families and tourists enjoying beaches, restaurants, and nightlife, the broader regional security situation means travelers should stay informed about developments, follow official guidance, and be prepared for security checks and potential disruptions.",
+      "neighborhoods": [
+        {
+          "name": "City Center & Dizengoff",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Heart of Tel Aviv with major shopping, dining, and cultural attractions. Well-lit, heavily patrolled, and busy day and night. Excellent for tourists with strong security presence."
+        },
+        {
+          "name": "Florentin",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy arts district with street art, bars, and younger crowd. Generally safe in main areas but exercise normal precautions. Stay in central Florentin rather than southern edges."
+        },
+        {
+          "name": "Jaffa Old City",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Historic port area with tourist attractions and restaurants. Safe in main tourist zones during day and early evening, but quieter residential streets can feel less secure after dark."
+        },
+        {
+          "name": "Neve Sha'anan",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Working-class immigrant neighborhood near Central Bus Station. Higher petty crime rates, visible drug activity, and limited tourist infrastructure. Avoid particularly at night."
+        },
+        {
+          "name": "Shapira",
+          "score": 4.8,
+          "class": "danger",
+          "description": "South Tel Aviv neighborhood undergoing gentrification but still rough around edges. Higher crime rates than city center, less police presence, and not recommended for tourists especially after dark."
+        },
+        {
+          "name": "HaTikva Quarter",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Traditional working-class area with limited tourist appeal. Higher rates of theft and harassment, particularly in evening hours. Few reasons for tourists to visit this area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "high",
+          "description": "Drivers refusing to use meter or quoting inflated fixed prices, especially from airport or for tourists. Can charge 10x normal rate.",
+          "howToAvoid": "Always insist on meter usage or use licensed ride-hailing apps like Gett or Yango. Confirm approximate fare beforehand and have destination address ready in Hebrew."
+        },
+        {
+          "name": "Tourist Service Overcharging",
+          "risk": "medium",
+          "description": "Unofficial tour operators, restaurants in tourist areas, or services charging excessive prices to visitors unfamiliar with local rates.",
+          "howToAvoid": "Use reputable tour companies, check prices at multiple restaurants, confirm costs upfront, and ask locals for recommendations on fair pricing."
+        },
+        {
+          "name": "Property/Investment Fraud",
+          "risk": "medium",
+          "description": "Scammers targeting foreign visitors with fake real estate deals or investment opportunities, often involving seller impersonation or fake documents.",
+          "howToAvoid": "Only work with licensed real estate agents, verify all documents through official government portals, never wire money based on email instructions alone."
+        },
+        {
+          "name": "Fake Emergency Calls",
+          "risk": "low",
+          "description": "Phone scams claiming family member in trouble or fake charity requests, particularly targeting tourists who may be more vulnerable.",
+          "howToAvoid": "Never give personal information over the phone, verify any emergency through official channels, and be wary of unsolicited calls asking for money or information."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Tel Aviv is considered very safe for solo female travelers and consistently ranks among the most female-friendly cities in the Middle East. The city has a progressive, secular culture where women regularly travel alone, work late, and enjoy nightlife independently. Israeli women themselves frequently travel solo, creating a comfortable environment. The main precautions are standard urban safety measures rather than gender-specific concerns.",
+        "tips": [
+          "Avoid southern neighborhoods like Neve Sha'anan, Shapira, and HaTikva especially after dark",
+          "Use well-lit main streets when walking at night, particularly in Jaffa's quieter areas",
+          "Dress modestly when visiting religious sites but casual Western clothing is fine elsewhere",
+          "Be direct and firm if dealing with unwanted attention as Israelis respond well to straightforward communication",
+          "Solo dining and nightlife participation is completely normal and widely accepted"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Tel Aviv is known as 'the city that never sleeps' and maintains relatively good safety levels at night compared to other major cities. The central areas, beachfront, and main entertainment districts remain active and well-patrolled throughout the night. However, increased caution is needed in certain neighborhoods, and the ongoing security situation requires awareness of surroundings.",
+        "tips": [
+          "Stay in central, well-lit areas like City Center, Rothschild Boulevard, and the beachfront promenade",
+          "Avoid walking alone in southern Tel Aviv neighborhoods after dark",
+          "Use licensed taxis or ride-hailing apps rather than walking long distances late at night",
+          "Be aware of your surroundings and report any suspicious activities to authorities",
+          "Keep emergency numbers handy and know the location of nearest bomb shelters in case of alerts"
+        ]
+      },
+      "transport": {
+        "metro": "Tel Aviv Light Rail Red Line operational since 2023, connecting city center with surrounding areas. Modern, safe, and operates 5:30 AM to midnight with 6-12 minute intervals. Additional Green and Purple lines under construction.",
+        "rideshare": "Uber and Lyft not available. Local alternatives include Gett and Yango apps for booking licensed taxis. Generally safe and reliable with upfront pricing through apps.",
+        "taxis": "Licensed white taxis with yellow roof signs are generally safe but insist on meter usage or confirm fixed price beforehand. Some drivers may overcharge tourists, particularly from airport or tourist areas.",
+        "tips": "Public transport is safe and reliable. Get a Rav-Kav card for buses and trains. Note that most public transport stops during Shabbat (Friday evening to Saturday night) except some private services."
+      },
+      "customs": [
+        "Israelis communicate very directly and may seem blunt by other cultural standards, but this is normal and not intended as rudeness",
+        "Personal space is smaller than in Western cultures, and touching during conversation is common among friends",
+        "Tipping 12-15% is expected at restaurants and cafes, not included in the bill",
+        "Remove shoes when entering someone's home and accept offered refreshments as a sign of respect",
+        "Avoid sensitive political topics unless specifically invited to discuss them by locals"
+      ],
+      "health": {
+        "overview": "Israel has one of the world's best healthcare systems, ranking highly in efficiency and quality. The country has universal healthcare, excellent hospitals, and high vaccination rates. Air quality can be moderate due to urban pollution and occasional dust from desert regions.",
+        "water": "Tap water is completely safe to drink and meets high international standards. Some visitors may not like the taste due to desalination processes, but there are no health concerns.",
+        "vaccinations": "No special vaccinations required for most travelers. Routine vaccines (MMR, Hepatitis A/B, Typhoid) recommended as for any international travel. Check CDC recommendations based on your origin country.",
+        "altitude": "Tel Aviv is at sea level with a Mediterranean climate. Summers are hot and humid (90°F+), winters mild (55-65°F). Strong sun protection essential year-round, especially in summer months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "101",
+        "fire": "102",
+        "touristPolice": "100 (ask for tourist police)",
+        "usEmbassy": "U.S. Embassy Jerusalem: +972-2-630-4000. Emergency after-hours: +972-2-630-4000. Located at 14 David Flusser Street, Jerusalem. Consular services also available in Tel Aviv."
+      },
+      "faq": [
+        {
+          "q": "Is Tel Aviv safe for tourists?",
+          "a": "Yes, Tel Aviv is generally safe for tourists with low violent crime rates and strong security measures. However, the regional security situation requires staying informed about developments and following official guidance. Most visits are trouble-free, but increased awareness is recommended."
+        },
+        {
+          "q": "Is Tel Aviv safe at night?",
+          "a": "Tel Aviv's central areas, beachfront, and main entertainment districts are relatively safe at night and remain active. Avoid southern neighborhoods like Neve Sha'anan and Shapira after dark, use licensed transport, and stay alert to surroundings."
+        },
+        {
+          "q": "Is Tel Aviv safe for solo female travelers?",
+          "a": "Yes, Tel Aviv is very safe for solo female travelers and considered one of the most female-friendly cities in the Middle East. Local women regularly travel alone, and the culture is progressive and welcoming to independent female travelers."
+        },
+        {
+          "q": "What areas should I avoid in Tel Aviv?",
+          "a": "Avoid Neve Sha'anan (near Central Bus Station), Shapira, and HaTikva neighborhoods, especially at night. These areas have higher crime rates and limited tourist infrastructure. The Central Bus Station area specifically has visible drug activity and poor lighting."
+        },
+        {
+          "q": "Is it safe to use public transport in Tel Aviv?",
+          "a": "Yes, public transport is safe and reliable. Buses, trains, and the light rail are widely used by locals and tourists. Get a Rav-Kav card for convenient payment. Note that most public transport stops during Shabbat (Friday evening to Saturday night)."
+        }
+      ],
+      "relatedCities": [
+        "jerusalem",
+        "dubai",
+        "istanbul",
+        "beirut",
+        "amman"
+      ]
     }
   ]
 }

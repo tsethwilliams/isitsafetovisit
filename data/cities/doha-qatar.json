@@ -1,0 +1,163 @@
+{
+  "slug": "doha",
+  "name": "Doha",
+  "country": "Qatar",
+  "countryCode": "QA",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-09",
+  "overallScore": 5.9,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 8.5,
+    "scamRisk": 7.5,
+    "womensSafety": 4.0,
+    "nightSafety": 4.0,
+    "transport": 6.5,
+    "naturalHazards": 2.0
+  },
+  "summary": "Doha is typically one of the safest capitals in the world with exceptionally low crime rates and strong security. However, US government has issued Level 3 travel advisories due to current regional armed conflict and ordered departure of non-emergency US personnel as of March 2026.",
+  "quickVerdict": "Under normal circumstances, Doha ranks among the world's safest cities with minimal crime and excellent security infrastructure. Currently, elevated regional tensions have led to US travel warnings and evacuation orders for non-emergency personnel. The immediate threat comes from regional military conflict rather than local crime or terrorism. Travelers should monitor embassy communications closely and be prepared to shelter in place or depart immediately if conditions deteriorate.",
+  "neighborhoods": [
+    {
+      "name": "West Bay",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The gleaming business district with modern towers and luxury hotels. Normally very safe with excellent security, though current regional tensions apply citywide."
+    },
+    {
+      "name": "The Pearl-Qatar",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale man-made island with luxury residences and marina. Among Qatar's safest areas with private security and controlled access."
+    },
+    {
+      "name": "Msheireb Downtown",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern downtown area blending heritage with contemporary development. Well-lit with good security infrastructure and pedestrian-friendly design."
+    },
+    {
+      "name": "Souq Waqif",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Traditional market area popular with tourists. Generally safe but watch for pickpockets in crowds and tourist-targeted scams."
+    },
+    {
+      "name": "Katara Cultural Village",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Cultural and entertainment complex with galleries and restaurants. Well-maintained with security presence and good lighting."
+    },
+    {
+      "name": "Industrial Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Working-class area housing migrant workers. Not tourist-friendly with limited amenities and higher density housing conditions."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "high",
+      "description": "Drivers claim the meter is broken or refuse to use it, demanding flat rates 2-3 times higher than normal fares.",
+      "howToAvoid": "Always insist the meter is turned on before starting the journey. Use ride-hailing apps like Uber or Careem for transparent pricing."
+    },
+    {
+      "name": "Counterfeit Souvenir Sales",
+      "risk": "medium",
+      "description": "Vendors sell fake handicrafts and pearls as authentic Qatari products at inflated tourist prices.",
+      "howToAvoid": "Shop at reputable stores and ask for authenticity certificates. Research typical prices beforehand and bargain appropriately."
+    },
+    {
+      "name": "Fake Tour Guide Services",
+      "risk": "medium",
+      "description": "Individuals approach tourists offering unauthorized guide services or exclusive access to attractions for fees.",
+      "howToAvoid": "Use only licensed tour operators and official information desks. Genuine services don't approach visitors on the street."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Fraudsters offer help at ATMs to scan cards or watch PIN entry, later draining accounts.",
+      "howToAvoid": "Use ATMs inside bank branches or malls. Cover your PIN when entering and never accept help from strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Under normal conditions, Doha ranks among the world's safest cities for solo female travelers, with women able to walk safely even at night. The current regional conflict situation affects all travelers equally. Conservative dress covering shoulders and knees is essential, and women should respect local customs while moving around the city.",
+    "tips": [
+      "Dress modestly covering shoulders and knees in all public areas",
+      "Use family carriages on the Metro which are reserved for women and families",
+      "Stay informed about current security situation through embassy alerts",
+      "Respect local customs regarding public displays of affection and behavior"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Doha normally has excellent night safety with well-lit streets and visible security presence, but current regional tensions require extra caution. The city center, Corniche, and major areas remain well-patrolled, though travelers should avoid unnecessary movement during the current situation and follow embassy guidance about shelter-in-place recommendations.",
+    "tips": [
+      "Follow current US Embassy shelter-in-place recommendations",
+      "Stick to well-lit main areas if movement is necessary",
+      "Keep embassy contact information readily available",
+      "Avoid travel to remote areas during current regional tensions"
+    ]
+  },
+  "transport": {
+    "metro": "The Doha Metro is modern, safe, and reliable with three lines serving major areas. Family carriages are available for women and families. Currently operating but monitor for any service disruptions due to regional situation.",
+    "rideshare": "Uber and Careem operate normally throughout the city with transparent pricing. These remain the safest transport options during current tensions as they provide tracking and contactless payment.",
+    "taxis": "Official Karwa taxis are generally safe but watch for meter scams. Some drivers may overcharge tourists. Use apps when possible for fare transparency.",
+    "tips": "Public transport continues operating but stay alert for any emergency announcements. Keep transportation apps downloaded and accounts set up in case of evacuation needs."
+  },
+  "customs": [
+    "Dress modestly with shoulders and knees covered in public areas",
+    "Avoid public displays of affection as they are culturally inappropriate",
+    "Alcohol is only available in licensed hotel bars and restaurants",
+    "Respect Ramadan customs during the holy month if visiting then",
+    "Friday is the holy day with many businesses closed for prayers"
+  ],
+  "health": {
+    "overview": "Qatar has excellent healthcare standards with world-class facilities and English-speaking medical staff. The healthcare system ranks among the top globally with both public and private options available.",
+    "water": "Tap water is generally safe as it comes from desalination plants meeting WHO standards, though many prefer bottled water for taste.",
+    "vaccinations": "No special vaccinations required for most travelers. Standard travel vaccines like Hepatitis A/B may be recommended.",
+    "altitude": "Doha is at sea level. Main health concern is extreme heat during summer months requiring hydration and sun protection."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "234 2000",
+    "usEmbassy": "US Embassy Doha: ACSDoha@state.gov (currently suspended routine services, emergency only)"
+  },
+  "faq": [
+    {
+      "q": "Is Doha safe for tourists?",
+      "a": "Under normal circumstances, Doha is exceptionally safe with very low crime rates. Currently, US authorities recommend reconsidering travel due to regional military tensions, not local safety issues."
+    },
+    {
+      "q": "Is Doha safe at night?",
+      "a": "Typically yes, with well-lit streets and security presence. However, current regional situation requires following embassy guidance about nighttime movement and shelter-in-place recommendations."
+    },
+    {
+      "q": "Is Doha safe for solo female travelers?",
+      "a": "Normally excellent for solo women with conservative dress required. Current regional tensions affect all travelers equally. Women should monitor embassy communications closely."
+    },
+    {
+      "q": "What areas should I avoid in Doha?",
+      "a": "The Industrial Area lacks tourist amenities. Currently, US Embassy recommends Americans avoid unnecessary movement citywide and be prepared to shelter in place."
+    },
+    {
+      "q": "Is it safe to use public transport in Doha?",
+      "a": "The Metro and official buses are normally very safe and reliable. During current situation, continue using if needed but stay alert for emergency announcements."
+    }
+  ],
+  "relatedCities": [
+    "dubai",
+    "abu-dhabi",
+    "kuwait-city",
+    "riyadh",
+    "muscat"
+  ],
+  "_city_id": "doha-qatar"
+}
