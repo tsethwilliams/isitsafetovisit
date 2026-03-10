@@ -1,0 +1,165 @@
+{
+  "slug": "liverpool",
+  "name": "Liverpool",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.2,
+    "scamRisk": 6.0,
+    "womensSafety": 6.8,
+    "nightSafety": 6.1,
+    "transport": 7.5,
+    "naturalHazards": 8.8
+  },
+  "summary": "Liverpool is a vibrant cultural city with moderate safety concerns, particularly regarding petty crime and nightlife areas. While violent crime against tourists is relatively rare, the city has a crime rate 46% higher than the UK average at 133 crimes per 1,000 residents.",
+  "quickVerdict": "Liverpool offers an exciting urban experience but requires standard city precautions. The city center and tourist areas are generally well-policed and safe during the day, though petty crime like pickpocketing occurs in crowded areas. Nightlife districts can become rowdy, and certain neighborhoods should be avoided after dark. Transport is excellent and safe, while natural disaster risks are minimal. Solo female travelers can visit confidently with proper awareness.",
+  "neighborhoods": [
+    {
+      "name": "City Centre & Albert Dock",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Well-patrolled tourist areas with CCTV coverage and regular police presence. Generally safe during day and evening hours, though watch for pickpockets in crowded shopping areas like Liverpool ONE."
+    },
+    {
+      "name": "Baltic Triangle",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy creative district with excellent nightlife and dining. Well-lit streets and busy atmosphere make it relatively safe, though standard urban caution advised late at night."
+    },
+    {
+      "name": "Cavern Quarter",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic music district around Matthew Street can get very crowded and rowdy, especially during weekends. Higher risk of drink-related incidents and overpriced tourist traps."
+    },
+    {
+      "name": "Concert Square",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Major nightlife hub with numerous bars and clubs. Can attract anti-social behavior and has higher incidents of alcohol-related crime, especially late at night."
+    },
+    {
+      "name": "Kensington",
+      "score": 4.2,
+      "class": "danger",
+      "description": "One of Liverpool's highest crime areas with significant issues including gang activity, drug-related offenses, and violent crime. Best avoided, particularly after dark."
+    },
+    {
+      "name": "Toxteth",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area with elevated crime rates including violence and anti-social behavior, though some parts are undergoing regeneration. Exercise extreme caution, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Football Ticket Fraud",
+      "risk": "high",
+      "description": "Fraudsters around Anfield sell fake Liverpool FC tickets or the same ticket to multiple buyers, especially targeting tourists unfamiliar with official channels.",
+      "howToAvoid": "Only buy tickets from official Liverpool FC website, authorized resellers, or box office. Avoid street touts and suspicious online sellers offering below-market prices."
+    },
+    {
+      "name": "Charity Collection Scams",
+      "risk": "medium",
+      "description": "People posing as charity collectors approach tourists with fake identification and emotional stories to solicit donations, particularly around transport hubs.",
+      "howToAvoid": "Only donate to registered charities with proper identification. Be wary of high-pressure tactics and always verify legitimacy before giving money."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Teams of thieves work together where one creates a distraction while another steals valuables, common in busy areas like shopping centers and transport hubs.",
+      "howToAvoid": "Keep valuables in front pockets or secure bags. Be suspicious of unexpected interactions, arguments, or people who seem overly helpful or friendly."
+    },
+    {
+      "name": "Overpriced Taxi Scams",
+      "risk": "medium",
+      "description": "Some unlicensed taxi drivers or even licensed ones may overcharge tourists by taking longer routes or claiming the meter is broken.",
+      "howToAvoid": "Use official black cabs, reputable companies like ComCab, or ride-sharing apps like Uber. Agree on fare beforehand for non-metered rides and know approximate journey costs."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Liverpool is generally considered safe for solo female travelers, with most areas being secure during daytime and evening hours. The city center is well-lit and busy, with good police presence and CCTV coverage. However, standard urban precautions are essential, particularly in nightlife areas and when using public transport late at night. Most locals are friendly and helpful, and harassment is not a major concern compared to other UK cities.",
+    "tips": [
+      "Stick to well-lit main roads and busy areas, especially after dark",
+      "Use reputable accommodation in safe neighborhoods like the city center or Baltic Triangle",
+      "Keep valuables secure and be extra vigilant in crowded tourist areas and transport hubs",
+      "Avoid walking alone in quieter areas late at night, use taxis or rideshare services instead",
+      "Trust your instincts and don't hesitate to ask for help from police or locals if needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Liverpool's nightlife is vibrant but requires caution, particularly in entertainment districts like Concert Square and Cavern Quarter where alcohol-related incidents are more common. The city center remains relatively safe with good lighting and CCTV, but some residential areas and neighborhoods with higher crime rates should be avoided after dark. Public transport runs late and is generally safe, though busy periods can see increased anti-social behavior.",
+    "tips": [
+      "Stay in groups when possible and avoid wandering alone late at night",
+      "Be extra cautious in nightlife areas like Concert Square where incidents are more frequent",
+      "Use licensed taxis, rideshare apps, or late-night public transport rather than walking",
+      "Avoid quiet residential areas, parks, and industrial zones after dark",
+      "Keep emergency numbers saved and let someone know your plans and expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "The Merseyrail network serves Liverpool with underground stations in the city center connecting to 68 stations regionwide. Generally safe and reliable with regular services, though can get busy during peak times and match days. CCTV coverage and British Transport Police presence help maintain security.",
+    "rideshare": "Uber operates throughout Liverpool and is considered safe and reliable. Other rideshare options like Ola are also available. Apps provide driver tracking, trip sharing features, and cashless payments for added security. Generally preferred over street-hailed cabs for tourists.",
+    "taxis": "ComCab is Liverpool's largest taxi company with a fleet of wheelchair-accessible vehicles and good reputation. Black cabs can be hailed anywhere while private hire must be pre-booked. Licensed taxis are regulated and generally safe, though agree on fares for longer journeys.",
+    "tips": "Public transport is excellent value at £2 per adult single journey and operates comprehensive bus, train, and ferry networks. The Merseyrail system is particularly efficient for getting around the city and suburbs safely."
+  },
+  "customs": [
+    "Queuing is sacred in British culture - always join the back of the line and wait patiently, never cut in front",
+    "Say 'please', 'thank you', and 'sorry' frequently - politeness is highly valued and expected in all interactions",
+    "Maintain respectful personal space and avoid overly familiar behavior with strangers or new acquaintances",
+    "Punctuality is important - arrive on time for appointments and social gatherings, being fashionably late is not appreciated",
+    "Tipping is customary at 10-15% in restaurants if service charge isn't included, and small tips for taxis and pub table service"
+  ],
+  "health": {
+    "overview": "The UK has excellent healthcare standards with the NHS providing emergency treatment to all visitors regardless of insurance status. Liverpool has modern hospitals and medical facilities with well-trained staff. Air quality is generally good, though some urban pollution exists.",
+    "water": "Tap water is completely safe to drink throughout Liverpool and the UK, meeting high quality standards. No need to buy bottled water for health reasons.",
+    "vaccinations": "No special vaccinations required for the UK. Routine vaccines like measles-mumps-rubella should be up to date. EU visitors should bring EHIC cards for emergency treatment coverage.",
+    "altitude": "Liverpool is at sea level with a temperate maritime climate. Weather can be unpredictable with frequent rain, so pack layers and waterproof clothing. No altitude or climate-related health concerns."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General London: +44 20 7499-9000. Located in London but covers Liverpool area. For emergencies involving US citizens, contact +44 20 7499-9000 or after hours +1 202-501-4444."
+  },
+  "faq": [
+    {
+      "q": "Is Liverpool safe for tourists?",
+      "a": "Liverpool is moderately safe for tourists with standard urban precautions needed. The city center and main tourist areas are well-policed and generally secure during day and evening hours, though petty crime like pickpocketing can occur in crowded areas."
+    },
+    {
+      "q": "Is Liverpool safe at night?",
+      "a": "Liverpool city center is reasonably safe at night with good lighting and police presence, but nightlife areas like Concert Square can be rowdy with increased alcohol-related incidents. Avoid certain neighborhoods like Kensington and Toxteth after dark."
+    },
+    {
+      "q": "Is Liverpool safe for solo female travelers?",
+      "a": "Yes, Liverpool is generally safe for solo female travelers who take standard precautions. The city center is well-lit and busy, locals are typically helpful, and harassment is not a major concern. Stay alert in crowded areas and use common sense at night."
+    },
+    {
+      "q": "What areas should I avoid in Liverpool?",
+      "a": "Avoid Kensington, Toxteth, Kirkdale, and parts of Anfield, especially at night, due to higher crime rates. Be cautious in nightlife areas like Concert Square late at night, and avoid quiet residential areas and parks after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Liverpool?",
+      "a": "Yes, Liverpool's public transport is generally safe and reliable. The Merseyrail network, buses, and ferries are well-maintained with CCTV and regular police presence. Services run late into the night, making it a safer option than walking in some areas."
+    }
+  ],
+  "relatedCities": [
+    "manchester",
+    "birmingham",
+    "leeds",
+    "glasgow",
+    "dublin"
+  ],
+  "_city_id": "liverpool-united-kingdom"
+}

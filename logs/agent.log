@@ -527,3 +527,39 @@
 2026-03-10 14:35:46,551 [WARNING]   [low] amsterdam_netherlands: Anti-Iran regime protests March 7 along city canals with Israeli, American and pre-revolution Iran flags. Peaceful demonstration calling for Iranian embassy closure.
 2026-03-10 14:35:46,553 [WARNING]   [low] london_united_kingdom: 5,000-6,000 person 'Hands Off Iran' anti-war march on March 7. Some counter-demonstrations in support of Iranian government. Protests remained peaceful.
 2026-03-10 14:35:46,554 [WARNING]   [low] berlin_germany: Pro-Pahlavi demonstrations March 7 supporting exiled Iranian crown prince. Part of Europe-wide protests amid Iran conflict.
+2026-03-10 18:08:35,846 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-10 18:08:35,887 [INFO] Queue has 287 cities, adding 8
+2026-03-10 18:08:35,887 [INFO] Generating new city profile: San Juan, Puerto Rico
+2026-03-10 18:10:21,251 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:10:21,319 [INFO] Saved city data: san-juan-puerto-rico
+2026-03-10 18:10:21,320 [INFO] Generating new city profile: Nassau, Bahamas
+2026-03-10 18:12:19,430 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:12:19,448 [INFO] Saved city data: nassau-bahamas
+2026-03-10 18:12:19,449 [INFO] Generating new city profile: Kingston, Jamaica
+2026-03-10 18:13:55,967 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:13:56,000 [INFO] Saved city data: kingston-jamaica
+2026-03-10 18:13:56,001 [INFO] Generating new city profile: Havana, Cuba
+2026-03-10 18:15:29,910 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:15:29,942 [INFO] Saved city data: havana-cuba
+2026-03-10 18:15:29,943 [INFO] Generating new city profile: Punta Cana, Dominican Republic
+2026-03-10 18:17:12,114 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:17:12,156 [INFO] Saved city data: punta-cana-dominican-republic
+2026-03-10 18:17:12,157 [INFO] Generating new city profile: London, United Kingdom
+2026-03-10 18:18:49,343 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:18:49,370 [INFO] Saved city data: london-united-kingdom
+2026-03-10 18:18:49,371 [INFO] Generating new city profile: Glasgow, United Kingdom
+2026-03-10 18:20:23,075 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:20:23,114 [INFO] Saved city data: glasgow-united-kingdom
+2026-03-10 18:20:23,115 [INFO] Generating new city profile: Liverpool, United Kingdom
+2026-03-10 18:21:51,640 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 18:21:51,670 [INFO] Saved city data: liverpool-united-kingdom
+2026-03-10 18:21:51,678 [INFO] City already exists in site data, skipping: san-juan
+2026-03-10 18:21:51,678 [INFO] Merged into site data: Nassau
+2026-03-10 18:21:51,678 [INFO] Merged into site data: Kingston
+2026-03-10 18:21:51,678 [INFO] City already exists in site data, skipping: havana
+2026-03-10 18:21:51,678 [INFO] Merged into site data: Punta Cana
+2026-03-10 18:21:51,678 [INFO] Merged into site data: London
+2026-03-10 18:21:51,678 [INFO] Merged into site data: Glasgow
+2026-03-10 18:21:51,678 [INFO] Merged into site data: Liverpool
+2026-03-10 18:21:51,697 [INFO] Merged 6 new cities into src/lib/city-data.json
+2026-03-10 18:21:51,697 [INFO] Updated sitemap with 8 new URLs

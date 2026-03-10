@@ -1,0 +1,165 @@
+{
+  "slug": "nassau",
+  "name": "Nassau",
+  "country": "Bahamas",
+  "countryCode": "BS",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 9.2
+  },
+  "summary": "Nassau, the capital of the Bahamas, presents a mixed safety picture for tourists. While most visitors enjoy trouble-free vacations, the US State Department maintains a Level 2 advisory urging increased caution due to crime, particularly in certain areas outside tourist zones.",
+  "quickVerdict": "Nassau is moderately safe for tourists who stay in well-established tourist areas and take sensible precautions. Crime has actually decreased significantly in 2025, with murders dropping 31% and overall crime falling 15%. The main tourist areas like Cable Beach, Paradise Island, and downtown Nassau are generally safe during daylight hours. However, visitors should avoid the Over the Hill area south of Shirley Street, avoid walking alone at night, and be cautious of common scams targeting cruise passengers and tourists.",
+  "neighborhoods": [
+    {
+      "name": "Paradise Island",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Home to Atlantis resort and considered one of the safest areas for tourists. Well-patrolled with good security and numerous amenities within walking distance."
+    },
+    {
+      "name": "Cable Beach",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular resort area with good security, numerous hotels, restaurants, and attractions. Generally safe for tourists during day and evening hours."
+    },
+    {
+      "name": "Downtown Nassau/Bay Street",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Main tourist shopping district near the cruise port. Safe during daylight hours when cruise ships are in port, but becomes quieter and riskier after 5pm."
+    },
+    {
+      "name": "Lyford Cay",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Exclusive gated residential area with high security. Very safe but limited tourist amenities and access."
+    },
+    {
+      "name": "Over the Hill",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Area south of Shirley Street with high crime rates and gang activity. US State Department specifically warns tourists to avoid this area due to safety concerns."
+    },
+    {
+      "name": "The Sand Trap",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Known for violent crime and gang activity. Should be completely avoided by tourists as it poses significant safety risks."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Beauty Shop Facial Scam",
+      "risk": "high",
+      "description": "Tourists, especially cruise passengers, are offered free facials that result in high-pressure sales tactics for expensive beauty products worth thousands of dollars. Some victims report being drugged or held against their will.",
+      "howToAvoid": "Decline offers for free facials or beauty treatments from shops near cruise terminals. Research any spa or beauty service beforehand and avoid establishments that seem too eager to get you inside."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "medium",
+      "description": "Most taxis don't use meters and some drivers quote inflated fares or claim their meter is broken. Some take longer routes to increase costs.",
+      "howToAvoid": "Agree on the fare before getting in the taxi. Ask your hotel for estimated fare costs beforehand. Use officially marked taxis with TN license plates and consider using hotel shuttles when available."
+    },
+    {
+      "name": "Jet Ski Rental Fraud",
+      "risk": "medium",
+      "description": "Unregulated jet ski operators may overcharge, provide unsafe equipment, or claim you damaged the jet ski to extract additional money. Some operators have been linked to sexual assaults.",
+      "howToAvoid": "Only rent from reputable operators recommended by your hotel or the tourist board. Verify safety equipment and insurance coverage. Take photos of the jet ski before use and never rent from beach vendors."
+    },
+    {
+      "name": "Straw Market Price Inflation",
+      "risk": "low",
+      "description": "Vendors at Nassau's Straw Market often double their prices for tourists fresh off cruise ships, especially targeting obvious visitors.",
+      "howToAvoid": "Start negotiations at half the asking price. Shop around and compare prices. Don't be afraid to walk away - vendors will often call you back with better offers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nassau receives moderate safety ratings for solo female travelers. Many women visit safely, but extra precautions are recommended, especially regarding nighttime activities and avoiding isolated areas. The tourist areas are generally safe during the day, but women should be cautious of catcalling and avoid walking alone after dark.",
+    "tips": [
+      "Stay in well-established tourist areas like Cable Beach or Paradise Island",
+      "Avoid walking alone at night and use reputable taxis instead",
+      "Be aware that catcalling is prevalent, but most interactions remain harmless",
+      "Inform your hotel of your whereabouts and expected return times",
+      "Book excursions with established companies rather than accepting offers from strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nassau's safety decreases significantly after dark, particularly outside tourist areas. Downtown Nassau becomes quiet and potentially dangerous after 5pm when cruise ships depart. Tourist areas like Cable Beach remain relatively safe in the evening, but caution is still advised.",
+    "tips": [
+      "Avoid downtown Nassau after 5pm when it becomes deserted",
+      "Stay in well-lit, populated areas near hotels and resorts",
+      "Use taxis for transportation at night rather than walking",
+      "Travel in groups when possible and avoid isolated beaches or streets",
+      "Be extra vigilant in the Over the Hill area, which should be avoided entirely"
+    ]
+  },
+  "transport": {
+    "metro": "Nassau has no metro system. Public transportation consists mainly of jitneys (mini-buses) that operate during daylight hours for $1.25 per ride and provide an authentic local experience.",
+    "rideshare": "Traditional rideshare services like Uber are not widely available. Some local apps exist but taxi services remain the primary option for visitors.",
+    "taxis": "Taxis are widely available but most don't use meters. Always agree on the fare before departure. Look for official taxis with TN license plates on yellow backgrounds for safety.",
+    "tips": "Jitneys stop running around 6pm, so plan accordingly. For night transportation, use hotel shuttles when available or pre-arranged taxis. Always negotiate taxi fares upfront to avoid disputes."
+  },
+  "customs": [
+    "Greet people with a warm handshake, eye contact, and a friendly Good morning or Good afternoon",
+    "Tipping is customary - 15-20% in restaurants, 10-15% for taxi drivers, and $1-3 per day for housekeeping",
+    "Dress modestly when away from beaches - cover shoulders and knees in towns, restaurants, and religious sites",
+    "Bahamians appreciate politeness and using please, thank you, and addressing elders as sir or ma'am",
+    "Avoid pointing with your finger and respect the relaxed island time pace of life"
+  ],
+  "health": {
+    "overview": "Nassau has reasonable healthcare facilities with two main hospitals - Princess Margaret Hospital (public) and Doctors Hospital (private). Medical care is adequate for most needs, but serious conditions may require evacuation to Miami.",
+    "water": "Tap water in Nassau is generally safe to drink as it meets WHO standards, though some visitors prefer bottled water to avoid potential stomach issues.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider hepatitis A and typhoid if traveling extensively outside resort areas.",
+    "altitude": "Nassau is at sea level with a tropical climate. The main health concerns are sun exposure, dehydration, and heat exhaustion rather than altitude issues."
+  },
+  "emergency": {
+    "general": "919 or 911",
+    "police": "919 or (242) 322-4444",
+    "ambulance": "919 or (242) 322-2861",
+    "fire": "919",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Nassau: (242) 322-1181, located at 42 Queen Street. Emergency assistance: (242) 461-5025 option 1"
+  },
+  "faq": [
+    {
+      "q": "Is Nassau safe for tourists?",
+      "a": "Nassau is generally safe for tourists who stay in established tourist areas and take basic precautions. Crime has decreased significantly in 2025, and millions of visitors enjoy trouble-free vacations annually. However, visitors should avoid certain areas like Over the Hill and be cautious at night."
+    },
+    {
+      "q": "Is Nassau safe at night?",
+      "a": "Nassau's safety decreases after dark, especially outside tourist areas. Downtown becomes deserted after cruise ships leave around 5pm. Tourist areas like Cable Beach and Paradise Island remain relatively safe in the evening, but using taxis and staying in well-lit areas is recommended."
+    },
+    {
+      "q": "Is Nassau safe for solo female travelers?",
+      "a": "Many solo female travelers visit Nassau safely, though extra caution is advised. Stay in tourist areas, avoid walking alone at night, and be prepared for catcalling. Book accommodations in reputable areas like Cable Beach or Paradise Island and inform staff of your plans."
+    },
+    {
+      "q": "What areas should I avoid in Nassau?",
+      "a": "Avoid the Over the Hill area south of Shirley Street, The Sand Trap area, and Arawak Cay (Fish Fry) at night. Also be cautious in Pinewood Gardens. Downtown Nassau should be avoided after 5pm when it becomes deserted."
+    },
+    {
+      "q": "Is it safe to use public transport in Nassau?",
+      "a": "Public jitneys are generally safe during daylight hours but can be crowded and don't run after 6pm. Taxis are widely available but negotiate fares upfront. Avoid unlicensed transportation and stick to official taxis with proper markings for safety."
+    }
+  ],
+  "relatedCities": [
+    "kingston",
+    "havana",
+    "santo-domingo",
+    "port-au-prince",
+    "bridgetown"
+  ],
+  "_city_id": "nassau-bahamas"
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "glasgow",
+  "name": "Glasgow",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.8,
+    "violentCrime": 6.2,
+    "scamRisk": 6.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.0,
+    "transport": 7.8,
+    "naturalHazards": 8.1
+  },
+  "summary": "Glasgow has transformed significantly from its notorious past, though it maintains Scotland's highest crime rate at 829 per 10,000 people. While the city center and tourist areas are generally safe with regular police patrols, certain neighborhoods require extra caution, especially at night.",
+  "quickVerdict": "Glasgow offers a vibrant cultural experience and is relatively safe for tourists who exercise reasonable precautions. The city has made remarkable progress reducing violent crime, with homicides down 66% over the past five years. Tourist areas like the West End, Merchant City, and city center are well-policed and safe during daylight hours. However, visitors should be aware that Glasgow has a higher crime rate than the Scottish average, particularly for drug-related offenses and antisocial behavior. Night safety requires more caution, especially avoiding certain areas and using licensed transport.",
+  "neighborhoods": [
+    {
+      "name": "West End",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Home to University of Glasgow, this bohemian area features trendy bars, cafes, and Kelvingrove Park. High student population and good police presence make it one of Glasgow's safest areas day and night."
+    },
+    {
+      "name": "Merchant City",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Glasgow's cultural quarter with upscale restaurants, galleries, and converted heritage buildings. Well-lit streets and regular foot traffic create a secure environment for visitors."
+    },
+    {
+      "name": "City Centre",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Tourist hub around George Square with heavy police presence. Generally safe during day but can become rowdy at night, particularly around Central Station and Hope Street."
+    },
+    {
+      "name": "Finnieston",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy docklands area with award-winning restaurants and bars. Popular with young professionals and generally safe, though some industrial areas should be avoided after dark."
+    },
+    {
+      "name": "Govanhill",
+      "score": 4.2,
+      "class": "danger",
+      "description": "High crime rates including drug dealing and antisocial behavior. Students and locals recommend avoiding this area, particularly at night. Limited tourist attractions make visits unnecessary."
+    },
+    {
+      "name": "Possilpark",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Struggles with gang-related violence and drug crimes. One of Glasgow's most dangerous areas with little of interest to tourists. Best avoided entirely, especially during evening hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Ticket Sales",
+      "risk": "high",
+      "description": "Fraudsters sell fake tickets for concerts, football matches, and festivals via social media. Particularly targets students and young adults with prices too good to be true.",
+      "howToAvoid": "Only buy tickets from official vendors, authorized resellers, or verified platforms. Be suspicious of heavily discounted prices and avoid purchasing from social media posts."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams of pickpockets create distractions by blocking exits, staging arguments, or offering help while accomplices steal valuables. Common on public transport and crowded areas.",
+      "howToAvoid": "Keep valuables in front pockets or secure bags. Be wary of unsolicited help or unusual disruptions. Stay alert in crowds and on public transport."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Devices attached to ATMs capture card details while hidden cameras record PIN entries. Fraudsters then create duplicate cards for unauthorized withdrawals.",
+      "howToAvoid": "Use ATMs inside banks when possible. Check for unusual attachments or loose parts before inserting your card. Cover your PIN when entering it."
+    },
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "low",
+      "description": "Individuals pose as charity workers or homeless people with fake signs and props to solicit donations. Often operate near legitimate charity locations to appear credible.",
+      "howToAvoid": "Only donate to registered charities with official identification. Research organizations online before giving. Be polite but firm in declining unsolicited requests."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Glasgow is generally safe for solo female travelers with standard precautions. The city ranks 9th safest in the UK for solo women, with most reporting feeling secure 90% of the time. Areas like the West End and Merchant City are particularly welcoming, though recent concerns about anti-immigration sentiment may affect those who appear different.",
+    "tips": [
+      "Stick to well-lit, populated areas especially after dark and avoid Springburn, Possil, and Govanhill neighborhoods",
+      "Use licensed taxis or ride-sharing apps rather than walking alone late at night, particularly after 10 PM",
+      "Stay alert in pubs and bars - don't accept drinks from strangers and watch your drink at all times to prevent spiking",
+      "Trust your instincts and if something feels uncomfortable, remove yourself from the situation immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Glasgow's nightlife is vibrant but requires increased caution. The city center becomes significantly more dangerous after 10 PM, with most crimes occurring between 10 PM and 3 AM. Areas around Central Station and Sauchiehall Street see increased antisocial behavior from drunk visitors, though heavy police presence helps maintain order.",
+    "tips": [
+      "Travel in groups when possible and pre-arrange meeting points if separated from friends",
+      "Avoid walking alone through parks, empty streets, or poorly lit areas after dark",
+      "Use official taxi ranks or licensed ride-sharing services rather than public transport after midnight",
+      "Stay in busy nightlife areas like the West End or Merchant City rather than venturing into residential areas"
+    ]
+  },
+  "transport": {
+    "metro": "Glasgow Subway (Clockwork Orange) operates until 11:40 PM Monday-Saturday and 6 PM Sunday. Generally safe but can be crowded during rush hours. New driverless trains expected in late 2026. Some motion sickness complaints about newer carriages.",
+    "rideshare": "Uber and local ride-sharing apps widely available and considered safe. More expensive than public transport but recommended for late-night travel. Book through official apps rather than street hailing.",
+    "taxis": "Licensed Glasgow Taxis with yellow lights are safe and reliable. Available 24/7 with taxi ranks near major venues. Airport Express Bus 500 provides safe, regular service to city center. Avoid unlicensed private hire vehicles.",
+    "tips": "Public transport generally safe but avoid empty carriages late at night. Subway stops around midnight on weekends. Licensed taxis are your safest bet for late-night transport, though more expensive than public options."
+  },
+  "customs": [
+    "Queuing is sacred - always wait in line and never jump ahead, as this is considered extremely rude",
+    "Say please, thank you, and sorry frequently - politeness is highly valued and Brits often apologize even when not at fault",
+    "Pub etiquette includes buying rounds for your group and taking turns, which helps build social connections with locals"
+  ],
+  "health": {
+    "overview": "Glasgow has excellent healthcare through the NHS, though tourists pay 150% of standard rates unless they have travel insurance or qualify for free treatment. Private medical care is available primarily in the city center.",
+    "water": "Tap water is completely safe to drink and meets strict UK quality standards. Glasgow's water supply is considered among the best in Scotland.",
+    "vaccinations": "No special vaccinations required. Ensure routine vaccinations (MMR, DPT, flu) are up to date. Measles cases rising globally so MMR vaccination recommended.",
+    "altitude": "Glasgow is at sea level with a temperate climate. No altitude concerns. Weather is mild but unpredictable - bring layers and waterproof clothing year-round."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999 or 112",
+    "fire": "999 or 112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Edinburgh: +44 131 556 8315. Located in Edinburgh, approximately 1 hour from Glasgow by train. Provides consular services for US citizens in Scotland."
+  },
+  "faq": [
+    {
+      "q": "Is Glasgow safe for tourists?",
+      "a": "Yes, Glasgow is generally safe for tourists who take standard precautions. The city center and tourist areas are well-policed, though Glasgow has higher crime rates than other Scottish cities. Stay aware of your surroundings and avoid certain neighborhoods at night."
+    },
+    {
+      "q": "Is Glasgow safe at night?",
+      "a": "Glasgow requires extra caution at night, especially after 10 PM when most crimes occur. Stick to busy, well-lit areas like the West End or Merchant City, travel in groups, and use licensed taxis rather than walking alone. Avoid areas around Central Station late at night."
+    },
+    {
+      "q": "Is Glasgow safe for solo female travelers?",
+      "a": "Glasgow ranks as the 9th safest UK city for solo female travelers. Most women report feeling safe 90% of the time, particularly in areas like the West End and city center during daylight. Use standard precautions like avoiding isolated areas at night and watching drinks in bars."
+    },
+    {
+      "q": "What areas should I avoid in Glasgow?",
+      "a": "Avoid Possilpark, Govanhill, Easterhouse, Castlemilk, and Drumchapel, especially at night. In the city center, be cautious around Central Station and some parts of Sauchiehall Street after 10 PM. These areas have higher crime rates and limited tourist attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Glasgow?",
+      "a": "Yes, Glasgow's public transport is generally safe. The Subway runs until 11:40 PM most days and buses operate extensive routes. Avoid empty carriages late at night and stay alert for pickpockets during rush hour. Licensed taxis are the safest option for late-night travel."
+    }
+  ],
+  "relatedCities": [
+    "edinburgh",
+    "liverpool",
+    "manchester"
+  ],
+  "_city_id": "glasgow-united-kingdom"
+}

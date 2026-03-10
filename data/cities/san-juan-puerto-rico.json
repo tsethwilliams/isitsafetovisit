@@ -1,0 +1,163 @@
+{
+  "slug": "san-juan",
+  "name": "San Juan",
+  "country": "Puerto Rico",
+  "countryCode": "PR",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 6.5,
+    "scamRisk": 6.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 6.4
+  },
+  "summary": "San Juan is generally safe for tourists, with most violent crime concentrated in specific neighborhoods away from tourist areas. The city offers familiar US infrastructure and services, though visitors should exercise standard urban precautions. Main risks include petty theft, occasional natural disasters, and specific neighborhoods to avoid.",
+  "quickVerdict": "San Juan remains one of the safer Caribbean destinations for tourists, particularly in main areas like Old San Juan, Condado, and Ocean Park. While crime rates exist, violent crime rarely affects visitors and is mostly gang or drug-related in specific neighborhoods. The city benefits from US territory status, meaning familiar emergency services, currency, and healthcare standards. Tourist areas are well-patrolled and most travelers have trouble-free experiences when following basic safety precautions.",
+  "neighborhoods": [
+    {
+      "name": "Old San Juan",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic colonial district with cobblestone streets, forts, and colorful buildings. Well-patrolled by tourist police and generally very safe for visitors day and night. Heavy tourist presence provides natural security."
+    },
+    {
+      "name": "Condado",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale beachfront hotel district with modern amenities, restaurants, and shopping. Popular with tourists and locals alike. Well-maintained infrastructure and good police presence."
+    },
+    {
+      "name": "Ocean Park",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy beach neighborhood popular with young professionals and tourists. Generally safe with good walkability, though exercise caution at night in quieter residential areas."
+    },
+    {
+      "name": "Isla Verde",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Beach area near the airport with resort hotels and tourist facilities. Safe main strip with good lighting and security, though avoid venturing into surrounding residential areas at night."
+    },
+    {
+      "name": "Santurce",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Arts district with nightlife including La Placita. Generally safe in main areas during day, but exercise increased caution at night. Some surrounding areas less safe after dark."
+    },
+    {
+      "name": "La Perla",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Historic shantytown adjacent to Old San Juan made famous by Despacito video. Despite its photogenic appearance, locals strongly advise tourists to avoid this area entirely, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Drivers taking longer routes, not using meters, or claiming no change for large bills. Some may quote inflated flat rates.",
+      "howToAvoid": "Always ask for the meter to be turned on. Use Uber when possible. Know approximate distances and costs beforehand."
+    },
+    {
+      "name": "Beach Theft",
+      "risk": "high",
+      "description": "Valuables stolen from unattended bags while swimming or sunbathing. Rental cars targeted for visible items left inside.",
+      "howToAvoid": "Never leave valuables unattended on beach. Use waterproof pouches. Park in paid lots and keep nothing visible in rental cars."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unofficial guides approaching tourists on street, often leading to overpriced shops where they receive commissions without disclosure.",
+      "howToAvoid": "Book tours through reputable companies or official tourist information centers. Politely decline unsolicited offers from street touts."
+    },
+    {
+      "name": "Timeshare Pressure",
+      "risk": "medium",
+      "description": "Aggressive sales tactics offering free gifts, tours, or prizes in exchange for attending high-pressure timeshare presentations.",
+      "howToAvoid": "Avoid accepting free offers from street promoters. If it sounds too good to be true, it probably is. Simply say no thank you and walk away."
+    }
+  ],
+  "soloFemale": {
+    "overview": "San Juan is generally safe for solo female travelers, especially in tourist-friendly areas like Old San Juan, Condado, and Ocean Park. Many women visit safely every day, and locals are typically welcoming and helpful. However, standard precautions apply, particularly regarding nightlife and transportation.",
+    "tips": [
+      "Stay in well-lit, busy tourist areas and avoid empty streets at night",
+      "Use rideshare apps like Uber rather than walking alone after dark",
+      "Don't drink excessively and never leave drinks unattended",
+      "Share your location with family/friends and avoid posting real-time social media updates",
+      "Trust your instincts - if something feels off, leave the situation immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Juan's nightlife can be enjoyed safely with proper precautions. Tourist areas like Old San Juan have vibrant, generally safe nightlife scenes. However, incidents can occur in nightlife districts, so staying aware and in groups is recommended.",
+    "tips": [
+      "Stick to main tourist areas with good lighting and crowds",
+      "Travel in groups when possible, especially when bar hopping",
+      "Use official taxis or Uber instead of walking long distances at night",
+      "Avoid displaying expensive jewelry, electronics, or large amounts of cash",
+      "Stay out of known high-risk neighborhoods like La Perla after dark"
+    ]
+  },
+  "transport": {
+    "metro": "The Tren Urbano light rail system connects parts of San Juan metro area with limited routes. Generally safe but has irregular schedules and limited coverage. Not ideal for tourists with tight schedules.",
+    "rideshare": "Uber operates reliably in San Juan metro area with good availability and safety. Wait times usually under 10 minutes. Generally safe at night. Lyft launched in 2025. Both require cashless payment through apps.",
+    "taxis": "Licensed taxis available throughout tourist areas and at airport. More expensive than Uber but accept cash. Some operate on fixed rates from airport. Ensure meter is running or agree on fare beforehand.",
+    "tips": "For staying within San Juan, Uber and taxis work well. Rental car recommended for exploring beyond the metro area. Public buses exist but not tourist-friendly. Always confirm driver identity before entering any vehicle."
+  },
+  "customs": [
+    "Puerto Rico operates under US federal laws - no passport needed for US citizens",
+    "Spanish is primary language but English widely understood in tourist areas",
+    "Tipping customs similar to US mainland - 15-20% at restaurants",
+    "Beach culture is relaxed but avoid topless sunbathing outside designated areas",
+    "Drinking in public spaces like Old San Juan streets is prohibited"
+  ],
+  "health": {
+    "overview": "Healthcare in Puerto Rico meets US standards with modern hospitals and clinics, especially in San Juan. Emergency services work the same as mainland US. Most US health insurance accepted. However, be aware of tropical disease risks.",
+    "water": "Tap water is safe to drink as it meets EPA standards, though some visitors prefer bottled water due to taste or older building plumbing concerns.",
+    "vaccinations": "Standard US vaccinations recommended. Consider hepatitis A/B if traveling beyond tourist areas. No special requirements for US citizens.",
+    "altitude": "San Juan is at sea level. Climate is tropical with high humidity year-round. Hurricane season June-November. Mosquito-borne illnesses like dengue and Zika possible - use DEET repellent."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 787-343-2020",
+    "ambulance": "911",
+    "fire": "911 or 787-722-1120",
+    "touristPolice": "Available in tourist areas",
+    "usEmbassy": "US citizens: 1-888-407-4747 or 1-202-501-4444 (from abroad). Puerto Rico is US territory so no embassy needed for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is San Juan safe for tourists?",
+      "a": "Yes, San Juan is generally safe for tourists, especially in main tourist areas like Old San Juan, Condado, and Ocean Park. Violent crime rarely affects visitors, though petty theft can occur. Use standard urban precautions and avoid known unsafe neighborhoods."
+    },
+    {
+      "q": "Is San Juan safe at night?",
+      "a": "San Juan can be safe at night in tourist areas with good lighting and crowds. Old San Juan has vibrant, relatively safe nightlife. However, avoid empty streets, travel in groups, and use Uber or taxis instead of walking long distances after dark."
+    },
+    {
+      "q": "Is San Juan safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit San Juan safely. Stay in tourist-friendly areas, use rideshare apps at night, don't drink excessively, and trust your instincts. The tourist areas are generally welcoming with helpful locals."
+    },
+    {
+      "q": "What areas should I avoid in San Juan?",
+      "a": "Avoid La Perla neighborhood entirely, despite its fame from music videos. Also exercise caution in housing projects (caserios) and areas like Cantera, Barrio Obrero, and Las Gladiolas. Stick to well-known tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in San Juan?",
+      "a": "Public transport is generally safe but limited. The Tren Urbano metro has irregular schedules and limited routes. Buses exist but aren't tourist-friendly. Uber and taxis are safer, more reliable options for visitors."
+    }
+  ],
+  "relatedCities": [
+    "havana",
+    "santo-domingo",
+    "nassau"
+  ],
+  "_city_id": "san-juan-puerto-rico"
+}

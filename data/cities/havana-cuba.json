@@ -1,0 +1,165 @@
+{
+  "slug": "havana",
+  "name": "Havana",
+  "country": "Cuba",
+  "countryCode": "CU",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.5,
+    "scamRisk": 4.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 6.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Havana is generally safe from violent crime but faces infrastructure challenges with frequent power outages and fuel shortages. The US State Department maintains a Level 2 travel advisory due to petty crime, unreliable electricity, and economic pressures affecting daily services.",
+  "quickVerdict": "Havana remains one of the safer large cities in Latin America for tourists, with violent crime against visitors being relatively rare. However, economic hardships have increased petty theft, scams, and infrastructure-related challenges including daily power outages and fuel shortages. While tourists receive protection from authorities, visitors should prepare for basic inconveniences and practice standard urban safety awareness.",
+  "neighborhoods": [
+    {
+      "name": "Old Havana (Habana Vieja)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic heart of Havana is well-patrolled with high police visibility. Tourist-dense areas around main plazas like Plaza Vieja and Plaza de la Catedral are monitored throughout the day, though more aggressive hustling occurs here."
+    },
+    {
+      "name": "Vedado",
+      "score": 7.2,
+      "class": "safe",
+      "description": "A more upscale residential district with embassies, hotels, and cultural venues. Wide avenues like Avenida 23 and areas near Hotel Nacional are generally safe, especially during daylight hours. Less crowded than Old Havana."
+    },
+    {
+      "name": "Miramar",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The diplomatic and business district is considered the safest area for tourists and foreigners. Well-maintained with better infrastructure, though more expensive and requiring transport to reach main attractions."
+    },
+    {
+      "name": "Centro Habana",
+      "score": 5.5,
+      "class": "caution",
+      "description": "A densely populated residential area between Old Havana and Vedado. Can feel run-down with dilapidated buildings. Safe during the day but poorly lit areas should be avoided at night."
+    },
+    {
+      "name": "La Habana del Este",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Eastern residential districts including Playas del Este beaches. Generally safe but less tourist infrastructure. Transport can be challenging, especially during fuel shortages."
+    },
+    {
+      "name": "Cerro and Southern Districts",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Working-class neighborhoods with less tourist presence. Higher petty crime risk and poor lighting at night. Limited police presence compared to central areas. Best avoided by tourists."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Cigar Sales",
+      "risk": "high",
+      "description": "Locals approach with elaborate backstories about factory connections or government allowances, selling counterfeit cigars at high prices. Often involves friendly English-speaking hustlers.",
+      "howToAvoid": "Only buy cigars from authorized stores with official receipts. Ignore street vendors regardless of their story. Real Cuban cigars are expensive and properly documented."
+    },
+    {
+      "name": "Currency Exchange Cons",
+      "risk": "high",
+      "description": "Taxi drivers or vendors claim they only have local currency and no change for convertible pesos, forcing tourists to overpay for goods or services.",
+      "howToAvoid": "Use official banks or CADECAs for currency exchange. Insist on proper change or walk away. Carry small denominations and verify exchange rates beforehand."
+    },
+    {
+      "name": "Friendly Local Guide",
+      "risk": "medium",
+      "description": "Someone approaches claiming to remember you or offering help, then leads you to restaurants, bars, or shops where they receive commissions for overpriced services.",
+      "howToAvoid": "Be polite but firm in declining unsolicited help. If someone claims to know you, ask specific questions. Always negotiate prices upfront and avoid following strangers."
+    },
+    {
+      "name": "Closed Attraction Diversion",
+      "risk": "medium",
+      "description": "Locals warn that museums or attractions are closed and suggest alternative bars or restaurants where they earn commissions from tourist spending.",
+      "howToAvoid": "Always verify attraction hours yourself rather than trusting random advice. Check official websites or ask at your accommodation for accurate information."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Havana is considered one of the safer destinations in the Caribbean for solo female travelers, with violent crime against tourists being rare. However, catcalling and verbal harassment are common cultural norms that foreign women should be prepared for. The government prioritizes tourist safety with severe penalties for crimes against visitors.",
+    "tips": [
+      "Expect frequent verbal attention and catcalling - this is cultural norm, not necessarily threatening",
+      "Stay in safer neighborhoods like Vedado or Old Havana tourist areas rather than central residential districts",
+      "Use marked taxis at night rather than walking alone in poorly lit areas",
+      "Dress modestly to minimize unwanted attention, especially outside main tourist zones",
+      "Connect with other travelers at casa particulares or hostels for companionship and shared activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Havana's nightlife areas remain relatively active and safe, but infrastructure issues create additional challenges. Power outages are common and can leave streets poorly lit. Tourist areas maintain better security, but transportation becomes more limited at night due to fuel shortages.",
+    "tips": [
+      "Stick to well-lit tourist areas like Old Havana and Vedado for nighttime activities",
+      "Use official taxis or arrange transportation through your accommodation rather than walking",
+      "Carry a flashlight or phone light in case of power outages affecting street lighting",
+      "Stay aware of your surroundings as crowds can provide cover for pickpockets",
+      "Join group tours or activities rather than exploring alone after dark"
+    ]
+  },
+  "transport": {
+    "metro": "Havana does not have a metro system. Public buses are unreliable with unpredictable schedules and overcrowding. A hop-on-hop-off tourist bus costs about $10 daily and covers main city areas with better reliability.",
+    "rideshare": "US rideshare apps don't work in Cuba. Local services like Nimo exist but coverage is limited. Most transportation relies on traditional taxis or casa particular recommendations.",
+    "taxis": "Use only marked official taxis with meters when possible. Classic car tours are popular but negotiate prices upfront. Airport taxis are regulated and safer than unofficial drivers. Expect higher prices due to fuel shortages.",
+    "tips": "Book transportation through your accommodation when possible. Carry cash as cards don't work. Allow extra time due to fuel shortages affecting all transport. Consider staying centrally to walk to main attractions."
+  },
+  "customs": [
+    "Greet with handshakes for new acquaintances, cheek kisses among friends and family",
+    "Cubans are warm and social - expect friendly conversation and offers to share food or drinks",
+    "Respect for elders is deeply important - always show deference to older individuals",
+    "Sharing food and drinks is common practice - politely accept offers and reciprocate when possible",
+    "Dress neatly and avoid overly revealing clothing, especially in formal settings"
+  ],
+  "health": {
+    "overview": "Cuba has a strong healthcare system with well-trained doctors and universal coverage, though infrastructure challenges affect service delivery. The current energy crisis has impacted hospitals and medication availability.",
+    "water": "Tap water is not safe for drinking. Stick to bottled water and avoid ice unless certain of its source. Water shortages occur regularly, including in hotels and restaurants.",
+    "vaccinations": "No special vaccinations required for most travelers. Consider routine vaccines and dengue precautions. Malaria exists in rural lowland areas but not in Havana.",
+    "altitude": "Havana is at sea level. The tropical climate is hot and humid year-round. Hurricane season runs June to November with potential for severe weather and infrastructure disruption."
+  },
+  "emergency": {
+    "general": "106",
+    "police": "106",
+    "ambulance": "104",
+    "fire": "105",
+    "touristPolice": "Asistur Tourist Assistance",
+    "usEmbassy": "US Embassy Havana: Calzada between L & M Streets, Vedado. Phone: +53-7-839-4100. After hours emergencies: +53-7-839-4100, dial 1 then 0."
+  },
+  "faq": [
+    {
+      "q": "Is Havana safe for tourists?",
+      "a": "Yes, Havana is generally safe for tourists with violent crime being rare. However, expect petty crime, scams, and infrastructure challenges including power outages and fuel shortages that can affect daily services."
+    },
+    {
+      "q": "Is Havana safe at night?",
+      "a": "Tourist areas of Old Havana and Vedado remain relatively safe at night, but power outages can leave streets poorly lit. Use official taxis rather than walking alone and stick to main tourist corridors."
+    },
+    {
+      "q": "Is Havana safe for solo female travelers?",
+      "a": "Havana is considered one of the safer Caribbean destinations for solo women. Violent crime is rare, but expect frequent catcalling and verbal attention, which is cultural norm rather than threat."
+    },
+    {
+      "q": "What areas should I avoid in Havana?",
+      "a": "Avoid residential areas like Cerro and southern districts, especially at night. Some parts of Centro Habana can feel run-down. Stick to tourist areas in Old Havana, Vedado, and Miramar."
+    },
+    {
+      "q": "Is it safe to use public transport in Havana?",
+      "a": "Public buses are crowded and unreliable. Official marked taxis are safer options. The tourist hop-on-hop-off bus is reliable for main attractions. Avoid unofficial taxi services."
+    }
+  ],
+  "relatedCities": [
+    "kingston",
+    "san-juan",
+    "santo-domingo",
+    "nassau",
+    "belize-city"
+  ],
+  "_city_id": "havana-cuba"
+}

@@ -766,5 +766,53 @@
     "action": "alert",
     "city_id": "berlin_germany",
     "details": "{\"city_id\": \"berlin_germany\", \"alert_type\": \"political_unrest\", \"severity\": \"low\", \"summary\": \"Pro-Pahlavi demonstrations March 7 supporting exiled Iranian crown prince. Part of Europe-wide protests amid Iran conflict.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T18:10:21.319539+00:00",
+    "action": "add",
+    "city_id": "san-juan-puerto-rico",
+    "details": "New city added with score 6.6"
+  },
+  {
+    "timestamp": "2026-03-10T18:12:19.448781+00:00",
+    "action": "add",
+    "city_id": "nassau-bahamas",
+    "details": "New city added with score 6.4"
+  },
+  {
+    "timestamp": "2026-03-10T18:13:56.000453+00:00",
+    "action": "add",
+    "city_id": "kingston-jamaica",
+    "details": "New city added with score 5.1"
+  },
+  {
+    "timestamp": "2026-03-10T18:15:29.942823+00:00",
+    "action": "add",
+    "city_id": "havana-cuba",
+    "details": "New city added with score 6.2"
+  },
+  {
+    "timestamp": "2026-03-10T18:17:12.156702+00:00",
+    "action": "add",
+    "city_id": "punta-cana-dominican-republic",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-10T18:18:49.370987+00:00",
+    "action": "add",
+    "city_id": "london-united-kingdom",
+    "details": "New city added with score 7.4"
+  },
+  {
+    "timestamp": "2026-03-10T18:20:23.114555+00:00",
+    "action": "add",
+    "city_id": "glasgow-united-kingdom",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-10T18:21:51.670948+00:00",
+    "action": "add",
+    "city_id": "liverpool-united-kingdom",
+    "details": "New city added with score 6.7"
   }
 ]
