@@ -1,0 +1,161 @@
+{
+  "slug": "lagos",
+  "name": "Lagos",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "region": "West Africa",
+  "regionSlug": "west-africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 3.9,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 4.0,
+    "scamRisk": 3.0,
+    "womensSafety": 3.5,
+    "nightSafety": 3.0,
+    "transport": 4.5,
+    "naturalHazards": 5.5
+  },
+  "summary": "Lagos is Nigeria's economic powerhouse and a vibrant megacity of over 20 million people. While it offers incredible culture, business opportunities, and entertainment, visitors face significant safety challenges including crime, scams, and infrastructure issues that require careful planning and local knowledge to navigate safely.",
+  "quickVerdict": "Lagos presents a complex safety landscape where experience and preparation are essential. The city experiences high crime rates, particularly armed robbery and petty theft, concentrated in certain areas. However, upscale neighborhoods like Victoria Island and Ikoyi maintain better security through private networks. The US State Department maintains a Level 3 advisory for Nigeria due to crime, terrorism risks, and kidnapping threats. While thousands of business travelers and diplomats visit annually without incident, Lagos requires heightened awareness, trusted local contacts, and avoidance of high-risk areas and times.",
+  "neighborhoods": [
+    {
+      "name": "Victoria Island",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale business and residential district with high-end hotels, embassies, and corporate offices. Features private security, gated compounds, and better infrastructure. Popular with expatriates and business travelers."
+    },
+    {
+      "name": "Ikoyi",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Affluent residential area with luxury housing, golf courses, and upmarket restaurants. Generally well-secured with private guards and controlled access points. Home to many diplomatic residences."
+    },
+    {
+      "name": "Lekki",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Rapidly developing coastal area with beaches, shopping malls, and new residential estates. Popular with young professionals but can experience flooding during rainy season. Mixed security conditions."
+    },
+    {
+      "name": "Lagos Island",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic commercial center with markets, banks, and government buildings. Very congested with heavy traffic and crowds. Higher crime risk in busy market areas but important business district."
+    },
+    {
+      "name": "Ikeja",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Commercial hub near the airport with hotels and business centers. Experiences significant traffic congestion and some security challenges. Mixed conditions depending on specific area."
+    },
+    {
+      "name": "Agege",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Densely populated mainland area with high poverty levels and limited infrastructure. Experiences higher crime rates and should be avoided by visitors, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Advance Fee Fraud (419 Scam)",
+      "risk": "high",
+      "description": "Classic Nigerian email scams promising large sums of money in exchange for upfront payments or personal banking information. Often involves fake government officials, princes, or business deals.",
+      "howToAvoid": "Never respond to unsolicited emails promising money. Don't give personal financial information to strangers. Be extremely skeptical of get-rich-quick schemes."
+    },
+    {
+      "name": "ATM Assistance Scam",
+      "risk": "medium",
+      "description": "Scammers pose as helpful strangers offering assistance at ATMs, then steal cards or watch PIN numbers. May also involve fake ATM technicians claiming to fix machines.",
+      "howToAvoid": "Use ATMs inside banks or hotels. Never accept help from strangers. Cover your PIN and be aware of your surroundings."
+    },
+    {
+      "name": "Fake Official Scam",
+      "risk": "medium",
+      "description": "Criminals impersonate police officers, immigration officials, or other authorities to extort money through fake fines or document issues.",
+      "howToAvoid": "Ask for proper identification. Request to go to the nearest police station. Don't pay fines to individuals - only at official offices."
+    },
+    {
+      "name": "Taxi Diversion Scam",
+      "risk": "medium",
+      "description": "Fraudulent taxi drivers take passengers to isolated areas where accomplices rob them, or claim meters are broken to overcharge significantly.",
+      "howToAvoid": "Use reputable ride-sharing apps like Uber or Bolt. Verify driver identity before getting in. Agree on fares beforehand for regular taxis."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Lagos requires extra precautions due to cultural factors and security risks. While many women visit safely, harassment and unwanted attention are common, especially outside upscale areas. Conservative dress and cultural sensitivity are important, particularly in northern parts of the city.",
+    "tips": [
+      "Stay in reputable hotels in secure areas like Victoria Island or Ikoyi",
+      "Use trusted transportation and avoid walking alone, especially at night",
+      "Dress modestly covering shoulders and knees to reduce unwanted attention",
+      "Connect with reliable local contacts or expat communities for guidance",
+      "Avoid isolated areas and always let someone know your whereabouts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lagos becomes significantly more dangerous after dark, with increased risks of armed robbery, carjacking, and violent crime. Most incidents occur after 10 PM, particularly in traffic or isolated areas. Even upscale areas require caution at night.",
+    "tips": [
+      "Avoid unnecessary travel after 10 PM, especially on mainland areas",
+      "Use hotel cars or trusted private drivers rather than taxis at night",
+      "Stay in well-lit, populated areas if you must go out",
+      "Travel in groups when possible and maintain communication with contacts",
+      "Keep a low profile and avoid displaying valuables or expensive items"
+    ]
+  },
+  "transport": {
+    "metro": "Lagos has a limited rail system including the Blue Line connecting some areas to Marina. The BRT (Bus Rapid Transit) system is more extensive and reliable than traditional buses, though can be crowded during peak hours.",
+    "rideshare": "Uber and Bolt are widely available and generally the safest transport options. Always verify driver identity and vehicle details before entering. Use in-app payments to avoid cash handling.",
+    "taxis": "Traditional yellow taxis have poor safety records and should be avoided. Many lack proper maintenance and may be involved in scams. Airport taxis can be unreliable.",
+    "tips": "Traffic is extreme - allow extra time for all journeys. Use ride-sharing apps for safety. Avoid danfo minibuses which have high accident and crime rates. Consider hotel car services for important trips."
+  },
+  "customs": [
+    "Greet with respect using titles like 'Sir' or 'Ma' - handshakes are common but wait for women to extend their hand first",
+    "Use your right hand for giving, receiving, eating, and greeting - using the left hand is considered disrespectful",
+    "Show special respect to elders - stand when they enter, address them with titles like 'Baba' or 'Mama', and let them be served first"
+  ],
+  "health": {
+    "overview": "Lagos faces significant health risks including malaria, yellow fever, and poor healthcare infrastructure. The city is endemic for malaria and yellow fever vaccination is required. Healthcare quality varies dramatically with private facilities offering better care.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and teeth brushing. Avoid ice unless from reputable establishments.",
+    "vaccinations": "Yellow fever vaccination required for entry. Malaria prophylaxis essential - take atovaquone/proguanil, doxycycline, or mefloquine. Consider hepatitis A/B, typhoid, and meningitis vaccines.",
+    "altitude": "Lagos is at sea level with tropical climate. Rainy season April-October brings flooding risks and increased mosquito activity. High humidity year-round."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "199",
+    "ambulance": "767",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Lagos: 2 Walter Carrington Crescent, Victoria Island. Phone: +234-1-460-3400. For after-hours emergencies: +234-1-460-3400. Main embassy in Abuja: +234-209-461-4000."
+  },
+  "faq": [
+    {
+      "q": "Is Lagos safe for tourists?",
+      "a": "Lagos has significant safety challenges but can be visited safely with proper precautions. Stay in secure areas like Victoria Island, use reputable transportation, maintain cultural sensitivity, and avoid high-risk areas and times."
+    },
+    {
+      "q": "Is Lagos safe at night?",
+      "a": "Lagos is considerably more dangerous after dark. Most violent crimes occur after 10 PM. Avoid unnecessary travel at night, use hotel cars or trusted drivers, and stay in well-lit, populated areas if you must go out."
+    },
+    {
+      "q": "Is Lagos safe for solo female travelers?",
+      "a": "Solo female travel requires extra caution due to harassment risks and cultural factors. Many women visit safely by staying in secure accommodations, dressing modestly, using trusted transport, and connecting with local contacts."
+    },
+    {
+      "q": "What areas should I avoid in Lagos?",
+      "a": "Avoid Agege and other mainland slum areas, especially at night. Exercise caution in crowded markets on Lagos Island. Even in safer areas like Victoria Island, remain vigilant and avoid displaying valuables."
+    },
+    {
+      "q": "Is it safe to use public transport in Lagos?",
+      "a": "Traditional public transport like danfo buses have poor safety records. BRT buses are safer but can be crowded. Ride-sharing apps like Uber and Bolt are the safest options for getting around."
+    }
+  ],
+  "relatedCities": [
+    "accra",
+    "abuja",
+    "dakar"
+  ],
+  "_city_id": "lagos-nigeria"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "sydney",
+  "name": "Sydney",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 8.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Sydney ranks among the world's safest major cities with a crime rate of 30% and strong public safety infrastructure. The city offers excellent transport safety, robust emergency services, and is particularly welcoming for solo female travelers, though standard urban precautions are recommended.",
+  "quickVerdict": "Sydney is exceptionally safe for tourists and ranks 5th globally in safety indices. With modern infrastructure, reliable public transport, and comprehensive emergency services, the city provides a secure environment for all types of travelers. While petty crime exists in busy tourist areas, violent crime is rare and the city has recently abolished its lockout laws to revitalize nightlife safely.",
+  "neighborhoods": [
+    {
+      "name": "Circular Quay & The Rocks",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Tourist heart with Opera House and Harbour Bridge. Heavy police presence and CCTV coverage make it very safe, though watch for pickpockets in crowds."
+    },
+    {
+      "name": "Bondi Beach",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular beach destination with lifeguards on duty and good safety infrastructure. Generally safe but can get rowdy on weekends."
+    },
+    {
+      "name": "CBD & Martin Place",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Business district with excellent daytime safety. Well-lit and patrolled at night, though some areas can feel empty after business hours."
+    },
+    {
+      "name": "Kings Cross",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Former red-light district that's been cleaned up significantly but still requires caution late at night, especially on weekends."
+    },
+    {
+      "name": "Redfern",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Gentrifying area with pockets of crime. Exercise caution particularly at night and avoid isolated areas."
+    },
+    {
+      "name": "Mount Druitt",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Highest crime rate in Sydney with 3,021 serious crimes recorded annually. Avoid particularly for tourists, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed drivers or meter manipulation, especially at airports and tourist spots. Some drivers take longer routes or add unjustified charges.",
+      "howToAvoid": "Use official taxi ranks, ensure meter is running, or use rideshare apps like Uber. For airport trips, consider the fixed-rate option or train."
+    },
+    {
+      "name": "Fake Police Authority",
+      "risk": "medium",
+      "description": "Scammers impersonate police officers claiming tourists have committed minor offenses and demand immediate fines, particularly targeting multicultural communities.",
+      "howToAvoid": "Always ask for proper identification. Real police will provide badge numbers and can be verified. If in doubt, ask to resolve at a police station."
+    },
+    {
+      "name": "Tourist Photography Scam",
+      "risk": "medium",
+      "description": "Locals ask tourists to take their photo, then deliberately drop the camera when it's returned, claiming it's broken and demanding payment.",
+      "howToAvoid": "Politely decline or if you help, be very careful when handling cameras. Document the camera's condition before taking photos."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "medium",
+      "description": "Fake rental listings and fraudulent hotel booking confirmations that collect deposits without providing real services.",
+      "howToAvoid": "Book through verified platforms, verify property existence through multiple sources, and use credit cards for fraud protection."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sydney is ranked as the top female-friendly destination in Australia for 2026, with excellent safety infrastructure and cultural acceptance of solo female travelers. The city's well-lit public spaces, reliable transport, and strong security measures make it appealing for women traveling alone.",
+    "tips": [
+      "Take advantage of Shebah rideshare service with all-women drivers",
+      "Avoid walking alone in empty areas late at night, especially in CBD after business hours",
+      "Use night bus services when trains stop running after midnight",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Circular Quay or Bondi"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sydney's nightlife safety has significantly improved following the recent abolition of lockout laws in January 2026. The city now offers a more diverse and safer night-time economy with targeted regulation rather than blanket restrictions. Alcohol-related violence has decreased over the past five years.",
+    "tips": [
+      "Stick to well-lit, populated areas and main entertainment precincts",
+      "Use public transport or rideshare rather than walking long distances at night",
+      "Avoid confrontations and excessive alcohol consumption",
+      "Be aware that night buses replace trains between midnight and 4:30am"
+    ]
+  },
+  "transport": {
+    "metro": "Sydney Metro is Australia's first fully automated driverless system, extremely safe with platform screen doors and frequent services every 4 minutes during peak times. All stations have CCTV and are fully accessible.",
+    "rideshare": "Uber, Ola, and local services operate safely throughout Sydney. Shebah offers women-only drivers for female passengers. Generally safer and often cheaper than traditional taxis.",
+    "taxis": "Official taxis are regulated and safe but can be expensive. Always ensure meter is running and use official taxi ranks. Airport has fixed-rate services available.",
+    "tips": "Public transport is excellent and safe - trains, metros, buses and ferries are well-maintained and monitored. Opal card or contactless payment required for all services."
+  },
+  "customs": [
+    "Tipping is not mandatory in Australia - round up for good service but 15-20% tips are not expected",
+    "Australians are informal and friendly - first names are commonly used even in business",
+    "Sunscreen is essential year-round due to strong UV levels, even on cloudy days",
+    "Smoking and vaping are banned in most public places including beaches and parks",
+    "Shoes and shirts required in shops and restaurants - 'no shoes, no shirt, no service' is common"
+  ],
+  "health": {
+    "overview": "Australia has world-class healthcare ranked 2nd globally. Sydney has excellent medical facilities including public and private hospitals. Medicare provides universal healthcare for residents, with reciprocal agreements for some countries.",
+    "water": "Tap water is completely safe to drink throughout Sydney and meets strict Australian standards. No need to buy bottled water.",
+    "vaccinations": "No special vaccinations required for Sydney. Ensure routine vaccines are up to date. Consider travel insurance as medical costs can be high for non-residents.",
+    "altitude": "Sydney is at sea level with a humid subtropical climate. Summer temperatures can reach 40°C with high UV levels requiring sun protection."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Sydney: +61-2-9373-9200. Located at Level 10, MLC Centre, 19-29 Martin Place, Sydney NSW 2000. For after-hours emergencies: +61-2-4422-2201"
+  },
+  "faq": [
+    {
+      "q": "Is Sydney safe for tourists?",
+      "a": "Yes, Sydney is very safe for tourists and ranks 5th globally in safety indices. With a 30% crime rate, excellent infrastructure, and strong emergency services, visitors can feel secure while taking standard urban precautions."
+    },
+    {
+      "q": "Is Sydney safe at night?",
+      "a": "Sydney is generally safe at night, especially in well-lit tourist areas and entertainment districts. The recent abolition of lockout laws has improved the nightlife scene while maintaining safety through targeted regulation."
+    },
+    {
+      "q": "Is Sydney safe for solo female travelers?",
+      "a": "Absolutely. Sydney is Australia's top female-friendly destination in 2026 with excellent safety infrastructure, women-only rideshare options, and a welcoming culture for solo female travelers."
+    },
+    {
+      "q": "What areas should I avoid in Sydney?",
+      "a": "While Sydney is generally safe, exercise extra caution in Mount Druitt (highest crime area), parts of Redfern late at night, and avoid isolated areas in any neighborhood after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Sydney?",
+      "a": "Yes, Sydney's public transport is very safe and modern. The Metro system is fully automated with safety doors, and all services have CCTV monitoring and regular security presence."
+    }
+  ],
+  "relatedCities": [
+    "melbourne",
+    "brisbane",
+    "perth",
+    "adelaide",
+    "auckland",
+    "wellington"
+  ],
+  "_city_id": "sydney-australia"
+}

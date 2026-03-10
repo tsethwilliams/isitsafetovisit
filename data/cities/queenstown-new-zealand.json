@@ -1,0 +1,161 @@
+{
+  "slug": "queenstown",
+  "name": "Queenstown",
+  "country": "New Zealand",
+  "countryCode": "NZ",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.3,
+    "violentCrime": 8.8,
+    "scamRisk": 7.2,
+    "womensSafety": 8.4,
+    "nightSafety": 7.5,
+    "transport": 8.1,
+    "naturalHazards": 7.2
+  },
+  "summary": "Queenstown ranks as one of New Zealand's safest destinations with extremely low violent crime rates and strong infrastructure. While adventure sports carry inherent risks and petty theft occasionally occurs in tourist areas, the city maintains excellent emergency services and a welcoming atmosphere for visitors.",
+  "quickVerdict": "Queenstown offers exceptional safety for tourists, ranking among the world's safest destinations with New Zealand holding a Level 1 US State Department travel advisory. The adventure capital welcomes millions of visitors annually with minimal serious incidents, though standard precautions against petty theft and attention to adventure activity safety are wise. Solo female travelers consistently rate the city highly for safety and ease of navigation.",
+  "neighborhoods": [
+    {
+      "name": "Central Queenstown",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of the adventure capital with high foot traffic, visible security presence, and well-lit streets. Police station centrally located and excellent emergency response times."
+    },
+    {
+      "name": "Frankton",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Residential area near the airport with good public lighting and regular police patrols. Home to Lakes District Hospital and main shopping areas."
+    },
+    {
+      "name": "Arrowtown",
+      "score": 9.1,
+      "class": "safe",
+      "description": "Historic gold mining town with virtually no crime, strong community watch, and tourist police presence. One of the safest areas in the region."
+    },
+    {
+      "name": "The Remarkables",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Ski resort area with seasonal security and mountain rescue services. Weather-related risks higher than crime, but well-managed safety protocols in place."
+    },
+    {
+      "name": "Glenorchy",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Small lakeside town with minimal crime and strong community bonds. Limited services but excellent safety record for outdoor activities."
+    },
+    {
+      "name": "Shotover Street Area",
+      "score": 7.3,
+      "class": "safe",
+      "description": "Busy nightlife district with higher foot traffic and occasional alcohol-related incidents. Increased police presence on weekends and late-night hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Scammers approach tourists at ATMs offering help while using devices to scan cards and steal PINs. Common near central Queenstown ATMs.",
+      "howToAvoid": "Cover your PIN, decline unsolicited help, use ATMs inside banks when possible, and check for unusual devices attached to card slots."
+    },
+    {
+      "name": "Inflated Bar Bills",
+      "risk": "medium",
+      "description": "Friendly locals invite tourists to specific bars where they receive extremely expensive bills for drinks. Partners with establishments to overcharge visitors.",
+      "howToAvoid": "Ask for drink prices upfront, avoid following strangers to unknown bars, check bills carefully, and research bar reviews before visiting."
+    },
+    {
+      "name": "Adventure Activity Insurance Scams",
+      "risk": "low",
+      "description": "Fake insurance providers target tourists before adventure activities, selling worthless coverage. Usually operate online or through unofficial channels.",
+      "howToAvoid": "Only purchase insurance from reputable providers, verify company credentials, read policy details carefully, and book activities through established operators."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "medium",
+      "description": "Fake hostel and hotel listings on booking sites that don't exist or are severely misrepresented. Peak season sees increased activity.",
+      "howToAvoid": "Book through established platforms, read recent reviews, verify property location on maps, and confirm bookings directly with accommodation."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Queenstown ranks exceptionally high for solo female travelers with a 4.5 out of 5 safety rating. The compact city center is well-lit and regularly patrolled, while the adventure tourism industry is well-regulated with strong safety protocols. Local culture is welcoming and respectful toward women travelers.",
+    "tips": [
+      "Stay in well-reviewed hostels with female-only dorms available throughout the city center",
+      "Join group adventure activities to meet other travelers and enhance safety",
+      "Use the reliable public bus system or established taxi companies for late-night transport",
+      "Keep emergency contacts handy and inform accommodation of planned activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Queenstown's nightlife district is generally safe with regular police patrols and well-lit streets. While violent crime is rare, alcohol-related incidents can occur in busy bar areas, particularly on weekends. The compact city center makes navigation easy and reduces isolated walking.",
+    "tips": [
+      "Stick to well-lit main streets and avoid shortcuts through dark alleys",
+      "Travel in groups when possible and watch drinks carefully in busy bars",
+      "Use legitimate taxi services or rideshare apps rather than accepting rides from strangers",
+      "Keep accommodation details handy and ensure someone knows your planned return time"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Public buses operated by Orbus run throughout the city with $2 flat-rate fares using a Bee Card. Buses operate from 6 AM to midnight with good safety record and wheelchair accessibility.",
+    "rideshare": "Uber operates throughout Queenstown with good safety features including driver verification and trip tracking. Cannot pick up from airport but available for city transport with typical wait times of 5-10 minutes.",
+    "taxis": "Multiple established companies including Blue Bubble Taxis and Green Cabs provide 24/7 service. All drivers licensed and vehicles inspected. Fares start at $5 plus $4 per kilometer. Airport transfers cost $40-50 to city center.",
+    "tips": "Public transport is very safe and affordable. Taxis and Uber drivers are professional and regulated. Always verify vehicle details before entering rideshare vehicles."
+  },
+  "customs": [
+    "Greet people with 'Kia ora' (hello) or a friendly handshake - the traditional Maori hongi greeting may be offered at cultural sites",
+    "Respect Maori culture by pronouncing place names correctly and learning basic phrases like 'Tena koe' (hello to one person)",
+    "Tipping is not expected but appreciated for exceptional service - 10% at restaurants is generous",
+    "Remove shoes when entering homes and avoid sitting on tables, pillows, or kitchen benches",
+    "Show environmental consciousness by following 'Leave No Trace' principles and respecting conservation areas"
+  ],
+  "health": {
+    "overview": "New Zealand maintains excellent healthcare standards with modern facilities and well-trained professionals. Queenstown has good medical services though specialized care may require transfer to larger cities.",
+    "water": "Tap water is safe to drink throughout New Zealand. Recent cryptosporidiosis outbreak in 2023 was quickly contained. Bottled water available but unnecessary.",
+    "vaccinations": "No special vaccinations required for New Zealand. Ensure routine vaccinations are current. Travel insurance strongly recommended as medical costs can be high for visitors.",
+    "altitude": "Queenstown sits at 310 meters elevation with no altitude concerns. Weather can change rapidly requiring layered clothing. Summer temperatures 10-25°C, winter -2 to 10°C."
+  },
+  "emergency": {
+    "general": "111",
+    "police": "111",
+    "ambulance": "111",
+    "fire": "111",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Auckland +64 9 303-2724 (24hr emergency +64 4 462-6000). Address: Citigroup Centre, 3rd Floor, 23 Customs Street East, Auckland."
+  },
+  "faq": [
+    {
+      "q": "Is Queenstown safe for tourists?",
+      "a": "Yes, Queenstown is very safe for tourists. New Zealand ranks 3rd globally in the Peace Index and Queenstown has one of the lowest crime rates in the country. Standard travel precautions are sufficient."
+    },
+    {
+      "q": "Is Queenstown safe at night?",
+      "a": "Generally yes, with well-lit streets and regular police patrols in the city center. Exercise normal caution in nightlife areas and avoid isolated locations after midnight."
+    },
+    {
+      "q": "Is Queenstown safe for solo female travelers?",
+      "a": "Absolutely. Solo female travelers rate Queenstown 4.5/5 for safety. The city is compact, well-patrolled, and has excellent infrastructure for independent travelers."
+    },
+    {
+      "q": "What areas should I avoid in Queenstown?",
+      "a": "There are no specific no-go areas in Queenstown. Exercise normal caution in late-night entertainment districts and avoid isolated walking tracks after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Queenstown?",
+      "a": "Yes, public buses are very safe and reliable. Taxis and Uber are also well-regulated. All transport options maintain good safety standards with professional drivers."
+    }
+  ],
+  "relatedCities": [
+    "auckland",
+    "wellington",
+    "christchurch"
+  ],
+  "_city_id": "queenstown-new-zealand"
+}

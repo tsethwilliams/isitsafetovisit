@@ -1,0 +1,161 @@
+{
+  "slug": "addis-ababa",
+  "name": "Addis Ababa",
+  "country": "Ethiopia",
+  "countryCode": "ET",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.8,
+    "transport": 6.5,
+    "naturalHazards": 8.8
+  },
+  "summary": "Addis Ababa is Ethiopia's diplomatic capital and one of Africa's safer major cities, though travelers should remain vigilant against petty crime and tourist scams. The city offers stable security compared to the broader Ethiopian political situation, with friendly locals and decent infrastructure, but requires awareness of pickpocketing, altitude effects, and cultural sensitivities.",
+  "quickVerdict": "Addis Ababa is moderately safe for tourists compared to other African capitals, with low violent crime rates but persistent petty theft and tourist-targeting scams. The city benefits from diplomatic presence and relatively stable security, though travelers should exercise standard urban precautions, dress modestly, respect religious customs, and be prepared for altitude adjustment at 2,400 meters elevation. Most tourist areas are well-patrolled during daylight hours.",
+  "neighborhoods": [
+    {
+      "name": "Bole",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale area near the airport with international hotels, embassies, and restaurants. Well-lit streets, good police presence, and popular with expatriates and business travelers."
+    },
+    {
+      "name": "Kazanchis",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Diplomatic quarter with many embassies and government buildings. Enhanced security presence makes it one of the safest areas, though traffic can be heavy."
+    },
+    {
+      "name": "Piazza",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic commercial area with Italian architecture. Generally safe during day but requires caution with belongings due to crowded conditions and pickpockets."
+    },
+    {
+      "name": "Merkato",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Africa's largest open-air market. High risk of pickpocketing, bag snatching, and tourist scams. Essential to visit with guide and minimal valuables."
+    },
+    {
+      "name": "Addis Ketema",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Dense residential area with some crime issues including theft and pickpocketing. Visitors should exercise extra caution, especially at night."
+    },
+    {
+      "name": "Meskel Square",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Central ceremonial plaza surrounded by government buildings. Generally safe during events and daylight hours but avoid after dark due to limited lighting."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Chat House Scam",
+      "risk": "high",
+      "description": "Friendly locals invite tourists for coffee or traditional chat (mild stimulant), then present inflated bills of $50-100 for simple refreshments.",
+      "howToAvoid": "Politely decline invitations from strangers for drinks or food. If accepting, agree on prices beforehand and pay as you go."
+    },
+    {
+      "name": "Fake Tour Guide",
+      "risk": "medium",
+      "description": "Unlicensed guides approach tourists offering city tours, then demand high payments or lead visitors to overpriced shops for commissions.",
+      "howToAvoid": "Use only licensed guides from hotels or official tour companies. Verify credentials and agree on prices in writing before starting."
+    },
+    {
+      "name": "Friendship Money Loan",
+      "risk": "medium",
+      "description": "Scammers befriend tourists over several hours, then claim emergencies requiring immediate cash loans with promises to repay later.",
+      "howToAvoid": "Be wary of overly friendly strangers. Never lend money regardless of sob stories. True emergencies should involve local authorities."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "One person distracts tourist asking for help or directions while accomplice picks pockets or grabs bags, especially common in markets and transport hubs.",
+      "howToAvoid": "Stay alert in crowded areas. Keep valuables secure and close to body. Be cautious of anyone creating distractions or asking for help."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Addis Ababa is generally safer for solo female travelers than many African capitals, with relatively respectful local attitudes due to strong religious influence. However, women should expect some staring, occasional catcalling in busy areas, and need to dress modestly. The deeply religious Orthodox Christian culture generally promotes respectful behavior, though harassment can occur in crowded markets and nightlife areas.",
+    "tips": [
+      "Dress conservatively covering shoulders and knees, especially outside of Bole area",
+      "Use registered taxis or ride services rather than walking alone after dark",
+      "Stay in reputable accommodations in safer neighborhoods like Bole or Kazanchis",
+      "Join group activities or use trusted local guides when exploring beyond main tourist sites"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Addis Ababa nights are relatively calm compared to other major African cities, but several risks require attention. Power outages are frequent, leaving areas poorly lit. Stray dog packs roam certain districts, particularly near Meskel Square and Churchill Avenue. Most violent crime is rare, but theft increases after dark, and the high altitude can affect judgment and mobility.",
+    "tips": [
+      "Carry a flashlight or use phone light due to frequent power outages",
+      "Use taxis for transportation after dark rather than walking",
+      "Avoid areas with stray dog packs, especially near Meskel Square",
+      "Stay in well-lit areas with foot traffic when venturing out at night"
+    ]
+  },
+  "transport": {
+    "metro": "The Addis Ababa Light Rail opened in 2015 as Africa's first modern light rail system. Blue and Green lines cover 31.6km with 39 stations, but service is unreliable due to power outages and equipment failures. Only 15 of 41 original trains remain operational as of 2024. When running, it's affordable and safer than street transport.",
+    "rideshare": "RIDE taxi service operates via SMS and app-based booking since 2014, providing door-to-door service. More reliable than street taxis and generally safer for tourists. Book through hotels or download the local app for legitimate service.",
+    "taxis": "Abundant blue and white minibus taxis and sedan taxis available. Always use registered taxis with proper plates and negotiate fares beforehand as meters often don't work. Avoid unmarked vehicles. Hotel-arranged taxis are safest option for tourists.",
+    "tips": "Public transport can be crowded with pickpocket risk. Light rail is cheapest when operational. For safety and convenience, use hotel taxis or RIDE service, especially at night."
+  },
+  "customs": [
+    "Use only your right hand for eating, greeting, and passing objects as left hand is considered unclean",
+    "Remove shoes before entering homes, churches, and mosques as a sign of respect",
+    "Dress modestly covering shoulders and knees, especially at religious sites and rural areas",
+    "Greet elders first and with respect, often including a slight bow of the head",
+    "Accept offers of coffee as refusing can be considered rude in this coffee-originated culture"
+  ],
+  "health": {
+    "overview": "Addis Ababa sits at 2,400 meters elevation requiring altitude adjustment for most visitors. Healthcare quality varies significantly between public and private facilities, with several good private hospitals serving expatriates. Malaria risk exists but is lower than in other parts of Ethiopia due to altitude.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Most hotels provide safe water. Avoid ice in drinks and raw foods washed in tap water.",
+    "vaccinations": "Yellow fever vaccination required if arriving from infected areas. Recommended vaccines include hepatitis A and B, typhoid, and routine vaccines. Malaria prophylaxis advised despite lower altitude risk.",
+    "altitude": "The 2,400m elevation can cause altitude sickness with symptoms like headaches, fatigue, and nausea. Allow 1-2 days for acclimatization. Stay hydrated and avoid alcohol initially."
+  },
+  "emergency": {
+    "general": "911 or 991",
+    "police": "911, 916, or 991",
+    "ambulance": "907",
+    "fire": "939 or 902",
+    "touristPolice": "Available in main tourist areas",
+    "usEmbassy": "US Embassy Addis Ababa located in Entoto Avenue. Emergency American Citizen Services: +251-111-307-900. Regular hours: +251-111-307-900."
+  },
+  "faq": [
+    {
+      "q": "Is Addis Ababa safe for tourists?",
+      "a": "Yes, Addis Ababa is relatively safe for tourists compared to other African capitals, with low violent crime rates. However, petty crime like pickpocketing and tourist scams are common, so visitors should remain vigilant and follow standard urban safety precautions."
+    },
+    {
+      "q": "Is Addis Ababa safe at night?",
+      "a": "Addis Ababa is moderately safe at night in well-traveled areas, but visitors should use taxis rather than walking due to poor lighting from frequent power outages and the presence of stray dog packs in some areas. The diplomatic areas and major hotels maintain better security."
+    },
+    {
+      "q": "Is Addis Ababa safe for solo female travelers?",
+      "a": "Addis Ababa is generally safer for solo women than many African cities due to the strong religious culture promoting respectful behavior. However, women should dress modestly, expect some staring and occasional catcalling, and use taxis at night rather than walking alone."
+    },
+    {
+      "q": "What areas should I avoid in Addis Ababa?",
+      "a": "Exercise extra caution in Merkato market area due to high pickpocketing and scam risks. Avoid poorly lit areas at night, especially around Meskel Square where stray dogs gather. The Addis Ketema district requires more vigilance due to higher crime rates."
+    },
+    {
+      "q": "Is it safe to use public transport in Addis Ababa?",
+      "a": "Public transport is generally safe but crowded with pickpocket risks. The light rail system is safer when operational but suffers frequent breakdowns. Blue and white minibus taxis are widely used but negotiate fares beforehand. Hotel-arranged taxis are the safest option for tourists."
+    }
+  ],
+  "relatedCities": [
+    "nairobi",
+    "kampala",
+    "kigali"
+  ],
+  "_city_id": "addis-ababa-ethiopia"
+}

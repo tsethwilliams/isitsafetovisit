@@ -478,3 +478,39 @@
 2026-03-10 07:57:14,174 [INFO] Checking alerts for 72 cities
 2026-03-10 07:57:50,076 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-10 07:57:50,111 [INFO] No safety alerts detected
+2026-03-10 11:48:09,753 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-10 11:48:09,794 [INFO] Queue has 295 cities, adding 8
+2026-03-10 11:48:09,794 [INFO] Generating new city profile: Lagos, Nigeria
+2026-03-10 11:50:04,712 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:50:04,874 [INFO] Saved city data: lagos-nigeria
+2026-03-10 11:50:04,875 [INFO] Generating new city profile: Addis Ababa, Ethiopia
+2026-03-10 11:51:27,599 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:51:27,723 [INFO] Saved city data: addis-ababa-ethiopia
+2026-03-10 11:51:27,724 [INFO] Generating new city profile: Kigali, Rwanda
+2026-03-10 11:53:04,101 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:53:04,300 [INFO] Saved city data: kigali-rwanda
+2026-03-10 11:53:04,301 [INFO] Generating new city profile: Sydney, Australia
+2026-03-10 11:54:42,964 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:54:43,143 [INFO] Saved city data: sydney-australia
+2026-03-10 11:54:43,144 [INFO] Generating new city profile: Melbourne, Australia
+2026-03-10 11:56:14,446 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:56:14,630 [INFO] Saved city data: melbourne-australia
+2026-03-10 11:56:14,631 [INFO] Generating new city profile: Auckland, New Zealand
+2026-03-10 11:58:03,937 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:58:04,072 [INFO] Saved city data: auckland-new-zealand
+2026-03-10 11:58:04,073 [INFO] Generating new city profile: Queenstown, New Zealand
+2026-03-10 11:59:44,460 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 11:59:44,534 [INFO] Saved city data: queenstown-new-zealand
+2026-03-10 11:59:44,535 [INFO] Generating new city profile: Fiji, Fiji
+2026-03-10 12:01:30,856 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 12:01:30,978 [INFO] Saved city data: fiji-fiji
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Lagos
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Addis Ababa
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Kigali
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Sydney
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Melbourne
+2026-03-10 12:01:30,985 [INFO] Merged into site data: Auckland
+2026-03-10 12:01:30,986 [INFO] Merged into site data: Queenstown
+2026-03-10 12:01:30,986 [INFO] Merged into site data: Fiji
+2026-03-10 12:01:31,003 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-10 12:01:31,004 [INFO] Updated sitemap with 8 new URLs

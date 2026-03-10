@@ -1,0 +1,159 @@
+{
+  "slug": "fiji",
+  "name": "Fiji",
+  "country": "Fiji",
+  "countryCode": "FJ",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.2,
+    "womensSafety": 7.3,
+    "nightSafety": 6.5,
+    "transport": 7.2,
+    "naturalHazards": 6.5
+  },
+  "summary": "Fiji is generally a safe destination for tourists, with the U.S. State Department maintaining a Level 1 travel advisory. While petty crime like theft and pickpocketing is common in urban areas like Suva and Nadi, violent crime against tourists is relatively rare. The main risks come from opportunistic property crimes and seasonal natural hazards during cyclone season from November to April.",
+  "quickVerdict": "Fiji offers a relatively safe travel experience for most visitors, with friendly locals and well-established tourism infrastructure. The biggest safety concerns are petty crimes in cities and natural hazards during wet season. Travelers should exercise normal precautions, be particularly vigilant in urban areas after dark, and stay informed about weather conditions. Resort areas and outer islands tend to be safer than main urban centers.",
+  "neighborhoods": [
+    {
+      "name": "Resort Areas (Denarau Island, Coral Coast)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Well-secured resort areas with private security, controlled access, and regular safety patrols. Crime rates are very low in these tourist-focused zones with excellent emergency response capabilities."
+    },
+    {
+      "name": "Outer Islands (Yasawa & Mamanuca Groups)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Remote island destinations with minimal crime and strong community oversight. Natural hazards from weather are the primary concern, but resorts have comprehensive safety protocols."
+    },
+    {
+      "name": "Nadi Town Center",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Main tourist hub with moderate crime levels including pickpocketing and bag snatching. Generally safe during daylight hours but requires increased vigilance, especially around markets and transport hubs."
+    },
+    {
+      "name": "Lautoka",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Industrial city with moderate crime rates. Petty theft and occasional violent incidents occur, particularly after dark. Travelers should stay in well-lit areas and avoid walking alone at night."
+    },
+    {
+      "name": "Suva Downtown",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Capital city center with higher crime rates including muggings, theft, and occasional violent incidents. Significant safety concerns after dark with reports of attacks on tourists in certain areas."
+    },
+    {
+      "name": "Colo-I-Suva Forest Park",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Natural area with reported violent robberies and opportunistic crimes along trails. Limited law enforcement presence and isolated locations make it particularly risky for solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Credit Card and ATM Skimming",
+      "risk": "high",
+      "description": "Card skimming devices placed on ATMs and point-of-sale terminals to steal banking information. Credit card fraud is commonly reported by tourists throughout Fiji.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN when entering it, regularly check statements, and never let your card out of sight during transactions."
+    },
+    {
+      "name": "Bar Overcharging Scam",
+      "risk": "medium",
+      "description": "Overly friendly individuals invite tourists to specific bars where they face exorbitant bills and intimidation to pay. Often involves attractive locals approaching tourists in popular areas.",
+      "howToAvoid": "Check drink prices before ordering, choose your own bars, be wary of unsolicited invitations from strangers, and consider going with trusted companions."
+    },
+    {
+      "name": "Shell Game Distraction Theft",
+      "risk": "medium",
+      "description": "Street con game popular in Nadi involving guessing which box contains a ball. The real purpose is distraction while accomplices pickpocket tourists watching the game.",
+      "howToAvoid": "Don't participate in street games, keep valuables secure in crowded areas, stay aware of your surroundings, and avoid large gatherings around street performers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Fiji is generally considered safe for solo female travelers, with locals typically respectful toward women and harassment levels lower than many destinations. The culture discourages harassment, though standard precautions should still be taken. Resort areas and outer islands are particularly safe, while urban areas require more vigilance, especially after dark.",
+    "tips": [
+      "Avoid walking alone at night in urban areas like Suva and Nadi",
+      "Dress modestly when visiting villages with shoulders and knees covered",
+      "Use licensed taxis rather than public transport for nighttime travel",
+      "Stay in well-reviewed accommodations with good security measures",
+      "Trust your instincts and remove yourself from uncomfortable situations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Fiji varies significantly by location, with resort areas generally very safe but urban centers like Suva presenting higher risks. Petty crime including pickpocketing and purse-snatching increases after dark, particularly in tourist areas of Nadi and Suva. Violent incidents have been reported in downtown areas, making caution essential.",
+    "tips": [
+      "Stay in well-lit, populated areas and avoid isolated streets",
+      "Use hotel-arranged taxis rather than walking or using public transport",
+      "Travel in groups when possible and inform others of your plans",
+      "Avoid displaying valuables or signs of wealth",
+      "Return to accommodation by 9pm as locals tend to retire early"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Fiji. Public transport consists primarily of buses, minivans, and taxis on the main islands of Viti Levu and Vanua Levu.",
+    "rideshare": "Ride-sharing apps like Uber are not commonly available. Traditional taxis with yellow license plates (LT) are the recommended on-demand transport option.",
+    "taxis": "Licensed taxis with LT license plates are generally safe and government-regulated. Always use licensed taxis, agree on fares beforehand for non-metered rides, and consider hotel-arranged services for added security.",
+    "tips": "Public buses are cheap but can be crowded with some safety concerns. Minivans offer faster service but some operate illegally - look for LM plates. Water taxis and ferries are essential for island travel and generally safe with proper life jacket use."
+  },
+  "customs": [
+    "Always greet with 'Bula' and respond warmly to local greetings",
+    "Remove shoes before entering homes and dress modestly in villages",
+    "Present sevusevu (gift of kava) when visiting villages and respect the yaqona ceremony",
+    "Never touch someone's head as it's considered sacred, especially children",
+    "Avoid visiting villages on Sundays which are reserved for rest and religion"
+  ],
+  "health": {
+    "overview": "Healthcare standards in Fiji are lower than developed countries with limited facilities, equipment, and drugs. Medical evacuation may be necessary for serious conditions. The country faces risks from mosquito-borne diseases and waterborne illnesses.",
+    "water": "Tap water is generally safe in major cities and resorts but bottled water recommended in rural areas. Urban water treatment meets international standards but caution advised outside main centers.",
+    "vaccinations": "Recommended vaccines include typhoid, hepatitis A, hepatitis B, and routine immunizations. Dengue, Zika, and chikungunya are present - mosquito protection essential.",
+    "altitude": "Tropical marine climate with high humidity. Cyclone season November-April brings severe weather risks. Stay hydrated and use sun protection year-round."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "917",
+    "ambulance": "911",
+    "fire": "910",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Suva: 158 Princes Road, Tamavua, Suva. Phone: +679-331-4466. Emergency After-Hours: +679-772-8049."
+  },
+  "faq": [
+    {
+      "q": "Is Fiji safe for tourists?",
+      "a": "Yes, Fiji is generally safe for tourists with a U.S. State Department Level 1 advisory. Most visitors experience no safety issues, though petty crime occurs in urban areas and standard travel precautions should be taken."
+    },
+    {
+      "q": "Is Fiji safe at night?",
+      "a": "Night safety varies by location. Resort areas are very safe, but urban centers like Suva and Nadi have higher crime rates after dark. Use licensed taxis, stay in populated areas, and avoid walking alone at night in cities."
+    },
+    {
+      "q": "Is Fiji safe for solo female travelers?",
+      "a": "Yes, Fiji is considered quite safe for solo female travelers. The culture is respectful toward women and harassment levels are relatively low. However, standard precautions should be taken, especially in urban areas and at night."
+    },
+    {
+      "q": "What areas should I avoid in Fiji?",
+      "a": "Exercise extra caution in downtown Suva after dark, avoid Colo-I-Suva Forest Park without a group or guide, and be vigilant in busy urban areas of Nadi. Resort areas and outer islands are generally very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Fiji?",
+      "a": "Public buses are generally safe but can be crowded with some safety concerns. Licensed taxis with LT plates are safer and recommended. For minivans, ensure they have proper LM licensing to avoid unlicensed operators."
+    }
+  ],
+  "relatedCities": [
+    "suva",
+    "nadi",
+    "port-vila",
+    "nuku-alofa",
+    "apia"
+  ],
+  "_city_id": "fiji-fiji"
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "kigali",
+  "name": "Kigali",
+  "country": "Rwanda",
+  "countryCode": "RW",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.5,
+    "womensSafety": 8.2,
+    "nightSafety": 7.0,
+    "transport": 7.8,
+    "naturalHazards": 8.8
+  },
+  "summary": "Kigali, Rwanda's capital, is widely regarded as one of Africa's safest cities with exceptionally low crime rates and a strong commitment to security. The city ranks among the top 25 globally for safety, with a Crime Index of just 26.4 and impressive daytime safety scores of 85.9. However, visitors should remain aware of border tensions with neighboring countries and take standard precautions in crowded areas.",
+  "quickVerdict": "Kigali offers an exceptionally safe travel experience with low violent crime rates, minimal natural disaster risks, and excellent infrastructure. Known as the 'Singapore of Africa,' the city maintains strict law enforcement and community-driven security initiatives. While petty theft can occur in crowded markets, violent crime against tourists is rare. The city is particularly safe for solo female travelers and families, with well-maintained transport systems and visible police presence. Border areas near DRC should be avoided, but central Kigali and main tourist areas are very secure.",
+  "neighborhoods": [
+    {
+      "name": "Kiyovu",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale diplomatic quarter housing embassies and luxury hotels. Known for excellent security, well-lit streets, and high-end accommodations with 24/7 security services."
+    },
+    {
+      "name": "Kimihurura",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Popular expat and professional area with trendy cafes, restaurants, and nightlife. Features good security infrastructure, police presence, and is considered very safe for evening activities."
+    },
+    {
+      "name": "Nyarutarama",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Family-friendly residential area known for tranquility and safety. Features parks, shopping centers, and proximity to Kigali Golf Club with excellent community security."
+    },
+    {
+      "name": "Kacyiru",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Administrative and business district with government buildings and offices. Well-patrolled area with good infrastructure, though can be busy during working hours."
+    },
+    {
+      "name": "Remera",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Vibrant commercial area with numerous restaurants, bars, and shops. Generally safe but can be crowded, requiring normal urban precautions, especially around markets."
+    },
+    {
+      "name": "Nyamirambo",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Traditional neighborhood with authentic local atmosphere and markets. While generally safe during daytime, visitors should exercise more caution after dark and be aware of pickpocketing risks."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Individuals claiming to be official guides offer tours at unusually low prices without proper credentials, potentially leading visitors to unauthorized locations or providing misleading information.",
+      "howToAvoid": "Only book tours through verified operators, ask for proper credentials, and use government-backed platforms like Visit Rwanda for tour bookings."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Scammers approach tourists at ATMs offering help to avoid bank fees, but actually scan cards with hidden devices and watch PIN entries to drain accounts later.",
+      "howToAvoid": "Always cover your PIN entry, decline any unsolicited help at ATMs, use ATMs inside banks when possible, and consider bringing cash to exchange at banks."
+    },
+    {
+      "name": "Double Payment Taxi Scam",
+      "risk": "high",
+      "description": "Dishonest tour operators or taxi drivers collect payment from one person, then immediately approach their companion claiming the first person asked them to collect additional payment.",
+      "howToAvoid": "Always confirm payments directly with all travel companions, agree on payment methods in advance, and use official taxi services or ride-sharing apps when possible."
+    },
+    {
+      "name": "eVisa Website Fraud",
+      "risk": "medium",
+      "description": "Fake visa processing websites charge inflated fees (up to $89 vs official $30) and may not deliver valid visas, appearing first in search results to trap unsuspecting travelers.",
+      "howToAvoid": "Only use official government websites like Irembo for visa applications, verify website authenticity, and be wary of sites charging significantly more than official fees."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Rwanda is consistently ranked as one of Africa's safest countries for solo female travelers, with exceptionally low rates of harassment and violence. The country has one of the highest proportions of women in parliament globally, reflecting broader respect for women in public life. Kigali scores 85.9 for daytime walking safety and 69.4 for nighttime safety, making it remarkably secure for independent female travel.",
+    "tips": [
+      "Choose accommodations in safe neighborhoods like Kimihurura or Kacyiru with 24/7 security",
+      "Use official taxi services or ride-sharing apps rather than walking alone late at night",
+      "Dress modestly, especially in rural areas - cover shoulders and knees when appropriate"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kigali maintains impressive security levels after dark, with well-lit streets, visible police presence, and orderly traffic flow. The nightlife scene is described as safe and welcoming, though standard urban precautions should still be observed. Most venues close by midnight or 1 AM, and the city maintains a calm, controlled atmosphere even during busy evening hours.",
+    "tips": [
+      "Stick to well-lit main areas and avoid quiet side streets when walking at night",
+      "Use reputable transportation like official taxis or ride-sharing apps between venues",
+      "Travel in groups when possible and inform someone of your whereabouts and expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "Kigali does not have a metro system. The city relies on modern buses that operate on established routes and schedules, with the Tap&Go smart card system for contactless payments.",
+    "rideshare": "Two main ride-hailing apps operate: Move (exclusively Volkswagen vehicles, more comfortable but fewer drivers) and Yego Cabs (more available drivers, can also call 9191). Drivers may need help with directions and patience is required as many are still learning the apps.",
+    "taxis": "Official licensed taxis are identifiable by yellow stripes and are generally safe. Major operators include Kigali Taxi Service (3122) and Kigali Airport Taxi Service (476586). Always negotiate fares upfront as most don't have meters.",
+    "tips": "Moto-taxis are the most popular transport - they're regulated, drivers wear numbered vests, and helmets are mandatory. While mostly safe, inspect bikes and helmets before riding and ensure drivers haven't been drinking."
+  },
+  "customs": [
+    "Greet people with handshakes, using both hands when meeting elders or important figures to show extra respect",
+    "Dress modestly, especially in rural areas and religious sites - women should cover shoulders and knees",
+    "Avoid public displays of affection and loud behavior in public as Rwandans value calm, respectful demeanor"
+  ],
+  "health": {
+    "overview": "Rwanda has a well-organized healthcare system with universal health insurance available to citizens for $2 per year. King Faisal Hospital and Centre Hospitalier Universitaire de Kigali (CHUK) provide quality care in the capital, though medical facilities outside Kigali may be more basic.",
+    "water": "Bottled water is recommended for drinking, especially outside major hotels. Tap water quality varies, so err on the side of caution and stick with sealed bottled water.",
+    "vaccinations": "Yellow fever vaccination required if arriving from endemic countries. Hepatitis A, Hepatitis B, typhoid, tetanus, and MMR are strongly recommended. Malaria prophylaxis is essential as Rwanda is a moderate-risk malaria region.",
+    "altitude": "Kigali sits at about 1,500 meters elevation with a mild climate year-round due to its equatorial highland location. Two rainy seasons occur from March-May and October-December."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "912",
+    "fire": "113",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Kigali: +250-252-596-400 (Monday-Thursday 8:15 AM-5:30 PM, Friday 8:15 AM-1:00 PM). Located at 30 KG 7 Avenue, Kacyiru. Email: ACSKigali@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Kigali safe for tourists?",
+      "a": "Yes, Kigali is exceptionally safe for tourists and consistently ranks as one of Africa's safest capital cities. With a Crime Index of just 26.4 and strong law enforcement, violent crime against tourists is very rare, though normal urban precautions should still be taken."
+    },
+    {
+      "q": "Is Kigali safe at night?",
+      "a": "Kigali is relatively safe at night with good street lighting and police presence. The city scores 69.4 for nighttime safety, and the nightlife scene is described as secure and welcoming. However, stick to well-lit areas and use official transportation after dark."
+    },
+    {
+      "q": "Is Kigali safe for solo female travelers?",
+      "a": "Yes, Kigali is considered one of Africa's safest cities for solo female travelers, with exceptionally high safety scores and low harassment rates. The country's strong commitment to gender equality is reflected in respectful treatment of women travelers."
+    },
+    {
+      "q": "What areas should I avoid in Kigali?",
+      "a": "Central Kigali is very safe, but exercise more caution in Nyamirambo after dark. Avoid areas within 10km of the DRC border including parts of Rusizi and Rubavu districts due to armed violence risks. Otherwise, there are no specific no-go zones in the city center."
+    },
+    {
+      "q": "Is it safe to use public transport in Kigali?",
+      "a": "Yes, public transport in Kigali is generally safe and well-regulated. Buses are modern with set routes, moto-taxis are heavily regulated with mandatory helmets, and ride-sharing apps like Move and Yego provide additional safety through GPS tracking and driver ratings."
+    }
+  ],
+  "relatedCities": [
+    "nairobi",
+    "kampala",
+    "dar-es-salaam"
+  ],
+  "_city_id": "kigali-rwanda"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "melbourne",
+  "name": "Melbourne",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 7.7
+  },
+  "summary": "Melbourne is widely regarded as one of the world's most liveable cities and ranks among Australia's safest major urban centers. While crime rates have increased modestly in recent years, the city maintains excellent infrastructure, responsive emergency services, and generally welcoming locals that create a secure environment for tourists.",
+  "quickVerdict": "Melbourne is a safe destination for tourists with world-class public transport, excellent healthcare, and relatively low violent crime rates. The main risks are petty theft in busy tourist areas, occasional drink spiking in nightlife districts, and standard urban precautions needed after dark. The city's strong rule of law, multicultural tolerance, and tourist-friendly infrastructure make it ideal for solo travelers, families, and first-time visitors to Australia.",
+  "neighborhoods": [
+    {
+      "name": "Melbourne CBD",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The city center is well-patrolled with extensive CCTV coverage and constant foot traffic during business hours. Main tourist areas like Federation Square and Collins Street are very safe, though pickpocketing can occur in crowded locations."
+    },
+    {
+      "name": "St Kilda",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Popular beachside area with vibrant nightlife and tourist attractions. Generally safe during the day, but some streets can be less secure late at night. The foreshore and Acland Street precinct are well-monitored."
+    },
+    {
+      "name": "Fitzroy",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Hip inner-city suburb known for its arts scene, cafes, and LGBTQ+ friendly venues. Good safety levels with active street life, though standard urban caution is advised after midnight."
+    },
+    {
+      "name": "Richmond",
+      "score": 6.5,
+      "class": "safe",
+      "description": "Diverse area with excellent restaurants and entertainment. Swan Street and Bridge Road are busy and safe, but some residential side streets require more caution at night."
+    },
+    {
+      "name": "Broadmeadows",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Outer suburb with higher unemployment and social disadvantage. Experiences elevated rates of property crime and antisocial behavior. Not recommended for tourists, especially at night."
+    },
+    {
+      "name": "Dandenong",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Multicultural outer suburb undergoing urban renewal but still experiences higher crime rates including home invasions and drug-related offenses. Limited tourist appeal and safety concerns for visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scam",
+      "risk": "medium",
+      "description": "Unlicensed drivers at airports and tourist areas offer flat-rate fares that are significantly higher than metered rates. Some claim their meter is broken after you enter the vehicle.",
+      "howToAvoid": "Only use licensed taxis from designated ranks, ensure the meter is running from the start, or use reputable rideshare apps like Uber."
+    },
+    {
+      "name": "Fake Police Scam",
+      "risk": "low",
+      "description": "Scammers impersonate police officers, approaching tourists to check ID or passports, then claiming fines or requesting bribes. May occur near major attractions.",
+      "howToAvoid": "Real police will have proper identification and badges. Ask to see their warrant card and station details. Report suspicious encounters to 000."
+    },
+    {
+      "name": "Overcharging at Bars",
+      "risk": "medium",
+      "description": "Some venues in tourist areas inflate prices or add unauthorized charges to bills, particularly for visitors who appear unfamiliar with local pricing.",
+      "howToAvoid": "Check prices before ordering, ask for itemized receipts, and be wary of venues that don't display clear pricing. Drink at established venues with good reputations."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "medium",
+      "description": "Fake rental listings on accommodation websites, particularly for major events. Scammers collect payments for properties they don't control.",
+      "howToAvoid": "Use reputable booking platforms, verify listings through multiple sources, and avoid wire transfers or unusual payment methods. Book directly with hotels when possible."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Melbourne is considered one of Australia's safest cities for solo female travelers, with good public transport, well-lit streets, and generally respectful locals. Standard precautions are recommended in nightlife areas where drink spiking has been reported.",
+    "tips": [
+      "Use reputable rideshare services or taxis late at night rather than walking alone",
+      "Stay vigilant with drinks in bars and clubs - never leave them unattended",
+      "Trust your instincts and avoid isolated areas after dark, especially in outer suburbs",
+      "Keep emergency contacts and accommodation details easily accessible",
+      "The CBD and inner suburbs like Fitzroy are generally very safe for women"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Melbourne provides moderate evening safety with 47% of residents feeling secure at night. The CBD and popular entertainment districts maintain good lighting and security presence, though some areas require increased caution after midnight.",
+    "tips": [
+      "Stick to well-lit main streets and avoid quiet laneways late at night",
+      "Entertainment precincts like Chapel Street and King Street have security but can get rowdy on weekends",
+      "Public transport runs all night on weekends with protective service officers on duty",
+      "Keep to busy areas and travel in groups when possible after 2am",
+      "Avoid outer suburbs like Broadmeadows and Dandenong at night"
+    ]
+  },
+  "transport": {
+    "metro": "Melbourne's train network is extensive and generally safe, with protective service officers at major stations from 6pm until last service. New Metro Tunnel enhances connectivity. CCTV coverage is comprehensive across all stations and trains.",
+    "rideshare": "Uber and local alternatives are widely available, safe, and recommended for night travel. Always verify the license plate and driver details before entering. Standard safety features like trip sharing work well in Melbourne.",
+    "taxis": "Licensed taxis are regulated and safe, available from designated ranks or by phone booking. Always ensure the meter is running. Airport taxis use fixed pricing zones which are legitimate and regulated.",
+    "tips": "Public transport is excellent with myki cards for seamless travel. Free tram zones cover the CBD. Night Network provides 24/7 service on weekends. Walking and cycling infrastructure is well-developed in inner suburbs."
+  },
+  "customs": [
+    "Australians value punctuality - arrive on time for appointments and social gatherings",
+    "Greet with a firm handshake and maintain eye contact; close friends may exchange hugs or cheek kisses",
+    "Tipping is not mandatory but 10% is appreciated for exceptional service in restaurants",
+    "Respect personal space - Australians appreciate distance and avoid standing too close unless necessary",
+    "When invited to homes or barbecues, offer to bring food or drinks to share with the group"
+  ],
+  "health": {
+    "overview": "Australia has world-class healthcare with Medicare providing universal coverage. Private hospitals offer excellent services, and pharmacies are readily available throughout Melbourne for minor ailments.",
+    "water": "Tap water is completely safe to drink throughout Melbourne and meets high quality standards. Bottled water is unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for travel to Melbourne. Standard travel vaccines (hepatitis A/B, typhoid) may be recommended based on your activities and medical history.",
+    "altitude": "Melbourne sits at sea level with no altitude concerns. The climate is temperate oceanic with changeable weather - bring layers and sun protection as UV levels can be high year-round."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000 (emergency) or 131 444 (non-emergency)",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A - use general police numbers",
+    "usEmbassy": "US Consulate General Melbourne - (03) 9526 5900, located at 553 St Kilda Road, Melbourne. For after-hours emergencies, call the main embassy in Canberra at (02) 6214 5600."
+  },
+  "faq": [
+    {
+      "q": "Is Melbourne safe for tourists?",
+      "a": "Yes, Melbourne is very safe for tourists and consistently ranks among the world's most liveable cities. While petty crime exists in busy areas, violent crime against tourists is rare. Standard urban precautions apply, especially in nightlife districts."
+    },
+    {
+      "q": "Is Melbourne safe at night?",
+      "a": "Melbourne is moderately safe at night with good lighting and security in entertainment districts. The CBD and inner suburbs are generally secure, but some outer areas require more caution. Public transport runs all night on weekends with security officers."
+    },
+    {
+      "q": "Is Melbourne safe for solo female travelers?",
+      "a": "Melbourne is considered one of Australia's safest cities for solo female travelers. The public transport system is reliable, locals are generally helpful, and infrastructure is excellent. Standard precautions around nightlife areas are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Melbourne?",
+      "a": "Avoid outer suburbs like Broadmeadows and Dandenong, especially at night, due to higher crime rates. In the city, be cautious around Flinders Street Station late at night and stick to main streets rather than quiet laneways after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Melbourne?",
+      "a": "Yes, Melbourne's public transport is very safe with extensive CCTV, protective service officers at stations, and good lighting. The system is clean, efficient, and used by all demographics. Free tram travel in the CBD makes it very tourist-friendly."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "brisbane",
+    "perth",
+    "adelaide",
+    "auckland"
+  ],
+  "_city_id": "melbourne-australia"
+}
