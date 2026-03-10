@@ -1,0 +1,163 @@
+{
+  "slug": "belfast",
+  "name": "Belfast",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 7.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.3,
+    "transport": 7.6,
+    "naturalHazards": 8.8
+  },
+  "summary": "Belfast is a generally safe city that has transformed significantly since the Good Friday Agreement in 1998. Crime rates are 41% higher than Northern Ireland average but 31% lower than the UK overall average, with most incidents involving minor theft and antisocial behavior rather than serious crime.",
+  "quickVerdict": "Belfast offers a safe and welcoming environment for tourists, with violent crime rates similar to other UK cities and lower than many European capitals. The city center and popular tourist areas like the Cathedral Quarter are well-patrolled and generally secure during both day and night. While petty crime and occasional antisocial behavior can occur, especially around nightlife areas, the overall risk to visitors remains low. Solo travelers and families can explore confidently with basic precautions.",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The vibrant heart of Belfast with major attractions, shops, and restaurants. Well-lit and patrolled but can get rowdy after pub closing times, especially on weekends."
+    },
+    {
+      "name": "Cathedral Quarter",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Historic cultural district with cobblestone streets, pubs, and galleries. Generally safe but tourists should be aware of pickpockets and stick to main streets at night."
+    },
+    {
+      "name": "Queen's Quarter",
+      "score": 8.0,
+      "class": "safe",
+      "description": "University area including Botanic Gardens and Ulster Museum. Considered one of the safest areas with good lighting, student presence, and regular police patrols."
+    },
+    {
+      "name": "Titanic Quarter",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern waterfront district with museums and attractions. Very safe during the day with good security presence, though quieter in the evenings."
+    },
+    {
+      "name": "Falls Road",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Historic Republican area with political murals. Generally safe during the day with guided tours but best avoided alone at night due to potential antisocial behavior."
+    },
+    {
+      "name": "Shankill Road",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Loyalist area with historical significance. Safe during day visits but can have tensions and higher crime rates. Avoid isolated streets at night and respect local symbols."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Some drivers may take longer routes or claim broken meters, especially targeting tourists from airports or popular areas.",
+      "howToAvoid": "Use licensed taxis with working meters, agree on fare beforehand, or use ride-sharing apps like Uber. Research average costs in advance."
+    },
+    {
+      "name": "Fake Accommodation Bookings",
+      "risk": "medium",
+      "description": "Scammers create convincing fake listings or websites for accommodation that doesn't exist, requesting payment via bank transfer.",
+      "howToAvoid": "Book through reputable platforms, verify accommodation exists, use secure payment methods, and be wary of deals that seem too good to be true."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "low",
+      "description": "Groups create distractions while accomplices steal from tourists, particularly around crowded areas like markets and transport hubs.",
+      "howToAvoid": "Stay alert in crowds, keep valuables secure and out of sight, avoid accepting help from strangers, and be wary of staged arguments or commotions."
+    },
+    {
+      "name": "Camera Damage Scam",
+      "risk": "low",
+      "description": "Someone asks you to take their photo then deliberately drops the camera, claiming you broke it and demanding compensation.",
+      "howToAvoid": "Politely decline to take photos for strangers, especially in tourist areas. If you must help, be extremely careful with their equipment."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Belfast is relatively safe for solo female travelers, ranking among the top 20 safest UK cities for women. The city center and tourist areas are well-lit with regular police presence. However, women should exercise caution when walking alone at night, particularly in less busy areas and certain neighborhoods with higher antisocial behavior.",
+    "tips": [
+      "Stay in central tourist areas like Queen's Quarter or near the city center for better safety and lighting",
+      "Use licensed taxis or ride-sharing services for late-night transportation rather than walking alone",
+      "Avoid political discussions and areas with strong sectarian symbols, especially during marching season in July",
+      "Keep emergency contacts handy and consider staying at female-only accommodations like Botanical Backpackers if preferred"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Belfast's nightlife is generally safe with well-lit city center areas and visible police presence in popular districts like Cathedral Quarter. About 51% of residents and visitors feel fully secure during nighttime hours. The main risks involve alcohol-related incidents and antisocial behavior around pub areas, particularly on weekends after closing time.",
+    "tips": [
+      "Travel in groups when possible and stick to well-lit, busy streets",
+      "Plan transportation home in advance using licensed taxis or pre-booked services",
+      "Avoid walking alone through quiet areas or taking dark shortcuts, especially after drinking",
+      "Stay aware of surroundings in nightlife districts and don't leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "Belfast doesn't have an underground metro system. Public transport is operated by Translink with Metro buses on 12 main corridors and the modern Glider bus rapid transit system with dedicated lanes. Services are generally safe with CCTV and good coverage of the city.",
+    "rideshare": "Uber operates in Belfast alongside local ride-sharing services. Generally safe and convenient for tourists, especially for late-night travel. Always verify driver and vehicle details match the app before getting in.",
+    "taxis": "Licensed black cabs are widely available and generally safe, with regulated fares starting at £3. Major companies include Value Cabs and fonaCab. Can be difficult to find during weekend closing times, so book ahead for busy periods.",
+    "tips": "Public transport is reliable during the day but limited at night. The new late-night bus services operate Friday and Saturday nights in 2026. Always use licensed taxis with yellow plates or book through reputable companies."
+  },
+  "customs": [
+    "Queue politely and patiently - cutting in line is considered very rude and will attract disapproving looks",
+    "Use 'please' and 'thank you' frequently in all interactions, from shops to restaurants to casual conversations",
+    "Avoid political discussions about Northern Ireland's history, especially topics related to The Troubles or sectarian issues",
+    "Respect pub culture - if someone buys you a drink, reciprocate by buying a round for the group later",
+    "Maintain personal space and avoid overly familiar physical contact with people you don't know well"
+  ],
+  "health": {
+    "overview": "Belfast has good healthcare infrastructure with modern facilities, though wait times can be longer in public system. The city is part of the UK's National Health Service which provides emergency treatment to all visitors, though non-residents may be charged 150% of standard costs.",
+    "water": "Tap water is completely safe to drink throughout Belfast and meets high UK standards. No need to buy bottled water for health reasons.",
+    "vaccinations": "No special vaccinations required for Belfast. Standard travel vaccines like MMR, DPT, and seasonal flu are recommended. EU nationals should bring European Health Insurance Card.",
+    "altitude": "Belfast is at sea level with a temperate maritime climate. Weather can be unpredictable with frequent rain - pack waterproof clothing and layers for all seasons."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 or 112",
+    "ambulance": "999 or 112",
+    "fire": "999 or 112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy London covers Northern Ireland - 24/7 assistance at +44 20 7499 9000. Belfast has US Consular Agent services for American citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Belfast safe for tourists?",
+      "a": "Yes, Belfast is generally safe for tourists with crime rates lower than many UK cities. The main tourist areas are well-patrolled and incidents involving visitors are rare. Basic precautions like avoiding excessive drinking and staying in well-lit areas are recommended."
+    },
+    {
+      "q": "Is Belfast safe at night?",
+      "a": "Belfast city center and popular nightlife areas are generally safe at night with good lighting and police presence. However, avoid walking alone in quieter areas and use licensed taxis for late-night transportation, especially on weekends."
+    },
+    {
+      "q": "Is Belfast safe for solo female travelers?",
+      "a": "Yes, Belfast ranks as one of the safer UK cities for solo female travelers. Women should stay in central areas, use reputable transportation, and avoid walking alone late at night in less busy neighborhoods."
+    },
+    {
+      "q": "What areas should I avoid in Belfast?",
+      "a": "While most of Belfast is safe, exercise extra caution in parts of Falls Road and Shankill Road at night. These areas have historical tensions and higher antisocial behavior, though they're generally fine during the day with guided tours."
+    },
+    {
+      "q": "Is it safe to use public transport in Belfast?",
+      "a": "Yes, Belfast's public transport system including Metro buses and Glider services is safe with CCTV coverage. Services can be limited late at night, so plan ahead or use licensed taxis after hours."
+    }
+  ],
+  "relatedCities": [
+    "dublin",
+    "edinburgh",
+    "glasgow",
+    "manchester",
+    "liverpool"
+  ],
+  "_city_id": "belfast-united-kingdom"
+}

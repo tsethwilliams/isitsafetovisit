@@ -1,0 +1,161 @@
+{
+  "slug": "lyon",
+  "name": "Lyon",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 6.2,
+    "womensSafety": 6.5,
+    "nightSafety": 6.5,
+    "transport": 7.8,
+    "naturalHazards": 7.1
+  },
+  "summary": "Lyon is France's third-largest city and generally safe for tourists, with low violent crime rates and effective policing. While petty crime like pickpocketing occurs in tourist areas and public transport, the city has strong infrastructure and healthcare systems that make it a relatively secure destination.",
+  "quickVerdict": "Lyon is a generally safe destination for tourists with typical urban precautions needed. The city has moderately high petty crime rates, particularly pickpocketing in tourist zones and on public transport, but violent crime remains low. France maintains a Level 2 travel advisory due to terrorism concerns, though incidents are rare. The city's excellent public transport system operates safely until late hours, and healthcare facilities are world-class. Solo female travelers should exercise normal precautions, especially in certain areas at night.",
+  "neighborhoods": [
+    {
+      "name": "Presqu'île (1st-2nd)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic city center with excellent lighting, regular police presence, and active nightlife. Main shopping and dining district with busy streets providing natural security through foot traffic."
+    },
+    {
+      "name": "Vieux Lyon (5th)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "UNESCO World Heritage old town that's generally safe but can become quiet after tourist hours. Well-maintained Renaissance architecture area with good tourist infrastructure and lighting."
+    },
+    {
+      "name": "Croix-Rousse (1st-4th)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Bohemian hilltop district with village-like atmosphere. Lower crime rates than city center, well-lit streets, and strong local community presence providing natural surveillance."
+    },
+    {
+      "name": "6th Arrondissement (Foch)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Upscale residential area with wide avenues and good lighting. Popular with locals and considered one of the most comfortable neighborhoods for evening walks."
+    },
+    {
+      "name": "La Guillotière (7th)",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Multicultural area near Part-Dieu with higher crime rates, particularly around Place Gabriel-Péri metro station. Drug trafficking and petty crime more common, especially at night."
+    },
+    {
+      "name": "Gerland (7th)",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Rapidly developing business district that includes some areas with safety concerns, particularly around certain commercial zones. Mixed residential and business area requiring extra vigilance after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Camera Drop Scam",
+      "risk": "medium",
+      "description": "Someone asks you to take their photo, then purposely drops their camera when you return it, claiming you broke it and demanding payment for repairs.",
+      "howToAvoid": "Politely decline to take photos for strangers you don't know well, or be extremely careful when handling others' devices."
+    },
+    {
+      "name": "Bar/Nightlife Overcharge Scam",
+      "risk": "high",
+      "description": "Friendly locals invite tourists to bars where drinks cost 5-10 times normal prices. If you refuse to pay, bodyguards escort you to ATMs.",
+      "howToAvoid": "Suggest your own bar choice, always ask to see drink menus and prices before ordering, and be wary of overly friendly strangers in tourist areas."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Fraudsters approach at ATMs offering to help avoid bank fees, then use card skimmers to steal your information while watching you enter your PIN.",
+      "howToAvoid": "Never accept help from strangers at ATMs, cover your PIN when entering it, and use ATMs inside banks when possible."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Groups work together where one person distracts you while accomplices steal your wallet, phone, or valuables, especially common on crowded public transport and tourist areas.",
+      "howToAvoid": "Keep valuables in front pockets or secure bags, stay alert in crowded areas, and be suspicious of unnecessary physical contact or distractions from strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Lyon is generally safe with standard urban precautions. Some female travelers report elevated levels of street harassment, particularly verbal, though experiences vary. The city has good infrastructure, reliable public transport until late hours, and emergency services. Areas like Presqu'île and Vieux Lyon are well-patrolled and lit, while places like La Guillotière require extra caution at night.",
+    "tips": [
+      "Avoid poorly lit streets in La Guillotière and Mermoz areas after dark",
+      "Use the 'Ask for Angela' network - look for 'Ici demandez Angela' stickers in bars and shops for safe spaces",
+      "Take advantage of late-night public transport - metro runs until 2am on weekends and night buses operate Thursday-Saturday",
+      "Stay in central areas like Presqu'île or near major transport hubs for easier access to help if needed",
+      "Trust your instincts about street harassment - French authorities take it seriously and there are support systems available"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lyon's night safety varies significantly by area and time. Central districts like Presqu'île stay active and well-lit until late, while areas like La Guillotière can become unpredictable after midnight. The city offers excellent night transport with extended metro hours on weekends and special night bus lines. Most locals move around without major issues by sticking to well-lit, busy areas.",
+    "tips": [
+      "Stick to busy, well-lit streets and avoid empty side streets after midnight",
+      "Use TCL's Pleine Lune night bus network or extended weekend metro service rather than walking long distances",
+      "Areas like Presqu'île, Vieux Lyon, and Croix-Rousse are generally comfortable for evening activities",
+      "Request to be dropped off between bus stops for safety - all TCL bus drivers offer this service after 10pm",
+      "Consider the 'Ask for Angela' system if you feel unsafe - participating establishments provide refuge and assistance"
+    ]
+  },
+  "transport": {
+    "metro": "TCL metro system is generally safe and efficient with four lines covering the city. Extended hours until 2am on Friday and Saturday nights. Some pickpocketing occurs during rush hours and at major stations like Part-Dieu and Bellecour.",
+    "rideshare": "Uber and Bolt operate in Lyon and are considered safe options. Local taxi services are regulated and reliable, with wheelchair accessible vehicles available through TL Taxis (+33 4 78 26 81 81).",
+    "taxis": "Licensed taxis are safe and regulated. Always ensure the meter is running and agree on fares for longer journeys. Night surcharges apply after 7pm and on weekends.",
+    "tips": "Public transport is excellent with metro, tram, bus, and funicular systems. Validate tickets each time you board. Night buses (Pleine Lune) run Thursday-Saturday. Vélo'v bike sharing has 349 stations across the city."
+  },
+  "customs": [
+    "Always greet with 'Bonjour Monsieur/Madame' when entering shops, restaurants, or speaking to service staff - this is considered essential politeness",
+    "Dress smartly and avoid athletic wear or overly casual clothing when out in the city - Lyon residents value well-presented appearance",
+    "Speak quietly in public spaces, restaurants, and on transport - loud conversations are considered impolite and mark you as a tourist"
+  ],
+  "health": {
+    "overview": "Lyon has world-class healthcare through the Hospices Civils de Lyon network, France's second-largest university hospital system. Emergency services are excellent with 24/7 availability.",
+    "water": "Tap water is completely safe to drink throughout Lyon and meets high EU standards. No concerns about waterborne illness.",
+    "vaccinations": "No special vaccinations required for France. Routine vaccines should be up to date. EU health insurance cards accepted.",
+    "altitude": "Lyon sits at low elevation (200m) with temperate climate. Air quality is moderate with occasional pollution spikes during winter months. No altitude or climate health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "17",
+    "usEmbassy": "US Consulate: +33 1 43 12 22 22 (Paris) - No consulate in Lyon, nearest is in Paris"
+  },
+  "faq": [
+    {
+      "q": "Is Lyon safe for tourists?",
+      "a": "Yes, Lyon is generally safe for tourists. It's France's third-largest city with low violent crime rates and good security infrastructure. Take normal urban precautions against petty crime, especially pickpocketing in tourist areas and on public transport."
+    },
+    {
+      "q": "Is Lyon safe at night?",
+      "a": "Central areas like Presqu'île and Vieux Lyon are safe at night with good lighting and police presence. Avoid areas like La Guillotière after midnight. The metro runs until 2am on weekends, and night buses operate Thursday-Saturday."
+    },
+    {
+      "q": "Is Lyon safe for solo female travelers?",
+      "a": "Generally yes, though some women report street harassment. Stay in well-lit central areas, use the 'Ask for Angela' safety network, and take advantage of extended public transport hours. Areas like Presqu'île and Croix-Rousse are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Lyon?",
+      "a": "Exercise caution in La Guillotière (especially around Place Gabriel-Péri) and parts of Gerland at night. Also avoid outer suburbs like Vaulx-en-Velin and Vénissieux after dark. Stick to central, well-lit areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Lyon?",
+      "a": "Yes, TCL public transport is safe and reliable. Watch for pickpockets during rush hours and at major stations. The system includes metro, trams, buses, and funiculars with excellent coverage and late-night service options."
+    }
+  ],
+  "relatedCities": [
+    "paris",
+    "marseille",
+    "bordeaux"
+  ],
+  "_city_id": "lyon-france"
+}

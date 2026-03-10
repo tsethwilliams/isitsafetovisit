@@ -1,0 +1,161 @@
+{
+  "slug": "nice",
+  "name": "Nice",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.5,
+    "scamRisk": 5.0,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 8.1
+  },
+  "summary": "Nice is considered one of France's safer major cities, ranking third in a 2024 Le Parisian survey. While petty crime like pickpocketing and beach theft is common, violent crime rates are low and tourist infrastructure is well-developed.",
+  "quickVerdict": "Nice offers a generally safe experience for tourists with excellent public transport, good police presence, and well-lit tourist areas. The main concerns are pickpockets in crowded areas and tourist scams, particularly around the Promenade des Anglais and Old Town. Solo female travelers report feeling secure during the day and most evening hours, though basic precautions are advised after dark. The city's Mediterranean charm and strong tourism infrastructure make safety management straightforward for aware visitors.",
+  "neighborhoods": [
+    {
+      "name": "Promenade des Anglais",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-patrolled tourist promenade with excellent visibility and constant foot traffic. Watch for pickpockets and beach theft during peak hours."
+    },
+    {
+      "name": "Vieux Nice (Old Town)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic center with narrow streets and active nightlife. Generally safe but crowded areas attract pickpockets. Good lighting and police presence."
+    },
+    {
+      "name": "Place Masséna & City Center",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Main shopping and business district with excellent security, CCTV coverage, and regular police patrols. Very safe during day and evening hours."
+    },
+    {
+      "name": "Cimiez",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area with museums and gardens. Quiet, well-maintained neighborhood with low crime rates and good lighting."
+    },
+    {
+      "name": "Las Planas",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Outer residential area with higher crime rates. Locals advise avoiding this neighborhood, particularly after dark. Limited tourist infrastructure."
+    },
+    {
+      "name": "Les Moulins",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Social housing area with reported safety concerns. Not recommended for tourists, especially solo travelers or during nighttime hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Beach Grab Theft",
+      "risk": "high",
+      "description": "Thieves snatch unattended belongings while tourists swim or sunbathe on beaches",
+      "howToAvoid": "Never leave valuables unattended on beach, use bags as pillows while sunbathing, or don't bring valuable items to beach"
+    },
+    {
+      "name": "Fake Charity Petitions",
+      "risk": "medium",
+      "description": "Scammers with clipboards approach tourists for fake charity donations while accomplices pickpocket",
+      "howToAvoid": "Politely decline with 'Non, merci' and keep walking, don't engage with clipboard-wielding strangers"
+    },
+    {
+      "name": "Gold Ring Scam",
+      "risk": "medium",
+      "description": "Scammer pretends to find gold ring on ground and offers to sell it to tourist at discount price",
+      "howToAvoid": "Don't accept any 'found' jewelry, decline politely and walk away immediately"
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Dishonest drivers charge excessive fares or claim broken meters, especially from airport",
+      "howToAvoid": "Use official taxis with working meters, confirm fixed airport rates (€32), or use ride-sharing apps like Uber"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nice ranks as the 6th safest place in France for solo female travelers with a 4.4/5 rating. Women report feeling secure during daylight and most evening hours, with occasional reports of harassment in bars or nightlife areas. The city has excellent tourist infrastructure and helpful locals.",
+    "tips": [
+      "Avoid walking alone in poorly lit areas after midnight",
+      "Stay in well-populated areas like Promenade des Anglais and city center",
+      "Be cautious of overly persistent individuals in nightlife districts",
+      "Join group tours or stay near other tourists for added security",
+      "Trust your instincts and use official transport options when returning late"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nice provides moderate evening safety with 45% of residents feeling fully secure after dark. Tourist areas remain well-lit and patrolled, but some neighborhoods become riskier at night. Public transport operates until late with good safety records.",
+    "tips": [
+      "Stick to busy, well-lit streets and tourist zones after dark",
+      "Avoid empty areas around train stations and the port late at night",
+      "Use taxis or rideshare services instead of walking long distances",
+      "Plan your route home in advance when staying out late",
+      "Stay alert in nightlife areas and don't leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "Nice has excellent tram and bus networks operated by Lignes d'Azur. Trams run from 4:25 AM to 1:35 AM with frequent service. The system is modern, reliable and connects all major tourist areas including the airport.",
+    "rideshare": "Uber operates reliably in Nice and is often preferred over traditional taxis due to lower costs and easier communication. All rides are tracked and payment is cashless, adding security.",
+    "taxis": "Official taxis are safe but expensive (highest fares in continental France). Airport to city center costs fixed rate of €32. Always ensure meter is running and be wary of dishonest drivers claiming broken meters.",
+    "tips": "Public transport is the safest and most economical option. Validate tickets to avoid fines. Keep belongings secure on crowded transport as pickpockets target these areas during peak hours."
+  },
+  "customs": [
+    "Always greet with 'Bonjour Monsieur/Madame' when entering shops or meeting someone",
+    "Tipping is not mandatory as 15% service charge is included by law, but small tips (5-10%) are appreciated for exceptional service",
+    "Wait to be seated in restaurants rather than choosing your own table"
+  ],
+  "health": {
+    "overview": "France has excellent healthcare infrastructure with high standards. Nice has several hospitals including Hospital Pasteur (public) and private clinics. EU citizens can use European Health Insurance Card.",
+    "water": "Tap water is safe to drink throughout Nice and meets EU standards. Many locals drink it daily and you can refill bottles without concern.",
+    "vaccinations": "No special vaccinations required for France. Routine vaccinations should be up to date as recommended for international travel.",
+    "altitude": "Nice is at sea level with Mediterranean climate. Mild winters and hot summers. Occasional strong mistral winds but no altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Marseille: +33 1 43 12 22 22. Located in Paris, US Embassy France at 2 Avenue Gabriel, with 24/7 emergency assistance for American citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Nice safe for tourists?",
+      "a": "Yes, Nice is generally very safe for tourists. It ranked 3rd safest among major French cities in 2024. Main concerns are petty crime like pickpocketing rather than violent crime."
+    },
+    {
+      "q": "Is Nice safe at night?",
+      "a": "Nice is moderately safe at night in tourist areas like Promenade des Anglais and the city center. Avoid empty streets and areas around train stations after midnight. Use official transport when possible."
+    },
+    {
+      "q": "Is Nice safe for solo female travelers?",
+      "a": "Yes, Nice ranks 6th safest in France for solo female travelers with a 4.4/5 rating. Women report feeling secure during day and most evening hours, though basic precautions are advised after dark."
+    },
+    {
+      "q": "What areas should I avoid in Nice?",
+      "a": "Avoid Las Planas and Les Moulins neighborhoods, especially after dark. Also be cautious around train stations and the port area at night. Stick to well-lit tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Nice?",
+      "a": "Yes, Nice's public transport is very safe and reliable. Trams and buses operate frequently with good security. Watch for pickpockets during crowded periods and always validate tickets to avoid fines."
+    }
+  ],
+  "relatedCities": [
+    "cannes",
+    "monaco",
+    "marseille"
+  ],
+  "_city_id": "nice-france"
+}

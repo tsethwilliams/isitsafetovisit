@@ -1,0 +1,161 @@
+{
+  "slug": "toulouse",
+  "name": "Toulouse",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Toulouse is generally safe for tourists, ranking as one of France's safer major cities with low violent crime rates. The main concerns are petty crime like pickpocketing in crowded areas and occasional flooding from the Garonne River.",
+  "quickVerdict": "Known as 'La Ville Rose' for its pink brick architecture, Toulouse offers a safe environment for visitors with excellent public transportation and good emergency services. While petty crime exists in tourist areas and around the main train station, violent crime is rare. The city has experienced recent flooding but generally poses minimal natural disaster risk. Solo female travelers report feeling comfortable, especially in the city center, though caution is advised in certain peripheral neighborhoods at night.",
+  "neighborhoods": [
+    {
+      "name": "City Center / Capitole",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Toulouse around Place du Capitole is very safe with heavy foot traffic, police presence, and well-lit streets. Tourist-friendly area with cafes and shops."
+    },
+    {
+      "name": "Saint-Sernin / University Quarter",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic area around the UNESCO basilica with good safety levels. Student population keeps area lively. Some minor pickpocketing risk near tourist sites."
+    },
+    {
+      "name": "Carmes District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy area with boutiques and restaurants. Generally safe for evening dining and nightlife, though standard urban precautions apply."
+    },
+    {
+      "name": "Gare Matabiau Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Main train station area requires extra vigilance, especially at night. Higher rates of petty crime and some transient population. Well-connected but avoid after dark if alone."
+    },
+    {
+      "name": "Le Mirail",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Northern suburb with social housing that tourists should avoid, particularly at night. Known for drug-related activity and higher crime rates."
+    },
+    {
+      "name": "Outer Northern Areas",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Peripheral neighborhoods like Reynerie, Bellefontaine, and Bagatelle have elevated crime risks. Limited tourist infrastructure and should be avoided."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing on Public Transport",
+      "risk": "high",
+      "description": "Thieves work in groups on buses, trams, and metro, often creating distractions while accomplices steal wallets and phones.",
+      "howToAvoid": "Keep valuables in front pockets or hidden pouches. Stay alert near doors and crowded areas. Don't use phones near transport doors."
+    },
+    {
+      "name": "Train Station Theft",
+      "risk": "high",
+      "description": "Gare Matabiau sees frequent pickpocketing and bag snatching, especially targeting tired travelers with luggage.",
+      "howToAvoid": "Keep bags zipped and in front of you. Avoid displaying valuables. Use taxi apps rather than walking alone with luggage at night."
+    },
+    {
+      "name": "Tourist Area Begging Scams",
+      "risk": "medium",
+      "description": "Aggressive panhandlers near attractions may work in groups or use fake petitions to distract while accomplices steal items.",
+      "howToAvoid": "Politely decline and keep moving. Don't sign petitions from strangers. Keep belongings secure in crowded tourist areas."
+    },
+    {
+      "name": "ATM and Card Fraud",
+      "risk": "medium",
+      "description": "Skimming devices occasionally found on ATMs in tourist areas, and fake card readers may be used by criminals.",
+      "howToAvoid": "Use ATMs inside banks when possible. Cover your PIN. Check for unusual attachments on card readers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Toulouse is considered safe for solo female travelers, ranking 15th safest in France according to travel safety data. The city center is well-patrolled and women report feeling comfortable walking alone during the day. Evening safety is good in central areas, though some peripheral neighborhoods should be avoided after dark.",
+    "tips": [
+      "Stick to well-lit central areas like Capitole and Carmes districts in the evening",
+      "Use official taxis or rideshare apps rather than walking alone late at night",
+      "Avoid northern suburbs like Le Mirail, especially after dark",
+      "Trust your instincts and stay confident when navigating the city",
+      "Consider staying in accommodations near metro stations for easy transport"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Toulouse nightlife is generally safe with vibrant areas around Place Saint-Pierre and the Garonne riverfront. The city has good lighting in central areas and regular police patrols. However, safety decreases in peripheral areas and around the train station after dark.",
+    "tips": [
+      "Enjoy nightlife in central districts like Carmes and around Place Saint-Pierre",
+      "Travel in groups when possible and use official taxis for late-night transport",
+      "Avoid walking alone near Gare Matabiau station after 10 PM",
+      "Stay aware of your surroundings and don't flash expensive items",
+      "Keep emergency numbers saved and share your location with friends"
+    ]
+  },
+  "transport": {
+    "metro": "Toulouse metro is modern, automated, and generally very safe with platform screen doors and CCTV. Two main lines (A and B) cover the city well. Minor pickpocketing risk during rush hours.",
+    "rideshare": "Uber and local apps are widely available and considered safer than walking at night. Drivers are generally reliable and vehicles are tracked.",
+    "taxis": "Official taxis are safe and regulated. Can be harder to find at night, so booking via phone or apps is recommended. Standard European safety protocols apply.",
+    "tips": "Public transport is excellent and much safer than driving. Validate tickets to avoid fines. The Tisseo network is comprehensive and user-friendly."
+  },
+  "customs": [
+    "Always greet with 'Bonjour' when entering shops or restaurants - this is essential etiquette",
+    "Use 'vous' (formal 'you') with strangers and service staff rather than 'tu' (informal)",
+    "Keep your voice down in public spaces - loud conversation is considered rude in French culture"
+  ],
+  "health": {
+    "overview": "France has excellent healthcare with universal coverage. Toulouse has quality hospitals and medical facilities. Emergency services are well-coordinated and respond quickly.",
+    "water": "Tap water is safe to drink throughout the city. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance is recommended but healthcare is accessible to all in emergencies.",
+    "altitude": "Toulouse is at low elevation with a mild climate. Summers can be hot (up to 30°C/86°F) and winters are generally mild with occasional cold snaps."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22. Located at 2 Avenue Gabriel, 75008 Paris (no consulate in Toulouse)"
+  },
+  "faq": [
+    {
+      "q": "Is Toulouse safe for tourists?",
+      "a": "Yes, Toulouse is generally safe for tourists and ranks among France's safer major cities. Violent crime is rare, though visitors should be aware of pickpocketing in crowded areas and around the train station."
+    },
+    {
+      "q": "Is Toulouse safe at night?",
+      "a": "The city center and main tourist areas are safe at night with good lighting and foot traffic. Avoid northern suburbs like Le Mirail and be cautious around Gare Matabiau station after dark."
+    },
+    {
+      "q": "Is Toulouse safe for solo female travelers?",
+      "a": "Yes, solo female travelers generally feel safe in Toulouse, especially in central areas. The city ranks 15th safest in France for women, though standard urban precautions should be taken."
+    },
+    {
+      "q": "What areas should I avoid in Toulouse?",
+      "a": "Avoid Le Mirail and northern peripheral neighborhoods like Reynerie, Bellefontaine, and Bagatelle, especially at night. Exercise extra caution around Gare Matabiau train station after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Toulouse?",
+      "a": "Yes, Toulouse's Tisseo public transport system is modern, reliable, and generally safe. The automated metro has platform screen doors and CCTV. Watch for pickpockets during rush hours."
+    }
+  ],
+  "relatedCities": [
+    "lyon",
+    "bordeaux",
+    "marseille"
+  ],
+  "_city_id": "toulouse-france"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "york",
+  "name": "York",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.5,
+    "naturalHazards": 9.0
+  },
+  "summary": "York is considered one of the safest major cities in England, with effective community policing and tourist-focused security. While petty crimes like pickpocketing and bicycle theft occur, violent crime remains relatively low. The medieval city's compact size and active nightlife create a generally secure environment for visitors.",
+  "quickVerdict": "York offers a reassuringly safe environment for tourists, combining historic charm with modern safety standards. The city benefits from strong tourism infrastructure, active community policing, and well-lit streets. While visitors should remain aware of common tourist-targeted crimes like pickpocketing and fake police scams, York's overall crime rate aligns with or is below national UK averages. The compact city center, reliable public transport, and vibrant nightlife create conditions where most travelers can explore confidently, though standard urban precautions are always recommended.",
+  "neighborhoods": [
+    {
+      "name": "York Minster Quarter",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The cathedral area is heavily patrolled and well-maintained with excellent lighting. Tourist police presence is high, and the area benefits from constant foot traffic during the day."
+    },
+    {
+      "name": "The Shambles",
+      "score": 8.0,
+      "class": "safe",
+      "description": "This famous medieval street is generally very safe due to heavy tourist traffic and good surveillance. Watch for pickpockets in crowded areas, particularly during peak tourist seasons."
+    },
+    {
+      "name": "City Centre",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-patrolled shopping and dining area with good lighting and CCTV coverage. Most incidents involve petty theft from distracted tourists rather than serious crime."
+    },
+    {
+      "name": "Micklegate Bar",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular nightlife area with numerous pubs and bars. Generally safe but can become rowdy late at night, particularly on weekends. Stick to main streets after dark."
+    },
+    {
+      "name": "Railway Station Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Higher concentration of petty crime due to transient population. Pickpocketing and scams targeting tourists are more common here. Keep valuables secure and stay alert."
+    },
+    {
+      "name": "Outer Residential Areas",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Quiet residential neighborhoods that are generally safe but less well-lit at night. Limited police presence compared to city center, but serious crime is rare."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "moderate",
+      "description": "Scammers pose as police officers demanding to check personal items or investigate fraudulent transactions. They may ask victims to withdraw cash or hand over valuables for inspection.",
+      "howToAvoid": "Always ask for proper ID, name, rank, and badge number. Real police will never ask you to withdraw cash or hand over money for inspection. If in doubt, call 101 to verify."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Teams of thieves work together, with one creating a distraction while another steals valuables. Common tactics include spilling drinks, asking for directions, or offering unwanted help with maps.",
+      "howToAvoid": "Keep bags zipped and in front of your body in crowded areas. Be wary of unsolicited help or sudden distractions. Use bags with lockable zippers when possible."
+    },
+    {
+      "name": "QR Code Fraud",
+      "risk": "moderate",
+      "description": "Fake QR codes are placed over legitimate ones on parking meters, restaurant tables, and tourist information boards. Scanning these leads to phishing sites that steal payment details.",
+      "howToAvoid": "Only scan QR codes shown directly by staff or clearly marked with official signage. Check that codes haven't been stuck over original ones. When in doubt, ask staff for the official website or payment method."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "moderate",
+      "description": "Some tour guides, taxi drivers, and street vendors specifically target tourists with inflated prices or unnecessary add-on services, particularly around major attractions.",
+      "howToAvoid": "Research typical prices in advance. Use official tour companies and licensed taxi services. Always agree on prices before services begin, and don't be afraid to walk away from suspicious offers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "York is considered very safe for solo female travelers, consistently ranking among the UK's safest cities. The compact medieval center, active tourism industry, and strong community policing create an environment where women can explore confidently both day and night. Most areas are well-lit and regularly patrolled, with plenty of other tourists and locals around even in the evening hours.",
+    "tips": [
+      "Stay in well-reviewed accommodations near the city center for easier access to safe, well-lit areas",
+      "The city center is very walkable, but avoid isolated riverside paths and unlit shortcuts after dark",
+      "York's pub culture is generally welcoming to solo female travelers - stick to busy, well-established venues",
+      "Public transport including buses and trains is very safe, with good CCTV coverage and regular services",
+      "Keep emergency numbers saved and consider registering with the STEP program if you're a US citizen"
+    ]
+  },
+  "nightSafety": {
+    "overview": "York's nightlife is generally safe and vibrant, with the city center remaining active until late hours. The medieval streets are well-lit and patrolled, and the concentration of pubs, restaurants, and entertainment venues means there's usually good foot traffic. Most incidents involve minor disturbances related to alcohol rather than serious crime against tourists.",
+    "tips": [
+      "Stick to the main nightlife areas like Micklegate and the city center where there's good lighting and police presence",
+      "Book taxis in advance or use official ride-sharing apps rather than unlicensed vehicles",
+      "Avoid isolated areas along the River Ouse and poorly lit snickelways (narrow medieval streets) after dark",
+      "Pub culture involves 'buying rounds' - if someone buys you a drink, it's polite to reciprocate",
+      "Most pubs close around 11 PM, though some have extended licenses - plan your evening accordingly"
+    ]
+  },
+  "transport": {
+    "metro": "York doesn't have a metro system, but the railway station is a major hub on the East Coast Main Line with excellent connections to London, Edinburgh, Manchester, and other major UK cities. The station is well-maintained and safe with good lighting and CCTV coverage.",
+    "rideshare": "Uber operates in York but coverage can be limited compared to larger cities. The service is generally safe and reliable when available. Always verify the driver and vehicle details match the app before getting in.",
+    "taxis": "York has several licensed taxi companies with good safety standards. Black cabs and licensed minicabs are regulated and safe. Always use licensed taxis - look for proper identification and meters. A taxi from the train station to city center costs around £12.",
+    "tips": "Public buses are frequent, safe, and well-connected throughout the city. The Park & Ride system offers six locations with free parking and regular bus services to the city center. Walking is often the best option in the compact city center, and cycling is popular with dedicated paths available."
+  },
+  "customs": [
+    "Queuing is taken very seriously - always wait your turn in line and never push ahead",
+    "Politeness is highly valued - use 'please', 'thank you', and 'excuse me' frequently in daily interactions",
+    "In pubs, it's customary to take turns buying rounds of drinks for your group - if someone buys you a drink, reciprocate",
+    "Tipping is optional but appreciated - 10-12% in restaurants if no service charge is included, round up taxi fares",
+    "Avoid discussing politics, personal finances, or making loud complaints in public - British culture values discretion and understatement"
+  ],
+  "health": {
+    "overview": "Healthcare in York is provided through the National Health Service (NHS) with good quality medical facilities available. Emergency care is free for visitors regardless of insurance status, though non-emergency treatment may incur charges for non-residents.",
+    "water": "Tap water in York is completely safe to drink and of high quality. No special precautions or bottled water purchases are necessary.",
+    "vaccinations": "No special vaccinations are required for visiting York. Standard travel vaccinations like MMR should be up to date. The UK has good disease surveillance and outbreak control systems.",
+    "altitude": "York is at sea level with a temperate maritime climate. Weather is generally mild but can be unpredictable - bring layers and waterproof clothing. Flooding can occasionally occur near the River Ouse during heavy rainfall periods."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999 or 112",
+    "fire": "999 or 112",
+    "touristPolice": "North Yorkshire Police - 101",
+    "usEmbassy": "US Embassy London: +44 20 7499-9000 (24-hour line). Located in London, approximately 2 hours by train from York. For emergency assistance, US citizens should also register with the Smart Traveler Enrollment Program (STEP)."
+  },
+  "faq": [
+    {
+      "q": "Is York safe for tourists?",
+      "a": "Yes, York is very safe for tourists and consistently ranks as one of the safest cities in England. The city has effective community policing, good lighting, and strong tourism infrastructure. Most incidents involve minor petty crimes rather than serious threats to visitor safety."
+    },
+    {
+      "q": "Is York safe at night?",
+      "a": "York is generally safe at night, especially in the well-lit city center and popular nightlife areas. The medieval streets have good lighting and regular police patrols. Avoid isolated riverside paths and poorly lit snickelways after dark, but the main areas remain active and secure."
+    },
+    {
+      "q": "Is York safe for solo female travelers?",
+      "a": "York is excellent for solo female travelers and ranks among the UK's safest cities for women. The compact size, active tourism scene, and strong community policing create a secure environment. Most areas are walkable and well-monitored, with plenty of other tourists and locals around."
+    },
+    {
+      "q": "What areas should I avoid in York?",
+      "a": "No areas in York are particularly dangerous, but exercise more caution around the railway station area where petty crime is slightly higher, isolated riverside paths after dark, and poorly lit medieval alleyways at night. The Micklegate Bar area can become rowdy late at night on weekends."
+    },
+    {
+      "q": "Is it safe to use public transport in York?",
+      "a": "Yes, public transport in York is very safe. Buses are frequent and reliable with good CCTV coverage. The railway station is well-maintained and secure. The Park & Ride system is excellent for reaching the city center. Licensed taxis and ride-sharing services are also generally safe and regulated."
+    }
+  ],
+  "relatedCities": [
+    "edinburgh",
+    "bath",
+    "cambridge",
+    "oxford",
+    "canterbury"
+  ],
+  "_city_id": "york-united-kingdom"
+}

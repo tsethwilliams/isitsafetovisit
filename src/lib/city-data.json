@@ -16264,6 +16264,1301 @@
         "glasgow",
         "dublin"
       ]
+    },
+    {
+      "slug": "bath",
+      "name": "Bath",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 7.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 7.6,
+        "scamRisk": 7.2,
+        "womensSafety": 8.5,
+        "nightSafety": 7.4,
+        "transport": 8.5,
+        "naturalHazards": 8.1
+      },
+      "summary": "Bath is one of the UK's safest major cities, ranked 6th safest for solo female travelers nationwide. While crime rates are above national averages, the Georgian city maintains a generally secure environment with excellent public services, well-lit streets, and strong police presence in tourist areas.",
+      "quickVerdict": "Bath offers excellent safety for tourists with its compact, walkable city center and well-developed infrastructure. Crime rates are elevated compared to national averages but remain manageable, with most incidents being non-violent property crimes. The city benefits from strong police presence, excellent healthcare facilities, reliable public transport, and a safety-conscious local culture that prioritizes visitor wellbeing.",
+      "neighborhoods": [
+        {
+          "name": "City Centre",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic heart around Bath Abbey and Roman Baths features heavy police presence, CCTV coverage, and constant foot traffic. Well-lit Georgian streets with excellent emergency services access."
+        },
+        {
+          "name": "Royal Crescent Area",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Upscale residential area with beautiful Georgian architecture. Very low crime rates due to affluent demographics and active neighborhood watch programs. Safe for walking day and night."
+        },
+        {
+          "name": "Pulteney Bridge District",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Popular tourist zone with good lighting and regular police patrols. Some petty theft targeting tourists but overall very secure with plenty of shops and restaurants providing natural surveillance."
+        },
+        {
+          "name": "Lansdown",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Hillside residential area with lower crime rates than city center. Well-connected by public transport with good street lighting. Popular with families and students."
+        },
+        {
+          "name": "Twerton",
+          "score": 5.2,
+          "class": "caution",
+          "description": "Working-class area with higher crime rates, including 167 crimes per 1,000 residents. Issues include anti-social behavior and some violent crime, though community regeneration efforts are ongoing."
+        },
+        {
+          "name": "Southdown",
+          "score": 4.9,
+          "class": "caution",
+          "description": "Area experiencing higher crime rates at 127 per 1,000 residents. Problems include theft and anti-social behavior, though strong community ties exist. Exercise caution, especially after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Tourist Photo Theft",
+          "risk": "medium",
+          "description": "Scammers offer to take photos of tourists near attractions like Bath Abbey or Royal Crescent, then run off with expensive cameras or smartphones.",
+          "howToAvoid": "Only ask fellow tourists for photos, keep devices secured, and trust your instincts about overly friendly strangers."
+        },
+        {
+          "name": "Fake Gift Scheme",
+          "risk": "medium",
+          "description": "Individuals approach tourists offering free bracelets, flowers, or gifts, then demand payment aggressively once the item is accepted.",
+          "howToAvoid": "Politely decline all unsolicited gifts, don't let anyone place items on you, and walk away if pressured for money."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams work together where one creates a distraction (spilling something, asking directions) while accomplices steal from pockets or bags.",
+          "howToAvoid": "Keep valuables in front pockets or secure bags, be wary of sudden spills or accidents, and maintain awareness in crowded tourist areas."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Devices attached to ATMs capture card details while cameras record PIN entries, leading to fraudulent withdrawals later.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover PIN entry, check for unusual devices, and monitor accounts regularly."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bath ranks as the 6th safest place in the UK for solo female travelers with a 4.5/5 safety rating. The compact city center is entirely walkable, well-lit, and benefits from excellent public transport. Strong police presence and CCTV coverage in tourist areas provide additional security, while the local culture is respectful and helpful to visitors.",
+        "tips": [
+          "Stay in central areas near Bath Abbey or Royal Crescent for maximum safety and convenience",
+          "Use well-lit main streets when walking at night, especially around George Street and Pulteney Bridge",
+          "Take advantage of the excellent bus network rather than walking alone in outer areas after dark",
+          "Trust Bath's helpful local culture - residents are generally happy to provide directions and assistance",
+          "Keep emergency numbers saved and consider staying in accommodations with 24-hour reception"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bath's nightlife is generally safe with a compact entertainment district centered around George Street. The city earned top marks for student nightlife safety with well-lit streets, regular police patrols, and active community safety initiatives. Most venues participate in safety schemes like 'Ask for Angela' to help women in distress.",
+        "tips": [
+          "Stick to the main nightlife areas around George Street and avoid isolated areas after dark",
+          "Use licensed taxis or the reliable bus network for transport rather than walking long distances at night",
+          "Never leave drinks unattended and be aware of drink spiking prevention measures in venues",
+          "Travel in groups when possible and designate meeting points if you get separated",
+          "Be cautious in areas like Twerton and Southdown which have higher crime rates after dark"
+        ]
+      },
+      "transport": {
+        "metro": "Bath does not have a metro system but operates excellent bus services throughout the city.",
+        "rideshare": "Standard rideshare apps operate in Bath. Always verify driver identity and vehicle details before getting in.",
+        "taxis": "Highly reliable taxi services with regulated ranks throughout the city center. Book through licensed operators or use official taxi ranks near the train station and major attractions.",
+        "tips": "Public transport is very safe with CCTV, regular cleaning, and accessibility features. The First Bus app provides real-time tracking. Bath Spa railway station connects directly to London and other major cities with excellent safety records."
+      },
+      "customs": [
+        "Queuing (standing in line) is taken very seriously - never cut in line as it's considered extremely rude",
+        "Say 'please' and 'thank you' frequently, even for small interactions in shops and restaurants",
+        "Maintain polite conversation distance and avoid loud or overly expressive behavior in public spaces",
+        "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+        "Tea culture is important - accepting an offer of tea is a social bonding opportunity"
+      ],
+      "health": {
+        "overview": "Bath has excellent healthcare through the Royal United Hospital, a major NHS facility serving 500,000 people across the region. The hospital provides 24-hour emergency services and is well-regarded for its patient care standards.",
+        "water": "Tap water is completely safe to drink throughout Bath and meets high UK standards.",
+        "vaccinations": "No special vaccinations required. Standard travel insurance recommended as NHS treatment costs 150% of standard rates for tourists without coverage.",
+        "altitude": "Bath sits at low elevation with a temperate maritime climate. No altitude concerns, though be prepared for frequent rain year-round."
+      },
+      "emergency": {
+        "general": "999 or 112",
+        "police": "999 (emergency) or 101 (non-emergency)",
+        "ambulance": "999",
+        "fire": "999",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy London: +44 (0)20 7499 9000, 24/7 Emergency Line: +44 (0)20 7499 9000"
+      },
+      "faq": [
+        {
+          "q": "Is Bath safe for tourists?",
+          "a": "Yes, Bath is very safe for tourists and ranks among the UK's safest cities. While crime rates are slightly above national averages, most incidents are non-violent property crimes. The compact city center has excellent police presence and CCTV coverage."
+        },
+        {
+          "q": "Is Bath safe at night?",
+          "a": "Bath is generally safe at night, especially in the city center around George Street and main tourist areas. The compact nightlife district is well-lit with regular police patrols. Stick to main streets and avoid outer areas like Twerton and Southdown after dark."
+        },
+        {
+          "q": "Is Bath safe for solo female travelers?",
+          "a": "Bath is excellent for solo female travelers, ranking 6th safest in the UK with a 4.5/5 rating. The walkable city center, reliable public transport, and respectful local culture create a secure environment. Many solo travelers report feeling completely safe exploring independently."
+        },
+        {
+          "q": "What areas should I avoid in Bath?",
+          "a": "Exercise caution in Twerton (167 crimes per 1,000 residents) and Southdown (127 per 1,000 residents), especially after dark. These working-class areas have higher rates of anti-social behavior and theft, though regeneration efforts are improving conditions."
+        },
+        {
+          "q": "Is it safe to use public transport in Bath?",
+          "a": "Yes, Bath's public transport is very safe with modern buses featuring CCTV, wheelchair accessibility, and real-time tracking. Bath Spa railway station offers direct connections to London with excellent safety records. Taxis are well-regulated and reliable throughout the city."
+        }
+      ],
+      "relatedCities": [
+        "london",
+        "bristol",
+        "oxford",
+        "cambridge",
+        "edinburgh"
+      ]
+    },
+    {
+      "slug": "york",
+      "name": "York",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 8.5,
+        "naturalHazards": 9.0
+      },
+      "summary": "York is considered one of the safest major cities in England, with effective community policing and tourist-focused security. While petty crimes like pickpocketing and bicycle theft occur, violent crime remains relatively low. The medieval city's compact size and active nightlife create a generally secure environment for visitors.",
+      "quickVerdict": "York offers a reassuringly safe environment for tourists, combining historic charm with modern safety standards. The city benefits from strong tourism infrastructure, active community policing, and well-lit streets. While visitors should remain aware of common tourist-targeted crimes like pickpocketing and fake police scams, York's overall crime rate aligns with or is below national UK averages. The compact city center, reliable public transport, and vibrant nightlife create conditions where most travelers can explore confidently, though standard urban precautions are always recommended.",
+      "neighborhoods": [
+        {
+          "name": "York Minster Quarter",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The cathedral area is heavily patrolled and well-maintained with excellent lighting. Tourist police presence is high, and the area benefits from constant foot traffic during the day."
+        },
+        {
+          "name": "The Shambles",
+          "score": 8.0,
+          "class": "safe",
+          "description": "This famous medieval street is generally very safe due to heavy tourist traffic and good surveillance. Watch for pickpockets in crowded areas, particularly during peak tourist seasons."
+        },
+        {
+          "name": "City Centre",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Well-patrolled shopping and dining area with good lighting and CCTV coverage. Most incidents involve petty theft from distracted tourists rather than serious crime."
+        },
+        {
+          "name": "Micklegate Bar",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Popular nightlife area with numerous pubs and bars. Generally safe but can become rowdy late at night, particularly on weekends. Stick to main streets after dark."
+        },
+        {
+          "name": "Railway Station Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Higher concentration of petty crime due to transient population. Pickpocketing and scams targeting tourists are more common here. Keep valuables secure and stay alert."
+        },
+        {
+          "name": "Outer Residential Areas",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Quiet residential neighborhoods that are generally safe but less well-lit at night. Limited police presence compared to city center, but serious crime is rare."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police Officers",
+          "risk": "moderate",
+          "description": "Scammers pose as police officers demanding to check personal items or investigate fraudulent transactions. They may ask victims to withdraw cash or hand over valuables for inspection.",
+          "howToAvoid": "Always ask for proper ID, name, rank, and badge number. Real police will never ask you to withdraw cash or hand over money for inspection. If in doubt, call 101 to verify."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams of thieves work together, with one creating a distraction while another steals valuables. Common tactics include spilling drinks, asking for directions, or offering unwanted help with maps.",
+          "howToAvoid": "Keep bags zipped and in front of your body in crowded areas. Be wary of unsolicited help or sudden distractions. Use bags with lockable zippers when possible."
+        },
+        {
+          "name": "QR Code Fraud",
+          "risk": "moderate",
+          "description": "Fake QR codes are placed over legitimate ones on parking meters, restaurant tables, and tourist information boards. Scanning these leads to phishing sites that steal payment details.",
+          "howToAvoid": "Only scan QR codes shown directly by staff or clearly marked with official signage. Check that codes haven't been stuck over original ones. When in doubt, ask staff for the official website or payment method."
+        },
+        {
+          "name": "Overpriced Tourist Services",
+          "risk": "moderate",
+          "description": "Some tour guides, taxi drivers, and street vendors specifically target tourists with inflated prices or unnecessary add-on services, particularly around major attractions.",
+          "howToAvoid": "Research typical prices in advance. Use official tour companies and licensed taxi services. Always agree on prices before services begin, and don't be afraid to walk away from suspicious offers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "York is considered very safe for solo female travelers, consistently ranking among the UK's safest cities. The compact medieval center, active tourism industry, and strong community policing create an environment where women can explore confidently both day and night. Most areas are well-lit and regularly patrolled, with plenty of other tourists and locals around even in the evening hours.",
+        "tips": [
+          "Stay in well-reviewed accommodations near the city center for easier access to safe, well-lit areas",
+          "The city center is very walkable, but avoid isolated riverside paths and unlit shortcuts after dark",
+          "York's pub culture is generally welcoming to solo female travelers - stick to busy, well-established venues",
+          "Public transport including buses and trains is very safe, with good CCTV coverage and regular services",
+          "Keep emergency numbers saved and consider registering with the STEP program if you're a US citizen"
+        ]
+      },
+      "nightSafety": {
+        "overview": "York's nightlife is generally safe and vibrant, with the city center remaining active until late hours. The medieval streets are well-lit and patrolled, and the concentration of pubs, restaurants, and entertainment venues means there's usually good foot traffic. Most incidents involve minor disturbances related to alcohol rather than serious crime against tourists.",
+        "tips": [
+          "Stick to the main nightlife areas like Micklegate and the city center where there's good lighting and police presence",
+          "Book taxis in advance or use official ride-sharing apps rather than unlicensed vehicles",
+          "Avoid isolated areas along the River Ouse and poorly lit snickelways (narrow medieval streets) after dark",
+          "Pub culture involves 'buying rounds' - if someone buys you a drink, it's polite to reciprocate",
+          "Most pubs close around 11 PM, though some have extended licenses - plan your evening accordingly"
+        ]
+      },
+      "transport": {
+        "metro": "York doesn't have a metro system, but the railway station is a major hub on the East Coast Main Line with excellent connections to London, Edinburgh, Manchester, and other major UK cities. The station is well-maintained and safe with good lighting and CCTV coverage.",
+        "rideshare": "Uber operates in York but coverage can be limited compared to larger cities. The service is generally safe and reliable when available. Always verify the driver and vehicle details match the app before getting in.",
+        "taxis": "York has several licensed taxi companies with good safety standards. Black cabs and licensed minicabs are regulated and safe. Always use licensed taxis - look for proper identification and meters. A taxi from the train station to city center costs around £12.",
+        "tips": "Public buses are frequent, safe, and well-connected throughout the city. The Park & Ride system offers six locations with free parking and regular bus services to the city center. Walking is often the best option in the compact city center, and cycling is popular with dedicated paths available."
+      },
+      "customs": [
+        "Queuing is taken very seriously - always wait your turn in line and never push ahead",
+        "Politeness is highly valued - use 'please', 'thank you', and 'excuse me' frequently in daily interactions",
+        "In pubs, it's customary to take turns buying rounds of drinks for your group - if someone buys you a drink, reciprocate",
+        "Tipping is optional but appreciated - 10-12% in restaurants if no service charge is included, round up taxi fares",
+        "Avoid discussing politics, personal finances, or making loud complaints in public - British culture values discretion and understatement"
+      ],
+      "health": {
+        "overview": "Healthcare in York is provided through the National Health Service (NHS) with good quality medical facilities available. Emergency care is free for visitors regardless of insurance status, though non-emergency treatment may incur charges for non-residents.",
+        "water": "Tap water in York is completely safe to drink and of high quality. No special precautions or bottled water purchases are necessary.",
+        "vaccinations": "No special vaccinations are required for visiting York. Standard travel vaccinations like MMR should be up to date. The UK has good disease surveillance and outbreak control systems.",
+        "altitude": "York is at sea level with a temperate maritime climate. Weather is generally mild but can be unpredictable - bring layers and waterproof clothing. Flooding can occasionally occur near the River Ouse during heavy rainfall periods."
+      },
+      "emergency": {
+        "general": "999 or 112",
+        "police": "999 (emergency) or 101 (non-emergency)",
+        "ambulance": "999 or 112",
+        "fire": "999 or 112",
+        "touristPolice": "North Yorkshire Police - 101",
+        "usEmbassy": "US Embassy London: +44 20 7499-9000 (24-hour line). Located in London, approximately 2 hours by train from York. For emergency assistance, US citizens should also register with the Smart Traveler Enrollment Program (STEP)."
+      },
+      "faq": [
+        {
+          "q": "Is York safe for tourists?",
+          "a": "Yes, York is very safe for tourists and consistently ranks as one of the safest cities in England. The city has effective community policing, good lighting, and strong tourism infrastructure. Most incidents involve minor petty crimes rather than serious threats to visitor safety."
+        },
+        {
+          "q": "Is York safe at night?",
+          "a": "York is generally safe at night, especially in the well-lit city center and popular nightlife areas. The medieval streets have good lighting and regular police patrols. Avoid isolated riverside paths and poorly lit snickelways after dark, but the main areas remain active and secure."
+        },
+        {
+          "q": "Is York safe for solo female travelers?",
+          "a": "York is excellent for solo female travelers and ranks among the UK's safest cities for women. The compact size, active tourism scene, and strong community policing create a secure environment. Most areas are walkable and well-monitored, with plenty of other tourists and locals around."
+        },
+        {
+          "q": "What areas should I avoid in York?",
+          "a": "No areas in York are particularly dangerous, but exercise more caution around the railway station area where petty crime is slightly higher, isolated riverside paths after dark, and poorly lit medieval alleyways at night. The Micklegate Bar area can become rowdy late at night on weekends."
+        },
+        {
+          "q": "Is it safe to use public transport in York?",
+          "a": "Yes, public transport in York is very safe. Buses are frequent and reliable with good CCTV coverage. The railway station is well-maintained and secure. The Park & Ride system is excellent for reaching the city center. Licensed taxis and ride-sharing services are also generally safe and regulated."
+        }
+      ],
+      "relatedCities": [
+        "edinburgh",
+        "bath",
+        "cambridge",
+        "oxford",
+        "canterbury"
+      ]
+    },
+    {
+      "slug": "belfast",
+      "name": "Belfast",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 7.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 7.5,
+        "womensSafety": 7.2,
+        "nightSafety": 6.3,
+        "transport": 7.6,
+        "naturalHazards": 8.8
+      },
+      "summary": "Belfast is a generally safe city that has transformed significantly since the Good Friday Agreement in 1998. Crime rates are 41% higher than Northern Ireland average but 31% lower than the UK overall average, with most incidents involving minor theft and antisocial behavior rather than serious crime.",
+      "quickVerdict": "Belfast offers a safe and welcoming environment for tourists, with violent crime rates similar to other UK cities and lower than many European capitals. The city center and popular tourist areas like the Cathedral Quarter are well-patrolled and generally secure during both day and night. While petty crime and occasional antisocial behavior can occur, especially around nightlife areas, the overall risk to visitors remains low. Solo travelers and families can explore confidently with basic precautions.",
+      "neighborhoods": [
+        {
+          "name": "City Centre",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The vibrant heart of Belfast with major attractions, shops, and restaurants. Well-lit and patrolled but can get rowdy after pub closing times, especially on weekends."
+        },
+        {
+          "name": "Cathedral Quarter",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Historic cultural district with cobblestone streets, pubs, and galleries. Generally safe but tourists should be aware of pickpockets and stick to main streets at night."
+        },
+        {
+          "name": "Queen's Quarter",
+          "score": 8.0,
+          "class": "safe",
+          "description": "University area including Botanic Gardens and Ulster Museum. Considered one of the safest areas with good lighting, student presence, and regular police patrols."
+        },
+        {
+          "name": "Titanic Quarter",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Modern waterfront district with museums and attractions. Very safe during the day with good security presence, though quieter in the evenings."
+        },
+        {
+          "name": "Falls Road",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Historic Republican area with political murals. Generally safe during the day with guided tours but best avoided alone at night due to potential antisocial behavior."
+        },
+        {
+          "name": "Shankill Road",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Loyalist area with historical significance. Safe during day visits but can have tensions and higher crime rates. Avoid isolated streets at night and respect local symbols."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Taxi Rides",
+          "risk": "medium",
+          "description": "Some drivers may take longer routes or claim broken meters, especially targeting tourists from airports or popular areas.",
+          "howToAvoid": "Use licensed taxis with working meters, agree on fare beforehand, or use ride-sharing apps like Uber. Research average costs in advance."
+        },
+        {
+          "name": "Fake Accommodation Bookings",
+          "risk": "medium",
+          "description": "Scammers create convincing fake listings or websites for accommodation that doesn't exist, requesting payment via bank transfer.",
+          "howToAvoid": "Book through reputable platforms, verify accommodation exists, use secure payment methods, and be wary of deals that seem too good to be true."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "low",
+          "description": "Groups create distractions while accomplices steal from tourists, particularly around crowded areas like markets and transport hubs.",
+          "howToAvoid": "Stay alert in crowds, keep valuables secure and out of sight, avoid accepting help from strangers, and be wary of staged arguments or commotions."
+        },
+        {
+          "name": "Camera Damage Scam",
+          "risk": "low",
+          "description": "Someone asks you to take their photo then deliberately drops the camera, claiming you broke it and demanding compensation.",
+          "howToAvoid": "Politely decline to take photos for strangers, especially in tourist areas. If you must help, be extremely careful with their equipment."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Belfast is relatively safe for solo female travelers, ranking among the top 20 safest UK cities for women. The city center and tourist areas are well-lit with regular police presence. However, women should exercise caution when walking alone at night, particularly in less busy areas and certain neighborhoods with higher antisocial behavior.",
+        "tips": [
+          "Stay in central tourist areas like Queen's Quarter or near the city center for better safety and lighting",
+          "Use licensed taxis or ride-sharing services for late-night transportation rather than walking alone",
+          "Avoid political discussions and areas with strong sectarian symbols, especially during marching season in July",
+          "Keep emergency contacts handy and consider staying at female-only accommodations like Botanical Backpackers if preferred"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Belfast's nightlife is generally safe with well-lit city center areas and visible police presence in popular districts like Cathedral Quarter. About 51% of residents and visitors feel fully secure during nighttime hours. The main risks involve alcohol-related incidents and antisocial behavior around pub areas, particularly on weekends after closing time.",
+        "tips": [
+          "Travel in groups when possible and stick to well-lit, busy streets",
+          "Plan transportation home in advance using licensed taxis or pre-booked services",
+          "Avoid walking alone through quiet areas or taking dark shortcuts, especially after drinking",
+          "Stay aware of surroundings in nightlife districts and don't leave drinks unattended"
+        ]
+      },
+      "transport": {
+        "metro": "Belfast doesn't have an underground metro system. Public transport is operated by Translink with Metro buses on 12 main corridors and the modern Glider bus rapid transit system with dedicated lanes. Services are generally safe with CCTV and good coverage of the city.",
+        "rideshare": "Uber operates in Belfast alongside local ride-sharing services. Generally safe and convenient for tourists, especially for late-night travel. Always verify driver and vehicle details match the app before getting in.",
+        "taxis": "Licensed black cabs are widely available and generally safe, with regulated fares starting at £3. Major companies include Value Cabs and fonaCab. Can be difficult to find during weekend closing times, so book ahead for busy periods.",
+        "tips": "Public transport is reliable during the day but limited at night. The new late-night bus services operate Friday and Saturday nights in 2026. Always use licensed taxis with yellow plates or book through reputable companies."
+      },
+      "customs": [
+        "Queue politely and patiently - cutting in line is considered very rude and will attract disapproving looks",
+        "Use 'please' and 'thank you' frequently in all interactions, from shops to restaurants to casual conversations",
+        "Avoid political discussions about Northern Ireland's history, especially topics related to The Troubles or sectarian issues",
+        "Respect pub culture - if someone buys you a drink, reciprocate by buying a round for the group later",
+        "Maintain personal space and avoid overly familiar physical contact with people you don't know well"
+      ],
+      "health": {
+        "overview": "Belfast has good healthcare infrastructure with modern facilities, though wait times can be longer in public system. The city is part of the UK's National Health Service which provides emergency treatment to all visitors, though non-residents may be charged 150% of standard costs.",
+        "water": "Tap water is completely safe to drink throughout Belfast and meets high UK standards. No need to buy bottled water for health reasons.",
+        "vaccinations": "No special vaccinations required for Belfast. Standard travel vaccines like MMR, DPT, and seasonal flu are recommended. EU nationals should bring European Health Insurance Card.",
+        "altitude": "Belfast is at sea level with a temperate maritime climate. Weather can be unpredictable with frequent rain - pack waterproof clothing and layers for all seasons."
+      },
+      "emergency": {
+        "general": "999 or 112",
+        "police": "999 or 112",
+        "ambulance": "999 or 112",
+        "fire": "999 or 112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy London covers Northern Ireland - 24/7 assistance at +44 20 7499 9000. Belfast has US Consular Agent services for American citizens."
+      },
+      "faq": [
+        {
+          "q": "Is Belfast safe for tourists?",
+          "a": "Yes, Belfast is generally safe for tourists with crime rates lower than many UK cities. The main tourist areas are well-patrolled and incidents involving visitors are rare. Basic precautions like avoiding excessive drinking and staying in well-lit areas are recommended."
+        },
+        {
+          "q": "Is Belfast safe at night?",
+          "a": "Belfast city center and popular nightlife areas are generally safe at night with good lighting and police presence. However, avoid walking alone in quieter areas and use licensed taxis for late-night transportation, especially on weekends."
+        },
+        {
+          "q": "Is Belfast safe for solo female travelers?",
+          "a": "Yes, Belfast ranks as one of the safer UK cities for solo female travelers. Women should stay in central areas, use reputable transportation, and avoid walking alone late at night in less busy neighborhoods."
+        },
+        {
+          "q": "What areas should I avoid in Belfast?",
+          "a": "While most of Belfast is safe, exercise extra caution in parts of Falls Road and Shankill Road at night. These areas have historical tensions and higher antisocial behavior, though they're generally fine during the day with guided tours."
+        },
+        {
+          "q": "Is it safe to use public transport in Belfast?",
+          "a": "Yes, Belfast's public transport system including Metro buses and Glider services is safe with CCTV coverage. Services can be limited late at night, so plan ahead or use licensed taxis after hours."
+        }
+      ],
+      "relatedCities": [
+        "dublin",
+        "edinburgh",
+        "glasgow",
+        "manchester",
+        "liverpool"
+      ]
+    },
+    {
+      "slug": "nice",
+      "name": "Nice",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 6.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.5,
+        "scamRisk": 5.0,
+        "womensSafety": 7.0,
+        "nightSafety": 6.5,
+        "transport": 8.0,
+        "naturalHazards": 8.1
+      },
+      "summary": "Nice is considered one of France's safer major cities, ranking third in a 2024 Le Parisian survey. While petty crime like pickpocketing and beach theft is common, violent crime rates are low and tourist infrastructure is well-developed.",
+      "quickVerdict": "Nice offers a generally safe experience for tourists with excellent public transport, good police presence, and well-lit tourist areas. The main concerns are pickpockets in crowded areas and tourist scams, particularly around the Promenade des Anglais and Old Town. Solo female travelers report feeling secure during the day and most evening hours, though basic precautions are advised after dark. The city's Mediterranean charm and strong tourism infrastructure make safety management straightforward for aware visitors.",
+      "neighborhoods": [
+        {
+          "name": "Promenade des Anglais",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Well-patrolled tourist promenade with excellent visibility and constant foot traffic. Watch for pickpockets and beach theft during peak hours."
+        },
+        {
+          "name": "Vieux Nice (Old Town)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Historic center with narrow streets and active nightlife. Generally safe but crowded areas attract pickpockets. Good lighting and police presence."
+        },
+        {
+          "name": "Place Masséna & City Center",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Main shopping and business district with excellent security, CCTV coverage, and regular police patrols. Very safe during day and evening hours."
+        },
+        {
+          "name": "Cimiez",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential area with museums and gardens. Quiet, well-maintained neighborhood with low crime rates and good lighting."
+        },
+        {
+          "name": "Las Planas",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Outer residential area with higher crime rates. Locals advise avoiding this neighborhood, particularly after dark. Limited tourist infrastructure."
+        },
+        {
+          "name": "Les Moulins",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Social housing area with reported safety concerns. Not recommended for tourists, especially solo travelers or during nighttime hours."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Beach Grab Theft",
+          "risk": "high",
+          "description": "Thieves snatch unattended belongings while tourists swim or sunbathe on beaches",
+          "howToAvoid": "Never leave valuables unattended on beach, use bags as pillows while sunbathing, or don't bring valuable items to beach"
+        },
+        {
+          "name": "Fake Charity Petitions",
+          "risk": "medium",
+          "description": "Scammers with clipboards approach tourists for fake charity donations while accomplices pickpocket",
+          "howToAvoid": "Politely decline with 'Non, merci' and keep walking, don't engage with clipboard-wielding strangers"
+        },
+        {
+          "name": "Gold Ring Scam",
+          "risk": "medium",
+          "description": "Scammer pretends to find gold ring on ground and offers to sell it to tourist at discount price",
+          "howToAvoid": "Don't accept any 'found' jewelry, decline politely and walk away immediately"
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Dishonest drivers charge excessive fares or claim broken meters, especially from airport",
+          "howToAvoid": "Use official taxis with working meters, confirm fixed airport rates (€32), or use ride-sharing apps like Uber"
+        }
+      ],
+      "soloFemale": {
+        "overview": "Nice ranks as the 6th safest place in France for solo female travelers with a 4.4/5 rating. Women report feeling secure during daylight and most evening hours, with occasional reports of harassment in bars or nightlife areas. The city has excellent tourist infrastructure and helpful locals.",
+        "tips": [
+          "Avoid walking alone in poorly lit areas after midnight",
+          "Stay in well-populated areas like Promenade des Anglais and city center",
+          "Be cautious of overly persistent individuals in nightlife districts",
+          "Join group tours or stay near other tourists for added security",
+          "Trust your instincts and use official transport options when returning late"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nice provides moderate evening safety with 45% of residents feeling fully secure after dark. Tourist areas remain well-lit and patrolled, but some neighborhoods become riskier at night. Public transport operates until late with good safety records.",
+        "tips": [
+          "Stick to busy, well-lit streets and tourist zones after dark",
+          "Avoid empty areas around train stations and the port late at night",
+          "Use taxis or rideshare services instead of walking long distances",
+          "Plan your route home in advance when staying out late",
+          "Stay alert in nightlife areas and don't leave drinks unattended"
+        ]
+      },
+      "transport": {
+        "metro": "Nice has excellent tram and bus networks operated by Lignes d'Azur. Trams run from 4:25 AM to 1:35 AM with frequent service. The system is modern, reliable and connects all major tourist areas including the airport.",
+        "rideshare": "Uber operates reliably in Nice and is often preferred over traditional taxis due to lower costs and easier communication. All rides are tracked and payment is cashless, adding security.",
+        "taxis": "Official taxis are safe but expensive (highest fares in continental France). Airport to city center costs fixed rate of €32. Always ensure meter is running and be wary of dishonest drivers claiming broken meters.",
+        "tips": "Public transport is the safest and most economical option. Validate tickets to avoid fines. Keep belongings secure on crowded transport as pickpockets target these areas during peak hours."
+      },
+      "customs": [
+        "Always greet with 'Bonjour Monsieur/Madame' when entering shops or meeting someone",
+        "Tipping is not mandatory as 15% service charge is included by law, but small tips (5-10%) are appreciated for exceptional service",
+        "Wait to be seated in restaurants rather than choosing your own table"
+      ],
+      "health": {
+        "overview": "France has excellent healthcare infrastructure with high standards. Nice has several hospitals including Hospital Pasteur (public) and private clinics. EU citizens can use European Health Insurance Card.",
+        "water": "Tap water is safe to drink throughout Nice and meets EU standards. Many locals drink it daily and you can refill bottles without concern.",
+        "vaccinations": "No special vaccinations required for France. Routine vaccinations should be up to date as recommended for international travel.",
+        "altitude": "Nice is at sea level with Mediterranean climate. Mild winters and hot summers. Occasional strong mistral winds but no altitude-related health concerns."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "17",
+        "ambulance": "15",
+        "fire": "18",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Marseille: +33 1 43 12 22 22. Located in Paris, US Embassy France at 2 Avenue Gabriel, with 24/7 emergency assistance for American citizens."
+      },
+      "faq": [
+        {
+          "q": "Is Nice safe for tourists?",
+          "a": "Yes, Nice is generally very safe for tourists. It ranked 3rd safest among major French cities in 2024. Main concerns are petty crime like pickpocketing rather than violent crime."
+        },
+        {
+          "q": "Is Nice safe at night?",
+          "a": "Nice is moderately safe at night in tourist areas like Promenade des Anglais and the city center. Avoid empty streets and areas around train stations after midnight. Use official transport when possible."
+        },
+        {
+          "q": "Is Nice safe for solo female travelers?",
+          "a": "Yes, Nice ranks 6th safest in France for solo female travelers with a 4.4/5 rating. Women report feeling secure during day and most evening hours, though basic precautions are advised after dark."
+        },
+        {
+          "q": "What areas should I avoid in Nice?",
+          "a": "Avoid Las Planas and Les Moulins neighborhoods, especially after dark. Also be cautious around train stations and the port area at night. Stick to well-lit tourist areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Nice?",
+          "a": "Yes, Nice's public transport is very safe and reliable. Trams and buses operate frequently with good security. Watch for pickpockets during crowded periods and always validate tickets to avoid fines."
+        }
+      ],
+      "relatedCities": [
+        "cannes",
+        "monaco",
+        "marseille"
+      ]
+    },
+    {
+      "slug": "lyon",
+      "name": "Lyon",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 6.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 7.5,
+        "scamRisk": 6.2,
+        "womensSafety": 6.5,
+        "nightSafety": 6.5,
+        "transport": 7.8,
+        "naturalHazards": 7.1
+      },
+      "summary": "Lyon is France's third-largest city and generally safe for tourists, with low violent crime rates and effective policing. While petty crime like pickpocketing occurs in tourist areas and public transport, the city has strong infrastructure and healthcare systems that make it a relatively secure destination.",
+      "quickVerdict": "Lyon is a generally safe destination for tourists with typical urban precautions needed. The city has moderately high petty crime rates, particularly pickpocketing in tourist zones and on public transport, but violent crime remains low. France maintains a Level 2 travel advisory due to terrorism concerns, though incidents are rare. The city's excellent public transport system operates safely until late hours, and healthcare facilities are world-class. Solo female travelers should exercise normal precautions, especially in certain areas at night.",
+      "neighborhoods": [
+        {
+          "name": "Presqu'île (1st-2nd)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic city center with excellent lighting, regular police presence, and active nightlife. Main shopping and dining district with busy streets providing natural security through foot traffic."
+        },
+        {
+          "name": "Vieux Lyon (5th)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "UNESCO World Heritage old town that's generally safe but can become quiet after tourist hours. Well-maintained Renaissance architecture area with good tourist infrastructure and lighting."
+        },
+        {
+          "name": "Croix-Rousse (1st-4th)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Bohemian hilltop district with village-like atmosphere. Lower crime rates than city center, well-lit streets, and strong local community presence providing natural surveillance."
+        },
+        {
+          "name": "6th Arrondissement (Foch)",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Upscale residential area with wide avenues and good lighting. Popular with locals and considered one of the most comfortable neighborhoods for evening walks."
+        },
+        {
+          "name": "La Guillotière (7th)",
+          "score": 4.8,
+          "class": "caution",
+          "description": "Multicultural area near Part-Dieu with higher crime rates, particularly around Place Gabriel-Péri metro station. Drug trafficking and petty crime more common, especially at night."
+        },
+        {
+          "name": "Gerland (7th)",
+          "score": 5.2,
+          "class": "caution",
+          "description": "Rapidly developing business district that includes some areas with safety concerns, particularly around certain commercial zones. Mixed residential and business area requiring extra vigilance after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Camera Drop Scam",
+          "risk": "medium",
+          "description": "Someone asks you to take their photo, then purposely drops their camera when you return it, claiming you broke it and demanding payment for repairs.",
+          "howToAvoid": "Politely decline to take photos for strangers you don't know well, or be extremely careful when handling others' devices."
+        },
+        {
+          "name": "Bar/Nightlife Overcharge Scam",
+          "risk": "high",
+          "description": "Friendly locals invite tourists to bars where drinks cost 5-10 times normal prices. If you refuse to pay, bodyguards escort you to ATMs.",
+          "howToAvoid": "Suggest your own bar choice, always ask to see drink menus and prices before ordering, and be wary of overly friendly strangers in tourist areas."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Fraudsters approach at ATMs offering to help avoid bank fees, then use card skimmers to steal your information while watching you enter your PIN.",
+          "howToAvoid": "Never accept help from strangers at ATMs, cover your PIN when entering it, and use ATMs inside banks when possible."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Groups work together where one person distracts you while accomplices steal your wallet, phone, or valuables, especially common on crowded public transport and tourist areas.",
+          "howToAvoid": "Keep valuables in front pockets or secure bags, stay alert in crowded areas, and be suspicious of unnecessary physical contact or distractions from strangers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Lyon is generally safe with standard urban precautions. Some female travelers report elevated levels of street harassment, particularly verbal, though experiences vary. The city has good infrastructure, reliable public transport until late hours, and emergency services. Areas like Presqu'île and Vieux Lyon are well-patrolled and lit, while places like La Guillotière require extra caution at night.",
+        "tips": [
+          "Avoid poorly lit streets in La Guillotière and Mermoz areas after dark",
+          "Use the 'Ask for Angela' network - look for 'Ici demandez Angela' stickers in bars and shops for safe spaces",
+          "Take advantage of late-night public transport - metro runs until 2am on weekends and night buses operate Thursday-Saturday",
+          "Stay in central areas like Presqu'île or near major transport hubs for easier access to help if needed",
+          "Trust your instincts about street harassment - French authorities take it seriously and there are support systems available"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Lyon's night safety varies significantly by area and time. Central districts like Presqu'île stay active and well-lit until late, while areas like La Guillotière can become unpredictable after midnight. The city offers excellent night transport with extended metro hours on weekends and special night bus lines. Most locals move around without major issues by sticking to well-lit, busy areas.",
+        "tips": [
+          "Stick to busy, well-lit streets and avoid empty side streets after midnight",
+          "Use TCL's Pleine Lune night bus network or extended weekend metro service rather than walking long distances",
+          "Areas like Presqu'île, Vieux Lyon, and Croix-Rousse are generally comfortable for evening activities",
+          "Request to be dropped off between bus stops for safety - all TCL bus drivers offer this service after 10pm",
+          "Consider the 'Ask for Angela' system if you feel unsafe - participating establishments provide refuge and assistance"
+        ]
+      },
+      "transport": {
+        "metro": "TCL metro system is generally safe and efficient with four lines covering the city. Extended hours until 2am on Friday and Saturday nights. Some pickpocketing occurs during rush hours and at major stations like Part-Dieu and Bellecour.",
+        "rideshare": "Uber and Bolt operate in Lyon and are considered safe options. Local taxi services are regulated and reliable, with wheelchair accessible vehicles available through TL Taxis (+33 4 78 26 81 81).",
+        "taxis": "Licensed taxis are safe and regulated. Always ensure the meter is running and agree on fares for longer journeys. Night surcharges apply after 7pm and on weekends.",
+        "tips": "Public transport is excellent with metro, tram, bus, and funicular systems. Validate tickets each time you board. Night buses (Pleine Lune) run Thursday-Saturday. Vélo'v bike sharing has 349 stations across the city."
+      },
+      "customs": [
+        "Always greet with 'Bonjour Monsieur/Madame' when entering shops, restaurants, or speaking to service staff - this is considered essential politeness",
+        "Dress smartly and avoid athletic wear or overly casual clothing when out in the city - Lyon residents value well-presented appearance",
+        "Speak quietly in public spaces, restaurants, and on transport - loud conversations are considered impolite and mark you as a tourist"
+      ],
+      "health": {
+        "overview": "Lyon has world-class healthcare through the Hospices Civils de Lyon network, France's second-largest university hospital system. Emergency services are excellent with 24/7 availability.",
+        "water": "Tap water is completely safe to drink throughout Lyon and meets high EU standards. No concerns about waterborne illness.",
+        "vaccinations": "No special vaccinations required for France. Routine vaccines should be up to date. EU health insurance cards accepted.",
+        "altitude": "Lyon sits at low elevation (200m) with temperate climate. Air quality is moderate with occasional pollution spikes during winter months. No altitude or climate health concerns."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "17",
+        "ambulance": "15",
+        "fire": "18",
+        "touristPolice": "17",
+        "usEmbassy": "US Consulate: +33 1 43 12 22 22 (Paris) - No consulate in Lyon, nearest is in Paris"
+      },
+      "faq": [
+        {
+          "q": "Is Lyon safe for tourists?",
+          "a": "Yes, Lyon is generally safe for tourists. It's France's third-largest city with low violent crime rates and good security infrastructure. Take normal urban precautions against petty crime, especially pickpocketing in tourist areas and on public transport."
+        },
+        {
+          "q": "Is Lyon safe at night?",
+          "a": "Central areas like Presqu'île and Vieux Lyon are safe at night with good lighting and police presence. Avoid areas like La Guillotière after midnight. The metro runs until 2am on weekends, and night buses operate Thursday-Saturday."
+        },
+        {
+          "q": "Is Lyon safe for solo female travelers?",
+          "a": "Generally yes, though some women report street harassment. Stay in well-lit central areas, use the 'Ask for Angela' safety network, and take advantage of extended public transport hours. Areas like Presqu'île and Croix-Rousse are recommended."
+        },
+        {
+          "q": "What areas should I avoid in Lyon?",
+          "a": "Exercise caution in La Guillotière (especially around Place Gabriel-Péri) and parts of Gerland at night. Also avoid outer suburbs like Vaulx-en-Velin and Vénissieux after dark. Stick to central, well-lit areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Lyon?",
+          "a": "Yes, TCL public transport is safe and reliable. Watch for pickpockets during rush hours and at major stations. The system includes metro, trams, buses, and funiculars with excellent coverage and late-night service options."
+        }
+      ],
+      "relatedCities": [
+        "paris",
+        "marseille",
+        "bordeaux"
+      ]
+    },
+    {
+      "slug": "bordeaux",
+      "name": "Bordeaux",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 7.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 6.5,
+        "transport": 8.0,
+        "naturalHazards": 7.2
+      },
+      "summary": "Bordeaux is generally considered a safe destination for tourists, ranking as the 7th safest place in France for solo female travelers with an overall safety rating of 4.4 out of 5. While the city has experienced some increase in crime statistics, violent crime remains relatively rare and the historic city center is particularly safe.",
+      "quickVerdict": "Bordeaux is a safe city for tourists with low violent crime rates and excellent public safety infrastructure. The main concerns are pickpocketing and petty theft in tourist areas, along with occasional flooding risks from the Garonne River. The city's extensive tram network is reliable and safe, while the historic center remains well-patrolled and secure for visitors. Standard urban precautions are sufficient for a worry-free visit.",
+      "neighborhoods": [
+        {
+          "name": "Historic Center (Saint-Pierre)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of Bordeaux featuring UNESCO World Heritage sites. Very safe with high police presence, well-lit streets, and plenty of foot traffic. Close to major attractions, hotels, and restaurants."
+        },
+        {
+          "name": "Golden Triangle (Triangle d'Or)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Bordeaux's most prestigious neighborhood with upscale shops, galleries, and restaurants. Excellent safety record with affluent surroundings and regular security patrols."
+        },
+        {
+          "name": "Chartrons",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Wine district north of city center with antique shops, wine bars, and museums. Safe for tourists with good lighting and regular tram connections. Popular with families and wine enthusiasts."
+        },
+        {
+          "name": "Saint-Michel",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Multicultural district with vibrant nightlife and markets. Generally safe during day but exercise caution at night, especially around Place des Capucins. Some reports of petty crime after dark."
+        },
+        {
+          "name": "Bacalan",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Northern district undergoing urban renewal. While improving, still has higher crime rates than central areas. Exercise caution, especially at night, though daytime visits are generally fine."
+        },
+        {
+          "name": "Les Aubiers/Grand Parc",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Suburban areas with higher crime rates and limited tourist infrastructure. Best avoided by visitors, particularly at night. Not typically on tourist itineraries but worth noting for comprehensive awareness."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Charity Petitions",
+          "risk": "high",
+          "description": "Groups approach tourists with clipboards asking for signatures for fake charities while accomplices pickpocket victims or demand donations.",
+          "howToAvoid": "Politely decline with 'Non, merci' and keep walking. Never sign petitions from strangers on the street or provide personal information."
+        },
+        {
+          "name": "Friendship Bracelet Scam",
+          "risk": "medium",
+          "description": "Someone approaches to tie a 'friendship' bracelet on your wrist, then demands payment. Common near tourist attractions and around Montmartre-style areas.",
+          "howToAvoid": "Keep hands to yourself and firmly say no. Walk away quickly if approached. Don't let anyone put anything on your body."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Fraudulent devices placed on ATM machines to steal card information, or fake inserts that trap cards while scammers watch you enter your PIN.",
+          "howToAvoid": "Use ATMs inside banks when possible. Cover your PIN when entering. If card gets stuck, don't leave the machine - call the bank immediately."
+        },
+        {
+          "name": "Gold Ring Scam",
+          "risk": "low",
+          "description": "Scammer pretends to find a gold ring and offers to sell it to you at a discount, claiming they cannot keep it. The ring is fake.",
+          "howToAvoid": "Politely decline and walk away. Don't engage with anyone trying to sell you found jewelry or items on the street."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bordeaux is ranked as the 7th safest place in France for solo female travelers. The city center is well-lit and safe during the day, with friendly locals and reliable public transportation. However, extra caution is recommended at night, especially in less crowded areas and the old town district.",
+        "tips": [
+          "Stay in well-lit central areas after dark and avoid walking alone in poorly lit streets",
+          "Use the reliable tram system which operates until 1 AM with late-night TBNight service",
+          "Keep valuables secure and use crossbody bags in crowded tourist areas",
+          "Trust your instincts - if a situation feels uncomfortable, move to a busier area immediately"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bordeaux is generally safe at night in the city center and well-lit areas. The extensive tram network runs until 1 AM with night buses continuing service until 5:30 AM. However, some areas like Saint-Michel and around the train station require extra caution after dark.",
+        "tips": [
+          "Stick to well-lit main streets and avoid empty parks or riverside areas after 10 PM",
+          "Use official taxis or the Taxi Tele service (+33 5 56 96 00 34) rather than walking alone",
+          "Be particularly cautious around Place des Capucins and the area near Gare Saint-Jean station",
+          "Take advantage of the Ask Angela network - safe places in bars and restaurants if you feel unsafe"
+        ]
+      },
+      "transport": {
+        "metro": "Bordeaux has an excellent tram system with 4 lines (A, B, C, D) and 139 stations covering 82 km. Trams run until 1 AM with TBNight service until 5:30 AM. Very safe and reliable with good lighting and security presence.",
+        "rideshare": "Uber and Bolt operate in Bordeaux and are safe options, especially late at night. More expensive than public transport but convenient for hotel transfers and areas not covered by trams.",
+        "taxis": "Official taxis are safe and regulated. Taxi Tele (+33 5 56 96 00 34) is the main company. Some reports of overcharging tourists, so agree on fare beforehand or ensure meter is running.",
+        "tips": "Public transport is excellent and safe. Validate tickets before boarding trams. After 10 PM, bus drivers can stop on request for safety. Keep belongings secure as pickpockets target crowded transport."
+      },
+      "customs": [
+        "Always greet with 'Bonjour Madame/Monsieur' when entering shops or restaurants",
+        "Service is included in restaurant bills - small tips appreciated but not mandatory",
+        "Keep hands visible on the table while dining, never place bread on your plate"
+      ],
+      "health": {
+        "overview": "France has world-class healthcare with excellent hospitals in Bordeaux. No special health risks for tourists. EU visitors should carry EHIC/GHIC cards, others need travel insurance.",
+        "water": "Tap water is completely safe to drink and meets EU standards. Bordeaux has high-quality municipal water supply with regular testing and monitoring.",
+        "vaccinations": "No special vaccinations required. Standard travel insurance recommended. Routine vaccines (MMR, DPT, flu) should be up to date.",
+        "altitude": "Sea level location with mild oceanic climate. Hot summers (up to 30°C) and mild winters. Occasional flooding from Garonne River during heavy rains."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "17",
+        "ambulance": "15",
+        "fire": "18",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22. Bordeaux Pellegrin Hospital emergency: 24/7 at Place Amélie Raba Léon. Poison control Bordeaux: 05 56 96 40 80."
+      },
+      "faq": [
+        {
+          "q": "Is Bordeaux safe for tourists?",
+          "a": "Yes, Bordeaux is generally very safe for tourists. It has low violent crime rates and good police presence in tourist areas. The main concerns are pickpocketing and petty theft, which can be avoided with standard precautions."
+        },
+        {
+          "q": "Is Bordeaux safe at night?",
+          "a": "The city center is safe at night in well-lit areas. The tram system runs until 1 AM with night buses until 5:30 AM. Avoid poorly lit areas and be cautious around Saint-Michel district and the train station after dark."
+        },
+        {
+          "q": "Is Bordeaux safe for solo female travelers?",
+          "a": "Bordeaux ranks as the 7th safest place in France for solo female travelers. The city center is particularly safe during the day, though extra caution is recommended at night in less crowded areas."
+        },
+        {
+          "q": "What areas should I avoid in Bordeaux?",
+          "a": "Avoid the suburban neighborhoods of Les Aubiers, Grand Parc, and Le quartier Chantecrit, especially at night. In the city center, be cautious around Place des Capucins in Saint-Michel and near the train station after dark."
+        },
+        {
+          "q": "Is it safe to use public transport in Bordeaux?",
+          "a": "Yes, Bordeaux's public transport system is very safe and reliable. The extensive tram network is well-maintained with good security presence. Watch for pickpockets in crowded areas and validate your tickets."
+        }
+      ],
+      "relatedCities": [
+        "paris",
+        "lyon",
+        "toulouse",
+        "nice",
+        "strasbourg",
+        "marseille"
+      ]
+    },
+    {
+      "slug": "strasbourg",
+      "name": "Strasbourg",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 7.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 8.5,
+        "naturalHazards": 8.8
+      },
+      "summary": "Strasbourg is one of France's safest cities, consistently ranking as a secure destination for tourists with low violent crime rates and excellent infrastructure. While petty crime like pickpocketing exists in tourist areas, the historic city offers a welcoming environment for visitors with strong police presence and efficient emergency services.",
+      "quickVerdict": "Strasbourg stands out as one of Europe's safest major cities, making it an excellent choice for all types of travelers. The city combines historic charm with modern security measures, featuring well-lit tourist areas, reliable public transport, and a low incidence of serious crime. Solo female travelers particularly praise the city's safety, and the efficient tram system makes navigation easy and secure even at night.",
+      "neighborhoods": [
+        {
+          "name": "La Petite France",
+          "score": 9.0,
+          "class": "safe",
+          "description": "This picturesque historic district with its canals and half-timbered houses is extremely safe and well-patrolled, perfect for evening strolls and popular with tourists day and night."
+        },
+        {
+          "name": "Grande Île (Historic Center)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The UNESCO World Heritage city center is very safe with constant foot traffic and police presence. Well-lit streets and proximity to major attractions make it ideal for tourists."
+        },
+        {
+          "name": "Krutenau",
+          "score": 8.0,
+          "class": "safe",
+          "description": "This trendy student quarter offers vibrant nightlife and restaurants. Generally safe with a young, lively atmosphere, though standard nightlife precautions are recommended."
+        },
+        {
+          "name": "Orangerie",
+          "score": 8.8,
+          "class": "safe",
+          "description": "An upscale residential area near European institutions known for its safety and peaceful atmosphere. Excellent for families and those seeking a quiet, secure environment."
+        },
+        {
+          "name": "Gare Centrale (Train Station Area)",
+          "score": 6.0,
+          "class": "caution",
+          "description": "While generally safe during day hours, the train station area can be less secure at night with occasional petty crime and panhandlers. Exercise extra caution after dark."
+        },
+        {
+          "name": "Cronenbourg",
+          "score": 5.5,
+          "class": "caution",
+          "description": "This outer residential area has a higher crime rate compared to central Strasbourg, particularly at night. Visitors should exercise caution and avoid walking alone after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Petition Scam",
+          "risk": "moderate",
+          "description": "Individuals approach tourists asking for signatures on fake petitions for charities while accomplices pickpocket belongings or demand donations.",
+          "howToAvoid": "Politely decline with 'Non, merci' and walk away quickly. Never sign documents from strangers or engage with persistent solicitors."
+        },
+        {
+          "name": "Friendship Bracelet Trick",
+          "risk": "moderate",
+          "description": "Someone approaches to tie a 'friendship bracelet' on your wrist as a 'gift' then demands payment aggressively, often while accomplices distract or pickpocket.",
+          "howToAvoid": "Keep hands close to your body, firmly refuse with 'No, thank you' and walk away immediately. Never allow strangers to put anything on you."
+        },
+        {
+          "name": "Counterfeit Attraction Tickets",
+          "risk": "low",
+          "description": "Street vendors may sell fake or invalid tickets for Strasbourg Cathedral tours or boat trips on the Ill River, leaving tourists unable to enter.",
+          "howToAvoid": "Only purchase tickets from official venues, authorized ticket offices, or reputable online platforms. Avoid buying from street vendors."
+        },
+        {
+          "name": "Overcharging in Tourist Areas",
+          "risk": "low",
+          "description": "Some restaurants and cafes near major tourist sites may inflate prices for visitors or add unexpected charges to bills, especially around the Cathedral.",
+          "howToAvoid": "Check menu prices carefully before ordering, ask about any additional charges, and review your bill thoroughly before paying."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Strasbourg is exceptionally safe for solo female travelers, ranking among France's most secure cities for women. The compact city center, excellent public transport, and relaxed atmosphere make independent exploration comfortable and enjoyable. Local women frequently travel alone, and solo female travelers report feeling secure both day and night in tourist areas.",
+        "tips": [
+          "Stay in well-lit central areas like Grande Île or La Petite France where there's constant foot traffic",
+          "Use licensed taxis or ride-share services for late-night transportation rather than walking alone in unfamiliar areas",
+          "Keep emergency numbers handy and inform someone of your itinerary when exploring independently",
+          "Trust your instincts - if a situation feels uncomfortable, remove yourself immediately",
+          "Consider staying in accommodations with 24-hour reception for added security"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Strasbourg maintains good safety levels at night, particularly in the main tourist zones which are well-lit and frequently patrolled. The city's vibrant nightlife areas like Krutenau and the historic center remain relatively safe with proper precautions. Public transport operates until late with night bus services available after regular hours.",
+        "tips": [
+          "Stick to well-lit, populated areas like Petite France and around Place Kléber when exploring after dark",
+          "Use the efficient night bus (HiBus) service or official taxis for late-night transport",
+          "Travel in groups when possible and avoid deserted streets or parks after midnight",
+          "Keep valuables secure and be extra vigilant in crowded nightlife areas to prevent pickpocketing",
+          "Plan your route back to accommodation in advance and keep emergency numbers accessible"
+        ]
+      },
+      "transport": {
+        "metro": "Strasbourg has no metro but features an excellent tram network with 6 lines (A, B, C, D, E, F) operating from 4:30 AM to 12:30 AM, plus 35 bus routes serving the metropolitan area.",
+        "rideshare": "Uber operates in Strasbourg with generally quick response times. However, drivers often charge the maximum fare range. BlaBlaCar is available for longer intercity trips.",
+        "taxis": "Official taxis are safe and regulated but less common than in larger cities. Most taxi stands are at the main train station. Book through hotels or call companies rather than hailing on street.",
+        "tips": "The tram and bus system is very safe, clean, and reliable. Purchase tickets in advance, validate them properly, and be aware of pickpockets during peak hours. Night buses (HiBus) operate hourly from midnight to 5 AM serving main nightlife areas."
+      },
+      "customs": [
+        "Greeting with 'Bonjour' or 'Bonsoir' when entering shops, restaurants, or interacting with locals is essential French etiquette",
+        "Dining typically starts later than in many countries - lunch around 12-2 PM, dinner after 7:30 PM, especially on weekends",
+        "Tipping is not mandatory as service charge is included, but rounding up or leaving small change (5-10%) is appreciated for good service",
+        "Dress modestly when visiting religious sites like Strasbourg Cathedral - avoid shorts, tank tops, and cover shoulders",
+        "Learning basic French phrases like 'Excusez-moi', 'S'il vous plaît', and 'Merci' will be greatly appreciated by locals"
+      ],
+      "health": {
+        "overview": "France has an excellent healthcare system with high-quality medical facilities readily available. Strasbourg offers several hospitals including university medical centers with English-speaking staff. EU citizens can use European Health Insurance Cards for reduced-cost treatment.",
+        "water": "Tap water in Strasbourg is completely safe to drink and meets strict European quality standards. It's regularly tested and treated - you can confidently drink from taps and ask for 'une carafe d'eau' in restaurants.",
+        "vaccinations": "No special vaccinations are required for France. Routine vaccinations (measles, mumps, rubella, diphtheria, tetanus, pertussis, polio, influenza) should be up to date as recommended for any international travel.",
+        "altitude": "Strasbourg sits at low elevation (143m above sea level) with no altitude concerns. The climate is temperate continental with mild winters and warm summers. Seasonal flu and common cold precautions are advised during winter months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "17",
+        "ambulance": "15",
+        "fire": "18",
+        "touristPolice": "03 90 23 17 17",
+        "usEmbassy": "U.S. Consulate Strasbourg: +33 (0)3 88 35 31 04 (appointments only) | U.S. Embassy Paris: +33 (0)1 43 12 22 22"
+      },
+      "faq": [
+        {
+          "q": "Is Strasbourg safe for tourists?",
+          "a": "Yes, Strasbourg is one of France's safest cities for tourists with low crime rates and excellent infrastructure. Violent crime is rare, and most issues involve minor petty theft in crowded tourist areas. The city consistently ranks among Europe's safest destinations."
+        },
+        {
+          "q": "Is Strasbourg safe at night?",
+          "a": "Strasbourg is generally safe at night, especially in well-lit tourist areas like La Petite France and the historic center. The city has good street lighting, regular police patrols, and active nightlife keeping areas populated. Standard precautions like staying in groups and using official transport are recommended."
+        },
+        {
+          "q": "Is Strasbourg safe for solo female travelers?",
+          "a": "Absolutely. Strasbourg is exceptionally safe for solo female travelers and is frequently recommended by women who have visited independently. The compact city center, excellent public transport, and welcoming atmosphere make it ideal for solo exploration with proper awareness of surroundings."
+        },
+        {
+          "q": "What areas should I avoid in Strasbourg?",
+          "a": "While Strasbourg is generally very safe, exercise extra caution around the main train station (Gare Centrale) at night and in outer areas like Cronenbourg after dark. Most tourist areas including Grande Île, Petite France, and Krutenau are very safe throughout the day and evening."
+        },
+        {
+          "q": "Is it safe to use public transport in Strasbourg?",
+          "a": "Yes, Strasbourg's public transport system including trams and buses is very safe, clean, and reliable. The extensive network operates late into the night with HiBus night services available. Be mindful of pickpockets during peak hours and keep valuables secure, but overall the system is highly regarded for safety."
+        }
+      ],
+      "relatedCities": [
+        "paris",
+        "lyon",
+        "marseille",
+        "bordeaux",
+        "nice"
+      ]
+    },
+    {
+      "slug": "toulouse",
+      "name": "Toulouse",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-10",
+      "overallScore": 6.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.5,
+        "naturalHazards": 6.5
+      },
+      "summary": "Toulouse is generally safe for tourists, ranking as one of France's safer major cities with low violent crime rates. The main concerns are petty crime like pickpocketing in crowded areas and occasional flooding from the Garonne River.",
+      "quickVerdict": "Known as 'La Ville Rose' for its pink brick architecture, Toulouse offers a safe environment for visitors with excellent public transportation and good emergency services. While petty crime exists in tourist areas and around the main train station, violent crime is rare. The city has experienced recent flooding but generally poses minimal natural disaster risk. Solo female travelers report feeling comfortable, especially in the city center, though caution is advised in certain peripheral neighborhoods at night.",
+      "neighborhoods": [
+        {
+          "name": "City Center / Capitole",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of Toulouse around Place du Capitole is very safe with heavy foot traffic, police presence, and well-lit streets. Tourist-friendly area with cafes and shops."
+        },
+        {
+          "name": "Saint-Sernin / University Quarter",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Historic area around the UNESCO basilica with good safety levels. Student population keeps area lively. Some minor pickpocketing risk near tourist sites."
+        },
+        {
+          "name": "Carmes District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy area with boutiques and restaurants. Generally safe for evening dining and nightlife, though standard urban precautions apply."
+        },
+        {
+          "name": "Gare Matabiau Area",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Main train station area requires extra vigilance, especially at night. Higher rates of petty crime and some transient population. Well-connected but avoid after dark if alone."
+        },
+        {
+          "name": "Le Mirail",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Northern suburb with social housing that tourists should avoid, particularly at night. Known for drug-related activity and higher crime rates."
+        },
+        {
+          "name": "Outer Northern Areas",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Peripheral neighborhoods like Reynerie, Bellefontaine, and Bagatelle have elevated crime risks. Limited tourist infrastructure and should be avoided."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pickpocketing on Public Transport",
+          "risk": "high",
+          "description": "Thieves work in groups on buses, trams, and metro, often creating distractions while accomplices steal wallets and phones.",
+          "howToAvoid": "Keep valuables in front pockets or hidden pouches. Stay alert near doors and crowded areas. Don't use phones near transport doors."
+        },
+        {
+          "name": "Train Station Theft",
+          "risk": "high",
+          "description": "Gare Matabiau sees frequent pickpocketing and bag snatching, especially targeting tired travelers with luggage.",
+          "howToAvoid": "Keep bags zipped and in front of you. Avoid displaying valuables. Use taxi apps rather than walking alone with luggage at night."
+        },
+        {
+          "name": "Tourist Area Begging Scams",
+          "risk": "medium",
+          "description": "Aggressive panhandlers near attractions may work in groups or use fake petitions to distract while accomplices steal items.",
+          "howToAvoid": "Politely decline and keep moving. Don't sign petitions from strangers. Keep belongings secure in crowded tourist areas."
+        },
+        {
+          "name": "ATM and Card Fraud",
+          "risk": "medium",
+          "description": "Skimming devices occasionally found on ATMs in tourist areas, and fake card readers may be used by criminals.",
+          "howToAvoid": "Use ATMs inside banks when possible. Cover your PIN. Check for unusual attachments on card readers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Toulouse is considered safe for solo female travelers, ranking 15th safest in France according to travel safety data. The city center is well-patrolled and women report feeling comfortable walking alone during the day. Evening safety is good in central areas, though some peripheral neighborhoods should be avoided after dark.",
+        "tips": [
+          "Stick to well-lit central areas like Capitole and Carmes districts in the evening",
+          "Use official taxis or rideshare apps rather than walking alone late at night",
+          "Avoid northern suburbs like Le Mirail, especially after dark",
+          "Trust your instincts and stay confident when navigating the city",
+          "Consider staying in accommodations near metro stations for easy transport"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Toulouse nightlife is generally safe with vibrant areas around Place Saint-Pierre and the Garonne riverfront. The city has good lighting in central areas and regular police patrols. However, safety decreases in peripheral areas and around the train station after dark.",
+        "tips": [
+          "Enjoy nightlife in central districts like Carmes and around Place Saint-Pierre",
+          "Travel in groups when possible and use official taxis for late-night transport",
+          "Avoid walking alone near Gare Matabiau station after 10 PM",
+          "Stay aware of your surroundings and don't flash expensive items",
+          "Keep emergency numbers saved and share your location with friends"
+        ]
+      },
+      "transport": {
+        "metro": "Toulouse metro is modern, automated, and generally very safe with platform screen doors and CCTV. Two main lines (A and B) cover the city well. Minor pickpocketing risk during rush hours.",
+        "rideshare": "Uber and local apps are widely available and considered safer than walking at night. Drivers are generally reliable and vehicles are tracked.",
+        "taxis": "Official taxis are safe and regulated. Can be harder to find at night, so booking via phone or apps is recommended. Standard European safety protocols apply.",
+        "tips": "Public transport is excellent and much safer than driving. Validate tickets to avoid fines. The Tisseo network is comprehensive and user-friendly."
+      },
+      "customs": [
+        "Always greet with 'Bonjour' when entering shops or restaurants - this is essential etiquette",
+        "Use 'vous' (formal 'you') with strangers and service staff rather than 'tu' (informal)",
+        "Keep your voice down in public spaces - loud conversation is considered rude in French culture"
+      ],
+      "health": {
+        "overview": "France has excellent healthcare with universal coverage. Toulouse has quality hospitals and medical facilities. Emergency services are well-coordinated and respond quickly.",
+        "water": "Tap water is safe to drink throughout the city. Bottled water is widely available but not necessary for health reasons.",
+        "vaccinations": "No special vaccinations required. Standard travel insurance is recommended but healthcare is accessible to all in emergencies.",
+        "altitude": "Toulouse is at low elevation with a mild climate. Summers can be hot (up to 30°C/86°F) and winters are generally mild with occasional cold snaps."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "17",
+        "ambulance": "15",
+        "fire": "18",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22. Located at 2 Avenue Gabriel, 75008 Paris (no consulate in Toulouse)"
+      },
+      "faq": [
+        {
+          "q": "Is Toulouse safe for tourists?",
+          "a": "Yes, Toulouse is generally safe for tourists and ranks among France's safer major cities. Violent crime is rare, though visitors should be aware of pickpocketing in crowded areas and around the train station."
+        },
+        {
+          "q": "Is Toulouse safe at night?",
+          "a": "The city center and main tourist areas are safe at night with good lighting and foot traffic. Avoid northern suburbs like Le Mirail and be cautious around Gare Matabiau station after dark."
+        },
+        {
+          "q": "Is Toulouse safe for solo female travelers?",
+          "a": "Yes, solo female travelers generally feel safe in Toulouse, especially in central areas. The city ranks 15th safest in France for women, though standard urban precautions should be taken."
+        },
+        {
+          "q": "What areas should I avoid in Toulouse?",
+          "a": "Avoid Le Mirail and northern peripheral neighborhoods like Reynerie, Bellefontaine, and Bagatelle, especially at night. Exercise extra caution around Gare Matabiau train station after dark."
+        },
+        {
+          "q": "Is it safe to use public transport in Toulouse?",
+          "a": "Yes, Toulouse's Tisseo public transport system is modern, reliable, and generally safe. The automated metro has platform screen doors and CCTV. Watch for pickpockets during rush hours."
+        }
+      ],
+      "relatedCities": [
+        "lyon",
+        "bordeaux",
+        "marseille"
+      ]
     }
   ]
 }

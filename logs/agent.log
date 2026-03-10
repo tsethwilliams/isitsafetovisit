@@ -567,3 +567,39 @@
 2026-03-10 19:53:46,081 [INFO] Checking alerts for 87 cities
 2026-03-10 19:54:32,082 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-10 19:54:32,245 [INFO] No safety alerts detected
+2026-03-10 22:58:25,339 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-10 22:58:25,381 [INFO] Queue has 279 cities, adding 8
+2026-03-10 22:58:25,381 [INFO] Generating new city profile: Bath, United Kingdom
+2026-03-10 23:00:36,485 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:00:36,631 [INFO] Saved city data: bath-united-kingdom
+2026-03-10 23:00:36,632 [INFO] Generating new city profile: York, United Kingdom
+2026-03-10 23:02:19,638 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:02:19,716 [INFO] Saved city data: york-united-kingdom
+2026-03-10 23:02:19,717 [INFO] Generating new city profile: Belfast, United Kingdom
+2026-03-10 23:03:57,035 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:03:57,147 [INFO] Saved city data: belfast-united-kingdom
+2026-03-10 23:03:57,149 [INFO] Generating new city profile: Nice, France
+2026-03-10 23:05:24,001 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:05:24,077 [INFO] Saved city data: nice-france
+2026-03-10 23:05:24,078 [INFO] Generating new city profile: Lyon, France
+2026-03-10 23:07:04,875 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:07:04,953 [INFO] Saved city data: lyon-france
+2026-03-10 23:07:04,954 [INFO] Generating new city profile: Bordeaux, France
+2026-03-10 23:09:02,363 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:09:02,476 [INFO] Saved city data: bordeaux-france
+2026-03-10 23:09:02,477 [INFO] Generating new city profile: Strasbourg, France
+2026-03-10 23:10:53,255 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:10:53,369 [INFO] Saved city data: strasbourg-france
+2026-03-10 23:10:53,371 [INFO] Generating new city profile: Toulouse, France
+2026-03-10 23:12:38,151 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 23:12:38,233 [INFO] Saved city data: toulouse-france
+2026-03-10 23:12:38,240 [INFO] Merged into site data: Bath
+2026-03-10 23:12:38,240 [INFO] Merged into site data: York
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Belfast
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Nice
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Lyon
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Bordeaux
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Strasbourg
+2026-03-10 23:12:38,241 [INFO] Merged into site data: Toulouse
+2026-03-10 23:12:38,261 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-10 23:12:38,262 [INFO] Updated sitemap with 8 new URLs
