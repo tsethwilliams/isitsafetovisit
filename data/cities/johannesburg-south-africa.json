@@ -1,0 +1,159 @@
+{
+  "slug": "johannesburg",
+  "name": "Johannesburg",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 5.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 4.5,
+    "scamRisk": 5.0,
+    "womensSafety": 5.0,
+    "nightSafety": 4.5,
+    "transport": 6.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Johannesburg is a vibrant economic and cultural hub but faces significant safety challenges that require careful planning. While the city offers excellent tourist attractions and experiences, visitors need to exercise heightened awareness and take specific precautions.",
+  "quickVerdict": "Johannesburg can be visited safely with proper precautions. Stick to upmarket areas like Sandton and Rosebank, use reputable tour operators, avoid walking after dark, and rely on Uber or private transfers. The city's attractions are worth experiencing, but extra vigilance is essential compared to other major destinations.",
+  "neighborhoods": [
+    {
+      "name": "Sandton",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upmarket financial district with high-end hotels, shopping malls, and restaurants. Well-patrolled with private security and generally safe for tourists during day and evening."
+    },
+    {
+      "name": "Rosebank",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular tourist area with craft markets, galleries, and cafes. Good public transport connections via Gautrain and generally safe with visible security presence."
+    },
+    {
+      "name": "Maboneng",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Trendy arts district with galleries, restaurants, and nightlife. Safe during organized events and daylight but requires caution when exploring alone, especially at night."
+    },
+    {
+      "name": "Johannesburg CBD",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Historic city center with significant crime issues. Not recommended for tourists, especially after dark. Only visit with reputable guided tours during daylight hours."
+    },
+    {
+      "name": "Hillbrow",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Inner city area with very high crime rates including drug activity and violent crime. Strongly discouraged for all tourists regardless of time of day."
+    },
+    {
+      "name": "Soweto",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic township with important cultural sites like Mandela's house. Safe to visit with reputable guided tours but not recommended for independent exploration."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourist Police",
+      "risk": "high",
+      "description": "Criminals pose as tourist police at airports or popular sites, demanding bag searches or document checks before robbing victims.",
+      "howToAvoid": "South Africa has no tourist police division. Ask for proper ID, refuse bag searches, and report incidents to real police immediately."
+    },
+    {
+      "name": "ATM Skimming and Card Fraud",
+      "risk": "high",
+      "description": "Devices attached to ATMs capture card details while hidden cameras record PINs. Teams may offer help to distract victims.",
+      "howToAvoid": "Use ATMs inside bank branches, cover your PIN, inspect machines for loose parts, and refuse help from strangers."
+    },
+    {
+      "name": "Walking Pass Scam",
+      "risk": "medium",
+      "description": "Fake officials in areas like Maboneng claim tourists need special walking passes and direct them to ATMs to tap cards for 'free' passes.",
+      "howToAvoid": "No walking passes are required in Johannesburg. Never tap your card for any street official and report attempts immediately."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Teams work together with one person engaging tourists in friendly conversation while accomplices steal belongings from bags or pockets.",
+      "howToAvoid": "Be wary of overly friendly strangers, keep valuables secure and hidden, and move to crowded areas if you feel targeted."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Johannesburg is possible but requires significant extra precautions and is best suited for experienced travelers. Many women visit safely by sticking to upmarket areas, using organized tours, and avoiding walking alone especially after dark. The city's infrastructure supports independent travel but safety concerns are real and should not be underestimated.",
+    "tips": [
+      "Stay in upmarket areas like Sandton or Rosebank with good security and avoid budget accommodations in questionable neighborhoods",
+      "Use Uber Black or reputable private transfers rather than walking, especially after sunset, and keep ride details shared with contacts",
+      "Join organized tours for township visits and major attractions rather than exploring independently, particularly cultural and historical sites"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Johannesburg's nightlife can be enjoyed safely but requires careful planning and precautions. Popular areas like Sandton, Rosebank, and Maboneng have vibrant evening scenes with adequate security, but walking between venues is strongly discouraged. Most locals and tourists use ride-hailing services after dark.",
+    "tips": [
+      "Stick to well-established nightlife areas like Sandton's rooftop bars or Rosebank's entertainment districts with visible security",
+      "Use Uber or Bolt for all transportation after dark rather than walking, even short distances between venues",
+      "Travel in groups when possible and avoid isolated areas or lesser-known neighborhoods regardless of recommendations"
+    ]
+  },
+  "transport": {
+    "metro": "The Gautrain is a safe, modern rail system connecting Sandton, Rosebank, Pretoria and OR Tambo Airport with good security. However, traditional Metrorail trains are not recommended for tourists due to safety concerns and poor maintenance.",
+    "rideshare": "Uber and Bolt are widely available and generally safe, with UberBlack offering professional drivers for slightly higher cost. These are the preferred transport method for most tourists and locals, especially after dark.",
+    "taxis": "Official metered taxis exist but traditional minibus taxis are not recommended for tourists due to confusing routes, unlicensed drivers, and safety concerns. Private airport transfers and hotel shuttles are reliable alternatives.",
+    "tips": "Avoid walking long distances or using public buses. The Gautrain is excellent for airport connections and between major areas. For maximum safety, use pre-arranged transfers or stick to Uber/Bolt with high ratings."
+  },
+  "customs": [
+    "Greet with a firm handshake and maintain eye contact; South Africans value direct, friendly communication",
+    "Tipping is expected at 10-15% in restaurants, bars, and for services like guides and drivers",
+    "Be respectful when discussing apartheid history and current social issues; listen more than you speak on sensitive topics"
+  ],
+  "health": {
+    "overview": "Johannesburg has excellent private healthcare facilities but public hospitals can be overstretched. The high altitude (1,750m) may cause mild symptoms initially. Air pollution can be an issue, particularly in winter months.",
+    "water": "Tap water in Johannesburg is generally safe to drink and meets international standards, though bottled water is widely available if preferred.",
+    "vaccinations": "Routine vaccinations should be current. Hepatitis A and B, typhoid, and yellow fever (if arriving from endemic areas) are recommended. Malaria prophylaxis is not needed for Johannesburg itself.",
+    "altitude": "At 1,750m elevation, some visitors may experience mild altitude sickness initially. The climate is generally mild with dry winters (June-August) and wet summers (December-February)."
+  },
+  "emergency": {
+    "general": "10111",
+    "police": "10111",
+    "ambulance": "10177",
+    "fire": "10177",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Johannesburg: +27 11 290 3000, located at 1 Sandton Drive, Sandhurst. Embassy main office in Pretoria: +27 12 431 4000. 24/7 emergency assistance for U.S. citizens: +1-202-501-4444 (from abroad)."
+  },
+  "faq": [
+    {
+      "q": "Is Johannesburg safe for tourists?",
+      "a": "Johannesburg can be safe for tourists who take proper precautions. Stick to upmarket areas like Sandton and Rosebank, use reputable tours, avoid walking after dark, and stay alert to your surroundings. Many visitors have positive experiences by following safety guidelines."
+    },
+    {
+      "q": "Is Johannesburg safe at night?",
+      "a": "Nighttime safety requires extra caution. Popular areas like Sandton have active nightlife with security, but walking is not recommended after dark anywhere in the city. Use Uber or private transport, stay in groups, and stick to well-established venues with visible security."
+    },
+    {
+      "q": "Is Johannesburg safe for solo female travelers?",
+      "a": "Solo female travel is possible but requires significant precautions and is best for experienced travelers. Stay in secure accommodations in upmarket areas, use organized tours, avoid walking alone especially after dark, and maintain constant awareness of your surroundings."
+    },
+    {
+      "q": "What areas should I avoid in Johannesburg?",
+      "a": "Avoid Johannesburg CBD after dark, Hillbrow entirely, and informal settlements unless with reputable guided tours. Even tourist areas like Maboneng require caution when exploring alone. Stick to Sandton, Rosebank, and other well-established tourist zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Johannesburg?",
+      "a": "The Gautrain is safe and recommended for airport connections and travel between major areas. Avoid Metrorail trains and minibus taxis. Uber and Bolt are the safest options for most journeys, with many locals and tourists relying on them exclusively."
+    }
+  ],
+  "relatedCities": [
+    "cape-town",
+    "durban",
+    "nairobi",
+    "cairo",
+    "casablanca"
+  ],
+  "_city_id": "johannesburg-south-africa"
+}

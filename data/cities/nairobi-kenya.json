@@ -1,0 +1,163 @@
+{
+  "slug": "nairobi",
+  "name": "Nairobi",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 5.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 5.5,
+    "scamRisk": 6.0,
+    "womensSafety": 5.2,
+    "nightSafety": 4.5,
+    "transport": 6.8,
+    "naturalHazards": 8.1
+  },
+  "summary": "Nairobi presents moderate safety challenges for tourists, with heightened crime risks in certain neighborhoods like Eastleigh and Kibera. While the city offers vibrant attractions including Nairobi National Park and diverse dining scenes, visitors should exercise increased caution, particularly at night and in less affluent areas.",
+  "quickVerdict": "Nairobi requires careful planning and awareness for safe travel. The city has both safe upscale areas like Westlands, Karen, and Kilimani, and higher-risk neighborhoods that tourists should avoid. Crime is a genuine concern, with reported incidents of petty theft, carjacking, and occasional violent crime. However, millions of tourists visit safely each year by staying in recommended areas, using reliable transport like Uber and registered taxis, and following basic safety precautions. The tourism infrastructure is well-developed with good hotels, restaurants, and tour operators.",
+  "neighborhoods": [
+    {
+      "name": "Westlands",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular expat and tourist area with upscale hotels, restaurants, malls like Sarit Centre, and vibrant nightlife. Good security presence and well-lit streets make it one of the safer areas in Nairobi."
+    },
+    {
+      "name": "Karen",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale suburban area home to attractions like the Giraffe Centre and Karen Blixen Museum. Quiet, well-secured residential area popular with expatriates and considered one of Nairobi's safest neighborhoods."
+    },
+    {
+      "name": "Kilimani",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy area with growing restaurant scene and nightlife along Argwings Kodhek Road. Generally safe during the day but requires caution at night, especially around club areas."
+    },
+    {
+      "name": "CBD Central Business District",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Nairobi's downtown core with government buildings, banks, and major hotels. Generally safe during business hours but avoid after dark. Higher pickpocketing risk and some areas can be crowded and chaotic."
+    },
+    {
+      "name": "Eastleigh",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Known as 'Little Mogadishu', this densely populated area has significant crime and security concerns. US State Department specifically warns against travel to this neighborhood due to crime and kidnapping risks."
+    },
+    {
+      "name": "Kibera",
+      "score": 2.5,
+      "class": "danger",
+      "description": "One of Africa's largest slums with extremely high crime rates including violent crime. Tourists should avoid this area entirely unless on an organized tour with proper security arrangements."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "high",
+      "description": "Scammers impersonate police officers using fake ID badges, claiming tourists have violated laws and demanding fines or bribes, often confiscating passports or money.",
+      "howToAvoid": "Always ask for official identification and insist on going to a police station. Real police rarely demand immediate cash payments."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Taxi drivers, especially at airports, charge inflated fares by claiming broken meters or refusing to use them, particularly targeting tourists who appear unfamiliar with local rates.",
+      "howToAvoid": "Use ride-hailing apps like Uber or Bolt with transparent pricing, or negotiate fares upfront and ensure the meter works before starting your journey."
+    },
+    {
+      "name": "Tour Operator Fraud",
+      "risk": "medium",
+      "description": "Unregistered tour companies take advance payments for safaris or excursions then disappear or provide substandard services, sometimes demanding additional payments mid-trip.",
+      "howToAvoid": "Book only with Kenya Association of Tour Operators KATO members, avoid paying full amounts upfront, and verify company credentials before booking."
+    },
+    {
+      "name": "Fake Gold Scam",
+      "risk": "medium",
+      "description": "Elaborate scheme where fraudsters pose as gold dealers, taking potential investors to fake warehouses with police protection and legal contracts, selling gold-plated metal or containers of mud.",
+      "howToAvoid": "Be extremely skeptical of unsolicited business opportunities involving precious metals or stones. Verify all documentation independently and never conduct business on a tourist visa."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Nairobi requires extra caution but is manageable with proper precautions. Many women travel solo successfully by staying in safer neighborhoods, using reliable transport, and following standard safety protocols. The tourism infrastructure caters well to female travelers with women-focused accommodations and tour options available.",
+    "tips": [
+      "Stay in reputable accommodations in safer areas like Westlands, Karen, or Kilimani with 24-hour security",
+      "Use ride-hailing apps like Uber or Bolt rather than walking alone, especially after dark",
+      "Avoid flashy jewelry and keep valuables secure; consider a decoy wallet with small bills",
+      "Join group activities or tours when possible, and inform others of your whereabouts",
+      "Trust your instincts and remove yourself from situations that feel unsafe immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nairobi's safety profile changes significantly after dark, with increased risks of violent crime, carjacking, and mugging. Even safer areas require caution at night. The vibrant nightlife scene exists but demands careful planning for safe transportation and venue selection.",
+    "tips": [
+      "Never walk alone at night; always use registered taxis, Uber, or hotel transport",
+      "Stick to well-established venues in safer areas like Westlands with good security",
+      "Pre-arrange transportation for late-night activities and have backup plans",
+      "Avoid carrying large amounts of cash and keep phones and valuables secure",
+      "Stay alert to your surroundings and avoid isolated or poorly lit areas entirely"
+    ]
+  },
+  "transport": {
+    "metro": "Nairobi has limited rail transport with a commuter rail network connecting select areas, but coverage is not extensive and may not serve all tourist destinations effectively.",
+    "rideshare": "Uber and Bolt are widely available, reliable, and considered the safest transport option for tourists. Both apps provide transparent pricing, driver tracking, and electronic payments, eliminating haggling and cash handling.",
+    "taxis": "Licensed taxis marked with yellow stripes are available but often overpriced and poorly maintained. Many lack working meters, requiring fare negotiation. Hotel taxis are more reliable but expensive.",
+    "tips": "Use ride-hailing apps for maximum safety and convenience. Avoid matatus (shared minibuses) due to safety concerns including overcrowding and reckless driving. For longer stays, consider hiring a reputable driver through your hotel."
+  },
+  "customs": [
+    "Greet with handshakes; use respectful titles like Mzee for elders, Mama for women, and Baba for men",
+    "Dress modestly especially in rural areas and religious sites; remove hats when entering homes",
+    "Use only your right hand for eating, handshakes, and giving/receiving items; left hand is considered unclean",
+    "Accept offered hospitality graciously; declining food or tea invitations may be seen as rude",
+    "Ask permission before photographing people, especially in rural areas; some may expect payment"
+  ],
+  "health": {
+    "overview": "Nairobi has limited healthcare infrastructure compared to developed countries, with quality varying significantly. Private hospitals offer better care than public facilities. Most medical professionals speak English.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice cubes and raw foods washed in tap water.",
+    "vaccinations": "Yellow fever vaccination required if arriving from endemic countries. Hepatitis A, typhoid, and routine vaccines recommended. Malaria risk is very low in Nairobi itself due to altitude.",
+    "altitude": "Nairobi sits at 1,795 meters (5,889 feet) above sea level. Most visitors adapt quickly, but some may experience mild altitude effects initially."
+  },
+  "emergency": {
+    "general": "112 or 999",
+    "police": "999 or 112",
+    "ambulance": "999 or 020-2222181",
+    "fire": "999 or 020-2344599",
+    "touristPolice": "020-2726958",
+    "usEmbassy": "US Embassy Nairobi: +254-20-363-6000, United Nations Avenue, Gigiri. Emergency after hours: +254-20-363-6170"
+  },
+  "faq": [
+    {
+      "q": "Is Nairobi safe for tourists?",
+      "a": "Nairobi requires moderate caution but millions visit safely each year. Stay in recommended areas like Westlands and Karen, use reliable transport like Uber, and follow basic safety precautions. Avoid certain neighborhoods like Eastleigh and Kibera."
+    },
+    {
+      "q": "Is Nairobi safe at night?",
+      "a": "Nairobi has increased safety risks after dark. Never walk alone at night, even in safer areas. Use ride-hailing apps or registered taxis, stick to well-established venues with security, and pre-arrange transportation for evening activities."
+    },
+    {
+      "q": "Is Nairobi safe for solo female travelers?",
+      "a": "Solo female travel is possible with extra precautions. Stay in secure accommodations in safer neighborhoods, use ride-hailing apps, avoid walking alone especially at night, and trust your instincts. Many women travel solo successfully using proper safety measures."
+    },
+    {
+      "q": "What areas should I avoid in Nairobi?",
+      "a": "Avoid Eastleigh and Kibera neighborhoods entirely due to high crime rates. Be cautious in downtown CBD after dark. Stick to safer areas like Westlands, Karen, Kilimani, and Gigiri, especially for accommodation and dining."
+    },
+    {
+      "q": "Is it safe to use public transport in Nairobi?",
+      "a": "Matatus (shared minibuses) have safety concerns including overcrowding and reckless driving. Ride-hailing apps like Uber and Bolt are safer options. Licensed taxis are better than matatus but often overpriced and poorly maintained."
+    }
+  ],
+  "relatedCities": [
+    "lagos",
+    "dar-es-salaam",
+    "addis-ababa"
+  ],
+  "_city_id": "nairobi-kenya"
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "marrakech",
+  "name": "Marrakech",
+  "country": "Morocco",
+  "countryCode": "MA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 8.0,
+    "scamRisk": 5.5,
+    "womensSafety": 6.2,
+    "nightSafety": 6.8,
+    "transport": 6.5,
+    "naturalHazards": 8.6
+  },
+  "summary": "Marrakech is generally safe for tourists with excellent hospitality and low violent crime rates. The main challenges are petty theft in crowded areas like souks and Jemaa el-Fna, persistent vendors, and common tourist scams involving fake guides.",
+  "quickVerdict": "Marrakech offers a safe travel experience for most visitors, ranking among Morocco's safest cities with dedicated tourist police and strong security infrastructure. While violent crime against tourists is rare, travelers should stay alert for pickpockets in busy medinas and avoid common scams involving fake guides or overpriced goods. The city welcomes millions of visitors annually with minimal serious incidents, though solo female travelers may encounter verbal harassment requiring confidence and cultural awareness.",
+  "neighborhoods": [
+    {
+      "name": "Gueliz (New City)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern district with wide boulevards, upscale hotels, restaurants, and shopping. Well-lit streets, regular police presence, and international atmosphere make it very tourist-friendly."
+    },
+    {
+      "name": "Hivernage",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Luxury hotel district near Menara Gardens with excellent security, upscale venues, and easy access to major attractions. Popular nightlife area with good lighting and safety measures."
+    },
+    {
+      "name": "Medina (Tourist Areas)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Historic old city around major attractions like Jemaa el-Fna and Bahia Palace. Tourist police presence is strong, but watch for pickpockets and pushy vendors in crowded souks."
+    },
+    {
+      "name": "Medina (Residential Areas)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Deeper residential areas of the old city with narrow, maze-like streets. Easy to get lost, less tourist police presence, and some poorly lit areas at night."
+    },
+    {
+      "name": "Train Station Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Busy transport hub with higher petty crime risk. Taxi touts and fake guides are common. Use official taxis and avoid displaying valuables, especially with luggage."
+    },
+    {
+      "name": "Outskirts/Industrial Areas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Peripheral areas beyond main tourist zones with limited police presence. Poorly lit streets, few tourists, and higher crime risk. Avoid after dark and use trusted transport."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourist Guides",
+      "risk": "high",
+      "description": "Self-proclaimed guides approach tourists offering free help with directions, then demand payment or lead you to overpriced shops where they earn commission.",
+      "howToAvoid": "Politely decline unsolicited help. Use only official licensed guides with badges. Ask your hotel to arrange guides or tours from reputable companies."
+    },
+    {
+      "name": "Carpet Shop Tea Trap",
+      "risk": "medium",
+      "description": "Friendly locals invite you for free mint tea and carpet viewing, creating social pressure to buy expensive items. Accepting hospitality implies obligation to purchase.",
+      "howToAvoid": "Politely decline invitations from strangers. If you accept tea, be prepared to pay around 5 dirhams per cup. Walk away confidently if pressured to buy."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Taxi drivers quote inflated fixed prices or refuse to use the meter, especially for airport transfers and tourist destinations.",
+      "howToAvoid": "Insist on using the taximeter before starting the journey. Know approximate costs in advance. Use hotel-arranged taxis or official taxi ranks when possible."
+    },
+    {
+      "name": "Henna Hand Grabbing",
+      "risk": "medium",
+      "description": "Women forcibly apply henna to tourists' hands without permission in Jemaa el-Fna, then demand high payment for the unwanted service.",
+      "howToAvoid": "Keep hands in pockets or firmly say no. Walk away quickly if approached. Be especially careful if traveling with children who may be targeted."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Marrakech is manageable for solo female travelers with proper preparation and cultural awareness. Hundreds of thousands of women visit safely each year, though verbal harassment like catcalling is more common than in Western countries. Dressing modestly and projecting confidence significantly reduces unwanted attention.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, carry a light scarf for extra coverage",
+      "Stay in well-reviewed riads or hotels with 24-hour staff and good locations",
+      "Use hotel-arranged taxis at night and avoid walking alone in poorly lit medina areas",
+      "Join group tours or connect with other female travelers in busy areas for added comfort",
+      "Project confidence, ignore persistent comments, and don't engage with harassers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Marrakech is generally safe at night in tourist areas with good lighting and police presence. The atmosphere is vibrant with night markets, rooftop bars, and cultural shows. However, solo travelers should exercise caution in the medina's narrow alleys after 10 PM and always arrange reliable transport back to accommodations.",
+    "tips": [
+      "Stick to well-lit main streets and popular areas like Jemaa el-Fna and Gueliz district",
+      "Arrange transport through your hotel rather than hailing taxis late at night",
+      "Avoid walking alone in medina alleys after 10 PM - they can be confusing and poorly lit",
+      "Keep valuables secure and don't display expensive items in nightlife areas",
+      "Consider organized nightlife tours or dinner shows for a safer cultural experience"
+    ]
+  },
+  "transport": {
+    "metro": "Marrakech has no metro system. Local ALSA buses serve the city but are often crowded and considered less safe than taxis due to poor driving conditions and potential for petty theft.",
+    "rideshare": "Uber and Bolt are not available. Heetch operates in some areas but with limited coverage. Traditional taxis remain the primary option for most travelers.",
+    "taxis": "Petit taxis (tan colored in Marrakech) are the safest transport option during daytime. Insist on using the taximeter or agree on price beforehand. Grand taxis serve longer distances but require price negotiation.",
+    "tips": "Use hotel-arranged transport when possible, especially for airport transfers. Avoid overcrowded buses and negotiate taxi fares clearly. Keep small change ready for quick payments."
+  },
+  "customs": [
+    "Morocco is a Muslim country - dress modestly covering shoulders and knees, especially in religious areas",
+    "Use your right hand for eating, greetings, and passing items as the left hand is considered unclean",
+    "Remove shoes when entering homes, some restaurants, and mosque areas when permitted",
+    "During Ramadan, avoid eating, drinking, or smoking in public during daylight hours out of respect",
+    "Ask permission before photographing people, especially women and children",
+    "Public displays of affection should be minimal - brief handshakes are appropriate",
+    "Alcohol is available in tourist areas but avoid public intoxication and respect local attitudes",
+    "Friday prayers (noon-2 PM) require extra sensitivity around mosque areas"
+  ],
+  "health": {
+    "overview": "No mandatory vaccinations required for most travelers, but Hepatitis A and Typhoid are recommended. Marrakech has good healthcare infrastructure with both public and private options. The main health risks are traveler's diarrhea and heat-related issues.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and teeth brushing. Ice may be made from tap water, so request drinks without ice if concerned. Bottled water is widely available and inexpensive.",
+    "vaccinations": "Recommended: Hepatitis A, Typhoid, routine vaccinations (MMR, tetanus, flu). Consider Hepatitis B for longer stays. Rabies vaccination only needed for remote travel or animal work. Consult a travel clinic 4-6 weeks before departure.",
+    "altitude": "Marrakech sits at low altitude with no concerns. However, the climate is hot and dry with intense sun year-round. Use high SPF sunscreen, wear hats, and stay hydrated. Desert trips involve extreme temperature variations between day and night."
+  },
+  "emergency": {
+    "general": "190 (mobile) / 19 (landline)",
+    "police": "190 (mobile) / 19 (landline)",
+    "ambulance": "150",
+    "fire": "150",
+    "touristPolice": "+212 524 384 601 or +212 524 888 680",
+    "usEmbassy": "US Consulate Casablanca: +212 522 642 000 (8 Boulevard Moulay Youssef). Emergency after hours: +212 537 637 200"
+  },
+  "faq": [
+    {
+      "q": "Is Marrakech safe for tourists?",
+      "a": "Yes, Marrakech is generally safe for tourists with low violent crime rates and strong security infrastructure. The main concerns are petty theft and tourist scams, which can be avoided with basic precautions like securing valuables and being aware of common scam tactics."
+    },
+    {
+      "q": "Is Marrakech safe at night?",
+      "a": "Marrakech is safe at night in tourist areas like Jemaa el-Fna, Gueliz, and Hivernage districts which have good lighting and police presence. However, avoid walking alone in narrow medina alleys after 10 PM and always arrange reliable transport back to your accommodation."
+    },
+    {
+      "q": "Is Marrakech safe for solo female travelers?",
+      "a": "Yes, with proper preparation. Hundreds of thousands of women travel to Marrakech solo each year. Dress modestly, stay in reputable accommodations, use hotel-arranged transport at night, and be confident when dealing with verbal harassment, which is more common than in Western countries."
+    },
+    {
+      "q": "What areas should I avoid in Marrakech?",
+      "a": "Avoid poorly lit residential areas deep in the medina at night, industrial outskirts beyond tourist zones, and isolated areas after dark. The train station area requires extra caution due to taxi touts and fake guides. Stay in well-traveled tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Marrakech?",
+      "a": "Local buses are generally avoided by tourists due to overcrowding and petty theft risks. Petit taxis are the safest option - insist on using the meter and agree on prices beforehand. Avoid grand taxis unless necessary and always negotiate the fare clearly."
+    }
+  ],
+  "relatedCities": [
+    "casablanca",
+    "fes",
+    "rabat"
+  ],
+  "_city_id": "marrakech-morocco"
+}

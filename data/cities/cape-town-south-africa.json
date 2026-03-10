@@ -1,0 +1,167 @@
+{
+  "slug": "cape-town",
+  "name": "Cape Town",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.0,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Cape Town offers stunning natural beauty and world-class tourist attractions, but visitors should exercise increased caution due to elevated crime rates. Tourist areas like V&A Waterfront, Camps Bay, and the Atlantic Seaboard are generally safe with proper precautions, while certain townships and areas should be avoided entirely.",
+  "quickVerdict": "Cape Town is a magnificent destination that can be visited safely with proper planning and awareness. While crime rates are elevated compared to many international cities, the vast majority of tourists have incident-free visits by staying in well-regarded areas, avoiding townships without guides, using reliable transport, and following basic safety protocols. The city's tourist infrastructure is well-developed with good private security, quality accommodations, and excellent emergency services. Most crime affecting tourists occurs due to opportunistic theft, scams, or venturing into high-risk areas. With reasonable precautions, Cape Town rewards visitors with extraordinary experiences from Table Mountain to wine country.",
+  "neighborhoods": [
+    {
+      "name": "V&A Waterfront",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Cape Town's premier tourist destination with 24/7 security, extensive CCTV coverage, and heavy foot traffic. Shopping, dining, and entertainment are concentrated here with excellent safety infrastructure. Generally safe to walk around day and night."
+    },
+    {
+      "name": "Atlantic Seaboard (Camps Bay, Clifton, Sea Point)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale coastal areas with beautiful beaches, restaurants, and accommodation. Well-patrolled with private security and generally safe during day and evening. Some petty crime possible, but very low violent crime rates."
+    },
+    {
+      "name": "City Bowl (Gardens, Tamboerskloof, Oranjezicht)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central areas close to Table Mountain with many guesthouses and restaurants. Generally safe during daylight hours with reasonable foot traffic. Some areas can feel isolated after dark, so transport is recommended for evening activities."
+    },
+    {
+      "name": "Cape Town CBD",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Central business district with mixed safety conditions. Safe in busy commercial areas during business hours but can become deserted and risky after dark. Some panhandling and petty crime. Exercise caution and avoid walking alone at night."
+    },
+    {
+      "name": "Observatory/Woodstock",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Up-and-coming areas with arts scene and restaurants, but with notable safety concerns. Generally safe during day in busy areas, but crime rates higher than tourist zones. Avoid isolated streets and be cautious after dark."
+    },
+    {
+      "name": "Cape Flats Townships (Khayelitsha, Nyanga, Mitchell's Plain)",
+      "score": 2.5,
+      "class": "danger",
+      "description": "High-crime townships with gang violence and extremely high murder rates. Considered among South Africa's most dangerous areas. Tourists should only visit with reputable, experienced guides and avoid entirely at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Walking Permit Scam",
+      "risk": "high",
+      "description": "Fraudsters pose as city officials claiming tourists need permits to walk in public areas, requesting credit card payments with portable card machines. Recently caught on CCTV in Green Point area.",
+      "howToAvoid": "Know that no permits are required for walking in Cape Town. Never give your card to unofficial people. Ask for identification and go to nearest police station if pressured."
+    },
+    {
+      "name": "Fake Police Scam",
+      "risk": "high",
+      "description": "Criminals impersonate police officers to extort money, claiming fines for fake violations or demanding bag searches. South Africa has no tourist police division.",
+      "howToAvoid": "Always ask for official identification. Legitimate police don't accept roadside fine payments. Offer to go to police station to pay any fines. Don't let anyone search your bags without proper authority."
+    },
+    {
+      "name": "Airport Transport Scam",
+      "risk": "high",
+      "description": "Unauthorized taxi drivers approach tourists at Cape Town International Airport offering rides, often overcharging or taking circuitous routes through dangerous areas.",
+      "howToAvoid": "Only use pre-booked transport, official airport shuttles, or ride-hailing apps like Uber/Bolt. Confirm driver details match your booking. Don't accept unsolicited ride offers inside or outside the airport."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams work together where one person distracts tourists with requests for directions or spills something on them while accomplices pickpocket valuables.",
+      "howToAvoid": "Stay aware of surroundings, especially if approached by overly friendly strangers. Keep valuables secure and be suspicious of contrived situations. Move to crowded areas if feeling uncomfortable."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Cape Town is possible but requires extra precautions and experience. The city presents elevated risks compared to many international destinations, with gender-based violence being a serious concern in South Africa. However, many solo female travelers visit successfully by staying in safe areas, using reliable transport, and following security protocols. First-time solo travelers should consider guided tours initially.",
+    "tips": [
+      "Stay in well-reviewed accommodations with 24/7 security in safe areas like V&A Waterfront or Atlantic Seaboard",
+      "Avoid walking alone after dark anywhere except V&A Waterfront - use Uber or taxis for evening activities",
+      "Join female-only groups like Her Hike, Curves on Trails for activities and socializing",
+      "Don't hike Table Mountain or other trails alone - join group tours or find hostel companions",
+      "Always inform someone of your whereabouts and expected return time",
+      "Trust your instincts and leave any situation that feels uncomfortable immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cape Town's safety deteriorates significantly after dark, with crime rates increasing substantially. While V&A Waterfront remains relatively safe at night, most other areas require caution and reliable transport. The general advice is to avoid walking alone after sunset outside of the main tourist precinct, even for short distances.",
+    "tips": [
+      "Use Uber, Bolt, or licensed taxis for all nighttime transport - never walk alone after dark",
+      "Stick to well-lit, busy areas like V&A Waterfront for evening dining and entertainment",
+      "Avoid Long Street and CBD areas at night despite their nightlife - higher crime risk",
+      "If staying in residential areas, arrange pickup/dropoff directly at your accommodation",
+      "Always carry a charged phone and emergency numbers",
+      "Stay alert and avoid displaying expensive items like phones, jewelry, or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "Cape Town's public trains have safety concerns and are not recommended for tourists, especially at night. The MyCiTi bus system is safer for daytime travel between major tourist areas but has limited routes.",
+    "rideshare": "Uber and Bolt are widely available and generally the safest transport option. Confirm driver details match your app, sit in back seat, and share trip details with someone. Usually reliable and affordable.",
+    "taxis": "Licensed metered taxis are available but more expensive than rideshare options. Avoid unregistered minibus taxis which can be dangerous. Airport shuttles and hotel transfers are good alternatives.",
+    "tips": "Rideshare apps are your safest bet for getting around. Avoid driving at night outside metropolitan areas due to crime risk and poor road conditions. If renting a car, never leave anything visible inside and park in secure areas only."
+  },
+  "customs": [
+    "South Africans are generally warm and hospitable - a handshake is the standard greeting",
+    "English is widely spoken along with Afrikaans and Xhosa in the Western Cape",
+    "Tipping is expected: 10-15% at restaurants, R20-50 for hotel staff, round up for taxis",
+    "Dress modestly when visiting townships or religious sites",
+    "Avoid discussing politics or apartheid unless invited to do so by locals"
+  ],
+  "health": {
+    "overview": "Cape Town has excellent private healthcare facilities comparable to international standards, though public healthcare is strained. The city is not in a malaria zone and has good sanitation infrastructure.",
+    "water": "Tap water in Cape Town is safe to drink and rated to international standards. The city has experienced water restrictions in recent years but supply is currently adequate for tourists.",
+    "vaccinations": "No special vaccinations required for Cape Town. Yellow fever certificate needed if arriving from risk countries. Routine vaccines (MMR, DPT, flu) should be up to date. Consider hepatitis A/B for extended stays.",
+    "altitude": "Cape Town is at sea level with a Mediterranean climate. Summer (Oct-Mar) can be hot and dry with fire risk. Winter (Apr-Sep) brings rain and cooler temperatures. UV levels are high year-round due to Southern Hemisphere location."
+  },
+  "emergency": {
+    "general": "112 (from mobile) or 107 (from landline)",
+    "police": "10111",
+    "ambulance": "10177",
+    "fire": "021 535 1100",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Cape Town: +27-21-702-7300, located at 2 Reddam Avenue, Westlake. Emergency after-hours: +27-21-702-7300. For US citizens needing assistance: +1-202-501-4444 (from abroad)"
+  },
+  "faq": [
+    {
+      "q": "Is Cape Town safe for tourists?",
+      "a": "Cape Town can be safe for tourists who take proper precautions and stay in recommended areas. While crime rates are elevated, the vast majority of visitors have incident-free trips by avoiding high-risk townships, using reliable transport, staying in secure accommodations, and following basic safety protocols like not walking alone after dark."
+    },
+    {
+      "q": "Is Cape Town safe at night?",
+      "a": "Cape Town is significantly less safe at night, with most safety advice recommending against walking alone after dark. The V&A Waterfront remains relatively safe for evening activities, but other areas require taxi transport. Crime rates increase substantially after sunset, so plan evening activities carefully and always use reliable transport."
+    },
+    {
+      "q": "Is Cape Town safe for solo female travelers?",
+      "a": "Solo female travel in Cape Town is possible but requires extra precautions and preferably some travel experience. Many women visit safely by staying in secure accommodations, using transport for all nighttime movement, joining group activities, and avoiding certain areas entirely. First-time solo travelers should consider guided tours initially."
+    },
+    {
+      "q": "What areas should I avoid in Cape Town?",
+      "a": "Avoid Cape Flats townships (Khayelitsha, Nyanga, Mitchell's Plain) without experienced guides due to high crime rates. Exercise caution in the CBD after dark, and avoid isolated areas of Observatory and Woodstock. Even in safer areas, don't walk alone at night outside the V&A Waterfront."
+    },
+    {
+      "q": "Is it safe to use public transport in Cape Town?",
+      "a": "Public trains are not recommended for tourists due to safety concerns. The MyCiTi bus system is safer for daytime travel between major tourist areas. Uber and Bolt rideshare services are the safest and most convenient transport options, widely used by tourists and locals alike."
+    }
+  ],
+  "relatedCities": [
+    "johannesburg",
+    "durban",
+    "nairobi",
+    "lagos",
+    "cairo"
+  ],
+  "_city_id": "cape-town-south-africa"
+}

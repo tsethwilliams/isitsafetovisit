@@ -1,0 +1,165 @@
+{
+  "slug": "accra",
+  "name": "Accra",
+  "country": "Ghana",
+  "countryCode": "GH",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.0,
+    "scamRisk": 5.5,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Accra offers a moderate level of safety for tourists, with Ghana ranked as one of Africa's safest countries and the second lowest crime rate on the continent. While violent crime is relatively uncommon, petty theft and tourist-targeted scams do occur, particularly in crowded markets and tourist areas.",
+  "quickVerdict": "Accra is generally safe for tourists during the day, with locals being notably welcoming and helpful. However, visitors should exercise increased caution at night, especially women traveling alone, and be aware of common scams. The city has good rideshare options and decent emergency services, though response times can vary. With proper precautions and cultural awareness, Accra offers a rewarding and safe travel experience.",
+  "neighborhoods": [
+    {
+      "name": "Cantonments",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The embassy district with top security due to diplomatic presence. Very safe but sterile with limited character, excellent for accommodation but requires travel to other areas for activities."
+    },
+    {
+      "name": "East Legon",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Accra's wealthy suburb with modern amenities, international restaurants, and shopping centers. Safe and comfortable but expensive, with downtown being relatively far away."
+    },
+    {
+      "name": "Osu",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Centers on Oxford Street with vibrant nightlife and diverse restaurant scene. Safe on main streets during day and night, but side roads can become sketchy after dark."
+    },
+    {
+      "name": "Labone",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale area between Cantonments and Osu known for fine dining. Very safe with good restaurant scene, less nightlife than Osu but still well-regarded for evening activities."
+    },
+    {
+      "name": "Jamestown",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic area with colonial architecture and local fishing communities. Offers cultural insights but requires more caution, especially at night, due to higher petty crime rates."
+    },
+    {
+      "name": "Central Business District",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Contains banks, government buildings, and Makola Market. Generally safe during business hours but can be crowded and overwhelming. Avoid after dark when security presence decreases significantly."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Airport Staff Impersonation",
+      "risk": "high",
+      "description": "Fake airport staff at Kotoka International Airport approach travelers claiming to help with luggage or transportation, then demand payment or steal items.",
+      "howToAvoid": "Only deal with staff wearing current ID cards with photos. Legitimate staff always have proper identification. Verify driver identity if meeting arranged transport."
+    },
+    {
+      "name": "Romance and Dating Scams",
+      "risk": "high",
+      "description": "Scammers use dating websites and social media to build relationships with foreigners, eventually asking for money for emergencies or travel expenses.",
+      "howToAvoid": "Never send money to someone you've only met online. Be suspicious of requests for financial help. Verify identity through video calls and multiple platforms before meeting."
+    },
+    {
+      "name": "Gold Investment Fraud",
+      "risk": "medium",
+      "description": "Business scammers approach investors with fake gold deals and investment opportunities, using professional-looking documents and personas to defraud victims.",
+      "howToAvoid": "Verify all business contacts through official channels. Check company registrations and licenses. Be wary of deals that seem too good to be true or require upfront payments."
+    },
+    {
+      "name": "Fake Police Demands",
+      "risk": "medium",
+      "description": "Individuals posing as police officers demand money from travelers for alleged violations or document fees, particularly targeting tourists who appear unfamiliar with local laws.",
+      "howToAvoid": "Ask to see official police identification. Real police have proper ID cards and vehicles. If in doubt, ask to go to the nearest police station to resolve any issues."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Accra is generally safe with proper precautions, though the US State Department notes increased security risks for women travelers. Many solo female travelers report positive experiences, with locals being particularly helpful and supportive. The main concerns are petty crime, harassment, and safety at night.",
+    "tips": [
+      "Avoid walking alone at night and use rideshare apps or registered taxis instead",
+      "Dress modestly, covering shoulders and avoiding revealing clothing, especially in religious areas",
+      "Stay in well-reviewed accommodations in safer neighborhoods like Cantonments, East Legon, or central Osu",
+      "Keep belongings secure in crowded places like markets and use bags that close properly",
+      "Share your location with trusted contacts when using transport or going out",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Accra requires increased caution, with only 52% of residents and visitors feeling fully secure during nighttime hours. While major nightlife areas like Osu are generally safe with good security presence, violent crime risks increase after dark, and certain areas become significantly less safe.",
+    "tips": [
+      "Stick to well-known nightlife areas like Osu, East Legon, and Labone with good lighting and security",
+      "Use rideshare apps (Uber, Bolt) or pre-arranged taxis rather than walking at night",
+      "Travel in groups when possible and avoid isolated areas or poorly lit streets",
+      "Keep valuables minimal and secure, avoiding displaying expensive items or large amounts of cash",
+      "Plan your route home before going out and ensure your phone is charged with a power bank",
+      "Be aware that clubs and bars may not check IDs, but carry identification at all times"
+    ]
+  },
+  "transport": {
+    "metro": "Accra has limited rail transport, though the Accra-Tema railway line has been rehabilitated for commuter service. The city primarily relies on road-based transportation including buses, taxis, and shared minibuses called tro-tros.",
+    "rideshare": "Uber, Bolt, and Yango are widely available and considered the safest transport option. Apps provide GPS tracking, transparent pricing, and driver verification. Drivers often prefer cash payments even if cards are set up in the app.",
+    "taxis": "Traditional taxis are numerous but unmetered, requiring fare negotiation. Prices are often higher for tourists. While generally safe, rideshare apps are preferred for security and convenience.",
+    "tips": "Use rideshare apps for best safety and convenience. Avoid flagging down street taxis at night. Tro-tros are cheap local transport but can be confusing for first-time visitors and should be avoided after dark."
+  },
+  "customs": [
+    "Always greet people from right to left using your right hand - the left hand is considered unclean for greetings, eating, and giving/receiving items",
+    "Show respect to elders by removing hats when greeting them and using polite language with 'please' and 'thank you' frequently",
+    "Dress conservatively especially in religious establishments, covering shoulders and avoiding gaps between tops and bottoms",
+    "Accept invitations to share food as a cultural courtesy - saying 'Am I invited?' when seeing someone eat is common and shows politeness",
+    "Be patient with 'Ghana time' - meetings and appointments often run late as punctuality is more relaxed than Western standards"
+  ],
+  "health": {
+    "overview": "Ghana's healthcare system faces significant challenges with inadequate infrastructure, workforce shortages, and limited resources. Only 5% of primary health facilities have complete basic examination tools, and medical care quality varies significantly between urban and rural areas.",
+    "water": "Tap water is not recommended for drinking. Use bottled or filtered water. Many hotels provide safe drinking water, but verify the source.",
+    "vaccinations": "Yellow fever vaccination is required for entry. Recommended vaccines include hepatitis A/B, typhoid, meningitis, and routine immunizations. Malaria prophylaxis is strongly advised as malaria remains prevalent.",
+    "altitude": "Accra is at sea level with a tropical climate. Temperatures range 75-88°F year-round with high humidity. Rainy season is April-October with potential flooding risks."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "191",
+    "ambulance": "112",
+    "fire": "192",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Ghana, 24 Fourth Circular Road, Cantonments, Accra. Tel: +233 (0) 30 274 1000. Emergency contact for US citizens: +233-30-274-1000"
+  },
+  "faq": [
+    {
+      "q": "Is Accra safe for tourists?",
+      "a": "Yes, Accra is generally safe for tourists and Ghana ranks as the second safest country in Africa. However, visitors should exercise normal precautions against petty crime and be aware of common tourist scams, especially at the airport and in crowded areas."
+    },
+    {
+      "q": "Is Accra safe at night?",
+      "a": "Nighttime safety in Accra requires increased caution. Stick to well-lit areas like Osu, East Legon, and Labone, use rideshare apps instead of walking, and avoid isolated areas. Many nightlife venues have good security, but vigilance is still necessary."
+    },
+    {
+      "q": "Is Accra safe for solo female travelers?",
+      "a": "Solo female travel in Accra is possible with proper precautions. Dress modestly, avoid walking alone at night, use reputable transport, stay in safe neighborhoods, and trust your instincts. Many solo female travelers have positive experiences with supportive locals."
+    },
+    {
+      "q": "What areas should I avoid in Accra?",
+      "a": "Avoid poorly lit areas at night, certain parts of Jamestown after dark, and overcrowded market areas like Makola where pickpocketing is common. The safest areas are Cantonments, East Legon, and central Osu."
+    },
+    {
+      "q": "Is it safe to use public transport in Accra?",
+      "a": "Rideshare apps like Uber and Bolt are the safest transport option. Traditional taxis are generally safe but require fare negotiation. Tro-tros (shared minibuses) are used by locals but can be confusing for tourists and are best avoided at night."
+    }
+  ],
+  "relatedCities": [
+    "lagos",
+    "dakar",
+    "casablanca"
+  ],
+  "_city_id": "accra-ghana"
+}

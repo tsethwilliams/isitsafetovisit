@@ -1,0 +1,166 @@
+{
+  "slug": "dar-es-salaam",
+  "name": "Dar es Salaam",
+  "country": "Tanzania",
+  "countryCode": "TZ",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 5.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 5.5,
+    "scamRisk": 4.0,
+    "womensSafety": 5.0,
+    "nightSafety": 4.5,
+    "transport": 5.8,
+    "naturalHazards": 8.8
+  },
+  "summary": "Dar es Salaam is Tanzania's bustling commercial hub where tourism meets urban challenges. While many visitors experience no issues, travelers should remain vigilant due to elevated rates of petty crime, scams targeting tourists, and safety concerns after dark, particularly in certain neighborhoods.",
+  "quickVerdict": "Tanzania's economic capital can be explored safely with proper precautions, but recent political unrest and the US Level 3 travel advisory signal increased risks. Petty crime like pickpocketing and bag snatching is common in crowded areas, while violent crime including muggings occurs, especially at night. Tourist scams are frequent, from fake tour guides to taxi overcharging. However, with careful planning, staying in safer neighborhoods like Oyster Bay and Masaki, using reputable transport, and avoiding risky areas after dark, many visitors enjoy the city's vibrant culture, markets, and coastal attractions without major incidents.",
+  "neighborhoods": [
+    {
+      "name": "Oyster Bay & Masaki",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale diplomatic and expat areas with better security, quality hotels, restaurants, and nightlife. Popular waterfront district with relatively higher police presence and well-lit streets."
+    },
+    {
+      "name": "City Centre",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main commercial district with markets, banks, and government buildings. Generally safe during daytime but requires vigilance for pickpockets and scams. Avoid after dark."
+    },
+    {
+      "name": "Kivukoni & Gerezani",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Central areas near the ferry terminal and transport hubs. Heavy foot traffic makes it prone to petty crime. Exercise caution with belongings and be aware of scammers."
+    },
+    {
+      "name": "Kariakoo",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Major market district that's bustling but crime-prone. High risk of pickpocketing, bag snatching, and scams. Avoid carrying valuables and don't venture here alone after dark."
+    },
+    {
+      "name": "Temeke",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Industrial area with high crime rates including violent incidents. Not recommended for tourists, especially solo travelers. Avoid both day and night unless absolutely necessary."
+    },
+    {
+      "name": "Tandale & Mwananyamala",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Low-income residential areas with significant safety risks including violent crime and drug activity. Strongly advised to avoid completely, particularly for foreign visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guide Scam",
+      "risk": "high",
+      "description": "Unlicensed individuals approach tourists offering cheap safari tours or city guides, then either provide subpar services, take you to commission-earning shops, or demand higher payments mid-tour.",
+      "howToAvoid": "Only book with licensed operators verified through Tanzania Tourism Board, check official credentials, and avoid unsolicited street offers. Get recommendations from hotels."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers tamper with meters, claim they're broken, or quote inflated fares especially from the airport. Some may take longer routes or refuse to use meters entirely.",
+      "howToAvoid": "Use ride-hailing apps like Uber or Bolt, negotiate flat fares beforehand, ask hotel staff for typical prices, and choose official taxis with yellow stripes and license numbers."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "medium",
+      "description": "Street money changers offer better rates than banks but use sleight of hand to shortchange amounts, swap bills, or provide counterfeit notes.",
+      "howToAvoid": "Only exchange money at licensed banks, hotels, or official forex bureaux. Use ATMs from major networks and count money twice in good lighting before leaving."
+    },
+    {
+      "name": "Friendly Helper Extortion",
+      "risk": "medium",
+      "description": "Locals approach offering assistance with directions or carrying bags, then demand payment for unsolicited services. Some may lead tourists to overpriced shops for commissions.",
+      "howToAvoid": "Politely decline unsolicited help, ask for assistance at official tourist centers or reputable establishments, and never hand over documents or money to strangers claiming to be officials."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Dar es Salaam requires extra vigilance but is manageable with proper precautions. Women may face street harassment, unwanted attention, and higher risks of petty crime. The recent political climate adds uncertainty, making it advisable to stay informed about current conditions and avoid demonstrations.",
+    "tips": [
+      "Dress modestly to respect local customs and reduce unwanted attention",
+      "Stay in reputable accommodations in safer areas like Oyster Bay or Masaki",
+      "Avoid walking alone after dark - use trusted taxis or ride-hailing apps",
+      "Keep someone informed of your whereabouts and travel plans",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Dar es Salaam becomes significantly more dangerous after dark with increased risks of violent crime, muggings, and robbery. Many areas that are safe during the day should be avoided at night. The nightlife scene exists but requires careful venue selection and safe transportation.",
+    "tips": [
+      "Stick to well-lit, populated areas like upscale venues in Oyster Bay and Masaki",
+      "Always use trusted taxis or ride-hailing apps - never walk long distances at night",
+      "Travel in groups when possible and inform others of your plans",
+      "Avoid displaying expensive items, large amounts of cash, or using phones while walking",
+      "Be cautious with alcohol consumption to maintain awareness of surroundings"
+    ]
+  },
+  "transport": {
+    "metro": "The DART BRT system operates along limited routes from Kimara to Kivukoni covering 21km. It's relatively safe and modern but pickpocketing can occur during crowded periods. Purchase tickets at stations in advance.",
+    "rideshare": "Uber operates in limited areas while Bolt is more widely available and reliable. Both offer safer alternatives to street taxis with upfront pricing and GPS tracking. Coverage is best in central areas and around the airport.",
+    "taxis": "Official white taxis with yellow stripes and three-digit numbers are safer than unmarked vehicles. Always negotiate fares beforehand as meters are often 'broken.' Avoid hailing random taxis, especially at night.",
+    "tips": "Public daladalas (minibuses) are very cheap but crowded with high pickpocket risk. Use reputable transport arranged through hotels when possible. Avoid boda bodas (motorcycle taxis) due to safety concerns."
+  },
+  "customs": [
+    "Dress modestly, especially when visiting religious sites or local neighborhoods",
+    "Greet people with 'Jambo' or 'Hujambo' and show respect for elders",
+    "Remove shoes when entering homes and some restaurants",
+    "Use right hand for eating and greeting as left hand is considered unclean",
+    "Ask permission before photographing people, especially in traditional dress",
+    "Respect Islamic customs during Ramadan and prayer times"
+  ],
+  "health": {
+    "overview": "Dar es Salaam poses moderate health risks typical of tropical East African cities. Malaria is endemic year-round, and waterborne diseases are common. Healthcare quality varies significantly with private facilities offering better services than public ones.",
+    "water": "Tap water is not safe to drink. Use bottled water, boil water for at least one minute, or use water purification tablets. Avoid ice cubes and raw foods washed in local water.",
+    "vaccinations": "Recommended vaccines include Hepatitis A and B, typhoid, yellow fever (if arriving from endemic areas), polio booster, and routine vaccinations. Consult a travel medicine specialist 6-8 weeks before departure.",
+    "altitude": "Sea-level location with hot, humid tropical climate. Two rainy seasons (March-June and October-December) bring flooding risks. High malaria transmission requires prophylaxis and mosquito bite prevention."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "999",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Dar es Salaam: +255-22-229-4000, located at 686 Old Bagamoyo Road, Msasani. Emergency after-hours: +255-22-229-4000 dial 1. Email: DarAmericans@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Dar es Salaam safe for tourists?",
+      "a": "Dar es Salaam has moderate safety risks that require vigilance. While many tourists visit without major incidents, petty crime is common, and the recent US Level 3 travel advisory reflects increased concerns about unrest, crime, and terrorism risks. Proper precautions and staying in safer areas significantly reduce risks."
+    },
+    {
+      "q": "Is Dar es Salaam safe at night?",
+      "a": "Nighttime safety is limited in Dar es Salaam with significantly higher crime risks after dark. Stick to well-lit, populated areas in upscale districts like Oyster Bay, always use trusted transportation, and avoid walking alone. Many areas safe during the day become dangerous at night."
+    },
+    {
+      "q": "Is Dar es Salaam safe for solo female travelers?",
+      "a": "Solo female travel requires extra precautions but is possible with careful planning. Women should dress modestly, stay in reputable accommodations in safer neighborhoods, avoid walking alone especially after dark, and be prepared for potential harassment. Trust instincts and have safety plans in place."
+    },
+    {
+      "q": "What areas should I avoid in Dar es Salaam?",
+      "a": "Avoid Temeke, Tandale, Mwananyamala, Kigogo, and Mburahari areas entirely. Exercise caution in Kariakoo market district. Even safer areas like City Centre should be avoided after dark. Stick to Oyster Bay, Masaki, and upscale areas of the city center during appropriate hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Dar es Salaam?",
+      "a": "The DART BRT system is relatively safe but watch for pickpockets. Local daladalas are very cheap but crowded with high theft risks. Taxis are safer when using official white cars with yellow stripes, or better yet, use ride-hailing apps like Bolt. Always negotiate fares beforehand and avoid unmarked vehicles."
+    }
+  ],
+  "relatedCities": [
+    "nairobi",
+    "kampala",
+    "kigali",
+    "addis-ababa",
+    "lagos"
+  ],
+  "_city_id": "dar-es-salaam-tanzania"
+}

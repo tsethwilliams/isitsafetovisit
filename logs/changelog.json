@@ -616,5 +616,53 @@
     "action": "alert",
     "city_id": "hanoi_vietnam",
     "details": "{\"city_id\": \"hanoi_vietnam\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Storm and wind incidents reported in Quang Ngai province. Regional weather warnings for wetter conditions across Southeast Asia.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T06:06:15.636017+00:00",
+    "action": "add",
+    "city_id": "muscat-oman",
+    "details": "New city added with score 7.4"
+  },
+  {
+    "timestamp": "2026-03-10T06:08:08.918880+00:00",
+    "action": "add",
+    "city_id": "cape-town-south-africa",
+    "details": "New city added with score 6.1"
+  },
+  {
+    "timestamp": "2026-03-10T06:09:38.147698+00:00",
+    "action": "add",
+    "city_id": "johannesburg-south-africa",
+    "details": "New city added with score 5.4"
+  },
+  {
+    "timestamp": "2026-03-10T06:11:26.453780+00:00",
+    "action": "add",
+    "city_id": "marrakech-morocco",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-10T06:12:51.089785+00:00",
+    "action": "add",
+    "city_id": "cairo-egypt",
+    "details": "New city added with score 6.6"
+  },
+  {
+    "timestamp": "2026-03-10T06:14:22.184400+00:00",
+    "action": "add",
+    "city_id": "nairobi-kenya",
+    "details": "New city added with score 5.8"
+  },
+  {
+    "timestamp": "2026-03-10T06:15:47.026318+00:00",
+    "action": "add",
+    "city_id": "dar-es-salaam-tanzania",
+    "details": "New city added with score 5.3"
+  },
+  {
+    "timestamp": "2026-03-10T06:17:41.892573+00:00",
+    "action": "add",
+    "city_id": "accra-ghana",
+    "details": "New city added with score 6.7"
   }
 ]

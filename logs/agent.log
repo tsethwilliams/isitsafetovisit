@@ -438,3 +438,39 @@
 2026-03-10 05:01:04,907 [WARNING]   [medium] kuala_lumpur_malaysia: Recent 7.1 magnitude earthquake February 23 in Sabah region. Multiple significant earthquakes recorded across Southeast Asia. Ongoing monitoring of aftershocks.
 2026-03-10 05:01:04,908 [WARNING]   [medium] bali_indonesia: Multiple active volcanoes at elevated alert levels. Recent flooding and wind disasters across Java and Bali. 18 fatalities, 84K people affected in recent weather events.
 2026-03-10 05:01:04,909 [WARNING]   [low] hanoi_vietnam: Storm and wind incidents reported in Quang Ngai province. Regional weather warnings for wetter conditions across Southeast Asia.
+2026-03-10 06:04:47,331 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-10 06:04:47,372 [INFO] Queue has 303 cities, adding 8
+2026-03-10 06:04:47,372 [INFO] Generating new city profile: Muscat, Oman
+2026-03-10 06:06:15,488 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:06:15,635 [INFO] Saved city data: muscat-oman
+2026-03-10 06:06:15,636 [INFO] Generating new city profile: Cape Town, South Africa
+2026-03-10 06:08:08,783 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:08:08,918 [INFO] Saved city data: cape-town-south-africa
+2026-03-10 06:08:08,919 [INFO] Generating new city profile: Johannesburg, South Africa
+2026-03-10 06:09:38,065 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:09:38,147 [INFO] Saved city data: johannesburg-south-africa
+2026-03-10 06:09:38,148 [INFO] Generating new city profile: Marrakech, Morocco
+2026-03-10 06:11:26,390 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:11:26,453 [INFO] Saved city data: marrakech-morocco
+2026-03-10 06:11:26,454 [INFO] Generating new city profile: Cairo, Egypt
+2026-03-10 06:12:51,026 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:12:51,089 [INFO] Saved city data: cairo-egypt
+2026-03-10 06:12:51,090 [INFO] Generating new city profile: Nairobi, Kenya
+2026-03-10 06:14:22,088 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:14:22,184 [INFO] Saved city data: nairobi-kenya
+2026-03-10 06:14:22,185 [INFO] Generating new city profile: Dar es Salaam, Tanzania
+2026-03-10 06:15:46,968 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:15:47,025 [INFO] Saved city data: dar-es-salaam-tanzania
+2026-03-10 06:15:47,027 [INFO] Generating new city profile: Accra, Ghana
+2026-03-10 06:17:41,803 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 06:17:41,892 [INFO] Saved city data: accra-ghana
+2026-03-10 06:17:41,898 [INFO] Merged into site data: Muscat
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: cape-town
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: johannesburg
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: marrakech
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: cairo
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: nairobi
+2026-03-10 06:17:41,898 [INFO] City already exists in site data, skipping: dar-es-salaam
+2026-03-10 06:17:41,898 [INFO] Merged into site data: Accra
+2026-03-10 06:17:41,914 [INFO] Merged 2 new cities into src/lib/city-data.json
+2026-03-10 06:17:41,914 [INFO] Updated sitemap with 8 new URLs

@@ -1,0 +1,164 @@
+{
+  "slug": "cairo",
+  "name": "Cairo",
+  "country": "Egypt",
+  "countryCode": "EG",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-10",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.0,
+    "womensSafety": 5.5,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Cairo is moderately safe for tourists with low violent crime rates but requires awareness of persistent vendors and scams, particularly around major attractions like the Pyramids. The US State Department maintains a Level 2 travel advisory, and security presence is high at tourist sites.",
+  "quickVerdict": "Cairo offers incredible historical experiences but demands street smarts and cultural sensitivity. While violent crime against tourists is rare and security has significantly improved since 2011, visitors should be prepared for persistent vendors, common scams, and the need for modest dress codes. The city is generally safe for solo travelers who take proper precautions, though women may face harassment. Using official guides, ride-sharing apps, and staying in tourist areas greatly enhances safety.",
+  "neighborhoods": [
+    {
+      "name": "Zamalek",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale island neighborhood with cosmopolitan atmosphere, high-end restaurants, and strong security. Popular with expats and considered very safe for tourists day and night."
+    },
+    {
+      "name": "Downtown Cairo",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic center with major hotels, museums, and attractions. Heavy police presence and tourist traffic make it relatively safe, though crowded and chaotic during peak hours."
+    },
+    {
+      "name": "Islamic Cairo",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic district with medieval mosques and monuments. Generally safe during daytime but requires cultural sensitivity and modest dress. Can feel overwhelming for first-time visitors."
+    },
+    {
+      "name": "Khan el-Khalili",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Famous bazaar area with persistent vendors and tourist-focused scams. Safe but requires strong bargaining skills and awareness of overcharging tactics."
+    },
+    {
+      "name": "Giza Pyramid Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Major tourist attraction with heavy security but also numerous scam artists, fake guides, and aggressive camel and horse ride touts. Best visited with official guides."
+    },
+    {
+      "name": "Coptic Cairo",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic Christian quarter with ancient churches and museums. Well-maintained tourist area with good security and fewer hassles than other historic districts."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pyramid Camel Ride Scam",
+      "risk": "high",
+      "description": "Camel handlers offer cheap rides but demand high payments once you're on the camel, sometimes refusing to let you down until you pay inflated prices.",
+      "howToAvoid": "Agree on total price including return trip before mounting. Use only official tour operators and avoid unsolicited offers from touts."
+    },
+    {
+      "name": "Fake Guide Scam",
+      "risk": "high",
+      "description": "Individuals pose as official tour guides near major attractions, offering services then demanding high fees or leading tourists to commission-earning shops.",
+      "howToAvoid": "Only use licensed guides with official credentials. Book tours through reputable agencies or your hotel. Be suspicious of anyone approaching you unsolicited."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Taxi drivers quote inflated prices to foreigners, claim broken meters, or take longer routes to increase fares, especially from the airport.",
+      "howToAvoid": "Use Uber, Careem, or official white taxis with working meters. Agree on price beforehand if meter unavailable. Keep small bills to avoid no-change claims."
+    },
+    {
+      "name": "Free Gift Pressure",
+      "risk": "medium",
+      "description": "Vendors offer 'free' items like papyrus or perfume, then aggressively demand payment when tourists try to leave or refuse to return the item.",
+      "howToAvoid": "Never accept 'free' items from strangers. Keep hands in pockets around vendors. Say 'la shukran' (no thank you) firmly and keep walking."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cairo is manageable for solo female travelers but requires extra precautions due to cultural differences and potential harassment. Street harassment including catcalling and unwanted attention is common, though violent incidents are rare. Dressing modestly and showing confidence significantly reduces unwanted attention. Many solo female travelers visit successfully by staying in tourist areas and using proper transportation.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially in non-tourist areas and religious sites",
+      "Use women-only metro cars (marked with pink stickers) during peak hours for added comfort",
+      "Book accommodation in upscale areas like Zamalek, Maadi, or near major hotels for better security",
+      "Use Uber/Careem instead of street taxis, especially at night, and sit in the back seat",
+      "Carry yourself with confidence, avoid eye contact with persistent men, and say 'la shukran' firmly"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Downtown Cairo and major tourist areas remain relatively active and safe at night due to high foot traffic and police presence. However, empty streets and poorly lit areas should be avoided. The city's 24-hour nature means people are often out late, providing natural security. Tourist districts like Zamalek are particularly safe for evening activities.",
+    "tips": [
+      "Stick to well-lit tourist areas with good foot traffic like downtown and Zamalek",
+      "Use Uber or Careem instead of walking alone, especially for solo female travelers",
+      "Avoid isolated areas and empty streets after dark, particularly around less touristy neighborhoods",
+      "Stay aware of surroundings and keep valuables secure, as petty crime can increase at night"
+    ]
+  },
+  "transport": {
+    "metro": "The Cairo Metro is clean, efficient, and very affordable (8-20 EGP). Three lines serve major tourist areas with English signage. Women-only cars are available for comfort. Avoid rush hours (7-9 AM, 5-7 PM) for better conditions.",
+    "rideshare": "Uber and Careem are highly recommended and widely available throughout Cairo. They're safer than street taxis, offer transparent pricing, and eliminate language barriers. Both apps work well with GPS tracking and support.",
+    "taxis": "White metered taxis are official but drivers often refuse to use meters for foreigners. Agree on price beforehand or insist on the meter. Keep small bills as drivers frequently claim they have no change.",
+    "tips": "Use ride-sharing apps as first choice for safety and convenience. The metro is excellent for avoiding traffic during day hours. Always confirm taxi prices before starting your journey to avoid disputes."
+  },
+  "customs": [
+    "Dress modestly, especially when visiting mosques or religious sites - cover shoulders and knees",
+    "Tip service workers (baksheesh) - 10-15% in restaurants, small amounts for hotel staff and guides",
+    "Use right hand for eating, greeting, and giving/receiving items - left hand is considered unclean",
+    "Remove shoes when entering mosques and some homes - follow local cues",
+    "Avoid public displays of affection - holding hands may draw disapproving looks outside tourist areas"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies significantly between public and private facilities. Private hospitals in tourist areas offer good care with English-speaking staff, but public healthcare is underfunded. Air pollution in Cairo can be problematic for those with respiratory conditions.",
+    "water": "Drink only bottled water. Tap water is not safe for consumption due to poor sanitation. Avoid ice in drinks unless at upscale hotels or restaurants.",
+    "vaccinations": "Routine vaccinations recommended including hepatitis A, typhoid, and COVID-19. Egypt has high hepatitis C rates. Consult a travel doctor before arrival.",
+    "altitude": "Cairo is at low elevation but extreme heat (especially May-September) can cause dehydration and heat exhaustion. High air pollution levels may affect those with breathing difficulties."
+  },
+  "emergency": {
+    "general": "122",
+    "police": "122",
+    "ambulance": "123",
+    "fire": "180",
+    "touristPolice": "126",
+    "usEmbassy": "U.S. Embassy Cairo: +20-2-2797-3300, located at 5 Tawfik Diab St, Garden City. Emergency services available 24/7 for American citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Cairo safe for tourists?",
+      "a": "Yes, Cairo is generally safe for tourists, especially in main tourist areas. The US maintains a Level 2 advisory (exercise increased caution). Violent crime against tourists is rare, but be prepared for persistent vendors and common scams around major attractions."
+    },
+    {
+      "q": "Is Cairo safe at night?",
+      "a": "Tourist areas like downtown and Zamalek are relatively safe at night due to good lighting and foot traffic. However, avoid empty streets and poorly lit areas. Use Uber/Careem for transportation rather than walking alone, especially for solo travelers."
+    },
+    {
+      "q": "Is Cairo safe for solo female travelers?",
+      "a": "Yes, with proper precautions. Solo female travelers visit Cairo successfully but should dress modestly, use women-only metro cars, stay in upscale areas, and be prepared for potential street harassment. Confidence and cultural awareness are key."
+    },
+    {
+      "q": "What areas should I avoid in Cairo?",
+      "a": "Avoid remote areas of Giza at night, isolated streets after dark, and political demonstrations. The pyramid area has many touts and scam artists but isn't dangerous. Stick to tourist zones and well-traveled areas for the safest experience."
+    },
+    {
+      "q": "Is it safe to use public transport in Cairo?",
+      "a": "Yes, the Cairo Metro is safe, clean, and efficient with women-only cars available. Uber and Careem are highly recommended over street taxis. Official white taxis are generally safe but agree on prices beforehand to avoid overcharging."
+    }
+  ],
+  "relatedCities": [
+    "marrakech",
+    "istanbul",
+    "dubai",
+    "jerusalem",
+    "amman"
+  ],
+  "_city_id": "cairo-egypt"
+}
