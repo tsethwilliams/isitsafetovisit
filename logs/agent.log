@@ -422,3 +422,19 @@
 2026-03-09 23:12:56,059 [INFO] Merged into site data: Tel Aviv
 2026-03-09 23:12:56,074 [INFO] Merged 4 new cities into src/lib/city-data.json
 2026-03-09 23:12:56,074 [INFO] Updated sitemap with 8 new URLs
+2026-03-10 05:00:17,506 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-10 05:00:17,553 [INFO] Checking alerts for 64 cities
+2026-03-10 05:01:04,831 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 05:01:04,898 [WARNING] ALERTS DETECTED: 12
+2026-03-10 05:01:04,898 [WARNING]   [critical] tel_aviv_israel: Major ongoing conflict with Iran. Israeli airspace closed February 28, limited reopening March 8. U.S. consular services suspended through March 13. Missile strikes continue.
+2026-03-10 05:01:04,899 [WARNING]   [high] istanbul_turkey: U.S. ordered non-emergency staff to depart Consulate Adana March 9. Heightened terrorism risk and armed conflict in southeast region due to Iran hostilities.
+2026-03-10 05:01:04,900 [WARNING]   [critical] abu_dhabi_uae: Iranian missile and drone strikes hit UAE airports and infrastructure. U.S. Embassy closed, shelter-in-place active. Limited flights only with confirmed tickets.
+2026-03-10 05:01:04,901 [WARNING]   [critical] doha_qatar: Airspace closed, Hamad International Airport suspended operations. NEW WARNING: Iranian proxies may specifically target Americans. Consular services suspended.
+2026-03-10 05:01:04,902 [WARNING]   [high] cancun_mexico: Major cartel violence following El Mencho killing February 22. U.S. State Department urges Americans to shelter in place. Flight disruptions at tourist destinations.
+2026-03-10 05:01:04,903 [WARNING]   [high] playa_del_carmen_mexico: Ongoing cartel violence and roadblocks following El Mencho killing. Multiple states affected with narco-blockades and arson attacks. Travel disruptions continue.
+2026-03-10 05:01:04,904 [WARNING]   [medium] mexico_city_mexico: Widespread cartel violence across Mexico following drug lord killing. Enhanced security measures in place. Some flight cancellations reported.
+2026-03-10 05:01:04,905 [WARNING]   [high] brussels_belgium: Major nationwide strike planned March 12. Brussels Airport expects to cancel ALL departing flights due to security/baggage handler walkouts.
+2026-03-10 05:01:04,906 [WARNING]   [medium] rome_italy: Pro-U.S./Israel and anti-U.S./Palestine demonstrations planned March 7 in Milan with 1000-1500 expected participants. Heightened tensions around U.S. facilities.
+2026-03-10 05:01:04,907 [WARNING]   [medium] kuala_lumpur_malaysia: Recent 7.1 magnitude earthquake February 23 in Sabah region. Multiple significant earthquakes recorded across Southeast Asia. Ongoing monitoring of aftershocks.
+2026-03-10 05:01:04,908 [WARNING]   [medium] bali_indonesia: Multiple active volcanoes at elevated alert levels. Recent flooding and wind disasters across Java and Bali. 18 fatalities, 84K people affected in recent weather events.
+2026-03-10 05:01:04,909 [WARNING]   [low] hanoi_vietnam: Storm and wind incidents reported in Quang Ngai province. Regional weather warnings for wetter conditions across Southeast Asia.

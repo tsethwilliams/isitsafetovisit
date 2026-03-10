@@ -544,5 +544,77 @@
     "action": "add",
     "city_id": "tel-aviv-israel",
     "details": "New city added with score 5.8"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.899027+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"travel_advisory\", \"severity\": \"critical\", \"summary\": \"Major ongoing conflict with Iran. Israeli airspace closed February 28, limited reopening March 8. U.S. consular services suspended through March 13. Missile strikes continue.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.900025+00:00",
+    "action": "alert",
+    "city_id": "istanbul_turkey",
+    "details": "{\"city_id\": \"istanbul_turkey\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"U.S. ordered non-emergency staff to depart Consulate Adana March 9. Heightened terrorism risk and armed conflict in southeast region due to Iran hostilities.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.900912+00:00",
+    "action": "alert",
+    "city_id": "abu_dhabi_uae",
+    "details": "{\"city_id\": \"abu_dhabi_uae\", \"alert_type\": \"conflict\", \"severity\": \"critical\", \"summary\": \"Iranian missile and drone strikes hit UAE airports and infrastructure. U.S. Embassy closed, shelter-in-place active. Limited flights only with confirmed tickets.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.901844+00:00",
+    "action": "alert",
+    "city_id": "doha_qatar",
+    "details": "{\"city_id\": \"doha_qatar\", \"alert_type\": \"conflict\", \"severity\": \"critical\", \"summary\": \"Airspace closed, Hamad International Airport suspended operations. NEW WARNING: Iranian proxies may specifically target Americans. Consular services suspended.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.902918+00:00",
+    "action": "alert",
+    "city_id": "cancun_mexico",
+    "details": "{\"city_id\": \"cancun_mexico\", \"alert_type\": \"crime_violence\", \"severity\": \"high\", \"summary\": \"Major cartel violence following El Mencho killing February 22. U.S. State Department urges Americans to shelter in place. Flight disruptions at tourist destinations.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.903875+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen_mexico",
+    "details": "{\"city_id\": \"playa_del_carmen_mexico\", \"alert_type\": \"crime_violence\", \"severity\": \"high\", \"summary\": \"Ongoing cartel violence and roadblocks following El Mencho killing. Multiple states affected with narco-blockades and arson attacks. Travel disruptions continue.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.904860+00:00",
+    "action": "alert",
+    "city_id": "mexico_city_mexico",
+    "details": "{\"city_id\": \"mexico_city_mexico\", \"alert_type\": \"crime_violence\", \"severity\": \"medium\", \"summary\": \"Widespread cartel violence across Mexico following drug lord killing. Enhanced security measures in place. Some flight cancellations reported.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.905856+00:00",
+    "action": "alert",
+    "city_id": "brussels_belgium",
+    "details": "{\"city_id\": \"brussels_belgium\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Major nationwide strike planned March 12. Brussels Airport expects to cancel ALL departing flights due to security/baggage handler walkouts.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.906814+00:00",
+    "action": "alert",
+    "city_id": "rome_italy",
+    "details": "{\"city_id\": \"rome_italy\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Pro-U.S./Israel and anti-U.S./Palestine demonstrations planned March 7 in Milan with 1000-1500 expected participants. Heightened tensions around U.S. facilities.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.907930+00:00",
+    "action": "alert",
+    "city_id": "kuala_lumpur_malaysia",
+    "details": "{\"city_id\": \"kuala_lumpur_malaysia\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Recent 7.1 magnitude earthquake February 23 in Sabah region. Multiple significant earthquakes recorded across Southeast Asia. Ongoing monitoring of aftershocks.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.909006+00:00",
+    "action": "alert",
+    "city_id": "bali_indonesia",
+    "details": "{\"city_id\": \"bali_indonesia\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Multiple active volcanoes at elevated alert levels. Recent flooding and wind disasters across Java and Bali. 18 fatalities, 84K people affected in recent weather events.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-10T05:01:04.910027+00:00",
+    "action": "alert",
+    "city_id": "hanoi_vietnam",
+    "details": "{\"city_id\": \"hanoi_vietnam\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Storm and wind incidents reported in Quang Ngai province. Regional weather warnings for wetter conditions across Southeast Asia.\", \"action\": \"add_incident\"}"
   }
 ]
