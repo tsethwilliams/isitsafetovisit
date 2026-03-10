@@ -514,3 +514,16 @@
 2026-03-10 12:01:30,986 [INFO] Merged into site data: Fiji
 2026-03-10 12:01:31,003 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-10 12:01:31,004 [INFO] Updated sitemap with 8 new URLs
+2026-03-10 14:35:06,767 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-10 14:35:06,817 [INFO] Checking alerts for 80 cities
+2026-03-10 14:35:46,365 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-10 14:35:46,544 [WARNING] ALERTS DETECTED: 9
+2026-03-10 14:35:46,544 [WARNING]   [critical] tel_aviv_israel: US Embassy offering bus service to Egyptian border for American citizens. Commercial flights expected to resume March 8 but consular services suspended through March 13. Ongoing military conflict with Iran affecting safety.
+2026-03-10 14:35:46,546 [WARNING]   [high] abu_dhabi_uae: UAE elevated to Level 3 Reconsider Travel. Shelter-in-place status due to Iranian retaliations. Dubai and Abu Dhabi airports reopened with limited operations after closures. Over 20,000 travelers stranded.
+2026-03-10 14:35:46,547 [WARNING]   [high] doha_qatar: Hamad International Airport and Qatari airspace remain closed. Qatar Airways flights suspended through Friday. Americans advised to shelter in place.
+2026-03-10 14:35:46,548 [WARNING]   [medium] bali_indonesia: INVEST 90S weather system causing heavy rainfall, strong winds, flooding and landslides across Java and Bali regions through March 2-8. 18 fatalities, 10 missing, 29 injured reported.
+2026-03-10 14:35:46,549 [WARNING]   [low] hanoi_vietnam: Storms and winds reported in Quang Ngai region as part of broader Southeast Asia weather pattern affecting Vietnam.
+2026-03-10 14:35:46,550 [WARNING]   [low] kuala_lumpur_malaysia: Medium to high 7-day average rainfall affecting Malaysia as part of regional weather pattern through March 9.
+2026-03-10 14:35:46,551 [WARNING]   [low] amsterdam_netherlands: Anti-Iran regime protests March 7 along city canals with Israeli, American and pre-revolution Iran flags. Peaceful demonstration calling for Iranian embassy closure.
+2026-03-10 14:35:46,553 [WARNING]   [low] london_united_kingdom: 5,000-6,000 person 'Hands Off Iran' anti-war march on March 7. Some counter-demonstrations in support of Iranian government. Protests remained peaceful.
+2026-03-10 14:35:46,554 [WARNING]   [low] berlin_germany: Pro-Pahlavi demonstrations March 7 supporting exiled Iranian crown prince. Part of Europe-wide protests amid Iran conflict.
