@@ -1,0 +1,163 @@
+{
+  "slug": "cologne",
+  "name": "Cologne",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 8.2,
+    "naturalHazards": 7.8
+  },
+  "summary": "Cologne is generally safe for tourists with low violent crime rates and excellent public transport. The main concerns are pickpocketing in tourist areas and some drug-related activity in certain neighborhoods. Germany operates under a Level 2 travel advisory due to terrorism risks.",
+  "quickVerdict": "Cologne offers a safe tourist experience overall, ranking as Germany's fourth-largest city with well-developed infrastructure and law enforcement. While petty crime like pickpocketing occurs in crowded areas and around major attractions like the Cathedral, violent crime against tourists is rare. The city has experienced some increase in drug-related activity and organized crime incidents, but these primarily affect specific neighborhoods rather than tourist zones. Public transport is highly reliable and safe, though some stations require extra vigilance at night.",
+  "neighborhoods": [
+    {
+      "name": "Cologne Cathedral & Altstadt",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic center around Cologne Cathedral is well-policed and generally safe during the day. However, pickpockets target tourists frequently here, especially around the main train station. At night, the Altstadt area can become less safe due to nightlife activity."
+    },
+    {
+      "name": "Belgian Quarter",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Trendy neighborhood with numerous bars and restaurants. Very safe for tourists with good lighting and regular foot traffic. Popular with young professionals and visitors for its vibrant nightlife scene."
+    },
+    {
+      "name": "Ehrenfeld",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Hip artistic district with galleries, clubs, and creative spaces. Generally safe but can be lively at night. Well-connected by public transport and popular with younger crowds."
+    },
+    {
+      "name": "Neumarkt",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Shopping area that's safe during the day but should be avoided late at night. Some reports of drug activity and aggressive panhandling. Exercise caution after dark, especially around the square itself."
+    },
+    {
+      "name": "Ebertplatz",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area known for drug dealing and should be avoided, particularly at night. While the underground station is necessary for transport, the square above ground has ongoing safety concerns and criminal activity."
+    },
+    {
+      "name": "Mülheim",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Residential area with some industrial zones. Generally safe but less tourist-oriented. Some areas near transport stations require extra awareness, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing Groups",
+      "risk": "high",
+      "description": "Organized groups target tourists in crowded areas, especially around Cologne Cathedral, train stations, and during events. They often create distractions or use techniques like stopping escalators to confuse victims.",
+      "howToAvoid": "Keep valuables in money belts or front pockets, be aware of your surroundings in crowds, and don't carry large amounts of cash. Stay alert if strangers approach you or create distractions."
+    },
+    {
+      "name": "Petition/Charity Scams",
+      "risk": "medium",
+      "description": "Scammers approach tourists with clipboards asking them to sign petitions for charitable causes, then demand donations or pickpocket while victims are distracted by paperwork.",
+      "howToAvoid": "Politely decline to sign anything from strangers on the street. Legitimate charities don't typically solicit signatures from tourists in public spaces."
+    },
+    {
+      "name": "Fake Police Checks",
+      "risk": "medium",
+      "description": "Individuals claiming to be plainclothes police ask to check wallets for counterfeit money or drugs. Real German police don't conduct random wallet checks on the street.",
+      "howToAvoid": "Ask for proper identification and insist on going to the nearest police station if approached. Never hand over your wallet to anyone claiming to be police on the street."
+    },
+    {
+      "name": "Transport Ticket Fraud",
+      "risk": "medium",
+      "description": "After pickpocketing cards, criminals quickly make small purchases through DB Bahn ticket machines, then return tickets for cash refunds at stations.",
+      "howToAvoid": "Use mobile payment apps when possible, keep cards in RFID-blocking wallets, and immediately report stolen cards to banks. Set up transaction alerts on all cards."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cologne ranks as the 14th safest place in Germany for solo female travelers with an overall safety rating of 4.3 out of 5. The city is generally welcoming to women traveling alone, with low crime rates and friendly residents. Public transport is considered safe even in the evenings, and there are plenty of populated areas around major attractions. However, like any major city, women should exercise standard precautions, especially around transport hubs and in nightlife areas.",
+    "tips": [
+      "Stay in well-lit areas and avoid Ebertplatz square, especially at night",
+      "Use the KVB public transport which is reliable and safe, but be extra cautious at central station and Neumarkt in the evening",
+      "Trust your instincts - if an area feels unsafe, leave immediately",
+      "Keep emergency numbers saved in your phone and inform someone of your whereabouts",
+      "Be cautious of unsavory individuals on public transport who may beg or shout aggressively"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cologne's nightlife is vibrant and generally safe, with well-established entertainment districts and reliable late-night public transport. The city offers everything from traditional Kölsch breweries to modern nightclubs, with areas like the Belgian Quarter and Friesenplatz being particularly popular. However, some areas become less safe after dark, and alcohol-related incidents can occur in busy nightlife zones.",
+    "tips": [
+      "Stick to well-lit main streets and avoid shortcuts through dark alleys or parks",
+      "Travel in groups when possible and keep an eye on your drinks at all times",
+      "Use the reliable KVB night buses and trams, but be aware that some transport stations need extra security",
+      "Avoid the Altstadt area late at night despite its daytime appeal",
+      "Keep valuables secure and use licensed taxis or rideshare services for safe transport home"
+    ]
+  },
+  "transport": {
+    "metro": "The KVB system (trams, U-Bahn, and buses) is highly efficient and safe, operating frequently until late evening with night services on weekends. Tickets can be purchased via app, machines, or from bus drivers. The network covers all major attractions and is considered very reliable.",
+    "rideshare": "Standard rideshare services operate in Cologne and are generally safe. The KVB app also integrates with local taxi and car-sharing services for convenient booking.",
+    "taxis": "Licensed taxis are readily available and safe, with the Taxi Ruf Cologne service providing reliable 24/7 coverage. Taxis can be booked via phone, app, or found at designated stands.",
+    "tips": "Validate all tickets before travel to avoid fines. The system is very safe but keep belongings secure in crowded areas. Purchase day tickets for multiple journeys, and use the KVB app for real-time schedules and route planning."
+  },
+  "customs": [
+    "Punctuality is extremely important - arrive exactly on time or 5-10 minutes early for appointments",
+    "Greet with firm handshakes and maintain eye contact; use formal titles (Herr/Frau) unless invited otherwise",
+    "Wait for everyone to be served before eating and maintain good table manners with hands visible"
+  ],
+  "health": {
+    "overview": "Germany has an excellent healthcare system with high-quality medical facilities. No special vaccinations are required for travelers from most countries. The tap water is safe to drink throughout Germany.",
+    "water": "Tap water in Cologne is safe to drink and of high quality. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required for most travelers. Standard travel vaccines (MMR, Tdap, flu) are recommended. Note: Poliovirus has been detected in German wastewater including Cologne, though no clinical cases have been reported.",
+    "altitude": "Cologne is located at low elevation with a temperate oceanic climate. Winters can be cold with snow and ice, while summers may experience heatwaves. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Berlin: +49-30-8305-0 (emergency); US Consulate Frankfurt: +49-69-7535-0 (emergency); From US/Canada: 888-407-4747; All other locations: 202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Cologne safe for tourists?",
+      "a": "Yes, Cologne is generally safe for tourists with low violent crime rates and excellent infrastructure. The main risks are pickpocketing in tourist areas and some drug activity in specific neighborhoods like Ebertplatz. Most visitors have trouble-free experiences."
+    },
+    {
+      "q": "Is Cologne safe at night?",
+      "a": "Cologne has vibrant nightlife and is generally safe after dark in main entertainment areas. However, avoid the Altstadt area late at night and stay in well-lit areas. Public transport runs late with night services, making it easy to get around safely."
+    },
+    {
+      "q": "Is Cologne safe for solo female travelers?",
+      "a": "Cologne ranks highly for solo female travel safety in Germany. The city is welcoming with friendly residents and safe public transport. Standard precautions apply, especially around transport hubs and avoiding certain areas like Ebertplatz at night."
+    },
+    {
+      "q": "What areas should I avoid in Cologne?",
+      "a": "Avoid Ebertplatz square, especially at night, due to drug dealing activity. Be cautious around Neumarkt area after dark and in the Altstadt late at night. The main train station area requires extra vigilance for pickpockets."
+    },
+    {
+      "q": "Is it safe to use public transport in Cologne?",
+      "a": "Yes, the KVB public transport system is very safe and reliable. It's considered one of the safest ways to get around the city, even in the evenings. Some stations may need extra caution late at night, but overall it's excellent for tourists."
+    }
+  ],
+  "relatedCities": [
+    "berlin",
+    "munich",
+    "hamburg",
+    "frankfurt",
+    "dusseldorf"
+  ],
+  "_city_id": "cologne-germany"
+}

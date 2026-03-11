@@ -708,3 +708,39 @@
 2026-03-11 14:37:19,983 [WARNING]   [low] brussels_belgium: Protest scheduled for March 8 with traffic adaptations from 2pm to 4pm in Brussels city center.
 2026-03-11 14:37:19,984 [WARNING]   [low] milan_italy: Authorized demonstrations March 7 at Piazza Castello (pro-US/Israel groups 2-5pm) and anti-US/pro-Palestine march (3-6pm) from Piazza della Scala to US Consulate. 1000-1500 participants expected.
 2026-03-11 14:37:19,986 [WARNING]   [low] rome_italy: Demonstration scheduled March 3 at 6pm at US Embassy (Via Bissolati/Via Veneto corner) protesting US government actions in Iran.
+2026-03-11 18:35:52,128 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-11 18:35:52,168 [INFO] Queue has 255 cities, adding 8
+2026-03-11 18:35:52,168 [INFO] Generating new city profile: Cinque Terre, Italy
+2026-03-11 18:37:39,733 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:37:40,059 [INFO] Saved city data: cinque-terre-italy
+2026-03-11 18:37:40,061 [INFO] Generating new city profile: Sicily, Italy
+2026-03-11 18:39:09,783 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:39:09,936 [INFO] Saved city data: sicily-italy
+2026-03-11 18:39:09,938 [INFO] Generating new city profile: Bologna, Italy
+2026-03-11 18:40:58,721 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:40:58,770 [INFO] Saved city data: bologna-italy
+2026-03-11 18:40:58,771 [INFO] Generating new city profile: Turin, Italy
+2026-03-11 18:42:12,840 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:42:12,910 [INFO] Saved city data: turin-italy
+2026-03-11 18:42:12,912 [INFO] Generating new city profile: Rotterdam, Netherlands
+2026-03-11 18:43:46,613 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:43:46,709 [INFO] Saved city data: rotterdam-netherlands
+2026-03-11 18:43:46,710 [INFO] Generating new city profile: The Hague, Netherlands
+2026-03-11 18:45:15,056 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:45:15,178 [INFO] Saved city data: the-hague-netherlands
+2026-03-11 18:45:15,179 [INFO] Generating new city profile: Hamburg, Germany
+2026-03-11 18:46:37,831 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:46:37,936 [INFO] Saved city data: hamburg-germany
+2026-03-11 18:46:37,938 [INFO] Generating new city profile: Cologne, Germany
+2026-03-11 18:48:21,021 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 18:48:21,119 [INFO] Saved city data: cologne-germany
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Cinque Terre
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Sicily
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Bologna
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Turin
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Rotterdam
+2026-03-11 18:48:21,129 [INFO] Merged into site data: The Hague
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Hamburg
+2026-03-11 18:48:21,129 [INFO] Merged into site data: Cologne
+2026-03-11 18:48:21,156 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-11 18:48:21,157 [INFO] Updated sitemap with 8 new URLs

@@ -1,0 +1,159 @@
+{
+  "slug": "hamburg",
+  "name": "Hamburg",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 8.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Hamburg is Germany's second-largest city and a major port destination that is generally safe for tourists. While petty crime like pickpocketing occurs in crowded areas and the nightlife district, violent crime rates are low and the city has excellent infrastructure and emergency services.",
+  "quickVerdict": "Hamburg offers a safe travel experience for most visitors with low violent crime rates, reliable public transportation, and good emergency services. Standard precautions are recommended, particularly in crowded tourist areas and the Reeperbahn nightlife district. The city's efficient infrastructure and helpful locals make it welcoming for international travelers, though awareness of pickpockets and some nightlife-related risks is advised.",
+  "neighborhoods": [
+    {
+      "name": "Altstadt (Old Town)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The historic city center is well-patrolled and generally very safe for tourists, with good lighting and plenty of foot traffic during the day."
+    },
+    {
+      "name": "Eppendorf",
+      "score": 8.5,
+      "class": "safe",
+      "description": "One of Hamburg's safest and most prestigious neighborhoods, popular with families and offering excellent amenities with low crime rates."
+    },
+    {
+      "name": "Blankenese",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Picturesque hillside neighborhood along the Elbe River with a village atmosphere, regular police patrols, and very low crime rates."
+    },
+    {
+      "name": "St. Pauli/Reeperbahn",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Famous nightlife and red-light district with higher crime rates, persistent prostitutes, drunk crowds, and increased risk of scams and pickpocketing."
+    },
+    {
+      "name": "Sternschanze",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Bohemian neighborhood with vibrant culture but higher crime rates than other areas, requiring vigilance especially at night."
+    },
+    {
+      "name": "Wilhelmsburg",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Developing area with reputation for higher crime rates compared to central Hamburg, though generally improving with urban development."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing",
+      "risk": "high",
+      "description": "Common in crowded areas like train stations, markets, and tourist attractions, especially around Reeperbahn and central station.",
+      "howToAvoid": "Keep valuables secure in front-facing bags, stay alert in crowds, and avoid displaying expensive items openly."
+    },
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "medium",
+      "description": "People approach tourists asking for donations to fake charities, often using emotional stories to convince visitors.",
+      "howToAvoid": "Never give cash to street solicitors, verify charities independently, and be wary of persistent individuals with clipboards."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Some taxi drivers may take longer routes or claim broken meters to charge excessive fares to unfamiliar tourists.",
+      "howToAvoid": "Use licensed taxis with visible meters, agree on fare beforehand for longer trips, or use ride-sharing apps like Uber."
+    },
+    {
+      "name": "Reeperbahn Entertainment Scams",
+      "risk": "high",
+      "description": "Strip clubs and bars may quote low entrance fees then demand excessive payments inside, or overcharge drinks significantly.",
+      "howToAvoid": "Research venues beforehand, avoid credit card payments in adult entertainment venues, and be clear about all costs upfront."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Hamburg is relatively safe for solo female travelers with low violent crime rates and helpful locals. Women should exercise standard precautions, particularly in nightlife areas like the Reeperbahn where attention may be unwelcome or persistent. The city has good public transport and emergency services.",
+    "tips": [
+      "Avoid walking alone late at night in less populated areas, especially around St. Pauli",
+      "Use registered taxis or ride-sharing services rather than walking alone after dark",
+      "Stay in well-lit, busy areas and trust your instincts if situations feel uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Hamburg's nightlife is vibrant but requires caution, especially around the Reeperbahn district. Public transport runs late and night buses operate after midnight. Well-lit areas and main streets are generally safe, but avoiding isolated areas and excessive drinking is recommended.",
+    "tips": [
+      "Stick to main, well-lit streets and avoid wandering into quiet side streets",
+      "Don't accept drinks from strangers and keep your beverages monitored",
+      "Use official taxis or public transport rather than walking long distances alone"
+    ]
+  },
+  "transport": {
+    "metro": "Hamburg's U-Bahn and S-Bahn systems are very safe, reliable, and efficient. Trains run frequently and operate 24 hours on weekends. Stations are well-maintained with good lighting and CCTV coverage.",
+    "rideshare": "Uber operates in Hamburg and provides a convenient, safe alternative to taxis. The app allows easy booking and tracking of rides throughout the city.",
+    "taxis": "Licensed taxis are widely available and generally safe, though more expensive than public transport. Ensure the meter is running and use official taxi ranks or call reputable companies.",
+    "tips": "Hamburg's HVV public transport network is excellent and the best way to get around. Keep tickets handy as inspectors conduct regular checks with 60 EUR fines for fare dodging."
+  },
+  "customs": [
+    "Punctuality is extremely important - arrive 5-10 minutes early for appointments and social meetings",
+    "Greet people with a firm handshake and direct eye contact when meeting or entering shops",
+    "Germans value directness and honesty in communication, avoiding excessive small talk"
+  ],
+  "health": {
+    "overview": "Hamburg has excellent healthcare with modern hospitals and medical facilities. Germany has high health and safety standards with clean tap water and good sanitation systems.",
+    "water": "Tap water is safe to drink throughout Hamburg and meets high EU standards. Bottled water is available but unnecessary for safety reasons.",
+    "vaccinations": "No special vaccinations required for Hamburg. Routine vaccinations like MMR and tetanus should be up to date. Note that wild poliovirus was detected in Hamburg wastewater in 2025, though no clinical cases occurred.",
+    "altitude": "Hamburg is at sea level with a maritime climate. Summers can be warm and humid while winters are mild but wet with possible snow and ice."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate Berlin covers Hamburg region: +49 30 8305 0 (emergency 24/7). Hamburg falls under Berlin consular district."
+  },
+  "faq": [
+    {
+      "q": "Is Hamburg safe for tourists?",
+      "a": "Yes, Hamburg is generally safe for tourists with low violent crime rates and good infrastructure. Standard precautions against pickpocketing in crowded areas are recommended, and the Reeperbahn nightlife district requires extra caution."
+    },
+    {
+      "q": "Is Hamburg safe at night?",
+      "a": "Hamburg is reasonably safe at night in well-lit, busy areas. The public transport system runs late with night buses after midnight. Avoid isolated areas and exercise caution around the Reeperbahn district where crowds can be unpredictable."
+    },
+    {
+      "q": "Is Hamburg safe for solo female travelers?",
+      "a": "Hamburg is relatively safe for solo female travelers with a violence rate against women of only 2.5%. Women should avoid walking alone late at night in less populated areas and be cautious in nightlife districts, but can generally explore confidently."
+    },
+    {
+      "q": "What areas should I avoid in Hamburg?",
+      "a": "Exercise extra caution in St. Pauli/Reeperbahn especially late at night, parts of Sternschanze after dark, and Wilhelmsburg. The main train station area can attract some unsavory characters, particularly late at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Hamburg?",
+      "a": "Yes, Hamburg's public transport (HVV) is very safe, reliable and efficient. The U-Bahn, S-Bahn, buses and ferries are well-maintained with good security. Even night transport is generally safe, though standard awareness is recommended."
+    }
+  ],
+  "relatedCities": [
+    "berlin",
+    "munich",
+    "cologne",
+    "frankfurt",
+    "dresden"
+  ],
+  "_city_id": "hamburg-germany"
+}

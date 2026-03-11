@@ -1084,5 +1084,53 @@
     "action": "alert",
     "city_id": "rome_italy",
     "details": "{\"city_id\": \"rome_italy\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Demonstration scheduled March 3 at 6pm at US Embassy (Via Bissolati/Via Veneto corner) protesting US government actions in Iran.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T18:37:40.060402+00:00",
+    "action": "add",
+    "city_id": "cinque-terre-italy",
+    "details": "New city added with score 7.4"
+  },
+  {
+    "timestamp": "2026-03-11T18:39:09.936980+00:00",
+    "action": "add",
+    "city_id": "sicily-italy",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-11T18:40:58.770814+00:00",
+    "action": "add",
+    "city_id": "bologna-italy",
+    "details": "New city added with score 7.2"
+  },
+  {
+    "timestamp": "2026-03-11T18:42:12.910965+00:00",
+    "action": "add",
+    "city_id": "turin-italy",
+    "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-11T18:43:46.709597+00:00",
+    "action": "add",
+    "city_id": "rotterdam-netherlands",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-11T18:45:15.178672+00:00",
+    "action": "add",
+    "city_id": "the-hague-netherlands",
+    "details": "New city added with score 8.0"
+  },
+  {
+    "timestamp": "2026-03-11T18:46:37.937433+00:00",
+    "action": "add",
+    "city_id": "hamburg-germany",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-11T18:48:21.119650+00:00",
+    "action": "add",
+    "city_id": "cologne-germany",
+    "details": "New city added with score 7.1"
   }
 ]

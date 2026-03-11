@@ -1,0 +1,165 @@
+{
+  "slug": "bologna",
+  "name": "Bologna",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 5.8,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 8.3
+  },
+  "summary": "Bologna is considered one of Italy's safest cities with a low violent crime rate and a vibrant student population that keeps streets lively. The main risks for tourists are pickpocketing on public transport and in crowded areas, plus occasional petty theft around the train station.",
+  "quickVerdict": "Bologna is remarkably safe for tourists and ranks among Italy's most secure cities. The large student population (80,000+ students) creates a dynamic atmosphere with excellent nightlife safety. While violent crime is rare, standard precautions against pickpockets and tourist scams are advised, particularly around Bologna Centrale train station and on public transport. The city's extensive porticoes provide well-lit walkways that enhance evening safety.",
+  "neighborhoods": [
+    {
+      "name": "Centro Storico",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic center around Piazza Maggiore is very safe during the day and well-lit at night. The extensive porticoes provide covered walkways and the area is always populated with students and tourists."
+    },
+    {
+      "name": "Santo Stefano",
+      "score": 8.0,
+      "class": "safe",
+      "description": "One of Bologna's safest and most picturesque neighborhoods, known for elegant streets, historical landmarks, and strong police presence. Popular with families and tourists."
+    },
+    {
+      "name": "Saragozza",
+      "score": 7.8,
+      "class": "safe",
+      "description": "A quiet residential area famous for beautiful parks and family-friendly atmosphere. Regular police patrols and low crime rates make it ideal for visitors."
+    },
+    {
+      "name": "University Quarter",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Generally safe due to high student activity, though can get noisy at night around bars. Via Zamboni and surrounding streets are well-patrolled but avoid isolated areas after midnight."
+    },
+    {
+      "name": "Bologna Centrale Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "The train station area is busy during the day but can attract loiterers and drug dealers after 11 PM. Piazza Medaglie d'Oro requires extra caution at night, though violent crime is rare."
+    },
+    {
+      "name": "Bolognina",
+      "score": 4.5,
+      "class": "danger",
+      "description": "This neighborhood has higher crime rates compared to other parts of Bologna. Exercise caution especially after dark, as it has increased incidents of petty theft and other minor crimes."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing on Public Transport",
+      "risk": "moderate",
+      "description": "Common on crowded buses, especially Bus 30 to the station and during peak hours. Thieves work in pairs to distract victims while accomplices steal from bags or pockets.",
+      "howToAvoid": "Keep bags in front, validate tickets before boarding, stay alert in crowds, and don't display phones or valuables openly."
+    },
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "moderate",
+      "description": "People approach tourists claiming to collect donations for local charities, or use friendship bracelets and roses as conversation starters to distract while accomplices pickpocket.",
+      "howToAvoid": "Politely say 'no grazie' and keep walking. Never accept items from strangers or engage with aggressive solicitors."
+    },
+    {
+      "name": "Tourist Restaurant Traps",
+      "risk": "moderate",
+      "description": "Restaurants near major attractions with photo menus, multilingual staff trying to usher you in, and inflated prices for basic items like bread or water.",
+      "howToAvoid": "Eat where locals eat, avoid restaurants with photos on menus, check prices before ordering, and look for handwritten specials in Italian only."
+    },
+    {
+      "name": "Unofficial Taxi Services",
+      "risk": "low",
+      "description": "Unlicensed drivers approach tourists at the train station offering cheaper rides but may take longer routes or demand higher fares than agreed upon.",
+      "howToAvoid": "Use official taxi ranks, licensed companies like COTABO, or ride-hailing apps. Always check the taxi has a meter and official signage."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bologna is widely considered one of the best Italian cities for solo female travelers. The massive student population normalizes women walking alone, eating solo, and studying in cafes. Catcalling is generally less aggressive than in southern Italian cities, and the historic center's porticoes are well-lit with regular foot traffic even late at night.",
+    "tips": [
+      "Stay in the Centro Storico area for well-lit streets and constant activity",
+      "Avoid walking through Montagnola Park alone after dark",
+      "Take advantage of the student atmosphere - solo dining and activities are completely normal",
+      "Use the porticoes for covered, well-lit walking routes at night",
+      "Be extra cautious around Bologna Centrale station after 11 PM - consider taxis for late arrivals"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bologna's nightlife safety is excellent thanks to the large student population keeping streets active until late. The historic center's porticoes provide well-lit walkways, and the presence of numerous bars and restaurants ensures people are always around. However, some areas like the train station and Montagnola Park should be avoided after 11 PM.",
+    "tips": [
+      "Stick to the main porticoed streets in the historic center after dark",
+      "Avoid cutting through Montagnola Park alone at night - use Via dell'Indipendenza instead",
+      "The university district can get rowdy but is generally safe due to high foot traffic",
+      "Take taxis for late night arrivals at Bologna Centrale rather than walking with luggage",
+      "Join evening food tours or group activities if nervous about solo nighttime exploration"
+    ]
+  },
+  "transport": {
+    "metro": "Bologna has no metro system yet, but the new Red Line tram is expected to open in 2026, connecting the airport area to the city center. Currently, the city relies entirely on an extensive bus network operated by TPER.",
+    "rideshare": "FreeNow and local taxi apps are widely available and reliable. Official taxis accept card payments and use meters. COTABO and CAT RadioTaxi are the main licensed companies with 24/7 service.",
+    "taxis": "Generally safe and regulated, with fixed rates around €3.40 during day and €6.10 at night. Available at designated ranks near Bologna Centrale, Piazza Maggiore, and the airport. All licensed taxis must accept card payments.",
+    "tips": "Public buses are safe but can be crowded during peak hours - watch for pickpockets. Validate tickets before boarding to avoid fines up to €100. The Marconi Express monorail connects the airport to the train station in 7 minutes."
+  },
+  "customs": [
+    "Greet with 'Buongiorno' (good morning) or 'Buonasera' (good evening) - use formal greetings with strangers and shop staff",
+    "No cappuccino after 11 AM - Italians believe milk disrupts digestion after meals, order espresso instead",
+    "Dress modestly when visiting churches - cover shoulders and knees, carry a light scarf for easy coverage",
+    "Respect meal times - lunch is 1-2 PM, dinner rarely before 7:30 PM, many shops close 1-4 PM for pausa pranzo",
+    "Tipping is not mandatory but appreciated - round up bills or leave a few euros for good service"
+  ],
+  "health": {
+    "overview": "Bologna has excellent healthcare with two major hospitals including Sant'Orsola-Malpighi, ranked among Italy's top 3 hospitals by Newsweek. EU citizens can use European Health Insurance Cards, while others should have comprehensive travel insurance.",
+    "water": "Tap water is safe to drink throughout Bologna. Restaurants typically serve bottled water (con gas or senza gas) which enhances meal flavors and is part of local custom.",
+    "vaccinations": "No special vaccinations required for Italy. Standard travel vaccinations (hepatitis A/B, typhoid) may be recommended by your doctor depending on your medical history.",
+    "altitude": "Bologna sits at low altitude with a continental climate. Summers can be hot and humid (up to 35°C), winters are cool and damp. Air quality is generally good despite being in the Po Valley."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "The nearest US Consulates are in Florence and Milan. For emergencies, contact the US Embassy in Rome at +39 06 46741 or the 24/7 State Department assistance line at +1-202-501-4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Bologna safe for tourists?",
+      "a": "Yes, Bologna is one of Italy's safest cities with very low violent crime rates. The main concerns are pickpocketing on public transport and minor tourist scams, which can be easily avoided with standard precautions."
+    },
+    {
+      "q": "Is Bologna safe at night?",
+      "a": "Bologna is generally very safe at night thanks to its large student population and well-lit porticoes in the historic center. Avoid the train station area and Montagnola Park after 11 PM, but the main tourist areas remain lively and secure."
+    },
+    {
+      "q": "Is Bologna safe for solo female travelers?",
+      "a": "Bologna is excellent for solo female travelers - it's considered one of the best cities in Italy for women traveling alone. The student atmosphere normalizes solo activities, and harassment is less common than in other Italian cities."
+    },
+    {
+      "q": "What areas should I avoid in Bologna?",
+      "a": "Avoid Bolognina neighborhood especially at night, the immediate area around Bologna Centrale station after 11 PM, and walking alone through Montagnola Park after dark. The historic center and main tourist areas are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Bologna?",
+      "a": "Yes, public transport is safe and reliable. Watch for pickpockets on crowded buses, especially Bus 30 to the station. Always validate tickets to avoid fines, and be extra cautious during peak hours when buses are packed."
+    }
+  ],
+  "relatedCities": [
+    "florence",
+    "venice",
+    "milan",
+    "rome",
+    "verona"
+  ],
+  "_city_id": "bologna-italy"
+}
