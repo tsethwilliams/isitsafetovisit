@@ -17559,6 +17559,1297 @@
         "bordeaux",
         "marseille"
       ]
+    },
+    {
+      "slug": "madrid",
+      "name": "Madrid",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 7.5,
+        "nightSafety": 7.8,
+        "transport": 8.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Madrid is one of Europe's safest capital cities with very low violent crime rates and excellent police presence. The main concerns for tourists are petty theft and pickpocketing, particularly in crowded areas and on public transport. The city offers exceptional nightlife safety and is particularly welcoming for solo female travelers.",
+      "quickVerdict": "Madrid consistently ranks among the safest major European capitals, with violent crime being extremely rare and a strong police presence throughout tourist areas. While pickpocketing is the primary concern in crowded spots like Puerta del Sol and the metro system, serious crimes against tourists are uncommon. The city's excellent public transport, late-night culture, and well-lit streets make it exceptionally safe for evening exploration, earning it high marks for solo travelers and families alike.",
+      "neighborhoods": [
+        {
+          "name": "Salamanca",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Madrid's most upscale district with luxury shopping along Serrano Street. Excellent lighting, constant police presence, and minimal crime reports make it ideal for tourists seeking premium safety."
+        },
+        {
+          "name": "Centro/Sol",
+          "score": 6.2,
+          "class": "caution",
+          "description": "The heart of tourist activity with the highest concentration of pickpockets and petty theft. Stay alert around Puerta del Sol, Plaza Mayor, and Gran Via, especially in crowds."
+        },
+        {
+          "name": "Retiro",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Peaceful residential area adjacent to the famous park. Well-patrolled with good lighting and minimal crime, popular with families and professionals."
+        },
+        {
+          "name": "Malasaña",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Trendy nightlife district that remains safe despite heavy foot traffic. Police presence increases during evening hours to manage the vibrant bar scene."
+        },
+        {
+          "name": "Lavapiés",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Multicultural neighborhood experiencing some uptick in petty crime. Exercise extra caution at night and avoid displaying valuables, though serious incidents remain rare."
+        },
+        {
+          "name": "Chamberí",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Elegant residential district with tree-lined streets and excellent safety record. Popular with expats and locals, minimal tourist-related crime."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police Badge",
+          "risk": "medium",
+          "description": "Scammers pose as undercover police, showing fake badges and demanding to check wallets for counterfeit money before stealing cash.",
+          "howToAvoid": "Real police will always conduct inspections at stations. Ask to see credentials again and insist on going to the nearest police station."
+        },
+        {
+          "name": "Lucky Rosemary Fortune",
+          "risk": "high",
+          "description": "Elderly women forcibly give tourists rosemary sprigs then demand payment for fortune telling services, often causing scenes if refused.",
+          "howToAvoid": "Never accept items from strangers. Keep walking and avoid eye contact. Firmly say no and continue moving."
+        },
+        {
+          "name": "Restaurant Menu Overcharge",
+          "risk": "medium",
+          "description": "Some tourist-area restaurants use unmarked daily specials or English menus without prices, leading to inflated bills.",
+          "howToAvoid": "Always ask for prices before ordering. Request both Spanish and English menus to check for discrepancies. Verify bills against printed menus."
+        },
+        {
+          "name": "Three Cup Shell Game",
+          "risk": "medium",
+          "description": "Street performers use sleight of hand with cups and pea while accomplices pickpocket distracted spectators.",
+          "howToAvoid": "Never participate in street gambling. Avoid crowded groups watching these games. Keep moving past street performances."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Madrid is exceptionally safe for solo female travelers, ranking among the top European capitals for women's safety. The late-night culture means streets stay populated until dawn, and harassment incidents are rare. Police visibility is strong and locals are generally helpful and respectful.",
+        "tips": [
+          "Stick to well-lit main streets when walking alone at night",
+          "Use official taxis or ride-share apps rather than accepting rides from strangers",
+          "Keep valuables secure in anti-theft bags, especially on crowded metro lines"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Madrid's famous nightlife culture creates a uniquely safe after-dark environment. Streets remain busy until 3-4 AM with families and locals dining, creating natural surveillance. Police patrols are frequent in nightlife areas, and violent crime at night is extremely rare.",
+        "tips": [
+          "Take advantage of the night bus network after metro closure at 1:30 AM",
+          "Stay in groups when possible and stick to populated main streets",
+          "Use official transportation options rather than walking alone in empty areas after 2 AM"
+        ]
+      },
+      "transport": {
+        "metro": "Clean, efficient, and generally safe with CCTV coverage and police presence. Main risk is pickpocketing during rush hours on lines serving tourist areas. Runs until 1:30 AM.",
+        "rideshare": "Uber and local app Cabify operate safely with fixed pricing. Both are reliable alternatives to taxis with GPS tracking for added security.",
+        "taxis": "Official white taxis with red diagonal stripes are safe and regulated. Always ensure meter is running or agree on fixed airport rate of €30 to center.",
+        "tips": "Night buses (Búhos) provide safe late-night transport after metro closure. Keep bags in front on crowded transport and avoid displaying phones near doors."
+      },
+      "customs": [
+        "Dress modestly when visiting churches - cover shoulders and knees",
+        "Most restaurants don't serve dinner until 9 PM, lunch is typically 2-4 PM",
+        "Smoking is banned indoors but allowed on outdoor terraces",
+        "Tipping is not mandatory but 5-10% is appreciated for good service",
+        "Public drinking is prohibited except at licensed establishments"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare with no special health risks for travelers. Madrid's air quality can be poor in summer due to pollution, affecting those with respiratory conditions.",
+        "water": "Tap water is completely safe to drink throughout Madrid, though bottled water is commonly served in restaurants as is typical across Europe.",
+        "vaccinations": "No special vaccinations required. Ensure routine vaccines are up to date including MMR, tetanus, and seasonal flu. CDC recommends Hepatitis A and B for travelers.",
+        "altitude": "Madrid sits at 650m elevation with a continental climate. Summers can be very hot (32-38°C) while winters are mild. Spring and autumn offer the best weather conditions."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "US Embassy Madrid: +34 91 587 2200, Calle Serrano 75. For emergencies: +34 91 714 6300. Consulates also in Barcelona and Seville."
+      },
+      "faq": [
+        {
+          "q": "Is Madrid safe for tourists?",
+          "a": "Yes, Madrid is one of Europe's safest capitals with very low violent crime rates. The main concerns are petty theft and pickpocketing in tourist areas, which can be easily avoided with basic precautions."
+        },
+        {
+          "q": "Is Madrid safe at night?",
+          "a": "Madrid is exceptionally safe at night due to its late dining culture that keeps streets populated until dawn. Police presence is strong in nightlife areas and violent crime after dark is extremely rare."
+        },
+        {
+          "q": "Is Madrid safe for solo female travelers?",
+          "a": "Absolutely. Madrid ranks among the top European cities for solo female travel safety. Harassment is uncommon, streets stay lively late into the night, and locals are generally helpful and respectful."
+        },
+        {
+          "q": "What areas should I avoid in Madrid?",
+          "a": "While no areas are truly dangerous, exercise extra caution in Lavapiés at night and be very alert for pickpockets in Centro/Sol area around Puerta del Sol, Plaza Mayor, and busy metro stations."
+        },
+        {
+          "q": "Is it safe to use public transport in Madrid?",
+          "a": "Yes, Madrid's metro and bus system are very safe with CCTV, police presence, and clean facilities. The main risk is pickpocketing during rush hours, so keep bags secure and phones stored safely."
+        }
+      ],
+      "relatedCities": [
+        "barcelona",
+        "seville",
+        "valencia",
+        "lisbon",
+        "porto",
+        "rome"
+      ]
+    },
+    {
+      "slug": "seville",
+      "name": "Seville",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.0,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 8.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Seville is one of Spain's safest major cities with very low violent crime rates and excellent infrastructure. Petty crime like pickpocketing exists around tourist areas but can be easily avoided with basic precautions. The city maintains a welcoming atmosphere for travelers with strong police presence and good emergency services.",
+      "quickVerdict": "Seville stands out as one of Europe's safest cities for tourists, with violent crime being exceptionally rare and petty theft confined mainly to crowded tourist areas. The city's compact center is easily walkable day and night, public transport is reliable and secure, and locals are generally helpful to visitors. While pickpocketing occurs around major attractions like the Cathedral and Plaza de España, travelers who stay alert and follow basic security measures will find Seville an excellent destination. Solo female travelers consistently rate it highly for safety, and the city's strong tourism infrastructure ensures help is always available when needed.",
+      "neighborhoods": [
+        {
+          "name": "Santa Cruz",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic Jewish quarter is generally very safe with narrow pedestrian streets and good tourist police presence. Well-lit at night with plenty of foot traffic around restaurants and bars."
+        },
+        {
+          "name": "Centro/Catedral",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The city center around the Cathedral is safe but requires vigilance for pickpockets, especially near major attractions. Heavy police presence and good lighting make it secure overall."
+        },
+        {
+          "name": "Triana",
+          "score": 8.0,
+          "class": "safe",
+          "description": "This charming neighborhood across the river is considered one of the safest areas with a local feel, excellent restaurants, and good community atmosphere day and night."
+        },
+        {
+          "name": "El Arenal",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Safe area near the bullring and river with good nightlife. Generally secure but stay alert in crowded areas and around the bus station at night."
+        },
+        {
+          "name": "Nervión",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern residential and shopping district that's very safe with lower crime rates than the historic center. Popular with families and well-connected by public transport."
+        },
+        {
+          "name": "Polígono Sur",
+          "score": 4.0,
+          "class": "danger",
+          "description": "One of the poorest neighborhoods in Spain with higher drug-related crime rates. Best avoided by tourists as there are no attractions here and crime rates are significantly higher."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Rosemary Fortune Telling",
+          "risk": "high",
+          "description": "Women approach tourists around the Cathedral and Plaza de España offering free rosemary sprigs for good luck, then demand payment for an unsolicited palm reading.",
+          "howToAvoid": "Firmly decline any offers of free items from strangers. Keep walking and don't engage. If someone forces something into your hands, drop it and walk away."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams work together where one person creates a distraction by asking for directions or help while accomplices pick pockets or bags. Common around tourist attractions.",
+          "howToAvoid": "Be especially wary in crowded areas. Keep bags in front of your body. If someone seems overly friendly or persistent, politely decline help and move away."
+        },
+        {
+          "name": "Fake Bird Droppings",
+          "risk": "medium",
+          "description": "Someone squirts mustard or yogurt on your clothes then helpful strangers offer to clean you up while picking your pockets during the distraction.",
+          "howToAvoid": "If something gets on your clothes unexpectedly, don't let strangers help clean you. Move to a safe location and clean yourself while keeping belongings secure."
+        },
+        {
+          "name": "Overcharging by Taxi Drivers",
+          "risk": "medium",
+          "description": "Some airport taxi drivers may try to charge flat rates much higher than the meter, especially targeting tourists who don't know the correct price.",
+          "howToAvoid": "Always confirm the price before getting in. For airport trips, the official rate is around 30 euros. Use official white taxis with yellow stripes or ride-sharing apps."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Seville is consistently rated as one of the safest Spanish cities for solo female travelers, ranking in the top 15 globally. Women report feeling comfortable walking alone both day and night in tourist areas, with locals being respectful and helpful. The city has excellent lighting, busy streets that stay active late, and a strong police presence in tourist zones.",
+        "tips": [
+          "Stay in central neighborhoods like Santa Cruz, Triana, or near Plaza Nueva for the safest experience with good nightlife access",
+          "The city center is very walkable but avoid the bus station area late at night - take a taxi instead",
+          "Spanish dining culture means restaurants don't open until 8:30pm, so solo dinners are normal and comfortable",
+          "Trust your instincts - if an area feels uncomfortable, move to a busier street as there are always people around in the center",
+          "Consider female-only hostels if budget traveling - several are available with good security measures"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Seville is remarkably safe at night with well-lit streets, active nightlife that keeps areas busy, and low violent crime rates. The historic center remains lively until late with tapas bars and restaurants providing natural surveillance. Police patrol regularly in tourist areas, and the compact city center means you're never far from help.",
+        "tips": [
+          "Stick to the well-lit main streets and avoid shortcuts through narrow empty alleys late at night",
+          "The area around the Cathedral and Santa Cruz remains busy and safe until midnight with restaurant activity",
+          "Plan your route home in advance or have taxi numbers saved - ride-sharing apps work well but may have longer wait times",
+          "Limit alcohol consumption to stay alert, especially as a solo traveler",
+          "If staying outside the center, take a taxi back rather than walking through less familiar neighborhoods"
+        ]
+      },
+      "transport": {
+        "metro": "Seville has one modern metro line that's clean, safe, and efficient. Well-lit stations with CCTV coverage and regular security patrols. Connects key areas including the historic center at Prado de San Sebastian.",
+        "rideshare": "Uber and Cabify operate but with limited drivers, leading to longer wait times. Generally reliable when available, though official taxis are often faster and similarly priced.",
+        "taxis": "Official white taxis with yellow stripes are plentiful, safe, and regulated. All use meters within the city. Airport trips have fixed rates around 30 euros. Drivers are generally honest but confirm prices for airport journeys.",
+        "tips": "Public transport is excellent and safe overall. The tram is particularly convenient for tourists, connecting major sights. Walking remains the best option for the historic center. Download the TUSSAM app for real-time bus information."
+      },
+      "customs": [
+        "Greeting with kisses on both cheeks is common among friends but a handshake is fine for strangers",
+        "Dinner is very late by international standards - restaurants don't open until 8:30pm and locals eat around 10pm",
+        "Many businesses close for siesta from 2-5pm, especially smaller shops and some restaurants",
+        "Dress modestly when visiting churches - cover shoulders and knees, especially at the Cathedral",
+        "Tipping is not obligatory but rounding up the bill or leaving 5-10% for good service is appreciated"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare with modern hospitals and clinics throughout Seville. EU citizens should bring their European Health Insurance Card. No special vaccinations required.",
+        "water": "Tap water is safe to drink throughout Seville and meets EU standards. Bottled water is widely available if preferred.",
+        "vaccinations": "No special vaccinations required for Spain. Routine vaccines like MMR, DPT, and seasonal flu are recommended as anywhere.",
+        "altitude": "Seville is at sea level with no altitude concerns. Summer temperatures can exceed 40°C (104°F) so stay hydrated and avoid prolonged sun exposure. Spring and fall have ideal weather."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091 (National), 092 (Local)",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "092 (Local Police handle tourist issues)",
+        "usEmbassy": "US Embassy Madrid: +34 91 587 2200, Calle de Serrano 75, 28006 Madrid (consular emergencies: +34 91 714 6300)"
+      },
+      "faq": [
+        {
+          "q": "Is Seville safe for tourists?",
+          "a": "Yes, Seville is very safe for tourists with low violent crime rates. The main concerns are pickpocketing around tourist attractions, which can be easily avoided with basic precautions like keeping bags secure and staying alert in crowded areas."
+        },
+        {
+          "q": "Is Seville safe at night?",
+          "a": "Seville is quite safe at night, especially in the historic center where restaurants and bars keep streets active until late. The city is well-lit with regular police patrols. Stick to main streets and busy areas, and you should feel comfortable walking around."
+        },
+        {
+          "q": "Is Seville safe for solo female travelers?",
+          "a": "Absolutely. Seville consistently ranks as one of the top safe cities for solo female travelers globally. Women report feeling comfortable walking alone day and night, with respectful locals and excellent infrastructure. Many female-friendly accommodations are available."
+        },
+        {
+          "q": "What areas should I avoid in Seville?",
+          "a": "The main area to avoid is Polígono Sur (also called Las Tres Mil Viviendas) in the south, which has higher crime rates and no tourist attractions. The bus station area should be avoided late at night. Otherwise, tourist areas are very safe with proper precautions."
+        },
+        {
+          "q": "Is it safe to use public transport in Seville?",
+          "a": "Yes, public transport in Seville is very safe and reliable. The metro, tram, and buses are clean, well-maintained, and regularly patrolled. The tram is particularly convenient for tourists, and buses run frequently. Just keep an eye on belongings in crowded areas as you would anywhere."
+        }
+      ],
+      "relatedCities": [
+        "madrid",
+        "barcelona",
+        "valencia",
+        "granada",
+        "cordoba",
+        "lisbon"
+      ]
+    },
+    {
+      "slug": "valencia",
+      "name": "Valencia",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.5,
+        "scamRisk": 6.8,
+        "womensSafety": 7.8,
+        "nightSafety": 7.1,
+        "transport": 8.2,
+        "naturalHazards": 6.9
+      },
+      "summary": "Valencia is one of Spain's safest major cities, with very low violent crime rates and a welcoming atmosphere for tourists. While petty crime like pickpocketing occurs in crowded areas, serious safety concerns are rare, making it an excellent destination for all types of travelers.",
+      "quickVerdict": "Valencia consistently ranks as one of Europe's safest cities with a crime index of just 31.5. The city offers excellent public transport, quality healthcare, and a strong police presence in tourist areas. While visitors should remain vigilant against pickpockets, especially during festivals like Las Fallas, violent crime is exceptionally rare. The recent 2024 floods highlighted some natural disaster risks, but the city's infrastructure and emergency response systems are generally robust.",
+      "neighborhoods": [
+        {
+          "name": "Ciudad Vella (Old Town)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The historic center is generally safe during the day with good police presence, though some areas like El Carmen can be quieter after dark. Main tourist attractions are well-patrolled and secure."
+        },
+        {
+          "name": "Ruzafa",
+          "score": 8.2,
+          "class": "safe",
+          "description": "One of Valencia's trendiest neighborhoods with excellent nightlife, cafes, and restaurants. Well-lit streets and active nightlife scene make it safe for evening strolls and dining."
+        },
+        {
+          "name": "City of Arts and Sciences",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Modern cultural district with excellent lighting, security, and regular police patrols. Very safe for tourists visiting museums and attractions during day and evening hours."
+        },
+        {
+          "name": "Malvarrosa Beach",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Popular beach area that's generally safe during the day but can see increased petty theft during peak tourist season. Beach-adjacent areas have good police presence but require standard precautions."
+        },
+        {
+          "name": "El Cabanyal",
+          "score": 5.2,
+          "class": "caution",
+          "description": "Historic maritime neighborhood undergoing urban renewal but still reports higher rates of petty crime, drug-related incidents, and theft. Exercise caution, especially at night."
+        },
+        {
+          "name": "Els Orriols",
+          "score": 4.1,
+          "class": "danger",
+          "description": "Residential area with higher crime rates per capita including frequent thefts, burglaries, and local disputes. High population density and socioeconomic challenges contribute to security concerns."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "high",
+          "description": "Teams work together - one distracts you with questions, spilled drinks, or fake petitions while accomplices steal from bags and pockets.",
+          "howToAvoid": "Keep bags secure in front of body, be wary of unsolicited approaches, and immediately check belongings after any unexpected interaction."
+        },
+        {
+          "name": "Festival Pickpocketing",
+          "risk": "high",
+          "description": "During Las Fallas and other festivals, professional pickpocket gangs target crowded areas to steal wallets, phones, and valuables from distracted tourists.",
+          "howToAvoid": "Use money belts, avoid bringing valuables to festivals, stay aware of surroundings in crowds, and keep phones secured."
+        },
+        {
+          "name": "Street Shell Game",
+          "risk": "medium",
+          "description": "Con artists invite tourists to guess which cup hides a ball for money, using sleight of hand and distraction to ensure you always lose.",
+          "howToAvoid": "Never participate in street games or gambling, walk confidently past without stopping, and don't engage with persistent operators."
+        },
+        {
+          "name": "Overpriced Taxi Scams",
+          "risk": "medium",
+          "description": "Some taxi drivers claim broken meters, take longer routes, or demand upfront payment, especially targeting tourists at airports and stations.",
+          "howToAvoid": "Use official taxis with working meters, ride-sharing apps like Cabify, or pre-book transfers. Always agree on fares beforehand if meter is broken."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Valencia is excellent for solo female travelers, ranking as Spain's third safest major city with high safety scores for both day and nighttime activities. Women report feeling secure walking alone during daylight hours and in well-lit areas at night. The city has strong local support networks and female-friendly accommodations.",
+        "tips": [
+          "Stay in well-reviewed central areas like Ruzafa or near Ciudad Vella for better safety and nightlife access",
+          "Use the 'Paradas Violeta' program on night buses - drivers will stop closer to your destination after 10:30 PM for safety",
+          "Join walking tours or group activities to meet other travelers and locals safely"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Valencia's nightlife is generally safe with a vibrant scene in neighborhoods like Ruzafa and El Carmen. The city maintains good lighting and police presence in main nightlife areas, though some quieter streets in El Carmen can be less populated after dark.",
+        "tips": [
+          "Stick to main streets and well-lit areas, especially in El Carmen after midnight",
+          "Use official taxis or ride-sharing apps like Cabify rather than walking alone late at night",
+          "Never leave drinks unattended and plan your route home in advance"
+        ]
+      },
+      "transport": {
+        "metro": "Valencia's Metrovalencia system is safe and efficient with 10 lines covering the city and airport. Modern trains run frequently with security cameras and emergency buttons. Night services extend until late on weekends.",
+        "rideshare": "Cabify is more popular than Uber in Valencia and offers reliable, safe transportation. Free Now is also widely used for booking official taxis with fixed fares or meters.",
+        "taxis": "Official white taxis with green lights are safe and regulated with working meters. Available 24/7 at stands, by phone, or hailed on streets. Wheelchair-accessible vehicles available by advance booking.",
+        "tips": "Download EMT Valencia app for real-time bus information and the SUMA travel card for seamless multi-modal transport including metro, buses, and trams."
+      },
+      "customs": [
+        "Greet with handshakes in formal settings or two cheek kisses (starting right cheek) among friends and acquaintances",
+        "Dress more formally than typical tourist attire - smart casual is preferred over very casual clothing in restaurants and public spaces",
+        "Respect siesta hours (2-5 PM) when many businesses close and maintain quieter behavior in residential areas"
+      ],
+      "health": {
+        "overview": "Spain has an excellent public healthcare system with well-staffed hospitals and clinics throughout Valencia. Medical facilities meet high European standards with English-speaking staff available in major hospitals.",
+        "water": "Tap water is completely safe to drink throughout Valencia and meets strict EU quality standards. Over 90% of samples consistently pass health regulations and the water is regularly tested.",
+        "vaccinations": "No special vaccinations required for Spain. Standard travel vaccinations like Hepatitis A/B and routine immunizations are recommended as usual travel precautions.",
+        "altitude": "Valencia is at sea level with a Mediterranean climate. Summers can be very hot with temperatures exceeding 104°F, requiring proper hydration and sun protection."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "US citizens should contact the US Embassy in Madrid at +34 91 714 6300 for emergency assistance. Consular services available Monday-Friday with 24/7 emergency line."
+      },
+      "faq": [
+        {
+          "q": "Is Valencia safe for tourists?",
+          "a": "Yes, Valencia is very safe for tourists with a low crime index of 31.5. Violent crime is rare, and the main concerns are petty theft in crowded areas and during festivals. The city has excellent police presence in tourist zones."
+        },
+        {
+          "q": "Is Valencia safe at night?",
+          "a": "Valencia is generally safe at night, especially in well-lit areas like Ruzafa and main tourist zones. Some quieter parts of El Carmen can be less populated after dark, so stick to main streets and use taxis when needed."
+        },
+        {
+          "q": "Is Valencia safe for solo female travelers?",
+          "a": "Absolutely. Valencia ranks among Spain's safest cities for solo female travelers with high safety scores for both day and night activities. The city offers female-friendly accommodations and has supportive local networks."
+        },
+        {
+          "q": "What areas should I avoid in Valencia?",
+          "a": "Avoid Els Orriols and be cautious in El Cabanyal, especially at night. These areas have higher crime rates. During festivals, be extra vigilant in all crowded areas due to increased pickpocketing activity."
+        },
+        {
+          "q": "Is it safe to use public transport in Valencia?",
+          "a": "Yes, Valencia's public transport is very safe and efficient. The metro, buses, and trams have security measures and regular police presence. The EMT buses even offer special safety stops for women after 10:30 PM."
+        }
+      ],
+      "relatedCities": [
+        "madrid",
+        "barcelona",
+        "seville",
+        "bilbao",
+        "granada"
+      ]
+    },
+    {
+      "slug": "malaga",
+      "name": "Malaga",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 7.5,
+        "nightSafety": 6.8,
+        "transport": 8.0,
+        "naturalHazards": 7.3
+      },
+      "summary": "Malaga is a safe, welcoming coastal city in southern Spain with crime rates below the national average. Most incidents involve petty theft in tourist areas, while violent crime is rare.",
+      "quickVerdict": "Malaga ranks among Spain's safer cities with a crime rate of 35 per 1,000 residents compared to the national average of 47. The US maintains a Level 2 travel advisory for Spain, but this primarily relates to terrorism risks nationwide rather than local safety concerns. The city enjoys excellent healthcare, modern infrastructure, and visible police presence in tourist areas.",
+      "neighborhoods": [
+        {
+          "name": "Centro Historico (Old Town)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Tourist-friendly historic center with good police presence, well-lit streets, and active nightlife. Popular attractions like the Cathedral and Alcazaba are located here."
+        },
+        {
+          "name": "Soho",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Hip arts district with galleries, restaurants, and modern accommodations. Well-connected to transport and generally safe for solo travelers."
+        },
+        {
+          "name": "La Malagueta (Beach Area)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Beach district near the port with good daytime safety. Evening strolls along the promenade are generally safe but exercise normal caution."
+        },
+        {
+          "name": "Teatinos",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Modern residential area near the university with good transport links via metro. Generally safe but less tourist-oriented."
+        },
+        {
+          "name": "El Perchel",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Undergoing revitalization but still experiences higher petty crime rates. Stick to main streets and avoid poorly lit areas, especially at night."
+        },
+        {
+          "name": "La Trinidad",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Residential area with some gritty sections. Generally safe during daylight but exercise caution at night. Limited tourist infrastructure."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Bird Droppings Scam",
+          "risk": "medium",
+          "description": "Someone squirts liquid on your back, alerts you to fake bird droppings, then offers to clean it while accomplices steal your belongings.",
+          "howToAvoid": "Politely decline help from strangers and be aware of your surroundings when walking through tourist areas."
+        },
+        {
+          "name": "Free Flower/Herb Trick",
+          "risk": "medium",
+          "description": "Women approach offering sweet-smelling flowers or herbs for free, then demand money aggressively once you take them.",
+          "howToAvoid": "Never accept anything handed to you by strangers on the street, even if they claim it's free."
+        },
+        {
+          "name": "Fake Direction Requests",
+          "risk": "high",
+          "description": "Strangers ask for directions and request to see your phone or map, then steal it while you're distracted helping them.",
+          "howToAvoid": "Keep devices secure, give verbal directions only, and be wary if someone insists on handling your phone."
+        },
+        {
+          "name": "Phone Snatch Scam",
+          "risk": "high",
+          "description": "Friendly strangers ask you to check Google Maps on your phone, then snatch it and disappear into crowds once the screen is unlocked.",
+          "howToAvoid": "Never unlock your phone for strangers. Offer verbal directions or point them to tourist information centers instead."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Malaga is very safe for solo female travelers, ranking 75th globally with a 4.5/5 safety rating. Most women report feeling secure walking alone during the day and evening in central areas. The city has a relaxed, welcoming atmosphere with respectful locals and visible police presence.",
+        "tips": [
+          "Stay in well-lit, populated areas like Centro Historico and Soho, especially at night",
+          "Use official taxis with meters or ride-sharing apps like Uber rather than walking alone late at night",
+          "Be extra vigilant in crowded tourist spots like Calle Larios and around the Alcazaba where pickpocketing occurs",
+          "Trust your instincts - if a situation feels uncomfortable, remove yourself immediately",
+          "Keep accommodation details private and don't share your solo travel status with strangers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Malaga's central areas remain lively and relatively safe at night with hundreds of people on the streets. The historic center, Soho, and port areas maintain active nightlife until late evening. However, avoid isolated areas and some neighborhoods like El Perchel and La Trinidad after dark.",
+        "tips": [
+          "Stick to well-populated streets and avoid empty parks or poorly lit residential areas",
+          "Use taxis or ride-sharing for late-night transportation rather than walking alone",
+          "Stay aware of your alcohol consumption to avoid becoming a target for theft",
+          "Keep valuables secure and avoid displaying expensive items like jewelry or electronics",
+          "Travel in groups when possible and let someone know your plans"
+        ]
+      },
+      "transport": {
+        "metro": "Malaga's metro is modern, clean, and safe with two lines connecting key areas. Trains run every 6-8 minutes and have security guards in the evenings. Service extends to 1:30 AM on weekends.",
+        "rideshare": "Uber and Bolt operate in Malaga and are generally reliable and safe. They're often slightly cheaper than traditional taxis and provide driver tracking for added security.",
+        "taxis": "Official taxis are white with blue stripes and use meters. They're regulated, safe, and readily available. Airport to city center costs €20-25. Book through apps like Pidetaxi or hail from designated ranks.",
+        "tips": "Public transport is excellent and safe overall. Buy a rechargeable transport card for cheaper fares. Avoid rush hours when possible as buses and metro can get crowded."
+      },
+      "customs": [
+        "Greet with two kisses on the cheeks (starting right) for informal meetings, handshakes for business",
+        "Arrive 10-15 minutes late to social gatherings - punctuality is more relaxed than northern European standards",
+        "Eat lunch between 2-4 PM and dinner after 9 PM - restaurants may not open until 8:30 PM for dinner",
+        "Dress smartly when going out - avoid sportswear and flip-flops except at the beach",
+        "Tipping is minimal - round up bills or leave small change, 5-10% maximum in upscale restaurants"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare ranking 19th globally in the World Index of Healthcare Innovation. Malaga is covered by Andalusia's health system (SAS) with universal coverage and high-quality care. Life expectancy in Spain is 84 years, well above OECD average.",
+        "water": "Tap water is safe to drink throughout Malaga and meets EU standards. Residents rate water quality as exemplary for safety, taste, and reliability.",
+        "vaccinations": "No vaccinations required for entry. Standard travel vaccines (hepatitis A/B, typhoid) may be recommended by your doctor.",
+        "altitude": "Malaga is at sea level with a Mediterranean climate. Summer temperatures can exceed 40°C (104°F) - stay hydrated and use sun protection. Winter is mild with occasional rain."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091 (National), 092 (Local)",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "US Embassy Madrid: +34 91 587 2200. US Consulate Malaga services available through Fuengirola office: Avenida Juan Gomez Juanito 8, Edificio Lucia 1C, 29640 Fuengirola"
+      },
+      "faq": [
+        {
+          "q": "Is Malaga safe for tourists?",
+          "a": "Yes, Malaga is very safe for tourists with crime rates below the Spanish national average. Most incidents involve petty theft in crowded areas, while violent crime is rare. Police maintain visible presence in tourist zones."
+        },
+        {
+          "q": "Is Malaga safe at night?",
+          "a": "Central areas like the historic quarter, Soho, and port remain active and safe at night with good lighting and foot traffic. Avoid isolated areas and neighborhoods like El Perchel or La Trinidad after dark."
+        },
+        {
+          "q": "Is Malaga safe for solo female travelers?",
+          "a": "Malaga is excellent for solo female travelers, ranking 75th globally with a 4.5/5 safety rating. Most women report feeling secure walking alone during day and evening in central areas. Use normal precautions in tourist hotspots."
+        },
+        {
+          "q": "What areas should I avoid in Malaga?",
+          "a": "Exercise extra caution in El Perchel and La Trinidad neighborhoods, especially at night. Avoid industrial areas like Guadalhorce after dark and deserted beach stretches late at night. Tourist areas are generally very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Malaga?",
+          "a": "Public transport is very safe and modern. The metro has security guards in evenings, buses are clean and punctual, and official taxis are regulated with meters. Pickpocketing can occur on crowded transport, so secure valuables."
+        }
+      ],
+      "relatedCities": [
+        "seville",
+        "granada",
+        "valencia",
+        "barcelona",
+        "madrid"
+      ]
+    },
+    {
+      "slug": "granada",
+      "name": "Granada",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.0,
+        "nightSafety": 7.0,
+        "transport": 7.8,
+        "naturalHazards": 8.0
+      },
+      "summary": "Granada is a very safe Andalusian city with low violent crime rates and excellent tourist infrastructure. The main concerns are petty theft in crowded tourist areas like the Alhambra and Albaicin, but violent crime against tourists is rare. Spain maintains a Level 2 travel advisory from the US State Department due to terrorism concerns.",
+      "quickVerdict": "Granada is one of Spain's safest cities for tourists, consistently ranking among the top destinations for solo travelers and families. With its well-developed infrastructure, friendly locals, and strong police presence, visitors can feel secure exploring this historic gem. While petty theft occurs in tourist hotspots, following basic precautions ensures a worry-free experience. The city's compact size, walkable historic center, and late-night street culture contribute to its overall safety profile.",
+      "neighborhoods": [
+        {
+          "name": "Centro-Sagrario",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The historic city center around Granada Cathedral and Plaza Nueva is well-patrolled and lively throughout the day and evening. Popular tapas areas like Calle Navas are bustling with locals and tourists alike."
+        },
+        {
+          "name": "Realejo",
+          "score": 8.2,
+          "class": "safe",
+          "description": "This charming historic neighborhood below the Alhambra is known for its family-friendly atmosphere, lower crime rates, and regular police patrols. Campo del Principe square is particularly vibrant and secure."
+        },
+        {
+          "name": "Albaicin",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The UNESCO World Heritage Moorish quarter is generally safe during the day with stunning views from Mirador San Nicolas. Exercise extra caution on narrow winding streets at night and be aware of pickpockets in tourist areas."
+        },
+        {
+          "name": "Cartuja",
+          "score": 7.8,
+          "class": "safe",
+          "description": "University area popular with students and young travelers. Well-connected by public transport and maintains good safety standards, especially around the campus areas."
+        },
+        {
+          "name": "Sacromonte",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Famous cave district known for flamenco shows. While culturally significant, some areas can feel isolated at night. Best visited with guided tours, especially for evening flamenco performances."
+        },
+        {
+          "name": "Chana",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Northern residential area with higher crime rates and less tourist-friendly atmosphere. The bus station area requires particular caution, especially at night. Most tourists have no reason to visit this area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Lucky Charm Distraction",
+          "risk": "high",
+          "description": "People approach tourists offering rosemary sprigs or other 'lucky charms' while accomplices pickpocket belongings. Common near Alhambra and Plaza Nueva.",
+          "howToAvoid": "Politely decline any unsolicited gifts or interactions. Keep bags zipped and in front of you. Say 'no gracias' firmly and keep walking."
+        },
+        {
+          "name": "Petition Signature Scam",
+          "risk": "medium",
+          "description": "Individuals with clipboards ask tourists to sign fake petitions for charities while accomplices steal wallets or phones from distracted victims.",
+          "howToAvoid": "Never sign petitions from strangers on the street. Keep valuables secure and be suspicious of anyone trying to get your attention in crowded areas."
+        },
+        {
+          "name": "Overpriced Tour Guides",
+          "risk": "medium",
+          "description": "Unofficial guides near the Alhambra offer tours at inflated prices or provide misleading information, sometimes pressuring tourists to pay upfront.",
+          "howToAvoid": "Book tours only through official channels, reputable companies, or the Granada Tourism Office. Verify credentials and prices before agreeing to any tour."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some taxi drivers may take longer routes, refuse to use the meter, or charge excessive fares, especially from the airport or tourist areas.",
+          "howToAvoid": "Use official white taxis with green bands, ensure the meter is running, or agree on a fare beforehand. Use ride-sharing apps as alternatives."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Granada is very safe for solo female travelers, with most women reporting feeling secure even when walking alone. The city has a strong street life culture that extends late into the evening, providing natural safety in numbers. Spain ranks 32nd in the Global Peace Index, making it one of the safer European destinations. However, some verbal harassment can occur, particularly in nightlife areas.",
+        "tips": [
+          "Stay in well-lit, populated areas especially at night",
+          "Trust your instincts and remove yourself from uncomfortable situations",
+          "Consider joining group tours or activities to meet other travelers safely",
+          "Keep emergency contacts readily available and inform someone of your plans",
+          "Use licensed taxis for late-night transportation rather than walking alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Granada has a vibrant nightlife scene centered around tapas culture and flamenco shows. The streets remain lively until late with families, students, and tourists creating a safe atmosphere. Most nightlife areas like Calle Elvira and Calle Navas are generally secure with good foot traffic until the early hours.",
+        "tips": [
+          "Stick to main streets and well-lit areas after dark",
+          "Watch your drink and never accept drinks from strangers",
+          "Use official taxis for late-night transport rather than walking alone",
+          "Stay with groups when bar-hopping through different neighborhoods",
+          "Be particularly cautious in the narrow streets of Albaicin and Sacromonte at night"
+        ]
+      },
+      "transport": {
+        "metro": "Granada has a modern metro/tram system with 26 stations connecting the city center to suburban areas. It's safe and efficient, though it doesn't reach the historic center or most tourist attractions. Single tickets cost around €1.40 with the Credibus card offering better value.",
+        "rideshare": "Uber and local ride-sharing apps operate safely in Granada. Use official pickup points and verify driver details. Payment by card through the app is recommended for transparency.",
+        "taxis": "Official white taxis with green bands are safe and regulated. Ensure the meter is running or agree on fares beforehand. From the airport to city center costs approximately €30. Taxis are abundant around tourist areas.",
+        "tips": "Public buses are safe and cover most areas including the Alhambra (lines C30, C32). Buy a Credibus card for discounted fares. Be aware of pickpockets on crowded buses. Walking is safe during daytime in central areas."
+      },
+      "customs": [
+        "Greet with two kisses on the cheek for friends, handshakes for formal meetings",
+        "Dinner is typically served late (9pm or later) and meals are leisurely social affairs",
+        "Tapas culture is central - order drinks at the bar and receive free tapas in many establishments",
+        "Dress modestly when visiting religious sites like churches and the Alhambra",
+        "Tipping 5-10% is appreciated in restaurants but not mandatory as service is often included"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare infrastructure with about 4 doctors and 6 nurses per 1,000 inhabitants. Granada has several high-quality hospitals including Hospital Vithas Granada and public healthcare through Seguridad Social. Medical care is readily available and meets international standards.",
+        "water": "Tap water in Granada is safe to drink and sourced from the Sierra Nevada mountains. The water is softer with low mineral content compared to other Spanish cities. While safe, some visitors prefer bottled water due to taste preferences from chlorine treatment.",
+        "vaccinations": "No special vaccinations are required for Spain. Routine vaccinations should be up to date. Spain follows EU vaccination schedules with high coverage rates exceeding 95% for standard vaccines.",
+        "altitude": "Granada sits at 2,400 feet above sea level which may cause mild altitude effects for some visitors. The climate is continental with hot summers (can exceed 104°F) and cold winters. Stay hydrated and use sun protection, especially in summer months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091",
+        "ambulance": "112",
+        "fire": "080",
+        "touristPolice": "091",
+        "usEmbassy": "US Embassy Madrid: +34 91 587 2200. Consular services available for US citizens. Granada Tourism Office: +34 958 575 202 for local assistance and information."
+      },
+      "faq": [
+        {
+          "q": "Is Granada safe for tourists?",
+          "a": "Yes, Granada is very safe for tourists with low violent crime rates. It consistently ranks among Spain's safest cities. The main concerns are petty theft in crowded areas, which can be avoided with basic precautions like securing valuables and staying aware of surroundings."
+        },
+        {
+          "q": "Is Granada safe at night?",
+          "a": "Granada is generally safe at night with lively streets and good foot traffic until late hours. The tapas culture and nightlife scene keep main areas populated. However, use caution in narrow Albaicin streets and always use licensed taxis for late-night transport."
+        },
+        {
+          "q": "Is Granada safe for solo female travelers?",
+          "a": "Granada is very safe for solo female travelers, with many women reporting feeling secure walking alone. The city's social culture and street life provide natural safety. Stay in well-lit areas at night and trust your instincts if situations feel uncomfortable."
+        },
+        {
+          "q": "What areas should I avoid in Granada?",
+          "a": "The Chana neighborhood in the north has higher crime rates and should be avoided, especially at night. Exercise extra caution around the bus station area. While Sacromonte is culturally important, some cave areas can feel isolated - visit with tours, especially in the evening."
+        },
+        {
+          "q": "Is it safe to use public transport in Granada?",
+          "a": "Yes, Granada's public transport is safe and reliable. The metro/tram system and city buses are well-maintained with good security. Watch for pickpockets on crowded buses, especially tourist routes to the Alhambra. Taxis are safe when using official white cabs with green bands."
+        }
+      ],
+      "relatedCities": [
+        "seville",
+        "cordoba",
+        "malaga"
+      ]
+    },
+    {
+      "slug": "bilbao",
+      "name": "Bilbao",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 8.2,
+        "scamRisk": 6.5,
+        "womensSafety": 7.8,
+        "nightSafety": 7.2,
+        "transport": 8.1,
+        "naturalHazards": 8.5
+      },
+      "summary": "Bilbao is considered one of Spain's safer cities, with low violent crime rates and excellent public infrastructure. While petty crime like pickpocketing occurs in tourist areas, the city maintains strong safety standards and ranks highly for solo female travel.",
+      "quickVerdict": "Bilbao offers an excellent safety profile for tourists with its modern infrastructure, low violent crime rates, and well-functioning public services. The main concerns are petty crimes like pickpocketing in crowded areas and tourist scams, which are easily avoided with basic precautions. The city is particularly safe for solo female travelers and has vibrant nightlife in well-lit, populated areas.",
+      "neighborhoods": [
+        {
+          "name": "Casco Viejo (Old Town)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The historic heart of Bilbao with narrow pedestrian streets, pintxos bars, and tourist attractions. Generally safe during day and evening hours with good foot traffic, though pickpockets may operate in crowded areas around major sights."
+        },
+        {
+          "name": "Indautxu",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Modern commercial district with excellent shopping, restaurants, and nightlife. Well-lit streets, strong police presence, and busy atmosphere make it very safe for tourists day and night."
+        },
+        {
+          "name": "Abando",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Central business district home to the Guggenheim Museum and main transport hubs. Very safe with modern infrastructure, though train and metro stations require standard vigilance for pickpockets."
+        },
+        {
+          "name": "Deusto",
+          "score": 7.8,
+          "class": "safe",
+          "description": "University district across the river with a youthful atmosphere. Generally safe with good lighting and regular police patrols, popular with students and young professionals."
+        },
+        {
+          "name": "San Francisco",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Traditionally known as a red-light district with higher crime rates. Avoid this area, especially at night, as it has the highest concentration of petty crime, drug activity, and occasional violent incidents in the city."
+        },
+        {
+          "name": "Moyua",
+          "score": 8.3,
+          "class": "safe",
+          "description": "Upscale area surrounding the central plaza with high-end shops and restaurants. Excellent safety record with strong security presence and well-maintained public spaces."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Rosemary Fortune Telling",
+          "risk": "medium",
+          "description": "Roma women approach tourists offering free rosemary sprigs, then demand payment for fortune telling or pickpocket while distracted.",
+          "howToAvoid": "Politely decline any free items from strangers. Keep walking and avoid engaging with persistent street vendors."
+        },
+        {
+          "name": "Shell Game (Trileros)",
+          "risk": "high",
+          "description": "Street gambling games using cups and balls with accomplices posing as winners to lure tourists into betting money they will inevitably lose.",
+          "howToAvoid": "Never participate in street gambling games. These are always rigged scams designed to separate tourists from their money."
+        },
+        {
+          "name": "Restaurant Overcharging",
+          "risk": "medium",
+          "description": "Some tourist-oriented restaurants may overcharge for items not ordered, add excessive service charges, or inflate prices on unmarked menu items.",
+          "howToAvoid": "Always check bills carefully, ask for prices upfront if not marked, and choose restaurants with clear pricing. Avoid places with staff aggressively soliciting customers outside."
+        },
+        {
+          "name": "Fake Taxi Overcharging",
+          "risk": "low",
+          "description": "Some taxi drivers may attempt to overcharge tourists by taking longer routes, claiming the meter is broken, or demanding excessive tips.",
+          "howToAvoid": "Use only official white taxis with green lights and insist on using the meter. Learn basic route knowledge and have small bills ready to avoid tip pressure."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bilbao ranks highly for solo female travel safety with locals generally respectful and helpful toward women travelers. The city has low rates of harassment and violent crime, with good infrastructure for independent exploration. Standard precautions apply, particularly avoiding the San Francisco area and staying alert when out at night.",
+        "tips": [
+          "Stay in central areas like Casco Viejo, Indautxu, or Abando for better safety and access to services",
+          "Use official taxis or public transport for late-night travel rather than walking alone through deserted areas",
+          "Share your itinerary with someone and check in regularly during your trip"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bilbao's nightlife is generally safe, especially in popular areas that remain busy until late. The city center stays lively with locals and tourists, providing natural security through foot traffic. However, extra caution is needed in quieter neighborhoods and the San Francisco district should be avoided entirely after dark.",
+        "tips": [
+          "Stick to well-lit main streets and avoid shortcuts through empty alleyways or parks",
+          "Pre-plan your route home and have taxi numbers or rideshare apps ready",
+          "Don't accept drinks from strangers and keep your own beverages in sight at bars and clubs"
+        ]
+      },
+      "transport": {
+        "metro": "Metro Bilbao is modern, clean, and very safe with regular security patrols and CCTV coverage. The three-line system efficiently connects major attractions and neighborhoods. Watch for pickpockets during rush hours and keep bags secure.",
+        "rideshare": "Uber and local ride-sharing services operate safely in Bilbao with regulated drivers and GPS tracking. Generally reliable and convenient for tourists, especially for late-night travel.",
+        "taxis": "Official taxis are white with red stripes and green lights when available. Generally safe and reliable, though some drivers may attempt to overcharge tourists. Always use the meter and have the destination address written down.",
+        "tips": "Public transport is excellent and cost-effective with the Barik card providing discounts across all services. Avoid unmarked cabs and be vigilant with belongings on crowded buses and trains."
+      },
+      "customs": [
+        "Greet with handshakes or cheek kisses (two kisses starting from left cheek for close friends)",
+        "Meal times are later than many countries - lunch 2-4pm, dinner after 9pm",
+        "Dress modestly when visiting churches and religious sites, covering shoulders and knees"
+      ],
+      "health": {
+        "overview": "Bilbao offers excellent healthcare facilities with modern hospitals and clinics. Spain's healthcare system is among Europe's best, and visitors can access emergency services easily. No special vaccinations are required.",
+        "water": "Tap water is safe to drink throughout Bilbao and meets EU quality standards. Bottled water is widely available if preferred.",
+        "vaccinations": "No special vaccinations required for Spain. Routine vaccines should be up to date including measles, DPT, flu, and COVID-19 as recommended.",
+        "altitude": "Bilbao is at sea level with an oceanic climate. Mild temperatures year-round with frequent light rain, especially in winter. No altitude-related health concerns."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091 (National Police), 092 (Local Police)",
+        "ambulance": "061",
+        "fire": "080 or 085",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "US Consulate General in Barcelona: +34 932 802 227. For emergencies involving US citizens, call the US Embassy in Madrid at +34 915 872 200."
+      },
+      "faq": [
+        {
+          "q": "Is Bilbao safe for tourists?",
+          "a": "Yes, Bilbao is very safe for tourists and consistently ranks as one of Spain's safest cities. Violent crime is rare, and the main concerns are petty crimes like pickpocketing in crowded tourist areas."
+        },
+        {
+          "q": "Is Bilbao safe at night?",
+          "a": "Bilbao is generally safe at night, especially in the city center and popular nightlife areas. Stick to well-lit, busy streets and avoid the San Francisco neighborhood after dark."
+        },
+        {
+          "q": "Is Bilbao safe for solo female travelers?",
+          "a": "Yes, Bilbao ranks highly for solo female travel safety. Women report feeling comfortable exploring independently, though standard precautions like avoiding deserted areas at night still apply."
+        },
+        {
+          "q": "What areas should I avoid in Bilbao?",
+          "a": "The main area to avoid is the San Francisco neighborhood, particularly the streets around Cortes and San Francisco, which has higher crime rates. Otherwise, central areas are very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Bilbao?",
+          "a": "Yes, Bilbao's public transport is very safe, modern, and efficient. The metro, buses, and trams are well-maintained with security measures. Just watch for pickpockets during busy periods."
+        }
+      ],
+      "relatedCities": [
+        "barcelona",
+        "madrid",
+        "san-sebastian",
+        "valencia"
+      ]
+    },
+    {
+      "slug": "san-sebastian",
+      "name": "San Sebastian",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.8,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 8.2,
+        "transport": 8.3,
+        "naturalHazards": 8.4
+      },
+      "summary": "San Sebastian is one of Spain's safest cities with very low violent crime rates and excellent safety ratings for solo travelers. The main concerns are minor pickpocketing in tourist areas and occasional scams, typical of any popular destination. The city maintains high safety standards day and night.",
+      "quickVerdict": "San Sebastian stands out as an exceptionally safe destination in Spain's Basque Country. With a crime index of just 29.83 out of 100, violent crime is virtually nonexistent and the city maintains excellent safety standards for all travelers, including solo women. The compact size, well-lit streets, friendly locals, and strong police presence create a secure environment. While minor pickpocketing can occur in crowded areas like the Old Town, serious safety concerns are rare. The city's sophisticated dining scene, beautiful beaches, and walkable neighborhoods make it ideal for relaxed, worry-free exploration.",
+      "neighborhoods": [
+        {
+          "name": "Parte Vieja (Old Town)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The historic heart filled with pintxos bars and narrow streets. Generally very safe but watch for pickpockets in crowded areas, especially during evening tapas hours."
+        },
+        {
+          "name": "Centro",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The elegant city center with upscale shopping and dining. Well-lit, well-patrolled, and considered one of the safest areas for tourists and solo travelers."
+        },
+        {
+          "name": "La Concha",
+          "score": 8.7,
+          "class": "safe",
+          "description": "The famous beach promenade area. Extremely safe with regular foot traffic and good lighting. Popular for evening strolls and generally crime-free."
+        },
+        {
+          "name": "Gros",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Trendy neighborhood near Zurriola Beach with a younger, surfer vibe. Safe area with good nightlife options, though can get lively on weekends."
+        },
+        {
+          "name": "Egia",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Residential area that's generally safe but quieter at night. Some nightlife venues here can get rowdy, but serious crime is rare."
+        },
+        {
+          "name": "Train/Bus Station Area",
+          "score": 6.8,
+          "class": "caution",
+          "description": "The area around transport hubs has slightly higher petty crime rates, especially after dark. Exercise normal caution and avoid lingering alone late at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "medium",
+          "description": "Someone spills something on you or drops an item while accomplices pick your pockets. Common in crowded pintxos bars.",
+          "howToAvoid": "Keep bags in front, stay alert in crowds, politely refuse help from strangers offering to clean spills."
+        },
+        {
+          "name": "Overpriced Tourist Menus",
+          "risk": "medium",
+          "description": "Restaurants near major attractions may offer inflated prices or menus without clear pricing for tourists.",
+          "howToAvoid": "Always ask for a menu with prices, compare costs at multiple establishments, eat where locals dine."
+        },
+        {
+          "name": "Fake Charity Petitions",
+          "risk": "low",
+          "description": "People approach tourists asking to sign petitions while accomplices attempt pickpocketing during the distraction.",
+          "howToAvoid": "Politely decline to sign petitions from strangers, keep valuables secure, walk away if pressured."
+        },
+        {
+          "name": "Beach Bag Theft",
+          "risk": "low",
+          "description": "Opportunistic theft of unattended bags while swimming at La Concha or other beaches.",
+          "howToAvoid": "Never leave valuables unattended on the beach, use hotel safes, cover bags with towels, swim in pairs."
+        }
+      ],
+      "soloFemale": {
+        "overview": "San Sebastian is exceptionally safe for solo female travelers, ranking as the 11th safest place in Spain with a 4.5/5 safety rating. Women regularly walk alone day and night without incident, and the city's compact size and friendly atmosphere make it ideal for independent exploration. Local women report feeling very free and safe throughout the city.",
+        "tips": [
+          "The city is perfectly safe for evening walks along La Concha beach and through well-lit streets",
+          "Solo dining is completely normal and locals are helpful with restaurant recommendations",
+          "Use crossbody bags in crowded pintxos areas and keep valuables secure",
+          "Trust your instincts but know that catcalling and harassment are uncommon",
+          "Take advantage of the excellent public transport and official taxi services"
+        ]
+      },
+      "nightSafety": {
+        "overview": "San Sebastian maintains excellent safety standards after dark with well-lit streets, active nightlife, and regular police presence. The compact city center stays lively until late, and violent crime at night is virtually nonexistent. The Basque culture emphasizes safety and community, making evening exploration comfortable and secure.",
+        "tips": [
+          "Stick to well-lit main streets and avoid completely deserted areas",
+          "The Old Town stays busy with pintxos bar-hoppers until late, providing natural safety in numbers",
+          "Use official taxis or public transport for longer distances at night",
+          "Solo travelers can safely enjoy the nightlife scene with basic precautions"
+        ]
+      },
+      "transport": {
+        "metro": "San Sebastian doesn't have a metro system, but it has an excellent urban bus network (Dbus) operating from 7:30am to 10:30pm, with night buses (Búhos) on weekends from midnight to 4am.",
+        "rideshare": "Uber and Cabify operate in San Sebastian and are safe, reliable options. The apps work well and provide additional safety features like trip sharing and driver ratings.",
+        "taxis": "Taxis operate 24/7 with official meters and set rates. Unlike other cities, you can't hail taxis on the street - use designated taxi ranks or call ahead. Very safe and reliable.",
+        "tips": "Public transport is extremely safe even late at night. The compact city size makes walking feasible for most destinations. Bike rentals are available and the city is bike-friendly."
+      },
+      "customs": [
+        "Greet with two kisses on the cheeks (right cheek first) in social situations, handshakes for business",
+        "Dinner is typically eaten between 9-11pm, much later than other countries - don't show up to restaurants too early",
+        "Respect Basque cultural identity - many locals identify as Basque first, Spanish second, and may speak Euskera"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare standards with comprehensive medical facilities accessible throughout San Sebastian. The public healthcare system is well-developed and private care is readily available.",
+        "water": "Tap water is completely safe to drink throughout San Sebastian and meets high European Union standards. Most locals drink tap water without concern.",
+        "vaccinations": "No specific vaccinations required for Spain. Standard travel vaccinations like Hepatitis A and routine immunizations (MMR, DPT) are recommended. EU travelers should carry EHIC/GHIC cards.",
+        "altitude": "San Sebastian is at sea level with a mild oceanic climate. Summers can be warm but temperatures rarely exceed uncomfortable levels. Rain is common, especially in winter months."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091 (National Police), 092 (Local Police)",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "For US citizens: +34 91-587-2200 (Madrid Embassy). Emergency services speak multiple languages including English."
+      },
+      "faq": [
+        {
+          "q": "Is San Sebastian safe for tourists?",
+          "a": "Yes, San Sebastian is extremely safe for tourists with very low crime rates. It ranks among Spain's safest cities with a crime index of just 29.83. Violent crime against tourists is virtually nonexistent, with only minor pickpocketing being a concern in busy areas."
+        },
+        {
+          "q": "Is San Sebastian safe at night?",
+          "a": "San Sebastian is very safe at night with well-lit streets and active nightlife. The city stays lively until late, especially in the Old Town with its pintxos bars. Solo travelers, including women, regularly walk around safely after dark."
+        },
+        {
+          "q": "Is San Sebastian safe for solo female travelers?",
+          "a": "Absolutely. San Sebastian ranks as the 11th safest place in Spain for solo female travelers with a 4.5/5 safety rating. Women feel very comfortable exploring alone, dining solo, and walking at night. Local harassment is uncommon."
+        },
+        {
+          "q": "What areas should I avoid in San Sebastian?",
+          "a": "San Sebastian has no truly dangerous areas to avoid completely. Exercise slightly more caution around the train and bus station areas after dark, and be aware of pickpockets in crowded parts of the Old Town during peak pintxos hours."
+        },
+        {
+          "q": "Is it safe to use public transport in San Sebastian?",
+          "a": "Yes, public transport in San Sebastian is very safe and reliable. The bus system operates efficiently with good coverage, and there are night buses on weekends. Taxis are official, metered, and trustworthy. Even late-night transport is considered safe."
+        }
+      ],
+      "relatedCities": [
+        "bilbao",
+        "madrid",
+        "barcelona",
+        "valencia",
+        "seville",
+        "porto"
+      ]
+    },
+    {
+      "slug": "palma-de-mallorca",
+      "name": "Palma de Mallorca",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.8,
+        "nightSafety": 6.8,
+        "transport": 7.5,
+        "naturalHazards": 8.2
+      },
+      "summary": "Palma de Mallorca is generally a safe Mediterranean destination with low violent crime rates and excellent healthcare. The main concerns are petty theft and pickpocketing in tourist areas, particularly around the Cathedral and busy squares. Spain maintains a Level 2 travel advisory recommending increased caution due to terrorism risks, but overall the city is considered safer than many European capitals.",
+      "quickVerdict": "Palma de Mallorca is a safe destination for tourists with crime rates significantly lower than major European cities like Paris or London. While petty theft and pickpocketing occur in crowded tourist areas, violent crime is rare. The city has excellent healthcare facilities, reliable public transport, and strong police presence in tourist zones. Solo female travelers generally feel safe, especially during daylight hours. Night safety is good in well-lit central areas, though caution is advised in less crowded neighborhoods after dark.",
+      "neighborhoods": [
+        {
+          "name": "Old Town",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Historic center with major attractions like the Cathedral. Well-patrolled tourist area with good lighting and plenty of people, though pickpockets target crowds around major sights."
+        },
+        {
+          "name": "Santa Catalina",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy neighborhood with vibrant nightlife, restaurants and galleries. Generally safe but requires vigilance at night due to busy bars and potential for petty crime."
+        },
+        {
+          "name": "La Lonja",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Popular nightlife district with many bars and restaurants. Well-lit and busy area with regular police presence, though crowds can attract pickpockets."
+        },
+        {
+          "name": "Son Gotleu",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Residential area with higher crime rates including drug activity and violence. Local authorities advise avoiding this neighborhood, especially at night."
+        },
+        {
+          "name": "Son Banya",
+          "score": 2.8,
+          "class": "danger",
+          "description": "Known drug distribution hub on city outskirts with high crime rates. Considered one of the most dangerous areas in Mallorca and should be avoided entirely."
+        },
+        {
+          "name": "El Arenal",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Tourist resort area with party atmosphere. While popular for nightlife, the area has increased crime risks due to crowds, alcohol consumption, and tourist-targeting crimes."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Cup and Ball Game (Trile)",
+          "risk": "high",
+          "description": "Street scammers use three cups and a ball, asking tourists to bet on which cup hides the ball. The object is secretly removed, making it impossible to win.",
+          "howToAvoid": "Never participate in street gambling games. Walk away immediately from anyone offering these games, especially near tourist areas."
+        },
+        {
+          "name": "Phone Direction Scam",
+          "risk": "high",
+          "description": "Friendly strangers approach tourists asking for help with Google Maps directions, then snatch the unlocked phone and disappear into crowds.",
+          "howToAvoid": "Never hand your unlocked phone to strangers. Offer to help verbally or point them to information centers instead."
+        },
+        {
+          "name": "Fake Camera Damage",
+          "risk": "medium",
+          "description": "Scammers ask tourists to take their photo, then intentionally drop the camera when it's returned, claiming the tourist broke it and demanding compensation.",
+          "howToAvoid": "Politely decline to take photos for strangers unless they are clearly fellow tourists. If you must help, be extremely careful when handling their device."
+        },
+        {
+          "name": "Tourist Price Inflation",
+          "risk": "medium",
+          "description": "Some vendors and restaurants charge tourists significantly higher prices than locals for goods and services, especially in major tourist areas.",
+          "howToAvoid": "Research standard prices beforehand, ask for menus with prices, compare costs at different establishments, and consider shopping where locals go."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Palma de Mallorca is generally very safe for solo female travelers, ranking among the top destinations in Europe for women traveling alone. The city has well-lit streets, friendly locals, and a strong police presence in tourist areas. During daylight hours, safety levels are exceptionally high with a rating of 81.9 out of 100. However, nighttime safety drops to 61.1, requiring more caution in less crowded or poorly lit areas.",
+        "tips": [
+          "Stay in central, well-lit areas at night and avoid walking alone in empty streets or parks",
+          "Use official taxis or reliable rideshare services late at night rather than walking long distances",
+          "Keep valuables secure and be extra vigilant in crowded tourist areas where pickpockets operate",
+          "Trust your instincts and avoid accepting drinks from strangers or leaving drinks unattended in bars"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Palma's nightlife areas like La Lonja and Santa Catalina are generally safe with good lighting and police presence, but caution is needed in less central areas. The safety rating drops from 80.49 during the day to 59.24 at night. Most violent crime occurs in nightlife settings where alcohol is involved, particularly in party areas like Magaluf. Areas like Son Banya and Son Gotleu should be avoided completely after dark.",
+        "tips": [
+          "Stick to well-lit, busy areas with plenty of people and avoid isolated streets or empty squares",
+          "Travel in groups when possible and always let someone know your plans",
+          "Use official taxis or rideshare apps for transportation late at night",
+          "Be extra cautious in party districts and never leave drinks unattended"
+        ]
+      },
+      "transport": {
+        "metro": "Palma's metro system has one active line (M1) running from the city center to the university and technology park. It operates from early morning to late evening with modern trains and is generally safe, though services are limited on weekends. A single ticket costs €1.80.",
+        "rideshare": "Uber does not operate in Mallorca. Travelers must rely on official taxis or public transport. Some private transfer services can be booked in advance through hotels or online platforms.",
+        "taxis": "Official taxis are considered safe and reliable with licensed drivers. Most taxis require cash payment as card machines are not universally available. Fares from the airport to city center cost approximately €25-30. Always use official taxi stands or call licensed services.",
+        "tips": "Public buses (EMT) are safe and efficient for city travel, costing €2 per single journey. The A1 airport bus provides reliable connection to the city center for €5. Always keep belongings secure on public transport and be aware of pickpockets during peak hours."
+      },
+      "customs": [
+        "Greet people with handshakes or cheek kisses (among friends), and always say hello when entering shops or restaurants",
+        "Eat dinner late (after 9pm) and expect leisurely meals with extended conversation time (sobremesa) after eating",
+        "Respect siesta hours (2pm-5pm) when many shops close, and avoid making noise during these traditional rest periods",
+        "Dress appropriately for churches and avoid wearing swimwear away from beach areas - cover shoulders and knees in religious sites",
+        "Tip modestly (5-10%) only for exceptional service as waiters earn living wages, and splitting bills equally (pagar a pachas) is common"
+      ],
+      "health": {
+        "overview": "Spain has excellent healthcare with both public and private options. EU visitors can use EHIC cards for emergency treatment. Major hospitals include Hospital Universitari Son Espases and Hospital Son Llàtzer, both offering 24-hour emergency services.",
+        "water": "Tap water is safe to drink throughout Palma, though many restaurants serve bottled water. The water quality meets European standards and poses no health risks to tourists.",
+        "vaccinations": "No special vaccinations are required for Spain. Standard travel vaccinations (MMR, Hepatitis A/B) are recommended but not mandatory for entry.",
+        "altitude": "Palma is at sea level with a Mediterranean climate. Summer temperatures can exceed 30°C (86°F), so sun protection and hydration are important. The climate is generally healthy with mild winters and warm summers."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091 (National) / 092 (Local)",
+        "ambulance": "061",
+        "fire": "080 / 085",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "US Consulate Barcelona covers Balearic Islands: +34 93 280 2227. For emergencies involving US citizens, contact +34 91 714 6300."
+      },
+      "faq": [
+        {
+          "q": "Is Palma de Mallorca safe for tourists?",
+          "a": "Yes, Palma is generally very safe for tourists with crime rates lower than major European cities like Paris or London. The main concerns are petty theft and pickpocketing in crowded tourist areas, while violent crime against tourists is rare."
+        },
+        {
+          "q": "Is Palma de Mallorca safe at night?",
+          "a": "Central areas like the Old Town and La Lonja are generally safe at night with good lighting and police presence. However, avoid poorly lit areas and neighborhoods like Son Banya or Son Gotleu after dark. Use taxis for longer distances at night."
+        },
+        {
+          "q": "Is Palma de Mallorca safe for solo female travelers?",
+          "a": "Yes, Palma is considered very safe for solo female travelers and ranks highly among European destinations for women traveling alone. Exercise normal precautions, especially at night, and stay in well-populated, well-lit areas."
+        },
+        {
+          "q": "What areas should I avoid in Palma de Mallorca?",
+          "a": "Avoid Son Banya (known for drug activity), Son Gotleu (high crime rates), and El Rafal Nou, especially at night. While not typically tourist areas, these neighborhoods have higher crime rates than the city center."
+        },
+        {
+          "q": "Is it safe to use public transport in Palma de Mallorca?",
+          "a": "Yes, public transport including buses and the metro is generally safe and reliable. Keep belongings secure and be aware of pickpockets during peak hours, but the transport system is well-maintained and regularly patrolled."
+        }
+      ],
+      "relatedCities": [
+        "barcelona",
+        "valencia",
+        "madrid",
+        "seville",
+        "malaga"
+      ]
     }
   ]
 }

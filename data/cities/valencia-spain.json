@@ -1,0 +1,159 @@
+{
+  "slug": "valencia",
+  "name": "Valencia",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.1,
+    "transport": 8.2,
+    "naturalHazards": 6.9
+  },
+  "summary": "Valencia is one of Spain's safest major cities, with very low violent crime rates and a welcoming atmosphere for tourists. While petty crime like pickpocketing occurs in crowded areas, serious safety concerns are rare, making it an excellent destination for all types of travelers.",
+  "quickVerdict": "Valencia consistently ranks as one of Europe's safest cities with a crime index of just 31.5. The city offers excellent public transport, quality healthcare, and a strong police presence in tourist areas. While visitors should remain vigilant against pickpockets, especially during festivals like Las Fallas, violent crime is exceptionally rare. The recent 2024 floods highlighted some natural disaster risks, but the city's infrastructure and emergency response systems are generally robust.",
+  "neighborhoods": [
+    {
+      "name": "Ciudad Vella (Old Town)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The historic center is generally safe during the day with good police presence, though some areas like El Carmen can be quieter after dark. Main tourist attractions are well-patrolled and secure."
+    },
+    {
+      "name": "Ruzafa",
+      "score": 8.2,
+      "class": "safe",
+      "description": "One of Valencia's trendiest neighborhoods with excellent nightlife, cafes, and restaurants. Well-lit streets and active nightlife scene make it safe for evening strolls and dining."
+    },
+    {
+      "name": "City of Arts and Sciences",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern cultural district with excellent lighting, security, and regular police patrols. Very safe for tourists visiting museums and attractions during day and evening hours."
+    },
+    {
+      "name": "Malvarrosa Beach",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Popular beach area that's generally safe during the day but can see increased petty theft during peak tourist season. Beach-adjacent areas have good police presence but require standard precautions."
+    },
+    {
+      "name": "El Cabanyal",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Historic maritime neighborhood undergoing urban renewal but still reports higher rates of petty crime, drug-related incidents, and theft. Exercise caution, especially at night."
+    },
+    {
+      "name": "Els Orriols",
+      "score": 4.1,
+      "class": "danger",
+      "description": "Residential area with higher crime rates per capita including frequent thefts, burglaries, and local disputes. High population density and socioeconomic challenges contribute to security concerns."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Teams work together - one distracts you with questions, spilled drinks, or fake petitions while accomplices steal from bags and pockets.",
+      "howToAvoid": "Keep bags secure in front of body, be wary of unsolicited approaches, and immediately check belongings after any unexpected interaction."
+    },
+    {
+      "name": "Festival Pickpocketing",
+      "risk": "high",
+      "description": "During Las Fallas and other festivals, professional pickpocket gangs target crowded areas to steal wallets, phones, and valuables from distracted tourists.",
+      "howToAvoid": "Use money belts, avoid bringing valuables to festivals, stay aware of surroundings in crowds, and keep phones secured."
+    },
+    {
+      "name": "Street Shell Game",
+      "risk": "medium",
+      "description": "Con artists invite tourists to guess which cup hides a ball for money, using sleight of hand and distraction to ensure you always lose.",
+      "howToAvoid": "Never participate in street games or gambling, walk confidently past without stopping, and don't engage with persistent operators."
+    },
+    {
+      "name": "Overpriced Taxi Scams",
+      "risk": "medium",
+      "description": "Some taxi drivers claim broken meters, take longer routes, or demand upfront payment, especially targeting tourists at airports and stations.",
+      "howToAvoid": "Use official taxis with working meters, ride-sharing apps like Cabify, or pre-book transfers. Always agree on fares beforehand if meter is broken."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Valencia is excellent for solo female travelers, ranking as Spain's third safest major city with high safety scores for both day and nighttime activities. Women report feeling secure walking alone during daylight hours and in well-lit areas at night. The city has strong local support networks and female-friendly accommodations.",
+    "tips": [
+      "Stay in well-reviewed central areas like Ruzafa or near Ciudad Vella for better safety and nightlife access",
+      "Use the 'Paradas Violeta' program on night buses - drivers will stop closer to your destination after 10:30 PM for safety",
+      "Join walking tours or group activities to meet other travelers and locals safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Valencia's nightlife is generally safe with a vibrant scene in neighborhoods like Ruzafa and El Carmen. The city maintains good lighting and police presence in main nightlife areas, though some quieter streets in El Carmen can be less populated after dark.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially in El Carmen after midnight",
+      "Use official taxis or ride-sharing apps like Cabify rather than walking alone late at night",
+      "Never leave drinks unattended and plan your route home in advance"
+    ]
+  },
+  "transport": {
+    "metro": "Valencia's Metrovalencia system is safe and efficient with 10 lines covering the city and airport. Modern trains run frequently with security cameras and emergency buttons. Night services extend until late on weekends.",
+    "rideshare": "Cabify is more popular than Uber in Valencia and offers reliable, safe transportation. Free Now is also widely used for booking official taxis with fixed fares or meters.",
+    "taxis": "Official white taxis with green lights are safe and regulated with working meters. Available 24/7 at stands, by phone, or hailed on streets. Wheelchair-accessible vehicles available by advance booking.",
+    "tips": "Download EMT Valencia app for real-time bus information and the SUMA travel card for seamless multi-modal transport including metro, buses, and trams."
+  },
+  "customs": [
+    "Greet with handshakes in formal settings or two cheek kisses (starting right cheek) among friends and acquaintances",
+    "Dress more formally than typical tourist attire - smart casual is preferred over very casual clothing in restaurants and public spaces",
+    "Respect siesta hours (2-5 PM) when many businesses close and maintain quieter behavior in residential areas"
+  ],
+  "health": {
+    "overview": "Spain has an excellent public healthcare system with well-staffed hospitals and clinics throughout Valencia. Medical facilities meet high European standards with English-speaking staff available in major hospitals.",
+    "water": "Tap water is completely safe to drink throughout Valencia and meets strict EU quality standards. Over 90% of samples consistently pass health regulations and the water is regularly tested.",
+    "vaccinations": "No special vaccinations required for Spain. Standard travel vaccinations like Hepatitis A/B and routine immunizations are recommended as usual travel precautions.",
+    "altitude": "Valencia is at sea level with a Mediterranean climate. Summers can be very hot with temperatures exceeding 104°F, requiring proper hydration and sun protection."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091",
+    "ambulance": "061",
+    "fire": "080",
+    "touristPolice": "902 102 112",
+    "usEmbassy": "US citizens should contact the US Embassy in Madrid at +34 91 714 6300 for emergency assistance. Consular services available Monday-Friday with 24/7 emergency line."
+  },
+  "faq": [
+    {
+      "q": "Is Valencia safe for tourists?",
+      "a": "Yes, Valencia is very safe for tourists with a low crime index of 31.5. Violent crime is rare, and the main concerns are petty theft in crowded areas and during festivals. The city has excellent police presence in tourist zones."
+    },
+    {
+      "q": "Is Valencia safe at night?",
+      "a": "Valencia is generally safe at night, especially in well-lit areas like Ruzafa and main tourist zones. Some quieter parts of El Carmen can be less populated after dark, so stick to main streets and use taxis when needed."
+    },
+    {
+      "q": "Is Valencia safe for solo female travelers?",
+      "a": "Absolutely. Valencia ranks among Spain's safest cities for solo female travelers with high safety scores for both day and night activities. The city offers female-friendly accommodations and has supportive local networks."
+    },
+    {
+      "q": "What areas should I avoid in Valencia?",
+      "a": "Avoid Els Orriols and be cautious in El Cabanyal, especially at night. These areas have higher crime rates. During festivals, be extra vigilant in all crowded areas due to increased pickpocketing activity."
+    },
+    {
+      "q": "Is it safe to use public transport in Valencia?",
+      "a": "Yes, Valencia's public transport is very safe and efficient. The metro, buses, and trams have security measures and regular police presence. The EMT buses even offer special safety stops for women after 10:30 PM."
+    }
+  ],
+  "relatedCities": [
+    "madrid",
+    "barcelona",
+    "seville",
+    "bilbao",
+    "granada"
+  ],
+  "_city_id": "valencia-spain"
+}

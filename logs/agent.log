@@ -607,3 +607,39 @@
 2026-03-11 05:01:26,450 [INFO] Checking alerts for 95 cities
 2026-03-11 05:02:07,794 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-11 05:02:07,835 [INFO] No safety alerts detected
+2026-03-11 06:08:18,858 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-11 06:08:18,899 [INFO] Queue has 271 cities, adding 8
+2026-03-11 06:08:18,899 [INFO] Generating new city profile: Madrid, Spain
+2026-03-11 06:09:53,047 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:09:53,200 [INFO] Saved city data: madrid-spain
+2026-03-11 06:09:53,201 [INFO] Generating new city profile: Seville, Spain
+2026-03-11 06:11:21,835 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:11:21,882 [INFO] Saved city data: seville-spain
+2026-03-11 06:11:21,883 [INFO] Generating new city profile: Valencia, Spain
+2026-03-11 06:13:29,302 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:13:29,383 [INFO] Saved city data: valencia-spain
+2026-03-11 06:13:29,384 [INFO] Generating new city profile: Malaga, Spain
+2026-03-11 06:15:10,648 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:15:10,759 [INFO] Saved city data: malaga-spain
+2026-03-11 06:15:10,760 [INFO] Generating new city profile: Granada, Spain
+2026-03-11 06:16:35,303 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:16:35,418 [INFO] Saved city data: granada-spain
+2026-03-11 06:16:35,419 [INFO] Generating new city profile: Bilbao, Spain
+2026-03-11 06:18:38,790 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:18:38,870 [INFO] Saved city data: bilbao-spain
+2026-03-11 06:18:38,871 [INFO] Generating new city profile: San Sebastian, Spain
+2026-03-11 06:20:09,837 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:20:09,954 [INFO] Saved city data: san-sebastian-spain
+2026-03-11 06:20:09,956 [INFO] Generating new city profile: Palma de Mallorca, Spain
+2026-03-11 06:21:38,336 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 06:21:38,410 [INFO] Saved city data: palma-de-mallorca-spain
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Madrid
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Seville
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Valencia
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Malaga
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Granada
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Bilbao
+2026-03-11 06:21:38,419 [INFO] Merged into site data: San Sebastian
+2026-03-11 06:21:38,419 [INFO] Merged into site data: Palma de Mallorca
+2026-03-11 06:21:38,441 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-11 06:21:38,441 [INFO] Updated sitemap with 8 new URLs

@@ -1,0 +1,163 @@
+{
+  "slug": "palma-de-mallorca",
+  "name": "Palma de Mallorca",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Palma de Mallorca is generally a safe Mediterranean destination with low violent crime rates and excellent healthcare. The main concerns are petty theft and pickpocketing in tourist areas, particularly around the Cathedral and busy squares. Spain maintains a Level 2 travel advisory recommending increased caution due to terrorism risks, but overall the city is considered safer than many European capitals.",
+  "quickVerdict": "Palma de Mallorca is a safe destination for tourists with crime rates significantly lower than major European cities like Paris or London. While petty theft and pickpocketing occur in crowded tourist areas, violent crime is rare. The city has excellent healthcare facilities, reliable public transport, and strong police presence in tourist zones. Solo female travelers generally feel safe, especially during daylight hours. Night safety is good in well-lit central areas, though caution is advised in less crowded neighborhoods after dark.",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historic center with major attractions like the Cathedral. Well-patrolled tourist area with good lighting and plenty of people, though pickpockets target crowds around major sights."
+    },
+    {
+      "name": "Santa Catalina",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood with vibrant nightlife, restaurants and galleries. Generally safe but requires vigilance at night due to busy bars and potential for petty crime."
+    },
+    {
+      "name": "La Lonja",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular nightlife district with many bars and restaurants. Well-lit and busy area with regular police presence, though crowds can attract pickpockets."
+    },
+    {
+      "name": "Son Gotleu",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Residential area with higher crime rates including drug activity and violence. Local authorities advise avoiding this neighborhood, especially at night."
+    },
+    {
+      "name": "Son Banya",
+      "score": 2.8,
+      "class": "danger",
+      "description": "Known drug distribution hub on city outskirts with high crime rates. Considered one of the most dangerous areas in Mallorca and should be avoided entirely."
+    },
+    {
+      "name": "El Arenal",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Tourist resort area with party atmosphere. While popular for nightlife, the area has increased crime risks due to crowds, alcohol consumption, and tourist-targeting crimes."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Cup and Ball Game (Trile)",
+      "risk": "high",
+      "description": "Street scammers use three cups and a ball, asking tourists to bet on which cup hides the ball. The object is secretly removed, making it impossible to win.",
+      "howToAvoid": "Never participate in street gambling games. Walk away immediately from anyone offering these games, especially near tourist areas."
+    },
+    {
+      "name": "Phone Direction Scam",
+      "risk": "high",
+      "description": "Friendly strangers approach tourists asking for help with Google Maps directions, then snatch the unlocked phone and disappear into crowds.",
+      "howToAvoid": "Never hand your unlocked phone to strangers. Offer to help verbally or point them to information centers instead."
+    },
+    {
+      "name": "Fake Camera Damage",
+      "risk": "medium",
+      "description": "Scammers ask tourists to take their photo, then intentionally drop the camera when it's returned, claiming the tourist broke it and demanding compensation.",
+      "howToAvoid": "Politely decline to take photos for strangers unless they are clearly fellow tourists. If you must help, be extremely careful when handling their device."
+    },
+    {
+      "name": "Tourist Price Inflation",
+      "risk": "medium",
+      "description": "Some vendors and restaurants charge tourists significantly higher prices than locals for goods and services, especially in major tourist areas.",
+      "howToAvoid": "Research standard prices beforehand, ask for menus with prices, compare costs at different establishments, and consider shopping where locals go."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Palma de Mallorca is generally very safe for solo female travelers, ranking among the top destinations in Europe for women traveling alone. The city has well-lit streets, friendly locals, and a strong police presence in tourist areas. During daylight hours, safety levels are exceptionally high with a rating of 81.9 out of 100. However, nighttime safety drops to 61.1, requiring more caution in less crowded or poorly lit areas.",
+    "tips": [
+      "Stay in central, well-lit areas at night and avoid walking alone in empty streets or parks",
+      "Use official taxis or reliable rideshare services late at night rather than walking long distances",
+      "Keep valuables secure and be extra vigilant in crowded tourist areas where pickpockets operate",
+      "Trust your instincts and avoid accepting drinks from strangers or leaving drinks unattended in bars"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Palma's nightlife areas like La Lonja and Santa Catalina are generally safe with good lighting and police presence, but caution is needed in less central areas. The safety rating drops from 80.49 during the day to 59.24 at night. Most violent crime occurs in nightlife settings where alcohol is involved, particularly in party areas like Magaluf. Areas like Son Banya and Son Gotleu should be avoided completely after dark.",
+    "tips": [
+      "Stick to well-lit, busy areas with plenty of people and avoid isolated streets or empty squares",
+      "Travel in groups when possible and always let someone know your plans",
+      "Use official taxis or rideshare apps for transportation late at night",
+      "Be extra cautious in party districts and never leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "Palma's metro system has one active line (M1) running from the city center to the university and technology park. It operates from early morning to late evening with modern trains and is generally safe, though services are limited on weekends. A single ticket costs €1.80.",
+    "rideshare": "Uber does not operate in Mallorca. Travelers must rely on official taxis or public transport. Some private transfer services can be booked in advance through hotels or online platforms.",
+    "taxis": "Official taxis are considered safe and reliable with licensed drivers. Most taxis require cash payment as card machines are not universally available. Fares from the airport to city center cost approximately €25-30. Always use official taxi stands or call licensed services.",
+    "tips": "Public buses (EMT) are safe and efficient for city travel, costing €2 per single journey. The A1 airport bus provides reliable connection to the city center for €5. Always keep belongings secure on public transport and be aware of pickpockets during peak hours."
+  },
+  "customs": [
+    "Greet people with handshakes or cheek kisses (among friends), and always say hello when entering shops or restaurants",
+    "Eat dinner late (after 9pm) and expect leisurely meals with extended conversation time (sobremesa) after eating",
+    "Respect siesta hours (2pm-5pm) when many shops close, and avoid making noise during these traditional rest periods",
+    "Dress appropriately for churches and avoid wearing swimwear away from beach areas - cover shoulders and knees in religious sites",
+    "Tip modestly (5-10%) only for exceptional service as waiters earn living wages, and splitting bills equally (pagar a pachas) is common"
+  ],
+  "health": {
+    "overview": "Spain has excellent healthcare with both public and private options. EU visitors can use EHIC cards for emergency treatment. Major hospitals include Hospital Universitari Son Espases and Hospital Son Llàtzer, both offering 24-hour emergency services.",
+    "water": "Tap water is safe to drink throughout Palma, though many restaurants serve bottled water. The water quality meets European standards and poses no health risks to tourists.",
+    "vaccinations": "No special vaccinations are required for Spain. Standard travel vaccinations (MMR, Hepatitis A/B) are recommended but not mandatory for entry.",
+    "altitude": "Palma is at sea level with a Mediterranean climate. Summer temperatures can exceed 30°C (86°F), so sun protection and hydration are important. The climate is generally healthy with mild winters and warm summers."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091 (National) / 092 (Local)",
+    "ambulance": "061",
+    "fire": "080 / 085",
+    "touristPolice": "902 102 112",
+    "usEmbassy": "US Consulate Barcelona covers Balearic Islands: +34 93 280 2227. For emergencies involving US citizens, contact +34 91 714 6300."
+  },
+  "faq": [
+    {
+      "q": "Is Palma de Mallorca safe for tourists?",
+      "a": "Yes, Palma is generally very safe for tourists with crime rates lower than major European cities like Paris or London. The main concerns are petty theft and pickpocketing in crowded tourist areas, while violent crime against tourists is rare."
+    },
+    {
+      "q": "Is Palma de Mallorca safe at night?",
+      "a": "Central areas like the Old Town and La Lonja are generally safe at night with good lighting and police presence. However, avoid poorly lit areas and neighborhoods like Son Banya or Son Gotleu after dark. Use taxis for longer distances at night."
+    },
+    {
+      "q": "Is Palma de Mallorca safe for solo female travelers?",
+      "a": "Yes, Palma is considered very safe for solo female travelers and ranks highly among European destinations for women traveling alone. Exercise normal precautions, especially at night, and stay in well-populated, well-lit areas."
+    },
+    {
+      "q": "What areas should I avoid in Palma de Mallorca?",
+      "a": "Avoid Son Banya (known for drug activity), Son Gotleu (high crime rates), and El Rafal Nou, especially at night. While not typically tourist areas, these neighborhoods have higher crime rates than the city center."
+    },
+    {
+      "q": "Is it safe to use public transport in Palma de Mallorca?",
+      "a": "Yes, public transport including buses and the metro is generally safe and reliable. Keep belongings secure and be aware of pickpockets during peak hours, but the transport system is well-maintained and regularly patrolled."
+    }
+  ],
+  "relatedCities": [
+    "barcelona",
+    "valencia",
+    "madrid",
+    "seville",
+    "malaga"
+  ],
+  "_city_id": "palma-de-mallorca-spain"
+}
