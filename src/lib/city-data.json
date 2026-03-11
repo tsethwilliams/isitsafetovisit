@@ -21434,6 +21434,1290 @@
         "frankfurt",
         "dusseldorf"
       ]
+    },
+    {
+      "slug": "frankfurt",
+      "name": "Frankfurt",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.0,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 6.5,
+        "transport": 8.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Frankfurt is generally safe for tourists but has higher crime rates than other German cities, primarily concentrated around the main train station area. The city offers excellent public transport and healthcare, with most safety concerns being petty crime rather than violent incidents.",
+      "quickVerdict": "Frankfurt presents a moderately safe environment for tourists, ranking among Germany's less safe cities due to elevated crime statistics, particularly around Hauptbahnhof and the red-light district. However, violent crime remains uncommon, and most incidents involve opportunistic petty theft. The city's excellent infrastructure, reliable public transport, and world-class healthcare system provide strong safety foundations. Visitors who stay alert, avoid certain areas at night, and take standard precautions will find Frankfurt manageable and rewarding to explore.",
+      "neighborhoods": [
+        {
+          "name": "Innenstadt (City Center)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Well-patrolled financial district with good lighting and regular police presence. Safe during business hours but exercise caution after dark near entertainment areas."
+        },
+        {
+          "name": "Sachsenhausen",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Charming traditional area south of the river known for apple wine taverns. Generally safe with good foot traffic and family-friendly atmosphere."
+        },
+        {
+          "name": "Westend",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale residential and business district with excellent safety record. Well-maintained streets and regular security presence make it very tourist-friendly."
+        },
+        {
+          "name": "Bahnhofsviertel",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Red-light district around the main station with higher crime rates. Avoid at night and be extra vigilant with belongings during the day."
+        },
+        {
+          "name": "Nordend",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Quiet residential neighborhood popular with young professionals. Safe for walking but less foot traffic than central areas."
+        },
+        {
+          "name": "Gallus",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Developing area with mixed safety record. Exercise caution, especially after dark, and avoid isolated streets."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Charity/Petition Scam",
+          "risk": "medium",
+          "description": "People approach with clipboards asking for signatures or donations for fake causes, often targeting tourists near major attractions.",
+          "howToAvoid": "Never sign documents or give money to street solicitors. Politely decline and walk away."
+        },
+        {
+          "name": "Distraction Theft",
+          "risk": "high",
+          "description": "Criminals work in teams - one creates distraction (spilling something on you, asking directions) while accomplice pickpockets valuables.",
+          "howToAvoid": "Stay alert to your surroundings, keep bags zipped and secure, decline help from overly friendly strangers."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Fraudulent devices placed on ATMs to steal card information and PIN numbers, particularly at standalone machines.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, check for loose parts on card readers."
+        },
+        {
+          "name": "Fake Transport Inspectors",
+          "risk": "low",
+          "description": "Scammers pose as ticket inspectors demanding immediate cash fines from tourists without valid tickets.",
+          "howToAvoid": "Real inspectors give penalty notices for later payment. Ask for official ID and never pay cash on-the-spot fines."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Frankfurt is generally safe for solo female travelers with standard precautions. Germany ranks well globally for women's safety, and Frankfurt benefits from good infrastructure and emergency services. However, extra caution is needed around the main station area, especially at night.",
+        "tips": [
+          "Stay in accommodations near the city center or Sachsenhausen rather than near the main train station",
+          "Use public transport confidently during the day but consider taxis late at night, especially from the Bahnhofsviertel",
+          "Trust your instincts and avoid poorly lit areas or situations that feel uncomfortable",
+          "Keep emergency numbers saved and consider sharing your location with someone when out alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Frankfurt's nightlife can be enjoyed safely with proper precautions. The city center and popular areas like Sachsenhausen remain relatively safe at night, but the area around Hauptbahnhof becomes more problematic after dark with increased drug activity and petty crime.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid the Bahnhofsviertel late at night",
+          "Use reputable ride-sharing services or official taxis rather than walking alone",
+          "Stay in groups when possible and watch your drinks at bars and clubs",
+          "Keep valuables secure and avoid displaying expensive items like jewelry or electronics"
+        ]
+      },
+      "transport": {
+        "metro": "The U-Bahn and S-Bahn systems are generally very safe and reliable. Stations are well-lit with CCTV coverage. Be vigilant for pickpockets during rush hours and avoid empty carriages late at night.",
+        "rideshare": "Uber and other ride-sharing apps operate safely in Frankfurt. Always verify the driver and vehicle details before getting in.",
+        "taxis": "Official taxis are safe and regulated. Use taxi stands or call reputable companies. Ensure the meter is running to avoid overcharging.",
+        "tips": "Public transport runs efficiently with good night services on weekends. Keep tickets handy as inspectors conduct random checks with 60 Euro fines for violations."
+      },
+      "customs": [
+        "Punctuality is highly valued - arrive on time for appointments and reservations",
+        "Greet people with firm handshakes and maintain direct eye contact when meeting",
+        "Tipping is expected at 5-10% in restaurants, round up taxi fares, tip hotel staff 1-2 euros per service"
+      ],
+      "health": {
+        "overview": "Germany has world-class healthcare with excellent medical facilities throughout Frankfurt. No special vaccinations are required for travel from most countries.",
+        "water": "Tap water is safe to drink throughout Germany. In restaurants, water typically costs money as free tap water is uncommon.",
+        "vaccinations": "No specific vaccinations required. Ensure routine vaccines (MMR, tetanus, flu) are up to date. Consider hepatitis A/B for extended stays.",
+        "altitude": "Frankfurt sits at low altitude with temperate climate. Air quality can worsen in winter but poses no significant health risks for most visitors."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "110",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "U.S. Consulate General Frankfurt: +49-69-7535-0, located at Gießener Str. 30, 60435 Frankfurt am Main. After-hours emergencies: +49-30-8305-0"
+      },
+      "faq": [
+        {
+          "q": "Is Frankfurt safe for tourists?",
+          "a": "Frankfurt is moderately safe for tourists. While it has higher crime rates than other German cities, most incidents involve petty theft rather than violence. Stay alert around the main train station area and follow standard travel precautions."
+        },
+        {
+          "q": "Is Frankfurt safe at night?",
+          "a": "Frankfurt's city center and popular districts like Sachsenhausen are generally safe at night. However, avoid the Bahnhofsviertel (red-light district) after dark and stick to well-lit, populated areas. Use taxis or ride-sharing for late-night transport."
+        },
+        {
+          "q": "Is Frankfurt safe for solo female travelers?",
+          "a": "Yes, Frankfurt is safe for solo female travelers who take standard precautions. Germany ranks well for women's safety globally. Stay in central accommodations, use public transport during the day, and trust your instincts about situations and areas."
+        },
+        {
+          "q": "What areas should I avoid in Frankfurt?",
+          "a": "Exercise extra caution in the Bahnhofsviertel (around the main train station), especially at night. The streets Taunusstraße and Niddastraße are particularly problematic. Gallus neighborhood also requires more vigilance than other areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Frankfurt?",
+          "a": "Yes, Frankfurt's public transport (U-Bahn, S-Bahn, trams, buses) is very safe and reliable. The system is well-maintained with good security coverage. Be aware of pickpockets during rush hours and keep your ticket handy for inspections."
+        }
+      ],
+      "relatedCities": [
+        "munich",
+        "berlin",
+        "hamburg"
+      ]
+    },
+    {
+      "slug": "dresden",
+      "name": "Dresden",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 8.2,
+        "scamRisk": 6.5,
+        "womensSafety": 7.3,
+        "nightSafety": 6.9,
+        "transport": 8.5,
+        "naturalHazards": 8.1
+      },
+      "summary": "Dresden is a very safe city for tourists, with low crime rates and excellent public transportation. While occasional flooding occurs and some tourist scams exist, violent crime is rare and the city maintains strong safety standards. The biggest risks are pickpocketing in crowded areas and overcharging by vendors.",
+      "quickVerdict": "Dresden offers excellent safety for tourists, ranking among Germany's safest cities. With minimal violent crime, reliable public transport, and good infrastructure, visitors can explore confidently. The main precautions involve staying alert for pickpockets in tourist areas and being aware of occasional flooding risks near the Elbe River. Solo female travelers generally feel safe, though standard urban precautions apply at night.",
+      "neighborhoods": [
+        {
+          "name": "Altstadt (Historic Center)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of Dresden with major attractions like Frauenkirche and Zwinger. Well-patrolled, excellent lighting, and heavy tourist presence make this very safe day and night."
+        },
+        {
+          "name": "Innere Neustadt",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Vibrant cultural district with cafes, shops, and galleries. Popular with locals and tourists, well-lit streets, and good nightlife safety with regular foot traffic."
+        },
+        {
+          "name": "Äußere Neustadt",
+          "score": 7.1,
+          "class": "safe",
+          "description": "Alternative nightlife district with bars and clubs. Generally safe but can get rowdy late at night on weekends. Some graffiti gives rough appearance but crime is minimal."
+        },
+        {
+          "name": "Löbtau",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Residential area west of center. Safe during day but some streets poorly lit at night. Mixed reputation but violent crime rare, mainly concerns about petty theft."
+        },
+        {
+          "name": "Prohlis",
+          "score": 5.9,
+          "class": "caution",
+          "description": "Southeastern residential district with social housing. Higher unemployment and some social issues, but not dangerous for tourists. Avoid walking alone at night."
+        },
+        {
+          "name": "Hauptbahnhof Area",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Train station vicinity attracts some drug activity and homeless population. Safe during day but exercise caution late at night. Petty crime more common here."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Street Vendor Overcharging",
+          "risk": "moderate",
+          "description": "Vendors quote inflated prices for souvenirs or food, especially around tourist areas like Frauenkirche and Altmarkt Square, expecting tourists to pay without questioning.",
+          "howToAvoid": "Always ask for prices upfront, compare with other vendors, and be prepared to walk away if prices seem excessive."
+        },
+        {
+          "name": "Fake Camera Drop",
+          "risk": "low",
+          "description": "Someone asks you to take their photo, hands you a camera, then purposely drops it when you return it, demanding compensation for the 'broken' equipment.",
+          "howToAvoid": "Politely decline to take photos for strangers, or if you must help, be extremely careful when handling their equipment."
+        },
+        {
+          "name": "Bar Bill Inflation",
+          "risk": "moderate",
+          "description": "Friendly locals invite tourists to bars where drinks are severely overpriced, often 5-10 times normal cost, with pressure tactics if you refuse to pay.",
+          "howToAvoid": "Always check drink prices before ordering, suggest your own venue choice, and be wary of overly friendly strangers offering to show you nightlife."
+        },
+        {
+          "name": "Transport Ticket Cons",
+          "risk": "low",
+          "description": "False helpers at ticket machines offer assistance then provide incorrect tickets or keep change, targeting confused tourists at tram and bus stops.",
+          "howToAvoid": "Use official ticket machines, decline unsolicited help, and ask DVB staff if you need assistance with public transport tickets."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Dresden is generally very safe for solo female travelers, with most areas well-lit and populated. The city has low harassment rates and women can move around confidently during the day. Evening safety is good in central areas, though some caution is advised in outer districts late at night.",
+        "tips": [
+          "Stay in well-lit, busy areas at night, especially around Altstadt and Innere Neustadt",
+          "Use public transport confidently - it's safe and reliable even in evening hours",
+          "Avoid walking alone in poorly lit areas like some parts of Prohlis or Gorbitz after dark",
+          "Trust your instincts and don't hesitate to seek help from police or locals if needed",
+          "Keep accommodation details private and don't flash expensive items unnecessarily"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Dresden has good nighttime safety with active nightlife in Neustadt district and well-lit central areas. Most violent crime is rare, but standard urban precautions apply. Public transport runs late and is generally safe, though some outer areas are less well-lit after dark.",
+        "tips": [
+          "Stick to main streets and well-lit areas, especially around Altstadt and Neustadt",
+          "Use licensed taxis or public transport rather than walking long distances at night",
+          "Be aware that Äußere Neustadt can get rowdy on weekends due to heavy drinking",
+          "Avoid the main train station area very late at night due to increased petty crime risk",
+          "Travel in groups when possible and stay alert in crowded nightlife areas"
+        ]
+      },
+      "transport": {
+        "metro": "Dresden has an excellent tram system operated by DVB with 12 routes covering the city. Trams run frequently every 10-15 minutes and operate 24 hours. The system is very safe with good lighting and security presence.",
+        "rideshare": "Uber operates in Dresden alongside local alternatives. Generally safe and reliable, though standard precautions apply - verify driver details and share trip info with contacts.",
+        "taxis": "Official taxis are safe and regulated with standard meters. Book through FunkTAXI Dresden (+49 351 211 211) or use taxi stands. Avoid unlicensed drivers who may approach at airport or station.",
+        "tips": "Public transport is the safest and most efficient way to get around. Always validate tickets to avoid fines. Download the DVB app for real-time schedules and ticket purchases."
+      },
+      "customs": [
+        "Germans value punctuality - arrive on time for any appointments or reservations",
+        "Quiet Hours (Ruhezeit) are typically 10 PM to 6 AM on weekdays and longer on Sundays",
+        "Direct communication is normal - Germans tend to be straightforward rather than overly polite",
+        "Cash is still king - many smaller establishments don't accept cards, so carry euros",
+        "Jaywalking is frowned upon and can result in fines, even when streets appear empty"
+      ],
+      "health": {
+        "overview": "Dresden has excellent healthcare with modern hospitals and clinics. The city provides universal healthcare coverage and has 4.5 doctors per 1,000 residents. No special vaccinations are required for visiting Germany.",
+        "water": "Tap water is completely safe to drink and regularly tested. It meets all EU safety standards and many locals prefer it to bottled water for environmental reasons.",
+        "vaccinations": "No special vaccinations required. Routine vaccines (MMR, DPT, flu) should be up to date. EU health insurance cards are accepted for EU citizens.",
+        "altitude": "Dresden sits at low elevation with temperate climate. Summer temperatures average 20-25°C, winters 0-5°C. No altitude concerns, but be prepared for occasional heatwaves or cold snaps."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "110",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Berlin: +49 30 8305 0 (Dresden is in Berlin consular district covering Saxony). Emergency assistance for US citizens: +1-202-501-4444 from abroad or +1-888-407-4747 from US/Canada. Address: Clayallee 170, 14195 Berlin."
+      },
+      "faq": [
+        {
+          "q": "Is Dresden safe for tourists?",
+          "a": "Yes, Dresden is very safe for tourists with low crime rates and excellent infrastructure. Violent crime is rare, and the main concerns are petty theft and pickpocketing in crowded tourist areas. Police presence is good and locals are generally helpful."
+        },
+        {
+          "q": "Is Dresden safe at night?",
+          "a": "Dresden is generally safe at night, especially in the city center and Neustadt districts. Main areas are well-lit with active nightlife. Exercise normal precautions in outer districts and avoid the train station area very late at night."
+        },
+        {
+          "q": "Is Dresden safe for solo female travelers?",
+          "a": "Yes, Dresden is considered very safe for solo female travelers. Harassment is uncommon, public transport is reliable, and the city has good lighting. Standard urban precautions apply, especially when walking alone at night in less central areas."
+        },
+        {
+          "q": "What areas should I avoid in Dresden?",
+          "a": "No areas are particularly dangerous, but exercise extra caution around the main train station late at night, and in outer residential districts like Prohlis or Gorbitz after dark. These areas aren't unsafe but have less foot traffic and lighting."
+        },
+        {
+          "q": "Is it safe to use public transport in Dresden?",
+          "a": "Yes, Dresden's public transport is very safe and efficient. The DVB tram and bus network operates 24/7 with good security and lighting. Always validate tickets to avoid fines, and be aware of pickpockets during rush hours."
+        }
+      ],
+      "relatedCities": [
+        "berlin",
+        "leipzig",
+        "munich",
+        "hamburg",
+        "prague"
+      ]
+    },
+    {
+      "slug": "geneva",
+      "name": "Geneva",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 9.2,
+        "scamRisk": 8.0,
+        "womensSafety": 8.8,
+        "nightSafety": 8.1,
+        "transport": 8.7,
+        "naturalHazards": 8.5
+      },
+      "summary": "Geneva is consistently ranked as one of the world's safest cities, with extremely low crime rates and excellent public safety infrastructure. The US State Department rates Switzerland as Level 1 - Exercise Normal Precautions, and Geneva ranks among the top cities globally for safety and quality of life.",
+      "quickVerdict": "Geneva is exceptionally safe for tourists with virtually no violent crime and very low petty crime rates. While some areas like Cornavin and Les Pâquis require basic caution at night, the city maintains outstanding public safety standards. Women travelers can feel confident exploring alone, public transport is highly reliable, and the Swiss emphasis on order and respect creates a secure environment for all visitors.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Vieille Ville)",
+          "score": 9.2,
+          "class": "safe",
+          "description": "Historic center with excellent lighting, regular police presence, and constant foot traffic. Completely safe day and night with tourist police patrols and well-maintained cobblestone streets."
+        },
+        {
+          "name": "International Quarter",
+          "score": 8.9,
+          "class": "safe",
+          "description": "Home to UN headquarters and international organizations. Very secure with diplomatic police presence, excellent infrastructure, and professional business atmosphere throughout the day and evening."
+        },
+        {
+          "name": "Eaux-Vives/Champel",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Upscale residential area with parks, museums, and quality restaurants. Well-lit streets, affluent neighborhood feel, and very low crime rates make this ideal for evening strolls."
+        },
+        {
+          "name": "Plainpalais",
+          "score": 7.1,
+          "class": "safe",
+          "description": "University district with vibrant nightlife and student population. Generally safe but can get rowdy around bars late at night. Stick to main streets and use official transport after midnight."
+        },
+        {
+          "name": "Cornavin/Train Station Area",
+          "score": 6.3,
+          "class": "caution",
+          "description": "Busy transport hub that attracts transient activity and some drug users. Exercise normal urban caution, especially after 11 PM. Avoid poorly lit side streets and keep valuables secure."
+        },
+        {
+          "name": "Les Pâquis",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Red-light district with higher crime rates, drug activity, and prostitution. While not extremely dangerous, avoid walking alone late at night. Daytime visits are generally fine with basic precautions."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Buddhist Monks",
+          "risk": "medium",
+          "description": "Scammers dressed as monks approach tourists offering friendship bracelets or small gifts, then aggressively demand payment",
+          "howToAvoid": "Politely decline any unsolicited gifts or items placed on you. Real Buddhist monks don't sell items on the street. Walk away immediately if approached."
+        },
+        {
+          "name": "Shell and Pea Game",
+          "risk": "medium",
+          "description": "Street gambling scam using three cups and a ball, with accomplices pretending to win to lure tourists. Minimum bets start at 100 CHF and the ball is never actually under any cup",
+          "howToAvoid": "Avoid any street gambling entirely. The game is rigged and designed to take your money. Police actively work to shut these down but they still operate."
+        },
+        {
+          "name": "Fake Police Checks",
+          "risk": "low",
+          "description": "Scammers posing as plainclothes police ask to see wallets and identification, then steal money or cards during the inspection",
+          "howToAvoid": "Ask to see official police identification and badge. If in doubt, don't hand over belongings and call 117 (police emergency number) immediately."
+        },
+        {
+          "name": "Credit Card Receipt Scams",
+          "risk": "low",
+          "description": "Some Swiss establishments print full credit card numbers on receipts, creating identity theft risk if discarded carelessly",
+          "howToAvoid": "Always review receipts carefully and tear up or properly dispose of any containing full card numbers. Keep receipts until you can shred them properly."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Geneva is exceptionally safe for solo female travelers, consistently ranking among the top destinations worldwide for women's safety. The city has strong legal protections, gender equality measures, and very low rates of harassment or assault. Public transport is reliable and safe at all hours, and there's a strong culture of respect for personal space and privacy.",
+        "tips": [
+          "Avoid walking alone in Les Pâquis late at night, though it's not extremely dangerous",
+          "Use well-lit main streets when moving between venues after midnight",
+          "Trust your instincts - Swiss culture values directness so don't hesitate to firmly decline unwanted attention",
+          "Take advantage of excellent public transport rather than walking alone in unfamiliar areas late at night",
+          "Hotel staff and tourist information can provide current local safety updates and recommendations"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Geneva maintains high safety standards after dark, with well-lit streets, efficient public transport until late hours, and generally peaceful nightlife areas. Most areas of the city center remain safe for walking at night, though basic urban precautions should be taken in certain neighborhoods like Cornavin and Les Pâquis.",
+        "tips": [
+          "Bars close around 2 AM and clubs until 5 AM, with good transport connections available",
+          "Use official taxis or ride-sharing apps rather than walking through industrial areas after midnight",
+          "Stay in groups when bar-hopping in Plainpalais area late at night",
+          "The Old Town and lakefront areas remain well-patrolled and safe throughout the night",
+          "Night buses operate on weekends but check schedules in advance"
+        ]
+      },
+      "transport": {
+        "metro": "Geneva has an excellent integrated public transport system (UNIRESO) with trams, buses, boats, and trains. The system is punctual, clean, and very safe with regular security presence. All forms of transport use the same tickets and operate until midnight on weekdays, with extended weekend service.",
+        "rideshare": "Uber operates reliably in Geneva with pickup points clearly marked. Standard Swiss pricing applies (expensive but quality service). Traditional taxis are available at designated stands and by phone, accepting credit cards but at premium rates.",
+        "taxis": "Official taxis are very safe and well-regulated with fixed rates. They're expensive (typical Swiss pricing) but reliable and professional. Available 24/7 at major locations like the airport, train station, and Place du Lac. Most drivers speak basic English.",
+        "tips": "Get a free Geneva Transport Card from any hotel stay for unlimited public transport. The airport train to city center takes just 10 minutes. Validate tickets before boarding to avoid fines. Public transport is generally safer and more efficient than taxis for most journeys."
+      },
+      "customs": [
+        "Punctuality is extremely important - being late without notice is considered disrespectful",
+        "Keep noise levels down in public spaces, especially on public transport and in quiet residential areas",
+        "Greet people formally with titles (Mr./Ms./Dr.) until invited to use first names, and shake hands with direct eye contact",
+        "Tipping is not mandatory but rounding up bills or adding 5-10% is appreciated for good service",
+        "Respect for privacy and personal space is paramount - Swiss people value discretion and quiet behavior"
+      ],
+      "health": {
+        "overview": "Switzerland has one of the world's best healthcare systems with excellent medical facilities and highly trained professionals. Geneva University Hospitals (HUG) provide world-class emergency and specialized care. No special vaccinations are required for Switzerland.",
+        "water": "Tap water is excellent quality and safe to drink throughout Geneva. Public fountains provide fresh mountain spring water that's perfectly safe for consumption.",
+        "vaccinations": "No special vaccinations required for Switzerland. Routine vaccinations like MMR, tetanus, and diphtheria are recommended but not mandatory. EU health cards are accepted.",
+        "altitude": "Geneva sits at 373 meters above sea level with no altitude concerns. The climate is temperate with cold winters and warm summers. Air quality is generally good despite being an urban area."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "117",
+        "ambulance": "144",
+        "fire": "118",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Bern: +41-31-357-7011. US Consulate Geneva: +41-22-919-9200. For 24/7 emergency assistance call +1-202-501-4444 from abroad or +1-888-407-4747 from US/Canada"
+      },
+      "faq": [
+        {
+          "q": "Is Geneva safe for tourists?",
+          "a": "Yes, Geneva is exceptionally safe for tourists and consistently ranks among the world's safest cities. Crime rates are very low, and violent crime is virtually non-existent. Basic urban awareness is sufficient for a safe visit."
+        },
+        {
+          "q": "Is Geneva safe at night?",
+          "a": "Geneva is generally very safe at night with well-lit streets and good public transport. Avoid Les Pâquis late at night and be cautious around Cornavin station after midnight, but most areas remain perfectly safe for evening activities."
+        },
+        {
+          "q": "Is Geneva safe for solo female travelers?",
+          "a": "Absolutely. Geneva ranks among the top destinations globally for solo female travel with strong legal protections, low harassment rates, and excellent safety infrastructure. Women regularly travel alone without incident."
+        },
+        {
+          "q": "What areas should I avoid in Geneva?",
+          "a": "Les Pâquis (red-light district) late at night requires caution but isn't extremely dangerous. The area around Cornavin train station can be dodgy after 11 PM. Avoid poorly lit industrial areas and stick to main thoroughfares when walking late."
+        },
+        {
+          "q": "Is it safe to use public transport in Geneva?",
+          "a": "Yes, Geneva's public transport is very safe, efficient, and reliable. The integrated UNIRESO system operates until late with good security presence. It's often safer than walking, especially for longer distances or late-night travel."
+        }
+      ],
+      "relatedCities": [
+        "zurich",
+        "bern",
+        "basel"
+      ]
+    },
+    {
+      "slug": "interlaken",
+      "name": "Interlaken",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.2,
+        "scamRisk": 8.2,
+        "womensSafety": 9.1,
+        "nightSafety": 8.5,
+        "transport": 9.5,
+        "naturalHazards": 8.2
+      },
+      "summary": "Interlaken is one of Europe's safest tourist destinations, nestled between two pristine lakes in the Swiss Alps. The town experiences exceptionally low crime rates and maintains Switzerland's reputation for excellent public safety standards. Visitors can confidently explore the area's outdoor adventures and picturesque streets with minimal security concerns.",
+      "quickVerdict": "Interlaken stands as an exemplary safe destination for all types of travelers. Switzerland's Level 1 travel advisory rating reflects the country's exceptional safety standards, and Interlaken upholds this reputation with very low crime rates, reliable emergency services, and a culture of respect and orderliness. Solo female travelers consistently rate it among the safest destinations globally, while the efficient public transport system and well-maintained infrastructure make navigation worry-free. The primary considerations are natural hazard awareness during outdoor activities and standard precautions against minor tourist-targeted scams, but overall, Interlaken offers a remarkably secure travel experience.",
+      "neighborhoods": [
+        {
+          "name": "Interlaken West",
+          "score": 9.1,
+          "class": "safe",
+          "description": "The main transportation hub and commercial center of Interlaken. Well-lit streets, frequent police patrols, and bustling daytime activity create a very safe environment. Tourist police presence is notable, and the area is equipped with excellent emergency services access."
+        },
+        {
+          "name": "Interlaken East",
+          "score": 8.9,
+          "class": "safe",
+          "description": "Gateway to the Jungfrau region with the main train station. Slightly quieter than West but equally safe, with good lighting and regular foot traffic from tourists. The area benefits from Switzerland's efficient transport security measures."
+        },
+        {
+          "name": "Höhematte Park District",
+          "score": 9.3,
+          "class": "safe",
+          "description": "The heart of Interlaken featuring the large central park and main shopping areas. Exceptionally safe with constant foot traffic, well-maintained public spaces, and excellent visibility. Regular community policing makes this the safest area for evening strolls."
+        },
+        {
+          "name": "Unterseen",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Historic old village adjacent to Interlaken proper. Charming cobblestone streets remain very safe, though some areas can be darker at night. The traditional Swiss architecture and residential nature contribute to a peaceful, secure atmosphere."
+        },
+        {
+          "name": "Matten bei Interlaken",
+          "score": 8.4,
+          "class": "safe",
+          "description": "Residential area popular with budget travelers and backpackers. Generally very safe but can be livelier in the evenings due to hostel activity. Well-connected to main town areas and benefits from Switzerland's excellent emergency response systems."
+        },
+        {
+          "name": "Lake Thun/Brienz Shores",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Scenic lakeside areas offering beautiful walks and recreational activities. Very safe during daylight hours with some areas less illuminated after dark. Natural beauty combined with Switzerland's low crime environment makes this ideal for outdoor activities."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Taxi Services",
+          "risk": "low",
+          "description": "Some taxi drivers may take longer routes or quote inflated prices to tourists unfamiliar with local rates. Swiss taxis are among Europe's most expensive, making this particularly costly.",
+          "howToAvoid": "Use official taxi companies like Aare Taxi or City Taxi Interlaken. Ask for estimated fare upfront, use public transport when possible, or book rides through official apps. The SBB app can help calculate reasonable transport costs."
+        },
+        {
+          "name": "Free Gift Tourist Trap",
+          "risk": "low",
+          "description": "Individuals approach tourists offering free friendship bracelets, flowers, or souvenirs, then demanding payment or using the distraction for pickpocketing. Less common than in major cities but occasionally reported.",
+          "howToAvoid": "Politely decline any unsolicited gifts or interactions from strangers. Keep belongings secure and be aware of your surroundings. Walk briskly through crowded areas and don't engage with persistent vendors."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "very low",
+          "description": "Rare instances of card slots being tampered with at ATMs, particularly those in less monitored locations. Scammers may also loiter nearby to observe PIN entry or offer unsolicited assistance.",
+          "howToAvoid": "Use ATMs inside banks or major hotels when possible. Cover your PIN entry, inspect card slots before use, and immediately report any suspicious activity. Notify your bank if your card gets stuck or behaves unusually."
+        },
+        {
+          "name": "Accommodation Booking Fraud",
+          "risk": "low",
+          "description": "Fake rental listings online offering properties at unrealistically low prices, requiring advance payment before providing keys. More common with vacation rentals than established hotels.",
+          "howToAvoid": "Book through reputable platforms, verify property ownership independently, be suspicious of prices significantly below market rates, and never pay full amounts in advance. If something seems too good to be true, it usually is."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Interlaken is exceptionally safe for solo female travelers, consistently ranking among the world's top destinations for women traveling alone. Switzerland's strong cultural values of respect and orderliness, combined with very low crime rates, create an environment where harassment is extremely rare. The country's strict laws and law-abiding culture provide additional protection, while excellent infrastructure and English-speaking capabilities make navigation stress-free.",
+        "tips": [
+          "Take advantage of Switzerland's excellent public transport system - it's safe, reliable, and operates until late hours with good lighting and security",
+          "Stay in well-reviewed accommodations like hostels in the Matten area where you can easily meet other solo travelers while maintaining personal safety",
+          "Inform someone of your hiking plans when exploring mountain trails alone, and stick to marked paths with proper equipment for alpine conditions",
+          "Feel confident walking around Interlaken at night, but stay in well-lit central areas and trust your instincts if something feels off",
+          "Engage with local tourist information centers where staff speak English and can provide current safety updates and activity recommendations"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Interlaken maintains excellent safety standards after dark, with well-lit streets, active nightlife, and regular police presence. The town's compact size makes it easy to navigate safely at night, while Switzerland's low crime rates mean violent incidents are extremely rare. Most establishments close around 2 AM, but the walkable distances and efficient transport links ensure safe returns to accommodations.",
+        "tips": [
+          "Stick to main streets like Höheweg and well-lit areas around the train stations when walking at night",
+          "Take advantage of reliable local taxi services if you're staying further from the center or feel uncomfortable walking",
+          "Be aware that some lakeside paths may be darker - use your phone flashlight or stick to better-lit routes",
+          "The nightlife scene is generally very safe, but keep an eye on your belongings in crowded bars and clubs",
+          "Emergency services (117 for police, 144 for ambulance) are highly efficient and respond quickly throughout the region"
+        ]
+      },
+      "transport": {
+        "metro": "Interlaken doesn't have a metro system, but is served by an excellent network of trains connecting to the Swiss Federal Railway system. The two main stations (Interlaken West and Ost) provide access to all major Swiss cities and mountain railways. Services are punctual, clean, and extremely safe.",
+        "rideshare": "Traditional rideshare services like Uber have limited availability in Interlaken. Alternative apps like go!, Taxi.eu, and Talixo operate in the region. However, public transport is so efficient and comprehensive that ridesharing is rarely necessary for most tourist activities.",
+        "taxis": "Official taxi services including Aare Taxi (+41 79 415 05 00) and City Taxi Interlaken (+41 78 608 74 81) are reliable but expensive - among the most costly in Europe. Taxis are well-regulated and safe, with professional drivers and standardized rates.",
+        "tips": "Invest in a Swiss Travel Pass for unlimited access to trains, buses, and boats - it's safer, more convenient, and much more economical than taxis. The SBB Mobile app provides real-time schedules and platform information in English, making navigation foolproof."
+      },
+      "customs": [
+        "Swiss punctuality is paramount - arrive on time or slightly early for any appointment, dinner invitation, or scheduled activity as lateness without notice is considered disrespectful",
+        "Greet people with a firm handshake and direct eye contact; in German-speaking areas use 'Grüezi' (greetings), and maintain formal address using titles until invited to be more casual",
+        "Respect quiet hours, especially Sunday mornings and evenings after 10 PM when noise should be minimized - this includes avoiding loud conversations on public transport",
+        "Remove shoes when entering Swiss homes and always bring a small gift like flowers or quality chocolate when invited to someone's residence",
+        "Environmental consciousness is deeply valued - recycle properly, don't litter, stay on marked hiking trails, and avoid picking protected plants like edelweiss"
+      ],
+      "health": {
+        "overview": "Switzerland offers world-class healthcare with medical standards among the highest globally. Interlaken has excellent medical facilities and pharmacies, while emergency services respond rapidly and efficiently throughout the region.",
+        "water": "Tap water throughout Switzerland is not only safe but considered among the world's best. Public fountains marked 'Trinkwasser' provide fresh, drinkable water, making bottled water purchases unnecessary unless for convenience.",
+        "vaccinations": "No special vaccinations are required for Switzerland beyond routine immunizations (MMR, DPT, influenza, COVID-19). Consider tick-borne encephalitis vaccination if planning extensive hiking, as ticks are present in wooded areas between April and October.",
+        "altitude": "Interlaken sits at 566 meters elevation, posing no altitude concerns. However, day trips to higher elevations like Jungfraujoch (3,454m) may cause mild altitude sickness. Stay hydrated, ascend gradually, and descend if experiencing severe symptoms like persistent headaches or nausea."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "117",
+        "ambulance": "144",
+        "fire": "118",
+        "touristPolice": "N/A - Regular police handle tourist issues",
+        "usEmbassy": "US Embassy Bern: +41 31 357 7011. Located at Sulgeneckstrasse 19, 3007 Bern. For after-hours emergencies involving US citizens, contact +41 31 357 7777."
+      },
+      "faq": [
+        {
+          "q": "Is Interlaken safe for tourists?",
+          "a": "Yes, Interlaken is exceptionally safe for tourists. Switzerland maintains a Level 1 travel advisory (Exercise Normal Precautions) and ranks as one of the world's safest countries. Crime rates are extremely low, infrastructure is excellent, and emergency services are highly efficient."
+        },
+        {
+          "q": "Is Interlaken safe at night?",
+          "a": "Interlaken is very safe at night with well-lit streets, active local life, and regular police presence. The compact town center is easily walkable after dark, and violent crime is extremely rare. Standard precautions like staying in lit areas and being aware of surroundings apply."
+        },
+        {
+          "q": "Is Interlaken safe for solo female travelers?",
+          "a": "Absolutely. Interlaken consistently ranks among the world's safest destinations for solo female travelers. Street harassment is virtually non-existent due to Switzerland's respectful culture and strict laws. The infrastructure and English-speaking environment make solo exploration comfortable and secure."
+        },
+        {
+          "q": "What areas should I avoid in Interlaken?",
+          "a": "There are no inherently dangerous areas in Interlaken. All neighborhoods maintain high safety standards. Some lakeside paths may be less illuminated at night, but even these areas are generally safe. The greatest risks come from outdoor activities requiring proper preparation rather than unsafe locations."
+        },
+        {
+          "q": "Is it safe to use public transport in Interlaken?",
+          "a": "Swiss public transport is among the world's safest and most reliable. Trains, buses, and boats operate with exceptional punctuality and security. The integrated transport system is well-monitored, clean, and comfortable, making it the preferred travel method for both locals and tourists."
+        }
+      ],
+      "relatedCities": [
+        "zurich",
+        "geneva",
+        "bern",
+        "lucerne",
+        "zermatt",
+        "basel"
+      ]
+    },
+    {
+      "slug": "lucerne",
+      "name": "Lucerne",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.2,
+        "scamRisk": 8.0,
+        "womensSafety": 9.4,
+        "nightSafety": 8.8,
+        "transport": 9.6,
+        "naturalHazards": 8.1
+      },
+      "summary": "Lucerne is exceptionally safe for tourists, ranking as one of the safest cities in Switzerland with very low crime rates. The city combines Switzerland's renowned safety standards with stunning alpine scenery and world-class infrastructure.",
+      "quickVerdict": "Lucerne stands out as one of Europe's safest tourist destinations, with Switzerland's Level 1 travel advisory reflecting minimal risks. The city combines exceptional safety standards with efficient public transport, excellent healthcare, and a welcoming culture. While petty theft can occur in tourist areas and natural hazards exist in nearby mountains, basic precautions are sufficient for a safe visit. Solo female travelers consistently rate Lucerne as extremely safe, and the city's infrastructure and emergency services are world-class.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Altstadt)",
+          "score": 9.2,
+          "class": "safe",
+          "description": "The historic heart of Lucerne is extremely safe with heavy foot traffic, good lighting, and regular police presence. Tourist police patrol regularly around Chapel Bridge and major attractions."
+        },
+        {
+          "name": "Lake Lucerne Promenade",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Well-lit waterfront area that's safe day and night. Popular with both locals and tourists, with excellent visibility and regular security patrols during events."
+        },
+        {
+          "name": "Bahnhofstrasse/Central Station Area",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Busy transport hub that's generally very safe but requires standard awareness due to higher foot traffic. Permanent medical center and police presence on site."
+        },
+        {
+          "name": "Neustadt (New Town)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Modern residential and business area with excellent safety standards. Well-maintained streets, good lighting, and local community oversight."
+        },
+        {
+          "name": "Kriens/Mount Pilatus Base",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Suburban area leading to mountain attractions. Safe for tourists but requires mountain safety awareness when heading to cable car stations and hiking areas."
+        },
+        {
+          "name": "University Quarter",
+          "score": 8.9,
+          "class": "safe",
+          "description": "Academic area with young population and active nightlife. Very safe with good student safety programs and regular local police presence."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Free Gift/Charity Scam",
+          "risk": "medium",
+          "description": "Individuals approach tourists offering free bracelets, flowers, or claiming to collect for charities. After accepting the item, they demand payment or use the distraction for pickpocketing.",
+          "howToAvoid": "Politely decline all free offerings from strangers. Never accept items handed to you on the street. Walk away quickly if approached."
+        },
+        {
+          "name": "Overpriced Tourist Shopping",
+          "risk": "medium",
+          "description": "Some shops near major attractions like the Lion Monument mark up prices significantly for tourists, especially watches and souvenirs.",
+          "howToAvoid": "Compare prices at multiple shops. Walk further from attractions where prices drop up to 40%. Research typical Swiss prices beforehand."
+        },
+        {
+          "name": "Fake Police/Document Check",
+          "risk": "low",
+          "description": "Rare but reported incidents of people posing as plain-clothes police requesting to see wallets or documents from tourists.",
+          "howToAvoid": "Always ask for official identification. Real Swiss police carry proper ID. If in doubt, call 117 (police emergency number) to verify."
+        },
+        {
+          "name": "White Van Electronics Scam",
+          "risk": "low",
+          "description": "Groups approach tourists from unmarked white vans near hotels or parking areas, aggressively selling supposedly high-end speakers or electronics that are actually cheap imports.",
+          "howToAvoid": "Never purchase anything from people in unmarked vans. Legitimate retailers have proper storefronts. Walk away immediately if approached."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Lucerne ranks among the world's safest cities for solo female travelers, consistently rated 4.7-4.8 out of 5 by travel safety platforms. Swiss culture is respectful with minimal harassment, and women regularly travel alone at all hours using public transport. The city offers excellent infrastructure, reliable emergency services, and a welcoming environment for independent female travelers.",
+        "tips": [
+          "Public transport is safe at all hours - women commonly travel alone on trains and buses even late at night",
+          "Stay in well-reviewed accommodations near the Old Town or train station for convenience and safety",
+          "Swiss locals are generally helpful and respectful - don't hesitate to ask for directions or assistance"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Lucerne maintains excellent safety standards after dark with well-lit streets, active nightlife areas, and reliable late-night public transport. The Old Town and lake areas remain busy with locals and tourists until late. Crime rates are minimal, though standard urban precautions are always wise.",
+        "tips": [
+          "All major areas including Old Town and lakefront are well-lit and patrolled regularly",
+          "Night buses (nachtstern) operate Friday-Saturday and Saturday-Sunday nights to surrounding areas",
+          "Stay aware of your surroundings in less busy areas, but violent crime is extremely rare"
+        ]
+      },
+      "transport": {
+        "metro": "Lucerne has no metro system but offers excellent bus and trolleybus networks managed by VBL. Services run frequently from 5:00 AM to 12:30 AM with punctual, clean, and safe operations. Zone 10 covers the entire city center and main attractions.",
+        "rideshare": "Uber operates in Lucerne with good availability but can be expensive. Traditional taxis are regulated, metered, and safe - find them at the train station and major hotels. Fares typically range 15-30 CHF for city trips.",
+        "taxis": "Licensed taxis are cream or black with roof signs, regulated and reliable. Payment accepted by cash or card. Difficult to hail on streets - use designated taxi stands at train station, hotels, or call companies directly.",
+        "tips": "Public transport is exceptionally safe and efficient. The Swiss Travel Pass or local day passes offer unlimited travel. Hotel guests receive free Visitor Cards for city zone transport."
+      },
+      "customs": [
+        "Greet with 'Grüezi' (hello) in German-speaking Lucerne - handshakes are standard even for casual introductions",
+        "Punctuality is highly valued - arrive exactly on time or a few minutes early for appointments and social invitations",
+        "Respect 'Ruhezeit' (quiet hours) after 10 PM, during lunch (12-1 PM), and all day Sundays - minimize noise during these times"
+      ],
+      "health": {
+        "overview": "Switzerland has one of the world's best healthcare systems with exceptional quality facilities. Lucerne offers excellent medical care through two major hospitals and numerous clinics, though treatment can be expensive for tourists without insurance.",
+        "water": "Swiss tap water is among the cleanest globally and safe to drink everywhere. Public fountains throughout the city provide fresh drinking water.",
+        "vaccinations": "No special vaccinations required. Standard travel insurance recommended. Be aware of tick-borne diseases in forested areas - consider vaccination if hiking extensively.",
+        "altitude": "Lucerne sits at 436m elevation with no altitude concerns. However, nearby mountain excursions can reach significant heights requiring appropriate preparation and weather awareness."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "117",
+        "ambulance": "144",
+        "fire": "118",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Bern: +41-31-357-7011. No US consulate in Lucerne - embassy provides emergency services for US citizens."
+      },
+      "faq": [
+        {
+          "q": "Is Lucerne safe for tourists?",
+          "a": "Yes, Lucerne is exceptionally safe for tourists with very low crime rates and excellent infrastructure. It consistently ranks as one of Europe's safest cities with a Level 1 US travel advisory for Switzerland."
+        },
+        {
+          "q": "Is Lucerne safe at night?",
+          "a": "Lucerne is very safe at night with well-lit streets, active areas, and reliable public transport until late. The Old Town and lakefront areas remain busy and patrolled regularly after dark."
+        },
+        {
+          "q": "Is Lucerne safe for solo female travelers?",
+          "a": "Lucerne is extremely safe for solo female travelers, rated 4.7/5 by safety platforms. Swiss culture is respectful, harassment is rare, and women regularly travel alone at all hours using public transport."
+        },
+        {
+          "q": "What areas should I avoid in Lucerne?",
+          "a": "There are no dangerous areas to avoid in Lucerne. All neighborhoods are safe for tourists. Exercise normal caution in busy areas like the train station and be aware of overpriced shops near major attractions."
+        },
+        {
+          "q": "Is it safe to use public transport in Lucerne?",
+          "a": "Yes, public transport in Lucerne is extremely safe, clean, and reliable. Buses and trains operate punctually with excellent safety records. Even night services are safe for solo travelers including women."
+        }
+      ],
+      "relatedCities": [
+        "zurich",
+        "bern",
+        "geneva",
+        "interlaken",
+        "basel"
+      ]
+    },
+    {
+      "slug": "bruges",
+      "name": "Bruges",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.8,
+        "scamRisk": 7.2,
+        "womensSafety": 8.5,
+        "nightSafety": 8.0,
+        "transport": 8.8,
+        "naturalHazards": 9.0
+      },
+      "summary": "Bruges is one of Belgium's safest cities and ranks among the top destinations for solo travelers. While pickpockets target tourist areas and transportation hubs, violent crime is extremely rare, making it particularly safe for female travelers and families.",
+      "quickVerdict": "Bruges stands out as exceptionally safe among European tourist destinations, with significantly lower crime rates than Brussels or other Belgian cities. The main concerns are petty theft in crowded tourist areas and occasional drunk tourists, but violent crime is virtually non-existent. With excellent healthcare, reliable emergency services, and a well-connected transport system, visitors can explore this medieval city with confidence while taking standard precautions against pickpockets.",
+      "neighborhoods": [
+        {
+          "name": "Historic City Center",
+          "score": 8.7,
+          "class": "safe",
+          "description": "The medieval heart of Bruges around Market Square and Burg Square is very safe with high police presence and constant foot traffic, though watch for pickpockets in crowds."
+        },
+        {
+          "name": "Minnewater Park Area",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Peaceful residential and park area south of the center that's safe for walking day and night, popular with families and couples."
+        },
+        {
+          "name": "Train Station District",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Generally safe area around the main railway station with good lighting and regular police patrols, though pickpockets may target travelers with luggage."
+        },
+        {
+          "name": "Canal Ring Areas",
+          "score": 8.3,
+          "class": "safe",
+          "description": "Scenic canal-side streets and bridges are safe for walking and photography, with occasional concerns about drunk tourists in the evening."
+        },
+        {
+          "name": "Zand Square Area",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Busy shopping and dining district that's safe throughout the day, with good street lighting and active nightlife areas."
+        },
+        {
+          "name": "Outer Residential Areas",
+          "score": 8.9,
+          "class": "safe",
+          "description": "Quiet suburban neighborhoods away from tourist areas are extremely safe with virtually no crime concerns for visitors."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Tourist Pickpocketing",
+          "risk": "medium",
+          "description": "Organized pickpocket groups target crowded tourist areas like Market Square, around canal boat tours, and on trains to/from Brussels.",
+          "howToAvoid": "Keep valuables in front pockets or money belts, stay alert in crowds, and secure bags when taking photos."
+        },
+        {
+          "name": "Overpriced Tourist Restaurants",
+          "risk": "medium",
+          "description": "Some restaurants in prime tourist locations inflate prices or add hidden service charges, particularly around the main squares.",
+          "howToAvoid": "Check menus and prices before sitting down, ask about service charges, and consider dining a few streets away from major attractions."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "low",
+          "description": "Occasional reports of unlicensed guides offering tours at inflated prices or providing inaccurate information about city attractions.",
+          "howToAvoid": "Book tours through official tourism office or reputable companies, verify guide credentials, and agree on prices upfront."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "low",
+          "description": "Rare instances of card skimming devices at ATMs, particularly those in tourist-heavy areas or outside banks.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover your PIN when entering it, and check for unusual attachments on card readers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bruges ranks as one of Europe's safest cities for solo female travelers, currently ranked 8th globally with a 4.8/5 safety rating. Women report feeling comfortable walking alone day and night, with locals being respectful and helpful. The compact size makes navigation easy, and public spaces remain active well into the evening without feeling threatening.",
+        "tips": [
+          "Stay in well-lit areas when walking alone at night, particularly around the canal areas",
+          "Be aware that drunk tourists, especially during busy periods, can be bothersome but are rarely dangerous",
+          "Use licensed taxis or rideshare apps rather than accepting rides from strangers",
+          "Trust your instincts and don't hesitate to ask locals for help if needed"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bruges maintains excellent safety standards after dark, with well-lit streets, active nightlife areas, and regular police presence. The historic center remains busy with tourists and locals until late, creating natural surveillance. Most residents report feeling safe walking alone at night, with drunk tourists being the primary concern rather than crime.",
+        "tips": [
+          "Stick to main tourist areas and well-lit streets when walking at night",
+          "Avoid confrontations with intoxicated tourists, particularly groups of young men",
+          "Keep emergency numbers (112) readily available on your phone",
+          "Consider taking taxis for longer distances late at night, especially if alone"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Bruges. The city is compact and easily walkable.",
+        "rideshare": "Uber and Bolt operate in Bruges with good availability and safety standards. Always verify driver and license plate before entering.",
+        "taxis": "Licensed taxis are safe and regulated. Use taxi stands or call registered companies. Some drivers near tourist areas may try to overcharge, so insist on using the meter.",
+        "tips": "Bruges has excellent train connections to Brussels and other Belgian cities. Watch for pickpockets on intercity trains, especially the Brussels-Bruges route."
+      },
+      "customs": [
+        "Greet with a handshake in formal situations; close friends may exchange three kisses on the cheek",
+        "Learn basic Dutch phrases like 'Goeiedag' (hello) and 'Dank u wel' (thank you) as a sign of respect",
+        "Maintain formal table manners - keep hands visible, wait for host to begin eating, and finish everything on your plate"
+      ],
+      "health": {
+        "overview": "Belgium has one of Europe's highest-quality healthcare systems with excellent medical facilities and professional staff. Bruges has modern hospitals and clinics with English-speaking medical professionals.",
+        "water": "Tap water is completely safe to drink and meets high European standards. Bottled water is available but unnecessary.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. EU/US travelers need no additional shots.",
+        "altitude": "Sea-level location with temperate maritime climate. No altitude-related health concerns. Weather can be unpredictable with frequent rain."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "101",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Brussels: +32-2-811-4000 (after hours emergency). Located at 27 Boulevard du Régent, 1000 Brussels"
+      },
+      "faq": [
+        {
+          "q": "Is Bruges safe for tourists?",
+          "a": "Yes, Bruges is exceptionally safe for tourists and ranks among Europe's safest destinations. Violent crime is extremely rare, with petty theft being the main concern in crowded tourist areas."
+        },
+        {
+          "q": "Is Bruges safe at night?",
+          "a": "Bruges is very safe at night with well-lit streets and active areas. The historic center remains lively with tourists and locals until late, though you should stay alert for drunk tourists rather than criminals."
+        },
+        {
+          "q": "Is Bruges safe for solo female travelers?",
+          "a": "Absolutely. Bruges ranks 8th globally for solo female travel safety with a 4.8/5 rating. Women report feeling comfortable walking alone day and night, with respectful locals and excellent safety infrastructure."
+        },
+        {
+          "q": "What areas should I avoid in Bruges?",
+          "a": "There are no dangerous areas to avoid in Bruges. Exercise standard caution in crowded tourist spots like Market Square and around the train station where pickpockets may operate, but all neighborhoods are generally safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Bruges?",
+          "a": "Public transport in Bruges is very safe and reliable. The city is compact and walkable, but buses and trains to other cities are secure. Watch for pickpockets on trains to Brussels during busy periods."
+        }
+      ],
+      "relatedCities": [
+        "brussels",
+        "ghent",
+        "antwerp"
+      ]
+    },
+    {
+      "slug": "ghent",
+      "name": "Ghent",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.2,
+        "scamRisk": 6.8,
+        "womensSafety": 8.1,
+        "nightSafety": 7.4,
+        "transport": 8.3,
+        "naturalHazards": 8.9
+      },
+      "summary": "Ghent is one of Belgium's safest cities, ranking significantly higher than Brussels in safety indices and offering tourists a secure environment with low crime rates. The city combines excellent public transportation, well-lit streets, and a strong police presence with beautiful medieval architecture and vibrant student culture.",
+      "quickVerdict": "Ghent stands out as a remarkably safe destination for tourists, consistently ranking among Belgium's safest cities with a crime index of just 26.08%. The historic city center is well-patrolled and illuminated, public transportation is reliable and secure, and violent crime against tourists is extremely rare. While petty crime like pickpocketing can occur in crowded areas, the overall risk is low, and the city's student population and tourist-friendly infrastructure create a welcoming atmosphere for all visitors.",
+      "neighborhoods": [
+        {
+          "name": "Historic City Center",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The car-free medieval center is exceptionally safe with excellent lighting, regular police patrols, and heavy tourist traffic during the day. Well-maintained cobblestone streets lead to major attractions like St. Bavo's Cathedral and Gravensteen Castle."
+        },
+        {
+          "name": "University Quarter",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Home to Ghent University, this area benefits from good security infrastructure and active student presence. The area around Voldersstraat is well-lit at night and has regular foot traffic, making it safe for evening exploration."
+        },
+        {
+          "name": "Korenmarkt & Graslei",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The picturesque waterfront area with restaurants and cafes is very safe, with good lighting and frequent police presence. Evening canal walks are popular and generally secure, though watch for pickpockets during peak hours."
+        },
+        {
+          "name": "Dampoort",
+          "score": 6.8,
+          "class": "caution",
+          "description": "The area around Dampoort train station has higher foot traffic and some reports of minor crime. While not dangerous, travelers should be more alert here, especially late at night or when carrying valuables."
+        },
+        {
+          "name": "Brugse Poort",
+          "score": 5.9,
+          "class": "caution",
+          "description": "This neighborhood has undergone gentrification but still experiences higher crime rates than central areas. Some reports of drug-related activity and petty crime, particularly after dark. Exercise normal urban caution."
+        },
+        {
+          "name": "Rabot",
+          "score": 4.8,
+          "class": "danger",
+          "description": "A residential area with higher crime rates and occasional reports of anti-social behavior. Not typically visited by tourists, but those passing through should avoid the area late at night and remain vigilant about personal belongings."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pickpocketing in Tourist Areas",
+          "risk": "medium",
+          "description": "Professional pickpockets target crowded tourist spots like Gravensteen Castle, St. Bavo's Cathedral, and busy market squares. They work in teams and target distracted visitors taking photos or consulting maps.",
+          "howToAvoid": "Keep valuables in front pockets or money belts, stay aware of your surroundings in crowds, and avoid displaying expensive items like jewelry or large amounts of cash."
+        },
+        {
+          "name": "Fake Accommodation Rentals",
+          "risk": "high",
+          "description": "Scammers post fraudulent rental listings online targeting international students and tourists, often claiming the owner is abroad and requesting advance payment before viewing the property.",
+          "howToAvoid": "Always insist on seeing properties in person before paying, verify the identity of landlords, and be suspicious of prices that seem too good to be true. Use reputable booking platforms when possible."
+        },
+        {
+          "name": "ATM Assistance Scam",
+          "risk": "low",
+          "description": "Individuals approach tourists at ATMs offering help with the machine while attempting to observe PIN numbers or steal cards during the transaction process.",
+          "howToAvoid": "Never accept help from strangers at ATMs, shield your PIN when entering it, and use ATMs inside banks or well-lit areas with security cameras."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "low",
+          "description": "Some establishments may add unauthorized charges to bills or bring unrequested items then charge for them, particularly targeting tourists who may not speak the local language fluently.",
+          "howToAvoid": "Always check bills carefully before paying, ask for itemized receipts, and clarify what items you're ordering. Don't be afraid to question charges you don't recognize."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Ghent is exceptionally safe for solo female travelers, ranking as the 24th safest place globally for women traveling alone with a 4.7/5 safety rating. The city has low rates of violent crime, well-lit streets, reliable public transport, and a welcoming atmosphere. Female travelers consistently report feeling secure walking alone during both day and night hours, with many praising the helpful local population and robust safety infrastructure.",
+        "tips": [
+          "Stay in central accommodations near the historic center for maximum safety and convenience",
+          "The evening canal walks are popular and generally safe, but trust your instincts if areas feel uncomfortable",
+          "Public transportation is very safe for women, with good lighting and security at stations",
+          "Evening activities in the university quarter are lively and well-monitored due to student population",
+          "Keep emergency numbers saved and inform accommodations of your daily itinerary as a precaution"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Ghent's nightlife scene is vibrant and generally safe, with the city's famous light plan creating a magical and secure evening atmosphere. The historic center remains well-lit and patrolled throughout the night, while popular nightlife areas like Overpoortstraat and Vlasmarkt maintain good security. The city's comprehensive evening lighting system and active student population contribute to a lively but safe night environment.",
+        "tips": [
+          "Take advantage of the city's light plan walking route, which illuminates major attractions until midnight",
+          "Stick to well-lit main streets when walking at night, especially around Kouter and Sint-Baafsplein",
+          "Use official taxis or ride-sharing apps rather than walking long distances alone after midnight",
+          "The Overpoort area can get rowdy during student events, but remains relatively safe with good police presence",
+          "Avoid poorly lit residential areas outside the city center after dark"
+        ]
+      },
+      "transport": {
+        "metro": "Ghent does not have a metro system, but operates an extensive network of trams and buses managed by De Lijn. The system is considered very safe with modern vehicles, good lighting, and contactless payment options. Trams run until late evening with some night services.",
+        "rideshare": "Uber operates in Ghent alongside local taxi companies. Ride-sharing is generally safe and reliable, particularly useful for late-night travel when public transport frequency decreases. Always verify vehicle details before entering.",
+        "taxis": "Licensed taxis in Ghent are safe and regulated with fixed rates and meters. They're readily available at major locations like train stations and can be pre-booked. Avoid unlicensed vehicles and ensure you use official taxi stands or reputable companies.",
+        "tips": "Public transport tickets cost 3 euros and are valid for 60 minutes across the network. Night buses (marked with 'N+') operate until 1 AM seven days a week. Keep belongings secure during peak hours when trams and buses are crowded."
+      },
+      "customs": [
+        "Belgians value politeness and formal greetings - a handshake is standard when meeting someone new, with close friends greeting with kisses on both cheeks",
+        "Punctuality is highly respected - arrive on time for appointments, restaurant reservations, and social gatherings",
+        "When dining, wait for the host to begin eating and keep hands visible on the table rather than in your lap throughout the meal"
+      ],
+      "health": {
+        "overview": "Belgium offers excellent healthcare with one of Europe's top-rated medical systems. Ghent has high-quality hospitals including Ghent University Hospital and modern healthcare facilities with English-speaking staff available in major medical centers.",
+        "water": "Tap water in Ghent is completely safe to drink and meets high European standards. Bottled water is available but unnecessary for health reasons.",
+        "vaccinations": "No special vaccinations required for Belgium. Routine vaccines like MMR, DTaP, and seasonal influenza are recommended. Check with your healthcare provider before travel.",
+        "altitude": "Ghent is at sea level with a temperate maritime climate. No altitude considerations, but weather can be unpredictable with frequent rain throughout the year."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "101",
+        "ambulance": "100",
+        "fire": "100",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Brussels: +32-2-811-4000 (24/7 emergency line). Located at 27 Boulevard du Régent, 1000 Brussels. For US citizen services and emergencies."
+      },
+      "faq": [
+        {
+          "q": "Is Ghent safe for tourists?",
+          "a": "Yes, Ghent is very safe for tourists and ranks as one of Belgium's safest cities. With a crime index of only 26.08%, it's significantly safer than Brussels and most European capitals. The historic center is well-patrolled, well-lit, and violent crime against tourists is extremely rare."
+        },
+        {
+          "q": "Is Ghent safe at night?",
+          "a": "Ghent is generally safe at night, especially in the city center and popular areas. The city's famous light plan illuminates major streets and buildings until midnight, creating a secure atmosphere. Stick to main tourist areas and well-lit streets, and avoid isolated residential neighborhoods after dark."
+        },
+        {
+          "q": "Is Ghent safe for solo female travelers?",
+          "a": "Absolutely. Ghent ranks as the 24th safest place globally for solo female travelers with a 4.7/5 rating. Women consistently report feeling secure walking alone, and the city has excellent infrastructure, reliable public transport, and a helpful local population."
+        },
+        {
+          "q": "What areas should I avoid in Ghent?",
+          "a": "While Ghent is generally safe, exercise more caution in areas like Rabot, Brugse Poort, and parts of Nieuw Gent, particularly late at night. These residential areas have higher crime rates than the tourist center. The area around Dampoort station also requires normal urban vigilance."
+        },
+        {
+          "q": "Is it safe to use public transport in Ghent?",
+          "a": "Yes, public transport in Ghent is very safe and reliable. The De Lijn tram and bus network is modern, well-maintained, and operates until late with night services. Keep belongings secure during rush hours, but violent crime on public transport is virtually nonexistent."
+        }
+      ],
+      "relatedCities": [
+        "brussels",
+        "bruges",
+        "antwerp"
+      ]
+    },
+    {
+      "slug": "salzburg",
+      "name": "Salzburg",
+      "country": "Austria",
+      "countryCode": "AT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.4,
+        "violentCrime": 9.1,
+        "scamRisk": 8.5,
+        "womensSafety": 8.8,
+        "nightSafety": 8.0,
+        "transport": 8.9,
+        "naturalHazards": 7.2
+      },
+      "summary": "Salzburg is one of Austria's safest cities with a crime index of just 20.5 and a safety index of 79.5. This baroque UNESCO World Heritage city enjoys excellent security, world-class healthcare, and reliable infrastructure making it ideal for all types of travelers.",
+      "quickVerdict": "Salzburg ranks among the world's safest tourist destinations with virtually no violent crime and minimal petty theft. The biggest concerns are overpriced tourist traps and occasional pickpocketing in crowded areas like Getreidegasse. The city's excellent public transport, comprehensive healthcare system, and professional police force create a secure environment for solo travelers, families, and women. While flooding can occasionally affect the region, tourists are unlikely to encounter serious safety issues during normal visits.",
+      "neighborhoods": [
+        {
+          "name": "Altstadt (Old Town)",
+          "score": 9.2,
+          "class": "safe",
+          "description": "The historic heart of Salzburg with UNESCO World Heritage status. Very safe day and night with heavy tourist police presence. Main risk is pickpocketing in crowded areas like Getreidegasse and around Mozart's Birthplace."
+        },
+        {
+          "name": "Neustadt (Right Bank)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Modern district with excellent hotels and dining. Less touristy than Old Town but equally safe. Good connections to public transport and walking distance to major attractions."
+        },
+        {
+          "name": "Nonntal",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Quiet residential area popular with students. Very safe with parks and cultural attractions. Southern part offers nature access while northern area has museums and galleries."
+        },
+        {
+          "name": "Elisabeth-Vorstadt (Train Station Area)",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Convenient for rail travelers but requires more caution, especially at night around the Hauptbahnhof. Some areas have sex shops and can feel less welcoming after dark."
+        },
+        {
+          "name": "Mülln",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic brewing district home to Augustinerbräu. Generally safe with some tourist attractions, though outer areas are more residential and less patrolled."
+        },
+        {
+          "name": "Lehen",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Residential area with higher reported crime rates and known drug activity in parks after dark. Not touristy and far from main attractions, so visitors are unlikely to venture here."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Charity Collectors",
+          "risk": "medium",
+          "description": "People approach with clipboards asking for donations to fake charities. May distract you while accomplices pickpocket.",
+          "howToAvoid": "Politely decline and walk away. Legitimate charities rarely solicit on the street."
+        },
+        {
+          "name": "Overpriced Taxi Rides",
+          "risk": "medium",
+          "description": "Some taxi drivers may refuse to use meters or take unnecessarily long routes, especially from the airport.",
+          "howToAvoid": "Use licensed taxis or apps like Free Now. Always check the meter is running and know approximate route distances."
+        },
+        {
+          "name": "ATM Helper Scam",
+          "risk": "medium",
+          "description": "Someone offers to help with ATM problems or bank fees while attempting to see your PIN or use a card skimmer.",
+          "howToAvoid": "Never accept help at ATMs. Cover your PIN entry and use ATMs at banks like Sparkasse or Raiffeisenkasse."
+        },
+        {
+          "name": "Bumping Pickpockets",
+          "risk": "high",
+          "description": "Thieves deliberately bump into tourists in crowded areas like Getreidegasse to distract while stealing wallets or phones.",
+          "howToAvoid": "Stay alert in crowds, secure valuables in front pockets or money belts, and immediately check if bumped by strangers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Salzburg is exceptionally safe for solo female travelers with minimal harassment and strong social respect for women. The city ranks 6th safest in Austria for women with a 4.2 out of 5 safety rating. Public transport is secure even at night, and locals are generally respectful and helpful.",
+        "tips": [
+          "Stay in well-lit areas after dark, particularly in the Old Town where there are more people around",
+          "The Salzburg Card provides free public transport and is convenient for solo exploration",
+          "Trust your instincts - if something feels off, locals and authorities are approachable for help"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Salzburg maintains excellent safety standards after dark with well-lit streets and regular police patrols in tourist areas. The Old Town stays lively until late with restaurants and bars, providing natural surveillance. Safety walking at night is rated highly at 66% even in Austrian standards.",
+        "tips": [
+          "Stick to main streets and tourist areas, especially around the Old Town and Neustadt",
+          "Avoid the train station area late at night unless necessary",
+          "Use public transport or taxis for longer distances after dark - both are very reliable"
+        ]
+      },
+      "transport": {
+        "metro": "Salzburg has no metro system but operates an excellent network of electric trolleybuses and regular buses running every 10-20 minutes. The system is clean, safe, and punctual with good coverage of tourist areas.",
+        "rideshare": "Limited Uber presence with long wait times. Local taxi apps like Free Now work better. Traditional taxis are reliable, safe, and accept cards with starting fares of 3.90 euros.",
+        "taxis": "Highly reliable and safe with fair pricing. All taxis have card machines and meters. Multiple taxi ranks throughout the city center and near major hotels.",
+        "tips": "Get the free Guest Mobility Ticket if staying overnight - provides unlimited public transport. Bus lines 1 and 4 circle the Old Town. Salzburg Card includes all public transport in the region."
+      },
+      "customs": [
+        "Dress modestly when visiting churches and religious sites with covered shoulders and knees",
+        "Observe Ruhezeiten quiet hours from 10 PM to 6 AM and all day Sundays - avoid loud music or activities",
+        "Austrians value punctuality and formality - use formal titles when meeting people until invited to use first names"
+      ],
+      "health": {
+        "overview": "Austria has one of the world's best healthcare systems ranked 9th by WHO. Salzburg offers excellent medical facilities with universal coverage and high-quality care available to tourists through the European Health Insurance Card or private insurance.",
+        "water": "Tap water is exceptionally clean and safe, often sourced directly from Alpine springs. No need for bottled water.",
+        "vaccinations": "No special vaccinations required. Standard travel vaccines like MMR may be recommended. Check CDC recommendations before travel.",
+        "altitude": "Salzburg sits at 424 meters elevation with no altitude concerns. Climate is temperate continental with cold winters and warm summers."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "133",
+        "ambulance": "144",
+        "fire": "122",
+        "touristPolice": "133 (same as regular police)",
+        "usEmbassy": "U.S. Embassy Vienna: Parkring 12A, 1010 Vienna, Austria. Phone: +43-1-313390"
+      },
+      "faq": [
+        {
+          "q": "Is Salzburg safe for tourists?",
+          "a": "Yes, Salzburg is extremely safe for tourists and ranks among the world's safest cities. Crime rates are very low with a safety index of 79.5. The biggest risks are minor pickpocketing in tourist areas and overpriced services."
+        },
+        {
+          "q": "Is Salzburg safe at night?",
+          "a": "Salzburg is very safe at night, especially in the Old Town and main tourist areas which stay well-lit and populated. Use normal precautions around the train station area and stick to main streets when walking alone."
+        },
+        {
+          "q": "Is Salzburg safe for solo female travelers?",
+          "a": "Absolutely. Salzburg ranks as the 6th safest city in Austria for women with a 4.2 out of 5 safety rating. Harassment is rare, public transport is secure, and locals are respectful and helpful."
+        },
+        {
+          "q": "What areas should I avoid in Salzburg?",
+          "a": "Avoid the Lehen district, particularly its parks after dark due to drug activity. Exercise more caution around the main train station at night. Otherwise, all tourist areas including the Old Town, Neustadt, and Nonntal are very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Salzburg?",
+          "a": "Yes, public transport in Salzburg is very safe, clean, and reliable. The electric trolleybus and bus network operates efficiently with regular schedules. Even night services are considered secure with good lighting and monitoring."
+        }
+      ],
+      "relatedCities": [
+        "vienna",
+        "innsbruck",
+        "graz",
+        "linz",
+        "munich",
+        "zurich"
+      ]
     }
   ]
 }

@@ -1186,5 +1186,53 @@
     "action": "alert",
     "city_id": "bali_indonesia",
     "details": "{\"city_id\": \"bali_indonesia\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Over 1,600 tourists stranded at I Gusti Ngurah Rai Airport due to Middle East airspace closures affecting connecting flights through Dubai/Qatar hubs.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T22:55:44.891363+00:00",
+    "action": "add",
+    "city_id": "frankfurt-germany",
+    "details": "New city added with score 7.0"
+  },
+  {
+    "timestamp": "2026-03-11T22:57:45.533529+00:00",
+    "action": "add",
+    "city_id": "dresden-germany",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-11T23:00:20.169005+00:00",
+    "action": "add",
+    "city_id": "geneva-switzerland",
+    "details": "New city added with score 8.4"
+  },
+  {
+    "timestamp": "2026-03-11T23:02:54.905440+00:00",
+    "action": "add",
+    "city_id": "interlaken-switzerland",
+    "details": "New city added with score 8.7"
+  },
+  {
+    "timestamp": "2026-03-11T23:04:35.232401+00:00",
+    "action": "add",
+    "city_id": "lucerne-switzerland",
+    "details": "New city added with score 8.8"
+  },
+  {
+    "timestamp": "2026-03-11T23:05:59.976832+00:00",
+    "action": "add",
+    "city_id": "bruges-belgium",
+    "details": "New city added with score 8.3"
+  },
+  {
+    "timestamp": "2026-03-11T23:07:47.062506+00:00",
+    "action": "add",
+    "city_id": "ghent-belgium",
+    "details": "New city added with score 7.9"
+  },
+  {
+    "timestamp": "2026-03-11T23:09:09.706313+00:00",
+    "action": "add",
+    "city_id": "salzburg-austria",
+    "details": "New city added with score 8.4"
   }
 ]

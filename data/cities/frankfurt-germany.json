@@ -1,0 +1,159 @@
+{
+  "slug": "frankfurt",
+  "name": "Frankfurt",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.0,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Frankfurt is generally safe for tourists but has higher crime rates than other German cities, primarily concentrated around the main train station area. The city offers excellent public transport and healthcare, with most safety concerns being petty crime rather than violent incidents.",
+  "quickVerdict": "Frankfurt presents a moderately safe environment for tourists, ranking among Germany's less safe cities due to elevated crime statistics, particularly around Hauptbahnhof and the red-light district. However, violent crime remains uncommon, and most incidents involve opportunistic petty theft. The city's excellent infrastructure, reliable public transport, and world-class healthcare system provide strong safety foundations. Visitors who stay alert, avoid certain areas at night, and take standard precautions will find Frankfurt manageable and rewarding to explore.",
+  "neighborhoods": [
+    {
+      "name": "Innenstadt (City Center)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-patrolled financial district with good lighting and regular police presence. Safe during business hours but exercise caution after dark near entertainment areas."
+    },
+    {
+      "name": "Sachsenhausen",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Charming traditional area south of the river known for apple wine taverns. Generally safe with good foot traffic and family-friendly atmosphere."
+    },
+    {
+      "name": "Westend",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential and business district with excellent safety record. Well-maintained streets and regular security presence make it very tourist-friendly."
+    },
+    {
+      "name": "Bahnhofsviertel",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Red-light district around the main station with higher crime rates. Avoid at night and be extra vigilant with belongings during the day."
+    },
+    {
+      "name": "Nordend",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Quiet residential neighborhood popular with young professionals. Safe for walking but less foot traffic than central areas."
+    },
+    {
+      "name": "Gallus",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Developing area with mixed safety record. Exercise caution, especially after dark, and avoid isolated streets."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Charity/Petition Scam",
+      "risk": "medium",
+      "description": "People approach with clipboards asking for signatures or donations for fake causes, often targeting tourists near major attractions.",
+      "howToAvoid": "Never sign documents or give money to street solicitors. Politely decline and walk away."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Criminals work in teams - one creates distraction (spilling something on you, asking directions) while accomplice pickpockets valuables.",
+      "howToAvoid": "Stay alert to your surroundings, keep bags zipped and secure, decline help from overly friendly strangers."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Fraudulent devices placed on ATMs to steal card information and PIN numbers, particularly at standalone machines.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover your PIN, check for loose parts on card readers."
+    },
+    {
+      "name": "Fake Transport Inspectors",
+      "risk": "low",
+      "description": "Scammers pose as ticket inspectors demanding immediate cash fines from tourists without valid tickets.",
+      "howToAvoid": "Real inspectors give penalty notices for later payment. Ask for official ID and never pay cash on-the-spot fines."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Frankfurt is generally safe for solo female travelers with standard precautions. Germany ranks well globally for women's safety, and Frankfurt benefits from good infrastructure and emergency services. However, extra caution is needed around the main station area, especially at night.",
+    "tips": [
+      "Stay in accommodations near the city center or Sachsenhausen rather than near the main train station",
+      "Use public transport confidently during the day but consider taxis late at night, especially from the Bahnhofsviertel",
+      "Trust your instincts and avoid poorly lit areas or situations that feel uncomfortable",
+      "Keep emergency numbers saved and consider sharing your location with someone when out alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Frankfurt's nightlife can be enjoyed safely with proper precautions. The city center and popular areas like Sachsenhausen remain relatively safe at night, but the area around Hauptbahnhof becomes more problematic after dark with increased drug activity and petty crime.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid the Bahnhofsviertel late at night",
+      "Use reputable ride-sharing services or official taxis rather than walking alone",
+      "Stay in groups when possible and watch your drinks at bars and clubs",
+      "Keep valuables secure and avoid displaying expensive items like jewelry or electronics"
+    ]
+  },
+  "transport": {
+    "metro": "The U-Bahn and S-Bahn systems are generally very safe and reliable. Stations are well-lit with CCTV coverage. Be vigilant for pickpockets during rush hours and avoid empty carriages late at night.",
+    "rideshare": "Uber and other ride-sharing apps operate safely in Frankfurt. Always verify the driver and vehicle details before getting in.",
+    "taxis": "Official taxis are safe and regulated. Use taxi stands or call reputable companies. Ensure the meter is running to avoid overcharging.",
+    "tips": "Public transport runs efficiently with good night services on weekends. Keep tickets handy as inspectors conduct random checks with 60 Euro fines for violations."
+  },
+  "customs": [
+    "Punctuality is highly valued - arrive on time for appointments and reservations",
+    "Greet people with firm handshakes and maintain direct eye contact when meeting",
+    "Tipping is expected at 5-10% in restaurants, round up taxi fares, tip hotel staff 1-2 euros per service"
+  ],
+  "health": {
+    "overview": "Germany has world-class healthcare with excellent medical facilities throughout Frankfurt. No special vaccinations are required for travel from most countries.",
+    "water": "Tap water is safe to drink throughout Germany. In restaurants, water typically costs money as free tap water is uncommon.",
+    "vaccinations": "No specific vaccinations required. Ensure routine vaccines (MMR, tetanus, flu) are up to date. Consider hepatitis A/B for extended stays.",
+    "altitude": "Frankfurt sits at low altitude with temperate climate. Air quality can worsen in winter but poses no significant health risks for most visitors."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Frankfurt: +49-69-7535-0, located at Gießener Str. 30, 60435 Frankfurt am Main. After-hours emergencies: +49-30-8305-0"
+  },
+  "faq": [
+    {
+      "q": "Is Frankfurt safe for tourists?",
+      "a": "Frankfurt is moderately safe for tourists. While it has higher crime rates than other German cities, most incidents involve petty theft rather than violence. Stay alert around the main train station area and follow standard travel precautions."
+    },
+    {
+      "q": "Is Frankfurt safe at night?",
+      "a": "Frankfurt's city center and popular districts like Sachsenhausen are generally safe at night. However, avoid the Bahnhofsviertel (red-light district) after dark and stick to well-lit, populated areas. Use taxis or ride-sharing for late-night transport."
+    },
+    {
+      "q": "Is Frankfurt safe for solo female travelers?",
+      "a": "Yes, Frankfurt is safe for solo female travelers who take standard precautions. Germany ranks well for women's safety globally. Stay in central accommodations, use public transport during the day, and trust your instincts about situations and areas."
+    },
+    {
+      "q": "What areas should I avoid in Frankfurt?",
+      "a": "Exercise extra caution in the Bahnhofsviertel (around the main train station), especially at night. The streets Taunusstraße and Niddastraße are particularly problematic. Gallus neighborhood also requires more vigilance than other areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Frankfurt?",
+      "a": "Yes, Frankfurt's public transport (U-Bahn, S-Bahn, trams, buses) is very safe and reliable. The system is well-maintained with good security coverage. Be aware of pickpockets during rush hours and keep your ticket handy for inspections."
+    }
+  ],
+  "relatedCities": [
+    "munich",
+    "berlin",
+    "hamburg"
+  ],
+  "_city_id": "frankfurt-germany"
+}

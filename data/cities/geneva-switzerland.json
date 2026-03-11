@@ -1,0 +1,163 @@
+{
+  "slug": "geneva",
+  "name": "Geneva",
+  "country": "Switzerland",
+  "countryCode": "CH",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.2,
+    "scamRisk": 8.0,
+    "womensSafety": 8.8,
+    "nightSafety": 8.1,
+    "transport": 8.7,
+    "naturalHazards": 8.5
+  },
+  "summary": "Geneva is consistently ranked as one of the world's safest cities, with extremely low crime rates and excellent public safety infrastructure. The US State Department rates Switzerland as Level 1 - Exercise Normal Precautions, and Geneva ranks among the top cities globally for safety and quality of life.",
+  "quickVerdict": "Geneva is exceptionally safe for tourists with virtually no violent crime and very low petty crime rates. While some areas like Cornavin and Les Pâquis require basic caution at night, the city maintains outstanding public safety standards. Women travelers can feel confident exploring alone, public transport is highly reliable, and the Swiss emphasis on order and respect creates a secure environment for all visitors.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Vieille Ville)",
+      "score": 9.2,
+      "class": "safe",
+      "description": "Historic center with excellent lighting, regular police presence, and constant foot traffic. Completely safe day and night with tourist police patrols and well-maintained cobblestone streets."
+    },
+    {
+      "name": "International Quarter",
+      "score": 8.9,
+      "class": "safe",
+      "description": "Home to UN headquarters and international organizations. Very secure with diplomatic police presence, excellent infrastructure, and professional business atmosphere throughout the day and evening."
+    },
+    {
+      "name": "Eaux-Vives/Champel",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Upscale residential area with parks, museums, and quality restaurants. Well-lit streets, affluent neighborhood feel, and very low crime rates make this ideal for evening strolls."
+    },
+    {
+      "name": "Plainpalais",
+      "score": 7.1,
+      "class": "safe",
+      "description": "University district with vibrant nightlife and student population. Generally safe but can get rowdy around bars late at night. Stick to main streets and use official transport after midnight."
+    },
+    {
+      "name": "Cornavin/Train Station Area",
+      "score": 6.3,
+      "class": "caution",
+      "description": "Busy transport hub that attracts transient activity and some drug users. Exercise normal urban caution, especially after 11 PM. Avoid poorly lit side streets and keep valuables secure."
+    },
+    {
+      "name": "Les Pâquis",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Red-light district with higher crime rates, drug activity, and prostitution. While not extremely dangerous, avoid walking alone late at night. Daytime visits are generally fine with basic precautions."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Buddhist Monks",
+      "risk": "medium",
+      "description": "Scammers dressed as monks approach tourists offering friendship bracelets or small gifts, then aggressively demand payment",
+      "howToAvoid": "Politely decline any unsolicited gifts or items placed on you. Real Buddhist monks don't sell items on the street. Walk away immediately if approached."
+    },
+    {
+      "name": "Shell and Pea Game",
+      "risk": "medium",
+      "description": "Street gambling scam using three cups and a ball, with accomplices pretending to win to lure tourists. Minimum bets start at 100 CHF and the ball is never actually under any cup",
+      "howToAvoid": "Avoid any street gambling entirely. The game is rigged and designed to take your money. Police actively work to shut these down but they still operate."
+    },
+    {
+      "name": "Fake Police Checks",
+      "risk": "low",
+      "description": "Scammers posing as plainclothes police ask to see wallets and identification, then steal money or cards during the inspection",
+      "howToAvoid": "Ask to see official police identification and badge. If in doubt, don't hand over belongings and call 117 (police emergency number) immediately."
+    },
+    {
+      "name": "Credit Card Receipt Scams",
+      "risk": "low",
+      "description": "Some Swiss establishments print full credit card numbers on receipts, creating identity theft risk if discarded carelessly",
+      "howToAvoid": "Always review receipts carefully and tear up or properly dispose of any containing full card numbers. Keep receipts until you can shred them properly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Geneva is exceptionally safe for solo female travelers, consistently ranking among the top destinations worldwide for women's safety. The city has strong legal protections, gender equality measures, and very low rates of harassment or assault. Public transport is reliable and safe at all hours, and there's a strong culture of respect for personal space and privacy.",
+    "tips": [
+      "Avoid walking alone in Les Pâquis late at night, though it's not extremely dangerous",
+      "Use well-lit main streets when moving between venues after midnight",
+      "Trust your instincts - Swiss culture values directness so don't hesitate to firmly decline unwanted attention",
+      "Take advantage of excellent public transport rather than walking alone in unfamiliar areas late at night",
+      "Hotel staff and tourist information can provide current local safety updates and recommendations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Geneva maintains high safety standards after dark, with well-lit streets, efficient public transport until late hours, and generally peaceful nightlife areas. Most areas of the city center remain safe for walking at night, though basic urban precautions should be taken in certain neighborhoods like Cornavin and Les Pâquis.",
+    "tips": [
+      "Bars close around 2 AM and clubs until 5 AM, with good transport connections available",
+      "Use official taxis or ride-sharing apps rather than walking through industrial areas after midnight",
+      "Stay in groups when bar-hopping in Plainpalais area late at night",
+      "The Old Town and lakefront areas remain well-patrolled and safe throughout the night",
+      "Night buses operate on weekends but check schedules in advance"
+    ]
+  },
+  "transport": {
+    "metro": "Geneva has an excellent integrated public transport system (UNIRESO) with trams, buses, boats, and trains. The system is punctual, clean, and very safe with regular security presence. All forms of transport use the same tickets and operate until midnight on weekdays, with extended weekend service.",
+    "rideshare": "Uber operates reliably in Geneva with pickup points clearly marked. Standard Swiss pricing applies (expensive but quality service). Traditional taxis are available at designated stands and by phone, accepting credit cards but at premium rates.",
+    "taxis": "Official taxis are very safe and well-regulated with fixed rates. They're expensive (typical Swiss pricing) but reliable and professional. Available 24/7 at major locations like the airport, train station, and Place du Lac. Most drivers speak basic English.",
+    "tips": "Get a free Geneva Transport Card from any hotel stay for unlimited public transport. The airport train to city center takes just 10 minutes. Validate tickets before boarding to avoid fines. Public transport is generally safer and more efficient than taxis for most journeys."
+  },
+  "customs": [
+    "Punctuality is extremely important - being late without notice is considered disrespectful",
+    "Keep noise levels down in public spaces, especially on public transport and in quiet residential areas",
+    "Greet people formally with titles (Mr./Ms./Dr.) until invited to use first names, and shake hands with direct eye contact",
+    "Tipping is not mandatory but rounding up bills or adding 5-10% is appreciated for good service",
+    "Respect for privacy and personal space is paramount - Swiss people value discretion and quiet behavior"
+  ],
+  "health": {
+    "overview": "Switzerland has one of the world's best healthcare systems with excellent medical facilities and highly trained professionals. Geneva University Hospitals (HUG) provide world-class emergency and specialized care. No special vaccinations are required for Switzerland.",
+    "water": "Tap water is excellent quality and safe to drink throughout Geneva. Public fountains provide fresh mountain spring water that's perfectly safe for consumption.",
+    "vaccinations": "No special vaccinations required for Switzerland. Routine vaccinations like MMR, tetanus, and diphtheria are recommended but not mandatory. EU health cards are accepted.",
+    "altitude": "Geneva sits at 373 meters above sea level with no altitude concerns. The climate is temperate with cold winters and warm summers. Air quality is generally good despite being an urban area."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "117",
+    "ambulance": "144",
+    "fire": "118",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Bern: +41-31-357-7011. US Consulate Geneva: +41-22-919-9200. For 24/7 emergency assistance call +1-202-501-4444 from abroad or +1-888-407-4747 from US/Canada"
+  },
+  "faq": [
+    {
+      "q": "Is Geneva safe for tourists?",
+      "a": "Yes, Geneva is exceptionally safe for tourists and consistently ranks among the world's safest cities. Crime rates are very low, and violent crime is virtually non-existent. Basic urban awareness is sufficient for a safe visit."
+    },
+    {
+      "q": "Is Geneva safe at night?",
+      "a": "Geneva is generally very safe at night with well-lit streets and good public transport. Avoid Les Pâquis late at night and be cautious around Cornavin station after midnight, but most areas remain perfectly safe for evening activities."
+    },
+    {
+      "q": "Is Geneva safe for solo female travelers?",
+      "a": "Absolutely. Geneva ranks among the top destinations globally for solo female travel with strong legal protections, low harassment rates, and excellent safety infrastructure. Women regularly travel alone without incident."
+    },
+    {
+      "q": "What areas should I avoid in Geneva?",
+      "a": "Les Pâquis (red-light district) late at night requires caution but isn't extremely dangerous. The area around Cornavin train station can be dodgy after 11 PM. Avoid poorly lit industrial areas and stick to main thoroughfares when walking late."
+    },
+    {
+      "q": "Is it safe to use public transport in Geneva?",
+      "a": "Yes, Geneva's public transport is very safe, efficient, and reliable. The integrated UNIRESO system operates until late with good security presence. It's often safer than walking, especially for longer distances or late-night travel."
+    }
+  ],
+  "relatedCities": [
+    "zurich",
+    "bern",
+    "basel"
+  ],
+  "_city_id": "geneva-switzerland"
+}

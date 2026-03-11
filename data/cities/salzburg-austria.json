@@ -1,0 +1,160 @@
+{
+  "slug": "salzburg",
+  "name": "Salzburg",
+  "country": "Austria",
+  "countryCode": "AT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.4,
+    "violentCrime": 9.1,
+    "scamRisk": 8.5,
+    "womensSafety": 8.8,
+    "nightSafety": 8.0,
+    "transport": 8.9,
+    "naturalHazards": 7.2
+  },
+  "summary": "Salzburg is one of Austria's safest cities with a crime index of just 20.5 and a safety index of 79.5. This baroque UNESCO World Heritage city enjoys excellent security, world-class healthcare, and reliable infrastructure making it ideal for all types of travelers.",
+  "quickVerdict": "Salzburg ranks among the world's safest tourist destinations with virtually no violent crime and minimal petty theft. The biggest concerns are overpriced tourist traps and occasional pickpocketing in crowded areas like Getreidegasse. The city's excellent public transport, comprehensive healthcare system, and professional police force create a secure environment for solo travelers, families, and women. While flooding can occasionally affect the region, tourists are unlikely to encounter serious safety issues during normal visits.",
+  "neighborhoods": [
+    {
+      "name": "Altstadt (Old Town)",
+      "score": 9.2,
+      "class": "safe",
+      "description": "The historic heart of Salzburg with UNESCO World Heritage status. Very safe day and night with heavy tourist police presence. Main risk is pickpocketing in crowded areas like Getreidegasse and around Mozart's Birthplace."
+    },
+    {
+      "name": "Neustadt (Right Bank)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Modern district with excellent hotels and dining. Less touristy than Old Town but equally safe. Good connections to public transport and walking distance to major attractions."
+    },
+    {
+      "name": "Nonntal",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Quiet residential area popular with students. Very safe with parks and cultural attractions. Southern part offers nature access while northern area has museums and galleries."
+    },
+    {
+      "name": "Elisabeth-Vorstadt (Train Station Area)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Convenient for rail travelers but requires more caution, especially at night around the Hauptbahnhof. Some areas have sex shops and can feel less welcoming after dark."
+    },
+    {
+      "name": "Mülln",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic brewing district home to Augustinerbräu. Generally safe with some tourist attractions, though outer areas are more residential and less patrolled."
+    },
+    {
+      "name": "Lehen",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Residential area with higher reported crime rates and known drug activity in parks after dark. Not touristy and far from main attractions, so visitors are unlikely to venture here."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "medium",
+      "description": "People approach with clipboards asking for donations to fake charities. May distract you while accomplices pickpocket.",
+      "howToAvoid": "Politely decline and walk away. Legitimate charities rarely solicit on the street."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Some taxi drivers may refuse to use meters or take unnecessarily long routes, especially from the airport.",
+      "howToAvoid": "Use licensed taxis or apps like Free Now. Always check the meter is running and know approximate route distances."
+    },
+    {
+      "name": "ATM Helper Scam",
+      "risk": "medium",
+      "description": "Someone offers to help with ATM problems or bank fees while attempting to see your PIN or use a card skimmer.",
+      "howToAvoid": "Never accept help at ATMs. Cover your PIN entry and use ATMs at banks like Sparkasse or Raiffeisenkasse."
+    },
+    {
+      "name": "Bumping Pickpockets",
+      "risk": "high",
+      "description": "Thieves deliberately bump into tourists in crowded areas like Getreidegasse to distract while stealing wallets or phones.",
+      "howToAvoid": "Stay alert in crowds, secure valuables in front pockets or money belts, and immediately check if bumped by strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Salzburg is exceptionally safe for solo female travelers with minimal harassment and strong social respect for women. The city ranks 6th safest in Austria for women with a 4.2 out of 5 safety rating. Public transport is secure even at night, and locals are generally respectful and helpful.",
+    "tips": [
+      "Stay in well-lit areas after dark, particularly in the Old Town where there are more people around",
+      "The Salzburg Card provides free public transport and is convenient for solo exploration",
+      "Trust your instincts - if something feels off, locals and authorities are approachable for help"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Salzburg maintains excellent safety standards after dark with well-lit streets and regular police patrols in tourist areas. The Old Town stays lively until late with restaurants and bars, providing natural surveillance. Safety walking at night is rated highly at 66% even in Austrian standards.",
+    "tips": [
+      "Stick to main streets and tourist areas, especially around the Old Town and Neustadt",
+      "Avoid the train station area late at night unless necessary",
+      "Use public transport or taxis for longer distances after dark - both are very reliable"
+    ]
+  },
+  "transport": {
+    "metro": "Salzburg has no metro system but operates an excellent network of electric trolleybuses and regular buses running every 10-20 minutes. The system is clean, safe, and punctual with good coverage of tourist areas.",
+    "rideshare": "Limited Uber presence with long wait times. Local taxi apps like Free Now work better. Traditional taxis are reliable, safe, and accept cards with starting fares of 3.90 euros.",
+    "taxis": "Highly reliable and safe with fair pricing. All taxis have card machines and meters. Multiple taxi ranks throughout the city center and near major hotels.",
+    "tips": "Get the free Guest Mobility Ticket if staying overnight - provides unlimited public transport. Bus lines 1 and 4 circle the Old Town. Salzburg Card includes all public transport in the region."
+  },
+  "customs": [
+    "Dress modestly when visiting churches and religious sites with covered shoulders and knees",
+    "Observe Ruhezeiten quiet hours from 10 PM to 6 AM and all day Sundays - avoid loud music or activities",
+    "Austrians value punctuality and formality - use formal titles when meeting people until invited to use first names"
+  ],
+  "health": {
+    "overview": "Austria has one of the world's best healthcare systems ranked 9th by WHO. Salzburg offers excellent medical facilities with universal coverage and high-quality care available to tourists through the European Health Insurance Card or private insurance.",
+    "water": "Tap water is exceptionally clean and safe, often sourced directly from Alpine springs. No need for bottled water.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines like MMR may be recommended. Check CDC recommendations before travel.",
+    "altitude": "Salzburg sits at 424 meters elevation with no altitude concerns. Climate is temperate continental with cold winters and warm summers."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "133",
+    "ambulance": "144",
+    "fire": "122",
+    "touristPolice": "133 (same as regular police)",
+    "usEmbassy": "U.S. Embassy Vienna: Parkring 12A, 1010 Vienna, Austria. Phone: +43-1-313390"
+  },
+  "faq": [
+    {
+      "q": "Is Salzburg safe for tourists?",
+      "a": "Yes, Salzburg is extremely safe for tourists and ranks among the world's safest cities. Crime rates are very low with a safety index of 79.5. The biggest risks are minor pickpocketing in tourist areas and overpriced services."
+    },
+    {
+      "q": "Is Salzburg safe at night?",
+      "a": "Salzburg is very safe at night, especially in the Old Town and main tourist areas which stay well-lit and populated. Use normal precautions around the train station area and stick to main streets when walking alone."
+    },
+    {
+      "q": "Is Salzburg safe for solo female travelers?",
+      "a": "Absolutely. Salzburg ranks as the 6th safest city in Austria for women with a 4.2 out of 5 safety rating. Harassment is rare, public transport is secure, and locals are respectful and helpful."
+    },
+    {
+      "q": "What areas should I avoid in Salzburg?",
+      "a": "Avoid the Lehen district, particularly its parks after dark due to drug activity. Exercise more caution around the main train station at night. Otherwise, all tourist areas including the Old Town, Neustadt, and Nonntal are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Salzburg?",
+      "a": "Yes, public transport in Salzburg is very safe, clean, and reliable. The electric trolleybus and bus network operates efficiently with regular schedules. Even night services are considered secure with good lighting and monitoring."
+    }
+  ],
+  "relatedCities": [
+    "vienna",
+    "innsbruck",
+    "graz",
+    "linz",
+    "munich",
+    "zurich"
+  ],
+  "_city_id": "salzburg-austria"
+}

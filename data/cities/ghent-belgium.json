@@ -1,0 +1,161 @@
+{
+  "slug": "ghent",
+  "name": "Ghent",
+  "country": "Belgium",
+  "countryCode": "BE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 8.1,
+    "nightSafety": 7.4,
+    "transport": 8.3,
+    "naturalHazards": 8.9
+  },
+  "summary": "Ghent is one of Belgium's safest cities, ranking significantly higher than Brussels in safety indices and offering tourists a secure environment with low crime rates. The city combines excellent public transportation, well-lit streets, and a strong police presence with beautiful medieval architecture and vibrant student culture.",
+  "quickVerdict": "Ghent stands out as a remarkably safe destination for tourists, consistently ranking among Belgium's safest cities with a crime index of just 26.08%. The historic city center is well-patrolled and illuminated, public transportation is reliable and secure, and violent crime against tourists is extremely rare. While petty crime like pickpocketing can occur in crowded areas, the overall risk is low, and the city's student population and tourist-friendly infrastructure create a welcoming atmosphere for all visitors.",
+  "neighborhoods": [
+    {
+      "name": "Historic City Center",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The car-free medieval center is exceptionally safe with excellent lighting, regular police patrols, and heavy tourist traffic during the day. Well-maintained cobblestone streets lead to major attractions like St. Bavo's Cathedral and Gravensteen Castle."
+    },
+    {
+      "name": "University Quarter",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Home to Ghent University, this area benefits from good security infrastructure and active student presence. The area around Voldersstraat is well-lit at night and has regular foot traffic, making it safe for evening exploration."
+    },
+    {
+      "name": "Korenmarkt & Graslei",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The picturesque waterfront area with restaurants and cafes is very safe, with good lighting and frequent police presence. Evening canal walks are popular and generally secure, though watch for pickpockets during peak hours."
+    },
+    {
+      "name": "Dampoort",
+      "score": 6.8,
+      "class": "caution",
+      "description": "The area around Dampoort train station has higher foot traffic and some reports of minor crime. While not dangerous, travelers should be more alert here, especially late at night or when carrying valuables."
+    },
+    {
+      "name": "Brugse Poort",
+      "score": 5.9,
+      "class": "caution",
+      "description": "This neighborhood has undergone gentrification but still experiences higher crime rates than central areas. Some reports of drug-related activity and petty crime, particularly after dark. Exercise normal urban caution."
+    },
+    {
+      "name": "Rabot",
+      "score": 4.8,
+      "class": "danger",
+      "description": "A residential area with higher crime rates and occasional reports of anti-social behavior. Not typically visited by tourists, but those passing through should avoid the area late at night and remain vigilant about personal belongings."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing in Tourist Areas",
+      "risk": "medium",
+      "description": "Professional pickpockets target crowded tourist spots like Gravensteen Castle, St. Bavo's Cathedral, and busy market squares. They work in teams and target distracted visitors taking photos or consulting maps.",
+      "howToAvoid": "Keep valuables in front pockets or money belts, stay aware of your surroundings in crowds, and avoid displaying expensive items like jewelry or large amounts of cash."
+    },
+    {
+      "name": "Fake Accommodation Rentals",
+      "risk": "high",
+      "description": "Scammers post fraudulent rental listings online targeting international students and tourists, often claiming the owner is abroad and requesting advance payment before viewing the property.",
+      "howToAvoid": "Always insist on seeing properties in person before paying, verify the identity of landlords, and be suspicious of prices that seem too good to be true. Use reputable booking platforms when possible."
+    },
+    {
+      "name": "ATM Assistance Scam",
+      "risk": "low",
+      "description": "Individuals approach tourists at ATMs offering help with the machine while attempting to observe PIN numbers or steal cards during the transaction process.",
+      "howToAvoid": "Never accept help from strangers at ATMs, shield your PIN when entering it, and use ATMs inside banks or well-lit areas with security cameras."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some establishments may add unauthorized charges to bills or bring unrequested items then charge for them, particularly targeting tourists who may not speak the local language fluently.",
+      "howToAvoid": "Always check bills carefully before paying, ask for itemized receipts, and clarify what items you're ordering. Don't be afraid to question charges you don't recognize."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Ghent is exceptionally safe for solo female travelers, ranking as the 24th safest place globally for women traveling alone with a 4.7/5 safety rating. The city has low rates of violent crime, well-lit streets, reliable public transport, and a welcoming atmosphere. Female travelers consistently report feeling secure walking alone during both day and night hours, with many praising the helpful local population and robust safety infrastructure.",
+    "tips": [
+      "Stay in central accommodations near the historic center for maximum safety and convenience",
+      "The evening canal walks are popular and generally safe, but trust your instincts if areas feel uncomfortable",
+      "Public transportation is very safe for women, with good lighting and security at stations",
+      "Evening activities in the university quarter are lively and well-monitored due to student population",
+      "Keep emergency numbers saved and inform accommodations of your daily itinerary as a precaution"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Ghent's nightlife scene is vibrant and generally safe, with the city's famous light plan creating a magical and secure evening atmosphere. The historic center remains well-lit and patrolled throughout the night, while popular nightlife areas like Overpoortstraat and Vlasmarkt maintain good security. The city's comprehensive evening lighting system and active student population contribute to a lively but safe night environment.",
+    "tips": [
+      "Take advantage of the city's light plan walking route, which illuminates major attractions until midnight",
+      "Stick to well-lit main streets when walking at night, especially around Kouter and Sint-Baafsplein",
+      "Use official taxis or ride-sharing apps rather than walking long distances alone after midnight",
+      "The Overpoort area can get rowdy during student events, but remains relatively safe with good police presence",
+      "Avoid poorly lit residential areas outside the city center after dark"
+    ]
+  },
+  "transport": {
+    "metro": "Ghent does not have a metro system, but operates an extensive network of trams and buses managed by De Lijn. The system is considered very safe with modern vehicles, good lighting, and contactless payment options. Trams run until late evening with some night services.",
+    "rideshare": "Uber operates in Ghent alongside local taxi companies. Ride-sharing is generally safe and reliable, particularly useful for late-night travel when public transport frequency decreases. Always verify vehicle details before entering.",
+    "taxis": "Licensed taxis in Ghent are safe and regulated with fixed rates and meters. They're readily available at major locations like train stations and can be pre-booked. Avoid unlicensed vehicles and ensure you use official taxi stands or reputable companies.",
+    "tips": "Public transport tickets cost 3 euros and are valid for 60 minutes across the network. Night buses (marked with 'N+') operate until 1 AM seven days a week. Keep belongings secure during peak hours when trams and buses are crowded."
+  },
+  "customs": [
+    "Belgians value politeness and formal greetings - a handshake is standard when meeting someone new, with close friends greeting with kisses on both cheeks",
+    "Punctuality is highly respected - arrive on time for appointments, restaurant reservations, and social gatherings",
+    "When dining, wait for the host to begin eating and keep hands visible on the table rather than in your lap throughout the meal"
+  ],
+  "health": {
+    "overview": "Belgium offers excellent healthcare with one of Europe's top-rated medical systems. Ghent has high-quality hospitals including Ghent University Hospital and modern healthcare facilities with English-speaking staff available in major medical centers.",
+    "water": "Tap water in Ghent is completely safe to drink and meets high European standards. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Belgium. Routine vaccines like MMR, DTaP, and seasonal influenza are recommended. Check with your healthcare provider before travel.",
+    "altitude": "Ghent is at sea level with a temperate maritime climate. No altitude considerations, but weather can be unpredictable with frequent rain throughout the year."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "101",
+    "ambulance": "100",
+    "fire": "100",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Brussels: +32-2-811-4000 (24/7 emergency line). Located at 27 Boulevard du Régent, 1000 Brussels. For US citizen services and emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Ghent safe for tourists?",
+      "a": "Yes, Ghent is very safe for tourists and ranks as one of Belgium's safest cities. With a crime index of only 26.08%, it's significantly safer than Brussels and most European capitals. The historic center is well-patrolled, well-lit, and violent crime against tourists is extremely rare."
+    },
+    {
+      "q": "Is Ghent safe at night?",
+      "a": "Ghent is generally safe at night, especially in the city center and popular areas. The city's famous light plan illuminates major streets and buildings until midnight, creating a secure atmosphere. Stick to main tourist areas and well-lit streets, and avoid isolated residential neighborhoods after dark."
+    },
+    {
+      "q": "Is Ghent safe for solo female travelers?",
+      "a": "Absolutely. Ghent ranks as the 24th safest place globally for solo female travelers with a 4.7/5 rating. Women consistently report feeling secure walking alone, and the city has excellent infrastructure, reliable public transport, and a helpful local population."
+    },
+    {
+      "q": "What areas should I avoid in Ghent?",
+      "a": "While Ghent is generally safe, exercise more caution in areas like Rabot, Brugse Poort, and parts of Nieuw Gent, particularly late at night. These residential areas have higher crime rates than the tourist center. The area around Dampoort station also requires normal urban vigilance."
+    },
+    {
+      "q": "Is it safe to use public transport in Ghent?",
+      "a": "Yes, public transport in Ghent is very safe and reliable. The De Lijn tram and bus network is modern, well-maintained, and operates until late with night services. Keep belongings secure during rush hours, but violent crime on public transport is virtually nonexistent."
+    }
+  ],
+  "relatedCities": [
+    "brussels",
+    "bruges",
+    "antwerp"
+  ],
+  "_city_id": "ghent-belgium"
+}
