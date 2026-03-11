@@ -643,3 +643,17 @@
 2026-03-11 06:21:38,419 [INFO] Merged into site data: Palma de Mallorca
 2026-03-11 06:21:38,441 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-11 06:21:38,441 [INFO] Updated sitemap with 8 new URLs
+2026-03-11 07:57:28,066 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-11 07:57:28,130 [INFO] Checking alerts for 102 cities
+2026-03-11 07:58:15,438 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 07:58:15,471 [WARNING] ALERTS DETECTED: 10
+2026-03-11 07:58:15,471 [WARNING]   [high] istanbul_turkey: Turkey travel advisory updated March 8, 2026. US government employees subject to travel restrictions in southeastern Turkey due to heightened risks following US-Iran hostilities. NATO air defenses destroyed Iranian ballistic missile headed into Turkish airspace March 4.
+2026-03-11 07:58:15,473 [WARNING]   [critical] abu_dhabi_uae: UAE escalated to shelter-in-place status as of March 8, 2026. US Embassy and Consulate closed. Limited commercial flights with restricted airport access to confirmed ticket holders only. Previously under Reconsider Travel advisory.
+2026-03-11 07:58:15,474 [WARNING]   [critical] tel_aviv_israel: US Embassy Jerusalem suspended routine consular services through March 13, 2026 (extended one week). Shelter-in-place for Israel, West Bank and Gaza. Limited outbound flights resumed March 8 from Ben Gurion Airport.
+2026-03-11 07:58:15,475 [WARNING]   [critical] brussels_belgium: National strike March 12, 2026 will cancel ALL departing flights from Brussels Airport. 24-hour walkout by all major union confederations affecting rail, public transport, and aviation. Strike impacts March 8-12 with rail disruptions starting early.
+2026-03-11 07:58:15,476 [WARNING]   [medium] amsterdam_netherlands: Pro-Iran monarchy and pro-democracy protests March 7, 2026 with demonstrators marching along city canals. Related to ongoing Iran conflict. Protests generally peaceful but may cause local traffic disruptions.
+2026-03-11 07:58:15,478 [WARNING]   [high] playa_del_carmen_mexico: Cartel retaliation violence Feb 22-23, 2026 following death of CJNG leader 'El Mencho'. Cars and businesses set on fire in Playa del Carmen, Cancun and Tulum. 6-7 arrests made in PDC. Violence has since subsided but elevated security remains.
+2026-03-11 07:58:15,479 [WARNING]   [medium] mexico_city_mexico: Mexico Level 2 travel advisory remains in effect following nationwide cartel violence wave Feb 22-26. Popular tourist areas including Mexico City largely unaffected but travelers advised to exercise increased caution.
+2026-03-11 07:58:15,480 [WARNING]   [medium] new_delhi_india: Multiple protests in New Delhi March 2-7, 2026. Anti-Iran killing demonstrations and ongoing pollution protests at India Gate area. 17 arrests made during pollution protests with some violence reported between protesters and police.
+2026-03-11 07:58:15,481 [WARNING]   [medium] hanoi_vietnam: Vietnam included in CDC global dengue outbreak advisory updated March 2026. Dengue is year-round risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
+2026-03-11 07:58:15,482 [WARNING]   [medium] cape_town_south_africa: Cape Town Crime Index 2026 ranks city 16th globally with crime score 73.7. Recent violent attacks reported on hiking trails including Table Mountain, Lion's Head and Signal Hill. UK gov warns of attacks on secondary roads to/from Cape Town airport.
