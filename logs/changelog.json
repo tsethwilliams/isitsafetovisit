@@ -1018,5 +1018,71 @@
     "action": "add",
     "city_id": "amalfi-italy",
     "details": "New city added with score 8.0"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.973207+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"Ongoing Iranian missile and drone strikes targeting Tel Aviv. Multiple casualties reported including deaths from cluster bomb strikes. UNESCO World Heritage sites damaged. US Embassy suspended consular services and advised Americans to shelter in place. Airport operating limited flights.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.974642+00:00",
+    "action": "alert",
+    "city_id": "abu_dhabi_uae",
+    "details": "{\"city_id\": \"abu_dhabi_uae\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"UAE airspace partially closed with major flight cancellations and disruptions at Abu Dhabi Airport. Etihad Airways operating very limited schedule through March 19. Iranian missile strikes reported at airport infrastructure.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.975937+00:00",
+    "action": "alert",
+    "city_id": "dubai_uae",
+    "details": "{\"city_id\": \"dubai_uae\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Dubai airports experienced complete closure March 1-2, now operating limited flights. Emirates running reduced schedule. Multiple airline suspensions including British Airways canceling service until end of year. Access restricted to confirmed passengers only.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.977230+00:00",
+    "action": "alert",
+    "city_id": "nassau_bahamas",
+    "details": "{\"city_id\": \"nassau_bahamas\", \"alert_type\": \"crime_wave\", \"severity\": \"medium\", \"summary\": \"Nassau maintains high violent crime rates with particular concerns in Over-the-Hill area south of Shirley Street where gang violence has killed residents. Armed robberies, sexual assaults targeting tourists in resort areas and cruise terminals.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.978512+00:00",
+    "action": "alert",
+    "city_id": "madrid_spain",
+    "details": "{\"city_id\": \"madrid_spain\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Large demonstrations on International Women's Day March 8 with thousands protesting violence against women and Middle East war. Multiple cities affected including Madrid, Barcelona, Seville, Granada.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.979836+00:00",
+    "action": "alert",
+    "city_id": "barcelona_spain",
+    "details": "{\"city_id\": \"barcelona_spain\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"International Women's Day demonstrations March 8 with protesters expressing solidarity with war-affected women and denouncing Middle East conflict.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.981133+00:00",
+    "action": "alert",
+    "city_id": "seville_spain",
+    "details": "{\"city_id\": \"seville_spain\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"International Women's Day protests March 8 among multiple Spanish cities with demonstrations against violence and war.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.982445+00:00",
+    "action": "alert",
+    "city_id": "granada_spain",
+    "details": "{\"city_id\": \"granada_spain\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"International Women's Day demonstrations March 8 with protesters denouncing violence against women and Middle East conflict.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.983773+00:00",
+    "action": "alert",
+    "city_id": "brussels_belgium",
+    "details": "{\"city_id\": \"brussels_belgium\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Protest scheduled for March 8 with traffic adaptations from 2pm to 4pm in Brussels city center.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.985238+00:00",
+    "action": "alert",
+    "city_id": "milan_italy",
+    "details": "{\"city_id\": \"milan_italy\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Authorized demonstrations March 7 at Piazza Castello (pro-US/Israel groups 2-5pm) and anti-US/pro-Palestine march (3-6pm) from Piazza della Scala to US Consulate. 1000-1500 participants expected.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T14:37:19.986683+00:00",
+    "action": "alert",
+    "city_id": "rome_italy",
+    "details": "{\"city_id\": \"rome_italy\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Demonstration scheduled March 3 at 6pm at US Embassy (Via Bissolati/Via Veneto corner) protesting US government actions in Iran.\", \"action\": \"add_incident\"}"
   }
 ]

@@ -693,3 +693,18 @@
 2026-03-11 12:01:10,622 [INFO] Merged into site data: Amalfi
 2026-03-11 12:01:10,645 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-11 12:01:10,646 [INFO] Updated sitemap with 8 new URLs
+2026-03-11 14:36:38,929 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-11 14:36:38,992 [INFO] Checking alerts for 110 cities
+2026-03-11 14:37:19,821 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 14:37:19,972 [WARNING] ALERTS DETECTED: 11
+2026-03-11 14:37:19,972 [WARNING]   [critical] tel_aviv_israel: Ongoing Iranian missile and drone strikes targeting Tel Aviv. Multiple casualties reported including deaths from cluster bomb strikes. UNESCO World Heritage sites damaged. US Embassy suspended consular services and advised Americans to shelter in place. Airport operating limited flights.
+2026-03-11 14:37:19,974 [WARNING]   [high] abu_dhabi_uae: UAE airspace partially closed with major flight cancellations and disruptions at Abu Dhabi Airport. Etihad Airways operating very limited schedule through March 19. Iranian missile strikes reported at airport infrastructure.
+2026-03-11 14:37:19,975 [WARNING]   [high] dubai_uae: Dubai airports experienced complete closure March 1-2, now operating limited flights. Emirates running reduced schedule. Multiple airline suspensions including British Airways canceling service until end of year. Access restricted to confirmed passengers only.
+2026-03-11 14:37:19,976 [WARNING]   [medium] nassau_bahamas: Nassau maintains high violent crime rates with particular concerns in Over-the-Hill area south of Shirley Street where gang violence has killed residents. Armed robberies, sexual assaults targeting tourists in resort areas and cruise terminals.
+2026-03-11 14:37:19,978 [WARNING]   [low] madrid_spain: Large demonstrations on International Women's Day March 8 with thousands protesting violence against women and Middle East war. Multiple cities affected including Madrid, Barcelona, Seville, Granada.
+2026-03-11 14:37:19,979 [WARNING]   [low] barcelona_spain: International Women's Day demonstrations March 8 with protesters expressing solidarity with war-affected women and denouncing Middle East conflict.
+2026-03-11 14:37:19,980 [WARNING]   [low] seville_spain: International Women's Day protests March 8 among multiple Spanish cities with demonstrations against violence and war.
+2026-03-11 14:37:19,982 [WARNING]   [low] granada_spain: International Women's Day demonstrations March 8 with protesters denouncing violence against women and Middle East conflict.
+2026-03-11 14:37:19,983 [WARNING]   [low] brussels_belgium: Protest scheduled for March 8 with traffic adaptations from 2pm to 4pm in Brussels city center.
+2026-03-11 14:37:19,984 [WARNING]   [low] milan_italy: Authorized demonstrations March 7 at Piazza Castello (pro-US/Israel groups 2-5pm) and anti-US/pro-Palestine march (3-6pm) from Piazza della Scala to US Consulate. 1000-1500 participants expected.
+2026-03-11 14:37:19,986 [WARNING]   [low] rome_italy: Demonstration scheduled March 3 at 6pm at US Embassy (Via Bissolati/Via Veneto corner) protesting US government actions in Iran.
