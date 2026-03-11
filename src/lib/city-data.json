@@ -18850,6 +18850,1294 @@
         "seville",
         "malaga"
       ]
+    },
+    {
+      "slug": "tenerife",
+      "name": "Tenerife",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.2,
+        "violentCrime": 8.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.8,
+        "nightSafety": 6.8,
+        "transport": 7.9,
+        "naturalHazards": 5.8
+      },
+      "summary": "Tenerife is one of Europe's safest destinations with extremely low violent crime rates and a well-developed infrastructure for tourists. The main safety concerns involve petty crimes like pickpocketing and natural hazards from its volcanic nature.",
+      "quickVerdict": "Tenerife offers excellent safety for tourists with minimal violent crime and reliable emergency services. While petty theft has increased recently, particularly targeting British tourists in popular areas, serious crimes remain rare. The island's volcanic activity is closely monitored and poses minimal immediate risk. Solo female travelers generally report feeling very safe, even at night in well-populated areas. Public transport is modern and reliable, and the healthcare system meets European standards.",
+      "neighborhoods": [
+        {
+          "name": "Costa Adeje",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale resort area with good security, modern hotels, and regular police presence. Popular with families and well-developed tourism infrastructure."
+        },
+        {
+          "name": "Los Cristianos",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Family-friendly beach resort with good safety record. Some pickpocketing in crowded areas but generally very safe for tourists."
+        },
+        {
+          "name": "Puerto de la Cruz",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic town in the north with lower crime rates than southern resorts. Well-patrolled and safe for walking day and night."
+        },
+        {
+          "name": "Santa Cruz de Tenerife",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Capital city with regular police presence and good safety infrastructure. Generally safe but avoid isolated areas at night."
+        },
+        {
+          "name": "Playa de las Americas",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Busy nightlife area with higher petty crime rates. Increased pickpocketing incidents, especially around bars and clubs. Use extra caution at night."
+        },
+        {
+          "name": "Añaza and San Isidro",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Working-class residential areas with higher crime rates. Social challenges contribute to more petty crime. Tourists have little reason to visit these areas."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Electronics Shop Scam",
+          "risk": "high",
+          "description": "Elderly tourists are pressured into buying electronics at cut-rate prices, then their credit cards are cloned or they're charged excessive amounts.",
+          "howToAvoid": "Never enter electronics shops offering deals on the street. Only use cash at unfamiliar shops and avoid high-pressure sales tactics."
+        },
+        {
+          "name": "Pickpocketing Teams",
+          "risk": "high",
+          "description": "Groups of 2-3 thieves work together, one distracting tourists while others steal from bags or pockets in crowded areas.",
+          "howToAvoid": "Keep bags in front, use front pockets for valuables, be wary of strangers asking questions or creating distractions."
+        },
+        {
+          "name": "Timeshare Presentations",
+          "risk": "medium",
+          "description": "Free gifts or luxury experiences offered in exchange for attending timeshare presentations that become high-pressure sales pitches.",
+          "howToAvoid": "Decline all free offers from street promoters. If something seems too good to be true, it probably is."
+        },
+        {
+          "name": "Overcharging Taxis",
+          "risk": "medium",
+          "description": "Some taxi drivers claim broken meters or take longer routes to inflate fares, particularly targeting tourists from airports.",
+          "howToAvoid": "Always insist the meter is turned on, use official taxi ranks, or consider ride-hailing apps like Uber where available."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Tenerife is considered very safe for solo female travelers with low violent crime rates and a welcoming culture. Most women report feeling comfortable walking alone even at night in tourist areas. The local population is used to tourists and generally helpful and respectful.",
+        "tips": [
+          "Stay in well-populated tourist areas like Costa Adeje or Los Cristianos",
+          "Use common sense precautions in busy nightlife areas like Playa de las Americas",
+          "Public transport is safe and reliable throughout the day and evening",
+          "Most solo female travelers report positive experiences with friendly locals",
+          "Avoid isolated areas at night and trust your instincts if something feels wrong"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Tenerife is generally safe at night with low violent crime rates and good lighting in tourist areas. Police patrol popular zones regularly, especially around beaches, promenades, and nightlife districts. However, petty crimes like pickpocketing can increase in crowded nightlife areas.",
+        "tips": [
+          "Stick to well-lit main streets and populated areas",
+          "Be extra cautious around bars and clubs in Playa de las Americas",
+          "Taxis are readily available and safe for late-night transport",
+          "Avoid carrying large amounts of cash or displaying expensive items",
+          "Travel in groups when possible, especially in nightlife districts"
+        ]
+      },
+      "transport": {
+        "metro": "Tenerife has a modern tram system connecting Santa Cruz and La Laguna, operating safely with regular schedules and good security.",
+        "rideshare": "Uber became available in late 2024 and is gradually expanding. Service is limited but growing in tourist areas.",
+        "taxis": "Official white taxis with meters are widely available and generally safe. Use official taxi ranks and ensure the meter is running to avoid overcharging.",
+        "tips": "The TITSA bus network is modern, reliable, and covers the entire island. Buses are safe, air-conditioned, and punctual. Use the Ten+ card for convenient payment."
+      },
+      "customs": [
+        "Greet shopkeepers and service staff with 'Buenos días' or 'Buenas tardes' before making requests",
+        "Respect siesta hours (2-5 PM) when many small businesses close for lunch and rest",
+        "Dining is late - lunch is 2-4 PM and dinner starts around 9 PM or later"
+      ],
+      "health": {
+        "overview": "Tenerife has excellent healthcare facilities meeting European standards. No special vaccinations are required and there are no dangerous animals or insects.",
+        "water": "Tap water is safe to drink and meets WHO standards, though some visitors prefer bottled water due to taste preferences from desalination processes.",
+        "vaccinations": "No special vaccinations required. Standard European travel health recommendations apply.",
+        "altitude": "Subtropical climate with year-round sunshine. Sun protection essential due to proximity to equator. No altitude concerns except when visiting Mount Teide."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "091",
+        "ambulance": "061",
+        "fire": "080",
+        "touristPolice": "902 102 112",
+        "usEmbassy": "British Consulate: +34 922 286 863. U.S. services handled through Madrid Embassy: +34 917 146 300"
+      },
+      "faq": [
+        {
+          "q": "Is Tenerife safe for tourists?",
+          "a": "Yes, Tenerife is one of Europe's safest destinations with very low violent crime rates. Most safety concerns involve petty theft in tourist areas, which can be avoided with basic precautions."
+        },
+        {
+          "q": "Is Tenerife safe at night?",
+          "a": "Generally yes, especially in tourist areas which are well-lit and patrolled. Use normal precautions in nightlife areas and avoid isolated spots late at night."
+        },
+        {
+          "q": "Is Tenerife safe for solo female travelers?",
+          "a": "Very safe. Solo female travelers consistently report positive experiences. The local culture is welcoming and respectful, though basic safety awareness is always recommended."
+        },
+        {
+          "q": "What areas should I avoid in Tenerife?",
+          "a": "Avoid residential areas like Añaza and parts of San Isidro, especially at night. Be extra cautious in busy nightlife zones like parts of Playa de las Americas where pickpocketing is more common."
+        },
+        {
+          "q": "Is it safe to use public transport in Tenerife?",
+          "a": "Yes, public transport is modern, reliable, and very safe. The TITSA bus network and tram system are well-maintained with good security. Use normal precautions against pickpockets in crowded areas."
+        }
+      ],
+      "relatedCities": [
+        "gran-canaria",
+        "lanzarote",
+        "fuerteventura"
+      ]
+    },
+    {
+      "slug": "porto",
+      "name": "Porto",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.3,
+        "violentCrime": 8.1,
+        "scamRisk": 6.0,
+        "womensSafety": 7.8,
+        "nightSafety": 7.0,
+        "transport": 8.0,
+        "naturalHazards": 8.2
+      },
+      "summary": "Porto is one of Europe's safest cities, ranking 7th on the Global Peace Index with low violent crime rates and a welcoming culture. The main concerns for tourists are petty theft in crowded areas and occasional tourist scams, particularly pickpocketing at metro stations and popular attractions. Portugal's excellent healthcare system, reliable public transport, and strong police presence make it an ideal destination for all types of travelers.",
+      "quickVerdict": "Porto stands out as an exceptionally safe destination for tourists, with Portugal consistently ranking among the world's most peaceful countries. While violent crime is rare and locals are welcoming, visitors should remain aware of pickpocketing in busy areas like metro stations and tourist sites. The city's efficient public transport, strong police presence, and excellent infrastructure make it particularly suitable for solo travelers and first-time visitors to Europe.",
+      "neighborhoods": [
+        {
+          "name": "Ribeira",
+          "score": 7.5,
+          "class": "safe",
+          "description": "UNESCO World Heritage area with colorful houses and riverside charm. Heavy tourist presence provides natural security but watch for pickpockets in crowds. Well-lit and patrolled, safe for evening strolls along the Douro River."
+        },
+        {
+          "name": "Cedofeita",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Artistic and trendy neighborhood popular with locals and visitors. Excellent dining scene and creative spaces with good lighting and regular foot traffic. One of the safest areas for solo travelers and evening exploration."
+        },
+        {
+          "name": "Baixa/Aliados",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Central business district with major shopping areas and metro connections. Strong police presence and CCTV coverage. Busy during day and evening with good public lighting, though watch belongings in crowded areas."
+        },
+        {
+          "name": "Foz do Douro",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Upscale coastal area with beaches and seafront promenades. Wealthy residential neighborhood with excellent security and well-maintained streets. Popular with families and considered the safest area in Porto."
+        },
+        {
+          "name": "Campanhã",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Major transport hub undergoing urban renewal with modern facilities. Improving safety due to infrastructure investments but requires extra awareness, especially around the train station at night."
+        },
+        {
+          "name": "Bairro do Aleixo",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Problematic neighborhood with drug-related activities and higher crime rates. Local authorities advise tourists to avoid this area, particularly at night. Better to use alternative routes when traveling across the city."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Bridge Jumping Distractions",
+          "risk": "medium",
+          "description": "Young men gather crowds at Dom Luis I Bridge by offering to jump into the river for money, creating distractions for pickpockets to target tourists watching the spectacle.",
+          "howToAvoid": "Avoid crowds gathering around bridge jumpers and keep valuables secure. Don't get drawn into watching performances and maintain awareness of your surroundings."
+        },
+        {
+          "name": "Metro Pickpocketing",
+          "risk": "high",
+          "description": "Organized groups use distraction techniques at busy metro stations, especially during peak hours. They target tourists boarding or exiting trains, focusing on phones and wallets in easy-reach pockets.",
+          "howToAvoid": "Keep bags in front of you on public transport, avoid empty carriages, and don't display valuables near doors. Use crossbody bags with zippers and stay alert during busy boarding times."
+        },
+        {
+          "name": "Fake Parking Attendants",
+          "risk": "medium",
+          "description": "Unofficial parking attendants approach drivers offering to watch cars or direct them to unofficial parking spots, then demand payment for fake tickets while real fines may still apply.",
+          "howToAvoid": "Only park in official car parks or designated areas with proper signage. Ignore unofficial parking helpers and pay only through official channels or meters."
+        },
+        {
+          "name": "Overpriced Taxi Schemes",
+          "risk": "medium",
+          "description": "Some taxi drivers quote fixed fares higher than metered rates, especially from the airport, or take longer routes to increase costs. Claims of broken meters or no change are also common.",
+          "howToAvoid": "Always insist on using the meter, know approximate distances and fares beforehand, or use reputable ride-sharing apps like Uber or Bolt for transparent pricing."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Porto is exceptionally safe for solo female travelers, with many women reporting feeling comfortable walking alone even at night in central areas. Portugal ranks among the top destinations for women's safety globally, with low harassment levels and a respectful culture. The city's compact size, excellent public transport, and welcoming atmosphere make it ideal for first-time solo travelers.",
+        "tips": [
+          "Stay in well-reviewed accommodations in central neighborhoods like Cedofeita or Baixa for easy access to attractions and services",
+          "Use the reliable metro system during day hours and stick to well-lit main streets when walking at night",
+          "Join local food tours or cultural activities to meet other travelers and experience authentic Portuguese culture safely",
+          "Keep emergency contacts saved and inform someone of your daily plans when exploring different neighborhoods",
+          "Trust your instincts and don't hesitate to move away from any situation that feels uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Porto's nightlife is generally safe with good police presence in central areas and popular entertainment districts. The city stays lively until late with locals and tourists alike, providing natural security through activity. However, like any city, certain areas require extra caution after dark, and basic safety awareness is important.",
+        "tips": [
+          "Stick to well-lit main streets and avoid poorly lit alleys, especially in areas like Bairro do Aleixo",
+          "Travel in groups when possible and use official taxis or ride-sharing apps for late-night transportation",
+          "Be aware of drink spiking in nightlife areas and never leave drinks unattended or accept drinks from strangers",
+          "Keep phones charged for navigation and emergency contacts, and avoid displaying valuable items openly",
+          "Stay alert around metro stations late at night and consider taking taxis instead of public transport after midnight"
+        ]
+      },
+      "transport": {
+        "metro": "Porto's metro system is clean, reliable, and generally safe with CCTV coverage and regular security patrols. The Purple Line (E) connects directly to the airport. Avoid empty carriages, especially at night, and keep belongings secure as pickpockets target busy stations during peak hours.",
+        "rideshare": "Uber and Bolt operate reliably throughout Porto with transparent pricing and safety features. Expect 12-20 euros for airport trips and 5-8 euros for city center rides. Both services are popular alternatives to traditional taxis and offer cashless convenience.",
+        "taxis": "Licensed taxis are safe and regulated, identifiable by their light beige or black color with green rooftops. Always ensure meters are running to avoid overcharging. Official taxi stands are available at major locations including the airport and train stations.",
+        "tips": "Public transport runs until 1 AM on weeknights and through the night on weekends. The night bus 3M serves the airport hourly from 12:30-5:30 AM. Consider getting an Andante transport card for convenience, and always validate tickets to avoid fines."
+      },
+      "customs": [
+        "Always greet people with 'Bom dia' (good morning) or 'Boa tarde' (good afternoon) when entering shops, cafes, or approaching service staff",
+        "Maintain complete silence during Fado performances as talking or making noise during these traditional music shows is considered deeply disrespectful",
+        "Wait for the host to say 'Bom apetite' before starting to eat, and coffee is traditionally served at the end of meals to mark completion"
+      ],
+      "health": {
+        "overview": "Portugal has excellent healthcare standards with both public (SNS) and private systems providing quality medical services. Porto has several modern hospitals and medical facilities that meet international standards. EU citizens can use EHIC cards for reduced-cost public healthcare.",
+        "water": "Tap water is safe to drink throughout Porto and Portugal. The water quality meets EU standards and is regularly tested. Bottled water is widely available but not necessary for health reasons.",
+        "vaccinations": "No special vaccinations are required for travel to Portugal. Routine vaccinations (MMR, DPT, influenza) should be up to date. The WHO reports Portugal has a 98.2% vaccination rate, indicating excellent healthcare coverage.",
+        "altitude": "Porto is at sea level with a temperate Atlantic climate. Summers average 25-30°C (77-86°F) with coastal breezes. Winters are mild at 10-15°C (50-59°F). Rain is more common October-February but rarely disrupts travel plans."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "Tourist police available through main PSP stations - contact 112 for immediate assistance",
+        "usEmbassy": "US Embassy Lisbon: +351-21-727-3300 (24hr emergency line). Consular services available for American citizens including passport replacement and emergency assistance."
+      },
+      "faq": [
+        {
+          "q": "Is Porto safe for tourists?",
+          "a": "Yes, Porto is very safe for tourists. Portugal ranks 7th on the Global Peace Index, and violent crime against visitors is extremely rare. The main concerns are petty theft like pickpocketing in crowded areas, which can be easily avoided with basic precautions."
+        },
+        {
+          "q": "Is Porto safe at night?",
+          "a": "Central Porto is generally safe at night with good police presence and active street life. Stick to well-lit main areas and avoid neighborhoods like Bairro do Aleixo after dark. The metro runs until 1 AM and taxis are readily available for safe late-night transport."
+        },
+        {
+          "q": "Is Porto safe for solo female travelers?",
+          "a": "Porto is excellent for solo female travelers and ranks among Europe's safest destinations for women. Many solo female travelers report feeling comfortable walking alone even at night in central areas. Portugal's respectful culture and low harassment levels make it ideal for independent female travel."
+        },
+        {
+          "q": "What areas should I avoid in Porto?",
+          "a": "Avoid Bairro do Aleixo and Bairro da Pasteleira, especially at night, due to drug-related activities. Bairro Pinheiro Torres also has higher crime rates. Exercise extra caution around Campanhã train station area after dark, though it's improving due to urban renewal projects."
+        },
+        {
+          "q": "Is it safe to use public transport in Porto?",
+          "a": "Yes, Porto's public transport is safe and reliable with CCTV coverage and security patrols. The metro, buses, and trams are clean and well-maintained. Watch for pickpockets during busy periods and avoid empty metro carriages, especially late at night."
+        }
+      ],
+      "relatedCities": [
+        "lisbon",
+        "madrid",
+        "barcelona"
+      ]
+    },
+    {
+      "slug": "faro",
+      "name": "Faro",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.8,
+        "violentCrime": 8.5,
+        "scamRisk": 7.2,
+        "womensSafety": 8.4,
+        "nightSafety": 7.9,
+        "transport": 8.6,
+        "naturalHazards": 8.3
+      },
+      "summary": "Faro is one of Portugal's safest cities, ranking as the 7th most peaceful nation globally with extremely low violent crime rates. The Algarve capital enjoys excellent safety standards for tourists and residents alike, with well-functioning emergency services and healthcare infrastructure.",
+      "quickVerdict": "Faro stands out as an exceptionally safe destination for travelers. Portugal's overall safety ranking as the 7th most peaceful country globally extends strongly to this charming Algarve capital. Violent crime is virtually non-existent, with most incidents involving minor petty theft in tourist areas. The city offers excellent medical facilities, reliable public transport, and responsive emergency services. Solo travelers, including women, consistently report feeling secure both day and night, though standard precautions are always recommended.",
+      "neighborhoods": [
+        {
+          "name": "Cidade Velha (Old Town)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The historic walled center is extremely safe with regular foot patrols and well-maintained medieval streets. Tourist police presence is strong, and the compact area is easy to navigate day or night."
+        },
+        {
+          "name": "Arco da Vila",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Just outside the Old Town, this area offers a perfect blend of safety and affordability. Well-lit streets with good transport connections and a mix of local life and tourist amenities make it ideal for budget travelers."
+        },
+        {
+          "name": "City Center",
+          "score": 7.9,
+          "class": "safe",
+          "description": "The modern commercial district is generally very safe with busy pedestrian areas and good lighting. Some minor pickpocketing can occur near the main shopping streets and transport hubs during peak hours."
+        },
+        {
+          "name": "Praia de Faro",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The beach area is safe during daylight hours with lifeguard supervision. Evening activities should be planned carefully as the area becomes quieter after dark, though serious incidents are rare."
+        },
+        {
+          "name": "Estoi",
+          "score": 8.0,
+          "class": "safe",
+          "description": "This quiet rural area offers a slower pace and lower crime rates than the city center. The Roman ruins attract some tourists, but the village maintains its peaceful, traditional character with minimal safety concerns."
+        },
+        {
+          "name": "Airport Area",
+          "score": 7.3,
+          "class": "safe",
+          "description": "Generally secure with regular security patrols, though travelers should remain vigilant for opportunistic theft. Some reported issues with overcharging by unofficial transport services, particularly during peak tourist season."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Gold Ring Scam",
+          "risk": "medium",
+          "description": "Scammers approach tourists claiming to have found a valuable gold ring nearby, then pressure them to buy it or make a donation. The ring is worthless but presented as valuable with fabricated urgency.",
+          "howToAvoid": "Politely decline any unsolicited interactions about found items. Never hand over money for unexpected 'opportunities' and simply walk away from aggressive sellers."
+        },
+        {
+          "name": "Restaurant Couvert Charges",
+          "risk": "low",
+          "description": "Restaurants automatically serve bread, olives, and appetizers that appear free but cost 2-3 euros. This is legal but can surprise tourists unfamiliar with Portuguese dining customs.",
+          "howToAvoid": "Ask if appetizers are free when seated. You can politely decline them if you don't want to pay. Check the menu for couvert prices before ordering."
+        },
+        {
+          "name": "Taxi Meter Tricks",
+          "risk": "medium",
+          "description": "Some taxi drivers claim their meter is broken and propose a fixed fare that's higher than the metered rate. Others may take unnecessarily long routes to inflate costs.",
+          "howToAvoid": "Always insist on using the meter. If it's truly broken, find another taxi. Use ride-hailing apps like Uber or Bolt for transparent pricing and known routes."
+        },
+        {
+          "name": "Parking Attendant Pressure",
+          "risk": "low",
+          "description": "Unofficial parking attendants direct tourists to parking spaces then demand payment, sometimes aggressively. While not always illegal, they may overcharge or become confrontational if refused.",
+          "howToAvoid": "A euro or two is reasonable for genuine help finding parking. Be wary of excessive charges or aggressive demands. Check if payment is actually required for the parking area."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Faro is exceptionally safe for solo female travelers, ranking 8th among Portuguese cities for women's safety. Multiple solo female travelers report feeling completely comfortable exploring alone both day and night. The city's compact size, friendly locals, and low crime rates create an ideal environment for independent travel. English is widely spoken, making navigation and communication easy.",
+        "tips": [
+          "Book accommodations in well-reviewed areas like the Old Town or city center for maximum safety and walkability",
+          "Join organized tours or activities to meet other travelers if desired - Faro has excellent group options for island trips and cultural experiences",
+          "Use common sense precautions like keeping valuables secure and staying in well-lit areas at night, though serious incidents are extremely rare",
+          "Consider staying in female-only hostels if preferred - several highly-rated options are available with good safety records",
+          "Take advantage of the excellent public transport system and ride-sharing apps for safe, reliable transportation"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Faro maintains excellent safety standards after dark, with most areas remaining secure for evening exploration. The Old Town and city center are well-lit with good foot traffic until late hours. Police presence is noticeable but unobtrusive, and locals commonly walk alone at night. The nightlife scene is relaxed and friendly rather than rowdy, contributing to the overall safe atmosphere.",
+        "tips": [
+          "Stick to well-lit main streets and avoid poorly lit back alleys, though violent crime remains extremely rare",
+          "The Old Town and Arco da Vila areas are safest for evening dining and exploration",
+          "Beach areas become quieter after dark - plan evening activities in the city center instead",
+          "Use official taxis or ride-hailing apps rather than walking long distances alone very late at night",
+          "Keep drinks covered and don't accept beverages from strangers, following standard nightlife safety practices"
+        ]
+      },
+      "transport": {
+        "metro": "Faro does not have a metro system. The city is compact and walkable, with most attractions within easy walking distance of the center.",
+        "rideshare": "Uber and Bolt operate reliably in Faro with transparent pricing and English-language apps. During peak summer season, wait times may increase due to high demand, but service is generally excellent year-round.",
+        "taxis": "Official taxis are safe and regulated with working meters. Fares start at 3.50 euros plus 0.50 per kilometer. Drivers are generally honest, though insisting on meter use is recommended. Taxi ranks are available at key locations including the airport, train station, and city center.",
+        "tips": "Public buses (Proximo) are safe, reliable, and connect all major areas including the airport and beaches. Train services to other Algarve towns are excellent and secure. For airport transfers, the Route 16 bus costs just 2.35 euros and runs regularly to the city center."
+      },
+      "customs": [
+        "Greet shopkeepers and restaurant staff with 'Bom dia' or 'Boa tarde' when entering - this is considered basic politeness",
+        "Mealtimes are social events - lunch typically runs 12-3pm and dinner after 7:30pm, often lasting longer than in other countries",
+        "Avoid pointing with a single finger and never write notes in red ink, which is considered rude or aggressive in Portuguese culture"
+      ],
+      "health": {
+        "overview": "Healthcare in Faro is excellent with both public and private options available. The main Hospital de Faro provides full emergency services and specialized care. Several private clinics offer shorter wait times and English-speaking staff. Portugal ranks 13th in the Euro Health Consumer Index and 12th globally for healthcare performance.",
+        "water": "Tap water in Faro is completely safe to drink and meets stringent EU standards. The local water treatment system ensures water is free from harmful bacteria and pollutants, though it may taste slightly different from what visitors are accustomed to.",
+        "vaccinations": "No special vaccinations are required for Portugal. Routine vaccines like measles, mumps, rubella, and flu are recommended. EU citizens can use their European Health Insurance Card (EHIC) for public healthcare access.",
+        "altitude": "Faro is at sea level with a Mediterranean climate. Summers reach 30-35°C (86-95°F) with over 300 days of sunshine annually. Winter temperatures rarely drop below 10°C (50°F), creating comfortable conditions year-round with no altitude-related health concerns."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "Available - contact through 112",
+        "usEmbassy": "US Embassy Lisbon: +351-21-727-3300 or +351-21-094-2000. Emergency after-hours: +351-21-770-2122. Consular services available for American citizens."
+      },
+      "faq": [
+        {
+          "q": "Is Faro safe for tourists?",
+          "a": "Yes, Faro is extremely safe for tourists. Portugal ranks as the 7th most peaceful country globally, and Faro specifically has very low crime rates with mostly minor petty theft. Violent crime is virtually non-existent, and the city has good police presence and emergency services."
+        },
+        {
+          "q": "Is Faro safe at night?",
+          "a": "Faro is very safe at night with well-lit streets and regular foot traffic in the main areas. The Old Town and city center remain secure for evening activities. While serious incidents are rare, standard precautions like staying in well-lit areas are recommended."
+        },
+        {
+          "q": "Is Faro safe for solo female travelers?",
+          "a": "Absolutely. Faro ranks as the 8th safest place in Portugal for solo female travelers. Many women report feeling completely comfortable exploring alone both day and night. The locals are friendly, English is widely spoken, and the compact city size makes navigation easy."
+        },
+        {
+          "q": "What areas should I avoid in Faro?",
+          "a": "Faro has no genuinely dangerous areas. Exercise slightly more caution in quieter parts of the beach area after dark, and stay alert for minor pickpocketing near transport hubs and tourist areas during peak season, but overall the entire city is very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Faro?",
+          "a": "Yes, public transport in Faro is very safe and reliable. The Proximo bus system, trains to other Algarve destinations, and ride-hailing services all maintain excellent safety records. Official taxis are regulated and trustworthy when using the meter."
+        }
+      ],
+      "relatedCities": [
+        "lisbon",
+        "porto",
+        "albufeira",
+        "lagos",
+        "tavira"
+      ]
+    },
+    {
+      "slug": "funchal",
+      "name": "Funchal",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.2,
+        "scamRisk": 7.5,
+        "womensSafety": 8.7,
+        "nightSafety": 8.1,
+        "transport": 7.8,
+        "naturalHazards": 8.3
+      },
+      "summary": "Funchal, the capital of Madeira, ranks among Europe's safest destinations for tourists. Portugal maintains a Level 1 travel advisory from the US State Department, and Funchal consistently scores exceptionally well on international safety indices with very low crime rates.",
+      "quickVerdict": "Funchal is an exceptionally safe destination for all types of travelers, including solo female tourists. With virtually non-existent violent crime, minimal petty theft, and a welcoming local population, visitors can explore confidently day and night. The main risks are natural hazards like occasional flash floods and steep terrain, plus minor tourist-targeted scams. Healthcare is excellent and emergency services are reliable.",
+      "neighborhoods": [
+        {
+          "name": "Funchal Old Town (Zona Velha)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The historic heart of Funchal with painted doors, restaurants, and bars. Well-patrolled with good lighting and heavy foot traffic making it very safe for evening exploration. Occasional street performers and vendors but no serious safety concerns."
+        },
+        {
+          "name": "Lido Tourist Zone",
+          "score": 9.1,
+          "class": "safe",
+          "description": "Modern hotel and resort area along the coast with excellent infrastructure, regular police patrols, and 24-hour security at most establishments. Popular with families and considered the safest area in Funchal with minimal crime of any kind."
+        },
+        {
+          "name": "Central Business District",
+          "score": 8.6,
+          "class": "safe",
+          "description": "Commercial center around the cathedral and main shopping streets. Very safe during business hours with good CCTV coverage. Some areas can be quieter at night but remain generally secure with occasional police patrols."
+        },
+        {
+          "name": "Monte",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Uphill residential area accessible by cable car, known for botanical gardens and toboggan rides. Safe but more isolated, especially after dark. Tourists should use official transport and avoid walking alone on mountain paths at night."
+        },
+        {
+          "name": "Santa Catarina Park Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Popular park and surrounding residential streets. Generally safe but occasional reports of pickpocketing in crowded areas during festivals. Well-maintained with good lighting but can be quieter in the evenings."
+        },
+        {
+          "name": "Harbor and Marina District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Working port area that transforms into nightlife zone. Safe but busier at night with bars and clubs attracting crowds. Some reports of overcharging by taxis and minor scams targeting cruise passengers, but violent crime remains rare."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some taxi drivers, particularly at the airport and cruise port, may inflate fares for tourists by manipulating meters, refusing to use meters, or adding unauthorized surcharges.",
+          "howToAvoid": "Always insist on the meter being used for trips within Funchal, agree on fares upfront for longer journeys, use ride-sharing apps like Bolt, or book pre-arranged transfers through reputable companies."
+        },
+        {
+          "name": "Funchal Market Price Inflation",
+          "risk": "low",
+          "description": "Vendors at the Mercado dos Lavradores may charge inflated prices for exotic fruits and souvenirs, particularly targeting obviously foreign tourists.",
+          "howToAvoid": "Compare prices between stalls, politely negotiate, learn basic Portuguese numbers, and consider the market more for sightseeing than serious shopping."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "low",
+          "description": "Some tourist-oriented restaurants may add unwanted appetizers or drinks to bills, or charge for bread and olives that seem complimentary.",
+          "howToAvoid": "Always check your bill carefully, politely decline appetizers you don't want, ask about charges for bread and olives, and don't hesitate to question any items you didn't order."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "low",
+          "description": "Unofficial guides may approach tourists offering cheap tours that provide poor value or attempt to overcharge for services not delivered as promised.",
+          "howToAvoid": "Book tours through established companies with good reviews, verify guide credentials, agree on all terms upfront in writing, and avoid street touts offering deals that seem too good to be true."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Funchal is exceptionally safe for solo female travelers and ranks highly among European cities for women's safety. With a violence rate of only 2.5% and very low rates of street harassment, women can comfortably explore alone. The locals are respectful and helpful, and there's a strong police presence in tourist areas. Many women report feeling completely secure walking alone even late at night.",
+        "tips": [
+          "Stay in well-lit areas when walking at night, though the risk is very low",
+          "Choose accommodations in the Lido or Old Town areas with good reviews from other solo female travelers",
+          "Join walking tours or group activities to meet other travelers if desired",
+          "Trust the friendly local population - Madeirans are known for being helpful to tourists",
+          "Consider the growing digital nomad community in areas like Ponta do Sol for longer stays"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Funchal is very safe at night with well-lit streets and regular police patrols, especially in tourist areas. The Old Town comes alive with restaurants and bars, creating natural foot traffic that enhances safety. Crime rates remain low after dark, and both locals and tourists regularly walk around without concern. The main nightlife areas around the marina and Old Town are particularly well-monitored.",
+        "tips": [
+          "Stick to main streets and well-populated areas, especially in the Old Town and Lido",
+          "The area around the marina can get busy with nightlife but remains safe",
+          "Use taxis or ride-sharing apps like Bolt for longer distances at night",
+          "Be aware that some bars and clubs can get loud, particularly on weekends",
+          "Keep valuables secure as you would anywhere, though theft is rare"
+        ]
+      },
+      "transport": {
+        "metro": "Funchal does not have a metro system. Public transportation consists of buses operated by Horarios do Funchal, which are generally safe and reliable with professional drivers. The cable car system to Monte is modern and well-maintained with excellent safety standards.",
+        "rideshare": "Bolt is the main ride-sharing service in Madeira and is considered safe and reliable with transparent pricing. The app provides driver details and trip tracking. Uber has limited availability but Bolt is widely used and trusted by both locals and tourists.",
+        "taxis": "Official yellow taxis are generally safe but some drivers may overcharge tourists, particularly at the airport and cruise port. Meters should be used within Funchal city limits. Taxi drivers are typically honest but incidents of fare manipulation do occur, especially with tourists who appear unfamiliar with local rates.",
+        "tips": "For short distances, walking is safe and pleasant in Funchal's city center. For longer trips or at night, Bolt offers the most transparent and fair pricing. If using taxis, always insist on the meter and carry small bills for exact change."
+      },
+      "customs": [
+        "Greet people politely when entering shops, cafes, or small businesses - a simple 'Bom dia' (good morning) or 'Boa tarde' (good afternoon) is appreciated",
+        "Dress modestly when visiting churches or religious sites, covering shoulders and avoiding shorts or short skirts",
+        "Meals are social occasions that may last longer than expected - don't rush or appear impatient during family-style dining",
+        "Tipping is not expected but rounding up the bill or leaving 5-10% for excellent service is appreciated",
+        "Show respect for Portuguese culture and avoid comparisons to Spain - the countries are distinct despite geographic proximity"
+      ],
+      "health": {
+        "overview": "Funchal has excellent healthcare facilities including both public and private options. The main public hospital is Dr. Nelio Mendonca with 24/7 emergency services, while private facilities like Hospital Particular da Madeira offer high-quality care with English-speaking staff. Emergency response times are good and many doctors speak English.",
+        "water": "Tap water is safe to drink throughout Funchal and meets EU standards. In rural mountainous areas the taste may vary, but public fountains (fontes de agua) provide excellent quality water. Bottled water is widely available if preferred.",
+        "vaccinations": "No special vaccinations are required for Portugal. Standard travel vaccinations (hepatitis A/B, tetanus, flu) are recommended as for any European destination. EU citizens can use their European Health Insurance Card for emergency treatment.",
+        "altitude": "Funchal sits at sea level with a subtropical climate. Summer temperatures range 25-30°C with coastal breezes. Winter is mild at 12-15°C. The main health risk is sun exposure due to year-round sunshine, so sun protection is essential."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112 or 291 208 400",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "Available through main PSP stations",
+        "usEmbassy": "US Embassy Lisbon: +351 21-727-3300. British Consulate Funchal: +351 291 212 860 (daytime), +351 962 720 557 (emergencies only). Hospital Dr. Nelio Mendonca: +351 291 705 600"
+      },
+      "faq": [
+        {
+          "q": "Is Funchal safe for tourists?",
+          "a": "Yes, Funchal is extremely safe for tourists. Portugal ranks as the 7th most peaceful country globally, and Funchal has very low crime rates with excellent safety infrastructure. Violent crime is virtually non-existent and petty crime is rare."
+        },
+        {
+          "q": "Is Funchal safe at night?",
+          "a": "Funchal is very safe at night, especially in tourist areas like the Old Town and Lido. Streets are well-lit, police patrol regularly, and locals commonly walk around after dark. The nightlife areas around the marina are busy but secure."
+        },
+        {
+          "q": "Is Funchal safe for solo female travelers?",
+          "a": "Absolutely. Funchal is one of the safest European destinations for solo female travelers, with a violence rate of only 2.5% and minimal street harassment. Many women travel alone here without incident and report feeling completely secure."
+        },
+        {
+          "q": "What areas should I avoid in Funchal?",
+          "a": "There are no particularly dangerous areas in Funchal. All main tourist zones are safe day and night. The most isolated areas might be some residential hillsides after dark, but even these present minimal risk compared to other European cities."
+        },
+        {
+          "q": "Is it safe to use public transport in Funchal?",
+          "a": "Yes, public transport in Funchal is safe and reliable. The bus system is professional with skilled drivers, and the cable car to Monte has excellent safety standards. Ride-sharing apps like Bolt are also safe and widely used options."
+        }
+      ],
+      "relatedCities": [
+        "lisbon",
+        "porto",
+        "madeira-island",
+        "azores",
+        "lagos-portugal",
+        "sintra"
+      ]
+    },
+    {
+      "slug": "florence",
+      "name": "Florence",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.0,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 7.5,
+        "naturalHazards": 8.0
+      },
+      "summary": "Florence is generally a very safe destination for tourists, ranking as one of Italy's safer major cities with low violent crime rates and excellent emergency services. While pickpocketing and tourist scams are the primary concerns, especially around major attractions, the city maintains a strong police presence and welcoming atmosphere for visitors.",
+      "quickVerdict": "Florence offers tourists a safe and welcoming experience in the heart of Tuscany. Despite ranking third among Italian cities for overall crime statistics, this is primarily due to petty theft and pickpocketing rather than violent crime, which remains very rare. The historic center is well-policed and pedestrian-friendly, making it ideal for solo travelers and families alike. Female travelers consistently report feeling secure, even when exploring alone at night in central areas. The main safety concerns involve tourist-targeted scams around major attractions like the Duomo and Uffizi Gallery, along with pickpocketing on public transport and crowded tourist areas. With basic precautions and awareness, visitors can confidently enjoy Florence's incredible Renaissance art, architecture, and cuisine.",
+      "neighborhoods": [
+        {
+          "name": "Historic Center (Centro Storico)",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The heart of Florence around the Duomo, Ponte Vecchio, and Uffizi is very safe with heavy police presence and constant foot traffic. Watch for pickpockets and street scams, but violent crime is extremely rare."
+        },
+        {
+          "name": "Oltrarno District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The charming area across the Arno River is safe for walking day and night, with excellent restaurants and artisan workshops. Popular with both locals and tourists, creating a vibrant but secure atmosphere."
+        },
+        {
+          "name": "Santa Maria Novella (Train Station Area)",
+          "score": 6.0,
+          "class": "caution",
+          "description": "The area around the central train station can feel less safe, especially at night, with more reports of petty crime and loitering. However, it remains relatively secure with regular police patrols."
+        },
+        {
+          "name": "San Lorenzo Market Area",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Generally safe during market hours but can feel sketchy after dark. Watch for pickpockets in crowded market areas and be aware of counterfeit goods being sold by street vendors."
+        },
+        {
+          "name": "Cascine Park",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Florence's largest park should be avoided after dark due to reports of criminal activity and drug dealing. Safe during daylight hours for families but exercise caution in the evening."
+        },
+        {
+          "name": "Le Piagge",
+          "score": 4.0,
+          "class": "danger",
+          "description": "This northwestern suburb has higher poverty levels and some gang-related activity. While efforts are being made to improve safety, tourists should exercise extra caution, especially at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Oil Paintings Scam",
+          "risk": "high",
+          "description": "Scammers lay large oil paintings on the ground near tourist attractions like the Duomo and Uffizi, positioning them so tourists accidentally step on them, then demand payment for damages ranging from 25-300 euros.",
+          "howToAvoid": "Watch where you walk near tourist areas, especially around artwork displays. If confronted, remain calm, apologize politely, and walk away. Never pay on demand - contact police if threatened."
+        },
+        {
+          "name": "Fake Petition Scam",
+          "risk": "medium",
+          "description": "Scammers approach tourists with fake petitions or surveys while accomplices pickpocket victims or demand aggressive donations after signing. Common around central Florence tourist areas.",
+          "howToAvoid": "Politely decline to sign any petitions from strangers on the street. Keep valuables secure and be suspicious of anyone trying to distract you while others approach."
+        },
+        {
+          "name": "Friendship Bracelet Scam",
+          "risk": "medium",
+          "description": "Friendly individuals approach tourists offering free bracelets or roses, quickly tie them on your wrist in a way that's hard to remove, then demand payment while creating a public scene if you refuse.",
+          "howToAvoid": "Keep your hands to yourself and firmly say no to anyone offering free items. Don't engage with overly friendly strangers in tourist areas, especially those trying to give you something."
+        },
+        {
+          "name": "Fake Police Scam",
+          "risk": "medium",
+          "description": "Scammers dressed as police officers approach tourists claiming to investigate counterfeit money or documents, asking to see wallets, passports, or credit cards to steal information or cash.",
+          "howToAvoid": "Always ask for official identification and badge numbers. Real police will have proper credentials. If in doubt, ask to go to the nearest police station or tourist information center."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Florence is exceptionally safe for solo female travelers, with numerous women reporting feeling secure walking alone both day and night in central areas. The city has no significant reports of sexual assault against foreign women, and locals are generally respectful and helpful. The compact, walkable historic center with good lighting and regular police presence creates a secure environment for independent exploration.",
+        "tips": [
+          "Dress modestly and avoid revealing clothing combinations - Italian women typically don't wear both skimpy tops and short bottoms simultaneously",
+          "Stay alert in crowded tourist areas and on public transport where pickpocketing is most common, especially around Santa Maria Novella station",
+          "Trust your instincts and avoid poorly lit areas late at night, though the historic center remains generally safe for evening exploration"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Florence's historic center is one of Europe's most walkable and safe areas at night, with well-lit pedestrian streets, regular police patrols, and the ZTL (restricted traffic zone) keeping cars out. The vibrant nightlife scene creates natural safety through numbers, and violent crime after dark is extremely rare. However, some areas like Cascine Park and the immediate vicinity of the train station require more caution at night.",
+        "tips": [
+          "Stick to well-lit main streets and busy areas with other people around - avoid empty side streets and parks after dark",
+          "Be extra cautious around the Santa Maria Novella train station area and avoid Cascine Park entirely at night",
+          "Take advantage of the safe aperitivo culture and well-lit restaurants that stay open late in the historic center"
+        ]
+      },
+      "transport": {
+        "metro": "Florence does not have a metro system. The city relies on buses and trams for public transport, which are generally safe but watch for pickpockets during crowded times.",
+        "rideshare": "Uber operates in Florence but with limited availability. Local app FreeNow is more popular and reliable for taxi services, offering cashless payment and driver tracking.",
+        "taxis": "Official taxis are safe and regulated, but can be expensive. Ensure the meter is running or agree on a price beforehand. Most taxis now accept credit cards, though cash may still be preferred by some drivers.",
+        "tips": "Walking is the best way to explore Florence's compact historic center. For longer distances, use official taxis from designated stands or book through apps like FreeNow to avoid unofficial drivers."
+      },
+      "customs": [
+        "Greet shopkeepers and restaurant staff with 'Buongiorno' (morning) or 'Buonasera' (evening) when entering - politeness is highly valued",
+        "Tipping is not mandatory but appreciated - round up the bill or leave 5-10% for exceptional service, always in cash",
+        "Dress appropriately for churches (covered shoulders and knees) and generally maintain a smart-casual appearance as Italians take pride in their presentation"
+      ],
+      "health": {
+        "overview": "Florence offers excellent healthcare with world-class hospitals and medical facilities. The Italian national health system provides emergency care to all visitors, regardless of nationality or insurance status.",
+        "water": "Tap water is completely safe to drink throughout Florence. The city has numerous public fountains providing fresh, clean drinking water.",
+        "vaccinations": "No special vaccinations are required for travel to Florence. Routine vaccines like MMR, flu, and COVID-19 should be up to date.",
+        "altitude": "Florence sits at only 50 meters above sea level, so altitude is not a concern. The climate is temperate with hot, dry summers and mild winters."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "118",
+        "fire": "115",
+        "touristPolice": "055-49771",
+        "usEmbassy": "U.S. Consulate General Florence: Lungarno Amerigo Vespucci, 38 - Phone: +39 055 266951 - Emergency after-hours: +39 055 266951"
+      },
+      "faq": [
+        {
+          "q": "Is Florence safe for tourists?",
+          "a": "Yes, Florence is very safe for tourists. While it ranks third in Italy for overall crime statistics, this is primarily due to pickpocketing and petty theft rather than violent crime, which is extremely rare. The historic center is well-policed and pedestrian-friendly."
+        },
+        {
+          "q": "Is Florence safe at night?",
+          "a": "Florence's historic center is one of Europe's safest areas to walk at night, with excellent lighting, regular police patrols, and busy streets. However, avoid Cascine Park after dark and exercise normal caution around the train station area."
+        },
+        {
+          "q": "Is Florence safe for solo female travelers?",
+          "a": "Absolutely. Florence is exceptionally safe for solo female travelers with no significant reports of sexual assault against foreign women. Many women report feeling comfortable walking alone both day and night in the central areas."
+        },
+        {
+          "q": "What areas should I avoid in Florence?",
+          "a": "Avoid Cascine Park at night and exercise extra caution around Le Piagge neighborhood. The Santa Maria Novella train station area requires more awareness, especially after dark, though it's not dangerous with basic precautions."
+        },
+        {
+          "q": "Is it safe to use public transport in Florence?",
+          "a": "Yes, buses and trams are safe, though watch for pickpockets during crowded times. Florence doesn't have a metro system. Walking is often the best option in the compact historic center, supplemented by official taxis or ride-sharing apps."
+        }
+      ],
+      "relatedCities": [
+        "rome",
+        "venice",
+        "milan",
+        "pisa",
+        "siena"
+      ]
+    },
+    {
+      "slug": "venice",
+      "name": "Venice",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 9.2,
+        "scamRisk": 6.0,
+        "womensSafety": 8.8,
+        "nightSafety": 8.5,
+        "transport": 8.8,
+        "naturalHazards": 8.9
+      },
+      "summary": "Venice ranks among Italy's safest cities, with extremely low violent crime rates and a reassuring police presence throughout tourist areas. While petty crime like pickpocketing occurs in crowded locations, the city's unique geography and strong community make it exceptionally safe for travelers.",
+      "quickVerdict": "Venice is one of Europe's safest destinations for tourists. The absence of cars, combined with constant foot traffic and vigilant local authorities, creates a secure environment even at night. Solo female travelers consistently report feeling comfortable exploring the city independently. The main safety concerns are minor - occasional pickpocketing in tourist hotspots and seasonal flooding (acqua alta). With basic precautions like securing valuables and staying aware in crowds, Venice offers a remarkably safe and magical travel experience.",
+      "neighborhoods": [
+        {
+          "name": "San Marco",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The most famous district with St Mark's Square and major attractions. Very crowded during the day but well-lit and patrolled at night. Higher prices and tourist scams but generally very safe."
+        },
+        {
+          "name": "Cannaregio",
+          "score": 9.1,
+          "class": "safe",
+          "description": "One of the safest and most authentic neighborhoods, popular with locals and students. Quiet residential streets with excellent restaurants and less tourist pressure. The Jewish Ghetto adds historical significance."
+        },
+        {
+          "name": "Dorsoduro",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Student district with a youthful vibe, home to major museums like Guggenheim and Accademia. Safe streets with good nightlife, though some areas can be quieter in the evenings."
+        },
+        {
+          "name": "Castello",
+          "score": 8.9,
+          "class": "safe",
+          "description": "Largest district ranging from touristy areas near San Marco to peaceful residential zones. The eastern parts offer authentic local life away from crowds. Generally very safe throughout."
+        },
+        {
+          "name": "San Polo",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Smallest district centered around Rialto Bridge. Busy during the day with markets and tourists but safe and well-maintained. Good restaurants and bars in the evenings."
+        },
+        {
+          "name": "Santa Croce",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Contains transport hubs like Piazzale Roma and train station. Less touristy and more functional, but perfectly safe. Some areas can feel quieter at night but no safety concerns."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Restaurant Bills",
+          "risk": "high",
+          "description": "Restaurants near major attractions may have unclear pricing, excessive cover charges, or charge tourist prices. Some add unauthorized bread or water charges to bills.",
+          "howToAvoid": "Always check menu prices before ordering, ask about cover charges (coperto), and avoid restaurants with waiters aggressively soliciting customers outside."
+        },
+        {
+          "name": "Friendship Bracelet/Rose Scams",
+          "risk": "medium",
+          "description": "Vendors approach tourists with 'free' bracelets or roses, then demand payment once the item is in your hands. Often used as distraction for pickpocketing accomplices.",
+          "howToAvoid": "Keep hands free, firmly decline all unsolicited items, and walk away without engaging. Never accept anything 'free' from strangers."
+        },
+        {
+          "name": "Fake Gondola Pricing",
+          "risk": "medium",
+          "description": "Unofficial gondoliers may quote low prices then demand much higher fees mid-ride, or add charges for singing or longer routes not initially discussed.",
+          "howToAvoid": "Use only official gondola stations, confirm all prices in writing beforehand, and ask about additional charges for extras like serenades."
+        },
+        {
+          "name": "Water Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some water taxi operators charge excessive rates to tourists, especially those arriving at airports or train stations without prior arrangements.",
+          "howToAvoid": "Use official taxi stations, ask for estimated fare upfront, and consider using public vaporetto transport which is much cheaper and reliable."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Venice is exceptional for solo female travelers, ranking among Europe's safest cities for women. The compact size, absence of vehicles, constant foot traffic, and strong police presence create a secure environment day and night. Multiple solo female travel experts consistently rate Venice as one of their top recommendations. The biggest safety concern is navigation rather than personal security.",
+        "tips": [
+          "Stay in well-connected neighborhoods like Cannaregio or Dorsoduro for authentic experiences with good safety",
+          "Avoid very isolated canal banks late at night, particularly in quiet areas of eastern Castello",
+          "Download offline maps as getting lost is common - the biggest risk is being disoriented, not unsafe",
+          "Trust your instincts about crowded areas during peak tourist times when pickpocketing risk is higher",
+          "Connect with other solo travelers through apps or hostels if you want company exploring"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Venice transforms beautifully at night and remains remarkably safe for evening exploration. The historic center stays active until late with restaurants, bars, and foot traffic. Well-lit main routes connect all major areas, and the absence of vehicle traffic creates a peaceful atmosphere. Police patrol regularly, and emergency services are easily accessible.",
+        "tips": [
+          "Stick to main pedestrian routes which are well-lit and have consistent foot traffic",
+          "The San Marco, Dorsoduro, and western Castello areas are particularly safe for evening walks",
+          "Carry a charged phone with offline maps as some narrow alleys can be confusing in the dark",
+          "Avoid completely isolated canal banks or dead-end alleys, especially in quieter residential areas",
+          "Last vaporetto services run late but check schedules to avoid being stranded in distant areas"
+        ]
+      },
+      "transport": {
+        "metro": "Venice has no metro system. The city's unique geography means all public transport is water-based.",
+        "rideshare": "No traditional rideshare services operate in Venice due to the canal system. Water taxis serve this function but are expensive.",
+        "taxis": "Water taxis are the equivalent of traditional taxis, operating from designated stations. Fares are regulated but expensive - expect €80+ for airport transfers. Always confirm pricing upfront.",
+        "tips": "The ACTV vaporetto (water bus) system is safe, reliable, and the most practical transport option. Purchase multi-day passes for convenience, validate tickets before boarding, and expect crowds during peak hours. The system connects all major destinations and islands efficiently."
+      },
+      "customs": [
+        "Dress modestly when visiting churches - cover shoulders and knees, remove hats",
+        "Respect local life by not blocking narrow passages or sitting on bridges during rush hours",
+        "Don't feed pigeons in St Mark's Square - it's prohibited and fined heavily"
+      ],
+      "health": {
+        "overview": "Italy has an excellent public healthcare system ranking 4th globally for life expectancy. Venice has quality medical facilities with both public and private options available.",
+        "water": "Tap water is safe to drink throughout Venice. Public fountains provide free, potable water for refilling bottles.",
+        "vaccinations": "No special vaccinations required for Italy beyond routine immunizations. EU citizens receive healthcare through reciprocal agreements.",
+        "altitude": "Venice is at sea level with a mild Mediterranean climate. Main health concern is occasional flooding (acqua alta) during autumn/winter which is well-managed and not dangerous."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "118",
+        "fire": "115",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consular Agent Venice: Viale Galileo Galilei 30, 30173 Tessera. For emergencies contact US Consulate General Milan at +39-02-290351"
+      },
+      "faq": [
+        {
+          "q": "Is Venice safe for tourists?",
+          "a": "Yes, Venice is one of Italy's safest cities with extremely low violent crime rates. The main concerns are minor pickpocketing in tourist areas and seasonal flooding, both easily managed with basic precautions."
+        },
+        {
+          "q": "Is Venice safe at night?",
+          "a": "Venice is very safe at night with well-lit main routes and active nightlife areas. The absence of vehicles and strong police presence create a secure environment for evening exploration."
+        },
+        {
+          "q": "Is Venice safe for solo female travelers?",
+          "a": "Absolutely. Venice consistently ranks as one of Europe's top destinations for solo female travelers. The compact size, constant foot traffic, and community atmosphere provide excellent security."
+        },
+        {
+          "q": "What areas should I avoid in Venice?",
+          "a": "There are no dangerous neighborhoods in Venice. Some isolated canal banks late at night and the far eastern areas of Castello can be quieter but remain safe. The main 'avoidance' is tourist traps near major attractions."
+        },
+        {
+          "q": "Is it safe to use public transport in Venice?",
+          "a": "Yes, the ACTV vaporetto system is very safe and reliable. Take normal precautions against pickpockets in crowded boats and validate tickets properly to avoid fines."
+        }
+      ],
+      "relatedCities": [
+        "florence",
+        "rome",
+        "milan"
+      ]
+    },
+    {
+      "slug": "milan",
+      "name": "Milan",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 6.9,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.8,
+        "scamRisk": 5.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.5,
+        "naturalHazards": 8.5
+      },
+      "summary": "Milan is generally safe for tourists but has the highest reported crime rate in Italy, primarily involving pickpocketing and tourist-targeted scams. While violent crime is rare with a homicide rate of 0.5 per 100,000 people, petty crime remains a concern in tourist areas.",
+      "quickVerdict": "Milan offers visitors a relatively safe experience despite being Italy's crime capital by statistics. The main risks involve pickpocketing around major attractions like the Duomo and Central Station, along with common tourist scams. Violent crime is uncommon, and the city maintains excellent healthcare and emergency services. Solo female travelers generally feel safe, especially during daylight hours, though standard precautions are advised. Public transport is reliable and secure, and the city's infrastructure supports safe travel for most visitors.",
+      "neighborhoods": [
+        {
+          "name": "Centro Storico/Duomo",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The historic center is well-patrolled and generally safe, though crowded with tourists making pickpocketing more common. Very busy during the day but becomes quieter at night."
+        },
+        {
+          "name": "Brera",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale artistic district with galleries, cafes, and nightlife. Well-lit streets and good police presence make it one of the safest areas for evening activities."
+        },
+        {
+          "name": "Navigli",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Popular nightlife area with canals, bars, and restaurants. Busy and well-populated in evenings with good visibility and foot traffic providing natural security."
+        },
+        {
+          "name": "Porta Garibaldi/Corso Como",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Modern business and nightlife district that feels secure with good lighting and regular police patrols. Popular with locals and tourists alike."
+        },
+        {
+          "name": "Central Station Area",
+          "score": 4.8,
+          "class": "caution",
+          "description": "Higher crime rates around Milano Centrale with reports of pickpocketing, drug activity, and petty crime. Exercise extra caution especially at night."
+        },
+        {
+          "name": "Via Padova/Loreto",
+          "score": 3.2,
+          "class": "danger",
+          "description": "Known for higher crime rates including theft and drug-related activities. Avoid walking alone at night and stay alert during the day. Consider alternative routes when possible."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Friendship Bracelet Scam",
+          "risk": "high",
+          "description": "People around the Duomo approach tourists offering free bracelets or roses, then demand payment once the item is in your hands.",
+          "howToAvoid": "Keep hands free, say No grazie firmly, and keep walking. Never accept anything from strangers on the street."
+        },
+        {
+          "name": "Fake Art Damage",
+          "risk": "medium",
+          "description": "Scammers place oil paintings on sidewalks where tourists might accidentally step on them, then demand payment for damage.",
+          "howToAvoid": "Watch where you walk in tourist areas, especially around the Duomo and Florence. If accused, refuse payment and call police if pressured."
+        },
+        {
+          "name": "La Mossa del Foglietto",
+          "risk": "medium",
+          "description": "Fake deaf beggars leave gadgets and notes on restaurant tables requesting donations, then use the distraction to steal phones or valuables.",
+          "howToAvoid": "Keep valuables secured and out of sight. Never leave phones or bags unattended on tables, especially in tourist areas around the Duomo."
+        },
+        {
+          "name": "Helpful Stranger Pickpocketing",
+          "risk": "high",
+          "description": "Someone offers to help with tickets, directions, or dropped items while an accomplice pickpockets you during the distraction.",
+          "howToAvoid": "Be wary of overly helpful strangers, especially at train stations and tourist sites. Keep bags zipped and positioned in front of your body."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Milan is generally considered safe for solo female travelers, with many women reporting feeling comfortable exploring alone during both day and night. The city has good lighting in central areas, reliable public transport, and a visible police presence in tourist zones. However, standard precautions are recommended, particularly regarding pickpocketing and street harassment.",
+        "tips": [
+          "Stay in well-lit, populated areas especially after dark and avoid quiet side streets",
+          "Use crossbody bags worn in front with zippers facing inward to prevent pickpocketing",
+          "Be aware that official white taxis offer reduced fares for women after 10 PM for safety"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Milan's nightlife areas like Navigli, Brera, and Corso Como are generally safe with good lighting and foot traffic. The city center remains relatively secure at night, though some areas like Central Station and Via Padova should be avoided after dark. Public transport operates until late and taxis are readily available.",
+        "tips": [
+          "Stick to busy nightlife districts like Navigli and Brera which have natural security from crowds",
+          "Avoid the area around Milano Centrale station at night due to higher crime rates",
+          "Use official white taxis or ride-hailing apps rather than walking alone in less populated areas"
+        ]
+      },
+      "transport": {
+        "metro": "Milan's metro system (ATM) is efficient, clean, and generally safe. Watch for pickpockets during rush hours and keep bags secured. Service runs until approximately midnight on weekdays and 1 AM on weekends.",
+        "rideshare": "Uber operates in Milan but primarily offers premium services like Uber Black, making it more expensive than taxis. Free Now and other local apps provide alternatives with competitive pricing and good availability.",
+        "taxis": "Official white taxis are regulated and safe, with meters used properly in most cases. They offer reduced fares for women after 10 PM. Taxis can be hailed on the street or booked via apps like Free Now.",
+        "tips": "Public transport is the most economical option, while taxis provide door-to-door convenience especially at night. Always verify taxi meters are running and use official taxi ranks at major locations."
+      },
+      "customs": [
+        "Italians dress elegantly and fashion-consciously, especially in Milan - avoid overly casual attire in restaurants and cultural sites",
+        "Business hours include afternoon closures (riposo) typically from 1-4 PM, plan accordingly for shopping and services",
+        "Greet with a handshake and maintain eye contact - air kisses on both cheeks are common among acquaintances"
+      ],
+      "health": {
+        "overview": "Italy has excellent healthcare with Milan offering some of the country's best medical facilities. The northern region provides high-quality care with modern equipment and English-speaking staff in private hospitals. Public healthcare is available to all including tourists for emergencies.",
+        "water": "Tap water is safe to drink throughout Milan and meets high EU standards. Bottled water is widely available but unnecessary for health reasons.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. EU citizens should bring European Health Insurance Card for healthcare access.",
+        "altitude": "Milan is at sea level with no altitude concerns. The climate is temperate with hot summers reaching 40°C requiring heat precautions, and cold winters with occasional snow."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "118",
+        "fire": "115",
+        "touristPolice": "N/A",
+        "usEmbassy": "U.S. Consulate General Milan: Via Principe Amedeo 2/10, 20121 Milan. Phone: (+39) 02-290351. Emergency services available Monday-Friday 8:30 AM-12:00 PM on walk-in basis."
+      },
+      "faq": [
+        {
+          "q": "Is Milan safe for tourists?",
+          "a": "Yes, Milan is generally safe for tourists despite having Italy's highest reported crime rate. Most incidents involve pickpocketing rather than violent crime. Staying alert in tourist areas and following basic precautions ensures a safe visit."
+        },
+        {
+          "q": "Is Milan safe at night?",
+          "a": "Milan's main areas are safe at night, especially the nightlife districts of Navigli, Brera, and Corso Como. Avoid the Central Station area and Via Padova after dark, and stick to well-lit, populated streets when walking."
+        },
+        {
+          "q": "Is Milan safe for solo female travelers?",
+          "a": "Yes, Milan is considered safe for solo female travelers with many women reporting feeling comfortable exploring alone. The city has good lighting, reliable transport, and visible security, though standard precautions against pickpocketing are advised."
+        },
+        {
+          "q": "What areas should I avoid in Milan?",
+          "a": "Exercise caution around Milano Centrale station, Via Padova, Via Giambellino, and Viale Monza, especially at night. These areas have higher crime rates. The Duomo area is safe but watch for pickpockets due to tourist crowds."
+        },
+        {
+          "q": "Is it safe to use public transport in Milan?",
+          "a": "Yes, Milan's public transport is safe and efficient. The metro, buses, and trams are well-maintained and regularly patrolled. Watch for pickpockets during rush hours and keep bags secured, but overall the system is very reliable."
+        }
+      ],
+      "relatedCities": [
+        "rome",
+        "florence",
+        "venice",
+        "turin",
+        "bologna"
+      ]
+    },
+    {
+      "slug": "amalfi",
+      "name": "Amalfi",
+      "country": "Italy",
+      "countryCode": "IT",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-11",
+      "overallScore": 8.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.0,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 8.0,
+        "transport": 7.5,
+        "naturalHazards": 7.5
+      },
+      "summary": "Amalfi is one of Italy's safest tourist destinations with extremely low violent crime rates and minimal petty theft compared to major Italian cities. The main concerns are tourist-specific scams, steep terrain, and occasional seismic activity in the broader region.",
+      "quickVerdict": "Amalfi ranks among Italy's safest destinations for tourists. While the US State Department has placed Italy under a Level 2 advisory due to terrorism concerns, this picturesque coastal town experiences very low crime rates with minimal violent incidents. The primary safety considerations involve tourist scams, navigating steep clifftop streets, and ensuring adequate travel insurance for medical emergencies. The town's small size, strong police presence, and tourism-dependent economy contribute to excellent overall security for visitors.",
+      "neighborhoods": [
+        {
+          "name": "Amalfi Centro",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The historic town center is extremely safe with constant foot traffic, well-lit streets, and regular police patrols. Main tourist areas around the cathedral and waterfront are closely monitored."
+        },
+        {
+          "name": "Marina Grande",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The port and beach area is safe with good lighting and regular activity. Watch for pickpockets in crowded ferry areas and be cautious of overpriced seaside restaurants."
+        },
+        {
+          "name": "Atrani",
+          "score": 9.0,
+          "class": "safe",
+          "description": "This tiny neighboring village is exceptionally safe with virtually no crime. The intimate size means locals know everyone, creating natural community security."
+        },
+        {
+          "name": "Upper Amalfi Hills",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Hillside residential areas are safe but poorly lit at night. Steep, narrow paths can be hazardous especially after rain. Less frequented by tourists so help may be limited."
+        },
+        {
+          "name": "Coastal Path to Positano",
+          "score": 6.5,
+          "class": "caution",
+          "description": "The scenic coastal walking path requires caution due to steep drop-offs, loose rocks, and narrow passages. Beautiful but potentially dangerous for inexperienced hikers."
+        },
+        {
+          "name": "Remote Beach Areas",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Secluded beaches and coves away from the main town have minimal safety infrastructure. Risk of getting stranded if weather changes or during off-season when boat services are limited."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Restaurant Overcharging",
+          "risk": "high",
+          "description": "Restaurants near tourist attractions may inflate prices, charge for items not ordered, or add excessive service fees up to 20%. Menu prices may not reflect final bill.",
+          "howToAvoid": "Always check prices before ordering, ask about service charges upfront, demand to see a menu with prices, and request an itemized receipt."
+        },
+        {
+          "name": "Ferry Ticket Touts",
+          "risk": "medium",
+          "description": "Unofficial sellers around the port may offer fake or overpriced ferry tickets, or pressure tourists into unnecessary tour packages.",
+          "howToAvoid": "Buy tickets only from official ferry company booths or authorized agents. Book online in advance through official websites when possible."
+        },
+        {
+          "name": "Fake Police/Tax Officials",
+          "risk": "medium",
+          "description": "Scammers pose as tax police demanding to see receipts for purchases, then request immediate fines if you cannot produce them.",
+          "howToAvoid": "Always request official identification and badges. Real officials will allow you to go to a police station rather than pay on the street. Keep receipts for major purchases."
+        },
+        {
+          "name": "Friendship Bracelet Trap",
+          "risk": "low",
+          "description": "Friendly individuals may tie a bracelet on your wrist then demand payment, becoming aggressive if you refuse to pay.",
+          "howToAvoid": "Never allow strangers to put anything on your person. Keep hands in pockets and firmly say 'No grazie' while walking away confidently."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Amalfi is exceptionally safe for solo female travelers with low harassment rates and a strong local culture of respect for tourists. The compact size means you're rarely isolated, and locals are generally helpful. However, some standard precautions apply when walking alone at night in less central areas.",
+        "tips": [
+          "Stay in well-reviewed accommodations in the town center for maximum safety and convenience",
+          "Use official taxi services or reputable ride-sharing apps rather than accepting rides from strangers",
+          "Be extra cautious on steep hillside paths, especially when wet, and consider guided tours for hiking",
+          "Dress modestly when visiting churches and religious sites to show respect for local customs",
+          "Keep emergency contacts handy and inform someone of your daily plans when exploring remote areas"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Amalfi is very safe at night with well-lit main areas and regular police presence. The town center remains active until late with restaurants and bars operating. However, hillside areas and coastal paths can be poorly lit and challenging to navigate after dark.",
+        "tips": [
+          "Stick to well-lit main streets and avoid steep hillside paths after dark",
+          "Use official taxi services for late-night transportation rather than walking in remote areas",
+          "Be aware that many shops and restaurants close early in off-season months",
+          "Keep emergency numbers saved in your phone and ensure your phone is charged",
+          "Consider staying near the town center if you plan to be out late frequently"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists. Local SITA buses connect Amalfi to other coastal towns but can be crowded and have limited evening service.",
+        "rideshare": "Uber and other major rideshare apps have limited availability. Local taxi services are the primary option but should be booked in advance, especially during peak season.",
+        "taxis": "Official taxis are safe and regulated but expensive due to the challenging terrain. Ensure the meter is running or agree on a fixed price beforehand. Unlicensed taxis should be avoided.",
+        "tips": "Public transport is limited so plan accordingly. Ferry services offer the most reliable connection to other coastal towns. Book transportation in advance during summer months as options fill up quickly."
+      },
+      "customs": [
+        "Greeting with a handshake or air kisses on both cheeks is common, but wait for locals to initiate",
+        "Dress modestly when visiting churches - shoulders and knees should be covered",
+        "Dining is leisurely with lunch typically 1-3pm and dinner starting after 7:30pm",
+        "Tipping 10-15% is appreciated but not mandatory; service charges may already be included",
+        "Learn basic Italian phrases as English proficiency varies outside main tourist areas"
+      ],
+      "health": {
+        "overview": "Healthcare quality is excellent with modern facilities, though options are limited in Amalfi itself. The nearest major hospital is in Salerno, about 30 minutes away. Emergency services are well-coordinated.",
+        "water": "Tap water is safe to drink and meets high EU standards. Bottled water is widely available but unnecessary for health reasons.",
+        "vaccinations": "No special vaccinations required. Routine vaccines (MMR, flu, etc.) should be up to date. EU citizens receive free emergency care with EHIC card.",
+        "altitude": "Sea-level location with Mediterranean climate. Summer temperatures can reach 35°C/95°F. Sun protection essential due to intense UV reflection off water and limestone cliffs."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "118",
+        "fire": "115",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Rome: +39 06 46741, Consulate Naples: +39 081 583 8111. 24/7 emergency assistance for US citizens available."
+      },
+      "faq": [
+        {
+          "q": "Is Amalfi safe for tourists?",
+          "a": "Yes, Amalfi is very safe for tourists with extremely low crime rates and a strong local police presence. The town's economy depends on tourism, so there's significant investment in visitor safety. Main risks are minor scams and terrain-related accidents."
+        },
+        {
+          "q": "Is Amalfi safe at night?",
+          "a": "The town center is very safe at night with good lighting and regular activity until late. However, steep hillside areas can be poorly lit and challenging to navigate. Stick to main streets after dark and use taxis for longer distances."
+        },
+        {
+          "q": "Is Amalfi safe for solo female travelers?",
+          "a": "Absolutely. Amalfi is one of Italy's safest destinations for solo women. Harassment is rare, locals are respectful and helpful, and the compact town size means you're rarely isolated. Standard travel precautions still apply."
+        },
+        {
+          "q": "What areas should I avoid in Amalfi?",
+          "a": "There are no dangerous areas per se, but be cautious on steep coastal paths and remote beaches due to terrain risks. Upper hillside areas can be poorly lit at night. Avoid accepting help with luggage from unofficial porters near the ferry terminal."
+        },
+        {
+          "q": "Is it safe to use public transport in Amalfi?",
+          "a": "Yes, SITA buses and ferries are safe and well-maintained. Buses can be extremely crowded during peak season, so watch for pickpockets. Ferry services are reliable and offer beautiful coastal views, though weather can affect schedules."
+        }
+      ],
+      "relatedCities": [
+        "positano",
+        "ravello",
+        "sorrento",
+        "capri",
+        "naples",
+        "rome"
+      ]
     }
   ]
 }

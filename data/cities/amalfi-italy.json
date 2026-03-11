@@ -1,0 +1,166 @@
+{
+  "slug": "amalfi",
+  "name": "Amalfi",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 8.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Amalfi is one of Italy's safest tourist destinations with extremely low violent crime rates and minimal petty theft compared to major Italian cities. The main concerns are tourist-specific scams, steep terrain, and occasional seismic activity in the broader region.",
+  "quickVerdict": "Amalfi ranks among Italy's safest destinations for tourists. While the US State Department has placed Italy under a Level 2 advisory due to terrorism concerns, this picturesque coastal town experiences very low crime rates with minimal violent incidents. The primary safety considerations involve tourist scams, navigating steep clifftop streets, and ensuring adequate travel insurance for medical emergencies. The town's small size, strong police presence, and tourism-dependent economy contribute to excellent overall security for visitors.",
+  "neighborhoods": [
+    {
+      "name": "Amalfi Centro",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The historic town center is extremely safe with constant foot traffic, well-lit streets, and regular police patrols. Main tourist areas around the cathedral and waterfront are closely monitored."
+    },
+    {
+      "name": "Marina Grande",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The port and beach area is safe with good lighting and regular activity. Watch for pickpockets in crowded ferry areas and be cautious of overpriced seaside restaurants."
+    },
+    {
+      "name": "Atrani",
+      "score": 9.0,
+      "class": "safe",
+      "description": "This tiny neighboring village is exceptionally safe with virtually no crime. The intimate size means locals know everyone, creating natural community security."
+    },
+    {
+      "name": "Upper Amalfi Hills",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Hillside residential areas are safe but poorly lit at night. Steep, narrow paths can be hazardous especially after rain. Less frequented by tourists so help may be limited."
+    },
+    {
+      "name": "Coastal Path to Positano",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The scenic coastal walking path requires caution due to steep drop-offs, loose rocks, and narrow passages. Beautiful but potentially dangerous for inexperienced hikers."
+    },
+    {
+      "name": "Remote Beach Areas",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Secluded beaches and coves away from the main town have minimal safety infrastructure. Risk of getting stranded if weather changes or during off-season when boat services are limited."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Restaurant Overcharging",
+      "risk": "high",
+      "description": "Restaurants near tourist attractions may inflate prices, charge for items not ordered, or add excessive service fees up to 20%. Menu prices may not reflect final bill.",
+      "howToAvoid": "Always check prices before ordering, ask about service charges upfront, demand to see a menu with prices, and request an itemized receipt."
+    },
+    {
+      "name": "Ferry Ticket Touts",
+      "risk": "medium",
+      "description": "Unofficial sellers around the port may offer fake or overpriced ferry tickets, or pressure tourists into unnecessary tour packages.",
+      "howToAvoid": "Buy tickets only from official ferry company booths or authorized agents. Book online in advance through official websites when possible."
+    },
+    {
+      "name": "Fake Police/Tax Officials",
+      "risk": "medium",
+      "description": "Scammers pose as tax police demanding to see receipts for purchases, then request immediate fines if you cannot produce them.",
+      "howToAvoid": "Always request official identification and badges. Real officials will allow you to go to a police station rather than pay on the street. Keep receipts for major purchases."
+    },
+    {
+      "name": "Friendship Bracelet Trap",
+      "risk": "low",
+      "description": "Friendly individuals may tie a bracelet on your wrist then demand payment, becoming aggressive if you refuse to pay.",
+      "howToAvoid": "Never allow strangers to put anything on your person. Keep hands in pockets and firmly say 'No grazie' while walking away confidently."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Amalfi is exceptionally safe for solo female travelers with low harassment rates and a strong local culture of respect for tourists. The compact size means you're rarely isolated, and locals are generally helpful. However, some standard precautions apply when walking alone at night in less central areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations in the town center for maximum safety and convenience",
+      "Use official taxi services or reputable ride-sharing apps rather than accepting rides from strangers",
+      "Be extra cautious on steep hillside paths, especially when wet, and consider guided tours for hiking",
+      "Dress modestly when visiting churches and religious sites to show respect for local customs",
+      "Keep emergency contacts handy and inform someone of your daily plans when exploring remote areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Amalfi is very safe at night with well-lit main areas and regular police presence. The town center remains active until late with restaurants and bars operating. However, hillside areas and coastal paths can be poorly lit and challenging to navigate after dark.",
+    "tips": [
+      "Stick to well-lit main streets and avoid steep hillside paths after dark",
+      "Use official taxi services for late-night transportation rather than walking in remote areas",
+      "Be aware that many shops and restaurants close early in off-season months",
+      "Keep emergency numbers saved in your phone and ensure your phone is charged",
+      "Consider staying near the town center if you plan to be out late frequently"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local SITA buses connect Amalfi to other coastal towns but can be crowded and have limited evening service.",
+    "rideshare": "Uber and other major rideshare apps have limited availability. Local taxi services are the primary option but should be booked in advance, especially during peak season.",
+    "taxis": "Official taxis are safe and regulated but expensive due to the challenging terrain. Ensure the meter is running or agree on a fixed price beforehand. Unlicensed taxis should be avoided.",
+    "tips": "Public transport is limited so plan accordingly. Ferry services offer the most reliable connection to other coastal towns. Book transportation in advance during summer months as options fill up quickly."
+  },
+  "customs": [
+    "Greeting with a handshake or air kisses on both cheeks is common, but wait for locals to initiate",
+    "Dress modestly when visiting churches - shoulders and knees should be covered",
+    "Dining is leisurely with lunch typically 1-3pm and dinner starting after 7:30pm",
+    "Tipping 10-15% is appreciated but not mandatory; service charges may already be included",
+    "Learn basic Italian phrases as English proficiency varies outside main tourist areas"
+  ],
+  "health": {
+    "overview": "Healthcare quality is excellent with modern facilities, though options are limited in Amalfi itself. The nearest major hospital is in Salerno, about 30 minutes away. Emergency services are well-coordinated.",
+    "water": "Tap water is safe to drink and meets high EU standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Routine vaccines (MMR, flu, etc.) should be up to date. EU citizens receive free emergency care with EHIC card.",
+    "altitude": "Sea-level location with Mediterranean climate. Summer temperatures can reach 35°C/95°F. Sun protection essential due to intense UV reflection off water and limestone cliffs."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Rome: +39 06 46741, Consulate Naples: +39 081 583 8111. 24/7 emergency assistance for US citizens available."
+  },
+  "faq": [
+    {
+      "q": "Is Amalfi safe for tourists?",
+      "a": "Yes, Amalfi is very safe for tourists with extremely low crime rates and a strong local police presence. The town's economy depends on tourism, so there's significant investment in visitor safety. Main risks are minor scams and terrain-related accidents."
+    },
+    {
+      "q": "Is Amalfi safe at night?",
+      "a": "The town center is very safe at night with good lighting and regular activity until late. However, steep hillside areas can be poorly lit and challenging to navigate. Stick to main streets after dark and use taxis for longer distances."
+    },
+    {
+      "q": "Is Amalfi safe for solo female travelers?",
+      "a": "Absolutely. Amalfi is one of Italy's safest destinations for solo women. Harassment is rare, locals are respectful and helpful, and the compact town size means you're rarely isolated. Standard travel precautions still apply."
+    },
+    {
+      "q": "What areas should I avoid in Amalfi?",
+      "a": "There are no dangerous areas per se, but be cautious on steep coastal paths and remote beaches due to terrain risks. Upper hillside areas can be poorly lit at night. Avoid accepting help with luggage from unofficial porters near the ferry terminal."
+    },
+    {
+      "q": "Is it safe to use public transport in Amalfi?",
+      "a": "Yes, SITA buses and ferries are safe and well-maintained. Buses can be extremely crowded during peak season, so watch for pickpockets. Ferry services are reliable and offer beautiful coastal views, though weather can affect schedules."
+    }
+  ],
+  "relatedCities": [
+    "positano",
+    "ravello",
+    "sorrento",
+    "capri",
+    "naples",
+    "rome"
+  ],
+  "_city_id": "amalfi-italy"
+}

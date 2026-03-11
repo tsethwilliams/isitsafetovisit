@@ -1,0 +1,159 @@
+{
+  "slug": "milan",
+  "name": "Milan",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Milan is generally safe for tourists but has the highest reported crime rate in Italy, primarily involving pickpocketing and tourist-targeted scams. While violent crime is rare with a homicide rate of 0.5 per 100,000 people, petty crime remains a concern in tourist areas.",
+  "quickVerdict": "Milan offers visitors a relatively safe experience despite being Italy's crime capital by statistics. The main risks involve pickpocketing around major attractions like the Duomo and Central Station, along with common tourist scams. Violent crime is uncommon, and the city maintains excellent healthcare and emergency services. Solo female travelers generally feel safe, especially during daylight hours, though standard precautions are advised. Public transport is reliable and secure, and the city's infrastructure supports safe travel for most visitors.",
+  "neighborhoods": [
+    {
+      "name": "Centro Storico/Duomo",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The historic center is well-patrolled and generally safe, though crowded with tourists making pickpocketing more common. Very busy during the day but becomes quieter at night."
+    },
+    {
+      "name": "Brera",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale artistic district with galleries, cafes, and nightlife. Well-lit streets and good police presence make it one of the safest areas for evening activities."
+    },
+    {
+      "name": "Navigli",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular nightlife area with canals, bars, and restaurants. Busy and well-populated in evenings with good visibility and foot traffic providing natural security."
+    },
+    {
+      "name": "Porta Garibaldi/Corso Como",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern business and nightlife district that feels secure with good lighting and regular police patrols. Popular with locals and tourists alike."
+    },
+    {
+      "name": "Central Station Area",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Higher crime rates around Milano Centrale with reports of pickpocketing, drug activity, and petty crime. Exercise extra caution especially at night."
+    },
+    {
+      "name": "Via Padova/Loreto",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Known for higher crime rates including theft and drug-related activities. Avoid walking alone at night and stay alert during the day. Consider alternative routes when possible."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Friendship Bracelet Scam",
+      "risk": "high",
+      "description": "People around the Duomo approach tourists offering free bracelets or roses, then demand payment once the item is in your hands.",
+      "howToAvoid": "Keep hands free, say No grazie firmly, and keep walking. Never accept anything from strangers on the street."
+    },
+    {
+      "name": "Fake Art Damage",
+      "risk": "medium",
+      "description": "Scammers place oil paintings on sidewalks where tourists might accidentally step on them, then demand payment for damage.",
+      "howToAvoid": "Watch where you walk in tourist areas, especially around the Duomo and Florence. If accused, refuse payment and call police if pressured."
+    },
+    {
+      "name": "La Mossa del Foglietto",
+      "risk": "medium",
+      "description": "Fake deaf beggars leave gadgets and notes on restaurant tables requesting donations, then use the distraction to steal phones or valuables.",
+      "howToAvoid": "Keep valuables secured and out of sight. Never leave phones or bags unattended on tables, especially in tourist areas around the Duomo."
+    },
+    {
+      "name": "Helpful Stranger Pickpocketing",
+      "risk": "high",
+      "description": "Someone offers to help with tickets, directions, or dropped items while an accomplice pickpockets you during the distraction.",
+      "howToAvoid": "Be wary of overly helpful strangers, especially at train stations and tourist sites. Keep bags zipped and positioned in front of your body."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Milan is generally considered safe for solo female travelers, with many women reporting feeling comfortable exploring alone during both day and night. The city has good lighting in central areas, reliable public transport, and a visible police presence in tourist zones. However, standard precautions are recommended, particularly regarding pickpocketing and street harassment.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark and avoid quiet side streets",
+      "Use crossbody bags worn in front with zippers facing inward to prevent pickpocketing",
+      "Be aware that official white taxis offer reduced fares for women after 10 PM for safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Milan's nightlife areas like Navigli, Brera, and Corso Como are generally safe with good lighting and foot traffic. The city center remains relatively secure at night, though some areas like Central Station and Via Padova should be avoided after dark. Public transport operates until late and taxis are readily available.",
+    "tips": [
+      "Stick to busy nightlife districts like Navigli and Brera which have natural security from crowds",
+      "Avoid the area around Milano Centrale station at night due to higher crime rates",
+      "Use official white taxis or ride-hailing apps rather than walking alone in less populated areas"
+    ]
+  },
+  "transport": {
+    "metro": "Milan's metro system (ATM) is efficient, clean, and generally safe. Watch for pickpockets during rush hours and keep bags secured. Service runs until approximately midnight on weekdays and 1 AM on weekends.",
+    "rideshare": "Uber operates in Milan but primarily offers premium services like Uber Black, making it more expensive than taxis. Free Now and other local apps provide alternatives with competitive pricing and good availability.",
+    "taxis": "Official white taxis are regulated and safe, with meters used properly in most cases. They offer reduced fares for women after 10 PM. Taxis can be hailed on the street or booked via apps like Free Now.",
+    "tips": "Public transport is the most economical option, while taxis provide door-to-door convenience especially at night. Always verify taxi meters are running and use official taxi ranks at major locations."
+  },
+  "customs": [
+    "Italians dress elegantly and fashion-consciously, especially in Milan - avoid overly casual attire in restaurants and cultural sites",
+    "Business hours include afternoon closures (riposo) typically from 1-4 PM, plan accordingly for shopping and services",
+    "Greet with a handshake and maintain eye contact - air kisses on both cheeks are common among acquaintances"
+  ],
+  "health": {
+    "overview": "Italy has excellent healthcare with Milan offering some of the country's best medical facilities. The northern region provides high-quality care with modern equipment and English-speaking staff in private hospitals. Public healthcare is available to all including tourists for emergencies.",
+    "water": "Tap water is safe to drink throughout Milan and meets high EU standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. EU citizens should bring European Health Insurance Card for healthcare access.",
+    "altitude": "Milan is at sea level with no altitude concerns. The climate is temperate with hot summers reaching 40°C requiring heat precautions, and cold winters with occasional snow."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Milan: Via Principe Amedeo 2/10, 20121 Milan. Phone: (+39) 02-290351. Emergency services available Monday-Friday 8:30 AM-12:00 PM on walk-in basis."
+  },
+  "faq": [
+    {
+      "q": "Is Milan safe for tourists?",
+      "a": "Yes, Milan is generally safe for tourists despite having Italy's highest reported crime rate. Most incidents involve pickpocketing rather than violent crime. Staying alert in tourist areas and following basic precautions ensures a safe visit."
+    },
+    {
+      "q": "Is Milan safe at night?",
+      "a": "Milan's main areas are safe at night, especially the nightlife districts of Navigli, Brera, and Corso Como. Avoid the Central Station area and Via Padova after dark, and stick to well-lit, populated streets when walking."
+    },
+    {
+      "q": "Is Milan safe for solo female travelers?",
+      "a": "Yes, Milan is considered safe for solo female travelers with many women reporting feeling comfortable exploring alone. The city has good lighting, reliable transport, and visible security, though standard precautions against pickpocketing are advised."
+    },
+    {
+      "q": "What areas should I avoid in Milan?",
+      "a": "Exercise caution around Milano Centrale station, Via Padova, Via Giambellino, and Viale Monza, especially at night. These areas have higher crime rates. The Duomo area is safe but watch for pickpockets due to tourist crowds."
+    },
+    {
+      "q": "Is it safe to use public transport in Milan?",
+      "a": "Yes, Milan's public transport is safe and efficient. The metro, buses, and trams are well-maintained and regularly patrolled. Watch for pickpockets during rush hours and keep bags secured, but overall the system is very reliable."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "florence",
+    "venice",
+    "turin",
+    "bologna"
+  ],
+  "_city_id": "milan-italy"
+}

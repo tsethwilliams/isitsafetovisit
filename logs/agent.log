@@ -657,3 +657,39 @@
 2026-03-11 07:58:15,480 [WARNING]   [medium] new_delhi_india: Multiple protests in New Delhi March 2-7, 2026. Anti-Iran killing demonstrations and ongoing pollution protests at India Gate area. 17 arrests made during pollution protests with some violence reported between protesters and police.
 2026-03-11 07:58:15,481 [WARNING]   [medium] hanoi_vietnam: Vietnam included in CDC global dengue outbreak advisory updated March 2026. Dengue is year-round risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
 2026-03-11 07:58:15,482 [WARNING]   [medium] cape_town_south_africa: Cape Town Crime Index 2026 ranks city 16th globally with crime score 73.7. Recent violent attacks reported on hiking trails including Table Mountain, Lion's Head and Signal Hill. UK gov warns of attacks on secondary roads to/from Cape Town airport.
+2026-03-11 11:48:11,258 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-11 11:48:11,299 [INFO] Queue has 263 cities, adding 8
+2026-03-11 11:48:11,299 [INFO] Generating new city profile: Tenerife, Spain
+2026-03-11 11:49:29,201 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:49:29,320 [INFO] Saved city data: tenerife-spain
+2026-03-11 11:49:29,321 [INFO] Generating new city profile: Porto, Portugal
+2026-03-11 11:51:13,998 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:51:14,087 [INFO] Saved city data: porto-portugal
+2026-03-11 11:51:14,089 [INFO] Generating new city profile: Faro, Portugal
+2026-03-11 11:53:01,702 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:53:01,784 [INFO] Saved city data: faro-portugal
+2026-03-11 11:53:01,786 [INFO] Generating new city profile: Funchal, Portugal
+2026-03-11 11:54:56,080 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:54:56,199 [INFO] Saved city data: funchal-portugal
+2026-03-11 11:54:56,200 [INFO] Generating new city profile: Florence, Italy
+2026-03-11 11:56:38,353 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:56:38,475 [INFO] Saved city data: florence-italy
+2026-03-11 11:56:38,477 [INFO] Generating new city profile: Venice, Italy
+2026-03-11 11:58:24,212 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:58:24,367 [INFO] Saved city data: venice-italy
+2026-03-11 11:58:24,368 [INFO] Generating new city profile: Milan, Italy
+2026-03-11 11:59:51,807 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 11:59:51,923 [INFO] Saved city data: milan-italy
+2026-03-11 11:59:51,925 [INFO] Generating new city profile: Amalfi, Italy
+2026-03-11 12:01:10,531 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 12:01:10,612 [INFO] Saved city data: amalfi-italy
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Tenerife
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Porto
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Faro
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Funchal
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Florence
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Venice
+2026-03-11 12:01:10,621 [INFO] Merged into site data: Milan
+2026-03-11 12:01:10,622 [INFO] Merged into site data: Amalfi
+2026-03-11 12:01:10,645 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-11 12:01:10,646 [INFO] Updated sitemap with 8 new URLs

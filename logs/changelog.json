@@ -970,5 +970,53 @@
     "action": "alert",
     "city_id": "cape_town_south_africa",
     "details": "{\"city_id\": \"cape_town_south_africa\", \"alert_type\": \"crime_update\", \"severity\": \"medium\", \"summary\": \"Cape Town Crime Index 2026 ranks city 16th globally with crime score 73.7. Recent violent attacks reported on hiking trails including Table Mountain, Lion's Head and Signal Hill. UK gov warns of attacks on secondary roads to/from Cape Town airport.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T11:49:29.320906+00:00",
+    "action": "add",
+    "city_id": "tenerife-spain",
+    "details": "New city added with score 7.0"
+  },
+  {
+    "timestamp": "2026-03-11T11:51:14.088212+00:00",
+    "action": "add",
+    "city_id": "porto-portugal",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-11T11:53:01.785165+00:00",
+    "action": "add",
+    "city_id": "faro-portugal",
+    "details": "New city added with score 8.1"
+  },
+  {
+    "timestamp": "2026-03-11T11:54:56.199433+00:00",
+    "action": "add",
+    "city_id": "funchal-portugal",
+    "details": "New city added with score 8.3"
+  },
+  {
+    "timestamp": "2026-03-11T11:56:38.476144+00:00",
+    "action": "add",
+    "city_id": "florence-italy",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-11T11:58:24.367942+00:00",
+    "action": "add",
+    "city_id": "venice-italy",
+    "details": "New city added with score 8.1"
+  },
+  {
+    "timestamp": "2026-03-11T11:59:51.924410+00:00",
+    "action": "add",
+    "city_id": "milan-italy",
+    "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-11T12:01:10.612936+00:00",
+    "action": "add",
+    "city_id": "amalfi-italy",
+    "details": "New city added with score 8.0"
   }
 ]

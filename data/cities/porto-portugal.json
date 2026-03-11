@@ -1,0 +1,161 @@
+{
+  "slug": "porto",
+  "name": "Porto",
+  "country": "Portugal",
+  "countryCode": "PT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.3,
+    "violentCrime": 8.1,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Porto is one of Europe's safest cities, ranking 7th on the Global Peace Index with low violent crime rates and a welcoming culture. The main concerns for tourists are petty theft in crowded areas and occasional tourist scams, particularly pickpocketing at metro stations and popular attractions. Portugal's excellent healthcare system, reliable public transport, and strong police presence make it an ideal destination for all types of travelers.",
+  "quickVerdict": "Porto stands out as an exceptionally safe destination for tourists, with Portugal consistently ranking among the world's most peaceful countries. While violent crime is rare and locals are welcoming, visitors should remain aware of pickpocketing in busy areas like metro stations and tourist sites. The city's efficient public transport, strong police presence, and excellent infrastructure make it particularly suitable for solo travelers and first-time visitors to Europe.",
+  "neighborhoods": [
+    {
+      "name": "Ribeira",
+      "score": 7.5,
+      "class": "safe",
+      "description": "UNESCO World Heritage area with colorful houses and riverside charm. Heavy tourist presence provides natural security but watch for pickpockets in crowds. Well-lit and patrolled, safe for evening strolls along the Douro River."
+    },
+    {
+      "name": "Cedofeita",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Artistic and trendy neighborhood popular with locals and visitors. Excellent dining scene and creative spaces with good lighting and regular foot traffic. One of the safest areas for solo travelers and evening exploration."
+    },
+    {
+      "name": "Baixa/Aliados",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Central business district with major shopping areas and metro connections. Strong police presence and CCTV coverage. Busy during day and evening with good public lighting, though watch belongings in crowded areas."
+    },
+    {
+      "name": "Foz do Douro",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale coastal area with beaches and seafront promenades. Wealthy residential neighborhood with excellent security and well-maintained streets. Popular with families and considered the safest area in Porto."
+    },
+    {
+      "name": "Campanhã",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Major transport hub undergoing urban renewal with modern facilities. Improving safety due to infrastructure investments but requires extra awareness, especially around the train station at night."
+    },
+    {
+      "name": "Bairro do Aleixo",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Problematic neighborhood with drug-related activities and higher crime rates. Local authorities advise tourists to avoid this area, particularly at night. Better to use alternative routes when traveling across the city."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bridge Jumping Distractions",
+      "risk": "medium",
+      "description": "Young men gather crowds at Dom Luis I Bridge by offering to jump into the river for money, creating distractions for pickpockets to target tourists watching the spectacle.",
+      "howToAvoid": "Avoid crowds gathering around bridge jumpers and keep valuables secure. Don't get drawn into watching performances and maintain awareness of your surroundings."
+    },
+    {
+      "name": "Metro Pickpocketing",
+      "risk": "high",
+      "description": "Organized groups use distraction techniques at busy metro stations, especially during peak hours. They target tourists boarding or exiting trains, focusing on phones and wallets in easy-reach pockets.",
+      "howToAvoid": "Keep bags in front of you on public transport, avoid empty carriages, and don't display valuables near doors. Use crossbody bags with zippers and stay alert during busy boarding times."
+    },
+    {
+      "name": "Fake Parking Attendants",
+      "risk": "medium",
+      "description": "Unofficial parking attendants approach drivers offering to watch cars or direct them to unofficial parking spots, then demand payment for fake tickets while real fines may still apply.",
+      "howToAvoid": "Only park in official car parks or designated areas with proper signage. Ignore unofficial parking helpers and pay only through official channels or meters."
+    },
+    {
+      "name": "Overpriced Taxi Schemes",
+      "risk": "medium",
+      "description": "Some taxi drivers quote fixed fares higher than metered rates, especially from the airport, or take longer routes to increase costs. Claims of broken meters or no change are also common.",
+      "howToAvoid": "Always insist on using the meter, know approximate distances and fares beforehand, or use reputable ride-sharing apps like Uber or Bolt for transparent pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Porto is exceptionally safe for solo female travelers, with many women reporting feeling comfortable walking alone even at night in central areas. Portugal ranks among the top destinations for women's safety globally, with low harassment levels and a respectful culture. The city's compact size, excellent public transport, and welcoming atmosphere make it ideal for first-time solo travelers.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central neighborhoods like Cedofeita or Baixa for easy access to attractions and services",
+      "Use the reliable metro system during day hours and stick to well-lit main streets when walking at night",
+      "Join local food tours or cultural activities to meet other travelers and experience authentic Portuguese culture safely",
+      "Keep emergency contacts saved and inform someone of your daily plans when exploring different neighborhoods",
+      "Trust your instincts and don't hesitate to move away from any situation that feels uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Porto's nightlife is generally safe with good police presence in central areas and popular entertainment districts. The city stays lively until late with locals and tourists alike, providing natural security through activity. However, like any city, certain areas require extra caution after dark, and basic safety awareness is important.",
+    "tips": [
+      "Stick to well-lit main streets and avoid poorly lit alleys, especially in areas like Bairro do Aleixo",
+      "Travel in groups when possible and use official taxis or ride-sharing apps for late-night transportation",
+      "Be aware of drink spiking in nightlife areas and never leave drinks unattended or accept drinks from strangers",
+      "Keep phones charged for navigation and emergency contacts, and avoid displaying valuable items openly",
+      "Stay alert around metro stations late at night and consider taking taxis instead of public transport after midnight"
+    ]
+  },
+  "transport": {
+    "metro": "Porto's metro system is clean, reliable, and generally safe with CCTV coverage and regular security patrols. The Purple Line (E) connects directly to the airport. Avoid empty carriages, especially at night, and keep belongings secure as pickpockets target busy stations during peak hours.",
+    "rideshare": "Uber and Bolt operate reliably throughout Porto with transparent pricing and safety features. Expect 12-20 euros for airport trips and 5-8 euros for city center rides. Both services are popular alternatives to traditional taxis and offer cashless convenience.",
+    "taxis": "Licensed taxis are safe and regulated, identifiable by their light beige or black color with green rooftops. Always ensure meters are running to avoid overcharging. Official taxi stands are available at major locations including the airport and train stations.",
+    "tips": "Public transport runs until 1 AM on weeknights and through the night on weekends. The night bus 3M serves the airport hourly from 12:30-5:30 AM. Consider getting an Andante transport card for convenience, and always validate tickets to avoid fines."
+  },
+  "customs": [
+    "Always greet people with 'Bom dia' (good morning) or 'Boa tarde' (good afternoon) when entering shops, cafes, or approaching service staff",
+    "Maintain complete silence during Fado performances as talking or making noise during these traditional music shows is considered deeply disrespectful",
+    "Wait for the host to say 'Bom apetite' before starting to eat, and coffee is traditionally served at the end of meals to mark completion"
+  ],
+  "health": {
+    "overview": "Portugal has excellent healthcare standards with both public (SNS) and private systems providing quality medical services. Porto has several modern hospitals and medical facilities that meet international standards. EU citizens can use EHIC cards for reduced-cost public healthcare.",
+    "water": "Tap water is safe to drink throughout Porto and Portugal. The water quality meets EU standards and is regularly tested. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for travel to Portugal. Routine vaccinations (MMR, DPT, influenza) should be up to date. The WHO reports Portugal has a 98.2% vaccination rate, indicating excellent healthcare coverage.",
+    "altitude": "Porto is at sea level with a temperate Atlantic climate. Summers average 25-30°C (77-86°F) with coastal breezes. Winters are mild at 10-15°C (50-59°F). Rain is more common October-February but rarely disrupts travel plans."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "Tourist police available through main PSP stations - contact 112 for immediate assistance",
+    "usEmbassy": "US Embassy Lisbon: +351-21-727-3300 (24hr emergency line). Consular services available for American citizens including passport replacement and emergency assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Porto safe for tourists?",
+      "a": "Yes, Porto is very safe for tourists. Portugal ranks 7th on the Global Peace Index, and violent crime against visitors is extremely rare. The main concerns are petty theft like pickpocketing in crowded areas, which can be easily avoided with basic precautions."
+    },
+    {
+      "q": "Is Porto safe at night?",
+      "a": "Central Porto is generally safe at night with good police presence and active street life. Stick to well-lit main areas and avoid neighborhoods like Bairro do Aleixo after dark. The metro runs until 1 AM and taxis are readily available for safe late-night transport."
+    },
+    {
+      "q": "Is Porto safe for solo female travelers?",
+      "a": "Porto is excellent for solo female travelers and ranks among Europe's safest destinations for women. Many solo female travelers report feeling comfortable walking alone even at night in central areas. Portugal's respectful culture and low harassment levels make it ideal for independent female travel."
+    },
+    {
+      "q": "What areas should I avoid in Porto?",
+      "a": "Avoid Bairro do Aleixo and Bairro da Pasteleira, especially at night, due to drug-related activities. Bairro Pinheiro Torres also has higher crime rates. Exercise extra caution around Campanhã train station area after dark, though it's improving due to urban renewal projects."
+    },
+    {
+      "q": "Is it safe to use public transport in Porto?",
+      "a": "Yes, Porto's public transport is safe and reliable with CCTV coverage and security patrols. The metro, buses, and trams are clean and well-maintained. Watch for pickpockets during busy periods and avoid empty metro carriages, especially late at night."
+    }
+  ],
+  "relatedCities": [
+    "lisbon",
+    "madrid",
+    "barcelona"
+  ],
+  "_city_id": "porto-portugal"
+}

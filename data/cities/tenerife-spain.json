@@ -1,0 +1,161 @@
+{
+  "slug": "tenerife",
+  "name": "Tenerife",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 6.8,
+    "transport": 7.9,
+    "naturalHazards": 5.8
+  },
+  "summary": "Tenerife is one of Europe's safest destinations with extremely low violent crime rates and a well-developed infrastructure for tourists. The main safety concerns involve petty crimes like pickpocketing and natural hazards from its volcanic nature.",
+  "quickVerdict": "Tenerife offers excellent safety for tourists with minimal violent crime and reliable emergency services. While petty theft has increased recently, particularly targeting British tourists in popular areas, serious crimes remain rare. The island's volcanic activity is closely monitored and poses minimal immediate risk. Solo female travelers generally report feeling very safe, even at night in well-populated areas. Public transport is modern and reliable, and the healthcare system meets European standards.",
+  "neighborhoods": [
+    {
+      "name": "Costa Adeje",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale resort area with good security, modern hotels, and regular police presence. Popular with families and well-developed tourism infrastructure."
+    },
+    {
+      "name": "Los Cristianos",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Family-friendly beach resort with good safety record. Some pickpocketing in crowded areas but generally very safe for tourists."
+    },
+    {
+      "name": "Puerto de la Cruz",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic town in the north with lower crime rates than southern resorts. Well-patrolled and safe for walking day and night."
+    },
+    {
+      "name": "Santa Cruz de Tenerife",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Capital city with regular police presence and good safety infrastructure. Generally safe but avoid isolated areas at night."
+    },
+    {
+      "name": "Playa de las Americas",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy nightlife area with higher petty crime rates. Increased pickpocketing incidents, especially around bars and clubs. Use extra caution at night."
+    },
+    {
+      "name": "Añaza and San Isidro",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Working-class residential areas with higher crime rates. Social challenges contribute to more petty crime. Tourists have little reason to visit these areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Electronics Shop Scam",
+      "risk": "high",
+      "description": "Elderly tourists are pressured into buying electronics at cut-rate prices, then their credit cards are cloned or they're charged excessive amounts.",
+      "howToAvoid": "Never enter electronics shops offering deals on the street. Only use cash at unfamiliar shops and avoid high-pressure sales tactics."
+    },
+    {
+      "name": "Pickpocketing Teams",
+      "risk": "high",
+      "description": "Groups of 2-3 thieves work together, one distracting tourists while others steal from bags or pockets in crowded areas.",
+      "howToAvoid": "Keep bags in front, use front pockets for valuables, be wary of strangers asking questions or creating distractions."
+    },
+    {
+      "name": "Timeshare Presentations",
+      "risk": "medium",
+      "description": "Free gifts or luxury experiences offered in exchange for attending timeshare presentations that become high-pressure sales pitches.",
+      "howToAvoid": "Decline all free offers from street promoters. If something seems too good to be true, it probably is."
+    },
+    {
+      "name": "Overcharging Taxis",
+      "risk": "medium",
+      "description": "Some taxi drivers claim broken meters or take longer routes to inflate fares, particularly targeting tourists from airports.",
+      "howToAvoid": "Always insist the meter is turned on, use official taxi ranks, or consider ride-hailing apps like Uber where available."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tenerife is considered very safe for solo female travelers with low violent crime rates and a welcoming culture. Most women report feeling comfortable walking alone even at night in tourist areas. The local population is used to tourists and generally helpful and respectful.",
+    "tips": [
+      "Stay in well-populated tourist areas like Costa Adeje or Los Cristianos",
+      "Use common sense precautions in busy nightlife areas like Playa de las Americas",
+      "Public transport is safe and reliable throughout the day and evening",
+      "Most solo female travelers report positive experiences with friendly locals",
+      "Avoid isolated areas at night and trust your instincts if something feels wrong"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tenerife is generally safe at night with low violent crime rates and good lighting in tourist areas. Police patrol popular zones regularly, especially around beaches, promenades, and nightlife districts. However, petty crimes like pickpocketing can increase in crowded nightlife areas.",
+    "tips": [
+      "Stick to well-lit main streets and populated areas",
+      "Be extra cautious around bars and clubs in Playa de las Americas",
+      "Taxis are readily available and safe for late-night transport",
+      "Avoid carrying large amounts of cash or displaying expensive items",
+      "Travel in groups when possible, especially in nightlife districts"
+    ]
+  },
+  "transport": {
+    "metro": "Tenerife has a modern tram system connecting Santa Cruz and La Laguna, operating safely with regular schedules and good security.",
+    "rideshare": "Uber became available in late 2024 and is gradually expanding. Service is limited but growing in tourist areas.",
+    "taxis": "Official white taxis with meters are widely available and generally safe. Use official taxi ranks and ensure the meter is running to avoid overcharging.",
+    "tips": "The TITSA bus network is modern, reliable, and covers the entire island. Buses are safe, air-conditioned, and punctual. Use the Ten+ card for convenient payment."
+  },
+  "customs": [
+    "Greet shopkeepers and service staff with 'Buenos días' or 'Buenas tardes' before making requests",
+    "Respect siesta hours (2-5 PM) when many small businesses close for lunch and rest",
+    "Dining is late - lunch is 2-4 PM and dinner starts around 9 PM or later"
+  ],
+  "health": {
+    "overview": "Tenerife has excellent healthcare facilities meeting European standards. No special vaccinations are required and there are no dangerous animals or insects.",
+    "water": "Tap water is safe to drink and meets WHO standards, though some visitors prefer bottled water due to taste preferences from desalination processes.",
+    "vaccinations": "No special vaccinations required. Standard European travel health recommendations apply.",
+    "altitude": "Subtropical climate with year-round sunshine. Sun protection essential due to proximity to equator. No altitude concerns except when visiting Mount Teide."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091",
+    "ambulance": "061",
+    "fire": "080",
+    "touristPolice": "902 102 112",
+    "usEmbassy": "British Consulate: +34 922 286 863. U.S. services handled through Madrid Embassy: +34 917 146 300"
+  },
+  "faq": [
+    {
+      "q": "Is Tenerife safe for tourists?",
+      "a": "Yes, Tenerife is one of Europe's safest destinations with very low violent crime rates. Most safety concerns involve petty theft in tourist areas, which can be avoided with basic precautions."
+    },
+    {
+      "q": "Is Tenerife safe at night?",
+      "a": "Generally yes, especially in tourist areas which are well-lit and patrolled. Use normal precautions in nightlife areas and avoid isolated spots late at night."
+    },
+    {
+      "q": "Is Tenerife safe for solo female travelers?",
+      "a": "Very safe. Solo female travelers consistently report positive experiences. The local culture is welcoming and respectful, though basic safety awareness is always recommended."
+    },
+    {
+      "q": "What areas should I avoid in Tenerife?",
+      "a": "Avoid residential areas like Añaza and parts of San Isidro, especially at night. Be extra cautious in busy nightlife zones like parts of Playa de las Americas where pickpocketing is more common."
+    },
+    {
+      "q": "Is it safe to use public transport in Tenerife?",
+      "a": "Yes, public transport is modern, reliable, and very safe. The TITSA bus network and tram system are well-maintained with good security. Use normal precautions against pickpockets in crowded areas."
+    }
+  ],
+  "relatedCities": [
+    "gran-canaria",
+    "lanzarote",
+    "fuerteventura"
+  ],
+  "_city_id": "tenerife-spain"
+}

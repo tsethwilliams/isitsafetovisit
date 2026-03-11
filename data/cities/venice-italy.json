@@ -1,0 +1,161 @@
+{
+  "slug": "venice",
+  "name": "Venice",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 9.2,
+    "scamRisk": 6.0,
+    "womensSafety": 8.8,
+    "nightSafety": 8.5,
+    "transport": 8.8,
+    "naturalHazards": 8.9
+  },
+  "summary": "Venice ranks among Italy's safest cities, with extremely low violent crime rates and a reassuring police presence throughout tourist areas. While petty crime like pickpocketing occurs in crowded locations, the city's unique geography and strong community make it exceptionally safe for travelers.",
+  "quickVerdict": "Venice is one of Europe's safest destinations for tourists. The absence of cars, combined with constant foot traffic and vigilant local authorities, creates a secure environment even at night. Solo female travelers consistently report feeling comfortable exploring the city independently. The main safety concerns are minor - occasional pickpocketing in tourist hotspots and seasonal flooding (acqua alta). With basic precautions like securing valuables and staying aware in crowds, Venice offers a remarkably safe and magical travel experience.",
+  "neighborhoods": [
+    {
+      "name": "San Marco",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The most famous district with St Mark's Square and major attractions. Very crowded during the day but well-lit and patrolled at night. Higher prices and tourist scams but generally very safe."
+    },
+    {
+      "name": "Cannaregio",
+      "score": 9.1,
+      "class": "safe",
+      "description": "One of the safest and most authentic neighborhoods, popular with locals and students. Quiet residential streets with excellent restaurants and less tourist pressure. The Jewish Ghetto adds historical significance."
+    },
+    {
+      "name": "Dorsoduro",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Student district with a youthful vibe, home to major museums like Guggenheim and Accademia. Safe streets with good nightlife, though some areas can be quieter in the evenings."
+    },
+    {
+      "name": "Castello",
+      "score": 8.9,
+      "class": "safe",
+      "description": "Largest district ranging from touristy areas near San Marco to peaceful residential zones. The eastern parts offer authentic local life away from crowds. Generally very safe throughout."
+    },
+    {
+      "name": "San Polo",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Smallest district centered around Rialto Bridge. Busy during the day with markets and tourists but safe and well-maintained. Good restaurants and bars in the evenings."
+    },
+    {
+      "name": "Santa Croce",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Contains transport hubs like Piazzale Roma and train station. Less touristy and more functional, but perfectly safe. Some areas can feel quieter at night but no safety concerns."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "high",
+      "description": "Restaurants near major attractions may have unclear pricing, excessive cover charges, or charge tourist prices. Some add unauthorized bread or water charges to bills.",
+      "howToAvoid": "Always check menu prices before ordering, ask about cover charges (coperto), and avoid restaurants with waiters aggressively soliciting customers outside."
+    },
+    {
+      "name": "Friendship Bracelet/Rose Scams",
+      "risk": "medium",
+      "description": "Vendors approach tourists with 'free' bracelets or roses, then demand payment once the item is in your hands. Often used as distraction for pickpocketing accomplices.",
+      "howToAvoid": "Keep hands free, firmly decline all unsolicited items, and walk away without engaging. Never accept anything 'free' from strangers."
+    },
+    {
+      "name": "Fake Gondola Pricing",
+      "risk": "medium",
+      "description": "Unofficial gondoliers may quote low prices then demand much higher fees mid-ride, or add charges for singing or longer routes not initially discussed.",
+      "howToAvoid": "Use only official gondola stations, confirm all prices in writing beforehand, and ask about additional charges for extras like serenades."
+    },
+    {
+      "name": "Water Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some water taxi operators charge excessive rates to tourists, especially those arriving at airports or train stations without prior arrangements.",
+      "howToAvoid": "Use official taxi stations, ask for estimated fare upfront, and consider using public vaporetto transport which is much cheaper and reliable."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Venice is exceptional for solo female travelers, ranking among Europe's safest cities for women. The compact size, absence of vehicles, constant foot traffic, and strong police presence create a secure environment day and night. Multiple solo female travel experts consistently rate Venice as one of their top recommendations. The biggest safety concern is navigation rather than personal security.",
+    "tips": [
+      "Stay in well-connected neighborhoods like Cannaregio or Dorsoduro for authentic experiences with good safety",
+      "Avoid very isolated canal banks late at night, particularly in quiet areas of eastern Castello",
+      "Download offline maps as getting lost is common - the biggest risk is being disoriented, not unsafe",
+      "Trust your instincts about crowded areas during peak tourist times when pickpocketing risk is higher",
+      "Connect with other solo travelers through apps or hostels if you want company exploring"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Venice transforms beautifully at night and remains remarkably safe for evening exploration. The historic center stays active until late with restaurants, bars, and foot traffic. Well-lit main routes connect all major areas, and the absence of vehicle traffic creates a peaceful atmosphere. Police patrol regularly, and emergency services are easily accessible.",
+    "tips": [
+      "Stick to main pedestrian routes which are well-lit and have consistent foot traffic",
+      "The San Marco, Dorsoduro, and western Castello areas are particularly safe for evening walks",
+      "Carry a charged phone with offline maps as some narrow alleys can be confusing in the dark",
+      "Avoid completely isolated canal banks or dead-end alleys, especially in quieter residential areas",
+      "Last vaporetto services run late but check schedules to avoid being stranded in distant areas"
+    ]
+  },
+  "transport": {
+    "metro": "Venice has no metro system. The city's unique geography means all public transport is water-based.",
+    "rideshare": "No traditional rideshare services operate in Venice due to the canal system. Water taxis serve this function but are expensive.",
+    "taxis": "Water taxis are the equivalent of traditional taxis, operating from designated stations. Fares are regulated but expensive - expect €80+ for airport transfers. Always confirm pricing upfront.",
+    "tips": "The ACTV vaporetto (water bus) system is safe, reliable, and the most practical transport option. Purchase multi-day passes for convenience, validate tickets before boarding, and expect crowds during peak hours. The system connects all major destinations and islands efficiently."
+  },
+  "customs": [
+    "Dress modestly when visiting churches - cover shoulders and knees, remove hats",
+    "Respect local life by not blocking narrow passages or sitting on bridges during rush hours",
+    "Don't feed pigeons in St Mark's Square - it's prohibited and fined heavily"
+  ],
+  "health": {
+    "overview": "Italy has an excellent public healthcare system ranking 4th globally for life expectancy. Venice has quality medical facilities with both public and private options available.",
+    "water": "Tap water is safe to drink throughout Venice. Public fountains provide free, potable water for refilling bottles.",
+    "vaccinations": "No special vaccinations required for Italy beyond routine immunizations. EU citizens receive healthcare through reciprocal agreements.",
+    "altitude": "Venice is at sea level with a mild Mediterranean climate. Main health concern is occasional flooding (acqua alta) during autumn/winter which is well-managed and not dangerous."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consular Agent Venice: Viale Galileo Galilei 30, 30173 Tessera. For emergencies contact US Consulate General Milan at +39-02-290351"
+  },
+  "faq": [
+    {
+      "q": "Is Venice safe for tourists?",
+      "a": "Yes, Venice is one of Italy's safest cities with extremely low violent crime rates. The main concerns are minor pickpocketing in tourist areas and seasonal flooding, both easily managed with basic precautions."
+    },
+    {
+      "q": "Is Venice safe at night?",
+      "a": "Venice is very safe at night with well-lit main routes and active nightlife areas. The absence of vehicles and strong police presence create a secure environment for evening exploration."
+    },
+    {
+      "q": "Is Venice safe for solo female travelers?",
+      "a": "Absolutely. Venice consistently ranks as one of Europe's top destinations for solo female travelers. The compact size, constant foot traffic, and community atmosphere provide excellent security."
+    },
+    {
+      "q": "What areas should I avoid in Venice?",
+      "a": "There are no dangerous neighborhoods in Venice. Some isolated canal banks late at night and the far eastern areas of Castello can be quieter but remain safe. The main 'avoidance' is tourist traps near major attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Venice?",
+      "a": "Yes, the ACTV vaporetto system is very safe and reliable. Take normal precautions against pickpockets in crowded boats and validate tickets properly to avoid fines."
+    }
+  ],
+  "relatedCities": [
+    "florence",
+    "rome",
+    "milan"
+  ],
+  "_city_id": "venice-italy"
+}

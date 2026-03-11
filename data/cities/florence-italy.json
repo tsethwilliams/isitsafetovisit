@@ -1,0 +1,159 @@
+{
+  "slug": "florence",
+  "name": "Florence",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-11",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Florence is generally a very safe destination for tourists, ranking as one of Italy's safer major cities with low violent crime rates and excellent emergency services. While pickpocketing and tourist scams are the primary concerns, especially around major attractions, the city maintains a strong police presence and welcoming atmosphere for visitors.",
+  "quickVerdict": "Florence offers tourists a safe and welcoming experience in the heart of Tuscany. Despite ranking third among Italian cities for overall crime statistics, this is primarily due to petty theft and pickpocketing rather than violent crime, which remains very rare. The historic center is well-policed and pedestrian-friendly, making it ideal for solo travelers and families alike. Female travelers consistently report feeling secure, even when exploring alone at night in central areas. The main safety concerns involve tourist-targeted scams around major attractions like the Duomo and Uffizi Gallery, along with pickpocketing on public transport and crowded tourist areas. With basic precautions and awareness, visitors can confidently enjoy Florence's incredible Renaissance art, architecture, and cuisine.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center (Centro Storico)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Florence around the Duomo, Ponte Vecchio, and Uffizi is very safe with heavy police presence and constant foot traffic. Watch for pickpockets and street scams, but violent crime is extremely rare."
+    },
+    {
+      "name": "Oltrarno District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The charming area across the Arno River is safe for walking day and night, with excellent restaurants and artisan workshops. Popular with both locals and tourists, creating a vibrant but secure atmosphere."
+    },
+    {
+      "name": "Santa Maria Novella (Train Station Area)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "The area around the central train station can feel less safe, especially at night, with more reports of petty crime and loitering. However, it remains relatively secure with regular police patrols."
+    },
+    {
+      "name": "San Lorenzo Market Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Generally safe during market hours but can feel sketchy after dark. Watch for pickpockets in crowded market areas and be aware of counterfeit goods being sold by street vendors."
+    },
+    {
+      "name": "Cascine Park",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Florence's largest park should be avoided after dark due to reports of criminal activity and drug dealing. Safe during daylight hours for families but exercise caution in the evening."
+    },
+    {
+      "name": "Le Piagge",
+      "score": 4.0,
+      "class": "danger",
+      "description": "This northwestern suburb has higher poverty levels and some gang-related activity. While efforts are being made to improve safety, tourists should exercise extra caution, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Oil Paintings Scam",
+      "risk": "high",
+      "description": "Scammers lay large oil paintings on the ground near tourist attractions like the Duomo and Uffizi, positioning them so tourists accidentally step on them, then demand payment for damages ranging from 25-300 euros.",
+      "howToAvoid": "Watch where you walk near tourist areas, especially around artwork displays. If confronted, remain calm, apologize politely, and walk away. Never pay on demand - contact police if threatened."
+    },
+    {
+      "name": "Fake Petition Scam",
+      "risk": "medium",
+      "description": "Scammers approach tourists with fake petitions or surveys while accomplices pickpocket victims or demand aggressive donations after signing. Common around central Florence tourist areas.",
+      "howToAvoid": "Politely decline to sign any petitions from strangers on the street. Keep valuables secure and be suspicious of anyone trying to distract you while others approach."
+    },
+    {
+      "name": "Friendship Bracelet Scam",
+      "risk": "medium",
+      "description": "Friendly individuals approach tourists offering free bracelets or roses, quickly tie them on your wrist in a way that's hard to remove, then demand payment while creating a public scene if you refuse.",
+      "howToAvoid": "Keep your hands to yourself and firmly say no to anyone offering free items. Don't engage with overly friendly strangers in tourist areas, especially those trying to give you something."
+    },
+    {
+      "name": "Fake Police Scam",
+      "risk": "medium",
+      "description": "Scammers dressed as police officers approach tourists claiming to investigate counterfeit money or documents, asking to see wallets, passports, or credit cards to steal information or cash.",
+      "howToAvoid": "Always ask for official identification and badge numbers. Real police will have proper credentials. If in doubt, ask to go to the nearest police station or tourist information center."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Florence is exceptionally safe for solo female travelers, with numerous women reporting feeling secure walking alone both day and night in central areas. The city has no significant reports of sexual assault against foreign women, and locals are generally respectful and helpful. The compact, walkable historic center with good lighting and regular police presence creates a secure environment for independent exploration.",
+    "tips": [
+      "Dress modestly and avoid revealing clothing combinations - Italian women typically don't wear both skimpy tops and short bottoms simultaneously",
+      "Stay alert in crowded tourist areas and on public transport where pickpocketing is most common, especially around Santa Maria Novella station",
+      "Trust your instincts and avoid poorly lit areas late at night, though the historic center remains generally safe for evening exploration"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Florence's historic center is one of Europe's most walkable and safe areas at night, with well-lit pedestrian streets, regular police patrols, and the ZTL (restricted traffic zone) keeping cars out. The vibrant nightlife scene creates natural safety through numbers, and violent crime after dark is extremely rare. However, some areas like Cascine Park and the immediate vicinity of the train station require more caution at night.",
+    "tips": [
+      "Stick to well-lit main streets and busy areas with other people around - avoid empty side streets and parks after dark",
+      "Be extra cautious around the Santa Maria Novella train station area and avoid Cascine Park entirely at night",
+      "Take advantage of the safe aperitivo culture and well-lit restaurants that stay open late in the historic center"
+    ]
+  },
+  "transport": {
+    "metro": "Florence does not have a metro system. The city relies on buses and trams for public transport, which are generally safe but watch for pickpockets during crowded times.",
+    "rideshare": "Uber operates in Florence but with limited availability. Local app FreeNow is more popular and reliable for taxi services, offering cashless payment and driver tracking.",
+    "taxis": "Official taxis are safe and regulated, but can be expensive. Ensure the meter is running or agree on a price beforehand. Most taxis now accept credit cards, though cash may still be preferred by some drivers.",
+    "tips": "Walking is the best way to explore Florence's compact historic center. For longer distances, use official taxis from designated stands or book through apps like FreeNow to avoid unofficial drivers."
+  },
+  "customs": [
+    "Greet shopkeepers and restaurant staff with 'Buongiorno' (morning) or 'Buonasera' (evening) when entering - politeness is highly valued",
+    "Tipping is not mandatory but appreciated - round up the bill or leave 5-10% for exceptional service, always in cash",
+    "Dress appropriately for churches (covered shoulders and knees) and generally maintain a smart-casual appearance as Italians take pride in their presentation"
+  ],
+  "health": {
+    "overview": "Florence offers excellent healthcare with world-class hospitals and medical facilities. The Italian national health system provides emergency care to all visitors, regardless of nationality or insurance status.",
+    "water": "Tap water is completely safe to drink throughout Florence. The city has numerous public fountains providing fresh, clean drinking water.",
+    "vaccinations": "No special vaccinations are required for travel to Florence. Routine vaccines like MMR, flu, and COVID-19 should be up to date.",
+    "altitude": "Florence sits at only 50 meters above sea level, so altitude is not a concern. The climate is temperate with hot, dry summers and mild winters."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "055-49771",
+    "usEmbassy": "U.S. Consulate General Florence: Lungarno Amerigo Vespucci, 38 - Phone: +39 055 266951 - Emergency after-hours: +39 055 266951"
+  },
+  "faq": [
+    {
+      "q": "Is Florence safe for tourists?",
+      "a": "Yes, Florence is very safe for tourists. While it ranks third in Italy for overall crime statistics, this is primarily due to pickpocketing and petty theft rather than violent crime, which is extremely rare. The historic center is well-policed and pedestrian-friendly."
+    },
+    {
+      "q": "Is Florence safe at night?",
+      "a": "Florence's historic center is one of Europe's safest areas to walk at night, with excellent lighting, regular police patrols, and busy streets. However, avoid Cascine Park after dark and exercise normal caution around the train station area."
+    },
+    {
+      "q": "Is Florence safe for solo female travelers?",
+      "a": "Absolutely. Florence is exceptionally safe for solo female travelers with no significant reports of sexual assault against foreign women. Many women report feeling comfortable walking alone both day and night in the central areas."
+    },
+    {
+      "q": "What areas should I avoid in Florence?",
+      "a": "Avoid Cascine Park at night and exercise extra caution around Le Piagge neighborhood. The Santa Maria Novella train station area requires more awareness, especially after dark, though it's not dangerous with basic precautions."
+    },
+    {
+      "q": "Is it safe to use public transport in Florence?",
+      "a": "Yes, buses and trams are safe, though watch for pickpockets during crowded times. Florence doesn't have a metro system. Walking is often the best option in the compact historic center, supplemented by official taxis or ride-sharing apps."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "venice",
+    "milan",
+    "pisa",
+    "siena"
+  ],
+  "_city_id": "florence-italy"
+}
