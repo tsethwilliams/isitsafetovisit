@@ -1132,5 +1132,59 @@
     "action": "add",
     "city_id": "cologne-germany",
     "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.323234+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"US-Israeli strikes on Iran since Feb 28 have triggered Iranian retaliation with missiles and drones targeting Israeli cities. US Embassy in Jerusalem remains closed, government staff sheltering in place. Ben Gurion Airport experiencing significant disruptions.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.324836+00:00",
+    "action": "alert",
+    "city_id": "abu_dhabi_uae",
+    "details": "{\"city_id\": \"abu_dhabi_uae\", \"alert_type\": \"terrorism_incident\", \"severity\": \"critical\", \"summary\": \"Iranian drone strike hit Zayed International Airport on March 7, killing 1 person and injuring 7. Airport operating with limited flights. Ongoing Iranian retaliation for US-Israeli strikes on Iran.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.326320+00:00",
+    "action": "alert",
+    "city_id": "dubai_uae",
+    "details": "{\"city_id\": \"dubai_uae\", \"alert_type\": \"terrorism_incident\", \"severity\": \"critical\", \"summary\": \"Dubai International Airport hit by Iranian drone strike March 7, causing temporary closure and 4 injuries. Airport now operating limited flights. Multiple strikes across UAE including Fairmont Hotel on Palm Jumeirah.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.327776+00:00",
+    "action": "alert",
+    "city_id": "nassau_bahamas",
+    "details": "{\"city_id\": \"nassau_bahamas\", \"alert_type\": \"airspace_closure\", \"severity\": \"high\", \"summary\": \"Bahrain International Airport closed due to regional conflict. Flight disruptions affecting Caribbean connections via Middle Eastern hubs.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.329285+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen_mexico",
+    "details": "{\"city_id\": \"playa_del_carmen_mexico\", \"alert_type\": \"cartel_violence\", \"severity\": \"high\", \"summary\": \"Major cartel violence following killing of CJNG leader 'El Mencho' on Feb 22. Mexican government deployed 10,000 personnel to Quintana Roo. Situation stabilized as of Feb 26 but heightened security remains.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.330745+00:00",
+    "action": "alert",
+    "city_id": "mexico_city_mexico",
+    "details": "{\"city_id\": \"mexico_city_mexico\", \"alert_type\": \"cartel_violence\", \"severity\": \"medium\", \"summary\": \"Nationwide cartel violence with roadblocks and vehicle fires following El Mencho's death. Federal government maintains increased security presence. CJNG succession crisis may cause continued instability.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.332187+00:00",
+    "action": "alert",
+    "city_id": "london_uk",
+    "details": "{\"city_id\": \"london_uk\", \"alert_type\": \"protest\", \"severity\": \"medium\", \"summary\": \"Metropolitan Police banned Al Quds Day march scheduled for March 16 due to public disorder risks. Static protest still planned. Multiple counter-protests expected relating to Middle East conflict.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.333642+00:00",
+    "action": "alert",
+    "city_id": "new_york_usa",
+    "details": "{\"city_id\": \"new_york_usa\", \"alert_type\": \"protest\", \"severity\": \"medium\", \"summary\": \"Anti-Iran strike protests and anti-ICE demonstrations with multiple arrests. Violent clashes reported outside Gracie Mansion on March 10 with pepper spray incidents.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-11T19:53:47.335091+00:00",
+    "action": "alert",
+    "city_id": "bali_indonesia",
+    "details": "{\"city_id\": \"bali_indonesia\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Over 1,600 tourists stranded at I Gusti Ngurah Rai Airport due to Middle East airspace closures affecting connecting flights through Dubai/Qatar hubs.\", \"action\": \"add_incident\"}"
   }
 ]

@@ -744,3 +744,16 @@
 2026-03-11 18:48:21,129 [INFO] Merged into site data: Cologne
 2026-03-11 18:48:21,156 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-11 18:48:21,157 [INFO] Updated sitemap with 8 new URLs
+2026-03-11 19:53:11,257 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-11 19:53:11,332 [INFO] Checking alerts for 118 cities
+2026-03-11 19:53:47,274 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-11 19:53:47,322 [WARNING] ALERTS DETECTED: 9
+2026-03-11 19:53:47,322 [WARNING]   [critical] tel_aviv_israel: US-Israeli strikes on Iran since Feb 28 have triggered Iranian retaliation with missiles and drones targeting Israeli cities. US Embassy in Jerusalem remains closed, government staff sheltering in place. Ben Gurion Airport experiencing significant disruptions.
+2026-03-11 19:53:47,324 [WARNING]   [critical] abu_dhabi_uae: Iranian drone strike hit Zayed International Airport on March 7, killing 1 person and injuring 7. Airport operating with limited flights. Ongoing Iranian retaliation for US-Israeli strikes on Iran.
+2026-03-11 19:53:47,325 [WARNING]   [critical] dubai_uae: Dubai International Airport hit by Iranian drone strike March 7, causing temporary closure and 4 injuries. Airport now operating limited flights. Multiple strikes across UAE including Fairmont Hotel on Palm Jumeirah.
+2026-03-11 19:53:47,327 [WARNING]   [high] nassau_bahamas: Bahrain International Airport closed due to regional conflict. Flight disruptions affecting Caribbean connections via Middle Eastern hubs.
+2026-03-11 19:53:47,328 [WARNING]   [high] playa_del_carmen_mexico: Major cartel violence following killing of CJNG leader 'El Mencho' on Feb 22. Mexican government deployed 10,000 personnel to Quintana Roo. Situation stabilized as of Feb 26 but heightened security remains.
+2026-03-11 19:53:47,330 [WARNING]   [medium] mexico_city_mexico: Nationwide cartel violence with roadblocks and vehicle fires following El Mencho's death. Federal government maintains increased security presence. CJNG succession crisis may cause continued instability.
+2026-03-11 19:53:47,331 [WARNING]   [medium] london_uk: Metropolitan Police banned Al Quds Day march scheduled for March 16 due to public disorder risks. Static protest still planned. Multiple counter-protests expected relating to Middle East conflict.
+2026-03-11 19:53:47,333 [WARNING]   [medium] new_york_usa: Anti-Iran strike protests and anti-ICE demonstrations with multiple arrests. Violent clashes reported outside Gracie Mansion on March 10 with pepper spray incidents.
+2026-03-11 19:53:47,334 [WARNING]   [medium] bali_indonesia: Over 1,600 tourists stranded at I Gusti Ngurah Rai Airport due to Middle East airspace closures affecting connecting flights through Dubai/Qatar hubs.
