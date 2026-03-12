@@ -890,3 +890,43 @@
 2026-03-12 14:36:57,817 [INFO] Checking alerts for 142 cities
 2026-03-12 14:37:27,566 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-12 14:37:27,606 [INFO] No safety alerts detected
+2026-03-12 18:10:46,298 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-12 18:10:46,338 [INFO] Queue has 223 cities, adding 8
+2026-03-12 18:10:46,338 [INFO] Generating new city profile: Brasov, Romania
+2026-03-12 18:11:58,265 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:11:58,341 [INFO] Saved city data: brasov-romania
+2026-03-12 18:11:58,343 [INFO] Generating new city profile: Plovdiv, Bulgaria
+2026-03-12 18:13:20,967 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:13:21,006 [INFO] Saved city data: plovdiv-bulgaria
+2026-03-12 18:13:21,008 [INFO] Generating new city profile: Belgrade, Serbia
+2026-03-12 18:14:49,018 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:14:49,051 [INFO] Saved city data: belgrade-serbia
+2026-03-12 18:14:49,053 [INFO] Generating new city profile: Novi Sad, Serbia
+2026-03-12 18:16:29,913 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:16:29,939 [INFO] Saved city data: novi-sad-serbia
+2026-03-12 18:16:29,941 [INFO] Generating new city profile: Zagreb, Croatia
+2026-03-12 18:17:06,294 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:17:06,354 [ERROR] Claude returned empty text response
+2026-03-12 18:17:06,354 [ERROR] Failed to parse city data for Zagreb (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-12 18:17:06,355 [INFO] Retry 1/2 for Zagreb
+2026-03-12 18:18:42,766 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:18:42,852 [INFO] Saved city data: zagreb-croatia
+2026-03-12 18:18:42,854 [INFO] Generating new city profile: Dubrovnik, Croatia
+2026-03-12 18:20:14,936 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:20:15,039 [INFO] Saved city data: dubrovnik-croatia
+2026-03-12 18:20:15,041 [INFO] Generating new city profile: Split, Croatia
+2026-03-12 18:21:54,970 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:21:55,072 [INFO] Saved city data: split-croatia
+2026-03-12 18:21:55,073 [INFO] Generating new city profile: Hvar, Croatia
+2026-03-12 18:23:27,320 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 18:23:27,420 [INFO] Saved city data: hvar-croatia
+2026-03-12 18:23:27,439 [INFO] Merged into site data: Brasov
+2026-03-12 18:23:27,439 [INFO] Merged into site data: Plovdiv
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Belgrade
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Novi Sad
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Zagreb
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Dubrovnik
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Split
+2026-03-12 18:23:27,440 [INFO] Merged into site data: Hvar
+2026-03-12 18:23:27,472 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-12 18:23:27,472 [INFO] Updated sitemap with 8 new URLs

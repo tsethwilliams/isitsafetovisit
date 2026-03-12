@@ -1,0 +1,157 @@
+{
+  "slug": "brasov",
+  "name": "Brasov",
+  "country": "Romania",
+  "countryCode": "RO",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.3,
+    "naturalHazards": 8.5
+  },
+  "summary": "Brasov is one of Romania's safest tourist destinations and ranks among the top 100 safest cities globally. The main risks are petty crimes like pickpocketing and tourist-targeted scams, particularly in crowded areas. Violent crime is extremely rare, and the city maintains a welcoming atmosphere for all travelers.",
+  "quickVerdict": "Brasov is consistently rated as one of the safest cities in Romania and Europe, making it an excellent destination for all types of travelers. With very low violent crime rates and generally effective law enforcement, most safety concerns revolve around minor petty theft and common tourist scams. The city's medieval charm, combined with its strong safety record, makes it particularly appealing for solo travelers, families, and female travelers. While basic precautions should always be taken, visitors can explore this Transylvanian gem with confidence.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Centrul Vechi)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic center is well-patrolled and generally very safe, though pickpockets can operate in crowded tourist areas. The pedestrian-friendly area has good lighting and frequent police presence during peak hours."
+    },
+    {
+      "name": "Tampa Mountain Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular hiking area that's generally safe during daylight hours. Stick to marked trails and be aware of wildlife, particularly bears. Avoid hiking alone in remote areas and inform others of your plans."
+    },
+    {
+      "name": "Schei District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area with historical significance that's safe for tourists. Less crowded than the Old Town but still well-maintained with good access to public transport."
+    },
+    {
+      "name": "Train Station Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Generally safe but requires more vigilance due to higher foot traffic and occasional presence of unlicensed taxi drivers. Stick to official transport options and watch belongings."
+    },
+    {
+      "name": "Noua District",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Modern residential area that's safe for visitors. Well-connected to the city center and offers a quieter alternative to staying in the tourist zones."
+    },
+    {
+      "name": "Industrial Areas (Outskirts)",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Less tourist-friendly areas on the city outskirts. While not particularly dangerous, they offer little of interest to visitors and have less police presence. Better to stick to central areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Teams of two or more individuals where one distracts tourists while another steals wallets or bag contents. Common in crowded tourist areas and on public transport.",
+      "howToAvoid": "Keep valuables secure in zipped inner pockets, use anti-theft bags, and be wary of overly friendly strangers or people asking for directions while getting too close."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers, especially at the train station, may charge inflated rates or claim meters aren't working. Some may take longer routes to increase fares.",
+      "howToAvoid": "Use licensed taxis with visible company logos and working meters, or better yet, use ride-sharing apps like Bolt or Uber. Agree on fares beforehand if the meter doesn't work."
+    },
+    {
+      "name": "Inflated Tourist Prices",
+      "risk": "low",
+      "description": "Some souvenir shops and market stalls may quote higher prices to tourists, particularly around major attractions like Bran Castle tours.",
+      "howToAvoid": "Research typical prices beforehand, shop around for comparisons, and don't hesitate to negotiate. Ask locals for recommendations on where to shop."
+    },
+    {
+      "name": "Fake Police Officers",
+      "risk": "low",
+      "description": "Rare instances of individuals claiming to be plainclothes police asking to see documents or claiming fines are owed.",
+      "howToAvoid": "Real police officers wear uniforms and have proper identification. Ask for official ID and never hand over your passport to plainclothes individuals. Contact 112 if suspicious."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Brasov is exceptionally safe for solo female travelers, ranking among the safest cities globally for women. With a safety rating of 87.33 for walking alone, women report feeling secure even at night in well-lit areas. The local culture is generally respectful, and harassment is uncommon. Romanian men may display traditional chivalry like opening doors, which is part of local etiquette rather than inappropriate behavior.",
+    "tips": [
+      "Stay in the Old Town area where there's good lighting and foot traffic even in evenings",
+      "Use reputable accommodation and inform someone of your hiking plans if venturing into mountain areas",
+      "Trust your instincts and don't hesitate to seek help from locals, who are generally very helpful to tourists"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Brasov is quite safe at night, particularly in the well-lit Old Town and main tourist areas. The pedestrian-friendly historic center maintains good lighting and some police presence during evening hours. Many travelers report feeling comfortable walking alone at night, though standard precautions are still recommended. The nightlife scene is relatively calm compared to larger cities.",
+    "tips": [
+      "Stick to well-lit main streets and avoid isolated areas, especially outside the city center",
+      "If drinking, don't leave drinks unattended and stay with your group",
+      "Use licensed taxis or ride-sharing apps rather than walking long distances at night"
+    ]
+  },
+  "transport": {
+    "metro": "Brasov does not have a metro system. Public transport consists primarily of buses and some tram services.",
+    "rideshare": "Bolt and Uber operate in Brasov and are the safest, most reliable transport options. Both accept card payments and provide transparent pricing.",
+    "taxis": "Licensed taxis are generally safe but ensure the meter is running and the driver has proper identification. Avoid unlicensed taxis, especially at the train station.",
+    "tips": "Public buses are safe and affordable but watch belongings during rush hour. For longer trips to attractions like Bran Castle, arrange transportation through your accommodation or use reputable tour operators."
+  },
+  "customs": [
+    "Greet with firm handshakes and maintain eye contact; close friends may exchange three kisses on alternating cheeks starting from the left",
+    "Address people formally using titles and surnames until invited to use first names; punctuality is valued for appointments",
+    "When invited to homes, bring gifts like flowers (odd numbers only), wine, or chocolates; guests are offered food and drink which should be graciously accepted"
+  ],
+  "health": {
+    "overview": "Romania has a decent healthcare system with modern facilities in major cities like Brasov. Private healthcare offers higher standards and English-speaking staff. EU citizens can use EHIC or GHIC cards for basic coverage.",
+    "water": "Tap water meets EU standards but many prefer bottled water due to taste preferences and local infrastructure variations.",
+    "vaccinations": "No special vaccinations required. Ensure routine vaccinations are up to date. Hepatitis A vaccination recommended for most travelers.",
+    "altitude": "Brasov sits at moderate elevation in the Carpathian Mountains. Mountain hiking areas can pose altitude-related risks for those not accustomed to elevation changes."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Bucharest: +40-21-200-3300. Located at 4-6 Liviu Librescu Blvd, District 1, Bucharest"
+  },
+  "faq": [
+    {
+      "q": "Is Brasov safe for tourists?",
+      "a": "Yes, Brasov is very safe for tourists and ranks among the top 100 safest cities globally. It has low crime rates with minimal violent crime, and most incidents involve petty theft or minor scams easily avoided with basic precautions."
+    },
+    {
+      "q": "Is Brasov safe at night?",
+      "a": "Brasov is quite safe at night, especially in the Old Town and main tourist areas which are well-lit with some police presence. Many travelers report feeling comfortable walking alone at night, though staying in populated areas is recommended."
+    },
+    {
+      "q": "Is Brasov safe for solo female travelers?",
+      "a": "Absolutely. Brasov has a safety rating of 87.33 for solo female travelers and is considered one of the safest cities globally for women. Harassment is uncommon, locals are respectful, and the city maintains good safety standards throughout."
+    },
+    {
+      "q": "What areas should I avoid in Brasov?",
+      "a": "There are no particularly dangerous areas in Brasov, but exercise more caution around the train station due to unlicensed taxi operators, and avoid isolated industrial areas on the outskirts. Stay on marked trails when hiking and be bear-aware in mountain areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Brasov?",
+      "a": "Yes, public buses are safe and reliable, though watch your belongings during rush hour. Ride-sharing apps like Bolt and Uber are the safest transport options. Use only licensed taxis with working meters and avoid unlicensed operators at the train station."
+    }
+  ],
+  "relatedCities": [
+    "bucharest",
+    "cluj-napoca",
+    "sibiu"
+  ],
+  "_city_id": "brasov-romania"
+}

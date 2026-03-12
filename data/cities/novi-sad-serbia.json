@@ -1,0 +1,167 @@
+{
+  "slug": "novi-sad",
+  "name": "Novi Sad",
+  "country": "Serbia",
+  "countryCode": "RS",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.1,
+    "violentCrime": 8.3,
+    "scamRisk": 5.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 6.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Novi Sad is Serbia's second-largest city and capital of Vojvodina province, generally considered safe for tourists with low violent crime rates. The main concerns are petty theft, pickpocketing in crowded areas, and taxi scams, particularly for tourists unfamiliar with local rates.",
+  "quickVerdict": "Novi Sad offers a safe and welcoming environment for tourists, with crime rates significantly lower than many major European cities. While violent crime is rare, travelers should remain alert to common tourist scams, especially taxi overcharging and pickpocketing in busy areas. The city's strong cultural values of hospitality make it particularly friendly to visitors, and the efficient healthcare system provides good support. With basic precautions, tourists can safely enjoy this vibrant cultural hub that hosts the famous Exit Festival.",
+  "neighborhoods": [
+    {
+      "name": "City Center (Stari Grad)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Novi Sad around Liberty Square and pedestrian zones. Well-lit, heavily patrolled, and bustling with activity day and night. Perfect for tourists with numerous cafes, restaurants, and attractions."
+    },
+    {
+      "name": "Petrovaradin Fortress Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic fortress district across the Danube with excellent nightlife and cultural venues. Generally safe with good foot traffic, though be cautious walking alone late at night in quieter areas."
+    },
+    {
+      "name": "Liman District",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Residential area with modern amenities and the university campus. Safe for walking and well-connected by public transport, though less tourist infrastructure than city center."
+    },
+    {
+      "name": "Grbavica",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Mixed residential and commercial area. Generally safe during daytime but exercise standard urban caution at night. Some areas may have less lighting and foot traffic."
+    },
+    {
+      "name": "Klisa",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Industrial and residential suburb with fewer amenities for tourists. Not particularly dangerous but offers little reason to visit, and public transport connections may be limited."
+    },
+    {
+      "name": "Telep",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Working-class residential area on the outskirts. While not inherently dangerous, it lacks tourist infrastructure and may have areas with poor lighting and limited police presence at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "high",
+      "description": "Taxi drivers rig meters to run 5-10 times faster than normal, or quote inflated flat rates, especially targeting tourists at airports and train stations. A ride that should cost 400-500 dinars may be charged at 2,000-3,000+ dinars.",
+      "howToAvoid": "Always call a registered taxi company by phone, ensure the meter is running properly, or use ride-hailing apps like Bolt. Agree on the fare beforehand for longer trips and learn approximate costs to common destinations."
+    },
+    {
+      "name": "Fake Police/Authority Figures",
+      "risk": "medium",
+      "description": "Scammers pose as plainclothes police or officials asking to check your wallet for counterfeit money or demanding to see documents. They may work in pairs with one playing the friendly local and another the authority figure.",
+      "howToAvoid": "Real police will have proper identification and uniforms. Ask to see official credentials and suggest going to the nearest police station. Never hand over your wallet or large amounts of cash for inspection."
+    },
+    {
+      "name": "Pickpocketing and Distraction Theft",
+      "risk": "medium",
+      "description": "Teams of thieves use distraction techniques in crowded areas like festivals, public transport, and tourist sites. One person creates a distraction while accomplices steal wallets, phones, or bags.",
+      "howToAvoid": "Keep valuables in secure front pockets or inside clothing. Stay alert in crowded areas, be wary of staged distractions, and avoid displaying expensive electronics or jewelry openly."
+    },
+    {
+      "name": "Fake Tour Guides and Overpriced Services",
+      "risk": "low",
+      "description": "Unofficial guides approach tourists offering overpriced tours or leading them to establishments where they receive commissions. Also includes restaurant bill padding and currency exchange scams.",
+      "howToAvoid": "Use only official tour operators and guides with credentials. Check restaurant bills carefully and ask for receipts. Use official currency exchange offices or banks rather than street exchangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Novi Sad is generally safe for solo female travelers with locals being friendly and helpful. The city has low violent crime rates and women commonly travel alone day and night. However, standard precautions apply, especially in nightlife areas and when using public transport late at night.",
+    "tips": [
+      "Stick to well-lit, populated areas after dark",
+      "Be cautious when drinking alcohol and don't accept drinks from strangers",
+      "Use official taxis or ride-hailing apps rather than unlicensed drivers",
+      "Trust your instincts if situations feel uncomfortable",
+      "Keep emergency contacts readily available"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Novi Sad has a vibrant and generally safe nightlife scene. The main entertainment areas around Laze Teleckog Street and Petrovaradin Fortress are well-patrolled and busy until late. Most locals and visitors feel comfortable walking around central areas at night, though standard urban caution is advised.",
+    "tips": [
+      "Stay in well-populated areas with good lighting",
+      "Travel in groups when possible, especially when bar hopping",
+      "Keep valuables secure and avoid displaying expensive items",
+      "Use registered taxis or ride-hailing apps for late-night transportation",
+      "Be aware of your alcohol consumption and stay alert"
+    ]
+  },
+  "transport": {
+    "metro": "Novi Sad does not have a metro system. The city relies on buses for public transportation.",
+    "rideshare": "Bolt is the primary ride-hailing service available, offering a safer alternative to street taxis. The app provides upfront pricing and driver tracking.",
+    "taxis": "Traditional taxis are widely available but tourist-targeted scams are common. Many drivers manipulate meters or overcharge foreigners. Use only licensed companies called by phone.",
+    "tips": "For safety and fair pricing, use the Bolt app or call established taxi companies like Pan Taxi (+381 21 455555) or Nas Taxi (+381 21 300300). Public buses are safe and affordable but can be crowded during peak hours."
+  },
+  "customs": [
+    "Remove shoes when entering homes - hosts may say not to, but it's expected courtesy",
+    "Bring small gifts like chocolates or flowers when visiting someone's home, avoid even-numbered flowers",
+    "Greet people with firm handshakes or three kisses on alternating cheeks for close friends",
+    "Wait for the host to say 'Prijatno' before eating and always compliment the food",
+    "Dress neatly in public as casual attire may be seen as inappropriate",
+    "Show respect in Orthodox churches by dressing modestly and keeping quiet"
+  ],
+  "health": {
+    "overview": "Novi Sad has adequate healthcare with both public and private facilities. The Clinical Center of Vojvodina is the main public hospital, while NEW Hospital provides modern private care. Healthcare quality meets European standards but wait times can be long in public facilities.",
+    "water": "Tap water is safe to drink throughout Novi Sad and meets EU standards. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required for Serbia. Routine vaccinations (MMR, DPT, flu, COVID-19) are recommended. EU citizens can use their European Health Insurance Card.",
+    "altitude": "Novi Sad sits at low elevation with a continental climate. Summers are hot (up to 35°C/95°F) and winters can be cold with snow. Air quality is generally good though can be affected by seasonal agricultural burning."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "192",
+    "ambulance": "194",
+    "fire": "193",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Belgrade: +381 11 706-4000, located at Bulevar kneza Aleksandra Karađorđevića 92, Belgrade (70km from Novi Sad). 24/7 emergency assistance for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Novi Sad safe for tourists?",
+      "a": "Yes, Novi Sad is generally very safe for tourists with low crime rates and friendly locals. The main concerns are petty crimes like pickpocketing and taxi scams rather than violent crime. Basic urban precautions are sufficient."
+    },
+    {
+      "q": "Is Novi Sad safe at night?",
+      "a": "Novi Sad is quite safe at night, especially in the central areas and main nightlife districts. The city has active nightlife with good police presence in tourist areas. However, use common sense and stick to well-lit, populated areas."
+    },
+    {
+      "q": "Is Novi Sad safe for solo female travelers?",
+      "a": "Solo female travelers generally feel safe in Novi Sad. The city has low crime rates and locals are helpful to tourists. Women commonly travel alone day and night, though standard precautions like avoiding isolated areas late at night are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Novi Sad?",
+      "a": "There are no dangerous 'no-go' areas in Novi Sad, but exercise more caution in outer residential districts like Telep and some parts of Klisa at night. These areas lack tourist infrastructure rather than being genuinely unsafe."
+    },
+    {
+      "q": "Is it safe to use public transport in Novi Sad?",
+      "a": "Public buses are safe and affordable, though can be crowded during peak hours. For taxis, avoid street hails and use ride-hailing apps like Bolt or call established companies to avoid scams. Walking and cycling are also safe options in central areas."
+    }
+  ],
+  "relatedCities": [
+    "belgrade",
+    "zagreb",
+    "budapest",
+    "ljubljana",
+    "sarajevo",
+    "skopje"
+  ],
+  "_city_id": "novi-sad-serbia"
+}
