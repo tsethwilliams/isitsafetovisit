@@ -1282,5 +1282,35 @@
     "action": "add",
     "city_id": "rovaniemi-finland",
     "details": "New city added with score 8.4"
+  },
+  {
+    "timestamp": "2026-03-12T07:59:44.942934+00:00",
+    "action": "alert",
+    "city_id": "Tel Aviv",
+    "details": "{\"city_id\": \"Tel Aviv\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"Ongoing Israel-Iran conflict with active missile strikes. Latest reports show multiple overnight missile barrages from Iran targeting central Israel including Tel Aviv area, with sirens at 11:30 PM, 12:50 AM, 3:40 AM, and 4:40 AM. US Embassy suspended routine services until March 13 and is offering evacuation assistance to Egyptian border. Israeli fatalities confirmed from recent strikes.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-12T07:59:44.944641+00:00",
+    "action": "alert",
+    "city_id": "Abu Dhabi",
+    "details": "{\"city_id\": \"Abu Dhabi\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"UAE elevated to Level 3 travel advisory by US State Department due to regional conflict escalation. American Airlines issuing travel waivers for flights through March 29. Airspace disruptions affecting commercial aviation in Persian Gulf region.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-12T07:59:44.946207+00:00",
+    "action": "alert",
+    "city_id": "Bali Indonesia",
+    "details": "{\"city_id\": \"Bali Indonesia\", \"alert_type\": \"natural_disaster\", \"severity\": \"high\", \"summary\": \"Extreme weather emergency alert until March 8, 2026. Cyclone Seed 90S causing severe flooding, landslides across Bali including tourist areas. Airport ceiling collapse at international terminal. Major tourist zones including Kuta, Legian, Sanur, Denpasar affected by flooding with water levels reaching 30-80cm. Wave heights up to 5 meters threatening coastal areas.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-12T07:59:44.947763+00:00",
+    "action": "alert",
+    "city_id": "Hanoi Vietnam",
+    "details": "{\"city_id\": \"Hanoi Vietnam\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Part of broader Southeast Asia weather system with storms and winds reported in Quang Ngai province. Regional weather warnings for heavy rainfall and flooding across Vietnam through early March 2026.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-12T07:59:44.949312+00:00",
+    "action": "alert",
+    "city_id": "London",
+    "details": "{\"city_id\": \"London\", \"alert_type\": \"political_unrest\", \"severity\": \"medium\", \"summary\": \"London Metropolitan Police banned Al Quds Day march for first time since 2012, citing 'extreme tensions' and potential for serious disorder. Extra officers deployed from across country for 'challenging, potentially violent weekend'. Counter-terrorism arrests related to Iranian regime activities reported.\", \"action\": \"add_incident\"}"
   }
 ]

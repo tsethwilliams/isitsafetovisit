@@ -841,3 +841,12 @@
 2026-03-12 06:24:51,239 [INFO] Merged into site data: Rovaniemi
 2026-03-12 06:24:51,267 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-12 06:24:51,268 [INFO] Updated sitemap with 8 new URLs
+2026-03-12 07:58:57,480 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-12 07:58:57,548 [INFO] Checking alerts for 134 cities
+2026-03-12 07:59:44,843 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 07:59:44,942 [WARNING] ALERTS DETECTED: 5
+2026-03-12 07:59:44,942 [WARNING]   [critical] Tel Aviv: Ongoing Israel-Iran conflict with active missile strikes. Latest reports show multiple overnight missile barrages from Iran targeting central Israel including Tel Aviv area, with sirens at 11:30 PM, 12:50 AM, 3:40 AM, and 4:40 AM. US Embassy suspended routine services until March 13 and is offering evacuation assistance to Egyptian border. Israeli fatalities confirmed from recent strikes.
+2026-03-12 07:59:44,944 [WARNING]   [high] Abu Dhabi: UAE elevated to Level 3 travel advisory by US State Department due to regional conflict escalation. American Airlines issuing travel waivers for flights through March 29. Airspace disruptions affecting commercial aviation in Persian Gulf region.
+2026-03-12 07:59:44,945 [WARNING]   [high] Bali Indonesia: Extreme weather emergency alert until March 8, 2026. Cyclone Seed 90S causing severe flooding, landslides across Bali including tourist areas. Airport ceiling collapse at international terminal. Major tourist zones including Kuta, Legian, Sanur, Denpasar affected by flooding with water levels reaching 30-80cm. Wave heights up to 5 meters threatening coastal areas.
+2026-03-12 07:59:44,947 [WARNING]   [medium] Hanoi Vietnam: Part of broader Southeast Asia weather system with storms and winds reported in Quang Ngai province. Regional weather warnings for heavy rainfall and flooding across Vietnam through early March 2026.
+2026-03-12 07:59:44,948 [WARNING]   [medium] London: London Metropolitan Police banned Al Quds Day march for first time since 2012, citing 'extreme tensions' and potential for serious disorder. Extra officers deployed from across country for 'challenging, potentially violent weekend'. Counter-terrorism arrests related to Iranian regime activities reported.
