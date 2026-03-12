@@ -1408,5 +1408,41 @@
     "action": "add",
     "city_id": "hvar-croatia",
     "details": "New city added with score 8.1"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.623836+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Ben Gurion Airport experiencing massive flight disruptions with 85 cancellations and 8 delays on March 11, 2026. Major international routes affected due to ongoing Middle East conflict. Limited repatriation flights operating.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.625726+00:00",
+    "action": "alert",
+    "city_id": "abu_dhabi_uae",
+    "details": "{\"city_id\": \"abu_dhabi_uae\", \"alert_type\": \"conflict\", \"severity\": \"critical\", \"summary\": \"US State Department ordered non-emergency personnel evacuation due to armed conflict threat. Embassy closed, shelter-in-place orders issued. Limited commercial flights operating with restrictions.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.627448+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen_mexico",
+    "details": "{\"city_id\": \"playa_del_carmen_mexico\", \"alert_type\": \"civil_unrest\", \"severity\": \"medium\", \"summary\": \"Recent security operations with roadblocks and criminal activity in Mexico (Feb 22-23, 2026). Situation has normalized in Quintana Roo state but US Embassy issued spring break travel advisory for heightened caution.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.629068+00:00",
+    "action": "alert",
+    "city_id": "mexico_city_mexico",
+    "details": "{\"city_id\": \"mexico_city_mexico\", \"alert_type\": \"civil_unrest\", \"severity\": \"medium\", \"summary\": \"Recent security operations with roadblocks and explosions on highways connecting to Mexico City (Feb 22-23, 2026). Situation has since stabilized but travelers advised to exercise increased caution.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.630714+00:00",
+    "action": "alert",
+    "city_id": "hanoi_vietnam",
+    "details": "{\"city_id\": \"hanoi_vietnam\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Vietnam preparing enhanced disaster response capabilities for 2026 typhoon season (June-November). Heavy flooding affected northern provinces including Hanoi in 2025, causing 409 deaths nationwide with $3.47 billion in damages.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-12T19:55:54.632389+00:00",
+    "action": "alert",
+    "city_id": "cape_town_south_africa",
+    "details": "{\"city_id\": \"cape_town_south_africa\", \"alert_type\": \"infrastructure\", \"severity\": \"medium\", \"summary\": \"Cape Town International Airport experienced fire incident causing flight disruptions and evacuations. Increased security concerns on secondary roads to/from airport. General high crime environment continues.\", \"action\": \"add_incident\"}"
   }
 ]

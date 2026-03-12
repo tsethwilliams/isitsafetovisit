@@ -930,3 +930,13 @@
 2026-03-12 18:23:27,440 [INFO] Merged into site data: Hvar
 2026-03-12 18:23:27,472 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-12 18:23:27,472 [INFO] Updated sitemap with 8 new URLs
+2026-03-12 19:55:08,488 [INFO] Agent starting Ã¢ÂÂ mode: alert
+2026-03-12 19:55:08,559 [INFO] Checking alerts for 150 cities
+2026-03-12 19:55:54,573 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 19:55:54,623 [WARNING] ALERTS DETECTED: 6
+2026-03-12 19:55:54,623 [WARNING]   [high] tel_aviv_israel: Ben Gurion Airport experiencing massive flight disruptions with 85 cancellations and 8 delays on March 11, 2026. Major international routes affected due to ongoing Middle East conflict. Limited repatriation flights operating.
+2026-03-12 19:55:54,625 [WARNING]   [critical] abu_dhabi_uae: US State Department ordered non-emergency personnel evacuation due to armed conflict threat. Embassy closed, shelter-in-place orders issued. Limited commercial flights operating with restrictions.
+2026-03-12 19:55:54,627 [WARNING]   [medium] playa_del_carmen_mexico: Recent security operations with roadblocks and criminal activity in Mexico (Feb 22-23, 2026). Situation has normalized in Quintana Roo state but US Embassy issued spring break travel advisory for heightened caution.
+2026-03-12 19:55:54,628 [WARNING]   [medium] mexico_city_mexico: Recent security operations with roadblocks and explosions on highways connecting to Mexico City (Feb 22-23, 2026). Situation has since stabilized but travelers advised to exercise increased caution.
+2026-03-12 19:55:54,630 [WARNING]   [low] hanoi_vietnam: Vietnam preparing enhanced disaster response capabilities for 2026 typhoon season (June-November). Heavy flooding affected northern provinces including Hanoi in 2025, causing 409 deaths nationwide with $3.47 billion in damages.
+2026-03-12 19:55:54,631 [WARNING]   [medium] cape_town_south_africa: Cape Town International Airport experienced fire incident causing flight disruptions and evacuations. Increased security concerns on secondary roads to/from airport. General high crime environment continues.
