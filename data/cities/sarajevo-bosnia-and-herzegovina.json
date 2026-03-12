@@ -1,0 +1,165 @@
+{
+  "slug": "sarajevo",
+  "name": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "countryCode": "BA",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 6.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Sarajevo is generally considered safe for tourists with a vibrant cultural atmosphere and welcoming locals. The primary concerns are petty crime such as pickpocketing on public transport and tourist scams, while violent crime against tourists is rare.",
+  "quickVerdict": "Sarajevo has transformed into a relatively safe destination since the 1990s conflict, with millions of tourists visiting annually. While the city poses minimal risk of violent crime to visitors, travelers should remain vigilant about pickpocketing, especially on trams and buses, and be aware of occasional tourist-targeted scams. The US State Department maintains a Level 2 advisory mainly due to regional factors like landmine risks in rural areas and general crime concerns. With basic precautions, most visitors enjoy Sarajevo safely.",
+  "neighborhoods": [
+    {
+      "name": "Baščaršija (Old Town)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic Old Town is generally safe during the day with visible police presence. Watch for pickpockets in crowds and tourist-targeted scams by vendors."
+    },
+    {
+      "name": "Marijin Dvor",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The business and commercial district is well-maintained and safe both day and night on main streets with good lighting and regular foot traffic."
+    },
+    {
+      "name": "Ilidža",
+      "score": 6.8,
+      "class": "safe",
+      "description": "A quieter residential area with thermal springs. Generally safe but less crowded at night. Take normal precautions and use well-lit streets."
+    },
+    {
+      "name": "Grbavica",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Despite being considered dangerous by some, crime is actually minimal. Exercise normal caution and avoid isolated areas at night."
+    },
+    {
+      "name": "Novo Sarajevo",
+      "score": 6.5,
+      "class": "safe",
+      "description": "Modern residential and business area that is generally safe. Good transport connections but be cautious of pickpockets on public transport."
+    },
+    {
+      "name": "Alipašino Polje",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Working-class area that tourists typically avoid. More petty crime and less tourist infrastructure. Better to stay in central areas unless with local guides."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Taxi drivers may tamper with meters, refuse to use meters, or give incorrect change including worthless Serbian dinars instead of Bosnian marks.",
+      "howToAvoid": "Always ensure the meter is running, agree on fares beforehand for longer trips, use licensed taxi companies or ride-hailing apps, and verify your change is in Bosnian marks (BAM)."
+    },
+    {
+      "name": "Bar and Club Overcharging",
+      "risk": "medium",
+      "description": "Some establishments may significantly overcharge tourists for drinks or add unexpected fees to bills, especially in tourist areas.",
+      "howToAvoid": "Check menu prices before ordering, ask for itemized bills, avoid establishments that seem too eager to attract customers, and be cautious about drink spiking in strip clubs."
+    },
+    {
+      "name": "Beggar Distraction Theft",
+      "risk": "medium",
+      "description": "Beggars, often Roma children or adults, approach tourists as a distraction while accomplices pickpocket wallets and valuables.",
+      "howToAvoid": "Keep valuables secure and out of sight, be aware of your surroundings when approached by beggars, don't carry large amounts of cash, and keep bags zipped and in front of your body."
+    },
+    {
+      "name": "Street Vendor Overpricing",
+      "risk": "low",
+      "description": "Street vendors may quote inflated prices for souvenirs or food items, especially targeting obvious tourists.",
+      "howToAvoid": "Compare prices at multiple vendors, negotiate politely, learn basic local phrases for numbers, and shop at established stores for important purchases."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sarajevo is considered very safe for solo female travelers with many women reporting feeling comfortable walking alone during the day and even at night in well-lit areas. Local women commonly walk alone at night, and the culture is generally respectful toward female visitors. The main concerns are the same as for all travelers - petty crime and pickpocketing rather than gender-specific threats.",
+    "tips": [
+      "Use well-lit main streets when walking at night and avoid poorly lit residential areas",
+      "Dress modestly when visiting religious sites but normal Western clothing is acceptable elsewhere",
+      "Solo dining and cafe culture is completely normal - many locals eat and drink alone regularly",
+      "Be extra vigilant on crowded public transport where pickpockets are most active",
+      "Consider joining group pub crawls or finding local guides if you want to experience nightlife"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sarajevo's nightlife areas are generally safe with a relaxed atmosphere where public drinking is accepted in designated areas. Most establishments welcome tourists and violent crime at night is rare. The main risks come from pickpocketing in crowded areas and potential overcharging at some bars or clubs. The city has a vibrant evening scene that locals and tourists safely enjoy.",
+    "tips": [
+      "Stick to well-populated and well-lit areas when walking at night",
+      "Use official taxis or ride-sharing apps rather than walking long distances after dark",
+      "Never leave drinks unattended and be cautious of drink spiking at some venues",
+      "Keep valuables secure and avoid showing large amounts of cash",
+      "Consider staying in central areas like Baščaršija or Marijin Dvor for easier access to nightlife"
+    ]
+  },
+  "transport": {
+    "metro": "Sarajevo does not have a metro system. The main public transport consists of trams, buses, and trolleybuses operated by GRAS.",
+    "rideshare": "Limited ride-sharing options exist with MojTaxi being the main local app. Uber and Bolt do not officially operate in Bosnia and Herzegovina.",
+    "taxis": "Taxis are widely available and affordable with fares starting at 1.5-2.5 BAM. Use licensed companies like Sarajevo Taxi (1515) or Red Taxi. Be cautious of overcharging and ensure meters are running.",
+    "tips": "Public transport is generally safe but watch for pickpockets, especially on crowded trams. Buy tickets from kiosks (1.60 BAM) rather than drivers (1.80 BAM) and validate tickets upon boarding. Transport operates from early morning until midnight."
+  },
+  "customs": [
+    "Dress conservatively when visiting religious sites - cover shoulders and knees in mosques, churches, and synagogues",
+    "Learn basic Bosnian phrases like 'Dobar dan' (Good day) and 'Hvala' (Thank you) as locals appreciate the effort",
+    "Coffee culture is central to social interaction - if invited for coffee, expect to spend time in conversation rather than just drinking",
+    "Avoid discussing politics, religion, or the 1990s war unless locals initiate the conversation",
+    "Bring small gifts when visiting someone's home for the first time - flowers, chocolates, or coffee are appropriate",
+    "Show respect for elders by offering your seat on public transport and using formal address",
+    "Remove shoes when entering someone's home and wait for the host to start eating before beginning your meal"
+  ],
+  "health": {
+    "overview": "Healthcare in Sarajevo has improved significantly with modern facilities like ACIBADEM Sarajevo and the Clinical Center University of Sarajevo (KCUS) providing quality care. Most doctors speak English in tourist areas and private facilities often have international standards.",
+    "water": "Tap water is generally safe to drink in Sarajevo. However, bottled water is widely available and recommended for sensitive stomachs or if you prefer the taste.",
+    "vaccinations": "No special vaccinations are required beyond routine immunizations. Ensure you're up to date with measles, mumps, rubella, and seasonal flu vaccines.",
+    "altitude": "Sarajevo sits at approximately 1,700 feet elevation which poses no altitude concerns. The climate has hot summers and cold winters with potential for snow from December to February."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "122",
+    "ambulance": "124",
+    "fire": "123",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Sarajevo: +387 33 704 000. Address: 1 Robert C. Frasure Street, 71000 Sarajevo. Emergency services for US citizens available 24/7."
+  },
+  "faq": [
+    {
+      "q": "Is Sarajevo safe for tourists?",
+      "a": "Yes, Sarajevo is generally safe for tourists. While the US State Department has a Level 2 advisory, this is mainly due to regional concerns like landmines in rural areas. The city itself has low violent crime rates and millions of visitors annually. Main concerns are petty crime like pickpocketing."
+    },
+    {
+      "q": "Is Sarajevo safe at night?",
+      "a": "Sarajevo is relatively safe at night in well-lit, populated areas. The nightlife scene is active and locals commonly walk around after dark. Stick to main streets, use official transportation, and take normal precautions against petty crime."
+    },
+    {
+      "q": "Is Sarajevo safe for solo female travelers?",
+      "a": "Yes, Sarajevo is very safe for solo female travelers. Many women report feeling comfortable walking alone both day and night. The culture is respectful toward women, and solo dining is completely normal. Just take standard precautions against pickpocketing."
+    },
+    {
+      "q": "What areas should I avoid in Sarajevo?",
+      "a": "Most central areas are safe, but exercise extra caution in peripheral neighborhoods like Alipašino Polje or upper Pofalići late at night. However, even areas sometimes labeled as 'dangerous' like Grbavica actually have minimal crime. Stay in tourist areas if you're unsure."
+    },
+    {
+      "q": "Is it safe to use public transport in Sarajevo?",
+      "a": "Yes, public transport is generally safe. The main risk is pickpocketing on crowded trams and buses, especially during rush hours. Keep valuables secure, be aware of your surroundings, and validate your tickets. Services run from early morning until midnight."
+    }
+  ],
+  "relatedCities": [
+    "zagreb",
+    "belgrade",
+    "dubrovnik"
+  ],
+  "_city_id": "sarajevo-bosnia-and-herzegovina"
+}

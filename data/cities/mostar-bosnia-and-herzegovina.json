@@ -1,0 +1,164 @@
+{
+  "slug": "mostar",
+  "name": "Mostar",
+  "country": "Bosnia and Herzegovina",
+  "countryCode": "BA",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "Mostar is generally considered safe for tourists with a low crime rate, friendly locals, and a welcoming atmosphere. The main safety concerns involve petty crime in tourist areas and the presence of unexploded landmines in rural areas from the 1990s conflict.",
+  "quickVerdict": "Mostar offers a relatively safe experience for visitors, with violent crime being rare and locals known for their genuine hospitality. The city has recovered well from its wartime past and maintains good police presence in tourist areas. While petty crimes like pickpocketing can occur in crowded tourist zones, most visitors have positive experiences. Solo female travelers find Mostar particularly welcoming, and the nightlife scene is considered safe with a relaxed atmosphere.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Stari Most area)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart of Mostar centered around the famous bridge. Well-patrolled by police, busy with tourists and locals, and generally very safe. Some minor pickpocketing risk in crowded areas."
+    },
+    {
+      "name": "City Center",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern commercial district with shops, restaurants, and hotels. Good lighting, regular police patrols, and safe for walking day and night. Popular with both locals and tourists."
+    },
+    {
+      "name": "West Mostar",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Predominantly Croat area with good infrastructure, cafes, and nightlife. Generally safe but can be quieter at night. Some areas may have ethnic tensions but tourists rarely experience issues."
+    },
+    {
+      "name": "East Mostar",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Predominantly Bosniak area that's safe during the day but can be less well-lit at night. Local communities are welcoming to tourists but some areas may appear run-down."
+    },
+    {
+      "name": "Rondo Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Commercial and transport hub with the bus station. Generally safe but can be crowded with some opportunistic crime. Exercise normal caution, especially with luggage and valuables."
+    },
+    {
+      "name": "Rural Outskirts",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Areas outside the city proper may still contain unexploded landmines from the 1990s conflict. Stick to marked paths and roads, and never venture into abandoned buildings or off-trail areas without local guidance."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "medium",
+      "description": "Taxi drivers may claim broken meters or run them faster than normal, especially at tourist areas and transport hubs.",
+      "howToAvoid": "Always ask for the meter to be turned on or agree on a fixed price beforehand. Ask your hotel about fair taxi rates and use reputable taxi companies."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some tourist restaurants may add extra items to bills or charge inflated prices for simple dishes.",
+      "howToAvoid": "Check menus with prices before ordering, review bills carefully, and ask locals for restaurant recommendations away from main tourist areas."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "low",
+      "description": "Unofficial guides may approach tourists offering tours at inflated prices or lead to overpriced shops and restaurants.",
+      "howToAvoid": "Book tours through official agencies or your hotel. Ask for credentials and compare prices. Be wary of unsolicited approaches from street guides."
+    },
+    {
+      "name": "Currency Exchange Tricks",
+      "risk": "low",
+      "description": "Street money changers may offer good rates but use sleight of hand or counterfeit bills.",
+      "howToAvoid": "Only exchange money at banks, official exchange offices, or ATMs. Avoid street money changers entirely, even if they claim to work for nearby exchanges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Mostar is considered very safe for solo female travelers, with a low crime rate and locals known for their hospitality and respect toward women. The city has a relaxed atmosphere, and violent crime is rare. Most female travelers report feeling comfortable walking around both day and night in tourist areas. The local culture is generally respectful, and harassment is uncommon.",
+    "tips": [
+      "Dress modestly when visiting mosques or religious sites, covering shoulders and knees",
+      "Stay in well-reviewed accommodations in central areas like the Old Town or city center",
+      "Trust your instincts - if something feels off, remove yourself from the situation",
+      "Keep emergency contacts and hotel information easily accessible on your phone",
+      "Join other travelers for activities or use organized tours to meet people safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Mostar's nightlife is generally safe and relaxed, with most bars and restaurants staying open until midnight or later. The city transforms in the evening with a friendly atmosphere around the Old Bridge area and various neighborhoods. Police presence is adequate, and violent crime at night is rare. The local cafe and bar culture is welcoming to tourists.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas when walking at night",
+      "Avoid excessive alcohol consumption and keep your wits about you",
+      "Use official taxis or arrange transportation through your hotel for late-night travel",
+      "Travel in groups when possible and let someone know your evening plans",
+      "Be aware that some bars close early while others stay open until 5am"
+    ]
+  },
+  "transport": {
+    "metro": "Mostar does not have a metro system. The city is compact and walkable, with most attractions within walking distance of each other.",
+    "rideshare": "Uber and other international rideshare apps are not available in Mostar. Traditional taxis are the primary option for private transportation.",
+    "taxis": "Taxis are readily available and generally safe. Short rides within the city cost 5-10 BAM. Always ensure the meter is running or agree on a fixed price beforehand. Taxi stands are located near major attractions and transport hubs.",
+    "tips": "Local buses are affordable (1.5-2 BAM) but infrequent and routes may be confusing for tourists. Walking is often the best option in the compact Old Town area. For longer distances, taxis offer convenience and safety."
+  },
+  "customs": [
+    "Bring small gifts like flowers, coffee, or chocolates when visiting someone's home",
+    "Remove shoes when entering homes and dress modestly when visiting religious sites",
+    "Coffee culture is central - expect long conversations over Turkish coffee and take time to enjoy the ritual",
+    "Show respect for all religious practices as the country has Muslim, Orthodox, and Catholic communities",
+    "Avoid discussing the 1990s war, politics, or ethnic tensions unless locals bring up the topic first"
+  ],
+  "health": {
+    "overview": "Mostar has adequate healthcare facilities for basic needs, though serious medical issues may require travel to Sarajevo. The city has several pharmacies, medical clinics, and a main hospital. Air quality is generally good, though can be affected by seasonal conditions.",
+    "water": "Tap water is generally safe to drink in Mostar, though some visitors prefer bottled water. Local restaurants and cafes serve safe water and ice.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider hepatitis A and B if staying long-term or engaging in adventure activities.",
+    "altitude": "Mostar sits at low altitude with a Mediterranean climate. Summers can be hot (30°C+) so stay hydrated. Winters are mild but can be rainy."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "122",
+    "ambulance": "124",
+    "fire": "123",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Sarajevo: +387 33 704 000 (about 2 hours from Mostar). The embassy provides consular services for American citizens throughout Bosnia and Herzegovina."
+  },
+  "faq": [
+    {
+      "q": "Is Mostar safe for tourists?",
+      "a": "Yes, Mostar is generally very safe for tourists. The city has a low crime rate, friendly locals, and good police presence in tourist areas. Most visitors have positive experiences with local hospitality being a highlight."
+    },
+    {
+      "q": "Is Mostar safe at night?",
+      "a": "Mostar is considered safe at night, especially in the Old Town and city center areas. The nightlife scene is relaxed and welcoming. However, stick to well-lit streets and main tourist areas, and use taxis for longer distances."
+    },
+    {
+      "q": "Is Mostar safe for solo female travelers?",
+      "a": "Yes, Mostar is very safe for solo female travelers. The city is known for its respectful culture and low harassment rates. Many solo women report feeling comfortable and welcomed by locals throughout their stay."
+    },
+    {
+      "q": "What areas should I avoid in Mostar?",
+      "a": "Avoid rural areas outside the city where unexploded landmines from the 1990s conflict may still exist. Stick to marked paths and roads. Within the city, all neighborhoods are generally safe, though some outer areas may be less well-lit at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Mostar?",
+      "a": "Public buses are safe but infrequent and can be confusing for tourists. Taxis are the recommended transport option - they're safe, affordable, and convenient. Walking is best for the compact Old Town area."
+    }
+  ],
+  "relatedCities": [
+    "sarajevo",
+    "dubrovnik",
+    "split",
+    "belgrade"
+  ],
+  "_city_id": "mostar-bosnia-and-herzegovina"
+}

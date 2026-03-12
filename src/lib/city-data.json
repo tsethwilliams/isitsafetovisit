@@ -26604,6 +26604,1312 @@
         "zadar",
         "zagreb"
       ]
+    },
+    {
+      "slug": "ljubljana",
+      "name": "Ljubljana",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 8.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 9.0,
+        "scamRisk": 7.0,
+        "womensSafety": 9.5,
+        "nightSafety": 8.5,
+        "transport": 8.5,
+        "naturalHazards": 9.0
+      },
+      "summary": "Ljubljana is one of Europe's safest capitals with exceptionally low crime rates and excellent infrastructure. The city is particularly renowned for solo female travel safety, with a safety index of 78.6 placing it among the top 10 safest European cities.",
+      "quickVerdict": "Ljubljana offers an outstanding safety record that makes it ideal for all types of travelers. With violent crime virtually non-existent, petty crime minimal, and a welcoming, English-speaking population, visitors can explore confidently day and night. The city's compact, pedestrian-friendly center, reliable public transport, and modern emergency services create a secure environment. Solo female travelers consistently rank Ljubljana among Europe's safest destinations, with 85% of Slovenian women feeling safe walking alone at night.",
+      "neighborhoods": [
+        {
+          "name": "Center District",
+          "score": 9.0,
+          "class": "safe",
+          "description": "The historic heart of Ljubljana around Prešeren Square and Triple Bridge. Fully pedestrianized, well-lit, with constant foot traffic and police presence. Ideal for tourists with numerous cafes, restaurants and cultural sites."
+        },
+        {
+          "name": "Tivoli Park Area",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Green residential area surrounding the city's largest park. Very safe during day and evening, though some areas of the park should be avoided late at night when alone."
+        },
+        {
+          "name": "Bežigrad",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern residential and business district north of center. Well-maintained with good transport links, popular with families and young professionals."
+        },
+        {
+          "name": "Šiška",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Northwestern residential area with higher police intervention rates than other districts. Still generally safe but requires more awareness, especially at night."
+        },
+        {
+          "name": "Metelkova",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Alternative cultural district with nightlife venues and art spaces. Safe but can get rowdy on weekends due to party scene. Exercise normal nightlife precautions."
+        },
+        {
+          "name": "Fužine",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Outlying residential area with slightly higher crime rates. Avoid late at night and stick to main streets. Generally fine during daytime hours."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Vignette Highway Fine Scam",
+          "risk": "medium",
+          "description": "Fake police or officials target tourists who accidentally enter highways without proper vignette tolls, demanding immediate cash payments with threats of vehicle confiscation.",
+          "howToAvoid": "Only pay fines at official police stations with proper receipts. Legitimate officers will provide official documentation. Purchase vignettes from authorized dealers before driving."
+        },
+        {
+          "name": "Online Investment Fraud",
+          "risk": "high",
+          "description": "Sophisticated online schemes promising quick returns on investments, particularly targeting visitors through social media and fake websites. Cost Slovenians nearly 28 million euros in 2025.",
+          "howToAvoid": "Never invest money based on unsolicited online offers. Verify any investment opportunity through official financial institutions. Be suspicious of high-return promises."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some taxi drivers, particularly at airports and tourist areas, may quote inflated prices or manipulate meters to overcharge tourists.",
+          "howToAvoid": "Use licensed taxis with working meters and official taxi signs. Agree on approximate fare before starting. Use reputable taxi apps like Metro Taxi or book transfers in advance."
+        },
+        {
+          "name": "Fake Payment Terminals",
+          "risk": "medium",
+          "description": "Counterfeit card payment terminals in some tourist shops and restaurants designed to steal banking information.",
+          "howToAvoid": "Use cards at established businesses. Check for official bank logos on terminals. Cover your PIN when entering. Monitor bank statements regularly for unauthorized transactions."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Ljubljana ranks as one of Europe's safest cities for solo female travelers, with a safety rating of 4.6/5 and ranking 39th globally. The city is exceptionally welcoming with 85% of women feeling safe walking alone at night. English is widely spoken, infrastructure is excellent, and locals are respectful and helpful. The compact, pedestrian-friendly city center makes navigation easy and safe.",
+        "tips": [
+          "Take advantage of the well-lit pedestrian zone in the city center which is safe to explore at any hour",
+          "Join organized tours or pub crawls to meet other travelers if you want social experiences",
+          "Use the reliable public transport system which operates safely even at night with good lighting and security",
+          "Stay in the Center District or near Tivoli Park for the safest and most convenient locations",
+          "Don't hesitate to ask locals for directions or help - Slovenians are known for their friendliness toward solo female visitors"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Ljubljana's nightlife is exceptionally safe with a vibrant scene centered around the pedestrianized city center and Metelkova cultural district. The compact layout means venues are within walking distance, well-lit streets provide good visibility, and police presence is adequate. Public transport and taxis operate safely throughout the night, making it easy to get around after dark.",
+        "tips": [
+          "Stick to the main nightlife areas around the city center and Ljubljanica River which are well-patrolled and busy",
+          "Use official taxis with meters or the reliable night bus service which operates until 4:30 AM",
+          "Keep valuables secure in crowded venues, though violent crime is extremely rare",
+          "Explore Metelkova's alternative club scene but be aware it can get crowdy on weekends",
+          "Take advantage of Ljubljana's walkable size - most venues are within 10-15 minutes of each other on foot"
+        ]
+      },
+      "transport": {
+        "metro": "Ljubljana has no metro system but operates an excellent bus network covering 93% of the urban area with most households within 500m of a stop. Buses run from early morning until late evening with night buses operating 11 PM to 4:30 AM on major routes.",
+        "rideshare": "Uber is not available in Ljubljana. Bolt operates but only for e-scooter and bike rentals. Local taxi apps like Metro Taxi provide reliable rideshare-style services with fixed government-regulated rates.",
+        "taxis": "Taxis are safe, clean and regulated with fixed government rates (no surge pricing). All official taxis have meters and taxi signs. Available 24/7 with ranks at major locations. Credit cards widely accepted. Average city center journeys cost 3-6 euros.",
+        "tips": "Public transport is very safe and efficient. Purchase an Urbana card for convenient payment across buses, bike-share and parking. Walking is often fastest in the compact city center. Night buses provide safe late-night transport options."
+      },
+      "customs": [
+        "Greet with a firm handshake and direct eye contact, using formal titles (Gospa/Gospod) until invited to use first names",
+        "Remove shoes when entering homes and bring small gifts like flowers or wine when visiting",
+        "Maintain punctuality as being late is considered disrespectful - inform hosts if delayed",
+        "Say 'Dober tek' before meals and maintain good table manners with hands visible above the table",
+        "Respect environmental values by properly sorting waste and keeping noise levels low in public spaces"
+      ],
+      "health": {
+        "overview": "Slovenia has a high-quality healthcare system with standards meeting international expectations. The University Medical Centre Ljubljana provides excellent emergency services, and healthcare professionals are well-trained with many speaking English.",
+        "water": "Tap water is completely safe to drink throughout Ljubljana and Slovenia. The water quality is excellent and regularly monitored, so carry a reusable bottle to stay hydrated without buying bottled water.",
+        "vaccinations": "No special vaccinations are required for Slovenia. Standard travel vaccinations like tetanus are recommended but not mandatory. The country has no risk of dangerous tropical diseases.",
+        "altitude": "Ljubljana sits at low altitude so altitude sickness is not a concern. The climate is continental with mild to hot summers and cold winters. Air quality is generally good though can vary seasonally."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Ljubljana, Prešernova 31, 1000 Ljubljana. Tel: +386 (1) 200-5500. Emergency after-hours: +386 (1) 200-5500. Email: LjubljanaACS@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Ljubljana safe for tourists?",
+          "a": "Yes, Ljubljana is exceptionally safe for tourists and ranks among Europe's safest capitals. Crime rates are very low, violent crime is rare, and the city has excellent infrastructure and emergency services."
+        },
+        {
+          "q": "Is Ljubljana safe at night?",
+          "a": "Ljubljana is very safe at night with well-lit pedestrian areas, reliable public transport until late, and a vibrant but controlled nightlife scene. The compact city center makes it easy to navigate safely after dark."
+        },
+        {
+          "q": "Is Ljubljana safe for solo female travelers?",
+          "a": "Ljubljana is outstanding for solo female travelers, ranking 39th globally with a 4.6/5 safety rating. The city is particularly welcoming to women traveling alone with excellent English proficiency and helpful locals."
+        },
+        {
+          "q": "What areas should I avoid in Ljubljana?",
+          "a": "Ljubljana is generally very safe, but exercise more caution in Šiška and Fužine districts at night. Some parts of Tivoli Park should be avoided when alone after dark, though the city center is safe 24/7."
+        },
+        {
+          "q": "Is it safe to use public transport in Ljubljana?",
+          "a": "Public transport in Ljubljana is very safe and reliable. Buses are modern, well-maintained, and operate extensive routes including night services. The system is trusted by locals and tourists alike with minimal safety concerns."
+        }
+      ],
+      "relatedCities": [
+        "vienna",
+        "budapest",
+        "zagreb",
+        "venice",
+        "salzburg"
+      ]
+    },
+    {
+      "slug": "lake-bled",
+      "name": "Lake Bled",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 8.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.2,
+        "scamRisk": 8.8,
+        "womensSafety": 8.7,
+        "nightSafety": 8.4,
+        "transport": 8.3,
+        "naturalHazards": 7.6
+      },
+      "summary": "Lake Bled is one of Europe's safest tourist destinations, ranking among the world's top 10 safest countries. Slovenia maintains extremely low crime rates with virtually no violent crime affecting tourists. The country's excellent infrastructure, stable political environment, and strong safety culture make it ideal for all types of travelers.",
+      "quickVerdict": "Lake Bled stands out as an exceptionally safe destination where tourists can explore with complete peace of mind. With Slovenia ranking 9th globally on the Global Peace Index and virtually no crime affecting visitors, travelers face minimal safety risks. The well-maintained infrastructure, reliable emergency services, and tourist-friendly environment create ideal conditions for solo travelers, families, and women. While minor precautions like watching belongings in crowded areas are always wise, serious safety concerns are virtually non-existent in this Alpine paradise.",
+      "neighborhoods": [
+        {
+          "name": "Lake Bled Town Center",
+          "score": 9.0,
+          "class": "safe",
+          "description": "The heart of Bled with restaurants, shops, and main attractions. Extremely safe with constant foot traffic, good lighting, and frequent police presence. Perfect for walking day and night."
+        },
+        {
+          "name": "Bled Castle Area",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The castle perched on cliffs above the lake offers stunning views and complete safety. Well-maintained paths, security staff, and excellent emergency access make this area very secure."
+        },
+        {
+          "name": "Lake Promenade",
+          "score": 9.2,
+          "class": "safe",
+          "description": "The 6km walking path around the lake is extremely safe with excellent lighting, regular maintenance, and emergency call points. Popular with locals and tourists at all hours."
+        },
+        {
+          "name": "Vintgar Gorge",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The spectacular gorge 4km from Bled features well-constructed walkways with safety railings. Some areas can be slippery when wet, but overall very secure with ranger presence."
+        },
+        {
+          "name": "Bled Island",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Accessible by traditional pletna boats or rowing boats. The island itself is very safe though boat transfers require basic water safety awareness. Licensed operators ensure safety standards."
+        },
+        {
+          "name": "Radovljica Old Town",
+          "score": 8.6,
+          "class": "safe",
+          "description": "The nearby medieval town offers a charming historic center that's exceptionally safe. Well-preserved streets, good lighting, and friendly locals create a secure environment for exploration."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Restaurant Bill Overcharging",
+          "risk": "low",
+          "description": "Some tourist restaurants may add unexpected charges or overcharge for items, though this is rare in Bled.",
+          "howToAvoid": "Always check the menu prices before ordering and review your bill carefully. Ask for clarification on any charges you don't understand."
+        },
+        {
+          "name": "Unofficial Taxi Services",
+          "risk": "low",
+          "description": "Unlicensed drivers may approach tourists at the airport or train stations offering inflated rates for transfers to Bled.",
+          "howToAvoid": "Use official taxi ranks, pre-book transfers through reputable companies, or take the official Arriva bus service from Ljubljana Airport."
+        },
+        {
+          "name": "Fake Accommodation Listings",
+          "risk": "moderate",
+          "description": "With tourism growth, fraudulent rental listings have increased on some platforms, particularly for peak season bookings.",
+          "howToAvoid": "Book through established platforms, verify property details independently, avoid paying large sums upfront, and be wary of prices that seem too good to be true."
+        },
+        {
+          "name": "Pletna Boat Price Confusion",
+          "risk": "low",
+          "description": "Some boat operators may not clearly explain pricing structure for trips to Bled Island, leading to unexpected costs.",
+          "howToAvoid": "Confirm the total price including waiting time and return journey before boarding. Use licensed pletna operators who display official rates."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Lake Bled is exceptionally safe for solo female travelers, ranking among the safest destinations in Europe. Women traveling alone rarely encounter harassment or safety issues. The town is well-lit, locals are respectful and helpful, and violent crime is virtually non-existent. Slovenia's strong safety culture and gender equality make it ideal for independent female exploration.",
+        "tips": [
+          "Walk freely around the lake and town at any hour - the area is extremely well-lit and safe",
+          "Locals are respectful and helpful - don't hesitate to ask for directions or assistance",
+          "Use official accommodations and transport services for maximum security",
+          "Join other travelers on hiking trails if preferred, though solo hiking is generally very safe",
+          "Emergency services (112) are reliable and operators often speak English"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Lake Bled is remarkably safe at night with excellent lighting around the lake and town center. The crime rate is extremely low, and locals regularly walk or cycle at night. Police patrol regularly, and the area maintains a peaceful, secure atmosphere after dark.",
+        "tips": [
+          "The lake promenade is safe and beautiful for evening walks with excellent lighting",
+          "Stick to main paths and town areas after dark for maximum comfort",
+          "Local restaurants and cafes are safe for evening dining with no special precautions needed",
+          "If hiking at night, use proper equipment and inform someone of your plans",
+          "Emergency call points are located around the lake for added security"
+        ]
+      },
+      "transport": {
+        "metro": "Lake Bled has no metro system. The town is compact and easily walkable with most attractions within 1-2km of each other.",
+        "rideshare": "Uber is not available in Bled. Pre-book reliable local taxi services like Bled Taxi which receives excellent reviews for safety and professionalism.",
+        "taxis": "Official taxis are safe and regulated with fixed rates to major destinations. Always use licensed operators from official ranks and confirm rates before starting your journey.",
+        "tips": "Public buses to Ljubljana and other destinations are modern, safe, and reliable. Walking and cycling are the best ways to explore Bled itself - the town is designed for pedestrians."
+      },
+      "customs": [
+        "Greet with a firm handshake and direct eye contact; use formal titles (Gospod/Gospa) until invited to use first names",
+        "Slovenians value punctuality - arrive on time for appointments and social gatherings",
+        "Environmental consciousness is crucial - never litter and respect nature on hiking trails by staying on marked paths",
+        "When hiking, greet other walkers with 'Dober dan' or 'Srečno' - it's a cherished mountain tradition",
+        "Dining is social and slow-paced; say 'Dober tek' before meals and maintain good table manners",
+        "Tipping 5-10% is appreciated but not mandatory in restaurants; round up bills for good service",
+        "Remove shoes when entering homes and dress modestly when visiting churches"
+      ],
+      "health": {
+        "overview": "Slovenia has excellent healthcare standards ranking 15th in the Euro Health Consumer Index. Lake Bled has a local health center with emergency services, and Ljubljana's advanced medical facilities are just 55km away.",
+        "water": "Tap water in Lake Bled is excellent quality and safe to drink directly from the tap. Slovenia has some of the cleanest water in Europe.",
+        "vaccinations": "No special vaccinations required for Slovenia. Standard travel vaccinations like tetanus are recommended but not mandatory.",
+        "altitude": "Lake Bled sits at 475m elevation with no altitude concerns. Climate is temperate with cold winters and warm summers. Swimming in the lake can be chilly even in summer due to Alpine water temperatures."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "113",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Ljubljana: +386 1 200-5500, Address: Prešernova 31, 1000 Ljubljana (55km from Bled). Emergency after-hours contact available 24/7."
+      },
+      "faq": [
+        {
+          "q": "Is Lake Bled safe for tourists?",
+          "a": "Lake Bled is exceptionally safe for tourists. Slovenia ranks 9th globally on the Global Peace Index with virtually no violent crime. The town has excellent infrastructure, reliable emergency services, and a strong safety culture that makes it ideal for all travelers."
+        },
+        {
+          "q": "Is Lake Bled safe at night?",
+          "a": "Yes, Lake Bled is very safe at night. The lake promenade and town center are well-lit with regular police patrols. Crime rates are extremely low, and many locals walk or cycle after dark. The peaceful, secure atmosphere continues throughout the night."
+        },
+        {
+          "q": "Is Lake Bled safe for solo female travelers?",
+          "a": "Lake Bled is one of the safest destinations in Europe for solo female travelers. Women traveling alone rarely encounter harassment or safety issues. The respectful local culture, excellent lighting, and helpful community create an ideal environment for independent female exploration."
+        },
+        {
+          "q": "What areas should I avoid in Lake Bled?",
+          "a": "There are no areas in Lake Bled that need to be avoided for safety reasons. All neighborhoods and attractions maintain high safety standards. When hiking, stay on marked trails and be prepared for weather changes in mountain areas, but this is standard outdoor safety rather than crime prevention."
+        },
+        {
+          "q": "Is it safe to use public transport in Lake Bled?",
+          "a": "Yes, public transport to and from Lake Bled is very safe. Arriva buses connecting Ljubljana and other cities are modern and reliable. Within Bled, most attractions are walkable, but official taxis and tour services maintain high safety standards."
+        }
+      ],
+      "relatedCities": [
+        "ljubljana",
+        "salzburg",
+        "vienna",
+        "zagreb",
+        "venice"
+      ]
+    },
+    {
+      "slug": "bratislava",
+      "name": "Bratislava",
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 7.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 7.8,
+        "nightSafety": 7.2,
+        "transport": 8.0,
+        "naturalHazards": 8.7
+      },
+      "summary": "Bratislava is one of Europe's safest capital cities with very low crime rates and minimal violent crime. While petty theft and tourist-targeted scams exist, they occur far less frequently than in other major European destinations.",
+      "quickVerdict": "Bratislava offers excellent safety for tourists with crime rates significantly lower than neighboring capitals like Vienna or Prague. The US State Department rates Slovakia at Level 1 (Exercise Normal Precautions), and visitors consistently report feeling secure walking alone day or night. The main concerns are pickpockets in tourist areas and overcharging by unlicensed taxis, but violent crime is extremely rare.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Staré Mesto)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic center is very safe and well-patrolled with police cameras throughout. Main concern is pickpockets targeting tourists, especially during Christmas markets and around popular attractions like Bratislava Castle."
+        },
+        {
+          "name": "Petržalka",
+          "score": 6.8,
+          "class": "caution",
+          "description": "This large residential area across the Danube is generally safe but less touristy. Some areas can feel isolated at night, and it's better to use public transport rather than walking alone after dark in remote sections."
+        },
+        {
+          "name": "Ružinov",
+          "score": 7.5,
+          "class": "safe",
+          "description": "A mix of residential and commercial areas that's well-connected by public transport. Generally safe during the day with good lighting on main streets, though some quieter residential streets should be avoided late at night."
+        },
+        {
+          "name": "New Town (Nové Mesto)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern district with shopping centers and business areas. Well-lit and patrolled with regular police presence. Safe for tourists but less atmospheric than Old Town, with standard urban precautions recommended."
+        },
+        {
+          "name": "Karlova Ves",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale residential area popular with diplomats and expats. Very safe with low crime rates, well-maintained streets, and good public transport connections. Ideal for accommodation outside the tourist center."
+        },
+        {
+          "name": "Devín",
+          "score": 4.2,
+          "class": "danger",
+          "description": "While home to historic Devín Castle, some areas of this district have higher crime rates and should be avoided, especially at night. Stick to well-lit tourist areas and use caution when exploring beyond the castle grounds."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Unlicensed taxi drivers at the airport, train stations, and tourist areas charge inflated rates, sometimes 5-10 times the normal fare. They may not use meters or add fake surcharges.",
+          "howToAvoid": "Always use Uber, Bolt, or Hopin apps, or call a licensed taxi company. Never hail taxis on the street near tourist sites or transport hubs. Insist on the meter being used."
+        },
+        {
+          "name": "Bar Bill Scam",
+          "risk": "medium",
+          "description": "Attractive locals invite tourists to bars where they're presented with astronomical bills for drinks. Security staff may pressure victims to pay or escort them to ATMs if they refuse.",
+          "howToAvoid": "Be wary of strangers suggesting specific bars. Always check drink prices before ordering and ask to see the menu. Suggest meeting at a bar of your choice instead."
+        },
+        {
+          "name": "Pickpocketing Teams",
+          "risk": "medium",
+          "description": "Groups of thieves work together, with one creating a distraction while others steal wallets and phones. Common in crowded tourist areas, on public transport, and during events like Christmas markets.",
+          "howToAvoid": "Keep valuables in inside pockets or hidden pouches. Be alert to staged distractions like street performances or arguments. Don't carry all valuables in one place."
+        },
+        {
+          "name": "Fake Camera Damage",
+          "risk": "low",
+          "description": "Someone asks you to take their photo, then deliberately drops their camera and demands payment for the 'damage' you supposedly caused.",
+          "howToAvoid": "Be cautious when strangers ask you to handle their expensive equipment. Politely decline or suggest they ask someone else. If it happens, don't feel pressured to pay."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bratislava is exceptionally safe for solo female travelers with very low rates of harassment and violent crime. Women regularly walk alone at night in the city center without incident. The main precautions involve avoiding poorly lit areas after dark and being aware of drink spiking in some nightclub areas.",
+        "tips": [
+          "Stay in well-lit central areas at night, especially around Old Town",
+          "Be cautious of drinks in nightclubs - watch them being made and don't accept from strangers",
+          "The Old Town and main tourist areas have excellent police camera coverage"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bratislava is generally very safe at night with low crime rates and good street lighting in central areas. Many travelers report feeling comfortable walking alone after midnight in the Old Town. The main risks are drunk individuals outside bars and potential drink spiking in some nightclub venues.",
+        "tips": [
+          "Stick to main streets and well-lit areas in the city center",
+          "Avoid confrontations with intoxicated individuals outside bars and clubs",
+          "Use licensed taxis or ride-sharing apps rather than walking long distances alone at night"
+        ]
+      },
+      "transport": {
+        "metro": "Bratislava has no metro system. Public transport consists of buses, trams, and trolleybuses operating from 4:30 AM to 11:30 PM, with night services thereafter. The system is safe, reliable, and well-maintained with modern vehicles.",
+        "rideshare": "Uber, Bolt, and local app Hopin operate reliably throughout the city. These are recommended over street taxis as they provide transparent pricing and driver tracking. All three apps are widely used and trusted by locals and tourists.",
+        "taxis": "Licensed taxis are safe but more expensive when hailed on the street. Many unlicensed operators target tourists with inflated rates. Always insist on the meter being used or agree on a price beforehand. Avoid taxis near airports and tourist sites.",
+        "tips": "Public transport is the safest and cheapest option. Always validate tickets to avoid fines. For longer distances or late-night travel, use rideshare apps rather than street taxis."
+      },
+      "customs": [
+        "Remove shoes when entering Slovak homes - this is strictly observed",
+        "Greet with 'Dobrý deň' (Good day) and maintain eye contact during handshakes",
+        "Bring flowers when invited to dinner, but avoid chrysanthemums and purple ribbons (funeral flowers)",
+        "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+        "Table manners are formal - keep hands visible on the table and use Continental style (fork left, knife right)"
+      ],
+      "health": {
+        "overview": "Slovakia has excellent healthcare standards meeting EU requirements. Bratislava offers both public and private medical facilities with English-speaking staff. Medical tourism is growing due to high-quality, affordable care.",
+        "water": "Tap water is completely safe to drink throughout Bratislava and meets EU standards. Bottled water is available but unnecessary for health reasons.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance is recommended for non-EU citizens as private healthcare can be expensive.",
+        "altitude": "Bratislava sits at low altitude (134m above sea level) with no altitude-related health concerns. The city has a temperate continental climate with warm summers and mild winters."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "158",
+        "ambulance": "155",
+        "fire": "150",
+        "touristPolice": "159 (City Police)",
+        "usEmbassy": "US Embassy Bratislava: +421-2-5922-3000 (emergencies), located at Hviezdoslavovo námestie 4, 811 02 Bratislava"
+      },
+      "faq": [
+        {
+          "q": "Is Bratislava safe for tourists?",
+          "a": "Yes, Bratislava is exceptionally safe for tourists with crime rates among the lowest in Europe. The US State Department rates Slovakia at Level 1 (Exercise Normal Precautions). Violent crime is extremely rare, and most incidents involve minor theft."
+        },
+        {
+          "q": "Is Bratislava safe at night?",
+          "a": "Bratislava is very safe at night, especially in the Old Town and central areas which are well-lit and have good police presence. Many locals and tourists walk alone after midnight without incident, though standard urban precautions are advised."
+        },
+        {
+          "q": "Is Bratislava safe for solo female travelers?",
+          "a": "Absolutely. Bratislava is considered one of Europe's safest capitals for solo female travelers. Women regularly explore the city alone day and night with minimal concerns beyond basic awareness of surroundings and drink safety in bars."
+        },
+        {
+          "q": "What areas should I avoid in Bratislava?",
+          "a": "Most of Bratislava is safe, but exercise extra caution in parts of Devín district and remote areas of Petržalka after dark. Also avoid unlicensed taxis at transport hubs and be cautious of overpriced bars suggested by strangers."
+        },
+        {
+          "q": "Is it safe to use public transport in Bratislava?",
+          "a": "Yes, Bratislava's public transport system (buses, trams, trolleybuses) is very safe, modern, and reliable. The main concern is ensuring you validate tickets to avoid fines. Night services operate safely until early morning."
+        }
+      ],
+      "relatedCities": [
+        "prague",
+        "vienna",
+        "budapest",
+        "warsaw",
+        "krakow"
+      ]
+    },
+    {
+      "slug": "sarajevo",
+      "name": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BA",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 6.5,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 6.5,
+        "transport": 6.5,
+        "naturalHazards": 6.5
+      },
+      "summary": "Sarajevo is generally considered safe for tourists with a vibrant cultural atmosphere and welcoming locals. The primary concerns are petty crime such as pickpocketing on public transport and tourist scams, while violent crime against tourists is rare.",
+      "quickVerdict": "Sarajevo has transformed into a relatively safe destination since the 1990s conflict, with millions of tourists visiting annually. While the city poses minimal risk of violent crime to visitors, travelers should remain vigilant about pickpocketing, especially on trams and buses, and be aware of occasional tourist-targeted scams. The US State Department maintains a Level 2 advisory mainly due to regional factors like landmine risks in rural areas and general crime concerns. With basic precautions, most visitors enjoy Sarajevo safely.",
+      "neighborhoods": [
+        {
+          "name": "Baščaršija (Old Town)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The historic Old Town is generally safe during the day with visible police presence. Watch for pickpockets in crowds and tourist-targeted scams by vendors."
+        },
+        {
+          "name": "Marijin Dvor",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The business and commercial district is well-maintained and safe both day and night on main streets with good lighting and regular foot traffic."
+        },
+        {
+          "name": "Ilidža",
+          "score": 6.8,
+          "class": "safe",
+          "description": "A quieter residential area with thermal springs. Generally safe but less crowded at night. Take normal precautions and use well-lit streets."
+        },
+        {
+          "name": "Grbavica",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Despite being considered dangerous by some, crime is actually minimal. Exercise normal caution and avoid isolated areas at night."
+        },
+        {
+          "name": "Novo Sarajevo",
+          "score": 6.5,
+          "class": "safe",
+          "description": "Modern residential and business area that is generally safe. Good transport connections but be cautious of pickpockets on public transport."
+        },
+        {
+          "name": "Alipašino Polje",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Working-class area that tourists typically avoid. More petty crime and less tourist infrastructure. Better to stay in central areas unless with local guides."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Taxi drivers may tamper with meters, refuse to use meters, or give incorrect change including worthless Serbian dinars instead of Bosnian marks.",
+          "howToAvoid": "Always ensure the meter is running, agree on fares beforehand for longer trips, use licensed taxi companies or ride-hailing apps, and verify your change is in Bosnian marks (BAM)."
+        },
+        {
+          "name": "Bar and Club Overcharging",
+          "risk": "medium",
+          "description": "Some establishments may significantly overcharge tourists for drinks or add unexpected fees to bills, especially in tourist areas.",
+          "howToAvoid": "Check menu prices before ordering, ask for itemized bills, avoid establishments that seem too eager to attract customers, and be cautious about drink spiking in strip clubs."
+        },
+        {
+          "name": "Beggar Distraction Theft",
+          "risk": "medium",
+          "description": "Beggars, often Roma children or adults, approach tourists as a distraction while accomplices pickpocket wallets and valuables.",
+          "howToAvoid": "Keep valuables secure and out of sight, be aware of your surroundings when approached by beggars, don't carry large amounts of cash, and keep bags zipped and in front of your body."
+        },
+        {
+          "name": "Street Vendor Overpricing",
+          "risk": "low",
+          "description": "Street vendors may quote inflated prices for souvenirs or food items, especially targeting obvious tourists.",
+          "howToAvoid": "Compare prices at multiple vendors, negotiate politely, learn basic local phrases for numbers, and shop at established stores for important purchases."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Sarajevo is considered very safe for solo female travelers with many women reporting feeling comfortable walking alone during the day and even at night in well-lit areas. Local women commonly walk alone at night, and the culture is generally respectful toward female visitors. The main concerns are the same as for all travelers - petty crime and pickpocketing rather than gender-specific threats.",
+        "tips": [
+          "Use well-lit main streets when walking at night and avoid poorly lit residential areas",
+          "Dress modestly when visiting religious sites but normal Western clothing is acceptable elsewhere",
+          "Solo dining and cafe culture is completely normal - many locals eat and drink alone regularly",
+          "Be extra vigilant on crowded public transport where pickpockets are most active",
+          "Consider joining group pub crawls or finding local guides if you want to experience nightlife"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Sarajevo's nightlife areas are generally safe with a relaxed atmosphere where public drinking is accepted in designated areas. Most establishments welcome tourists and violent crime at night is rare. The main risks come from pickpocketing in crowded areas and potential overcharging at some bars or clubs. The city has a vibrant evening scene that locals and tourists safely enjoy.",
+        "tips": [
+          "Stick to well-populated and well-lit areas when walking at night",
+          "Use official taxis or ride-sharing apps rather than walking long distances after dark",
+          "Never leave drinks unattended and be cautious of drink spiking at some venues",
+          "Keep valuables secure and avoid showing large amounts of cash",
+          "Consider staying in central areas like Baščaršija or Marijin Dvor for easier access to nightlife"
+        ]
+      },
+      "transport": {
+        "metro": "Sarajevo does not have a metro system. The main public transport consists of trams, buses, and trolleybuses operated by GRAS.",
+        "rideshare": "Limited ride-sharing options exist with MojTaxi being the main local app. Uber and Bolt do not officially operate in Bosnia and Herzegovina.",
+        "taxis": "Taxis are widely available and affordable with fares starting at 1.5-2.5 BAM. Use licensed companies like Sarajevo Taxi (1515) or Red Taxi. Be cautious of overcharging and ensure meters are running.",
+        "tips": "Public transport is generally safe but watch for pickpockets, especially on crowded trams. Buy tickets from kiosks (1.60 BAM) rather than drivers (1.80 BAM) and validate tickets upon boarding. Transport operates from early morning until midnight."
+      },
+      "customs": [
+        "Dress conservatively when visiting religious sites - cover shoulders and knees in mosques, churches, and synagogues",
+        "Learn basic Bosnian phrases like 'Dobar dan' (Good day) and 'Hvala' (Thank you) as locals appreciate the effort",
+        "Coffee culture is central to social interaction - if invited for coffee, expect to spend time in conversation rather than just drinking",
+        "Avoid discussing politics, religion, or the 1990s war unless locals initiate the conversation",
+        "Bring small gifts when visiting someone's home for the first time - flowers, chocolates, or coffee are appropriate",
+        "Show respect for elders by offering your seat on public transport and using formal address",
+        "Remove shoes when entering someone's home and wait for the host to start eating before beginning your meal"
+      ],
+      "health": {
+        "overview": "Healthcare in Sarajevo has improved significantly with modern facilities like ACIBADEM Sarajevo and the Clinical Center University of Sarajevo (KCUS) providing quality care. Most doctors speak English in tourist areas and private facilities often have international standards.",
+        "water": "Tap water is generally safe to drink in Sarajevo. However, bottled water is widely available and recommended for sensitive stomachs or if you prefer the taste.",
+        "vaccinations": "No special vaccinations are required beyond routine immunizations. Ensure you're up to date with measles, mumps, rubella, and seasonal flu vaccines.",
+        "altitude": "Sarajevo sits at approximately 1,700 feet elevation which poses no altitude concerns. The climate has hot summers and cold winters with potential for snow from December to February."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "122",
+        "ambulance": "124",
+        "fire": "123",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Sarajevo: +387 33 704 000. Address: 1 Robert C. Frasure Street, 71000 Sarajevo. Emergency services for US citizens available 24/7."
+      },
+      "faq": [
+        {
+          "q": "Is Sarajevo safe for tourists?",
+          "a": "Yes, Sarajevo is generally safe for tourists. While the US State Department has a Level 2 advisory, this is mainly due to regional concerns like landmines in rural areas. The city itself has low violent crime rates and millions of visitors annually. Main concerns are petty crime like pickpocketing."
+        },
+        {
+          "q": "Is Sarajevo safe at night?",
+          "a": "Sarajevo is relatively safe at night in well-lit, populated areas. The nightlife scene is active and locals commonly walk around after dark. Stick to main streets, use official transportation, and take normal precautions against petty crime."
+        },
+        {
+          "q": "Is Sarajevo safe for solo female travelers?",
+          "a": "Yes, Sarajevo is very safe for solo female travelers. Many women report feeling comfortable walking alone both day and night. The culture is respectful toward women, and solo dining is completely normal. Just take standard precautions against pickpocketing."
+        },
+        {
+          "q": "What areas should I avoid in Sarajevo?",
+          "a": "Most central areas are safe, but exercise extra caution in peripheral neighborhoods like Alipašino Polje or upper Pofalići late at night. However, even areas sometimes labeled as 'dangerous' like Grbavica actually have minimal crime. Stay in tourist areas if you're unsure."
+        },
+        {
+          "q": "Is it safe to use public transport in Sarajevo?",
+          "a": "Yes, public transport is generally safe. The main risk is pickpocketing on crowded trams and buses, especially during rush hours. Keep valuables secure, be aware of your surroundings, and validate your tickets. Services run from early morning until midnight."
+        }
+      ],
+      "relatedCities": [
+        "zagreb",
+        "belgrade",
+        "dubrovnik"
+      ]
+    },
+    {
+      "slug": "mostar",
+      "name": "Mostar",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BA",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 6.9,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 7.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.0,
+        "naturalHazards": 6.8
+      },
+      "summary": "Mostar is generally considered safe for tourists with a low crime rate, friendly locals, and a welcoming atmosphere. The main safety concerns involve petty crime in tourist areas and the presence of unexploded landmines in rural areas from the 1990s conflict.",
+      "quickVerdict": "Mostar offers a relatively safe experience for visitors, with violent crime being rare and locals known for their genuine hospitality. The city has recovered well from its wartime past and maintains good police presence in tourist areas. While petty crimes like pickpocketing can occur in crowded tourist zones, most visitors have positive experiences. Solo female travelers find Mostar particularly welcoming, and the nightlife scene is considered safe with a relaxed atmosphere.",
+      "neighborhoods": [
+        {
+          "name": "Old Town (Stari Most area)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic heart of Mostar centered around the famous bridge. Well-patrolled by police, busy with tourists and locals, and generally very safe. Some minor pickpocketing risk in crowded areas."
+        },
+        {
+          "name": "City Center",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern commercial district with shops, restaurants, and hotels. Good lighting, regular police patrols, and safe for walking day and night. Popular with both locals and tourists."
+        },
+        {
+          "name": "West Mostar",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Predominantly Croat area with good infrastructure, cafes, and nightlife. Generally safe but can be quieter at night. Some areas may have ethnic tensions but tourists rarely experience issues."
+        },
+        {
+          "name": "East Mostar",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Predominantly Bosniak area that's safe during the day but can be less well-lit at night. Local communities are welcoming to tourists but some areas may appear run-down."
+        },
+        {
+          "name": "Rondo Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Commercial and transport hub with the bus station. Generally safe but can be crowded with some opportunistic crime. Exercise normal caution, especially with luggage and valuables."
+        },
+        {
+          "name": "Rural Outskirts",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Areas outside the city proper may still contain unexploded landmines from the 1990s conflict. Stick to marked paths and roads, and never venture into abandoned buildings or off-trail areas without local guidance."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Meter Manipulation",
+          "risk": "medium",
+          "description": "Taxi drivers may claim broken meters or run them faster than normal, especially at tourist areas and transport hubs.",
+          "howToAvoid": "Always ask for the meter to be turned on or agree on a fixed price beforehand. Ask your hotel about fair taxi rates and use reputable taxi companies."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "low",
+          "description": "Some tourist restaurants may add extra items to bills or charge inflated prices for simple dishes.",
+          "howToAvoid": "Check menus with prices before ordering, review bills carefully, and ask locals for restaurant recommendations away from main tourist areas."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "low",
+          "description": "Unofficial guides may approach tourists offering tours at inflated prices or lead to overpriced shops and restaurants.",
+          "howToAvoid": "Book tours through official agencies or your hotel. Ask for credentials and compare prices. Be wary of unsolicited approaches from street guides."
+        },
+        {
+          "name": "Currency Exchange Tricks",
+          "risk": "low",
+          "description": "Street money changers may offer good rates but use sleight of hand or counterfeit bills.",
+          "howToAvoid": "Only exchange money at banks, official exchange offices, or ATMs. Avoid street money changers entirely, even if they claim to work for nearby exchanges."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Mostar is considered very safe for solo female travelers, with a low crime rate and locals known for their hospitality and respect toward women. The city has a relaxed atmosphere, and violent crime is rare. Most female travelers report feeling comfortable walking around both day and night in tourist areas. The local culture is generally respectful, and harassment is uncommon.",
+        "tips": [
+          "Dress modestly when visiting mosques or religious sites, covering shoulders and knees",
+          "Stay in well-reviewed accommodations in central areas like the Old Town or city center",
+          "Trust your instincts - if something feels off, remove yourself from the situation",
+          "Keep emergency contacts and hotel information easily accessible on your phone",
+          "Join other travelers for activities or use organized tours to meet people safely"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Mostar's nightlife is generally safe and relaxed, with most bars and restaurants staying open until midnight or later. The city transforms in the evening with a friendly atmosphere around the Old Bridge area and various neighborhoods. Police presence is adequate, and violent crime at night is rare. The local cafe and bar culture is welcoming to tourists.",
+        "tips": [
+          "Stick to well-lit main streets and tourist areas when walking at night",
+          "Avoid excessive alcohol consumption and keep your wits about you",
+          "Use official taxis or arrange transportation through your hotel for late-night travel",
+          "Travel in groups when possible and let someone know your evening plans",
+          "Be aware that some bars close early while others stay open until 5am"
+        ]
+      },
+      "transport": {
+        "metro": "Mostar does not have a metro system. The city is compact and walkable, with most attractions within walking distance of each other.",
+        "rideshare": "Uber and other international rideshare apps are not available in Mostar. Traditional taxis are the primary option for private transportation.",
+        "taxis": "Taxis are readily available and generally safe. Short rides within the city cost 5-10 BAM. Always ensure the meter is running or agree on a fixed price beforehand. Taxi stands are located near major attractions and transport hubs.",
+        "tips": "Local buses are affordable (1.5-2 BAM) but infrequent and routes may be confusing for tourists. Walking is often the best option in the compact Old Town area. For longer distances, taxis offer convenience and safety."
+      },
+      "customs": [
+        "Bring small gifts like flowers, coffee, or chocolates when visiting someone's home",
+        "Remove shoes when entering homes and dress modestly when visiting religious sites",
+        "Coffee culture is central - expect long conversations over Turkish coffee and take time to enjoy the ritual",
+        "Show respect for all religious practices as the country has Muslim, Orthodox, and Catholic communities",
+        "Avoid discussing the 1990s war, politics, or ethnic tensions unless locals bring up the topic first"
+      ],
+      "health": {
+        "overview": "Mostar has adequate healthcare facilities for basic needs, though serious medical issues may require travel to Sarajevo. The city has several pharmacies, medical clinics, and a main hospital. Air quality is generally good, though can be affected by seasonal conditions.",
+        "water": "Tap water is generally safe to drink in Mostar, though some visitors prefer bottled water. Local restaurants and cafes serve safe water and ice.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Consider hepatitis A and B if staying long-term or engaging in adventure activities.",
+        "altitude": "Mostar sits at low altitude with a Mediterranean climate. Summers can be hot (30°C+) so stay hydrated. Winters are mild but can be rainy."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "122",
+        "ambulance": "124",
+        "fire": "123",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Sarajevo: +387 33 704 000 (about 2 hours from Mostar). The embassy provides consular services for American citizens throughout Bosnia and Herzegovina."
+      },
+      "faq": [
+        {
+          "q": "Is Mostar safe for tourists?",
+          "a": "Yes, Mostar is generally very safe for tourists. The city has a low crime rate, friendly locals, and good police presence in tourist areas. Most visitors have positive experiences with local hospitality being a highlight."
+        },
+        {
+          "q": "Is Mostar safe at night?",
+          "a": "Mostar is considered safe at night, especially in the Old Town and city center areas. The nightlife scene is relaxed and welcoming. However, stick to well-lit streets and main tourist areas, and use taxis for longer distances."
+        },
+        {
+          "q": "Is Mostar safe for solo female travelers?",
+          "a": "Yes, Mostar is very safe for solo female travelers. The city is known for its respectful culture and low harassment rates. Many solo women report feeling comfortable and welcomed by locals throughout their stay."
+        },
+        {
+          "q": "What areas should I avoid in Mostar?",
+          "a": "Avoid rural areas outside the city where unexploded landmines from the 1990s conflict may still exist. Stick to marked paths and roads. Within the city, all neighborhoods are generally safe, though some outer areas may be less well-lit at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Mostar?",
+          "a": "Public buses are safe but infrequent and can be confusing for tourists. Taxis are the recommended transport option - they're safe, affordable, and convenient. Walking is best for the compact Old Town area."
+        }
+      ],
+      "relatedCities": [
+        "sarajevo",
+        "dubrovnik",
+        "split",
+        "belgrade"
+      ]
+    },
+    {
+      "slug": "kotor",
+      "name": "Kotor",
+      "country": "Montenegro",
+      "countryCode": "ME",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 8.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 9.0,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 8.0,
+        "transport": 7.5,
+        "naturalHazards": 8.5
+      },
+      "summary": "Kotor is one of Europe's safest destinations, consistently ranking among the top for security and low crime rates. The medieval coastal city offers a remarkably peaceful environment where violent crime is extremely rare and tourists can explore confidently.",
+      "quickVerdict": "Kotor stands out as an exceptionally safe destination for travelers, with crime rates significantly lower than most European tourist hotspots. The historic walled city maintains excellent security through visible police presence and community vigilance. While minor petty crime can occur during peak summer months when cruise ships visit, incidents are infrequent compared to destinations like Rome or Barcelona. Solo female travelers consistently report feeling secure day and night, and the welcoming local culture creates an atmosphere of trust and hospitality.",
+      "neighborhoods": [
+        {
+          "name": "Kotor Old Town",
+          "score": 8.5,
+          "class": "safe",
+          "description": "UNESCO World Heritage site with excellent police presence and well-lit medieval streets. Peak season brings cruise crowds but security remains strong."
+        },
+        {
+          "name": "Dobrota",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Peaceful waterfront neighborhood with luxury villas and restaurants on piers. Extremely safe residential area favored by families and expatriates."
+        },
+        {
+          "name": "Perast",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Charming baroque village with minimal crime and strong community atmosphere. Perfect for quiet exploration and completely safe for solo travelers."
+        },
+        {
+          "name": "Kotor Marina Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern port area with good security but some taxi overcharging issues. Generally safe though watch for unlicensed transport operators."
+        },
+        {
+          "name": "Kotor Fortress Trail",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Popular hiking trail with stunning views but requires caution on steep uneven steps. Safe during daylight hours with proper footwear and preparation."
+        },
+        {
+          "name": "Suburban Kotor",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Quiet residential areas surrounding the old town with excellent safety records. Well-maintained roads though some narrow mountain access routes."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Unlicensed Taxi Overcharging",
+          "risk": "high",
+          "description": "Airport and port taxis using rigged meters or refusing to use meters, particularly targeting tourists arriving on cruise ships or flights.",
+          "howToAvoid": "Use only official taxi companies, agree on fare beforehand, or book transfers in advance through reputable services."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "medium",
+          "description": "Some tourist-area restaurants add extra charges or overcharge for items not ordered, especially during peak season.",
+          "howToAvoid": "Check bills carefully, ask for itemized receipts, and research restaurant reviews before dining in heavily touristed areas."
+        },
+        {
+          "name": "Fake Tour Discount Vouchers",
+          "risk": "medium",
+          "description": "Street vendors selling heavily discounted tours that turn out to have poor service, mixed language groups, or hidden fees.",
+          "howToAvoid": "Book tours through established platforms like GetYourGuide or verified local operators rather than street vendors offering massive discounts."
+        },
+        {
+          "name": "Parking Fee Scam",
+          "risk": "low",
+          "description": "Unofficial individuals charging parking fees in free public lots or demanding payment for street parking in non-regulated areas.",
+          "howToAvoid": "Verify parking requirements with official signage or ask at nearby businesses. Use official parking garages when in doubt."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Montenegro ranks as one of the safest countries in Europe for solo female travelers, with Kotor being particularly welcoming. Women consistently report feeling secure exploring the medieval streets day and night. The local culture is respectful with minimal catcalling or harassment, and the compact Old Town layout makes navigation simple and safe.",
+        "tips": [
+          "Stick to well-lit main streets when walking alone at night, though the Old Town is generally very safe",
+          "Use registered taxi services and agree on fares beforehand to avoid overcharging scams",
+          "Dress modestly when visiting religious sites and be aware that rural areas are more conservative",
+          "Stay aware in nightlife areas, particularly in neighboring Budva where party scenes can get rowdy",
+          "Connect with other travelers through hostels or tours for mountain hiking activities"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Kotor enjoys excellent night safety with well-lit medieval streets and regular police patrols throughout the Old Town. The compact walled city creates natural security boundaries, and violent crime at night is virtually non-existent. Most restaurants and bars operate until late with a peaceful atmosphere maintained.",
+        "tips": [
+          "The Old Town is safe for evening walks but avoid poorly lit side alleys late at night",
+          "Use official taxis for transportation outside the Old Town after dark",
+          "Keep drinks monitored and stay with trusted companions in bar areas",
+          "Be cautious during major cruise ship arrivals when crowds and activity levels peak",
+          "Emergency services and police are easily accessible throughout the historic center"
+        ]
+      },
+      "transport": {
+        "metro": "Kotor has no metro system. The historic Old Town is compact and walkable within 10 minutes end-to-end.",
+        "rideshare": "Uber and Bolt are not available. Local ride-sharing apps exist but have limited coverage compared to traditional taxis.",
+        "taxis": "Official taxi services are available but watch for overcharging scams. Meters should be used or fares agreed upon beforehand. Airport transfers are often more expensive than pre-booked options.",
+        "tips": "Walking is the best way to explore Kotor's Old Town. For longer distances, use buses which are affordable and safe, or book transfers through reputable companies rather than hailing random taxis."
+      },
+      "customs": [
+        "Greet with firm handshakes and maintain eye contact. Close friends exchange three kisses on alternating cheeks",
+        "Montenegrins prize hospitality - it's common to be invited for coffee, rakija, or meals even by casual acquaintances",
+        "Respect Orthodox traditions when visiting churches. Dress modestly covering shoulders and knees, remove hats",
+        "Family and elder respect is paramount. Allow elders to enter rooms first and defer to them in conversations",
+        "Environmental protection is constitutionally mandated - always dispose of litter properly and stick to marked trails"
+      ],
+      "health": {
+        "overview": "Montenegro has a developing healthcare system with basic public services and improving private facilities. Urban coastal areas like Kotor have better access to medical care than rural regions.",
+        "water": "Tap water is generally safe in Kotor as it comes from mountain springs, though some tourists may experience minor stomach adjustments due to mineral content differences. Bottled water is widely available.",
+        "vaccinations": "No special vaccinations required for Montenegro. Routine vaccinations like MMR, DPT, and seasonal flu are recommended. EU citizens can use EHIC cards for temporary stays.",
+        "altitude": "Kotor sits at sea level with no altitude concerns. Mediterranean climate with hot dry summers and mild winters. Summer temperatures can reach 30°C+ requiring sun protection and hydration."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "122",
+        "ambulance": "124",
+        "fire": "123",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Podgorica - Dzona Dzeksona 2, 81000 Podgorica, +382 20 410 500. Emergency contact for US citizens: +1-202-501-4444 (from abroad) or +1-888-407-4747 (from US/Canada)."
+      },
+      "faq": [
+        {
+          "q": "Is Kotor safe for tourists?",
+          "a": "Yes, Kotor is exceptionally safe for tourists with crime rates among the lowest in Europe. The medieval Old Town has excellent police presence and violent crime is virtually non-existent."
+        },
+        {
+          "q": "Is Kotor safe at night?",
+          "a": "Kotor is very safe at night within the well-lit Old Town area. The historic center maintains good visibility and regular security patrols, though it's wise to avoid poorly lit side alleys very late at night."
+        },
+        {
+          "q": "Is Kotor safe for solo female travelers?",
+          "a": "Montenegro ranks as one of Europe's safest countries for solo female travelers. Kotor specifically has very low harassment rates, respectful locals, and excellent walkability for independent exploration."
+        },
+        {
+          "q": "What areas should I avoid in Kotor?",
+          "a": "There are no major areas to avoid in Kotor. Exercise normal caution in crowded areas during cruise ship arrivals and be wary of unlicensed taxi operators at the port and marina areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Kotor?",
+          "a": "Yes, local buses are safe and reliable. The Old Town is completely walkable, so public transport is mainly needed for longer trips. Use official taxis and agree on fares beforehand to avoid overcharging."
+        }
+      ],
+      "relatedCities": [
+        "dubrovnik",
+        "split",
+        "sarajevo"
+      ]
+    },
+    {
+      "slug": "budva",
+      "name": "Budva",
+      "country": "Montenegro",
+      "countryCode": "ME",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 7.2,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 7.5,
+        "nightSafety": 6.5,
+        "transport": 7.0,
+        "naturalHazards": 8.5
+      },
+      "summary": "Budva is Montenegro's popular coastal resort city, known for its beautiful beaches, vibrant nightlife, and historic Old Town. While generally safe for tourists, the city experiences increased petty crime during peak summer season due to large crowds, particularly in beach areas and nightlife districts.",
+      "quickVerdict": "Budva is a generally safe destination for tourists with low violent crime rates and a strong police presence during summer months. The main safety concerns involve petty theft like pickpocketing in crowded areas, overcharging by taxi drivers, and alcohol-related incidents in the nightlife scene. Solo female travelers report feeling secure, though extra caution is advised during late-night partying. The city's popularity as Montenegro's party capital means summer brings both excitement and increased risks that can be easily managed with basic precautions.",
+      "neighborhoods": [
+        {
+          "name": "Old Town Budva",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The historic walled city center with stone walls, charming restaurants, and cultural sites. Well-patrolled and generally safe, though can get crowded with tourists. Watch for pickpockets in narrow streets during peak season."
+        },
+        {
+          "name": "Budva Riviera Beach Areas",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Popular beaches including Slovenska Plaza and Mogren Beach. Generally safe during the day with lifeguards present at major beaches. Keep valuables secure and avoid leaving items unattended on the beach."
+        },
+        {
+          "name": "Budva Promenade",
+          "score": 6.5,
+          "class": "caution",
+          "description": "The waterfront area with restaurants, bars, and clubs. Safe during the day but can become crowded and chaotic at night, especially in summer. Increased risk of alcohol-related incidents and petty theft after dark."
+        },
+        {
+          "name": "Becici",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale resort area just outside Budva with luxury hotels and quieter beaches. Very safe and family-friendly with good infrastructure. Less crowded than central Budva."
+        },
+        {
+          "name": "Central Commercial Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Shopping and business district around the bus station. Generally safe but watch for taxi scams and overcharging near transport hubs. Can be busy and chaotic during peak season."
+        },
+        {
+          "name": "Outlying Residential Areas",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Quieter residential neighborhoods away from the tourist center. Generally very safe with friendly locals, though public lighting may be limited at night. Good for experiencing local life away from crowds."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some taxi drivers charge excessive fares to tourists, especially from airports or popular destinations. They may claim meters are broken or quote inflated fixed prices.",
+          "howToAvoid": "Use official taxi companies like Happy Taxi or Plus Taxi in Budva. Always ask for the price upfront and insist on using the meter. Consider booking taxis through your hotel or accommodation."
+        },
+        {
+          "name": "ATM Helper Scam",
+          "risk": "medium",
+          "description": "Scammers approach tourists at ATMs offering to help avoid bank fees or fix card problems, then use card skimmers to steal banking information while watching PIN entry.",
+          "howToAvoid": "Never accept help from strangers at ATMs. Cover your PIN when entering it and refuse any assistance. Use ATMs inside banks or hotels when possible."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "medium",
+          "description": "Some restaurants in tourist areas add hidden charges or inflated prices for items not clearly listed on menus, particularly during peak season.",
+          "howToAvoid": "Always check menu prices before ordering and ask for clarification on any charges. Review the bill carefully before paying and question any unexpected items."
+        },
+        {
+          "name": "Fake Photo Service",
+          "risk": "low",
+          "description": "Locals ask tourists to take their photo then deliberately drop the camera, demanding payment for damage. This creates pressure to pay for supposedly broken equipment.",
+          "howToAvoid": "Politely decline requests to take photos for strangers unless you're completely certain they're genuine tourists. If you do help, be extremely careful handling their camera."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Budva is generally very safe for solo female travelers, with low rates of harassment and violent crime. The city has a strong police presence during summer months, and locals are generally respectful. However, extra caution is advised in nightlife areas during peak season when the party scene can become rowdy.",
+        "tips": [
+          "Stay in well-reviewed accommodations in the Old Town or Becici area rather than near the main nightlife strip",
+          "Avoid walking alone late at night in poorly lit areas, especially after midnight when alcohol-related incidents increase",
+          "Trust your instincts and leave bars or clubs that feel chaotic or give you uncomfortable vibes",
+          "Use official taxi services or arrange transportation through your hotel when returning late at night",
+          "Keep drinks covered and never leave them unattended in bars and clubs"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety in Budva is generally good, though the city's reputation as Montenegro's party capital means increased activity and alcohol-related incidents during summer months. The Old Town and main tourist areas are well-lit and patrolled, but the nightlife strip can become chaotic after midnight.",
+        "tips": [
+          "Stick to well-lit, populated streets when walking at night",
+          "Pre-plan your route home and consider arranging transportation in advance",
+          "Avoid excessive drinking and stay aware of your surroundings in crowded bars and clubs",
+          "Travel in groups when possible, especially during peak summer season",
+          "Keep emergency numbers saved and ensure your phone is charged"
+        ]
+      },
+      "transport": {
+        "metro": "Budva does not have metro or tram systems. Public transportation consists mainly of local buses connecting to nearby towns and beaches.",
+        "rideshare": "Uber and Bolt do not operate in Montenegro. Local taxi apps include Tesla Taxi (mainly Podgorica) and traditional taxi companies.",
+        "taxis": "Official taxi companies like Happy Taxi and Plus Taxi are reliable and safe. Watch for unofficial taxis that may overcharge tourists, especially near transport hubs.",
+        "tips": "Public buses are safe and affordable but can be crowded during summer. Always use licensed taxi services and ask for prices upfront to avoid overcharging."
+      },
+      "customs": [
+        "Montenegrins value hospitality and may invite visitors for coffee or rakija - accepting these invitations is considered polite",
+        "Greet people with a firm handshake and maintain eye contact; close friends may kiss three times on alternating cheeks",
+        "Dress modestly when visiting churches and religious sites - cover shoulders and avoid shorts",
+        "Tipping 10% is customary in restaurants; round up taxi fares as a small tip",
+        "Learning basic phrases like 'Zdravo' (Hello) and 'Hvala' (Thank you) is greatly appreciated by locals"
+      ],
+      "health": {
+        "overview": "Healthcare in Budva includes both public facilities and modern private clinics that cater to tourists and international visitors. The public system may have longer wait times, while private clinics offer faster service with English-speaking staff.",
+        "water": "Tap water is generally safe to drink in Budva and meets EU safety standards. Bottled water is widely available and inexpensive for those who prefer it.",
+        "vaccinations": "No special vaccinations are required for Montenegro. Standard travel immunizations like hepatitis A/B and tetanus are recommended.",
+        "altitude": "Budva is at sea level with a Mediterranean climate. Summer temperatures can be very hot, so sun protection and hydration are important. Air conditioning is common in accommodations."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "122",
+        "ambulance": "124",
+        "fire": "123",
+        "touristPolice": "033 403 876 (Budva Municipal Police)",
+        "usEmbassy": "US Embassy Podgorica: +382 20 410 500. Address: Dzona Dzeksona 2, 81000 Podgorica. For emergencies outside business hours, US citizens can call +1-202-501-4444."
+      },
+      "faq": [
+        {
+          "q": "Is Budva safe for tourists?",
+          "a": "Yes, Budva is generally very safe for tourists. Montenegro has low violent crime rates, and the city maintains a strong police presence during tourist season. The main concerns are petty theft in crowded areas and potential overcharging by some service providers."
+        },
+        {
+          "q": "Is Budva safe at night?",
+          "a": "Budva is relatively safe at night, especially in well-lit tourist areas and the Old Town. However, the nightlife areas can become chaotic after midnight during summer, so visitors should stay alert and avoid excessive drinking while partying."
+        },
+        {
+          "q": "Is Budva safe for solo female travelers?",
+          "a": "Yes, solo female travelers generally feel very safe in Budva. Harassment is uncommon, and locals are respectful. However, extra caution is advised in nightlife areas during peak season, and it's recommended to stay in well-reviewed accommodations."
+        },
+        {
+          "q": "What areas should I avoid in Budva?",
+          "a": "There are no particularly dangerous areas in Budva, but exercise extra caution around the main nightlife strip late at night during summer when crowds and alcohol consumption peak. Also be careful around transport hubs where taxi scams are more common."
+        },
+        {
+          "q": "Is it safe to use public transport in Budva?",
+          "a": "Yes, public transportation in Budva is safe and reliable. Local buses connecting to nearby towns and beaches are well-maintained and affordable. For taxis, stick to official companies like Happy Taxi or Plus Taxi to avoid overcharging."
+        }
+      ],
+      "relatedCities": [
+        "kotor",
+        "podgorica",
+        "bar",
+        "herceg-novi",
+        "tivat",
+        "dubrovnik"
+      ]
+    },
+    {
+      "slug": "skopje",
+      "name": "Skopje",
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-12",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 7.5,
+        "scamRisk": 5.5,
+        "womensSafety": 7.0,
+        "nightSafety": 6.5,
+        "transport": 7.2,
+        "naturalHazards": 8.2
+      },
+      "summary": "Skopje is a relatively safe European capital with moderate petty crime levels and excellent violent crime rates. The city faces challenges with tourist scams, particularly taxi overcharging, but maintains a generally welcoming environment for international visitors.",
+      "quickVerdict": "Skopje offers a generally safe environment for tourists with North Macedonia receiving a Level 1 US State Department travel advisory to exercise normal caution. While petty crime like pickpocketing exists, particularly in tourist areas and public transport, violent crime rates remain low. The main safety concerns involve taxi scams and occasional instances of corruption. Solo female travelers report feeling safe in most areas during the day, though caution is advised at night in less populated areas.",
+      "neighborhoods": [
+        {
+          "name": "City Center / Macedonia Square",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Well-lit tourist hub with heavy foot traffic and police presence. Safe day and night with plenty of attractions, restaurants and shopping."
+        },
+        {
+          "name": "Debar Maalo",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Bohemian nightlife district with cafes, bars and restaurants. Popular with locals and tourists, generally safe for evening entertainment with good English levels."
+        },
+        {
+          "name": "Old Bazaar",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Historic Ottoman district safe during daytime but empties after 6-7 PM. Locals avoid it at night due to poor lighting and isolation."
+        },
+        {
+          "name": "Chair",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Working-class neighborhood with higher crime rates. Visitors should avoid displaying valuables and exercise extra caution, particularly at night."
+        },
+        {
+          "name": "Karpos",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Residential area with parks and local amenities. Generally safe but lacks tourist infrastructure and can be quiet in the evenings."
+        },
+        {
+          "name": "Aerodrom",
+          "score": 7.3,
+          "class": "safe",
+          "description": "Modern residential district near the airport. Safe but primarily residential with limited tourist attractions or nightlife options."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Most common scam involving inflated fares, broken meters, or longer routes to increase costs. Some drivers refuse to use meters for tourists.",
+          "howToAvoid": "Always insist on the meter, negotiate price beforehand, use rideshare apps like BeeRide or Wizi, or call licensed taxi companies directly."
+        },
+        {
+          "name": "Fake Ticket Inspectors",
+          "risk": "medium",
+          "description": "People posing as public transport inspectors demand fines for invalid tickets, targeting confused tourists unfamiliar with the system.",
+          "howToAvoid": "Real inspectors allow later payment while fakes demand immediate cash. Ask for official ID and contact the transport company to verify."
+        },
+        {
+          "name": "ATM Helper Scam",
+          "risk": "medium",
+          "description": "Individuals approach tourists at ATMs offering help with fees or technical issues while attempting to skim cards or observe PIN numbers.",
+          "howToAvoid": "Refuse help at ATMs, cover your PIN entry, use machines in well-lit areas, and preferably inside banks or hotels."
+        },
+        {
+          "name": "Friendly Strangers Bar Scam",
+          "risk": "low",
+          "description": "Attractive locals invite tourists to specific bars where drink prices are inflated 5-10 times normal rates, with security enforcing payment.",
+          "howToAvoid": "Suggest your own venue choice, ask to see drink menus with prices, be wary of overly friendly strangers, and trust your instincts."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Skopje is generally safe for solo female travelers with a 4.1 out of 5 safety rating. The city center and popular areas like Debar Maalo remain busy and well-lit in the evenings. Most locals are friendly and helpful, with younger people speaking English. However, the city is more conservative than Western Europe, so modest dress is recommended, especially around religious sites.",
+        "tips": [
+          "Stay in central areas like Debar Maalo or near Macedonia Square for better safety and convenience",
+          "Avoid walking alone in poorly lit areas after midnight, particularly along the river away from main bridges",
+          "Dress modestly covering shoulders and knees, especially in the Old Bazaar and religious sites",
+          "Use official taxis or rideshare apps rather than accepting rides from strangers",
+          "The Old Bazaar should be avoided after 6-7 PM when it becomes deserted"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Skopje's nightlife is concentrated in safe areas like Debar Maalo and the city center, with venues staying open late and good taxi availability. The city scores moderately for night safety with 60 out of 100 people feeling secure during nighttime hours. Well-lit tourist areas remain safe, but isolated areas should be avoided.",
+        "tips": [
+          "Stick to well-lit, busy areas like Debar Maalo and Macedonia Square for nightlife",
+          "Use licensed taxis for late-night transportation rather than walking long distances",
+          "Avoid the Old Bazaar after dark as it becomes deserted and poorly lit",
+          "Stay aware of your surroundings and keep valuables secure in crowded venues",
+          "Travel in groups when possible and inform someone of your plans"
+        ]
+      },
+      "transport": {
+        "metro": "Skopje has no metro system. The city relies on buses and personal vehicles for public transportation.",
+        "rideshare": "BeeRide (electric vehicles) and Wizi (formerly Cammeo) operate in Skopje, offering app-based rides with card payments. These provide safer alternatives to street taxis with upfront pricing.",
+        "taxis": "Taxis are cheap and widely available but taxi scams are common. Official taxis are white and yellow with registration numbers. Starting fare is 50-60 denars plus 20 denars per kilometer. Always insist on using the meter.",
+        "tips": "Public buses require a Skopska Kartica card (no cash accepted) and run 24/7. For safety, use official taxi companies or rideshare apps rather than street taxis, especially near tourist areas where overcharging is common."
+      },
+      "customs": [
+        "Greet with a firm handshake and direct eye contact; close friends may exchange three kisses on the cheek starting from the right",
+        "Remove shoes before entering someone's home and expect to be offered coffee or tea as a gesture of hospitality",
+        "When giving flowers, ensure an odd number of blooms; even numbers are associated with funerals and mourning",
+        "Meals are social events lasting 2+ hours; wait for the host to begin eating and finish everything on your plate as a sign of respect",
+        "Business punctuality is important, but social gatherings have more flexible timing; being slightly late to parties is acceptable"
+      ],
+      "health": {
+        "overview": "North Macedonia has a developing healthcare system with quality varying between urban and rural areas. Private healthcare options are available in Skopje with some internationally accredited facilities.",
+        "water": "Tap water is safe to drink in Skopje and other urban areas, but quality may vary in rural regions. Bottled water is widely available and recommended for sensitive travelers.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Ensure measles-mumps-rubella (MMR) vaccine is up to date as measles cases are rising globally.",
+        "altitude": "Skopje sits at 240 meters above sea level with a continental climate. Summers can be very hot (32-35°C) while winters drop to -9°C at night."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "192",
+        "ambulance": "194",
+        "fire": "193",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Skopje: +389 2 310-2000, Emergency: +389 70-41-5550, Address: Samoilova 21, 1000 Skopje"
+      },
+      "faq": [
+        {
+          "q": "Is Skopje safe for tourists?",
+          "a": "Yes, Skopje is generally safe for tourists with North Macedonia receiving a Level 1 US travel advisory. Main concerns are petty crime like pickpocketing and taxi scams rather than serious violent crime."
+        },
+        {
+          "q": "Is Skopje safe at night?",
+          "a": "Skopje is moderately safe at night in well-lit tourist areas like Macedonia Square and Debar Maalo. However, avoid poorly lit areas, the Old Bazaar after 7 PM, and isolated sections along the river."
+        },
+        {
+          "q": "Is Skopje safe for solo female travelers?",
+          "a": "Yes, with a 4.1/5 safety rating for solo women. The city center and popular neighborhoods are safe, though modest dress is recommended due to conservative local attitudes. Avoid walking alone late at night in deserted areas."
+        },
+        {
+          "q": "What areas should I avoid in Skopje?",
+          "a": "Avoid the Chair neighborhood, the Old Bazaar after sunset, and poorly lit sections along the Vardar River at night. The area between Blvd Krste Petkov Misirkov and Belasitsa is also best avoided."
+        },
+        {
+          "q": "Is it safe to use public transport in Skopje?",
+          "a": "Public buses are generally safe but pickpocketing can occur, especially at night and terminal stations. Taxis are widely available but beware of overcharging scams. Use official companies or rideshare apps for better safety."
+        }
+      ],
+      "relatedCities": [
+        "belgrade",
+        "sofia",
+        "pristina"
+      ]
     }
   ]
 }

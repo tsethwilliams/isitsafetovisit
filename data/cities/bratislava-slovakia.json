@@ -1,0 +1,161 @@
+{
+  "slug": "bratislava",
+  "name": "Bratislava",
+  "country": "Slovakia",
+  "countryCode": "SK",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 8.7
+  },
+  "summary": "Bratislava is one of Europe's safest capital cities with very low crime rates and minimal violent crime. While petty theft and tourist-targeted scams exist, they occur far less frequently than in other major European destinations.",
+  "quickVerdict": "Bratislava offers excellent safety for tourists with crime rates significantly lower than neighboring capitals like Vienna or Prague. The US State Department rates Slovakia at Level 1 (Exercise Normal Precautions), and visitors consistently report feeling secure walking alone day or night. The main concerns are pickpockets in tourist areas and overcharging by unlicensed taxis, but violent crime is extremely rare.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Staré Mesto)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic center is very safe and well-patrolled with police cameras throughout. Main concern is pickpockets targeting tourists, especially during Christmas markets and around popular attractions like Bratislava Castle."
+    },
+    {
+      "name": "Petržalka",
+      "score": 6.8,
+      "class": "caution",
+      "description": "This large residential area across the Danube is generally safe but less touristy. Some areas can feel isolated at night, and it's better to use public transport rather than walking alone after dark in remote sections."
+    },
+    {
+      "name": "Ružinov",
+      "score": 7.5,
+      "class": "safe",
+      "description": "A mix of residential and commercial areas that's well-connected by public transport. Generally safe during the day with good lighting on main streets, though some quieter residential streets should be avoided late at night."
+    },
+    {
+      "name": "New Town (Nové Mesto)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern district with shopping centers and business areas. Well-lit and patrolled with regular police presence. Safe for tourists but less atmospheric than Old Town, with standard urban precautions recommended."
+    },
+    {
+      "name": "Karlova Ves",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area popular with diplomats and expats. Very safe with low crime rates, well-maintained streets, and good public transport connections. Ideal for accommodation outside the tourist center."
+    },
+    {
+      "name": "Devín",
+      "score": 4.2,
+      "class": "danger",
+      "description": "While home to historic Devín Castle, some areas of this district have higher crime rates and should be avoided, especially at night. Stick to well-lit tourist areas and use caution when exploring beyond the castle grounds."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers at the airport, train stations, and tourist areas charge inflated rates, sometimes 5-10 times the normal fare. They may not use meters or add fake surcharges.",
+      "howToAvoid": "Always use Uber, Bolt, or Hopin apps, or call a licensed taxi company. Never hail taxis on the street near tourist sites or transport hubs. Insist on the meter being used."
+    },
+    {
+      "name": "Bar Bill Scam",
+      "risk": "medium",
+      "description": "Attractive locals invite tourists to bars where they're presented with astronomical bills for drinks. Security staff may pressure victims to pay or escort them to ATMs if they refuse.",
+      "howToAvoid": "Be wary of strangers suggesting specific bars. Always check drink prices before ordering and ask to see the menu. Suggest meeting at a bar of your choice instead."
+    },
+    {
+      "name": "Pickpocketing Teams",
+      "risk": "medium",
+      "description": "Groups of thieves work together, with one creating a distraction while others steal wallets and phones. Common in crowded tourist areas, on public transport, and during events like Christmas markets.",
+      "howToAvoid": "Keep valuables in inside pockets or hidden pouches. Be alert to staged distractions like street performances or arguments. Don't carry all valuables in one place."
+    },
+    {
+      "name": "Fake Camera Damage",
+      "risk": "low",
+      "description": "Someone asks you to take their photo, then deliberately drops their camera and demands payment for the 'damage' you supposedly caused.",
+      "howToAvoid": "Be cautious when strangers ask you to handle their expensive equipment. Politely decline or suggest they ask someone else. If it happens, don't feel pressured to pay."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bratislava is exceptionally safe for solo female travelers with very low rates of harassment and violent crime. Women regularly walk alone at night in the city center without incident. The main precautions involve avoiding poorly lit areas after dark and being aware of drink spiking in some nightclub areas.",
+    "tips": [
+      "Stay in well-lit central areas at night, especially around Old Town",
+      "Be cautious of drinks in nightclubs - watch them being made and don't accept from strangers",
+      "The Old Town and main tourist areas have excellent police camera coverage"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bratislava is generally very safe at night with low crime rates and good street lighting in central areas. Many travelers report feeling comfortable walking alone after midnight in the Old Town. The main risks are drunk individuals outside bars and potential drink spiking in some nightclub venues.",
+    "tips": [
+      "Stick to main streets and well-lit areas in the city center",
+      "Avoid confrontations with intoxicated individuals outside bars and clubs",
+      "Use licensed taxis or ride-sharing apps rather than walking long distances alone at night"
+    ]
+  },
+  "transport": {
+    "metro": "Bratislava has no metro system. Public transport consists of buses, trams, and trolleybuses operating from 4:30 AM to 11:30 PM, with night services thereafter. The system is safe, reliable, and well-maintained with modern vehicles.",
+    "rideshare": "Uber, Bolt, and local app Hopin operate reliably throughout the city. These are recommended over street taxis as they provide transparent pricing and driver tracking. All three apps are widely used and trusted by locals and tourists.",
+    "taxis": "Licensed taxis are safe but more expensive when hailed on the street. Many unlicensed operators target tourists with inflated rates. Always insist on the meter being used or agree on a price beforehand. Avoid taxis near airports and tourist sites.",
+    "tips": "Public transport is the safest and cheapest option. Always validate tickets to avoid fines. For longer distances or late-night travel, use rideshare apps rather than street taxis."
+  },
+  "customs": [
+    "Remove shoes when entering Slovak homes - this is strictly observed",
+    "Greet with 'Dobrý deň' (Good day) and maintain eye contact during handshakes",
+    "Bring flowers when invited to dinner, but avoid chrysanthemums and purple ribbons (funeral flowers)",
+    "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+    "Table manners are formal - keep hands visible on the table and use Continental style (fork left, knife right)"
+  ],
+  "health": {
+    "overview": "Slovakia has excellent healthcare standards meeting EU requirements. Bratislava offers both public and private medical facilities with English-speaking staff. Medical tourism is growing due to high-quality, affordable care.",
+    "water": "Tap water is completely safe to drink throughout Bratislava and meets EU standards. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance is recommended for non-EU citizens as private healthcare can be expensive.",
+    "altitude": "Bratislava sits at low altitude (134m above sea level) with no altitude-related health concerns. The city has a temperate continental climate with warm summers and mild winters."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "158",
+    "ambulance": "155",
+    "fire": "150",
+    "touristPolice": "159 (City Police)",
+    "usEmbassy": "US Embassy Bratislava: +421-2-5922-3000 (emergencies), located at Hviezdoslavovo námestie 4, 811 02 Bratislava"
+  },
+  "faq": [
+    {
+      "q": "Is Bratislava safe for tourists?",
+      "a": "Yes, Bratislava is exceptionally safe for tourists with crime rates among the lowest in Europe. The US State Department rates Slovakia at Level 1 (Exercise Normal Precautions). Violent crime is extremely rare, and most incidents involve minor theft."
+    },
+    {
+      "q": "Is Bratislava safe at night?",
+      "a": "Bratislava is very safe at night, especially in the Old Town and central areas which are well-lit and have good police presence. Many locals and tourists walk alone after midnight without incident, though standard urban precautions are advised."
+    },
+    {
+      "q": "Is Bratislava safe for solo female travelers?",
+      "a": "Absolutely. Bratislava is considered one of Europe's safest capitals for solo female travelers. Women regularly explore the city alone day and night with minimal concerns beyond basic awareness of surroundings and drink safety in bars."
+    },
+    {
+      "q": "What areas should I avoid in Bratislava?",
+      "a": "Most of Bratislava is safe, but exercise extra caution in parts of Devín district and remote areas of Petržalka after dark. Also avoid unlicensed taxis at transport hubs and be cautious of overpriced bars suggested by strangers."
+    },
+    {
+      "q": "Is it safe to use public transport in Bratislava?",
+      "a": "Yes, Bratislava's public transport system (buses, trams, trolleybuses) is very safe, modern, and reliable. The main concern is ensuring you validate tickets to avoid fines. Night services operate safely until early morning."
+    }
+  ],
+  "relatedCities": [
+    "prague",
+    "vienna",
+    "budapest",
+    "warsaw",
+    "krakow"
+  ],
+  "_city_id": "bratislava-slovakia"
+}

@@ -1444,5 +1444,53 @@
     "action": "alert",
     "city_id": "cape_town_south_africa",
     "details": "{\"city_id\": \"cape_town_south_africa\", \"alert_type\": \"infrastructure\", \"severity\": \"medium\", \"summary\": \"Cape Town International Airport experienced fire incident causing flight disruptions and evacuations. Increased security concerns on secondary roads to/from airport. General high crime environment continues.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-12T23:00:18.007148+00:00",
+    "action": "add",
+    "city_id": "ljubljana-slovenia",
+    "details": "New city added with score 8.4"
+  },
+  {
+    "timestamp": "2026-03-12T23:01:53.378124+00:00",
+    "action": "add",
+    "city_id": "lake-bled-slovenia",
+    "details": "New city added with score 8.5"
+  },
+  {
+    "timestamp": "2026-03-12T23:03:17.268132+00:00",
+    "action": "add",
+    "city_id": "bratislava-slovakia",
+    "details": "New city added with score 7.7"
+  },
+  {
+    "timestamp": "2026-03-12T23:04:50.356137+00:00",
+    "action": "add",
+    "city_id": "sarajevo-bosnia-and-herzegovina",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-12T23:06:26.842676+00:00",
+    "action": "add",
+    "city_id": "mostar-bosnia-and-herzegovina",
+    "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-12T23:07:39.680513+00:00",
+    "action": "add",
+    "city_id": "kotor-montenegro",
+    "details": "New city added with score 8.0"
+  },
+  {
+    "timestamp": "2026-03-12T23:09:52.883948+00:00",
+    "action": "add",
+    "city_id": "budva-montenegro",
+    "details": "New city added with score 7.2"
+  },
+  {
+    "timestamp": "2026-03-12T23:11:13.125725+00:00",
+    "action": "add",
+    "city_id": "skopje-north-macedonia",
+    "details": "New city added with score 7.0"
   }
 ]

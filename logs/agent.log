@@ -940,3 +940,39 @@
 2026-03-12 19:55:54,628 [WARNING]   [medium] mexico_city_mexico: Recent security operations with roadblocks and explosions on highways connecting to Mexico City (Feb 22-23, 2026). Situation has since stabilized but travelers advised to exercise increased caution.
 2026-03-12 19:55:54,630 [WARNING]   [low] hanoi_vietnam: Vietnam preparing enhanced disaster response capabilities for 2026 typhoon season (June-November). Heavy flooding affected northern provinces including Hanoi in 2025, causing 409 deaths nationwide with $3.47 billion in damages.
 2026-03-12 19:55:54,631 [WARNING]   [medium] cape_town_south_africa: Cape Town International Airport experienced fire incident causing flight disruptions and evacuations. Increased security concerns on secondary roads to/from airport. General high crime environment continues.
+2026-03-12 22:58:19,721 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-12 22:58:19,763 [INFO] Queue has 215 cities, adding 8
+2026-03-12 22:58:19,763 [INFO] Generating new city profile: Ljubljana, Slovenia
+2026-03-12 23:00:17,939 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:00:18,006 [INFO] Saved city data: ljubljana-slovenia
+2026-03-12 23:00:18,008 [INFO] Generating new city profile: Lake Bled, Slovenia
+2026-03-12 23:01:53,333 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:01:53,377 [INFO] Saved city data: lake-bled-slovenia
+2026-03-12 23:01:53,379 [INFO] Generating new city profile: Bratislava, Slovakia
+2026-03-12 23:03:17,226 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:03:17,267 [INFO] Saved city data: bratislava-slovakia
+2026-03-12 23:03:17,269 [INFO] Generating new city profile: Sarajevo, Bosnia and Herzegovina
+2026-03-12 23:04:50,321 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:04:50,355 [INFO] Saved city data: sarajevo-bosnia-and-herzegovina
+2026-03-12 23:04:50,357 [INFO] Generating new city profile: Mostar, Bosnia and Herzegovina
+2026-03-12 23:06:26,805 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:06:26,842 [INFO] Saved city data: mostar-bosnia-and-herzegovina
+2026-03-12 23:06:26,844 [INFO] Generating new city profile: Kotor, Montenegro
+2026-03-12 23:07:39,642 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:07:39,679 [INFO] Saved city data: kotor-montenegro
+2026-03-12 23:07:39,681 [INFO] Generating new city profile: Budva, Montenegro
+2026-03-12 23:09:52,847 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:09:52,883 [INFO] Saved city data: budva-montenegro
+2026-03-12 23:09:52,886 [INFO] Generating new city profile: Skopje, North Macedonia
+2026-03-12 23:11:13,100 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 23:11:13,125 [INFO] Saved city data: skopje-north-macedonia
+2026-03-12 23:11:13,143 [INFO] Merged into site data: Ljubljana
+2026-03-12 23:11:13,143 [INFO] Merged into site data: Lake Bled
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Bratislava
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Sarajevo
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Mostar
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Kotor
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Budva
+2026-03-12 23:11:13,144 [INFO] Merged into site data: Skopje
+2026-03-12 23:11:13,177 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-12 23:11:13,178 [INFO] Updated sitemap with 8 new URLs

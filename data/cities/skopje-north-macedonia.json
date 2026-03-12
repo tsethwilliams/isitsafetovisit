@@ -1,0 +1,163 @@
+{
+  "slug": "skopje",
+  "name": "Skopje",
+  "country": "North Macedonia",
+  "countryCode": "MK",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.2,
+    "naturalHazards": 8.2
+  },
+  "summary": "Skopje is a relatively safe European capital with moderate petty crime levels and excellent violent crime rates. The city faces challenges with tourist scams, particularly taxi overcharging, but maintains a generally welcoming environment for international visitors.",
+  "quickVerdict": "Skopje offers a generally safe environment for tourists with North Macedonia receiving a Level 1 US State Department travel advisory to exercise normal caution. While petty crime like pickpocketing exists, particularly in tourist areas and public transport, violent crime rates remain low. The main safety concerns involve taxi scams and occasional instances of corruption. Solo female travelers report feeling safe in most areas during the day, though caution is advised at night in less populated areas.",
+  "neighborhoods": [
+    {
+      "name": "City Center / Macedonia Square",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Well-lit tourist hub with heavy foot traffic and police presence. Safe day and night with plenty of attractions, restaurants and shopping."
+    },
+    {
+      "name": "Debar Maalo",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Bohemian nightlife district with cafes, bars and restaurants. Popular with locals and tourists, generally safe for evening entertainment with good English levels."
+    },
+    {
+      "name": "Old Bazaar",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Historic Ottoman district safe during daytime but empties after 6-7 PM. Locals avoid it at night due to poor lighting and isolation."
+    },
+    {
+      "name": "Chair",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Working-class neighborhood with higher crime rates. Visitors should avoid displaying valuables and exercise extra caution, particularly at night."
+    },
+    {
+      "name": "Karpos",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area with parks and local amenities. Generally safe but lacks tourist infrastructure and can be quiet in the evenings."
+    },
+    {
+      "name": "Aerodrom",
+      "score": 7.3,
+      "class": "safe",
+      "description": "Modern residential district near the airport. Safe but primarily residential with limited tourist attractions or nightlife options."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Most common scam involving inflated fares, broken meters, or longer routes to increase costs. Some drivers refuse to use meters for tourists.",
+      "howToAvoid": "Always insist on the meter, negotiate price beforehand, use rideshare apps like BeeRide or Wizi, or call licensed taxi companies directly."
+    },
+    {
+      "name": "Fake Ticket Inspectors",
+      "risk": "medium",
+      "description": "People posing as public transport inspectors demand fines for invalid tickets, targeting confused tourists unfamiliar with the system.",
+      "howToAvoid": "Real inspectors allow later payment while fakes demand immediate cash. Ask for official ID and contact the transport company to verify."
+    },
+    {
+      "name": "ATM Helper Scam",
+      "risk": "medium",
+      "description": "Individuals approach tourists at ATMs offering help with fees or technical issues while attempting to skim cards or observe PIN numbers.",
+      "howToAvoid": "Refuse help at ATMs, cover your PIN entry, use machines in well-lit areas, and preferably inside banks or hotels."
+    },
+    {
+      "name": "Friendly Strangers Bar Scam",
+      "risk": "low",
+      "description": "Attractive locals invite tourists to specific bars where drink prices are inflated 5-10 times normal rates, with security enforcing payment.",
+      "howToAvoid": "Suggest your own venue choice, ask to see drink menus with prices, be wary of overly friendly strangers, and trust your instincts."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Skopje is generally safe for solo female travelers with a 4.1 out of 5 safety rating. The city center and popular areas like Debar Maalo remain busy and well-lit in the evenings. Most locals are friendly and helpful, with younger people speaking English. However, the city is more conservative than Western Europe, so modest dress is recommended, especially around religious sites.",
+    "tips": [
+      "Stay in central areas like Debar Maalo or near Macedonia Square for better safety and convenience",
+      "Avoid walking alone in poorly lit areas after midnight, particularly along the river away from main bridges",
+      "Dress modestly covering shoulders and knees, especially in the Old Bazaar and religious sites",
+      "Use official taxis or rideshare apps rather than accepting rides from strangers",
+      "The Old Bazaar should be avoided after 6-7 PM when it becomes deserted"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Skopje's nightlife is concentrated in safe areas like Debar Maalo and the city center, with venues staying open late and good taxi availability. The city scores moderately for night safety with 60 out of 100 people feeling secure during nighttime hours. Well-lit tourist areas remain safe, but isolated areas should be avoided.",
+    "tips": [
+      "Stick to well-lit, busy areas like Debar Maalo and Macedonia Square for nightlife",
+      "Use licensed taxis for late-night transportation rather than walking long distances",
+      "Avoid the Old Bazaar after dark as it becomes deserted and poorly lit",
+      "Stay aware of your surroundings and keep valuables secure in crowded venues",
+      "Travel in groups when possible and inform someone of your plans"
+    ]
+  },
+  "transport": {
+    "metro": "Skopje has no metro system. The city relies on buses and personal vehicles for public transportation.",
+    "rideshare": "BeeRide (electric vehicles) and Wizi (formerly Cammeo) operate in Skopje, offering app-based rides with card payments. These provide safer alternatives to street taxis with upfront pricing.",
+    "taxis": "Taxis are cheap and widely available but taxi scams are common. Official taxis are white and yellow with registration numbers. Starting fare is 50-60 denars plus 20 denars per kilometer. Always insist on using the meter.",
+    "tips": "Public buses require a Skopska Kartica card (no cash accepted) and run 24/7. For safety, use official taxi companies or rideshare apps rather than street taxis, especially near tourist areas where overcharging is common."
+  },
+  "customs": [
+    "Greet with a firm handshake and direct eye contact; close friends may exchange three kisses on the cheek starting from the right",
+    "Remove shoes before entering someone's home and expect to be offered coffee or tea as a gesture of hospitality",
+    "When giving flowers, ensure an odd number of blooms; even numbers are associated with funerals and mourning",
+    "Meals are social events lasting 2+ hours; wait for the host to begin eating and finish everything on your plate as a sign of respect",
+    "Business punctuality is important, but social gatherings have more flexible timing; being slightly late to parties is acceptable"
+  ],
+  "health": {
+    "overview": "North Macedonia has a developing healthcare system with quality varying between urban and rural areas. Private healthcare options are available in Skopje with some internationally accredited facilities.",
+    "water": "Tap water is safe to drink in Skopje and other urban areas, but quality may vary in rural regions. Bottled water is widely available and recommended for sensitive travelers.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Ensure measles-mumps-rubella (MMR) vaccine is up to date as measles cases are rising globally.",
+    "altitude": "Skopje sits at 240 meters above sea level with a continental climate. Summers can be very hot (32-35°C) while winters drop to -9°C at night."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "192",
+    "ambulance": "194",
+    "fire": "193",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Skopje: +389 2 310-2000, Emergency: +389 70-41-5550, Address: Samoilova 21, 1000 Skopje"
+  },
+  "faq": [
+    {
+      "q": "Is Skopje safe for tourists?",
+      "a": "Yes, Skopje is generally safe for tourists with North Macedonia receiving a Level 1 US travel advisory. Main concerns are petty crime like pickpocketing and taxi scams rather than serious violent crime."
+    },
+    {
+      "q": "Is Skopje safe at night?",
+      "a": "Skopje is moderately safe at night in well-lit tourist areas like Macedonia Square and Debar Maalo. However, avoid poorly lit areas, the Old Bazaar after 7 PM, and isolated sections along the river."
+    },
+    {
+      "q": "Is Skopje safe for solo female travelers?",
+      "a": "Yes, with a 4.1/5 safety rating for solo women. The city center and popular neighborhoods are safe, though modest dress is recommended due to conservative local attitudes. Avoid walking alone late at night in deserted areas."
+    },
+    {
+      "q": "What areas should I avoid in Skopje?",
+      "a": "Avoid the Chair neighborhood, the Old Bazaar after sunset, and poorly lit sections along the Vardar River at night. The area between Blvd Krste Petkov Misirkov and Belasitsa is also best avoided."
+    },
+    {
+      "q": "Is it safe to use public transport in Skopje?",
+      "a": "Public buses are generally safe but pickpocketing can occur, especially at night and terminal stations. Taxis are widely available but beware of overcharging scams. Use official companies or rideshare apps for better safety."
+    }
+  ],
+  "relatedCities": [
+    "belgrade",
+    "sofia",
+    "pristina"
+  ],
+  "_city_id": "skopje-north-macedonia"
+}
