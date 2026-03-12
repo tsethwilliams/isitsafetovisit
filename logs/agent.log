@@ -805,3 +805,39 @@
 2026-03-12 05:06:45,126 [INFO] Checking alerts for 126 cities
 2026-03-12 05:07:22,597 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-12 05:07:22,636 [INFO] No safety alerts detected
+2026-03-12 06:11:41,879 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-12 06:11:41,921 [INFO] Queue has 239 cities, adding 8
+2026-03-12 06:11:41,921 [INFO] Generating new city profile: Innsbruck, Austria
+2026-03-12 06:13:31,162 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:13:31,313 [INFO] Saved city data: innsbruck-austria
+2026-03-12 06:13:31,315 [INFO] Generating new city profile: Galway, Ireland
+2026-03-12 06:15:31,316 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:15:31,400 [INFO] Saved city data: galway-ireland
+2026-03-12 06:15:31,402 [INFO] Generating new city profile: Cork, Ireland
+2026-03-12 06:17:04,563 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:17:04,677 [INFO] Saved city data: cork-ireland
+2026-03-12 06:17:04,679 [INFO] Generating new city profile: Luxembourg City, Luxembourg
+2026-03-12 06:18:26,454 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:18:26,568 [INFO] Saved city data: luxembourg-city-luxembourg
+2026-03-12 06:18:26,569 [INFO] Generating new city profile: Gothenburg, Sweden
+2026-03-12 06:19:50,953 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:19:51,029 [INFO] Saved city data: gothenburg-sweden
+2026-03-12 06:19:51,030 [INFO] Generating new city profile: Bergen, Norway
+2026-03-12 06:21:43,692 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:21:43,798 [INFO] Saved city data: bergen-norway
+2026-03-12 06:21:43,799 [INFO] Generating new city profile: Tromso, Norway
+2026-03-12 06:23:11,525 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:23:11,607 [INFO] Saved city data: tromso-norway
+2026-03-12 06:23:11,608 [INFO] Generating new city profile: Rovaniemi, Finland
+2026-03-12 06:24:51,147 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 06:24:51,227 [INFO] Saved city data: rovaniemi-finland
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Innsbruck
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Galway
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Cork
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Luxembourg City
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Gothenburg
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Bergen
+2026-03-12 06:24:51,238 [INFO] Merged into site data: Tromsø
+2026-03-12 06:24:51,239 [INFO] Merged into site data: Rovaniemi
+2026-03-12 06:24:51,267 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-12 06:24:51,268 [INFO] Updated sitemap with 8 new URLs

@@ -1,0 +1,165 @@
+{
+  "slug": "gothenburg",
+  "name": "Gothenburg",
+  "country": "Sweden",
+  "countryCode": "SE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 8.0,
+    "womensSafety": 8.2,
+    "nightSafety": 7.0,
+    "transport": 8.5,
+    "naturalHazards": 7.4
+  },
+  "summary": "Gothenburg is one of Sweden's safest major cities and ranks among the safer European destinations for tourists. While some outer suburbs have experienced gang-related incidents, these rarely affect visitors. The main risks for travelers are minor theft and typical urban precautions.",
+  "quickVerdict": "Gothenburg offers excellent safety for tourists, with low violent crime rates and efficient emergency services. The city center and tourist areas are well-policed and monitored, making it ideal for solo travelers including women. Public transport is reliable and safe, though visitors should remain alert for pickpockets in crowded areas like Central Station and Nordstan shopping center. The main challenges are weather-related, with icy conditions in winter and occasional coastal storms.",
+  "neighborhoods": [
+    {
+      "name": "Inom Vallgraven (City Center)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The historic city center is very safe with good police presence, well-lit streets, and constant foot traffic. Home to major hotels, restaurants, and shopping areas."
+    },
+    {
+      "name": "Haga",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Charming cobblestone neighborhood with independent cafes and boutiques. Popular with tourists and locals, maintaining a safe, relaxed atmosphere day and evening."
+    },
+    {
+      "name": "Avenyn (Kungsportsavenyn)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Main boulevard with museums, restaurants, and nightlife. Well-patrolled and monitored, though can get busy during events and festivals."
+    },
+    {
+      "name": "Vasastaden",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential area near the city center with good public transport connections. Generally safe for walking and cycling, popular with students and young professionals."
+    },
+    {
+      "name": "Majorna-Linné",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy area with restaurants, bars, and cultural venues. Safe during daytime and early evening, but use standard urban precautions late at night."
+    },
+    {
+      "name": "Biskopsgården",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Outer suburb with higher crime rates linked to gang activity. Primarily residential with little tourist interest. Best avoided, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Unlicensed Taxi Overcharging",
+      "risk": "medium",
+      "description": "Illegal taxi drivers approach tourists, especially at the airport, offering rides at inflated prices or claiming broken meters to justify high fares.",
+      "howToAvoid": "Only use licensed taxis with yellow number plates or book through established companies like Taxi Göteborg, Taxi Kurir, or ride-share apps."
+    },
+    {
+      "name": "Pickpocketing in Transit Areas",
+      "risk": "medium",
+      "description": "Professional thieves target tourists in crowded areas like Central Station, Nordstan shopping center, and busy tram lines during rush hour.",
+      "howToAvoid": "Keep bags zipped and in front of you, secure phones and wallets, avoid displaying expensive items, and stay alert in crowded spaces."
+    },
+    {
+      "name": "Bar Bill Inflation",
+      "risk": "low",
+      "description": "Some bars may not display prices clearly or add unexpected charges to bills, particularly targeting tourists who seem unfamiliar with local pricing.",
+      "howToAvoid": "Ask for a menu with prices before ordering, check bills carefully, and research typical drink prices beforehand."
+    },
+    {
+      "name": "ATM Assistance Fraud",
+      "risk": "low",
+      "description": "Individuals approach tourists at ATMs claiming to help avoid fees or solve card problems, attempting to skim card information and observe PIN numbers.",
+      "howToAvoid": "Never accept help from strangers at ATMs, cover your PIN when entering it, and use ATMs inside banks when possible."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Gothenburg is considered one of the safest European cities for solo female travelers. Street harassment is uncommon in central areas, and Sweden's strong culture of gender equality creates a respectful environment. The city is well-lit with good public transport, making evening activities generally safe.",
+    "tips": [
+      "Use common sense when returning from nightlife districts late at night",
+      "Stay in central neighborhoods like Haga, Vasastaden, or near Avenyn",
+      "Take advantage of female-only dorms available at local hostels",
+      "Share your location with friends when exploring new areas",
+      "Trust local women's advice about areas to avoid"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Central Gothenburg is generally safe at night with good lighting and police presence. The main nightlife areas around Avenyn and Linné are well-monitored. However, some outer suburbs should be avoided after dark, and standard urban precautions apply.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "Use official taxis or ride-share apps rather than walking long distances",
+      "Avoid outer suburbs like Biskopsgården and Angered after midnight",
+      "Stay with groups when possible in nightlife areas",
+      "Keep drinks in sight at bars and clubs"
+    ]
+  },
+  "transport": {
+    "metro": "Gothenburg has an excellent public transport network operated by Västtrafik, including trams, buses, and ferries. The system is safe, punctual, and monitored. Single tickets cost 37 SEK and can be purchased via the Västtrafik To-Go app or contactless payment.",
+    "rideshare": "Uber and Bolt operate in Gothenburg and are generally safe and convenient. Both apps provide driver details and real-time tracking for added security.",
+    "taxis": "Licensed taxis display yellow number plates and are safe, though prices vary significantly between operators. Book through established companies or apps to avoid overcharging. Airport taxis should be arranged in advance.",
+    "tips": "Public transport is the most efficient way to get around. Trams are particularly convenient for reaching tourist areas. Cycling is popular with dedicated bike lanes, though winter conditions can be challenging."
+  },
+  "customs": [
+    "Remove shoes when entering homes - this is strictly observed in Sweden",
+    "Respect personal space and avoid standing too close to others in public",
+    "Punctuality is highly valued - arrive exactly on time for appointments",
+    "Embrace 'fika' culture - coffee breaks are important social occasions",
+    "Keep conversations at moderate volume levels in public spaces"
+  ],
+  "health": {
+    "overview": "Sweden has excellent healthcare with high-quality medical facilities. Gothenburg offers prompt emergency services and well-staffed hospitals. No special vaccinations are required for travel from most countries.",
+    "water": "Tap water is perfectly safe to drink and meets strict EU standards. It tastes good and is widely consumed by locals. Bottled water is unnecessary but available.",
+    "vaccinations": "No special vaccinations required for most travelers. Ensure routine vaccinations (measles, DPT, flu) are up to date. Tick-borne encephalitis vaccination may be recommended if hiking in forested areas during summer.",
+    "altitude": "Gothenburg is at sea level with a temperate maritime climate. Winters can be cold and icy, requiring warm clothing and proper footwear. Summer temperatures are mild, ranging from 15-22°C."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 (emergency), 114 14 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Stockholm: +46 8 783 5300, located at Dag Hammarskjölds Väg 31, SE-115 89 Stockholm. For emergencies involving US citizens, call +1-202-501-4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Gothenburg safe for tourists?",
+      "a": "Yes, Gothenburg is very safe for tourists and ranks among the safest major cities in Europe. Violent crime affecting visitors is rare, and the main concerns are minor theft in crowded areas and standard urban precautions."
+    },
+    {
+      "q": "Is Gothenburg safe at night?",
+      "a": "Central Gothenburg is generally safe at night with good lighting and police presence. Stick to main areas like Avenyn, Haga, and the city center. Avoid outer suburbs like Biskopsgården after dark and use taxis for longer distances."
+    },
+    {
+      "q": "Is Gothenburg safe for solo female travelers?",
+      "a": "Gothenburg is excellent for solo female travelers and considered one of Europe's safest cities for women. Street harassment is uncommon, public transport is reliable, and Sweden's culture strongly supports gender equality."
+    },
+    {
+      "q": "What areas should I avoid in Gothenburg?",
+      "a": "Avoid outer suburbs like Biskopsgården, Angered, Bergsjön, and parts of Frölunda, especially at night. These areas have higher crime rates but are primarily residential with little tourist interest. Central areas are all safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Gothenburg?",
+      "a": "Yes, public transport is very safe, efficient, and well-monitored. The tram, bus, and ferry system operated by Västtrafik is reliable and used safely by tourists and locals alike. Just watch for pickpockets during rush hour."
+    }
+  ],
+  "relatedCities": [
+    "stockholm",
+    "copenhagen",
+    "oslo",
+    "helsinki",
+    "malmoe"
+  ],
+  "_city_id": "gothenburg-sweden"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "bergen",
+  "name": "Bergen",
+  "country": "Norway",
+  "countryCode": "NO",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 8.5,
+    "nightSafety": 7.8,
+    "transport": 8.3,
+    "naturalHazards": 7.3
+  },
+  "summary": "Bergen is considered one of Europe's safest cities, with exceptionally low violent crime rates and strong safety infrastructure. While petty crime like pickpocketing can occur in tourist areas, the overall risk remains minimal for visitors exercising basic precautions.",
+  "quickVerdict": "Bergen offers an excellent safety environment for tourists, ranking among the top destinations for solo travelers and women. The city's well-developed emergency services, reliable public transport, and respectful local culture create a secure atmosphere. While natural hazards like storms and flooding can occur, comprehensive warning systems minimize risks. Visitors should be aware of common tourist scams near the fish market and remain vigilant with valuables in crowded areas, but can generally explore with confidence day and night.",
+  "neighborhoods": [
+    {
+      "name": "Bryggen and City Center",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Historic UNESCO World Heritage area with high police presence and tourist activity. Generally very safe with good lighting and regular patrols, though pickpockets may target tourists near the fish market."
+    },
+    {
+      "name": "Bergenhus and Nordnes",
+      "score": 8.1,
+      "class": "safe",
+      "description": "Quiet residential peninsula with the aquarium and fortress. Well-maintained area popular with families and tourists. Very safe for walking and cycling with minimal crime concerns."
+    },
+    {
+      "name": "Sandviken and Møllendal",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Traditional residential areas with historic wooden houses. Generally safe neighborhoods with good community watch presence, though some streets can be poorly lit at night."
+    },
+    {
+      "name": "Fana and Fyllingsdalen",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Suburban districts connected by light rail. Family-friendly areas with shopping centers and schools. Some isolated incidents of petty crime but overall very secure for residents and visitors."
+    },
+    {
+      "name": "Åsane",
+      "score": 6.9,
+      "class": "caution",
+      "description": "Northern suburb with mixed residential and commercial areas. While generally safe, some areas have higher rates of minor property crime and can feel less secure after dark."
+    },
+    {
+      "name": "Årstad and Lagunen",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Areas around the transport hub and shopping center. Higher foot traffic can lead to increased petty crime opportunities, particularly in parking areas and around the bus station."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fish Market Overcharging",
+      "risk": "medium",
+      "description": "Vendors at Bergen's famous fish market may quote inflated prices for tourists, especially for seafood samples or souvenir items that are overpriced compared to local shops.",
+      "howToAvoid": "Check prices beforehand at local supermarkets, ask for written prices before sampling, and don't feel obligated to buy after tasting free samples."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Fraudsters attach card skimming devices to ATMs in busy tourist areas like Bergen bus terminals and near the city center to steal card details and PINs.",
+      "howToAvoid": "Use ATMs inside banks or well-lit areas, inspect card slots for loose parts, cover your PIN entry, and monitor bank statements regularly for unauthorized transactions."
+    },
+    {
+      "name": "Fake Parking Fines",
+      "risk": "low",
+      "description": "Scammers send fake parking violation notices via SMS with links to fraudulent payment sites, targeting both locals and tourists who may not understand Norwegian parking systems.",
+      "howToAvoid": "Verify parking violations through official city websites or apps, never click links in unsolicited SMS messages, and pay fines only through official channels."
+    },
+    {
+      "name": "Romance and Online Scams",
+      "risk": "low",
+      "description": "Digital romance scams targeting tourists through dating apps or social media, with scammers claiming emergencies requiring immediate financial assistance.",
+      "howToAvoid": "Be cautious with online relationships formed while traveling, never send money to people you've only met online, and meet only in public places during daylight hours."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bergen is exceptionally safe for solo female travelers, ranking #15 globally for women's safety. The city has strong gender equality values, well-lit streets, reliable public transportation, and respectful local attitudes. Women regularly walk alone at night in the city center and report feeling completely comfortable. The high level of English proficiency and helpful local culture make it easy to ask for assistance when needed.",
+    "tips": [
+      "Take advantage of the excellent public transport system including buses and light rail which operate safely until late hours",
+      "Stay in central accommodations near Bryggen or the city center for easy access to help and well-lit streets",
+      "Don't hesitate to ask locals for directions or assistance - Norwegians are generally helpful and speak excellent English",
+      "Be aware that Norwegians can seem reserved initially but this reflects cultural norms rather than unfriendliness",
+      "Consider joining outdoor activities like hiking or fjord tours to meet other travelers and experience Norwegian culture safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bergen maintains strong night safety with 78% of residents and visitors feeling secure during nighttime hours. The city center remains well-lit and patrolled, with active nightlife areas supervised by security. Most areas are safe for walking after dark, though standard urban precautions apply. Weekend nights can be busier around bars and clubs, but violence is rare and locals are generally helpful.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night, especially around Bryggen and the city center",
+      "Use the reliable light rail system for transportation after dark rather than walking long distances",
+      "Be extra cautious around 2-3 AM on weekends when bars close and streets can become more rowdy",
+      "Keep valuables secure and avoid displaying expensive items, especially in crowded nightlife areas",
+      "Consider staying in central accommodations to minimize late-night travel distances"
+    ]
+  },
+  "transport": {
+    "metro": "Bergen Light Rail (Bybanen) is a modern, safe two-line system connecting the airport to city center and Fyllingsdalen. Operates frequently with excellent safety record and CCTV monitoring.",
+    "rideshare": "Limited rideshare options available, though traditional taxis are regulated, safe and readily available through Bergen Taxi (07000). Apps and phone booking recommended.",
+    "taxis": "Official Bergen Taxi service is highly regulated, safe and reliable. Taxis use meters and are generally honest, though expensive. Available 24/7 at designated stands and by phone/app booking.",
+    "tips": "Public transport is exceptionally safe and punctual. The Bergen Card provides free travel on buses and light rail. Avoid unlicensed taxis and always use official transport services for security."
+  },
+  "customs": [
+    "Punctuality is highly valued - being more than 5-10 minutes late is considered rude and you should notify if delayed",
+    "Personal space is important - maintain arm's length distance in conversations and don't sit directly next to strangers on public transport if other seats available",
+    "Janteloven (Law of Jante) emphasizes humility and equality - avoid boasting about achievements or displaying wealth ostentatiously"
+  ],
+  "health": {
+    "overview": "Norway has an excellent healthcare system ranking among the world's best. Bergen offers high-quality medical facilities including 24/7 emergency services and well-equipped hospitals. Healthcare is expensive for non-EU visitors so comprehensive travel insurance is essential.",
+    "water": "Tap water throughout Bergen is safe to drink and of excellent quality, sourced from pristine mountain sources. No need to purchase bottled water.",
+    "vaccinations": "No special vaccinations required for Norway. Routine vaccinations including measles-mumps-rubella (MMR) should be up to date. EU citizens should carry European Health Insurance Card.",
+    "altitude": "Bergen is at sea level with a temperate oceanic climate. Weather can change rapidly with frequent rain - pack waterproof clothing and layers for variable conditions year-round."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "113",
+    "fire": "110",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Oslo: +47 21 30 85 40, Morgedalsvegen 36, 0378 Oslo. Bergen medical emergency: Bergen Legevakt at Vestre Stromskaein 19, tel: +47 55 56 87 60 (24/7)."
+  },
+  "faq": [
+    {
+      "q": "Is Bergen safe for tourists?",
+      "a": "Yes, Bergen is extremely safe for tourists with very low crime rates and excellent emergency services. It consistently ranks among Europe's safest cities with strong infrastructure and helpful locals."
+    },
+    {
+      "q": "Is Bergen safe at night?",
+      "a": "Bergen is generally very safe at night with good lighting and police presence in central areas. 78% of people feel secure walking at night, though basic urban precautions should still be taken."
+    },
+    {
+      "q": "Is Bergen safe for solo female travelers?",
+      "a": "Absolutely. Bergen ranks #15 globally for solo female travel safety with strong gender equality values, respectful culture, and excellent public transport. Women regularly walk alone confidently, even at night."
+    },
+    {
+      "q": "What areas should I avoid in Bergen?",
+      "a": "No areas in Bergen are particularly dangerous, but exercise extra caution in some parts of Åsane and around the Lagunen transport hub after dark. The city center and tourist areas are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Bergen?",
+      "a": "Yes, Bergen's public transport including buses and light rail is extremely safe, punctual, and well-maintained. The system operates with CCTV monitoring and has an excellent safety record."
+    }
+  ],
+  "relatedCities": [
+    "oslo",
+    "stockholm",
+    "copenhagen",
+    "helsinki",
+    "reykjavik",
+    "gothenburg"
+  ],
+  "_city_id": "bergen-norway"
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "galway",
+  "name": "Galway",
+  "country": "Ireland",
+  "countryCode": "IE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 8.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.8,
+    "scamRisk": 7.5,
+    "womensSafety": 8.4,
+    "nightSafety": 7.6,
+    "transport": 8.2,
+    "naturalHazards": 8.8
+  },
+  "summary": "Galway is widely regarded as one of Ireland's safest cities, combining vibrant culture with excellent safety standards. As Ireland ranks as the 2nd most peaceful country globally, Galway benefits from low crime rates, excellent infrastructure, and a welcoming community atmosphere.",
+  "quickVerdict": "Galway stands out as an exceptionally safe destination for travelers, consistently ranking among Ireland's safest cities with crime rates well below European averages. The city benefits from active community policing, strong local engagement, and Ireland's overall reputation as the world's second most peaceful country. While petty crimes like pickpocketing can occur in tourist areas, violent crime is extremely rare. The city has earned a Purple Flag for safe nightlife, excellent public transport safety, and particularly strong ratings for solo female travelers. Basic precautions and common sense are sufficient for a safe and enjoyable visit.",
+  "neighborhoods": [
+    {
+      "name": "City Centre (Latin Quarter)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Heart of Galway with Shop Street, Quay Street, and main tourist attractions. Well-lit, heavily patrolled, and constantly busy with locals and tourists. Excellent safety record with visible Garda presence and CCTV coverage."
+    },
+    {
+      "name": "Salthill Promenade",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Popular seaside area with hotels, restaurants, and the famous promenade. Safe for walking day and night, well-maintained with good lighting. Popular with families and joggers, creating natural surveillance."
+    },
+    {
+      "name": "University Area (NUIG)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Student-dominated area around National University of Ireland Galway. Generally safe with regular foot traffic. Some late-night student activity but well-managed by campus security and local Garda."
+    },
+    {
+      "name": "Eyre Square Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Main transport hub and central square. Generally safe during day but can get rowdy on weekend nights, particularly after pub closing times. Occasional antisocial behavior and some reports of minor altercations."
+    },
+    {
+      "name": "Docks/Harbour Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Waterfront area with ferry terminals and some dining. Safe during day with good activity levels. Less busy in evenings but well-lit main areas remain secure. Some industrial sections best avoided after dark."
+    },
+    {
+      "name": "West End Residential",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mix of residential areas west of city center. Generally safe but some pockets have higher crime rates. Exercise standard caution, especially when walking alone after dark on quieter residential streets."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourist Photography",
+      "risk": "medium",
+      "description": "Friendly person asks you to take their photo with their camera, then deliberately drops and breaks it when you hand it back, demanding compensation for the 'damage'.",
+      "howToAvoid": "Politely decline to take photos for strangers, especially at busy tourist spots. If you must help, suggest they take a selfie instead."
+    },
+    {
+      "name": "Overcharging Taxi Scam",
+      "risk": "medium",
+      "description": "Taxi drivers claim their meter is broken, don't accept credit cards, or take unnecessarily long routes to inflate fares, particularly targeting tourists.",
+      "howToAvoid": "Use reputable taxi companies, agree on fare beforehand if meter is broken, use GPS apps to track route, and always insist on proper receipts."
+    },
+    {
+      "name": "Fake Charity Collections",
+      "risk": "low",
+      "description": "Scammers approach tourists on busy streets pretending to collect for bogus charities, often targeting people near major attractions or pubs.",
+      "howToAvoid": "Ask for official charity registration ID and never give cash to street collectors. Legitimate charities have proper identification and collection permits."
+    },
+    {
+      "name": "Rental Car Hidden Charges",
+      "risk": "medium",
+      "description": "Car rental companies add unexpected fees, claim non-existent damage, or mislead about insurance coverage, particularly targeting tourists unfamiliar with local practices.",
+      "howToAvoid": "Read rental agreements carefully, photograph car before and after use, consider third-party excess insurance, and inspect vehicle thoroughly with staff present."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Galway is exceptionally safe for solo female travelers, ranking as Ireland's second-safest city for women traveling alone. The city has earned a Purple Flag for safe nightlife and maintains strong community policing. Women regularly report feeling completely safe walking alone, even at night in well-lit city center areas. The friendly local culture means help is readily available, and harassment is extremely rare.",
+    "tips": [
+      "Stay in well-lit areas of the city center and Latin Quarter where there's constant foot traffic and natural surveillance",
+      "The local pub culture is very welcoming to solo women, but keep drinks in sight and don't accept drinks from strangers",
+      "Use reputable taxi services like Big O Taxis or Five Stars Galway Taxis for late-night transport rather than walking alone to distant areas",
+      "Join group tours or hostel activities to meet like-minded travelers and explore popular attractions like the Cliffs of Moher safely",
+      "Download offline maps and keep your phone charged, as rural Galway areas can have poor signal coverage"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Galway's nightlife is exceptionally safe, earning the city a prestigious Purple Flag award for safe evening entertainment. The city center remains well-lit and busy throughout the evening with natural surveillance from pub-goers and late-night diners. While weekend nights around Eyre Square can get rowdy after 2 AM pub closures, serious incidents are rare and Garda presence is visible.",
+    "tips": [
+      "Stick to the well-lit Latin Quarter area with its busy pubs and restaurants for the safest nightlife experience",
+      "Avoid Eyre Square late on weekend nights when it can become crowded with intoxicated revelers",
+      "Pre-book reliable taxis through established companies rather than walking long distances after midnight",
+      "Travel in groups when possible and stay aware of your surroundings, especially when moving between venues",
+      "Keep valuables secure and avoid displaying expensive items like jewelry or large amounts of cash in busy pubs"
+    ]
+  },
+  "transport": {
+    "metro": "Galway doesn't have a metro system, but the city's compact size makes most attractions easily walkable within 15-20 minutes.",
+    "rideshare": "Limited ride-sharing options available. Uber operates but with fewer drivers than major cities. Local taxi apps like Big O Taxis are more reliable.",
+    "taxis": "Excellent taxi safety with licensed operators like Big O Taxis, Five Stars Galway Taxis, and ProCabs. All drivers are vetted and vehicles regulated. Generally honest pricing but agree on fares for longer journeys.",
+    "tips": "Public buses (Bus Eireann and City Direct) are safe and reliable with LEAP card payments 30% cheaper than cash. Walking is safest and most convenient for city center exploration."
+  },
+  "customs": [
+    "Always buy your round when drinking in groups - failing to do so is considered very rude and antisocial",
+    "Remove hats when entering churches, pubs, or homes as a sign of respect",
+    "Irish people say 'bye' multiple times when ending phone conversations - hanging up after one 'bye' is considered abrupt",
+    "Acknowledge other drivers with a small wave when driving in rural areas - it's standard courtesy",
+    "Don't rush the Guinness pour - it's served in two stages with a proper settling period and cannot be hurried"
+  ],
+  "health": {
+    "overview": "Ireland has excellent healthcare standards with modern facilities. University Hospital Galway is a major teaching hospital providing comprehensive emergency and specialist care. Private options include Galway Clinic and Bon Secours Hospital.",
+    "water": "Tap water is completely safe to drink throughout Galway and meets high EU standards. No need for bottled water.",
+    "vaccinations": "No special vaccinations required for Ireland. Routine vaccines (MMR, DTaP, flu) should be up to date. Travel insurance recommended as non-EU visitors pay upfront for treatment.",
+    "altitude": "Sea level location with mild maritime climate. Weather can change quickly so pack waterproof clothing. No altitude concerns but be prepared for frequent rain and wind."
+  },
+  "emergency": {
+    "general": "112 or 999",
+    "police": "112 or 999 (ask for Garda)",
+    "ambulance": "112 or 999",
+    "fire": "112 or 999",
+    "touristPolice": "N/A - regular Garda handle tourist issues",
+    "usEmbassy": "US Embassy Dublin: +353 1 668-8777. Located in Dublin, approximately 2.5 hours from Galway by car or train. For emergencies involving US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Galway safe for tourists?",
+      "a": "Yes, Galway is extremely safe for tourists. It's one of Ireland's safest cities with very low crime rates. Ireland ranks as the world's second most peaceful country, and Galway benefits from excellent community policing, visible Garda presence, and a welcoming local culture. Serious crimes against tourists are exceptionally rare."
+    },
+    {
+      "q": "Is Galway safe at night?",
+      "a": "Yes, Galway is very safe at night, particularly in the city center and Latin Quarter areas which remain well-lit and busy. The city has earned a Purple Flag for safe nightlife. While Eyre Square can get rowdy on weekend nights after pubs close, serious incidents are rare. Use common sense precautions and reliable taxi services for longer distances."
+    },
+    {
+      "q": "Is Galway safe for solo female travelers?",
+      "a": "Absolutely. Galway ranks as Ireland's second-safest city for solo female travelers. Women regularly report feeling completely safe, even walking alone at night in central areas. The local culture is very welcoming, help is readily available, and harassment is extremely uncommon. The city's compact size and friendly atmosphere make it ideal for independent female travel."
+    },
+    {
+      "q": "What areas should I avoid in Galway?",
+      "a": "Galway is generally very safe throughout, but exercise extra caution around Eyre Square late on weekend nights due to occasional rowdy behavior. Some residential areas in the West End require standard urban caution after dark. Industrial dock areas are best avoided in the evening, though the main waterfront dining areas remain safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Galway?",
+      "a": "Yes, public transport in Galway is very safe and reliable. Bus Eireann and City Direct operate clean, modern buses with professional drivers. The city's buses are equipped with CCTV and run frequent services. Taxis from licensed operators like Big O Taxis and Five Stars Galway Taxis are also extremely safe with vetted drivers and regulated vehicles."
+    }
+  ],
+  "relatedCities": [
+    "dublin",
+    "cork",
+    "killarney",
+    "limerick",
+    "derry",
+    "belfast"
+  ],
+  "_city_id": "galway-ireland"
+}

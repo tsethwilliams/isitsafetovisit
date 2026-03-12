@@ -1,0 +1,159 @@
+{
+  "slug": "luxembourg-city",
+  "name": "Luxembourg City",
+  "country": "Luxembourg",
+  "countryCode": "LU",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 8.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.8,
+    "violentCrime": 9.1,
+    "scamRisk": 7.5,
+    "womensSafety": 9.2,
+    "nightSafety": 8.4,
+    "transport": 9.6,
+    "naturalHazards": 9.3
+  },
+  "summary": "Luxembourg City is one of Europe's safest capitals, with exceptionally low crime rates and excellent infrastructure. The city offers free public transport, excellent healthcare, and a well-educated, multilingual population that creates a welcoming environment for tourists.",
+  "quickVerdict": "Luxembourg City ranks among the world's safest capital cities with a homicide rate of just 0.32 per 100,000 inhabitants, making it the lowest in Europe. While petty crime like pickpocketing can occur in tourist areas and around the central train station, violent crime is extremely rare. The US State Department maintains a Level 1 advisory (Exercise Normal Caution) for Luxembourg, and women consistently rate it as one of the safest destinations for solo female travel. The city's free public transport system, excellent healthcare, and efficient emergency services contribute to an exceptionally secure environment for visitors.",
+  "neighborhoods": [
+    {
+      "name": "Kirchberg",
+      "score": 9.2,
+      "class": "safe",
+      "description": "Modern business and residential district housing EU institutions. Exceptionally safe with well-lit streets, excellent security, and frequent police presence. Perfect for business travelers."
+    },
+    {
+      "name": "Old Town (Ville Haute)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Historic city center with UNESCO World Heritage status. Very safe during day and evening with good tourist police presence. Watch for pickpockets in crowded tourist areas."
+    },
+    {
+      "name": "Belair",
+      "score": 8.9,
+      "class": "safe",
+      "description": "Upscale residential neighborhood with designer shops and restaurants. Extremely safe with low crime rates. Popular with affluent families and well-patrolled."
+    },
+    {
+      "name": "Limpertsberg",
+      "score": 8.6,
+      "class": "safe",
+      "description": "Quiet, family-friendly residential area with classic architecture. Very safe with minimal crime. Good for peaceful stays away from tourist crowds."
+    },
+    {
+      "name": "Clausen",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy nightlife district in the valley. Generally safe but can get crowded and noisy at night. Exercise normal caution when bar-hopping late at night."
+    },
+    {
+      "name": "Gare (Central Station Area)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Train station district with some drug activity and petty crime. Avoid walking alone at night, especially around Rue de Strasbourg. Use caution but area is improving with increased police presence."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Fraudsters install card skimming devices on ATMs, particularly in tourist areas. They may approach offering help to distract you while recording your PIN.",
+      "howToAvoid": "Cover your PIN when entering it, use ATMs inside banks, avoid help from strangers, and check for unusual devices attached to card slots."
+    },
+    {
+      "name": "Fake Tourist in Distress",
+      "risk": "medium",
+      "description": "Scammers pose as stranded tourists needing money for fuel or transport, often showing fake bank transfer confirmations on their phones.",
+      "howToAvoid": "Don't give money to strangers regardless of their story. Direct them to police or tourist information instead. Be especially wary on highways and parking areas."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "low",
+      "description": "Some establishments may overcharge tourists for meals, drinks, or services, particularly in prime tourist locations during events like Schueberfouer fair.",
+      "howToAvoid": "Check prices on menus before ordering, research typical costs in advance, and ask locals for restaurant recommendations away from major tourist sites."
+    },
+    {
+      "name": "Credit Card Fraud",
+      "risk": "medium",
+      "description": "Card skimming can occur at restaurants and shops, with fraudsters obtaining card details when you hand over your card.",
+      "howToAvoid": "Keep your card in sight during transactions, use contactless payments where possible, and monitor your bank statements regularly for unauthorized charges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Luxembourg City is consistently ranked as one of the world's safest destinations for solo female travelers, scoring 4.6 out of 5 on major safety indices. Women can walk alone day and night in most areas, with excellent street lighting, reliable public transport, and a respectful local culture. The city's international atmosphere and high levels of gender equality create a very welcoming environment.",
+    "tips": [
+      "Avoid the Gare neighborhood late at night, though even this area isn't particularly dangerous",
+      "Use the free public transport system which operates until late and is considered very safe",
+      "Take advantage of the multilingual environment - most locals speak English and are helpful to tourists",
+      "Join walking tours or visit cafes in the Old Town to meet other travelers if you want company"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Luxembourg City is remarkably safe at night with well-lit streets, regular police patrols, and low crime rates. The Old Town and business districts remain active until late with good visibility. While the Gare area should be approached with more caution after dark, violent crime is extremely rare throughout the city.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "Use official taxis or the reliable free public transport system",
+      "Avoid isolated parks and the forest areas around the city after dark",
+      "The Clausen nightlife district is generally safe but can get crowded - stay aware of your belongings"
+    ]
+  },
+  "transport": {
+    "metro": "Luxembourg has a modern tram system (T1 line) connecting the airport to the city center and major districts. The system is free, clean, and very safe with regular security presence.",
+    "rideshare": "Uber operates in Luxembourg City and is considered safe and reliable. Traditional taxi services are also widely available and regulated.",
+    "taxis": "Official taxis are safe and regulated with fixed rates. Use licensed cabs from taxi stands or call reputable companies. Some drivers may take longer routes - ask for the quickest path if you know it.",
+    "tips": "All public transport (buses, trams, trains) is completely free throughout Luxembourg - just board and travel. The Mobiliteit.lu app provides real-time schedules and route planning."
+  },
+  "customs": [
+    "Greet people formally with titles (Monsieur/Madame) and surnames until invited to use first names - Luxembourgers value politeness and formality in initial interactions",
+    "Punctuality is highly valued - arrive on time for appointments and social gatherings as being late is considered disrespectful",
+    "Tipping is optional but appreciated at 5-10% for good service, though service charges are often included in bills"
+  ],
+  "health": {
+    "overview": "Luxembourg has one of the world's best healthcare systems with modern hospitals, English-speaking medical staff, and universal coverage. The public health infrastructure is excellent with 86% public satisfaction rates.",
+    "water": "Tap water is safe to drink throughout Luxembourg City and meets high EU standards.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations (MMR, etc.) recommended. COVID-19 guidelines may apply - check current requirements.",
+    "altitude": "Luxembourg City sits at low altitude (around 300m) with a temperate climate. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113 (emergency) or 244-244-244 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Luxembourg: +352 46-01-23-00 (24/7 emergency line), located at 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City"
+  },
+  "faq": [
+    {
+      "q": "Is Luxembourg City safe for tourists?",
+      "a": "Yes, Luxembourg City is one of Europe's safest capitals with extremely low crime rates. The US State Department rates it Level 1 (Exercise Normal Caution), and violent crime against tourists is virtually nonexistent."
+    },
+    {
+      "q": "Is Luxembourg City safe at night?",
+      "a": "Luxembourg City is very safe at night with well-lit streets and regular police patrols. Most areas including the Old Town and business districts are safe for walking, though it's wise to use caution around the central train station area."
+    },
+    {
+      "q": "Is Luxembourg City safe for solo female travelers?",
+      "a": "Absolutely. Luxembourg City ranks among the world's top destinations for solo female travel with a 4.6/5 safety rating. Women can walk alone comfortably day and night in most areas of the city."
+    },
+    {
+      "q": "What areas should I avoid in Luxembourg City?",
+      "a": "The Gare (central station) neighborhood, particularly around Rue de Strasbourg, has some drug activity and should be approached with caution at night. However, even this area isn't particularly dangerous - just use normal urban precautions."
+    },
+    {
+      "q": "Is it safe to use public transport in Luxembourg City?",
+      "a": "Public transport is extremely safe and completely free throughout Luxembourg. Buses, trams, and trains are modern, clean, and well-maintained with good security presence. The system operates until late at night."
+    }
+  ],
+  "relatedCities": [
+    "brussels",
+    "amsterdam",
+    "zurich"
+  ],
+  "_city_id": "luxembourg-city-luxembourg"
+}
