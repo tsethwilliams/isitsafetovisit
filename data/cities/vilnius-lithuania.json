@@ -1,0 +1,166 @@
+{
+  "slug": "vilnius",
+  "name": "Vilnius",
+  "country": "Lithuania",
+  "countryCode": "LT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 9.0
+  },
+  "summary": "Vilnius is considered one of Europe's safest capital cities, with low violent crime rates and a well-developed public safety infrastructure. While petty theft and tourist scams occur occasionally, particularly in crowded areas and popular districts, serious crimes against visitors are rare.",
+  "quickVerdict": "Vilnius offers excellent safety for tourists with minimal violent crime and professional emergency services. The main concerns are pickpocketing in tourist areas, taxi overcharging, and occasional drink spiking in nightlife venues. Women traveling alone generally feel very safe, though standard precautions should be taken in nightlife areas. The city benefits from good police presence, reliable public transport, and helpful English-speaking locals.",
+  "neighborhoods": [
+    {
+      "name": "Senamiestis (Old Town)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "UNESCO World Heritage site with excellent daytime safety and good tourist police presence. Some pickpocket risk in crowded areas and around major attractions."
+    },
+    {
+      "name": "New Town/Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern business district with excellent safety, well-lit streets, and regular police patrols. Very safe for all travelers day and night."
+    },
+    {
+      "name": "Užupis",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Bohemian artistic quarter that's generally safe but can be quieter at night. Popular with tourists and locals, good atmosphere but watch belongings in cafes."
+    },
+    {
+      "name": "Antakalnis",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential area with parks and green spaces. Very safe during day, quieter at night but well-maintained and patrolled."
+    },
+    {
+      "name": "Šnipiškės",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern business district across the river. Safe overall but some areas can feel empty after business hours. Good public transport connections."
+    },
+    {
+      "name": "Naujininkai",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Industrial area near airport with higher crime rates. Avoid walking alone at night and stick to main roads. Take taxi or rideshare after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Traditional taxi drivers may charge 5-10 times normal rates, especially from airport or to tourists.",
+      "howToAvoid": "Use Bolt, Uber, or official airport taxi services. Always agree on price beforehand or ensure meter is running."
+    },
+    {
+      "name": "Tourist Beggar Schemes",
+      "risk": "medium",
+      "description": "Professional beggars in Old Town approach tourists with sob stories in multiple languages, earning more than average salaries.",
+      "howToAvoid": "Politely decline and walk away. Lithuania has effective social services so stories of desperate need are typically false."
+    },
+    {
+      "name": "Bar Bill Inflation",
+      "risk": "medium",
+      "description": "Some bars in tourist areas add extra items to bills or charge inflated prices, especially for drunk tourists.",
+      "howToAvoid": "Check prices before ordering, verify bills carefully, and avoid venues that don't display clear pricing."
+    },
+    {
+      "name": "Souvenir Overpricing",
+      "risk": "low",
+      "description": "Street vendors and tourist shops charge inflated prices without clear price tags, especially around Cathedral Square.",
+      "howToAvoid": "Compare prices at multiple vendors, shop at established stores with price tags, and don't be afraid to negotiate."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Vilnius is highly rated for solo female travel safety with minimal harassment and excellent infrastructure. Women report feeling comfortable walking alone during the day and in well-lit areas at night. The main precautions involve standard nightlife safety and avoiding deserted areas after dark.",
+    "tips": [
+      "Stay in well-lit areas after dark and avoid empty neighborhoods like those near the airport",
+      "Be cautious in nightlife areas - choose reputable venues and don't accept drinks from strangers",
+      "Use Bolt or Uber rather than street taxis, especially late at night",
+      "Keep valuables secure on public transport during peak hours when pickpockets may be active",
+      "Download the Trafi app for reliable public transport information and routes"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Vilnius nightlife is generally safe with good police presence and well-lit main areas. The 'Triangle' nightlife district (Vilniaus, Islandijos, and Vokiečių streets) has the most activity and security. Authorities publish lists of clubs with higher crime rates, and drink spiking has been reported.",
+    "tips": [
+      "Stick to the main nightlife triangle area and avoid wandering into quiet residential streets",
+      "Watch your drinks carefully and never accept beverages from strangers",
+      "Travel in groups when possible and let someone know your plans",
+      "Use official transport apps rather than unlicensed taxis when leaving venues",
+      "Be aware that Vilnius is popular for stag parties, so avoid highly intoxicated groups"
+    ]
+  },
+  "transport": {
+    "metro": "Vilnius has no operational metro system, though one has been built. The city relies on an excellent bus and trolleybus network with modern vehicles.",
+    "rideshare": "Bolt and Uber operate reliably throughout the city with good coverage and fair pricing. Highly recommended over traditional taxis.",
+    "taxis": "Traditional taxis have poor reputation for overcharging tourists dramatically. Official airport taxis and those using meters are safer options, but rideshare apps strongly preferred.",
+    "tips": "Public transport is very safe and efficient - use the JUDU card or Trafi app for easy payment and navigation. Validate tickets to avoid fines, and watch belongings during rush hour."
+  },
+  "customs": [
+    "Give odd numbers of flowers when visiting (even numbers are for funerals)",
+    "Remove shoes when entering Lithuanian homes as a sign of respect",
+    "Don't whistle indoors - it's considered bad luck and rude",
+    "Maintain direct eye contact when toasting and always reciprocate toasts",
+    "Don't drink alcohol in public spaces like parks or streets - it's illegal",
+    "Learn basic phrases like 'Labas' (hello) and 'Ačiū' (thank you) - locals appreciate the effort"
+  ],
+  "health": {
+    "overview": "Lithuania has a universal healthcare system with high-quality medical care in major hospitals. Vilnius University Hospital is the largest and most advanced facility operating 24/7.",
+    "water": "Tap water is safe to drink and of excellent quality, sourced from underground aquifers. Lithuania has some of the cleanest water in Europe.",
+    "vaccinations": "No special vaccinations required for Lithuania. Standard travel vaccinations (MMR, etc.) recommended. EU health insurance cards accepted.",
+    "altitude": "Lithuania is mostly flat with no altitude concerns. Climate is temperate with cold winters requiring warm clothing and slip-resistant footwear for icy conditions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Vilnius: Akmenų gatve 6, Vilnius LT-03106. Phone: +(370) 5 266-5600. Emergency after hours: +(370) 5 266-5500"
+  },
+  "faq": [
+    {
+      "q": "Is Vilnius safe for tourists?",
+      "a": "Yes, Vilnius is very safe for tourists with low crime rates and excellent infrastructure. It's considered one of Europe's safest capitals with minimal violent crime against visitors."
+    },
+    {
+      "q": "Is Vilnius safe at night?",
+      "a": "Generally yes, especially in the city center and main nightlife areas. Stick to well-lit streets, avoid empty neighborhoods, and use rideshare apps for late-night transport."
+    },
+    {
+      "q": "Is Vilnius safe for solo female travelers?",
+      "a": "Absolutely. Solo female travelers report feeling very comfortable in Vilnius with minimal harassment. Take standard precautions in nightlife areas and avoid deserted areas after dark."
+    },
+    {
+      "q": "What areas should I avoid in Vilnius?",
+      "a": "Avoid Naujininkai neighborhood at night and the industrial areas near the airport. These aren't dangerous but have higher petty crime rates and fewer people around."
+    },
+    {
+      "q": "Is it safe to use public transport in Vilnius?",
+      "a": "Yes, very safe. The bus and trolleybus system is modern, reliable, and well-maintained. Watch belongings during rush hour and always validate your tickets to avoid fines."
+    }
+  ],
+  "relatedCities": [
+    "riga",
+    "tallinn",
+    "warsaw",
+    "stockholm",
+    "helsinki"
+  ],
+  "_city_id": "vilnius-lithuania"
+}

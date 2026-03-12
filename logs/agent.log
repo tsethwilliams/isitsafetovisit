@@ -850,3 +850,39 @@
 2026-03-12 07:59:44,945 [WARNING]   [high] Bali Indonesia: Extreme weather emergency alert until March 8, 2026. Cyclone Seed 90S causing severe flooding, landslides across Bali including tourist areas. Airport ceiling collapse at international terminal. Major tourist zones including Kuta, Legian, Sanur, Denpasar affected by flooding with water levels reaching 30-80cm. Wave heights up to 5 meters threatening coastal areas.
 2026-03-12 07:59:44,947 [WARNING]   [medium] Hanoi Vietnam: Part of broader Southeast Asia weather system with storms and winds reported in Quang Ngai province. Regional weather warnings for heavy rainfall and flooding across Vietnam through early March 2026.
 2026-03-12 07:59:44,948 [WARNING]   [medium] London: London Metropolitan Police banned Al Quds Day march for first time since 2012, citing 'extreme tensions' and potential for serious disorder. Extra officers deployed from across country for 'challenging, potentially violent weekend'. Counter-terrorism arrests related to Iranian regime activities reported.
+2026-03-12 11:42:45,655 [INFO] Agent starting Ã¢ÂÂ mode: add
+2026-03-12 11:42:45,694 [INFO] Queue has 231 cities, adding 8
+2026-03-12 11:42:45,694 [INFO] Generating new city profile: Reykjavik, Iceland
+2026-03-12 11:44:27,150 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:44:27,244 [INFO] Saved city data: reykjavik-iceland
+2026-03-12 11:44:27,245 [INFO] Generating new city profile: Tallinn, Estonia
+2026-03-12 11:45:46,852 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:45:46,912 [INFO] Saved city data: tallinn-estonia
+2026-03-12 11:45:46,914 [INFO] Generating new city profile: Riga, Latvia
+2026-03-12 11:46:59,953 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:47:00,010 [INFO] Saved city data: riga-latvia
+2026-03-12 11:47:00,012 [INFO] Generating new city profile: Vilnius, Lithuania
+2026-03-12 11:48:41,981 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:48:42,075 [INFO] Saved city data: vilnius-lithuania
+2026-03-12 11:48:42,076 [INFO] Generating new city profile: Cesky Krumlov, Czech Republic
+2026-03-12 11:49:54,372 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:49:54,447 [INFO] Saved city data: cesky-krumlov-czech-republic
+2026-03-12 11:49:54,449 [INFO] Generating new city profile: Gdansk, Poland
+2026-03-12 11:51:12,946 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:51:13,005 [INFO] Saved city data: gdansk-poland
+2026-03-12 11:51:13,006 [INFO] Generating new city profile: Wroclaw, Poland
+2026-03-12 11:52:40,928 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:52:41,019 [INFO] Saved city data: wroclaw-poland
+2026-03-12 11:52:41,020 [INFO] Generating new city profile: Cluj-Napoca, Romania
+2026-03-12 11:54:07,728 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-12 11:54:07,860 [INFO] Saved city data: cluj-napoca-romania
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Reykjavik
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Tallinn
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Riga
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Vilnius
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Cesky Krumlov
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Gdansk
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Wroclaw
+2026-03-12 11:54:07,872 [INFO] Merged into site data: Cluj-Napoca
+2026-03-12 11:54:07,903 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-12 11:54:07,903 [INFO] Updated sitemap with 8 new URLs

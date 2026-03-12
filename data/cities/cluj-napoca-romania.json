@@ -1,0 +1,161 @@
+{
+  "slug": "cluj-napoca",
+  "name": "Cluj-Napoca",
+  "country": "Romania",
+  "countryCode": "RO",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 7.8
+  },
+  "summary": "Cluj-Napoca is one of Romania's safest cities and ranks among the top 100 safest cities globally for solo female travelers. Crime rates are very low, with violent crime being exceptionally rare, though petty theft can occur in tourist areas.",
+  "quickVerdict": "Cluj-Napoca offers excellent safety for visitors, consistently ranking as Romania's safest major city. The crime index is very low at just 22.4, making it safer than many Western European capitals including London. Students make up one-fifth of the population, creating a vibrant yet secure environment. Police are trustworthy and responsive, though corruption remains a minor concern. The main safety issues are occasional petty theft in crowded areas and illegal street racing at night on city outskirts.",
+  "neighborhoods": [
+    {
+      "name": "City Center & Unirii Square",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart of Cluj-Napoca with St. Michael's Church and major attractions. Very safe with good lighting, frequent police patrols, and lots of foot traffic. Ideal for tourists day and night."
+    },
+    {
+      "name": "Studentilor Street Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The main nightlife district popular with students and young people. Generally very safe with vibrant atmosphere, though keep belongings secure in crowded bars and clubs."
+    },
+    {
+      "name": "Zorilor District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential area with parks and shopping centers. Safe for walking and well-connected by public transport. Some areas can be quiet at night but no major safety concerns."
+    },
+    {
+      "name": "Manastur District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Large residential district with good transport links. Generally safe during the day, but some parts can be less well-lit at night. Use caution when walking alone after dark."
+    },
+    {
+      "name": "Marasti District",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mixed residential area that's generally safe but requires more attention at night. Some reports of petty crime on darker streets. Stick to main roads and use rideshare services after dark."
+    },
+    {
+      "name": "Iris District",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Outer residential area that's safe during the day but can have isolated spots. Some reports of robbery on darker streets at night. Avoid walking alone after dark and use main transportation routes."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers at the airport and train stations may overcharge tourists or manipulate meters, especially targeting non-Romanian speakers.",
+      "howToAvoid": "Always use Bolt or Uber rideshare apps, or official taxi companies like Nova Taxi or Napoca Taxi. Ensure the meter is running or agree on fare beforehand."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some restaurants may add unauthorized charges or overcharge for items not ordered, particularly charging for full bottles when only glasses were consumed.",
+      "howToAvoid": "Always check your bill carefully before paying. Ask for itemized receipts and question any charges you don't recognize. Stick to reputable establishments."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "low",
+      "description": "Card skimming devices may be installed on ATMs to steal credit card information, particularly at machines outside banks or in tourist areas.",
+      "howToAvoid": "Use ATMs inside banks when possible. Check for any suspicious devices attached to card slots. Cover your PIN when entering it and monitor bank statements regularly."
+    },
+    {
+      "name": "Fake Parking Attendants",
+      "risk": "low",
+      "description": "Individuals may pretend to be official parking attendants, directing tourists to parking spots and then demanding payment for services not requested.",
+      "howToAvoid": "Only pay at official parking meters or clearly marked attendant booths. If approached by unofficial 'attendants,' politely decline and find official parking."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cluj-Napoca is exceptionally safe for solo female travelers, ranking #98 globally with a 4.5/5 safety rating. The city is known for its student-friendly atmosphere and welcoming locals. Women report feeling comfortable walking alone even at night in central areas, though basic precautions are always recommended.",
+    "tips": [
+      "The city center and main streets are very safe for evening walks, with good lighting and regular foot traffic",
+      "Avoid isolated areas in outer districts like Iris and Marasti after dark, and use rideshare services instead",
+      "Romanian men are generally respectful, and unwanted attention is uncommon - a firm 'Nu, multumesc' usually suffices",
+      "Stay aware of your surroundings in crowded areas and keep valuables secure, especially during events like UNTOLD Festival",
+      "The large student population creates a safe, international-friendly environment throughout the year"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cluj-Napoca is generally very safe at night, especially in central areas and the main nightlife district around Studentilor Street. The large student population ensures vibrant nightlife with good safety standards. However, be cautious of illegal street racing on city outskirts and avoid poorly lit areas in outer districts.",
+    "tips": [
+      "Stick to well-lit main streets and central areas when walking at night",
+      "Use Bolt or Uber for late-night transportation rather than walking long distances",
+      "Be extra vigilant during major events like UNTOLD Festival when crowds attract pickpockets",
+      "Avoid walking alone in outer residential districts like Iris and Marasti after 10 PM",
+      "The nightlife scene is generally safe with good police presence, but don't leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "Cluj-Napoca does not have a metro system. The city relies on buses, trolleybuses, and trams operated by CTP Cluj-Napoca, providing comprehensive coverage.",
+    "rideshare": "Bolt and Uber operate extensively in Cluj-Napoca and are highly recommended over traditional taxis. Both apps provide transparent pricing and are available 24/7, making them the safest transport option.",
+    "taxis": "Official taxis are safe but use reputable companies like Nova Taxi, Diesel Taxi, or Napoca Taxi. Ensure the meter is running and avoid unlicensed taxis at the airport or train stations.",
+    "tips": "Public transport is safe and affordable with modern buses and trams. Purchase tickets via the 24Pay app or at kiosks. Always validate tickets when boarding to avoid fines."
+  },
+  "customs": [
+    "Greet people with 'Buna ziua' (good day) and use titles like 'Domnul' (Mr.) or 'Doamna' (Mrs.) with surnames in formal settings",
+    "Bring small gifts like flowers, chocolate, or wine when invited to someone's home - avoid even numbers of flowers as they're associated with funerals",
+    "Romanian hospitality is legendary - expect to be offered food and drink generously, and it's polite to accept at least something to show respect"
+  ],
+  "health": {
+    "overview": "Cluj-Napoca has excellent healthcare facilities, ranking 2nd in Romania for healthcare quality with a healthcare index of 65.66. The city hosts four top-performance hospitals and a new 849-bed Regional Emergency Hospital is under construction.",
+    "water": "Tap water is safe to drink in Cluj-Napoca and meets European standards. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider tick-borne encephalitis vaccination if planning extensive outdoor activities in surrounding forests.",
+    "altitude": "Cluj-Napoca sits at approximately 400 meters elevation with a temperate continental climate. Winters are cold with snow, summers are warm. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Bucharest: 4-6 Liviu Librescu Blvd, District 1, Bucharest. Tel: +40-21-200-3300. No consulate in Cluj-Napoca."
+  },
+  "faq": [
+    {
+      "q": "Is Cluj-Napoca safe for tourists?",
+      "a": "Yes, Cluj-Napoca is very safe for tourists and consistently ranks as Romania's safest major city. It's among the top 100 safest cities worldwide with very low crime rates and a strong police presence."
+    },
+    {
+      "q": "Is Cluj-Napoca safe at night?",
+      "a": "Cluj-Napoca is generally safe at night, especially in the city center and main nightlife areas. However, avoid poorly lit areas in outer districts and be aware of illegal street racing on city outskirts after dark."
+    },
+    {
+      "q": "Is Cluj-Napoca safe for solo female travelers?",
+      "a": "Absolutely. Cluj-Napoca ranks #98 globally for solo female travel safety with a 4.5/5 rating. Women report feeling very comfortable walking alone, even at night in central areas, thanks to the student-friendly atmosphere."
+    },
+    {
+      "q": "What areas should I avoid in Cluj-Napoca?",
+      "a": "While the city is generally very safe, exercise extra caution in outer districts like Iris and Marasti after dark, particularly on poorly lit side streets. The city center and main tourist areas are safe at all hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Cluj-Napoca?",
+      "a": "Yes, public transport is safe and modern. Buses, trams, and trolleybuses are well-maintained and reliable. For even greater safety, use Bolt or Uber rideshare apps, which are widely available and affordable."
+    }
+  ],
+  "relatedCities": [
+    "bucharest",
+    "timisoara",
+    "brasov"
+  ],
+  "_city_id": "cluj-napoca-romania"
+}

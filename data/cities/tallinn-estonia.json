@@ -1,0 +1,159 @@
+{
+  "slug": "tallinn",
+  "name": "Tallinn",
+  "country": "Estonia",
+  "countryCode": "EE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-12",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.0,
+    "womensSafety": 8.2,
+    "nightSafety": 7.8,
+    "transport": 8.8,
+    "naturalHazards": 8.6
+  },
+  "summary": "Tallinn is consistently ranked among Europe's safest capitals with remarkably low crime rates and excellent safety infrastructure. While petty crime like pickpocketing occurs mainly in tourist areas, violent crime is extremely rare and the city maintains strong public safety measures. Estonia's Level 1 US State Department travel advisory reflects the minimal security risks for visitors.",
+  "quickVerdict": "Tallinn stands out as one of Europe's safest capital cities, earning praise for its low crime rates and well-maintained public safety. The medieval Old Town, while crowded with tourists, remains secure with occasional pickpocketing being the primary concern. Women travelers consistently report feeling safe even when walking alone at night, and the city's efficient public transport system operates safely around the clock. With excellent healthcare facilities, reliable emergency services, and a welcoming local population, Tallinn offers visitors peace of mind to explore its historic charm and modern amenities freely.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Vanalinn)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The UNESCO World Heritage medieval center is very safe with regular police presence, though pickpockets target tourists in crowded areas like Town Hall Square and around major attractions."
+    },
+    {
+      "name": "Kadriorg",
+      "score": 9.2,
+      "class": "safe",
+      "description": "Upscale residential area home to the presidential palace, museums, and parks. Extremely safe with well-maintained streets and minimal crime reported."
+    },
+    {
+      "name": "Kalamaja",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Trendy hipster district with creative spaces and colorful wooden houses. Generally very safe with a vibrant local community, popular among young professionals and artists."
+    },
+    {
+      "name": "Pirita",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Coastal neighborhood with beaches and marina. Very safe residential area popular with families, offering a peaceful seaside atmosphere away from city center crowds."
+    },
+    {
+      "name": "Kopli",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Industrial area in northern Tallinn that locals advise avoiding, especially at night. Higher concentration of social issues and petty crime compared to other districts."
+    },
+    {
+      "name": "Lasnamae",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Large residential district with Soviet-era housing blocks. Generally safe during daytime but some areas can be less secure at night, particularly around shopping centers and transport hubs."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pedicab Overcharging",
+      "risk": "high",
+      "description": "Pedicab operators near cruise ships and in Old Town show low prices initially but demand significantly higher fares at destination, sometimes 3-4 times the quoted rate.",
+      "howToAvoid": "Avoid pedicabs entirely or demand written fare agreement before starting. Use official taxis, Bolt, or public transport instead."
+    },
+    {
+      "name": "Taxi Fare Inflation",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers, especially at airport and tourist areas, charge inflated rates compared to official taxis or ride-sharing apps.",
+      "howToAvoid": "Use only official yellow Tallink taxis or ride-sharing apps like Bolt and Uber. Confirm fare before starting and check taxi has proper identification."
+    },
+    {
+      "name": "Bar Bill Scams",
+      "risk": "medium",
+      "description": "Some bars in tourist areas, particularly those approached by promoters, inflate bills or add unauthorized charges, especially targeting foreign visitors.",
+      "howToAvoid": "Check prices before ordering, avoid bars with aggressive street promoters, and always review itemized bills. Stick to established venues with clear pricing."
+    },
+    {
+      "name": "Nightlife Honeytrap",
+      "risk": "medium",
+      "description": "Women approach tourists in reputable bars and entice them to visit nearby establishments where they face grossly overcharged bills for drinks.",
+      "howToAvoid": "Be wary of unsolicited approaches in bars, don't follow strangers to secondary locations, and research venues beforehand. Stick to well-known establishments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tallinn is exceptionally safe for solo female travelers, ranking among the top 20 safest cities globally for women. Street harassment is virtually nonexistent, and women regularly walk alone at night without incident. The city center is well-lit and populated, with reliable public transport operating safely throughout the evening hours.",
+    "tips": [
+      "Public transport is very safe even late at night with good lighting and security",
+      "Most locals are reserved but helpful if you need assistance",
+      "Stick to well-lit main streets when walking alone after dark, though crime is rare even in quieter areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tallinn maintains excellent nighttime safety with well-lit streets, active nightlife areas, and minimal violent crime. The Old Town and city center remain bustling with locals and tourists well into the night, creating natural surveillance. Police presence is visible but discreet, and emergency services respond quickly when needed.",
+    "tips": [
+      "Avoid excessive drinking when alone, as this is when most tourist incidents occur",
+      "Stay in groups in nightlife areas and watch your drinks to prevent spiking",
+      "The train station area can feel less secure late at night, so use main streets when possible"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Tallinn. The city relies on an extensive network of buses, trams, and trolleybuses that operate safely from 6:00-23:00 daily with night services on weekends.",
+    "rideshare": "Bolt is the dominant ride-sharing platform and highly reliable with transparent pricing. Uber also operates. Both are safer and more convenient than traditional taxis.",
+    "taxis": "Official yellow Tallink taxis are regulated and safe, but Bolt and Uber are preferred by locals and tourists for reliability and pricing transparency.",
+    "tips": "Public transport is exceptionally safe with CCTV, emergency intercoms, and free travel for residents. Validate tickets to avoid 40 euro fines during random inspections."
+  },
+  "customs": [
+    "Estonians are reserved and value personal space - avoid loud behavior or excessive familiarity",
+    "Remove shoes when entering homes and bring flowers (odd numbers) or small gifts for hosts",
+    "Never start conversations in Russian as this is considered extremely rude by Estonians despite large Russian-speaking population"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Tallinn is excellent with modern facilities meeting EU standards. Major hospitals are well-equipped with English-speaking staff, though rural areas have more limited services.",
+    "water": "Tap water is among the cleanest in Europe and completely safe to drink throughout Estonia. Locals use it daily and bottled water is unnecessary.",
+    "vaccinations": "Standard European vaccinations recommended. Tick-borne encephalitis vaccine available locally for those visiting forests in summer months.",
+    "altitude": "Sea level location with temperate climate. Winters are cold with icy conditions that can cause falls. Summer temperatures average 68F with occasional rain."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Tallinn: Kentmanni 20, 15099 Tallinn. Phone: +372 668-8100. Emergency after hours: +372 668-8100"
+  },
+  "faq": [
+    {
+      "q": "Is Tallinn safe for tourists?",
+      "a": "Yes, Tallinn is one of Europe's safest capitals with extremely low crime rates. The US State Department rates Estonia at Level 1 (exercise normal precautions), and violent crime against tourists is virtually nonexistent."
+    },
+    {
+      "q": "Is Tallinn safe at night?",
+      "a": "Very safe. The city center and Old Town remain active and well-lit throughout the evening with minimal crime. Women regularly walk alone at night without incident, though basic precautions are always wise."
+    },
+    {
+      "q": "Is Tallinn safe for solo female travelers?",
+      "a": "Exceptionally safe. Tallinn ranks among the world's top 20 safest cities for women, with virtually no street harassment reported. Public transport, accommodations, and tourist areas are all very secure for solo women."
+    },
+    {
+      "q": "What areas should I avoid in Tallinn?",
+      "a": "Avoid the Kopli area in northern Tallinn and some parts of Lasnamae at night. The train station area can feel less secure after dark. Otherwise, most of the city is very safe for tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Tallinn?",
+      "a": "Extremely safe. Buses, trams, and trolleybuses operate with CCTV, emergency intercoms, and regular cleaning. The system runs reliably from 6 AM to 11 PM with weekend night services, and crime on public transport is very rare."
+    }
+  ],
+  "relatedCities": [
+    "riga",
+    "vilnius",
+    "helsinki",
+    "stockholm",
+    "warsaw"
+  ],
+  "_city_id": "tallinn-estonia"
+}

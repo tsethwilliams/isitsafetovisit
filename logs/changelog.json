@@ -1312,5 +1312,53 @@
     "action": "alert",
     "city_id": "London",
     "details": "{\"city_id\": \"London\", \"alert_type\": \"political_unrest\", \"severity\": \"medium\", \"summary\": \"London Metropolitan Police banned Al Quds Day march for first time since 2012, citing 'extreme tensions' and potential for serious disorder. Extra officers deployed from across country for 'challenging, potentially violent weekend'. Counter-terrorism arrests related to Iranian regime activities reported.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-12T11:44:27.244514+00:00",
+    "action": "add",
+    "city_id": "reykjavik-iceland",
+    "details": "New city added with score 8.9"
+  },
+  {
+    "timestamp": "2026-03-12T11:45:46.913071+00:00",
+    "action": "add",
+    "city_id": "tallinn-estonia",
+    "details": "New city added with score 8.1"
+  },
+  {
+    "timestamp": "2026-03-12T11:47:00.011236+00:00",
+    "action": "add",
+    "city_id": "riga-latvia",
+    "details": "New city added with score 7.6"
+  },
+  {
+    "timestamp": "2026-03-12T11:48:42.075601+00:00",
+    "action": "add",
+    "city_id": "vilnius-lithuania",
+    "details": "New city added with score 7.6"
+  },
+  {
+    "timestamp": "2026-03-12T11:49:54.448461+00:00",
+    "action": "add",
+    "city_id": "cesky-krumlov-czech-republic",
+    "details": "New city added with score 8.1"
+  },
+  {
+    "timestamp": "2026-03-12T11:51:13.005834+00:00",
+    "action": "add",
+    "city_id": "gdansk-poland",
+    "details": "New city added with score 7.4"
+  },
+  {
+    "timestamp": "2026-03-12T11:52:41.019577+00:00",
+    "action": "add",
+    "city_id": "wroclaw-poland",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-12T11:54:07.860878+00:00",
+    "action": "add",
+    "city_id": "cluj-napoca-romania",
+    "details": "New city added with score 7.6"
   }
 ]
