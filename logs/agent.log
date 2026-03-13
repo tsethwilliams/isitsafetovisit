@@ -976,3 +976,27 @@
 2026-03-12 23:11:13,144 [INFO] Merged into site data: Skopje
 2026-03-12 23:11:13,177 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-12 23:11:13,178 [INFO] Updated sitemap with 8 new URLs
+2026-03-13 06:09:09,673 [INFO] Agent starting — mode: add
+2026-03-13 06:09:09,714 [INFO] Queue has 207 cities, adding 5
+2026-03-13 06:09:09,714 [INFO] Generating new city profile: Ohrid, North Macedonia
+2026-03-13 06:10:22,157 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 06:10:22,215 [INFO] Saved city data: ohrid-north-macedonia
+2026-03-13 06:10:22,217 [INFO] Generating new city profile: Pristina, Kosovo
+2026-03-13 06:12:01,817 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 06:12:01,832 [INFO] Saved city data: pristina-kosovo
+2026-03-13 06:12:01,834 [INFO] Generating new city profile: Santorini, Greece
+2026-03-13 06:13:27,091 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 06:13:27,126 [INFO] Saved city data: santorini-greece
+2026-03-13 06:13:27,128 [INFO] Generating new city profile: Mykonos, Greece
+2026-03-13 06:15:16,319 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 06:15:16,353 [INFO] Saved city data: mykonos-greece
+2026-03-13 06:15:16,355 [INFO] Generating new city profile: Crete, Greece
+2026-03-13 06:16:44,975 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 06:16:45,007 [INFO] Saved city data: crete-greece
+2026-03-13 06:16:45,029 [INFO] Merged into site data: Ohrid
+2026-03-13 06:16:45,029 [INFO] Merged into site data: Pristina
+2026-03-13 06:16:45,029 [INFO] Merged into site data: Santorini
+2026-03-13 06:16:45,029 [INFO] Merged into site data: Mykonos
+2026-03-13 06:16:45,029 [INFO] Merged into site data: Crete
+2026-03-13 06:16:45,063 [INFO] Merged 5 new cities into src/lib/city-data.json
+2026-03-13 06:16:45,064 [INFO] Updated sitemap with 5 new URLs

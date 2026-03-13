@@ -1,0 +1,162 @@
+{
+  "slug": "santorini",
+  "name": "Santorini",
+  "country": "Greece",
+  "countryCode": "GR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 8.9,
+    "scamRisk": 6.8,
+    "womensSafety": 8.1,
+    "nightSafety": 7.5,
+    "transport": 6.9,
+    "naturalHazards": 5.5
+  },
+  "summary": "Santorini is one of Greece's safest destinations with extremely low violent crime rates and a welcoming atmosphere for tourists. Recent seismic activity has raised concerns about natural hazards, though life has returned to normal following the February 2025 earthquake swarm.",
+  "quickVerdict": "Santorini remains a very safe destination for travelers, with violent crime against tourists being almost non-existent. The island's biggest safety concerns are traffic accidents involving ATVs and scooters, recent seismic activity that has since stabilized, and occasional petty theft in crowded tourist areas. Solo female travelers feel particularly safe here, and the friendly local community creates a welcoming environment. While natural hazards scored lower due to the February 2025 earthquake swarm and ongoing volcanic monitoring, authorities confirmed no imminent eruption risks.",
+  "neighborhoods": [
+    {
+      "name": "Fira",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The bustling capital offers good safety with well-lit streets and active nightlife. Main safety concern is crowded areas during peak hours and busy traffic."
+    },
+    {
+      "name": "Oia",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Very safe upscale village with excellent lighting and constant tourist presence. Watch for narrow paths and cliff edges, especially at sunset viewpoints."
+    },
+    {
+      "name": "Imerovigli",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Quiet, upscale area with minimal crime and good infrastructure. Mainly residential with fewer crowds, making it very safe day and night."
+    },
+    {
+      "name": "Kamari",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular beach town with good safety standards. Beach bars and restaurants are well-maintained, though it gets crowded during summer evenings."
+    },
+    {
+      "name": "Perissa",
+      "score": 7.4,
+      "class": "safe",
+      "description": "Laid-back beach village with a relaxed atmosphere. Generally very safe, with the main concerns being sun exposure and occasional party-related incidents."
+    },
+    {
+      "name": "Airport/Port Areas",
+      "score": 6.9,
+      "class": "caution",
+      "description": "Transportation hubs can be hectic with tourists carrying luggage. Generally safe but watch belongings during busy periods and be cautious with unlicensed taxi operators."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bar Friend Fraud",
+      "risk": "medium",
+      "description": "Friendly locals approach tourists suggesting specific bars or restaurants, then disappear when the inflated bill arrives.",
+      "howToAvoid": "Decline invitations from strangers to specific venues. Research restaurants independently and check prices before ordering."
+    },
+    {
+      "name": "Fake Accommodation Bookings",
+      "risk": "medium",
+      "description": "Scammers create fake hotel listings on booking sites with great reviews, but properties turn out to be substandard or non-existent.",
+      "howToAvoid": "Book through reputable sites, verify property addresses, read recent reviews carefully, and confirm bookings directly with hotels."
+    },
+    {
+      "name": "Restaurant Menu Price Inflation",
+      "risk": "medium",
+      "description": "Some tourist-focused restaurants don't display prices clearly or charge exorbitant amounts for simple items without showing menus first.",
+      "howToAvoid": "Always ask to see a menu with prices before ordering. Be especially cautious with cafes that don't display prices prominently."
+    },
+    {
+      "name": "ATV Rental Damage Scams",
+      "risk": "high",
+      "description": "Rental companies claim vehicles were damaged during your rental period and demand payment for repairs that may have been pre-existing.",
+      "howToAvoid": "Document vehicle condition with photos before renting. Choose reputable rental companies and consider comprehensive insurance. Avoid ATVs entirely due to safety risks."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Santorini is exceptionally safe for solo female travelers, ranking as one of the top destinations in Greece for women traveling alone. Street harassment is rare, and the main towns remain lively and well-lit late into the night. The local community is respectful and welcoming, with many solo female travelers reporting feeling completely comfortable exploring day and night.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Fira, Oia, or Imerovigli for the safest experience",
+      "The main tourist areas are very safe for evening walks, but carry a small flashlight for narrow paths",
+      "Join sunset tours or cooking classes to meet other travelers if seeking social connections"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Santorini offers excellent nighttime safety with well-lit main areas and a strong police presence in tourist zones. Fira has the most active nightlife scene, while Oia and other villages remain peaceful after dark. The biggest nighttime risks are related to narrow, uneven paths rather than crime, especially when walking between venues.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "Wear comfortable shoes due to cobblestone streets and uneven surfaces",
+      "Use taxis for longer distances at night as public buses stop running around 9 PM"
+    ]
+  },
+  "transport": {
+    "metro": "Santorini has no metro system. The island relies on buses, taxis, private transfers, and rental cars for transportation.",
+    "rideshare": "Uber and Lyft are not available in Santorini. Taxi services must be called directly at +30 22860 22555, though availability is limited.",
+    "taxis": "Limited number of taxis available island-wide. Fares are regulated with no night surcharges. Expect €15-40 depending on distance. Advance booking recommended, especially during peak season.",
+    "tips": "Rent a car for maximum flexibility and safety. Public buses are reliable and cheap (€1.60-2.50) but limited schedules. Avoid ATVs - they're the biggest safety hazard on the island."
+  },
+  "customs": [
+    "Tipping 10-15% at restaurants is appreciated but not mandatory - rounding up the bill is common",
+    "Always carry ID as police may request identification, and keep passport copies",
+    "Avoid photographing military installations or personnel - this is strictly prohibited",
+    "Remove nothing from archaeological sites, including small stones or pottery fragments",
+    "Dress modestly when visiting churches - cover shoulders and avoid shorts"
+  ],
+  "health": {
+    "overview": "Healthcare in Santorini is good with modern facilities. The main Santorini General Hospital opened in 2016 with state-of-the-art equipment and 24-hour emergency services.",
+    "water": "Tap water is safe for hygiene but not recommended for drinking due to high mineral content from desalination. Stick to bottled water for consumption.",
+    "vaccinations": "No special vaccinations required. Routine vaccines (hepatitis A/B, tetanus, measles) are recommended as for any international travel.",
+    "altitude": "Sea level location with Mediterranean climate. Main health concerns are heat exhaustion in summer (temperatures reach 35°C/95°F) and sun exposure due to intense reflection from white buildings."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "166",
+    "fire": "199",
+    "touristPolice": "171",
+    "usEmbassy": "US Embassy Athens: +30 210 721-2951. Consular services available for American citizens in emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Santorini safe for tourists?",
+      "a": "Yes, Santorini is very safe for tourists with extremely low violent crime rates. The US State Department rates Greece at Level 1 (Exercise Normal Precautions). Main concerns are traffic safety and recent seismic activity, though volcanic risks remain low."
+    },
+    {
+      "q": "Is Santorini safe at night?",
+      "a": "Santorini is very safe at night, especially in main tourist areas like Fira and Oia which remain well-lit and active until late. The biggest nighttime risk is navigating narrow cobblestone paths rather than crime."
+    },
+    {
+      "q": "Is Santorini safe for solo female travelers?",
+      "a": "Absolutely. Santorini ranks #1 among Greek destinations for solo female travel safety. Street harassment is rare, locals are respectful, and many women report feeling completely comfortable exploring alone day and night."
+    },
+    {
+      "q": "What areas should I avoid in Santorini?",
+      "a": "There are no particularly dangerous areas in Santorini. Exercise normal caution around cliff edges, avoid unlicensed taxi operators at transport hubs, and be extra careful on narrow paths during sunset hours when crowds gather."
+    },
+    {
+      "q": "Is it safe to use public transport in Santorini?",
+      "a": "Yes, public buses are safe and reliable, though they can get crowded during peak season. The biggest transport risk is renting ATVs or scooters - dozens of tourists are injured annually in accidents on the narrow, winding roads."
+    }
+  ],
+  "relatedCities": [
+    "athens",
+    "mykonos",
+    "rhodes",
+    "crete",
+    "corfu",
+    "thessaloniki"
+  ],
+  "_city_id": "santorini-greece"
+}
