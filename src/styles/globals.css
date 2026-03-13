@@ -1587,3 +1587,327 @@ h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
   border-color: var(--accent);
   color: white;
 }
+/* =============================================
+   NEW PAGES: Regions, Topics, Scams, About
+   Add to BOTTOM of src/styles/globals.css
+   ============================================= */
+
+/* --- Page Hero (shared across new pages) --- */
+.page-hero {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2.5rem;
+}
+
+.page-hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.5rem;
+  color: var(--ink);
+  margin: 0 0 0.75rem;
+}
+
+.page-hero-sub {
+  font-size: 1.1rem;
+  color: var(--ink-muted);
+  max-width: 700px;
+  line-height: 1.6;
+}
+
+/* --- Regions Index Page --- */
+.regions-page-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.region-page-card {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.75rem;
+  background: var(--paper);
+  transition: box-shadow 0.2s;
+}
+
+.region-page-card:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+}
+
+.region-page-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.region-page-emoji {
+  font-size: 2rem;
+}
+
+.region-page-header h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.region-page-header h2 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.region-page-header h2 a:hover {
+  color: var(--accent);
+}
+
+.region-page-stats {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+}
+
+.region-page-desc {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.region-page-cities {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.region-city-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: 0.9rem;
+  transition: background 0.15s;
+}
+
+.region-city-link:hover {
+  background: var(--paper-warm);
+}
+
+.region-page-viewall {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.region-page-viewall:hover {
+  text-decoration: underline;
+}
+
+/* --- Region Detail Page --- */
+.region-detail-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem;
+  background: var(--paper-warm);
+  border-radius: 12px;
+}
+
+.region-safest {
+  margin-bottom: 2.5rem;
+}
+
+.region-safest h2 {
+  font-family: 'DM Serif Display', serif;
+  margin-bottom: 1.25rem;
+}
+
+.region-city-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-bottom: 3rem;
+}
+
+/* --- Topic Pages --- */
+.topic-city-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.topic-city-card {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: var(--paper);
+}
+
+.topic-city-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.topic-city-header h3 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.topic-city-header a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.topic-city-header a:hover {
+  color: var(--accent);
+}
+
+.topic-score {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.topic-city-content p {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  line-height: 1.5;
+  margin: 0.4rem 0;
+}
+
+.topic-city-readmore {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.topic-city-readmore:hover {
+  text-decoration: underline;
+}
+
+/* --- Scams Page --- */
+.scams-page-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+  padding: 1.5rem;
+  background: var(--paper-warm);
+  border-radius: 12px;
+}
+
+.scams-page-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+}
+
+.scam-city-label {
+  font-size: 0.8rem;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.scam-city-label a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.scam-city-label a:hover {
+  text-decoration: underline;
+}
+
+/* --- About Page --- */
+.about-content {
+  max-width: 800px;
+  margin-bottom: 3rem;
+}
+
+.about-content p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ink-light);
+  margin-bottom: 1rem;
+}
+
+.about-scores-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.about-score-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  background: var(--paper);
+}
+
+.about-score-item h4 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1rem;
+  margin: 0 0 0.4rem;
+  color: var(--ink);
+}
+
+.about-score-item p {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin: 0;
+  line-height: 1.5;
+}
+
+.about-tiers {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.about-tier {
+  padding: 0.75rem 1rem;
+  background: var(--paper-warm);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.about-tier span {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .page-hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .regions-page-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .region-detail-stats,
+  .scams-page-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .scams-page-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-scores-grid {
+    grid-template-columns: 1fr;
+  }
+}
