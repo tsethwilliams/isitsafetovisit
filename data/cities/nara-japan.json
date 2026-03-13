@@ -1,0 +1,165 @@
+{
+  "slug": "nara",
+  "name": "Nara",
+  "country": "Japan",
+  "countryCode": "JP",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 8.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 9.2,
+    "violentCrime": 9.5,
+    "scamRisk": 8.7,
+    "womensSafety": 9.1,
+    "nightSafety": 8.8,
+    "transport": 9.3,
+    "naturalHazards": 7.5
+  },
+  "summary": "Nara is one of Japan's safest destinations, combining the country's exceptionally low crime rates with a peaceful, historic atmosphere. The former capital offers visitors a serene experience with its famous deer park and ancient temples. Natural disasters are the primary safety consideration, though comprehensive warning systems are in place.",
+  "quickVerdict": "Nara represents Japan at its safest and most welcoming. With virtually no violent crime, minimal petty theft, and a culture of respect and courtesy, visitors can explore freely day and night. The biggest safety considerations are natural disasters like earthquakes and typhoons, but Japan's world-class warning systems and preparedness infrastructure significantly mitigate these risks. Solo travelers, including women, consistently report feeling safer in Nara than in their home countries.",
+  "neighborhoods": [
+    {
+      "name": "Nara Park Area",
+      "score": 9.4,
+      "class": "safe",
+      "description": "The heart of tourist activity around Todaiji Temple and deer park. Extremely well-maintained with constant foot traffic and excellent lighting. Police presence and emergency services nearby."
+    },
+    {
+      "name": "Naramachi Historic District",
+      "score": 9.1,
+      "class": "safe",
+      "description": "Traditional merchant quarter with preserved wooden buildings. Very safe for walking with local shops and cafes. Well-lit main streets with respectful local community."
+    },
+    {
+      "name": "Kasuga Taisha Shrine Area",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Peaceful shrine grounds surrounded by forest paths. Safe during daylight hours with occasional temple staff present. Less crowded but well-maintained trails."
+    },
+    {
+      "name": "JR Nara Station District",
+      "score": 8.6,
+      "class": "safe",
+      "description": "Modern commercial area with hotels, restaurants and shopping. Busy during day with good lighting at night. Standard urban precautions recommended after midnight."
+    },
+    {
+      "name": "Kintetsu Nara Station Area",
+      "score": 8.9,
+      "class": "safe",
+      "description": "Central transportation hub closer to main attractions. Heavy pedestrian traffic and commercial activity. Excellent safety with police box nearby and regular patrols."
+    },
+    {
+      "name": "Kofukuji Temple Grounds",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Historic temple complex with pagoda and museum. Generally safe with temple security during operating hours. More isolated areas best visited during daylight."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Charity Collection",
+      "risk": "low",
+      "description": "Individuals approach tourists claiming to collect donations for disaster relief or charity causes, often with official-looking materials and emotional stories.",
+      "howToAvoid": "Only donate to recognized organizations through official channels. Politely decline street solicitations and verify charity claims online if interested."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "low",
+      "description": "Some vendors near major attractions may charge inflated prices for souvenirs, food, or services targeting foreign visitors.",
+      "howToAvoid": "Compare prices at multiple vendors before purchasing. Check price tags carefully and ask for receipts. Shop at established stores with clearly marked prices."
+    },
+    {
+      "name": "Incorrect Change Scam",
+      "risk": "very-low",
+      "description": "Extremely rare instances of vendors providing incorrect change, sometimes substituting foreign coins that look similar to Japanese currency.",
+      "howToAvoid": "Count your change carefully and familiarize yourself with Japanese currency. Keep receipts and report discrepancies to store management."
+    },
+    {
+      "name": "Photography Scam",
+      "risk": "very-low",
+      "description": "Individuals offer to take photos of tourists then demand payment or claim the camera was damaged. Very uncommon in Nara's respectful culture.",
+      "howToAvoid": "Use timer functions or ask fellow tourists for photos. Be cautious of unsolicited photography offers and keep cameras secure."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nara is exceptionally safe for solo female travelers, with Japan's culture of respect creating an environment where women feel secure exploring alone. The city's peaceful atmosphere, combined with helpful locals and excellent infrastructure, makes it one of the world's safest destinations for women traveling independently. Streets are safe to walk at night, harassment is virtually non-existent, and the respectful distance maintained by locals creates a comfortable travel experience.",
+    "tips": [
+      "Women-only train cars are available during rush hours on major lines if traveling to/from Osaka or Kyoto",
+      "Solo dining is completely normal in Japan - counter seating at restaurants welcomes individual diners",
+      "Download the Safety Tips app for real-time earthquake and disaster alerts in English",
+      "Keep emergency contact numbers saved in your phone including police (110) and ambulance (119)",
+      "Trust your instincts as you would anywhere else, though serious safety concerns are extremely rare in Nara"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nara maintains excellent safety levels after dark, though it becomes quieter than major cities like Tokyo or Osaka. Well-lit streets, 24-hour convenience stores, and Japan's low crime rate create a secure nighttime environment. The deer in Nara Park are less active at night, and some temple areas may be poorly lit, but violent crime remains virtually non-existent. Standard precautions apply, but fear of nighttime activity is generally unwarranted.",
+    "tips": [
+      "Stick to well-lit main streets and commercial areas after 10 PM for maximum comfort",
+      "Convenience stores (konbini) are open 24/7 and serve as safe havens if needed",
+      "Temple and park areas may be dimly lit at night - bring a flashlight for forest paths",
+      "Public transport runs until midnight with reduced frequency afterward",
+      "Trust the general safety but maintain situational awareness as you would in any city"
+    ]
+  },
+  "transport": {
+    "metro": "Nara has no subway system but is connected by JR and Kintetsu train lines to major cities. Both stations are safe, well-lit, and have English signage. Trains run frequently during the day with reduced service after midnight.",
+    "rideshare": "International rideshare apps have limited availability. Local taxi apps exist but may require Japanese language skills. Most tourists rely on trains and buses for transportation.",
+    "taxis": "Taxis are extremely safe, clean, and honest with regulated meters. Drivers don't expect tips and doors open/close automatically. English communication may be limited, so have destinations written in Japanese characters.",
+    "tips": "Public buses connect major attractions and are very safe. Get a day pass for unlimited rides. Bicycles can be rented safely for exploring the city, though watch for pedestrians in deer park areas."
+  },
+  "customs": [
+    "Remove shoes when entering temples, traditional buildings, and some restaurants - look for shoe racks at entrances",
+    "Bow slightly when greeting people or showing gratitude, though handshakes are also acceptable for foreigners",
+    "Don't eat while walking - finish snacks before continuing rather than eating on the go",
+    "Avoid loud conversations in public spaces including trains and buses - maintain quiet, respectful behavior",
+    "Don't point with chopsticks or stick them upright in rice bowls as this resembles funeral customs"
+  ],
+  "health": {
+    "overview": "Japan has one of the world's highest quality healthcare systems with excellent medical facilities in Nara and nearby cities. Tap water is completely safe to drink throughout the country. The main health considerations are seasonal allergies in spring, heat exhaustion in summer, and ensuring you have travel insurance as medical costs can be expensive for tourists.",
+    "water": "Tap water is completely safe to drink throughout Nara and all of Japan. Water quality is strictly regulated and often considered superior to bottled water. Restaurants serve tap water free of charge.",
+    "vaccinations": "No special vaccinations are required for Japan. Routine vaccines like MMR, hepatitis A/B, and flu shots are recommended as for any international travel. Japan has excellent vaccination infrastructure if needed.",
+    "altitude": "Nara is at sea level with no altitude concerns. Climate is temperate with hot, humid summers and mild winters. Spring (March-May) and autumn (September-November) offer the most comfortable weather for sightseeing."
+  },
+  "emergency": {
+    "general": "In any emergency, contact the appropriate number below or go to the nearest police box (koban) found near train stations",
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "N/A - Use general police number 110, English operators available 24/7",
+    "usEmbassy": "US Embassy Tokyo: 03-3224-5000 (American Citizen Services). Located in Tokyo, about 1 hour from Nara by train. After-hours emergencies: same number."
+  },
+  "faq": [
+    {
+      "q": "Is Nara safe for tourists?",
+      "a": "Yes, Nara is extremely safe for tourists. Japan has one of the world's lowest crime rates, and Nara's peaceful, historic atmosphere makes it even safer than major cities. Violent crime is virtually non-existent, and petty theft is very rare."
+    },
+    {
+      "q": "Is Nara safe at night?",
+      "a": "Nara is generally very safe at night, though it becomes quieter than during the day. Well-lit main streets and commercial areas remain active, and convenience stores stay open 24/7. Some temple and park areas may be dimly lit but serious safety concerns are extremely rare."
+    },
+    {
+      "q": "Is Nara safe for solo female travelers?",
+      "a": "Absolutely. Nara is one of the world's safest destinations for solo female travelers. Japanese culture emphasizes respect and personal space, harassment is virtually non-existent, and women regularly travel alone throughout the city day and night without concerns."
+    },
+    {
+      "q": "What areas should I avoid in Nara?",
+      "a": "There are no areas in Nara that tourists need to avoid for safety reasons. The entire city is remarkably safe. Some forest paths around temples may be poorly lit at night, so bring a flashlight, but even these areas don't present safety risks."
+    },
+    {
+      "q": "Is it safe to use public transport in Nara?",
+      "a": "Yes, public transport in Nara and throughout Japan is extremely safe, clean, and efficient. Trains and buses run on time, crime is virtually non-existent, and English signage is common. Women-only train cars are available during rush hours on major lines."
+    }
+  ],
+  "relatedCities": [
+    "kyoto",
+    "osaka",
+    "tokyo",
+    "hiroshima",
+    "kanazawa"
+  ],
+  "_city_id": "nara-japan"
+}

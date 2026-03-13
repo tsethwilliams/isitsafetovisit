@@ -1,0 +1,157 @@
+{
+  "slug": "tokyo",
+  "name": "Tokyo",
+  "country": "Japan",
+  "countryCode": "JP",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.2,
+    "scamRisk": 7.0,
+    "womensSafety": 8.8,
+    "nightSafety": 8.0,
+    "transport": 9.0,
+    "naturalHazards": 7.2
+  },
+  "summary": "Tokyo stands as one of the world's safest major cities, with exceptionally low violent crime rates and high-quality infrastructure. The US State Department maintains a Level 1 Travel Advisory for Japan, advising normal precautions, making Tokyo ideal for travelers of all backgrounds.",
+  "quickVerdict": "Tokyo is remarkably safe for tourists, consistently ranking among the world's safest cities. With violent crime rates near zero, excellent public transportation, and a culture emphasizing respect and order, visitors can explore with confidence. Natural disasters like earthquakes and typhoons pose the primary risks, but the city's advanced warning systems and disaster preparedness are world-class. Solo female travelers rate Tokyo as one of their safest destinations globally.",
+  "neighborhoods": [
+    {
+      "name": "Shibuya",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The bustling heart of Tokyo's youth culture remains very safe despite heavy crowds. Well-lit streets, constant foot traffic, and visible security make it secure even at night, though watch belongings in extremely crowded areas."
+    },
+    {
+      "name": "Shinjuku",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tokyo's business and entertainment hub is generally safe but requires more awareness, especially in Kabukicho's red-light district. Stick to main streets and avoid aggressive touts, but the area is well-patrolled and monitored."
+    },
+    {
+      "name": "Asakusa",
+      "score": 8.5,
+      "class": "safe",
+      "description": "This traditional district centered around Senso-ji Temple is extremely safe and peaceful, especially beautiful when illuminated at night. Perfect for evening strolls with minimal safety concerns."
+    },
+    {
+      "name": "Ginza",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Tokyo's upscale shopping district maintains excellent security with high-end establishments and well-maintained streets. One of the safest areas in the city with premium services and infrastructure."
+    },
+    {
+      "name": "Roppongi",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Known for nightlife but requires more caution due to reports of overcharging, aggressive touts, and drink spiking in some establishments. Stay alert, avoid unlicensed venues, and stick to reputable bars."
+    },
+    {
+      "name": "Harajuku/Omotesando",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The fashion-forward district is very safe during day and night. Heavy foot traffic and good lighting make it secure, though be mindful of pickpockets in extremely crowded Takeshita Street during peak times."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overcharging at Bars",
+      "risk": "high",
+      "description": "Bars in entertainment districts like Roppongi and Kabukicho may charge exorbitant fees for drinks and services, sometimes confining customers who refuse to pay.",
+      "howToAvoid": "Always check prices before ordering, avoid establishments without clear pricing, never follow street touts, and stay in well-established venues on main streets."
+    },
+    {
+      "name": "Fake Monks/Religious Donation",
+      "risk": "medium",
+      "description": "Individuals dressed as Buddhist monks approach tourists offering trinkets and requesting donations, then showing fake ledgers of previous large contributions to pressure higher payments.",
+      "howToAvoid": "Politely decline any unsolicited offers from supposed monks. Legitimate monks typically don't solicit donations this way. Walk away confidently if approached."
+    },
+    {
+      "name": "Train Beggar 'Marc'",
+      "risk": "medium",
+      "description": "A persistent scammer known as 'Marc' boards busy train lines showing translated messages claiming to have lost money and need funds for the airport, targeting multiple passengers.",
+      "howToAvoid": "Ignore anyone approaching with phone messages asking for money. Don't engage and simply continue with your journey. Report persistent harassment to station staff."
+    },
+    {
+      "name": "Korean Coin Exchange",
+      "risk": "low",
+      "description": "Vendors at tourist sites give Korean 500-won coins as change instead of Japanese 500-yen coins, which look similar but are worth much less.",
+      "howToAvoid": "Check your change carefully, especially coins. Familiarize yourself with Japanese currency before traveling. If you receive wrong change, immediately point it out to the vendor."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tokyo is consistently rated as one of the world's safest cities for solo female travelers. With violent crime against women extremely rare, women-only train cars during rush hours, and a culture that respects personal space, female travelers report feeling safer here than in most major cities worldwide. Many women walk alone at night without incident.",
+    "tips": [
+      "Use women-only train cars during rush hours (7-9 AM, 5-7 PM) marked with pink signs to avoid potential groping in crowded trains",
+      "Take advantage of women-only floors and capsule hotels designed specifically for female travelers",
+      "Trust your instincts in red-light districts like Kabukicho - while not dangerous, solo women should avoid quiet back streets after midnight"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tokyo's nightlife is remarkably safe compared to other major cities. Streets are well-lit, public transport runs late, and the city maintains its reputation for safety after dark. Entertainment districts like Shibuya and Shinjuku remain busy throughout the night with good security presence.",
+    "tips": [
+      "Be cautious in Roppongi and parts of Kabukicho where aggressive touts and overcharging scams are more common",
+      "Avoid following street promoters into bars or clubs, and always check prices before ordering drinks",
+      "Use legitimate taxi services or apps rather than unlicensed drivers, especially after trains stop running around midnight"
+    ]
+  },
+  "transport": {
+    "metro": "Tokyo's subway and train system is exceptionally safe, clean, and efficient. Women-only cars are available during rush hours. The system runs until midnight with comprehensive English signage. Violent crime on public transport is virtually non-existent.",
+    "rideshare": "Japan has limited rideshare services - Uber mainly connects to licensed taxi companies rather than private drivers. Use official taxi apps like GO, which dispatch legitimate taxis with regulated fares and professional drivers.",
+    "taxis": "Taxis are extremely safe, honest, and regulated. Drivers use meters, doors open automatically, and overcharging is rare. Airport flat-rate services are available. Licensed taxi companies maintain high standards of service and safety.",
+    "tips": "Public transport is your safest bet - trains and buses are reliable, safe, and punctual. Keep emergency numbers saved and carry cash as some services remain cash-only despite increasing card acceptance."
+  },
+  "customs": [
+    "Remove shoes when entering homes, temples, traditional restaurants, and some hotels - look for slippers or shoe racks as indicators",
+    "Bow slightly when greeting people, receiving business cards with both hands, and saying thank you - a small head nod is sufficient for tourists",
+    "Don't tip at restaurants, hotels, or taxis as this is not customary and may cause confusion - exceptional service is already included in the price"
+  ],
+  "health": {
+    "overview": "Tokyo offers world-class healthcare with clean, modern facilities and highly trained medical staff. Japan has universal healthcare for residents, but tourists should have travel insurance as medical costs can be high for visitors.",
+    "water": "Tap water is completely safe to drink throughout Tokyo and meets high quality standards. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for Tokyo. Routine vaccinations should be up to date. Japan maintains high hygiene standards and disease risk is minimal.",
+    "altitude": "Tokyo is at sea level with no altitude concerns. The climate is temperate with hot, humid summers and mild winters. Air quality is generally good despite urban density."
+  },
+  "emergency": {
+    "general": "110 (Police) / 119 (Fire/Ambulance)",
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "03-3503-8484 (English consultation line)",
+    "usEmbassy": "US Embassy Tokyo: 03-3224-5000, located at 1-10-5 Akasaka, Minato-ku. For after-hours emergencies, call the same number and follow prompts for duty officer assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Tokyo safe for tourists?",
+      "a": "Yes, Tokyo is one of the world's safest major cities for tourists. With extremely low violent crime rates, honest taxi drivers, and a culture emphasizing respect and order, visitors can explore with confidence. The main risks are natural disasters rather than crime."
+    },
+    {
+      "q": "Is Tokyo safe at night?",
+      "a": "Tokyo is remarkably safe at night with well-lit streets, active nightlife areas, and good security presence. Most areas remain busy with foot traffic. Exercise normal caution in red-light districts and avoid unlicensed establishments."
+    },
+    {
+      "q": "Is Tokyo safe for solo female travelers?",
+      "a": "Tokyo is considered one of the safest cities globally for solo female travelers. Women-only train cars, low harassment rates, and cultural respect for personal space make it ideal. Many women walk alone at night without incident."
+    },
+    {
+      "q": "What areas should I avoid in Tokyo?",
+      "a": "No areas require complete avoidance, but exercise extra caution in parts of Kabukicho (Shinjuku) and Roppongi, particularly with aggressive touts and unlicensed bars. Avoid following street promoters and always check prices before ordering."
+    },
+    {
+      "q": "Is it safe to use public transport in Tokyo?",
+      "a": "Yes, Tokyo's public transport is exceptionally safe, clean, and reliable. The metro and train systems have excellent safety records with minimal crime. Women-only cars are available during rush hours for added comfort."
+    }
+  ],
+  "relatedCities": [
+    "osaka",
+    "kyoto",
+    "hiroshima"
+  ],
+  "_city_id": "tokyo-japan"
+}

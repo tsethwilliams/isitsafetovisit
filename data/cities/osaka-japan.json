@@ -1,0 +1,164 @@
+{
+  "slug": "osaka",
+  "name": "Osaka",
+  "country": "Japan",
+  "countryCode": "JP",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 8.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.0,
+    "womensSafety": 8.8,
+    "nightSafety": 8.0,
+    "transport": 9.2,
+    "naturalHazards": 6.9
+  },
+  "summary": "Osaka is among the world's safest major cities with exceptionally low crime rates and excellent infrastructure. Natural disasters pose the primary risk, while occasional tourist scams in nightlife districts require basic awareness.",
+  "quickVerdict": "Osaka offers exceptional safety for visitors with violent crime virtually non-existent and petty theft rare. The city's excellent public transport runs reliably and safely even late at night. Solo female travelers consistently report feeling secure throughout the city. While natural disasters like earthquakes and typhoons can occur, the city is well-prepared with advanced warning systems. Tourists should only be cautious of occasional scams in entertainment districts and maintain awareness of emergency procedures.",
+  "neighborhoods": [
+    {
+      "name": "Namba/Dotonbori",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The vibrant entertainment heart of Osaka with bright neon lights and bustling nightlife. Very safe for tourists but watch for occasional bar touts and drink promoters. Heavy police presence and constant foot traffic provide natural security."
+    },
+    {
+      "name": "Umeda",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern business and shopping district around Osaka Station. Extremely safe with upscale hotels, department stores, and well-lit streets. More sophisticated atmosphere with lower risk of tourist-targeted scams."
+    },
+    {
+      "name": "Sumiyoshi/Tennoji",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Residential and cultural areas with traditional temples and parks. Safe during day with good lighting and regular patrols. Some areas quieter at night but generally secure for tourists sticking to main paths."
+    },
+    {
+      "name": "Shinsaibashi",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Major shopping and entertainment district extending from Namba. Safe overall but nightlife areas may have aggressive promoters. Well-policed tourist zone with good emergency services access."
+    },
+    {
+      "name": "Shinsekai",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic district with retro atmosphere and kushikatsu restaurants. Generally safe but can feel grittier at night. Some homeless population present but incidents involving tourists are rare. Use normal urban precautions."
+    },
+    {
+      "name": "Airin/Kamagasaki",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Day laborer district with highest crime rates in Osaka. While violent crime against tourists is still rare, this area has more drug activity, homeless encampments, and should be avoided especially at night unless with local guide."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bar/Hostess Club Overcharging",
+      "risk": "high",
+      "description": "Street touts in entertainment districts invite tourists to bars with inflated bills, hidden fees, and aggressive collection tactics. Particularly common in Dotonbori and Shinsaibashi nightlife areas.",
+      "howToAvoid": "Avoid street promoters offering bar deals. Research venues beforehand, ask for menu with prices upfront, set spending limits, and use only well-reviewed establishments."
+    },
+    {
+      "name": "Fake Monk Trinket Sales",
+      "risk": "medium",
+      "description": "Individuals dressed as monks approach tourists near temples and tourist sites, offering 'blessed' items then demanding payment after tourists accept them.",
+      "howToAvoid": "Politely decline any items offered by people in religious clothing near tourist sites. Legitimate monks do not solicit tourists for money or force items upon them."
+    },
+    {
+      "name": "Foreign Currency Exchange Scam",
+      "risk": "medium",
+      "description": "Vendors at tourist hotspots give incorrect change using similar-looking foreign coins, particularly Korean 500-won coins that resemble Japanese 500-yen coins.",
+      "howToAvoid": "Check your change carefully, especially coins. Use only licensed exchange services at banks, post offices, or major hotels. Inspect unfamiliar coins before accepting them."
+    },
+    {
+      "name": "Drink Spiking for Theft",
+      "risk": "medium",
+      "description": "Drinks spiked with excessive alcohol to incapacitate victims for credit card fraud and theft, primarily targeting male tourists in red-light districts.",
+      "howToAvoid": "Never accept drinks from strangers, don't leave drinks unattended, stick to reputable establishments, and travel with trusted companions in nightlife areas."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Osaka is exceptionally safe for solo female travelers, ranking among the world's best cities for women traveling alone. The city has minimal street harassment, reliable transport with women-only train cars during rush hours, and a culture that respects personal space. Many women report feeling safer than in their home countries.",
+    "tips": [
+      "Use women-only train cars during rush hours (marked with pink signs) to avoid crowded mixed carriages",
+      "Book female-only floors or rooms in hostels and capsule hotels when available",
+      "Avoid overly aggressive nightlife promoters but don't hesitate to ask locals for help - they're generally very helpful",
+      "Carry your passport at all times as required by Japanese law for foreigners",
+      "Trust your instincts - if someone seems unusually pushy or persistent, walk away confidently"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Osaka maintains excellent safety standards at night with well-lit streets, regular police patrols, and 24-hour convenience stores providing safe havens. Public transport runs safely until midnight with taxis readily available afterward. Entertainment districts have heavy foot traffic and security presence.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially in entertainment districts like Dotonbori",
+      "Be cautious of drink promoters and bar touts in nightlife areas - firm refusal usually works",
+      "Keep emergency numbers saved in your phone and know your hotel address in Japanese",
+      "Last trains run around midnight - plan transport home or budget for taxis which are safe but expensive",
+      "Avoid quiet side streets and parks after dark, though violent crime remains extremely rare"
+    ]
+  },
+  "transport": {
+    "metro": "Osaka Metro is exceptionally safe, clean, and efficient with English signage throughout. Trains run from 5 AM to midnight with frequent service. Women-only cars available during rush hours. Crime is virtually non-existent on the system.",
+    "rideshare": "Uber operates in Osaka but availability is limited compared to taxis. Services are safe and reliable when available. Drivers are professional and vehicles are well-maintained.",
+    "taxis": "Taxis are extremely safe, honest, and use meters exclusively. Drivers are trustworthy and won't overcharge tourists. Available 24/7 from stands or by hailing. More expensive than public transport but very reliable for late-night travel.",
+    "tips": "Use ICOCA cards for seamless public transport payments. Download transit apps like Hyperdia for route planning. Keep cash handy as Japan remains largely cash-based despite card acceptance growing."
+  },
+  "customs": [
+    "Remove shoes when entering homes, ryokans, temples, and some restaurants - look for shoe racks at entrances",
+    "Bow slightly when greeting or thanking people, though handshakes are acceptable for foreigners",
+    "Say 'Itadakimasu' before meals and 'Gochisousama' after eating to show gratitude",
+    "Never stick chopsticks upright in rice or pass food chopstick-to-chopstick as these resemble funeral rituals",
+    "Keep phones on silent on public transport and avoid loud conversations",
+    "Arrive 5-10 minutes early for meetings or reservations - punctuality is highly valued"
+  ],
+  "health": {
+    "overview": "Japan has world-class healthcare with 80% of people satisfied with quality medical services. Osaka's medical facilities are excellent with many English-speaking services available. Emergency response is highly efficient.",
+    "water": "Tap water throughout Osaka is completely safe to drink and meets high quality standards. Bottled water is widely available but unnecessary for safety reasons.",
+    "vaccinations": "No special vaccinations required for Japan. Routine vaccinations should be up to date. Travel insurance strongly recommended as medical costs can be high for uninsured foreigners.",
+    "altitude": "Osaka is at sea level with no altitude concerns. Climate is humid subtropical with hot summers and mild winters. Summer heat can cause heatstroke - stay hydrated and use air conditioning."
+  },
+  "emergency": {
+    "general": "Emergency services operate 24/7 with some English support available",
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "Local koban (police boxes) available 24/7 throughout city",
+    "usEmbassy": "US Embassy Tokyo: +81-3-3224-5000 (24-hour emergency). Osaka has US Consulate for routine services during business hours."
+  },
+  "faq": [
+    {
+      "q": "Is Osaka safe for tourists?",
+      "a": "Yes, Osaka is exceptionally safe for tourists with one of the world's lowest crime rates. Violent crime against foreigners is extremely rare, and the city maintains excellent safety infrastructure."
+    },
+    {
+      "q": "Is Osaka safe at night?",
+      "a": "Osaka is very safe at night with well-lit streets, regular police patrols, and heavy foot traffic in entertainment areas. Solo travelers can walk confidently in main tourist districts after dark."
+    },
+    {
+      "q": "Is Osaka safe for solo female travelers?",
+      "a": "Absolutely. Osaka is considered one of the world's safest cities for solo female travelers. Women-only train cars, respectful culture, and minimal harassment make it ideal for independent travel."
+    },
+    {
+      "q": "What areas should I avoid in Osaka?",
+      "a": "Most areas are safe, but exercise caution in Airin/Kamagasaki district at night. Shinsekai can feel grittier but remains relatively safe. Be aware of aggressive promoters in Dotonbori's nightlife areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Osaka?",
+      "a": "Yes, Osaka's public transport is extremely safe, clean, and reliable. The metro system operates with virtually no crime incidents, and trains run safely until midnight with extensive security measures."
+    }
+  ],
+  "relatedCities": [
+    "tokyo",
+    "kyoto",
+    "hiroshima"
+  ],
+  "_city_id": "osaka-japan"
+}
