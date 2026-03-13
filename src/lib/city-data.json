@@ -28722,6 +28722,823 @@
         "rhodes",
         "corfu"
       ]
+    },
+    {
+      "slug": "rhodes",
+      "name": "Rhodes",
+      "country": "Greece",
+      "countryCode": "GR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 8.5,
+        "scamRisk": 7.2,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 7.5,
+        "naturalHazards": 6.8
+      },
+      "summary": "Rhodes is considered one of the safest Greek islands and European destinations for tourists, with extremely low violent crime rates and strong tourism infrastructure. The island maintains excellent safety standards with efficient emergency services, though visitors should remain aware of minor risks like petty theft in tourist areas and occasional natural hazards such as wildfires and earthquakes.",
+      "quickVerdict": "Rhodes offers an exceptionally safe travel environment for all types of visitors. The island consistently ranks among Europe's safest tourist destinations with virtually no violent crime against tourists, well-developed infrastructure, and responsive emergency services. While standard travel precautions apply for petty theft in crowded areas, Rhodes provides a secure base for exploring ancient history, beautiful beaches, and vibrant culture. The US State Department rates Greece as Level 1 (Exercise Normal Precautions), and Rhodes maintains even higher safety standards than the mainland.",
+      "neighborhoods": [
+        {
+          "name": "Rhodes Old Town",
+          "score": 8.5,
+          "class": "safe",
+          "description": "UNESCO World Heritage medieval city with excellent security, frequent police patrols, and well-lit streets. Generally safe day and night with minimal crime beyond occasional pickpocketing in tourist crowds."
+        },
+        {
+          "name": "Rhodes New Town",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern commercial and residential area with good lighting, regular police presence, and safe walking conditions. Main shopping and dining district with reliable transport connections and tourist-friendly atmosphere."
+        },
+        {
+          "name": "Lindos Village",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Picturesque traditional village popular with tourists, featuring narrow pedestrian streets and ancient acropolis. Very safe during day with good crowd management, though can be busy during peak season."
+        },
+        {
+          "name": "Faliraki",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Popular beach resort area known for nightlife and party atmosphere. Generally safe but requires extra caution at night due to drunk tourists and occasional alcohol-related incidents. Stick to main areas after dark."
+        },
+        {
+          "name": "Ixia and Ialyssos",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Resort areas along the west coast with good hotel security and regular tourist police presence. Safe for families and solo travelers with well-maintained infrastructure and reliable transport links."
+        },
+        {
+          "name": "Remote Villages and Beaches",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Scenic rural areas and secluded beaches that are generally very safe but lack immediate emergency services. Exercise standard precautions when visiting alone and inform others of your plans when exploring remote locations."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "medium",
+          "description": "Some taxi drivers may claim broken meters, refuse to use meters, or take longer routes to inflate fares. Most common at airport and port areas.",
+          "howToAvoid": "Always insist the meter is turned on or agree on a fixed price beforehand. Use official taxi stands, check posted rate cards, and consider using Uber Taxi which launched in Rhodes in 2023."
+        },
+        {
+          "name": "Photography Scam",
+          "risk": "medium",
+          "description": "Strangers ask tourists to take their photo, then deliberately drop the camera and demand payment for damage. The device is usually pre-damaged.",
+          "howToAvoid": "Politely decline to handle strangers' cameras or phones. If you must help, examine the device first and point out any existing damage before taking photos."
+        },
+        {
+          "name": "Overpriced Restaurant Bills",
+          "risk": "medium",
+          "description": "Some tourist-trap restaurants in popular areas like Old Town may overcharge or add unexpected items to bills, particularly drinks served in large glasses.",
+          "howToAvoid": "Always check menus and prices before ordering, avoid restaurants with aggressive touts, ask about portion sizes, and review bills carefully before paying."
+        },
+        {
+          "name": "Bar Friend Fraud",
+          "risk": "low",
+          "description": "Friendly locals approach tourists and invite them to specific bars where the tourist ends up paying inflated bills for everyone's drinks.",
+          "howToAvoid": "Be cautious of overly friendly strangers suggesting specific bars or restaurants. Check prices before ordering and be aware that the friendly local may disappear when the bill arrives."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Rhodes is considered one of the safest European destinations for solo female travelers, with Greek culture showing strong respect for women and extremely low rates of violent crime. The tourism infrastructure is well-developed, locals are generally helpful and welcoming, and solo female travelers are common throughout the island. Greek men may be more forward with compliments and conversation attempts than Northern Europeans, but this is cultural and typically harmless.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safe areas like Rhodes Old Town or New Town",
+          "Trust your instincts and don't hesitate to firmly decline unwanted attention - a simple 'no' is usually sufficient",
+          "Share your itinerary with someone at home and check in regularly when exploring remote areas",
+          "Consider avoiding excessive alcohol consumption when alone, especially in nightlife areas like Faliraki",
+          "Use official transport options and avoid walking alone in poorly lit areas late at night"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Rhodes maintains good nighttime safety standards with low crime rates and generally safe conditions for evening activities. The Old Town and New Town areas are well-lit with regular police patrols, making them safe for nighttime strolling. Main tourist areas remain active with other travelers and locals until late hours. However, extra caution is advised in party areas like Faliraki where alcohol-related incidents are more common.",
+        "tips": [
+          "Stick to well-lit main streets and avoid dark alleyways or secluded areas after dark",
+          "Use official taxis or pre-arranged transport rather than walking long distances at night",
+          "Be extra cautious in nightlife areas where drunk tourists may cause disturbances",
+          "Keep valuables secure and avoid displaying expensive items when out at night",
+          "Let others know your plans when heading out for evening activities"
+        ]
+      },
+      "transport": {
+        "metro": "Rhodes does not have a metro system. Public transport consists of buses operated by RODA (blue buses serving west side and airport) and KTEL (orange/white buses serving east side including popular destinations like Lindos and Faliraki).",
+        "rideshare": "Uber operates as Uber Taxi since April 2023, allowing you to book licensed local taxis through the app with cashless payment and driver ratings. Traditional rideshare services are not available, but this provides similar convenience.",
+        "taxis": "Taxis are generally safe and reliable with fixed rates posted at taxi stands. Meters should be used for local trips. Drivers are typically polite and professional, though some may try to overcharge tourists at airports or ports. Most taxis accept cash only unless booked through Uber Taxi.",
+        "tips": "Public buses are safe and affordable but can get crowded during peak season. Always validate tickets and signal the driver to stop. For maximum flexibility, consider renting a car, though the Old Town is pedestrianized. Water taxis provide scenic coastal transport options."
+      },
+      "customs": [
+        "Greeks are known for their hospitality (philoxenia) and take pride in helping visitors",
+        "Tipping 10-15% in restaurants is appreciated but not mandatory; round up taxi fares as a courtesy tip",
+        "Dress modestly when visiting religious sites - cover shoulders and knees in churches and monasteries",
+        "Greeks may seem more expressive and talkative than Northern Europeans - this is normal cultural behavior",
+        "Always carry identification as police may request it, and failure to provide ID can lead to questioning"
+      ],
+      "health": {
+        "overview": "Rhodes has good healthcare facilities including the main Hospital of Rhodes and private medical centers. No special vaccinations are required for travel from most countries. The island has well-stocked pharmacies and emergency services.",
+        "water": "Tap water is generally safe to drink in Rhodes, though many visitors prefer bottled water. Hotel water is typically fine for brushing teeth and showering.",
+        "vaccinations": "No vaccinations are required for travel to Greece from most countries. Standard travel vaccinations (hepatitis A/B, typhoid) may be recommended by your doctor depending on your health history.",
+        "altitude": "Rhodes is at sea level with a Mediterranean climate. Summer temperatures can exceed 40°C (104°F) with intense sun - stay hydrated, use sun protection, and take midday breaks in air-conditioned spaces during heat waves."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "166",
+        "fire": "199",
+        "touristPolice": "22410 27423",
+        "usEmbassy": "US Embassy Athens: +30 210 721-2951 (no US consulate in Rhodes). Address: 91 Vasilisis Sofias Avenue, 10160 Athens"
+      },
+      "faq": [
+        {
+          "q": "Is Rhodes safe for tourists?",
+          "a": "Yes, Rhodes is considered one of the safest tourist destinations in Europe with extremely low violent crime rates and well-developed tourism infrastructure. The US State Department rates Greece as Level 1 (Exercise Normal Precautions), and Rhodes maintains even higher safety standards than the mainland."
+        },
+        {
+          "q": "Is Rhodes safe at night?",
+          "a": "Rhodes is generally very safe at night, especially in the Old Town and New Town areas which are well-lit with regular police patrols. Exercise standard precautions by staying in main areas, using official transport, and being extra cautious in party areas like Faliraki where alcohol-related incidents are more common."
+        },
+        {
+          "q": "Is Rhodes safe for solo female travelers?",
+          "a": "Yes, Rhodes is excellent for solo female travelers and consistently ranks among Europe's safest destinations for women traveling alone. Greek culture respects women, violent crime is extremely rare, and solo female travelers are common throughout the island."
+        },
+        {
+          "q": "What areas should I avoid in Rhodes?",
+          "a": "There are no particularly dangerous areas in Rhodes, but exercise extra caution in Faliraki's nightlife district after dark due to drunk tourists and party atmosphere. Remote beaches and villages are very safe but lack immediate emergency services, so inform others of your plans when exploring alone."
+        },
+        {
+          "q": "Is it safe to use public transport in Rhodes?",
+          "a": "Yes, public transport in Rhodes is safe and reliable. Buses operated by RODA and KTEL connect major destinations with regular schedules. Taxis are generally trustworthy with fixed rates, and Uber Taxi is available for added convenience with cashless payments and driver ratings."
+        }
+      ],
+      "relatedCities": [
+        "athens",
+        "santorini",
+        "mykonos",
+        "crete",
+        "corfu"
+      ]
+    },
+    {
+      "slug": "corfu",
+      "name": "Corfu",
+      "country": "Greece",
+      "countryCode": "GR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.9,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 9.0,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 7.5,
+        "transport": 8.0,
+        "naturalHazards": 7.5
+      },
+      "summary": "Corfu is one of Greece's safest destinations with exceptionally low crime rates and a welcoming atmosphere. The island scores a remarkable 12.64 out of 100 on global crime indices, making it significantly safer than mainland Greece and most European destinations.",
+      "quickVerdict": "Corfu stands out as an exceptionally safe destination for all types of travelers. With violent crime virtually non-existent and petty crime rare, the island offers peace of mind for solo travelers, families, and couples. The local community is known for its genuine hospitality, while the infrastructure supports safe exploration. The main concerns are minor - occasional summer wildfires and standard tourist-area pickpocketing - but these risks are easily managed with basic precautions.",
+      "neighborhoods": [
+        {
+          "name": "Corfu Old Town",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The UNESCO World Heritage Old Town is very safe with heavy tourist police presence. Well-lit streets and constant foot traffic make it ideal for evening strolls. Venetian architecture creates intimate, walkable spaces perfect for solo exploration."
+        },
+        {
+          "name": "Kontokali",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Upscale marina area just outside Corfu Town offering a relaxed, family-friendly atmosphere. Well-developed infrastructure with restaurants and shops. Popular with tourists seeking luxury accommodations in a safe setting."
+        },
+        {
+          "name": "Gouvia",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Lively marina town with vibrant nightlife and water sports. Safe but can get crowded during peak season. Popular with younger travelers and groups, though noise levels may be higher than other areas."
+        },
+        {
+          "name": "Paleokastritsa",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Scenic coastal village known for beautiful beaches and monasteries. Very safe with strong community atmosphere. Popular day-trip destination with good facilities and local police presence."
+        },
+        {
+          "name": "Benitses",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Traditional fishing village turned tourist resort. Generally safe but can get busy with tour groups. Has local police station and good emergency services access. Family-friendly during the day."
+        },
+        {
+          "name": "Kavos",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Known for intensive nightlife and party scene attracting young British tourists. Higher risk of alcohol-related incidents and rowdy behavior. Solo female travelers should exercise extra caution, especially at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Photography Camera Drop",
+          "risk": "medium",
+          "description": "Strangers ask you to take their photo, then deliberately drop their camera and blame you for breaking it, demanding payment for repairs. Common in tourist areas including Corfu Town and popular beaches.",
+          "howToAvoid": "Politely decline to take photos for strangers, especially if they seem overly insistent. If you do help, ensure others witness the exchange and check the camera condition beforehand."
+        },
+        {
+          "name": "Friendly Local Guide",
+          "risk": "medium",
+          "description": "Someone approaches offering to be your guide or help with directions, getting close to distract you while an accomplice pickpockets your belongings. They may also lead you to overpriced shops where they receive commission.",
+          "howToAvoid": "Be polite but firm in declining unsolicited help. Use official tourist information centers and licensed tour operators. Keep valuables secure and maintain awareness of your surroundings."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Taxi drivers may take longer routes, claim the meter is broken, or add unexpected surcharges. Some may refuse to use the meter altogether, especially from the airport or ferry port.",
+          "howToAvoid": "Always insist the meter is used or agree on a price before starting the journey. Learn approximate costs for common routes. Consider using hotel-recommended taxis or ride-sharing apps where available."
+        },
+        {
+          "name": "Restaurant Menu Pricing",
+          "risk": "low",
+          "description": "Some tourist restaurants may not display prices clearly or add unexpected charges for bread, water, or service. Prices may be inflated compared to local establishments.",
+          "howToAvoid": "Always ask to see a menu with prices before ordering. Confirm what's included and check if there are cover charges. Eat where locals eat for better value and authentic experiences."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Corfu is exceptionally safe for solo female travelers, ranking among the best Greek islands for women traveling alone. The local culture respects women, violent crime targeting tourists is virtually non-existent, and the infrastructure supports independent travel. The island's welcoming atmosphere and genuine Greek hospitality create an environment where solo female travelers feel comfortable and supported.",
+        "tips": [
+          "Stay in well-reviewed accommodations in Corfu Old Town or established resort areas for best safety and convenience",
+          "Avoid the Kavos party area if seeking a quieter, safer experience - opt for Paleokastritsa or Kontokali instead",
+          "Trust the locals' genuine desire to help, but remain aware in very touristy areas where opportunistic behavior is more likely"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Corfu maintains good safety standards after dark, particularly in tourist areas and the Old Town which remain well-lit and patrolled. The island's relaxed pace and strong community bonds contribute to a secure nighttime environment. Most safety concerns involve standard precautions rather than significant risks.",
+        "tips": [
+          "Stick to well-lit areas and main streets when walking at night, especially in Corfu Town center",
+          "Exercise extra caution in Kavos during peak party season due to alcohol-related incidents",
+          "Use licensed taxis or arranged transport for late-night return trips to accommodations outside town centers"
+        ]
+      },
+      "transport": {
+        "metro": "Corfu does not have a metro system. The island relies on buses, taxis, and private vehicles for transportation.",
+        "rideshare": "Limited ride-sharing options available. Traditional taxis are the primary on-demand transport, though some international apps may operate seasonally in tourist areas.",
+        "taxis": "Licensed taxis are generally safe and reliable. Ensure the meter is running or agree on fare beforehand. Taxis are readily available at the airport, ferry port, and main tourist areas. Keep taxi company numbers handy for reliable service.",
+        "tips": "Renting a car or scooter provides the most flexibility for exploring the island safely. Public buses are safe but infrequent to remote areas. Always wear helmets when using motorbikes and ensure you have proper licensing and insurance coverage."
+      },
+      "customs": [
+        "Greet people with 'Kalimera' (Good morning) or 'Kalispera' (Good evening) when entering shops or restaurants",
+        "Dress modestly when visiting churches and monasteries - cover shoulders and knees, women may need headscarves",
+        "Avoid the 'OK' hand gesture (thumb and forefinger circle) and open palm gestures as they are considered offensive",
+        "Greeks nod down for 'yes' and up for 'no' - the opposite of many other cultures",
+        "Meals are leisurely social events meant for conversation and sharing - don't rush dining experiences",
+        "Show respect for elders and offer seats to elderly people on public transport",
+        "Photography may be restricted in churches during services and in some archaeological sites"
+      ],
+      "health": {
+        "overview": "Corfu has adequate healthcare facilities with a general hospital in Corfu Town and several first aid stations around the island. Medical care is not free and can be expensive for visitors, so comprehensive travel insurance is essential.",
+        "water": "Tap water meets EU safety standards but has high mineral content and may taste different. While generally safe, many visitors prefer bottled water for taste. Bottled water is widely available and affordable throughout the island.",
+        "vaccinations": "No special vaccinations required for Greece. Ensure routine vaccinations are current including measles, hepatitis A and B. The CDC recommends being up-to-date on COVID-19 and seasonal flu vaccines.",
+        "altitude": "Sea-level location with Mediterranean climate. Summer temperatures can reach dangerous levels - stay hydrated, use sun protection, and seek shade during peak heat hours. Air quality is generally excellent with minimal pollution concerns."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "166",
+        "fire": "199",
+        "touristPolice": "26610 39294 (San Rocco Square) / 26610 30265 (New Fortress)",
+        "usEmbassy": "US Embassy Athens: +30 210 720-2400. Emergency services for US citizens: +30 210 720-2414. The nearest US consular services are in Athens, approximately 45 minutes by air from Corfu."
+      },
+      "faq": [
+        {
+          "q": "Is Corfu safe for tourists?",
+          "a": "Yes, Corfu is one of Greece's safest destinations. With extremely low crime rates and a welcoming local community, tourists face minimal safety risks. Standard travel precautions are sufficient for a safe and enjoyable visit."
+        },
+        {
+          "q": "Is Corfu safe at night?",
+          "a": "Corfu is generally very safe at night, especially in tourist areas and the Old Town. These areas remain well-lit and have regular police patrols. Avoid the Kavos party area during peak season if seeking quieter nighttime experiences."
+        },
+        {
+          "q": "Is Corfu safe for solo female travelers?",
+          "a": "Absolutely. Corfu ranks among the best Greek destinations for solo female travelers. The culture is respectful toward women, violent crime is virtually non-existent, and the local community is genuinely helpful and welcoming."
+        },
+        {
+          "q": "What areas should I avoid in Corfu?",
+          "a": "Kavos during peak party season can be rowdy with alcohol-related incidents. Otherwise, Corfu has no truly dangerous areas. Remote mountain roads require careful driving, and standard precautions in crowded tourist spots prevent petty theft."
+        },
+        {
+          "q": "Is it safe to use public transport in Corfu?",
+          "a": "Yes, public buses are safe and reliable, though they may be infrequent to remote areas. Taxis are generally trustworthy - just ensure the meter runs or agree on fares beforehand. Rental vehicles offer the most flexibility for safe exploration."
+        }
+      ],
+      "relatedCities": [
+        "athens",
+        "santorini",
+        "mykonos",
+        "rhodes",
+        "crete"
+      ]
+    },
+    {
+      "slug": "thessaloniki",
+      "name": "Thessaloniki",
+      "country": "Greece",
+      "countryCode": "GR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.5,
+        "transport": 7.5,
+        "naturalHazards": 7.5
+      },
+      "summary": "Thessaloniki is Greece's second-largest city and generally considered safe for tourists, with low violent crime rates and a welcoming atmosphere. The main concerns involve petty theft in crowded areas and occasional taxi overcharging, while the city benefits from good police presence and modern infrastructure including a new metro system.",
+      "quickVerdict": "Thessaloniki offers a safe and enjoyable experience for most travelers. While petty crime like pickpocketing exists in tourist areas such as Aristotelous Square and Ladadika, violent crime against tourists is rare. The city maintains lower crime levels than many comparably sized European urban centers. Standard urban precautions are sufficient, and the friendly Greek hospitality extends to helping visitors. The new metro system and reliable public transport add to the city's accessibility and safety for travelers.",
+      "neighborhoods": [
+        {
+          "name": "City Center & Aristotelous Square",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Well-patrolled central area with heavy foot traffic, police presence, and good lighting. Main tourist hub with cafes, shops, and landmarks. Safe during day and evening but watch for pickpockets in crowds."
+        },
+        {
+          "name": "Ladadika District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic nightlife quarter with cobblestone streets, restaurants, and bars. Lively and generally safe but can get crowded at night. Police patrol regularly, though petty theft can occur in busy venues."
+        },
+        {
+          "name": "White Tower Area & Waterfront",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Heavily visited tourist zone with excellent lighting and regular patrols. The seaside promenade offers scenic walks and feels safe at most hours. Well-maintained with good emergency access."
+        },
+        {
+          "name": "Ano Poli (Upper Town)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Quiet residential neighborhood with traditional architecture and panoramic views. Generally peaceful during day and early evening, though some streets can feel isolated after midnight."
+        },
+        {
+          "name": "Vardaris Area",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Western district with mixed conditions. Some areas have ongoing urban redevelopment but certain pockets can feel deserted late at night. Avoid isolated streets after midnight and stick to main roads."
+        },
+        {
+          "name": "Train Station Vicinity",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Higher petty crime rates around transportation hubs. Some areas described as less desirable, particularly after dark. Exercise extra caution and avoid walking alone late at night in surrounding streets."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Fare Inflation",
+          "risk": "moderate",
+          "description": "Some drivers may claim broken meters, take longer routes, or quote flat rates above metered fares, especially for airport transfers.",
+          "howToAvoid": "Use ride-sharing apps like Uber or FREENOW for price transparency, insist on using the meter, or agree on fare beforehand. Know approximate costs to destinations."
+        },
+        {
+          "name": "Friendly Local Guide Scam",
+          "risk": "moderate",
+          "description": "Overly friendly strangers approach tourists offering local tips or restaurant recommendations, then lead them to establishments with inflated prices or request payment for 'services'.",
+          "howToAvoid": "Be politely cautious of unsolicited help from strangers. Research restaurants independently and book tours through reputable companies rather than accepting street offers."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "low",
+          "description": "Card skimming devices may be placed on ATMs to steal card information and PINs, though this is not widespread in Thessaloniki.",
+          "howToAvoid": "Use ATMs inside banks or well-monitored indoor areas. Avoid standalone machines in poorly lit areas. Cover your PIN when entering it and check for unusual devices attached to the machine."
+        },
+        {
+          "name": "Bar Drink Overcharging",
+          "risk": "moderate",
+          "description": "Some bars may present menus without prices or switch to higher-priced menus after ordering, leading to unexpectedly high bills.",
+          "howToAvoid": "Always check prices before ordering and ensure menus clearly display costs. Ask for a printed menu with prices if uncertain. Avoid establishments that don't clearly post their pricing."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Thessaloniki is considered safe for solo female travelers, ranking among the top cities in Greece for women. The city has relatively low harassment rates compared to many global destinations, and women frequently travel alone without incident. Public transportation is reliable and safe, with modern infrastructure including the new metro system. The main precautions involve standard urban awareness, particularly at night and in crowded areas.",
+        "tips": [
+          "Stay in central, well-lit areas especially at night and avoid poorly lit side streets",
+          "The Vardaris area and neighborhoods around train/bus stations require extra caution after midnight",
+          "Public transport including buses and metro is generally safe with regular service and good lighting",
+          "Local hospitality means many Greeks are helpful to solo travelers, but remain appropriately cautious",
+          "Keep belongings secure in crowded tourist areas and nightlife districts to prevent pickpocketing"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Thessaloniki offers moderate nighttime safety with vibrant nightlife areas that remain active until late hours. The city center, Ladadika, and waterfront areas are generally safe with good lighting and police presence. However, some peripheral areas and isolated streets should be avoided after midnight. The city's cafe culture means many areas stay lively well past midnight, which actually enhances safety through natural surveillance.",
+        "tips": [
+          "Stick to well-lit, populated main roads and avoid quiet side streets after midnight",
+          "Ladadika nightlife district is generally safe but stay aware of surroundings in crowded venues",
+          "Use licensed taxis or ride-sharing apps rather than walking long distances alone late at night",
+          "Avoid the Vardaris area and surroundings of train stations during late night hours",
+          "Plan transport in advance as public transport reduces service frequency after midnight"
+        ]
+      },
+      "transport": {
+        "metro": "The new Thessaloniki Metro opened in late 2024 and provides modern, safe transportation connecting the city center with eastern districts. Stations are well-lit, monitored, and accessible. Single tickets cost 0.60 euros and are valid for 70 minutes. The system is clean and efficient though currently limited to central areas.",
+        "rideshare": "Uber operates exclusively with licensed taxi drivers recognizable by their blue color. FREENOW is popular among locals as an alternative. Both apps offer price transparency and tracked routes, making them safer than hailing taxis on the street. Rides typically cost 20-25 euros from airport to city center.",
+        "taxis": "Official taxis are blue and white with regulated meters. Most drivers are honest though occasional overcharging occurs, especially for airport transfers. There's a flat rate of 25 euros from airport to city center during day (35 euros at night). Many drivers don't have card readers, so cash is often required.",
+        "tips": "Public transport is reliable and affordable with buses covering the entire city. The integrated ticket system works for both metro and buses. Use contactless payment on buses as cash is no longer accepted. Pre-booking taxis for airport transfers reduces stress and potential overcharging."
+      },
+      "customs": [
+        "Dress modestly when visiting churches and religious sites - cover shoulders and legs",
+        "It's illegal to photograph military personnel, installations, or law enforcement officers",
+        "Removing artifacts, rocks, or antiquities from archaeological sites is strictly prohibited and can result in prosecution",
+        "Pepper spray and mace are illegal to bring into Greece and will be confiscated",
+        "Always carry identification as police may request it, and failure to provide ID can lead to questioning"
+      ],
+      "health": {
+        "overview": "Thessaloniki has good healthcare infrastructure with both public and private facilities available. The city is implementing a National Strategy for Quality of Care and Patient Safety for 2025-2030. Private healthcare is often preferred for faster service and English-speaking staff. No special vaccinations are required for travel to Greece.",
+        "water": "Tap water in Thessaloniki is safe to drink and meets European Union safety standards. The water quality is reliable throughout the city, making bottled water unnecessary though available everywhere.",
+        "vaccinations": "No specific vaccinations are required for Greece. Standard travel vaccinations like tetanus and hepatitis A/B are recommended as for any international travel. EU health insurance cards are accepted for EU citizens.",
+        "altitude": "Thessaloniki is at sea level with a Mediterranean climate. Summers can be intense with temperatures above 35°C, making heat exhaustion a concern. Winters are mild and wet. The coastal location moderates temperatures compared to inland areas."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "166",
+        "fire": "199",
+        "touristPolice": "171",
+        "usEmbassy": "US Embassy Athens: +30 210 721-2951. Emergency after hours: +30 210 729-4444. US Consulate General Thessaloniki available for northern Greece. Address: 91 Vasilissis Sophias Avenue, 10160 Athens. Americans abroad emergency line: +1-202-501-4444 (from abroad) or 1-888-407-4747 (from US/Canada)."
+      },
+      "faq": [
+        {
+          "q": "Is Thessaloniki safe for tourists?",
+          "a": "Yes, Thessaloniki is generally safe for tourists with low violent crime rates and good police presence. The main concerns are petty theft in crowded areas and occasional taxi overcharging. Standard urban precautions are sufficient for a safe visit."
+        },
+        {
+          "q": "Is Thessaloniki safe at night?",
+          "a": "Central areas like Ladadika, the waterfront, and main squares are reasonably safe at night with good lighting and activity. However, avoid isolated streets and areas around train stations after midnight. Use taxis or ride-sharing for longer distances late at night."
+        },
+        {
+          "q": "Is Thessaloniki safe for solo female travelers?",
+          "a": "Yes, Thessaloniki ranks as the 4th safest city in Greece for women and is considered safe for solo female travel. Harassment levels are relatively low, public transport is reliable, and many areas remain active late into the evening providing natural safety."
+        },
+        {
+          "q": "What areas should I avoid in Thessaloniki?",
+          "a": "Avoid the Vardaris area and streets around the train and bus stations, especially after midnight. Some peripheral neighborhoods and poorly lit side streets can feel unsafe at night. Stick to central, well-lit areas and main tourist zones."
+        },
+        {
+          "q": "Is it safe to use public transport in Thessaloniki?",
+          "a": "Yes, public transport including the new metro and city buses is safe and modern. The system is well-maintained, monitored, and widely used by locals. Buses operate frequently and the metro connects key city center locations efficiently."
+        }
+      ],
+      "relatedCities": [
+        "athens",
+        "belgrade",
+        "sofia",
+        "skopje",
+        "tirana"
+      ]
+    },
+    {
+      "slug": "antalya",
+      "name": "Antalya",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 6.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 7.5,
+        "scamRisk": 5.8,
+        "womensSafety": 6.5,
+        "nightSafety": 6.4,
+        "transport": 7.3,
+        "naturalHazards": 6.6
+      },
+      "summary": "Antalya is a popular Mediterranean resort city that offers good safety for tourists, with low violent crime rates and well-developed tourism infrastructure. While petty crime and tourist scams exist in busy areas, the city maintains a generally safe environment with modern healthcare facilities and reliable emergency services.",
+      "quickVerdict": "Antalya is one of Turkey's safest tourist destinations, ranking well below Istanbul in crime statistics with a safety index of 70.7%. The Mediterranean coast offers a relaxed atmosphere with strong tourism infrastructure, though visitors should remain alert for common tourist scams and exercise standard precautions in crowded areas. The recent regional tensions affecting southeastern Turkey do not impact Antalya's tourist areas, and the city continues to welcome millions of visitors safely each year.",
+      "neighborhoods": [
+        {
+          "name": "Kaleici (Old Town)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic heart of Antalya with narrow streets, Ottoman architecture, and marina. Well-patrolled tourist area with good lighting and plenty of foot traffic. Watch for overpriced restaurants targeting tourists."
+        },
+        {
+          "name": "Lara Beach District",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern resort area with luxury hotels and organized beaches. Excellent security at hotel complexes and well-maintained public areas. Popular nightlife zone with good safety standards."
+        },
+        {
+          "name": "Konyaalti Beach",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Western beach district popular with locals and tourists. Good public facilities and regular police presence. Beach areas are monitored but keep valuables secure while swimming."
+        },
+        {
+          "name": "City Center (Muratpasa)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Commercial heart of Antalya with shopping centers, business district, and transport hubs. Busy during day with normal urban precautions needed. Some areas quieter at night."
+        },
+        {
+          "name": "Kepez District",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Residential area north of city center. Less touristy with fewer English speakers. Generally safe but exercise more caution when walking alone, especially after dark."
+        },
+        {
+          "name": "Antalya Airport Area",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Airport vicinity with hotels and transport connections. Safe during day but limited services at night. Some areas under development. Use official taxis and pre-booked transfers."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Restaurant Bill Switch",
+          "risk": "high",
+          "description": "Restaurants in tourist areas show normal menus but present inflated bills at payment time. Common in Kaleici and near attractions where chicken dishes priced at 150 TL become 350 TL on the final bill.",
+          "howToAvoid": "Take photos of menu prices for items you order. Ask for prices upfront at restaurants without clearly marked prices. Avoid establishments that seem overly eager to get you inside."
+        },
+        {
+          "name": "Fake Tour and Activity Scams",
+          "risk": "medium",
+          "description": "Street sellers approach tourists offering discounted boat trips, excursions, or attraction tickets. May take payment and disappear, or provide substandard experiences very different from what was promised.",
+          "howToAvoid": "Book tours through your hotel, established agencies, or official operators. Be suspicious of street sellers offering deals that seem too good to be true. Get receipts and verify company credentials."
+        },
+        {
+          "name": "ATM Help Scam",
+          "risk": "medium",
+          "description": "Friendly strangers offer help when tourists appear to have trouble with ATMs or card payments, then note card details through skimming devices or shoulder surfing to later access accounts.",
+          "howToAvoid": "Decline unsolicited help at ATMs. Cover your PIN when entering it. Use ATMs inside banks or hotels when possible. Check your account regularly for unauthorized transactions."
+        },
+        {
+          "name": "Romance Scams",
+          "risk": "medium",
+          "description": "Particularly targeting solo female travelers, local men develop romantic relationships then create sob stories about family emergencies or medical bills to request money transfers.",
+          "howToAvoid": "Be cautious about sharing personal information or financial details. Trust your instincts if someone seems overly interested too quickly. Never send money to someone you've recently met while traveling."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Antalya is considered one of Turkey's safest destinations for solo female travelers, with a relaxed Mediterranean atmosphere and strong tourism infrastructure. The city ranks high for women's safety compared to other Turkish destinations, though standard precautions are still recommended especially regarding street harassment and nightlife safety.",
+        "tips": [
+          "Dress modestly when visiting mosques or traditional areas, but beachwear is perfectly acceptable in tourist zones",
+          "Avoid walking alone in poorly lit areas after dark, particularly outside the main tourist districts",
+          "Use official taxis with meters or ride-sharing apps rather than unmarked vehicles",
+          "Stay alert in crowded areas like bazaars where pickpocketing can occur",
+          "Trust your instincts if approached by overly friendly strangers, especially men offering unsolicited help"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Antalya's nightlife areas in Kaleici and Lara Beach maintain good safety standards with regular security presence, though alcohol-related incidents and overcharging at bars can be issues. The tourist-focused nightlife scene is generally well-regulated, but visitors should remain cautious and aware of their surroundings.",
+        "tips": [
+          "Stay in well-lit, busy areas with good foot traffic when out at night",
+          "Watch your drinks and never leave them unattended to avoid spiking incidents",
+          "Use reputable bars and clubs rather than following strangers to unknown venues",
+          "Keep emergency contacts saved and ensure your phone stays charged",
+          "Travel in groups when possible and inform someone of your plans"
+        ]
+      },
+      "transport": {
+        "metro": "Antalya does not have a metro system. Public transport relies on buses, trams (AntRay line), and dolmus minibuses. The tramway connects the airport to city center efficiently.",
+        "rideshare": "Uber operates in Antalya and is considered safer than street taxis, offering upfront pricing and tracking. Growing micro-mobility options include Marti scooters for short distances.",
+        "taxis": "Official yellow taxis are widely available but insist on using the meter or agree on price beforehand. Taxi apps and hotel-arranged transfers are recommended to avoid overcharging. Airport transfers should be pre-booked when possible.",
+        "tips": "Use the AntalyaKart for public transport payments. Dolmus minibuses accept cash and can be flagged down anywhere on their route. Avoid unmetered taxis and verify transport credentials."
+      },
+      "customs": [
+        "Remove shoes when entering homes and mosques - this is strictly observed",
+        "Accept tea offers graciously as Turkish hospitality is central to the culture",
+        "Dress conservatively when visiting mosques - cover shoulders, knees, and head for women",
+        "Use your right hand for greetings, eating, and passing items",
+        "Avoid pointing with your finger - use open hand gestures instead",
+        "Show respect for Ataturk and Turkish symbols - criticism can cause offense",
+        "Wait for the host to begin eating before starting your meal"
+      ],
+      "health": {
+        "overview": "Antalya has excellent healthcare facilities with many internationally accredited hospitals and English-speaking medical staff. The city is well-prepared for medical tourism and emergency care.",
+        "water": "Tap water is generally safe but bottled water is recommended for sensitive stomachs. Hotels and restaurants maintain good hygiene standards.",
+        "vaccinations": "Routine vaccinations should be up to date. Hepatitis A and Tetanus recommended. No special vaccinations required for Antalya specifically.",
+        "altitude": "Sea level location with Mediterranean climate. Hot summers require sun protection and hydration. Spring and fall offer ideal weather conditions."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "155",
+        "ambulance": "112",
+        "fire": "110",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Istanbul: +90-212-335-9000 (Antalya region) or US Embassy Ankara: +90-312-294-0000"
+      },
+      "faq": [
+        {
+          "q": "Is Antalya safe for tourists?",
+          "a": "Yes, Antalya is one of Turkey's safest tourist destinations with a safety index of 70.7%. The city has low crime rates, well-developed tourism infrastructure, and effective emergency services. Standard travel precautions are sufficient."
+        },
+        {
+          "q": "Is Antalya safe at night?",
+          "a": "Antalya's main tourist areas like Kaleici and Lara Beach are generally safe at night with good lighting and security presence. Avoid poorly lit residential areas and always stay alert in nightlife districts."
+        },
+        {
+          "q": "Is Antalya safe for solo female travelers?",
+          "a": "Yes, Antalya is considered very safe for solo female travelers compared to other destinations. The Mediterranean coast has a relaxed atmosphere, though normal precautions against street harassment and scams are advised."
+        },
+        {
+          "q": "What areas should I avoid in Antalya?",
+          "a": "Most areas are safe for tourists. Exercise more caution in outer residential districts like parts of Kepez after dark, and avoid isolated areas outside the main tourist zones. The airport area has limited services at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Antalya?",
+          "a": "Yes, Antalya's public transport including buses, trams, and dolmus minibuses is generally safe and well-maintained. Use the AntalyaKart for easy payment and prefer official taxis with meters over unmarked vehicles."
+        }
+      ],
+      "relatedCities": [
+        "istanbul",
+        "izmir",
+        "bodrum",
+        "marmaris"
+      ]
+    },
+    {
+      "slug": "cappadocia",
+      "name": "Cappadocia",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.8,
+        "scamRisk": 7.0,
+        "womensSafety": 8.2,
+        "nightSafety": 8.0,
+        "transport": 7.3,
+        "naturalHazards": 7.8
+      },
+      "summary": "Cappadocia is one of Turkey's safest tourist regions with extremely low crime rates and a calm atmosphere. While tourism-related scams can occur, violent crime is rare and the region prioritizes visitor safety.",
+      "quickVerdict": "Cappadocia consistently ranks as one of the safest destinations in Turkey, with crime rates significantly lower than in major cities. The tourism-dependent region maintains strong security standards and locals are exceptionally welcoming to visitors. Basic precautions against petty theft and tourist scams are recommended, but violent crime is extremely rare.",
+      "neighborhoods": [
+        {
+          "name": "Göreme",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Tourist hub with excellent security and infrastructure. Well-policed with frequent tourist presence making it very safe day and night."
+        },
+        {
+          "name": "Uçhisar",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Quiet village with castle views. Very safe with minimal crime and peaceful atmosphere. Popular for luxury cave hotels."
+        },
+        {
+          "name": "Ürgüp",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Historic town center with good tourist facilities. Safe for walking with adequate lighting and regular security presence."
+        },
+        {
+          "name": "Avanos",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Pottery town by Kızılırmak River. Generally safe but watch belongings in crowded market areas during pottery demonstrations."
+        },
+        {
+          "name": "Ortahisar",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Small village known for rock castle. Very quiet and safe but limited nighttime lighting on some streets."
+        },
+        {
+          "name": "Remote Valleys",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Beautiful hiking areas but can be isolated. Risk of getting lost rather than crime. Always inform someone of hiking plans."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pottery Shop Overpricing",
+          "risk": "high",
+          "description": "Tour groups taken to pottery centers where items are grossly overpriced, sometimes marked in USD instead of Turkish Lira to confuse tourists.",
+          "howToAvoid": "Research pottery prices beforehand, check reviews of shops on Google Maps, and be very clear about currency when making purchases."
+        },
+        {
+          "name": "Hot Air Balloon Tour Scams",
+          "risk": "medium",
+          "description": "Unregistered operators offering cheap balloon tours that may cancel last minute or provide poor quality experiences without proper refunds.",
+          "howToAvoid": "Book only with licensed companies, read recent reviews carefully, and understand cancellation policies before paying deposits."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Taxi drivers charging fixed high prices instead of using meters, especially for airport transfers and tourist sites.",
+          "howToAvoid": "Agree on fare before starting journey, use hotel-recommended drivers, or book transfers through reputable companies in advance."
+        },
+        {
+          "name": "Fake Antique Sales",
+          "risk": "medium",
+          "description": "Vendors selling fake Byzantine artifacts and coins at archaeological sites claiming they are authentic ancient pieces.",
+          "howToAvoid": "Be extremely skeptical of any antique offers, remember that exporting real artifacts is illegal, and buy only from established shops with proper documentation."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Cappadocia is exceptionally safe for solo female travelers and is often recommended as an ideal starting point for women new to solo travel in Turkey. The tourism-focused region has a calm atmosphere with minimal harassment compared to larger Turkish cities. Local people are respectful and helpful to female tourists.",
+        "tips": [
+          "Dress conservatively covering shoulders and knees, especially when visiting religious sites or smaller villages",
+          "Stay in well-reviewed accommodations in main tourist areas like Göreme or Uçhisar",
+          "Join group tours for activities like hot air ballooning or hiking to meet other travelers and enhance safety",
+          "Avoid remote hiking trails alone - stick to popular valleys or hire a guide for isolated areas",
+          "Trust your instincts and don't hesitate to change plans if something feels uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Cappadocia is very safe at night with low crime rates and a peaceful atmosphere. Most tourist areas are well-lit and regularly patrolled. The main risk is getting lost on unlit rural roads rather than crime. Many visitors safely walk around town centers after dark.",
+        "tips": [
+          "Stick to main streets and tourist areas after dark as some rural roads lack proper lighting",
+          "Download offline maps before heading out as GPS signals can be weak in valleys",
+          "Carry a flashlight or use phone torch when walking on uneven cave hotel pathways",
+          "Inform hotel staff of evening plans especially if visiting viewpoints for sunset",
+          "Use hotel-recommended transportation for late night activities rather than walking long distances"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Cappadocia. Public transport consists mainly of dolmuş (shared minibuses) connecting towns with decent safety but limited schedules.",
+        "rideshare": "Limited rideshare availability. Most tourists rely on taxis, hotel transfers, or rental cars for transportation around the region.",
+        "taxis": "Taxis are readily available but often don't use meters. Negotiate fixed prices beforehand to avoid overcharging. Hotel-recommended drivers are generally more reliable.",
+        "tips": "Rental cars offer the most flexibility for exploring safely. Book airport transfers in advance through reputable companies to avoid inflated taxi fares."
+      },
+      "customs": [
+        "Remove shoes when entering homes, cave hotels, and some traditional restaurants",
+        "Accept offered tea (çay) as refusing can be considered impolite - it's a gesture of hospitality",
+        "Dress modestly when visiting underground cities and religious sites, covering shoulders and knees",
+        "Use your right hand for eating and passing items as the left hand is considered unclean",
+        "Show respect for elders and address them formally - standing when they enter a room is appreciated"
+      ],
+      "health": {
+        "overview": "Cappadocia has no major health risks and good access to medical facilities in main towns. The region was unaffected by recent earthquakes and has low natural disaster risk.",
+        "water": "Tap water quality varies - bottled water is recommended for drinking. Restaurant food is generally safe but choose busy establishments with high turnover.",
+        "vaccinations": "No special vaccinations required. Routine vaccines like tetanus, measles, and flu should be up to date. Malaria risk is negligible in this region.",
+        "altitude": "Hot air ballooning can affect those with heart conditions or breathing difficulties. Summer temperatures can reach extreme levels - stay hydrated and seek shade during midday hours."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "155",
+        "ambulance": "112",
+        "fire": "110",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Ankara: +90-312-294-0000 or US Consulate General Istanbul: +90-212-335-9000"
+      },
+      "faq": [
+        {
+          "q": "Is Cappadocia safe for tourists?",
+          "a": "Yes, Cappadocia is one of the safest regions in Turkey with extremely low crime rates. It's particularly safe compared to major cities and relies heavily on tourism, so authorities prioritize visitor safety."
+        },
+        {
+          "q": "Is Cappadocia safe at night?",
+          "a": "Cappadocia is very safe at night with minimal crime. The main concerns are poor lighting on some rural roads and the risk of getting lost rather than safety threats. Tourist areas are well-maintained and regularly patrolled."
+        },
+        {
+          "q": "Is Cappadocia safe for solo female travelers?",
+          "a": "Yes, Cappadocia is exceptionally safe for solo female travelers and often recommended as an ideal starting destination. Local harassment is minimal and the tourism-focused atmosphere creates a welcoming environment for women."
+        },
+        {
+          "q": "What areas should I avoid in Cappadocia?",
+          "a": "There are no dangerous areas to avoid. Exercise normal caution in remote valleys when hiking alone and be aware that some rural roads have poor lighting. The entire region is considered safe for tourists."
+        },
+        {
+          "q": "Is it safe to use public transport in Cappadocia?",
+          "a": "Yes, public transport is safe though limited. Dolmuş (shared minibuses) are the main option and are generally reliable. Taxis are safe but negotiate prices beforehand. Many visitors prefer rental cars for flexibility."
+        }
+      ],
+      "relatedCities": [
+        "istanbul",
+        "ankara",
+        "antalya"
+      ]
     }
   ]
 }

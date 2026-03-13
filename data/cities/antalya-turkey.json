@@ -1,0 +1,166 @@
+{
+  "slug": "antalya",
+  "name": "Antalya",
+  "country": "Turkey",
+  "countryCode": "TR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 7.5,
+    "scamRisk": 5.8,
+    "womensSafety": 6.5,
+    "nightSafety": 6.4,
+    "transport": 7.3,
+    "naturalHazards": 6.6
+  },
+  "summary": "Antalya is a popular Mediterranean resort city that offers good safety for tourists, with low violent crime rates and well-developed tourism infrastructure. While petty crime and tourist scams exist in busy areas, the city maintains a generally safe environment with modern healthcare facilities and reliable emergency services.",
+  "quickVerdict": "Antalya is one of Turkey's safest tourist destinations, ranking well below Istanbul in crime statistics with a safety index of 70.7%. The Mediterranean coast offers a relaxed atmosphere with strong tourism infrastructure, though visitors should remain alert for common tourist scams and exercise standard precautions in crowded areas. The recent regional tensions affecting southeastern Turkey do not impact Antalya's tourist areas, and the city continues to welcome millions of visitors safely each year.",
+  "neighborhoods": [
+    {
+      "name": "Kaleici (Old Town)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic heart of Antalya with narrow streets, Ottoman architecture, and marina. Well-patrolled tourist area with good lighting and plenty of foot traffic. Watch for overpriced restaurants targeting tourists."
+    },
+    {
+      "name": "Lara Beach District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern resort area with luxury hotels and organized beaches. Excellent security at hotel complexes and well-maintained public areas. Popular nightlife zone with good safety standards."
+    },
+    {
+      "name": "Konyaalti Beach",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Western beach district popular with locals and tourists. Good public facilities and regular police presence. Beach areas are monitored but keep valuables secure while swimming."
+    },
+    {
+      "name": "City Center (Muratpasa)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Commercial heart of Antalya with shopping centers, business district, and transport hubs. Busy during day with normal urban precautions needed. Some areas quieter at night."
+    },
+    {
+      "name": "Kepez District",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Residential area north of city center. Less touristy with fewer English speakers. Generally safe but exercise more caution when walking alone, especially after dark."
+    },
+    {
+      "name": "Antalya Airport Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Airport vicinity with hotels and transport connections. Safe during day but limited services at night. Some areas under development. Use official taxis and pre-booked transfers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Restaurant Bill Switch",
+      "risk": "high",
+      "description": "Restaurants in tourist areas show normal menus but present inflated bills at payment time. Common in Kaleici and near attractions where chicken dishes priced at 150 TL become 350 TL on the final bill.",
+      "howToAvoid": "Take photos of menu prices for items you order. Ask for prices upfront at restaurants without clearly marked prices. Avoid establishments that seem overly eager to get you inside."
+    },
+    {
+      "name": "Fake Tour and Activity Scams",
+      "risk": "medium",
+      "description": "Street sellers approach tourists offering discounted boat trips, excursions, or attraction tickets. May take payment and disappear, or provide substandard experiences very different from what was promised.",
+      "howToAvoid": "Book tours through your hotel, established agencies, or official operators. Be suspicious of street sellers offering deals that seem too good to be true. Get receipts and verify company credentials."
+    },
+    {
+      "name": "ATM Help Scam",
+      "risk": "medium",
+      "description": "Friendly strangers offer help when tourists appear to have trouble with ATMs or card payments, then note card details through skimming devices or shoulder surfing to later access accounts.",
+      "howToAvoid": "Decline unsolicited help at ATMs. Cover your PIN when entering it. Use ATMs inside banks or hotels when possible. Check your account regularly for unauthorized transactions."
+    },
+    {
+      "name": "Romance Scams",
+      "risk": "medium",
+      "description": "Particularly targeting solo female travelers, local men develop romantic relationships then create sob stories about family emergencies or medical bills to request money transfers.",
+      "howToAvoid": "Be cautious about sharing personal information or financial details. Trust your instincts if someone seems overly interested too quickly. Never send money to someone you've recently met while traveling."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Antalya is considered one of Turkey's safest destinations for solo female travelers, with a relaxed Mediterranean atmosphere and strong tourism infrastructure. The city ranks high for women's safety compared to other Turkish destinations, though standard precautions are still recommended especially regarding street harassment and nightlife safety.",
+    "tips": [
+      "Dress modestly when visiting mosques or traditional areas, but beachwear is perfectly acceptable in tourist zones",
+      "Avoid walking alone in poorly lit areas after dark, particularly outside the main tourist districts",
+      "Use official taxis with meters or ride-sharing apps rather than unmarked vehicles",
+      "Stay alert in crowded areas like bazaars where pickpocketing can occur",
+      "Trust your instincts if approached by overly friendly strangers, especially men offering unsolicited help"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Antalya's nightlife areas in Kaleici and Lara Beach maintain good safety standards with regular security presence, though alcohol-related incidents and overcharging at bars can be issues. The tourist-focused nightlife scene is generally well-regulated, but visitors should remain cautious and aware of their surroundings.",
+    "tips": [
+      "Stay in well-lit, busy areas with good foot traffic when out at night",
+      "Watch your drinks and never leave them unattended to avoid spiking incidents",
+      "Use reputable bars and clubs rather than following strangers to unknown venues",
+      "Keep emergency contacts saved and ensure your phone stays charged",
+      "Travel in groups when possible and inform someone of your plans"
+    ]
+  },
+  "transport": {
+    "metro": "Antalya does not have a metro system. Public transport relies on buses, trams (AntRay line), and dolmus minibuses. The tramway connects the airport to city center efficiently.",
+    "rideshare": "Uber operates in Antalya and is considered safer than street taxis, offering upfront pricing and tracking. Growing micro-mobility options include Marti scooters for short distances.",
+    "taxis": "Official yellow taxis are widely available but insist on using the meter or agree on price beforehand. Taxi apps and hotel-arranged transfers are recommended to avoid overcharging. Airport transfers should be pre-booked when possible.",
+    "tips": "Use the AntalyaKart for public transport payments. Dolmus minibuses accept cash and can be flagged down anywhere on their route. Avoid unmetered taxis and verify transport credentials."
+  },
+  "customs": [
+    "Remove shoes when entering homes and mosques - this is strictly observed",
+    "Accept tea offers graciously as Turkish hospitality is central to the culture",
+    "Dress conservatively when visiting mosques - cover shoulders, knees, and head for women",
+    "Use your right hand for greetings, eating, and passing items",
+    "Avoid pointing with your finger - use open hand gestures instead",
+    "Show respect for Ataturk and Turkish symbols - criticism can cause offense",
+    "Wait for the host to begin eating before starting your meal"
+  ],
+  "health": {
+    "overview": "Antalya has excellent healthcare facilities with many internationally accredited hospitals and English-speaking medical staff. The city is well-prepared for medical tourism and emergency care.",
+    "water": "Tap water is generally safe but bottled water is recommended for sensitive stomachs. Hotels and restaurants maintain good hygiene standards.",
+    "vaccinations": "Routine vaccinations should be up to date. Hepatitis A and Tetanus recommended. No special vaccinations required for Antalya specifically.",
+    "altitude": "Sea level location with Mediterranean climate. Hot summers require sun protection and hydration. Spring and fall offer ideal weather conditions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "155",
+    "ambulance": "112",
+    "fire": "110",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Istanbul: +90-212-335-9000 (Antalya region) or US Embassy Ankara: +90-312-294-0000"
+  },
+  "faq": [
+    {
+      "q": "Is Antalya safe for tourists?",
+      "a": "Yes, Antalya is one of Turkey's safest tourist destinations with a safety index of 70.7%. The city has low crime rates, well-developed tourism infrastructure, and effective emergency services. Standard travel precautions are sufficient."
+    },
+    {
+      "q": "Is Antalya safe at night?",
+      "a": "Antalya's main tourist areas like Kaleici and Lara Beach are generally safe at night with good lighting and security presence. Avoid poorly lit residential areas and always stay alert in nightlife districts."
+    },
+    {
+      "q": "Is Antalya safe for solo female travelers?",
+      "a": "Yes, Antalya is considered very safe for solo female travelers compared to other destinations. The Mediterranean coast has a relaxed atmosphere, though normal precautions against street harassment and scams are advised."
+    },
+    {
+      "q": "What areas should I avoid in Antalya?",
+      "a": "Most areas are safe for tourists. Exercise more caution in outer residential districts like parts of Kepez after dark, and avoid isolated areas outside the main tourist zones. The airport area has limited services at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Antalya?",
+      "a": "Yes, Antalya's public transport including buses, trams, and dolmus minibuses is generally safe and well-maintained. Use the AntalyaKart for easy payment and prefer official taxis with meters over unmarked vehicles."
+    }
+  ],
+  "relatedCities": [
+    "istanbul",
+    "izmir",
+    "bodrum",
+    "marmaris"
+  ],
+  "_city_id": "antalya-turkey"
+}

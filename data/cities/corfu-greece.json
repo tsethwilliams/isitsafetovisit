@@ -1,0 +1,163 @@
+{
+  "slug": "corfu",
+  "name": "Corfu",
+  "country": "Greece",
+  "countryCode": "GR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Corfu is one of Greece's safest destinations with exceptionally low crime rates and a welcoming atmosphere. The island scores a remarkable 12.64 out of 100 on global crime indices, making it significantly safer than mainland Greece and most European destinations.",
+  "quickVerdict": "Corfu stands out as an exceptionally safe destination for all types of travelers. With violent crime virtually non-existent and petty crime rare, the island offers peace of mind for solo travelers, families, and couples. The local community is known for its genuine hospitality, while the infrastructure supports safe exploration. The main concerns are minor - occasional summer wildfires and standard tourist-area pickpocketing - but these risks are easily managed with basic precautions.",
+  "neighborhoods": [
+    {
+      "name": "Corfu Old Town",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The UNESCO World Heritage Old Town is very safe with heavy tourist police presence. Well-lit streets and constant foot traffic make it ideal for evening strolls. Venetian architecture creates intimate, walkable spaces perfect for solo exploration."
+    },
+    {
+      "name": "Kontokali",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Upscale marina area just outside Corfu Town offering a relaxed, family-friendly atmosphere. Well-developed infrastructure with restaurants and shops. Popular with tourists seeking luxury accommodations in a safe setting."
+    },
+    {
+      "name": "Gouvia",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Lively marina town with vibrant nightlife and water sports. Safe but can get crowded during peak season. Popular with younger travelers and groups, though noise levels may be higher than other areas."
+    },
+    {
+      "name": "Paleokastritsa",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Scenic coastal village known for beautiful beaches and monasteries. Very safe with strong community atmosphere. Popular day-trip destination with good facilities and local police presence."
+    },
+    {
+      "name": "Benitses",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Traditional fishing village turned tourist resort. Generally safe but can get busy with tour groups. Has local police station and good emergency services access. Family-friendly during the day."
+    },
+    {
+      "name": "Kavos",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Known for intensive nightlife and party scene attracting young British tourists. Higher risk of alcohol-related incidents and rowdy behavior. Solo female travelers should exercise extra caution, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Photography Camera Drop",
+      "risk": "medium",
+      "description": "Strangers ask you to take their photo, then deliberately drop their camera and blame you for breaking it, demanding payment for repairs. Common in tourist areas including Corfu Town and popular beaches.",
+      "howToAvoid": "Politely decline to take photos for strangers, especially if they seem overly insistent. If you do help, ensure others witness the exchange and check the camera condition beforehand."
+    },
+    {
+      "name": "Friendly Local Guide",
+      "risk": "medium",
+      "description": "Someone approaches offering to be your guide or help with directions, getting close to distract you while an accomplice pickpockets your belongings. They may also lead you to overpriced shops where they receive commission.",
+      "howToAvoid": "Be polite but firm in declining unsolicited help. Use official tourist information centers and licensed tour operators. Keep valuables secure and maintain awareness of your surroundings."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Taxi drivers may take longer routes, claim the meter is broken, or add unexpected surcharges. Some may refuse to use the meter altogether, especially from the airport or ferry port.",
+      "howToAvoid": "Always insist the meter is used or agree on a price before starting the journey. Learn approximate costs for common routes. Consider using hotel-recommended taxis or ride-sharing apps where available."
+    },
+    {
+      "name": "Restaurant Menu Pricing",
+      "risk": "low",
+      "description": "Some tourist restaurants may not display prices clearly or add unexpected charges for bread, water, or service. Prices may be inflated compared to local establishments.",
+      "howToAvoid": "Always ask to see a menu with prices before ordering. Confirm what's included and check if there are cover charges. Eat where locals eat for better value and authentic experiences."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Corfu is exceptionally safe for solo female travelers, ranking among the best Greek islands for women traveling alone. The local culture respects women, violent crime targeting tourists is virtually non-existent, and the infrastructure supports independent travel. The island's welcoming atmosphere and genuine Greek hospitality create an environment where solo female travelers feel comfortable and supported.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Corfu Old Town or established resort areas for best safety and convenience",
+      "Avoid the Kavos party area if seeking a quieter, safer experience - opt for Paleokastritsa or Kontokali instead",
+      "Trust the locals' genuine desire to help, but remain aware in very touristy areas where opportunistic behavior is more likely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Corfu maintains good safety standards after dark, particularly in tourist areas and the Old Town which remain well-lit and patrolled. The island's relaxed pace and strong community bonds contribute to a secure nighttime environment. Most safety concerns involve standard precautions rather than significant risks.",
+    "tips": [
+      "Stick to well-lit areas and main streets when walking at night, especially in Corfu Town center",
+      "Exercise extra caution in Kavos during peak party season due to alcohol-related incidents",
+      "Use licensed taxis or arranged transport for late-night return trips to accommodations outside town centers"
+    ]
+  },
+  "transport": {
+    "metro": "Corfu does not have a metro system. The island relies on buses, taxis, and private vehicles for transportation.",
+    "rideshare": "Limited ride-sharing options available. Traditional taxis are the primary on-demand transport, though some international apps may operate seasonally in tourist areas.",
+    "taxis": "Licensed taxis are generally safe and reliable. Ensure the meter is running or agree on fare beforehand. Taxis are readily available at the airport, ferry port, and main tourist areas. Keep taxi company numbers handy for reliable service.",
+    "tips": "Renting a car or scooter provides the most flexibility for exploring the island safely. Public buses are safe but infrequent to remote areas. Always wear helmets when using motorbikes and ensure you have proper licensing and insurance coverage."
+  },
+  "customs": [
+    "Greet people with 'Kalimera' (Good morning) or 'Kalispera' (Good evening) when entering shops or restaurants",
+    "Dress modestly when visiting churches and monasteries - cover shoulders and knees, women may need headscarves",
+    "Avoid the 'OK' hand gesture (thumb and forefinger circle) and open palm gestures as they are considered offensive",
+    "Greeks nod down for 'yes' and up for 'no' - the opposite of many other cultures",
+    "Meals are leisurely social events meant for conversation and sharing - don't rush dining experiences",
+    "Show respect for elders and offer seats to elderly people on public transport",
+    "Photography may be restricted in churches during services and in some archaeological sites"
+  ],
+  "health": {
+    "overview": "Corfu has adequate healthcare facilities with a general hospital in Corfu Town and several first aid stations around the island. Medical care is not free and can be expensive for visitors, so comprehensive travel insurance is essential.",
+    "water": "Tap water meets EU safety standards but has high mineral content and may taste different. While generally safe, many visitors prefer bottled water for taste. Bottled water is widely available and affordable throughout the island.",
+    "vaccinations": "No special vaccinations required for Greece. Ensure routine vaccinations are current including measles, hepatitis A and B. The CDC recommends being up-to-date on COVID-19 and seasonal flu vaccines.",
+    "altitude": "Sea-level location with Mediterranean climate. Summer temperatures can reach dangerous levels - stay hydrated, use sun protection, and seek shade during peak heat hours. Air quality is generally excellent with minimal pollution concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "166",
+    "fire": "199",
+    "touristPolice": "26610 39294 (San Rocco Square) / 26610 30265 (New Fortress)",
+    "usEmbassy": "US Embassy Athens: +30 210 720-2400. Emergency services for US citizens: +30 210 720-2414. The nearest US consular services are in Athens, approximately 45 minutes by air from Corfu."
+  },
+  "faq": [
+    {
+      "q": "Is Corfu safe for tourists?",
+      "a": "Yes, Corfu is one of Greece's safest destinations. With extremely low crime rates and a welcoming local community, tourists face minimal safety risks. Standard travel precautions are sufficient for a safe and enjoyable visit."
+    },
+    {
+      "q": "Is Corfu safe at night?",
+      "a": "Corfu is generally very safe at night, especially in tourist areas and the Old Town. These areas remain well-lit and have regular police patrols. Avoid the Kavos party area during peak season if seeking quieter nighttime experiences."
+    },
+    {
+      "q": "Is Corfu safe for solo female travelers?",
+      "a": "Absolutely. Corfu ranks among the best Greek destinations for solo female travelers. The culture is respectful toward women, violent crime is virtually non-existent, and the local community is genuinely helpful and welcoming."
+    },
+    {
+      "q": "What areas should I avoid in Corfu?",
+      "a": "Kavos during peak party season can be rowdy with alcohol-related incidents. Otherwise, Corfu has no truly dangerous areas. Remote mountain roads require careful driving, and standard precautions in crowded tourist spots prevent petty theft."
+    },
+    {
+      "q": "Is it safe to use public transport in Corfu?",
+      "a": "Yes, public buses are safe and reliable, though they may be infrequent to remote areas. Taxis are generally trustworthy - just ensure the meter runs or agree on fares beforehand. Rental vehicles offer the most flexibility for safe exploration."
+    }
+  ],
+  "relatedCities": [
+    "athens",
+    "santorini",
+    "mykonos",
+    "rhodes",
+    "crete"
+  ],
+  "_city_id": "corfu-greece"
+}

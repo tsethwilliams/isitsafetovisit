@@ -1,0 +1,165 @@
+{
+  "slug": "thessaloniki",
+  "name": "Thessaloniki",
+  "country": "Greece",
+  "countryCode": "GR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Thessaloniki is Greece's second-largest city and generally considered safe for tourists, with low violent crime rates and a welcoming atmosphere. The main concerns involve petty theft in crowded areas and occasional taxi overcharging, while the city benefits from good police presence and modern infrastructure including a new metro system.",
+  "quickVerdict": "Thessaloniki offers a safe and enjoyable experience for most travelers. While petty crime like pickpocketing exists in tourist areas such as Aristotelous Square and Ladadika, violent crime against tourists is rare. The city maintains lower crime levels than many comparably sized European urban centers. Standard urban precautions are sufficient, and the friendly Greek hospitality extends to helping visitors. The new metro system and reliable public transport add to the city's accessibility and safety for travelers.",
+  "neighborhoods": [
+    {
+      "name": "City Center & Aristotelous Square",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-patrolled central area with heavy foot traffic, police presence, and good lighting. Main tourist hub with cafes, shops, and landmarks. Safe during day and evening but watch for pickpockets in crowds."
+    },
+    {
+      "name": "Ladadika District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic nightlife quarter with cobblestone streets, restaurants, and bars. Lively and generally safe but can get crowded at night. Police patrol regularly, though petty theft can occur in busy venues."
+    },
+    {
+      "name": "White Tower Area & Waterfront",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Heavily visited tourist zone with excellent lighting and regular patrols. The seaside promenade offers scenic walks and feels safe at most hours. Well-maintained with good emergency access."
+    },
+    {
+      "name": "Ano Poli (Upper Town)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quiet residential neighborhood with traditional architecture and panoramic views. Generally peaceful during day and early evening, though some streets can feel isolated after midnight."
+    },
+    {
+      "name": "Vardaris Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Western district with mixed conditions. Some areas have ongoing urban redevelopment but certain pockets can feel deserted late at night. Avoid isolated streets after midnight and stick to main roads."
+    },
+    {
+      "name": "Train Station Vicinity",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Higher petty crime rates around transportation hubs. Some areas described as less desirable, particularly after dark. Exercise extra caution and avoid walking alone late at night in surrounding streets."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Fare Inflation",
+      "risk": "moderate",
+      "description": "Some drivers may claim broken meters, take longer routes, or quote flat rates above metered fares, especially for airport transfers.",
+      "howToAvoid": "Use ride-sharing apps like Uber or FREENOW for price transparency, insist on using the meter, or agree on fare beforehand. Know approximate costs to destinations."
+    },
+    {
+      "name": "Friendly Local Guide Scam",
+      "risk": "moderate",
+      "description": "Overly friendly strangers approach tourists offering local tips or restaurant recommendations, then lead them to establishments with inflated prices or request payment for 'services'.",
+      "howToAvoid": "Be politely cautious of unsolicited help from strangers. Research restaurants independently and book tours through reputable companies rather than accepting street offers."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Card skimming devices may be placed on ATMs to steal card information and PINs, though this is not widespread in Thessaloniki.",
+      "howToAvoid": "Use ATMs inside banks or well-monitored indoor areas. Avoid standalone machines in poorly lit areas. Cover your PIN when entering it and check for unusual devices attached to the machine."
+    },
+    {
+      "name": "Bar Drink Overcharging",
+      "risk": "moderate",
+      "description": "Some bars may present menus without prices or switch to higher-priced menus after ordering, leading to unexpectedly high bills.",
+      "howToAvoid": "Always check prices before ordering and ensure menus clearly display costs. Ask for a printed menu with prices if uncertain. Avoid establishments that don't clearly post their pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Thessaloniki is considered safe for solo female travelers, ranking among the top cities in Greece for women. The city has relatively low harassment rates compared to many global destinations, and women frequently travel alone without incident. Public transportation is reliable and safe, with modern infrastructure including the new metro system. The main precautions involve standard urban awareness, particularly at night and in crowded areas.",
+    "tips": [
+      "Stay in central, well-lit areas especially at night and avoid poorly lit side streets",
+      "The Vardaris area and neighborhoods around train/bus stations require extra caution after midnight",
+      "Public transport including buses and metro is generally safe with regular service and good lighting",
+      "Local hospitality means many Greeks are helpful to solo travelers, but remain appropriately cautious",
+      "Keep belongings secure in crowded tourist areas and nightlife districts to prevent pickpocketing"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Thessaloniki offers moderate nighttime safety with vibrant nightlife areas that remain active until late hours. The city center, Ladadika, and waterfront areas are generally safe with good lighting and police presence. However, some peripheral areas and isolated streets should be avoided after midnight. The city's cafe culture means many areas stay lively well past midnight, which actually enhances safety through natural surveillance.",
+    "tips": [
+      "Stick to well-lit, populated main roads and avoid quiet side streets after midnight",
+      "Ladadika nightlife district is generally safe but stay aware of surroundings in crowded venues",
+      "Use licensed taxis or ride-sharing apps rather than walking long distances alone late at night",
+      "Avoid the Vardaris area and surroundings of train stations during late night hours",
+      "Plan transport in advance as public transport reduces service frequency after midnight"
+    ]
+  },
+  "transport": {
+    "metro": "The new Thessaloniki Metro opened in late 2024 and provides modern, safe transportation connecting the city center with eastern districts. Stations are well-lit, monitored, and accessible. Single tickets cost 0.60 euros and are valid for 70 minutes. The system is clean and efficient though currently limited to central areas.",
+    "rideshare": "Uber operates exclusively with licensed taxi drivers recognizable by their blue color. FREENOW is popular among locals as an alternative. Both apps offer price transparency and tracked routes, making them safer than hailing taxis on the street. Rides typically cost 20-25 euros from airport to city center.",
+    "taxis": "Official taxis are blue and white with regulated meters. Most drivers are honest though occasional overcharging occurs, especially for airport transfers. There's a flat rate of 25 euros from airport to city center during day (35 euros at night). Many drivers don't have card readers, so cash is often required.",
+    "tips": "Public transport is reliable and affordable with buses covering the entire city. The integrated ticket system works for both metro and buses. Use contactless payment on buses as cash is no longer accepted. Pre-booking taxis for airport transfers reduces stress and potential overcharging."
+  },
+  "customs": [
+    "Dress modestly when visiting churches and religious sites - cover shoulders and legs",
+    "It's illegal to photograph military personnel, installations, or law enforcement officers",
+    "Removing artifacts, rocks, or antiquities from archaeological sites is strictly prohibited and can result in prosecution",
+    "Pepper spray and mace are illegal to bring into Greece and will be confiscated",
+    "Always carry identification as police may request it, and failure to provide ID can lead to questioning"
+  ],
+  "health": {
+    "overview": "Thessaloniki has good healthcare infrastructure with both public and private facilities available. The city is implementing a National Strategy for Quality of Care and Patient Safety for 2025-2030. Private healthcare is often preferred for faster service and English-speaking staff. No special vaccinations are required for travel to Greece.",
+    "water": "Tap water in Thessaloniki is safe to drink and meets European Union safety standards. The water quality is reliable throughout the city, making bottled water unnecessary though available everywhere.",
+    "vaccinations": "No specific vaccinations are required for Greece. Standard travel vaccinations like tetanus and hepatitis A/B are recommended as for any international travel. EU health insurance cards are accepted for EU citizens.",
+    "altitude": "Thessaloniki is at sea level with a Mediterranean climate. Summers can be intense with temperatures above 35°C, making heat exhaustion a concern. Winters are mild and wet. The coastal location moderates temperatures compared to inland areas."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "166",
+    "fire": "199",
+    "touristPolice": "171",
+    "usEmbassy": "US Embassy Athens: +30 210 721-2951. Emergency after hours: +30 210 729-4444. US Consulate General Thessaloniki available for northern Greece. Address: 91 Vasilissis Sophias Avenue, 10160 Athens. Americans abroad emergency line: +1-202-501-4444 (from abroad) or 1-888-407-4747 (from US/Canada)."
+  },
+  "faq": [
+    {
+      "q": "Is Thessaloniki safe for tourists?",
+      "a": "Yes, Thessaloniki is generally safe for tourists with low violent crime rates and good police presence. The main concerns are petty theft in crowded areas and occasional taxi overcharging. Standard urban precautions are sufficient for a safe visit."
+    },
+    {
+      "q": "Is Thessaloniki safe at night?",
+      "a": "Central areas like Ladadika, the waterfront, and main squares are reasonably safe at night with good lighting and activity. However, avoid isolated streets and areas around train stations after midnight. Use taxis or ride-sharing for longer distances late at night."
+    },
+    {
+      "q": "Is Thessaloniki safe for solo female travelers?",
+      "a": "Yes, Thessaloniki ranks as the 4th safest city in Greece for women and is considered safe for solo female travel. Harassment levels are relatively low, public transport is reliable, and many areas remain active late into the evening providing natural safety."
+    },
+    {
+      "q": "What areas should I avoid in Thessaloniki?",
+      "a": "Avoid the Vardaris area and streets around the train and bus stations, especially after midnight. Some peripheral neighborhoods and poorly lit side streets can feel unsafe at night. Stick to central, well-lit areas and main tourist zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Thessaloniki?",
+      "a": "Yes, public transport including the new metro and city buses is safe and modern. The system is well-maintained, monitored, and widely used by locals. Buses operate frequently and the metro connects key city center locations efficiently."
+    }
+  ],
+  "relatedCities": [
+    "athens",
+    "belgrade",
+    "sofia",
+    "skopje",
+    "tirana"
+  ],
+  "_city_id": "thessaloniki-greece"
+}

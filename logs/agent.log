@@ -1000,3 +1000,31 @@
 2026-03-13 06:16:45,029 [INFO] Merged into site data: Crete
 2026-03-13 06:16:45,063 [INFO] Merged 5 new cities into src/lib/city-data.json
 2026-03-13 06:16:45,064 [INFO] Updated sitemap with 5 new URLs
+2026-03-13 11:45:53,217 [INFO] Agent starting — mode: add
+2026-03-13 11:45:53,257 [INFO] Queue has 202 cities, adding 5
+2026-03-13 11:45:53,257 [INFO] Generating new city profile: Rhodes, Greece
+2026-03-13 11:47:36,686 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:47:36,752 [INFO] Saved city data: rhodes-greece
+2026-03-13 11:47:36,754 [INFO] Generating new city profile: Corfu, Greece
+2026-03-13 11:49:18,166 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:49:18,199 [INFO] Saved city data: corfu-greece
+2026-03-13 11:49:18,201 [INFO] Generating new city profile: Thessaloniki, Greece
+2026-03-13 11:50:57,138 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:50:57,160 [INFO] Saved city data: thessaloniki-greece
+2026-03-13 11:50:57,161 [INFO] Generating new city profile: Antalya, Turkey
+2026-03-13 11:51:53,103 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:51:53,133 [ERROR] Claude returned empty text response
+2026-03-13 11:51:53,133 [ERROR] Failed to parse city data for Antalya (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-13 11:51:53,133 [INFO] Retry 1/2 for Antalya
+2026-03-13 11:53:33,308 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:53:33,329 [INFO] Saved city data: antalya-turkey
+2026-03-13 11:53:33,331 [INFO] Generating new city profile: Cappadocia, Turkey
+2026-03-13 11:54:51,366 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 11:54:51,380 [INFO] Saved city data: cappadocia-turkey
+2026-03-13 11:54:51,400 [INFO] Merged into site data: Rhodes
+2026-03-13 11:54:51,400 [INFO] Merged into site data: Corfu
+2026-03-13 11:54:51,400 [INFO] Merged into site data: Thessaloniki
+2026-03-13 11:54:51,400 [INFO] Merged into site data: Antalya
+2026-03-13 11:54:51,400 [INFO] Merged into site data: Cappadocia
+2026-03-13 11:54:51,435 [INFO] Merged 5 new cities into src/lib/city-data.json
+2026-03-13 11:54:51,436 [INFO] Updated sitemap with 5 new URLs
