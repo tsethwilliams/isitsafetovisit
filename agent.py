@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-IsItSafeToVisit.com Ã¢ÂÂ City Safety Automation Agent
+IsItSafeToVisit.com — City Safety Automation Agent
 ===================================================
 Powered by Claude Code / Anthropic API
 
@@ -20,13 +20,13 @@ Usage:
   python agent.py --mode single --city "Tokyo, Japan"  # Process single city
 
 Scheduling (cron examples):
-  # Full pipeline Ã¢ÂÂ weekly on Sunday at 2 AM
+  # Full pipeline — weekly on Sunday at 2 AM
   0 2 * * 0 cd /path/to/project && python agent.py --mode full
 
-  # Alert monitoring Ã¢ÂÂ every 6 hours
+  # Alert monitoring — every 6 hours
   0 */6 * * * cd /path/to/project && python agent.py --mode alert
 
-  # Stale city refresh Ã¢ÂÂ daily at 3 AM
+  # Stale city refresh — daily at 3 AM
   0 3 * * * cd /path/to/project && python agent.py --mode refresh
 """
 
@@ -54,7 +54,7 @@ CONFIG = {
     "log_file": Path("./logs/agent.log"),
     "changelog_file": Path("./logs/changelog.json"),
     "staleness_threshold_days": 30,
-    "batch_size_add": 8,       # New cities to add per run
+    "batch_size_add": 5,       # New cities to add per run
     "batch_size_refresh": 10,  # Stale cities to refresh per run
     "confidence_threshold": 0.6,
 }
@@ -181,7 +181,7 @@ def get_stale_cities(threshold_days: int = None) -> list[dict]:
             last_updated = last_updated.replace(tzinfo=timezone.utc)
         if last_updated < cutoff:
             stale.append(city)
-    return sorted(stale, key=lambda c: c.get("last_updated", c.get("lastUpdated", "2020-01-01")))
+    return sorted(stale, key=lambda c: c["last_updated"])
 
 
 def load_queue() -> list[dict]:
@@ -272,7 +272,7 @@ Your job is to produce comprehensive, accurate, and actionable safety assessment
 CRITICAL RULES:
 1. Be factual and evidence-based. Use data you find but write in your own words.
 2. Score on a 1-10 scale where 10 = safest.
-3. Be balanced Ã¢ÂÂ acknowledge both risks and positive safety factors.
+3. Be balanced — acknowledge both risks and positive safety factors.
 4. Include practical, actionable advice travelers can use.
 5. Never minimize real dangers, but don't fear-monger either.
 6. Consider different traveler profiles (solo, female, LGBTQ+, families).
@@ -351,7 +351,7 @@ CRITICAL RULES:
 5. Update the "recent_incidents" section with anything from the last 90 days.
 
 OUTPUT FORMAT: You MUST respond with ONLY valid JSON matching the city schema.
-No markdown, no explanations Ã¢ÂÂ just the JSON object."""
+No markdown, no explanations — just the JSON object."""
 
 
 SYSTEM_PROMPT_ALERT = """You are a breaking-news safety monitor for IsItSafeToVisit.com.
@@ -551,23 +551,7 @@ def check_alerts(client, cities: list[dict]) -> list[dict]:
     """Check for breaking safety events across all cities."""
     logging.info(f"Checking alerts for {len(cities)} cities")
 
-    # Handle both old format (city_id) and new format (name/country)
-    city_names = []
-    for c in cities[:50]:
-        name = c.get('name', '')
-        country = c.get('country', '')
-        if not name:
-            # Try to extract from city_id or slug
-            city_id = c.get('city_id', c.get('slug', ''))
-            name = city_id.replace('-', ' ').title() if city_id else 'Unknown'
-        if name and name != 'Unknown':
-            city_names.append(f"{name} ({country})" if country else name)
-
-    if not city_names:
-        logging.info("No valid cities to check alerts for")
-        return []
-
-    city_list = ", ".join(city_names)
+    city_list = ", ".join([f"{c['name']} ({c['country']})" for c in cities[:50]])
 
     prompt = f"""Check for any breaking safety events in the last 48 hours
 that would affect travelers in these cities:
@@ -702,7 +686,7 @@ def run_refresh(client):
         if updated:
             save_city(updated)
             log_change("refresh", city["city_id"],
-                       f"Score: {city.get('overall_safety_score', '?')} Ã¢ÂÂ {updated.get('overall_safety_score', '?')}")
+                       f"Score: {city.get('overall_safety_score', '?')} → {updated.get('overall_safety_score', '?')}")
 
 
 def run_add_cities(client):
@@ -784,7 +768,7 @@ def merge_into_site_data(new_cities: list[dict]):
 
 
 def update_sitemap(new_cities: list[dict]):
-    """Add new city and country URLs to the sitemap."""
+    """Add new city URLs to the sitemap."""
     sitemap_path = Path("./public/sitemap.xml")
     if not sitemap_path.exists():
         logging.warning("sitemap.xml not found, skipping sitemap update")
@@ -793,33 +777,14 @@ def update_sitemap(new_cities: list[dict]):
     with open(sitemap_path) as f:
         content = f.read()
 
-    today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     new_entries = ""
     for city in new_cities:
         slug = city.get("slug", "")
         if slug and f"/cities/{slug}" not in content:
             new_entries += f"""  <url>
     <loc>https://www.isitsafetovisit.com/cities/{slug}</loc>
-    <lastmod>{today}</lastmod>
+    <lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>
     <priority>0.8</priority>
-  </url>
-"""
-
-    # Add country URLs for any new countries in this batch
-    seen_country_slugs = set()
-    for city in new_cities:
-        country = city.get("country", "")
-        if not country:
-            continue
-        country_slug = country.lower().replace(" ", "-")
-        if country_slug in seen_country_slugs:
-            continue
-        seen_country_slugs.add(country_slug)
-        if f"/countries/{country_slug}" not in content:
-            new_entries += f"""  <url>
-    <loc>https://www.isitsafetovisit.com/countries/{country_slug}</loc>
-    <lastmod>{today}</lastmod>
-    <priority>0.7</priority>
   </url>
 """
 
@@ -848,12 +813,12 @@ def run_rankings():
     # Save rankings summary
     CONFIG["rankings_file"].parent.mkdir(parents=True, exist_ok=True)
     rankings_summary = [{
-        "rank": c.get("global_rank", 0),
-        "city_id": c.get("city_id", c.get("slug", "unknown")),
-        "name": c.get("name", c.get("city_id", c.get("slug", "unknown")).replace("-", " ").title()),
-        "country": c.get("country", ""),
-        "score": c.get("overall_safety_score", c.get("overallScore", 0)),
-        "tier": c.get("safety_tier", c.get("badgeClass", "unknown")),
+        "rank": c["global_rank"],
+        "city_id": c["city_id"],
+        "name": c["name"],
+        "country": c["country"],
+        "score": c["overall_safety_score"],
+        "tier": c["safety_tier"],
         "trending": c.get("trending", "stable"),
     } for c in ranked]
 
@@ -1045,7 +1010,7 @@ def main():
     args = parser.parse_args()
 
     setup_logging()
-    logging.info(f"Agent starting Ã¢ÂÂ mode: {args.mode}")
+    logging.info(f"Agent starting — mode: {args.mode}")
 
     if args.mode == "seed":
         generate_seed_queue()
