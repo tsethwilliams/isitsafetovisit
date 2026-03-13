@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Footer from '@/components/Footer';
 import SafetyBadge from '@/components/SafetyBadge';
+import HomeSearch from '@/components/HomeSearch';
 import { getAllCities, type City } from '@/lib/cities';
 
 const REGION_META: Record<string, { emoji: string; order: number }> = {
@@ -47,7 +48,6 @@ function CityCard({ city }: { city: City }) {
 function getRegions(cities: City[]) {
   const regionMap: Record<string, { name: string; slug: string; count: number }> = {};
   cities.forEach(c => {
-    // Normalize slug
     let slug = c.regionSlug;
     if (slug === 'central-america-caribbean') slug = 'central-america';
     if (slug === 'west-africa') slug = 'africa';
@@ -70,6 +70,15 @@ export default function HomePage() {
   const recent = [...cities].sort((a, b) => b.lastUpdated.localeCompare(a.lastUpdated)).slice(0, 5);
   const regions = getRegions(cities);
 
+  const searchCities = cities.map(c => ({
+    slug: c.slug,
+    name: c.name,
+    country: c.country,
+    region: c.region,
+    overallScore: c.overallScore,
+    badgeClass: c.badgeClass,
+  }));
+
   return (
     <>
       <section className="hero">
@@ -77,6 +86,7 @@ export default function HomePage() {
           <div className="hero-badge">Updated March 2026</div>
           <h1>Know before <em>you go</em></h1>
           <p className="hero-sub">Honest, detailed safety guides for {cities.length}+ cities worldwide. Real neighborhood breakdowns, scam alerts, local customs, and practical tips.</p>
+          <HomeSearch cities={searchCities} />
           <div className="search-hints">
             Popular:{' '}
             {['medellin', 'bangkok', 'istanbul', 'cape-town', 'mexico-city'].map((slug, i) => {
