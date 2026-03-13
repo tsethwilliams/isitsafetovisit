@@ -1,3 +1,5 @@
+import dynamic from 'next/dynamic';
+const RegionsMap = dynamic(() => import('@/components/RegionsMap'), { ssr: false });
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Footer from '@/components/Footer';
@@ -63,7 +65,13 @@ export default function RegionsPage() {
       </section>
 
       <div className="container">
-        <div className="regions-page-grid">
+        
+      <section style={{marginBottom:'2.5rem'}}>
+        <RegionsMap cities={cities.map(c=>({slug:c.slug,name:c.name,country:c.country,region:c.region,overallScore:c.overallScore}))} />
+      </section>
+
+      <h2 style={{fontFamily:'DM Serif Display, serif',fontSize:'1.8rem',marginBottom:'1.5rem'}}>All Regions</h2>
+<div className="regions-page-grid">
           {regions.map(r => {
             const meta = REGION_META[r.slug];
             const topCities = r.cities.sort((a, b) => b.overallScore - a.overallScore).slice(0, 5);
