@@ -34,7 +34,7 @@ export default function AboutPage() {
         <div className="about-content">
           <section className="content-section">
             <h2>Our Mission</h2>
-            <p>IsItSafeToVisit.com exists to give travelers the honest, detailed safety information they need before visiting a new city. We believe that informed travelers are safer travelers, and that accurate safety information shouldn't be hidden behind generic advice like "exercise normal precautions."</p>
+            <p>IsItSafeToVisit.com exists to give travelers the honest, detailed safety information they need before visiting a new city. We believe that informed travelers are safer travelers, and that accurate safety information should not be hidden behind generic advice like &ldquo;exercise normal precautions.&rdquo;</p>
             <p>Every city guide on our site includes real neighborhood breakdowns with safety scores, specific scam descriptions with avoidance tips, transport safety ratings, solo female travel assessments, night safety information, health advisories, and emergency contacts. We cover the details that matter to actual travelers making actual decisions.</p>
           </section>
 
@@ -55,7 +55,7 @@ export default function AboutPage() {
                 <p>Prevalence and sophistication of tourist-targeting scams, from taxi overcharging to elaborate fraud.</p>
               </div>
               <div className="about-score-item">
-                <h4>Women's Safety</h4>
+                <h4>Women&apos;s Safety</h4>
                 <p>Street harassment levels, safety for solo female travelers, and gender-specific concerns.</p>
               </div>
               <div className="about-score-item">
@@ -73,7 +73,7 @@ export default function AboutPage() {
             </div>
 
             <h3>Safety Tiers</h3>
-            <p>The overall safety score is the average of all seven categories, which determines the city's safety tier:</p>
+            <p>The overall safety score is the average of all seven categories, which determines the city&apos;s safety tier:</p>
             <div className="about-tiers">
               <div className="about-tier"><span className="text-safe">7.0 &ndash; 10.0</span> Generally Safe &mdash; Standard travel precautions are sufficient.</div>
               <div className="about-tier"><span className="text-caution">5.0 &ndash; 6.9</span> Moderate Caution &mdash; Extra awareness and precautions recommended.</div>
@@ -103,7 +103,7 @@ export default function AboutPage() {
 
           <section className="content-section">
             <h2>Contact</h2>
-            <p>Have a correction, suggestion, or question? We'd love to hear from you. Reach out at <strong>hello@isitsafetovisit.com</strong>.</p>
+            <p>Have a correction, suggestion, or question? We&apos;d love to hear from you. Reach out at <strong>hello@isitsafetovisit.com</strong>.</p>
           </section>
         </div>
       </div>

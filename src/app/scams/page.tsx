@@ -51,7 +51,7 @@ export default function ScamsPage() {
       <section className="page-hero">
         <div className="container">
           <h1>Travel Scams Guide</h1>
-          <p className="page-hero-sub">We've documented {allScams.length}+ scams across {cities.length} cities. Knowing how they work is your best defense.</p>
+          <p className="page-hero-sub">We&apos;ve documented {allScams.length}+ scams across {cities.length} cities. Knowing how they work is your best defense.</p>
         </div>
       </section>
 
