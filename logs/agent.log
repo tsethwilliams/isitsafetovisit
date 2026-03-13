@@ -1028,3 +1028,27 @@
 2026-03-13 11:54:51,400 [INFO] Merged into site data: Cappadocia
 2026-03-13 11:54:51,435 [INFO] Merged 5 new cities into src/lib/city-data.json
 2026-03-13 11:54:51,436 [INFO] Updated sitemap with 5 new URLs
+2026-03-13 17:53:32,593 [INFO] Agent starting — mode: add
+2026-03-13 17:53:32,636 [INFO] Queue has 197 cities, adding 5
+2026-03-13 17:53:32,636 [INFO] Generating new city profile: Bodrum, Turkey
+2026-03-13 17:54:52,288 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 17:54:52,383 [INFO] Saved city data: bodrum-turkey
+2026-03-13 17:54:52,385 [INFO] Generating new city profile: Izmir, Turkey
+2026-03-13 17:56:45,466 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 17:56:45,603 [INFO] Saved city data: izmir-turkey
+2026-03-13 17:56:45,605 [INFO] Generating new city profile: Batumi, Georgia
+2026-03-13 17:58:04,890 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 17:58:05,026 [INFO] Saved city data: batumi-georgia
+2026-03-13 17:58:05,028 [INFO] Generating new city profile: Yerevan, Armenia
+2026-03-13 17:59:35,322 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 17:59:35,375 [INFO] Saved city data: yerevan-armenia
+2026-03-13 17:59:35,377 [INFO] Generating new city profile: Baku, Azerbaijan
+2026-03-13 18:00:55,744 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-13 18:00:55,782 [INFO] Saved city data: baku-azerbaijan
+2026-03-13 18:00:55,804 [INFO] Merged into site data: Bodrum
+2026-03-13 18:00:55,804 [INFO] Merged into site data: Izmir
+2026-03-13 18:00:55,804 [INFO] Merged into site data: Batumi
+2026-03-13 18:00:55,804 [INFO] Merged into site data: Yerevan
+2026-03-13 18:00:55,805 [INFO] Merged into site data: Baku
+2026-03-13 18:00:55,841 [INFO] Merged 5 new cities into src/lib/city-data.json
+2026-03-13 18:00:55,841 [INFO] Updated sitemap with 5 new URLs

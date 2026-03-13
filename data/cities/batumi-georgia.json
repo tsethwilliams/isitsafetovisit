@@ -1,0 +1,163 @@
+{
+  "slug": "batumi",
+  "name": "Batumi",
+  "country": "Georgia",
+  "countryCode": "GE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-13",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.0,
+    "naturalHazards": 7.8
+  },
+  "summary": "Batumi is Georgia's safest coastal destination, ranking 7th as the safest destination in Europe according to European Best Destinations. The city enjoys very low crime rates, excellent police presence, and strong safety infrastructure for tourists.",
+  "quickVerdict": "Batumi is exceptionally safe for tourists, with very low violent crime rates and a strong safety record that places it among Europe's top safe destinations. While petty crime exists and tourists should remain vigilant against bar scams and pickpocketing, the overall security environment is excellent. Solo travelers, including women, consistently report feeling secure both day and night.",
+  "neighborhoods": [
+    {
+      "name": "Old Town and Piazza",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic center with excellent police presence, well-lit streets, and heavy tourist foot traffic. Popular restaurants, cafes, and attractions make it very safe day and night."
+    },
+    {
+      "name": "Batumi Boulevard and Beach",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The famous seaside promenade is well-maintained, well-lit, and constantly patrolled. One of the safest areas for evening walks and late-night activities."
+    },
+    {
+      "name": "New Boulevard",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern beachfront area with hotels and resorts. Generally safe but more spread out, requiring slightly more caution when walking alone at night."
+    },
+    {
+      "name": "Central Station Area",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Transport hub area with good security but can be busier and more chaotic. Safe overall but exercise normal urban precautions."
+    },
+    {
+      "name": "Residential Areas",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Local neighborhoods are generally safe with low crime rates, though may have less tourist infrastructure and lighting."
+    },
+    {
+      "name": "Port and Industrial Areas",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Working port areas with limited tourist facilities. Avoid at night and stick to main roads during the day."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bar Dating Scam",
+      "risk": "high",
+      "description": "Strangers on dating apps or met in person invite tourists to specific bars where inflated bills of 5-10 times normal prices are demanded. Security guards may escort victims to ATMs.",
+      "howToAvoid": "Never follow strangers to bars they suggest. Always ask to see menu prices before ordering. Meet dates in public places you choose."
+    },
+    {
+      "name": "Fake Camera Drop",
+      "risk": "medium",
+      "description": "Locals ask tourists to take their photo, then intentionally drop the camera when receiving it back, blaming the tourist and demanding payment for damages.",
+      "howToAvoid": "Politely decline to take photos for strangers. If you must help, insist they keep hold of one end of the camera."
+    },
+    {
+      "name": "Overpriced Souvenirs",
+      "risk": "medium",
+      "description": "Vendors near tourist attractions charge significantly inflated prices for common items and souvenirs, especially targeting foreign visitors.",
+      "howToAvoid": "Compare prices at multiple shops. Ask locals about fair prices. Don't buy from the first vendor approached."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers quote inflated rates to tourists, especially at the airport and transport hubs. Some may claim meters are broken.",
+      "howToAvoid": "Use Bolt or Yandex ride apps when possible. Agree on fare before entering. Know approximate distances and fair rates."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Batumi is exceptionally safe for solo female travelers, with many women reporting feeling more secure than in major Western cities. The city has visible police patrols, extensive CCTV coverage, and a culture that respects women travelers. Georgian hospitality culture treats solo guests like family members.",
+    "tips": [
+      "Use reputable accommodations with good reviews from other solo female travelers",
+      "The seaside boulevard is safe for evening walks, but avoid isolated beach areas after dark",
+      "Dress modestly when visiting churches and religious sites",
+      "Use ride-sharing apps like Bolt rather than street taxis, especially at night",
+      "Keep emergency contacts and local police numbers readily available"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Batumi has excellent nighttime safety with well-lit main areas, regular police patrols, and active nightlife districts that remain busy until late. The Boulevard and central areas are particularly safe after dark, though standard urban precautions apply in quieter residential zones.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas like the Boulevard",
+      "Avoid excessive alcohol consumption, especially in unfamiliar bars",
+      "Use ride-sharing apps rather than walking long distances alone",
+      "Stay aware of your surroundings and trust your instincts",
+      "Keep valuables secure and avoid displaying expensive items"
+    ]
+  },
+  "transport": {
+    "metro": "Batumi does not have a metro system. The city relies on buses, minibuses, and taxis for public transport.",
+    "rideshare": "Bolt and Yandex are widely available and reliable in Batumi. Bolt generally offers newer vehicles and better GPS usage. Fares are very affordable, typically 8-15 GEL to most city destinations.",
+    "taxis": "Licensed taxis are white and clearly marked. Many don't use meters, so agree on fares beforehand. Fair rates are 0.50-0.60 GEL per km. Airport to city center should cost 10-15 GEL.",
+    "tips": "Public buses cost 0.30 GEL with a Batumi Card or 0.80 GEL with paper tickets. Marshrutkas (minibuses) cost 0.50 GEL within the city. Always validate bus tickets and keep transport cards topped up."
+  },
+  "customs": [
+    "Remove shoes when entering someone's home and dress modestly in religious sites",
+    "Participate respectfully in Georgian supra (feast) traditions with toasts and eye contact during cheers",
+    "Avoid discussing politics, especially regarding Russia, Abkhazia, or South Ossetia conflicts"
+  ],
+  "health": {
+    "overview": "Batumi has good healthcare facilities for a coastal city, with several hospitals and clinics. As of 2026, all tourists must have mandatory health and accident insurance with minimum 30,000 GEL coverage.",
+    "water": "Tap water in Batumi is generally safe to drink and meets international standards. Bottled water is widely available for those preferring it.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations recommended. Rabies risk is low but present - seek immediate medical attention if bitten by stray animals.",
+    "altitude": "Sea level location with subtropical climate. Hot, humid summers and mild winters. Pack sun protection and stay hydrated in summer heat."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "112",
+    "usEmbassy": "US Embassy Tbilisi: +995 32 227-7000 (covers Batumi region). Address: 29 Georgian-American Friendship Avenue, Tbilisi."
+  },
+  "faq": [
+    {
+      "q": "Is Batumi safe for tourists?",
+      "a": "Yes, Batumi is very safe for tourists and ranks as the 7th safest destination in Europe. Crime rates are low, police presence is strong, and tourist areas are well-monitored with CCTV."
+    },
+    {
+      "q": "Is Batumi safe at night?",
+      "a": "Batumi is generally safe at night, especially in central areas like the Boulevard and Old Town. These areas are well-lit with regular police patrols and active nightlife keeping streets busy."
+    },
+    {
+      "q": "Is Batumi safe for solo female travelers?",
+      "a": "Absolutely. Solo female travelers consistently report feeling very safe in Batumi, often safer than in major Western cities. Georgian culture is respectful toward women, and the city has excellent safety infrastructure."
+    },
+    {
+      "q": "What areas should I avoid in Batumi?",
+      "a": "Avoid port and industrial areas, especially at night. Be cautious in isolated beach areas after dark and stay aware in less touristy residential neighborhoods, though overall crime is low citywide."
+    },
+    {
+      "q": "Is it safe to use public transport in Batumi?",
+      "a": "Yes, public transport is safe and reliable. Buses and minibuses are well-maintained with security cameras. Ride-sharing apps like Bolt are excellent alternatives to traditional taxis."
+    }
+  ],
+  "relatedCities": [
+    "tbilisi",
+    "kutaisi",
+    "yerevan",
+    "istanbul",
+    "sochi"
+  ],
+  "_city_id": "batumi-georgia"
+}

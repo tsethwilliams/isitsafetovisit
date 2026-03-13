@@ -29539,6 +29539,811 @@
         "ankara",
         "antalya"
       ]
+    },
+    {
+      "slug": "bodrum",
+      "name": "Bodrum",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 8.0,
+        "scamRisk": 6.0,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 7.5,
+        "naturalHazards": 7.0
+      },
+      "summary": "Bodrum is one of Turkey's safest coastal destinations, consistently ranking among the country's most secure tourist areas. While southeastern Turkey faces regional tensions, Bodrum remains far from conflict zones and maintains excellent safety standards for visitors.",
+      "quickVerdict": "Bodrum is generally very safe for tourists, with low crime rates and excellent infrastructure. The seaside resort town benefits from strong tourism security measures and is considered one of Turkey's safest destinations. Standard precautions are sufficient for most travelers, though awareness of common tourist scams and basic safety practices will enhance your experience.",
+      "neighborhoods": [
+        {
+          "name": "Bodrum City Center",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic heart around Bodrum Castle with heavy tourist police presence, well-lit streets, and constant activity. Very safe day and night with numerous restaurants, shops, and attractions."
+        },
+        {
+          "name": "Gumbet",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Popular beach resort area with active nightlife and good security. Well-patrolled and tourist-friendly, though extra caution advised during peak party hours around bars and clubs."
+        },
+        {
+          "name": "Yalikavak",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale marina district with excellent security and infrastructure. Very safe area popular with wealthy tourists and expats, featuring luxury shops, restaurants, and well-maintained facilities."
+        },
+        {
+          "name": "Bitez",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Quiet beach town with family-friendly atmosphere and low crime rates. Generally very safe with relaxed vibe, though public transport connections can be limited in evening hours."
+        },
+        {
+          "name": "Turgutreis",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Larger peninsula town with good safety record and regular police presence. Safe for tourists but can get crowded during market days, requiring attention to belongings in busy areas."
+        },
+        {
+          "name": "Ortakent-Yahsi",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Beach resort area with decent safety standards and tourist facilities. Generally safe but more isolated than central areas, so evening activities should be planned with transportation in mind."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Restaurant Bills",
+          "risk": "medium",
+          "description": "Bars and restaurants in tourist areas may bring unrequested items to your table or inflate bills, especially for alcohol which is heavily taxed in Turkey.",
+          "howToAvoid": "Always check menus with prices before ordering, ask for itemized bills, and politely decline unrequested food or drinks brought to your table."
+        },
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "medium",
+          "description": "Some taxi drivers may claim broken meters, take longer routes, or switch currency when using card payments to overcharge tourists.",
+          "howToAvoid": "Insist the meter is used, have your destination written in Turkish, use ride-sharing apps when available, or book transfers through your hotel."
+        },
+        {
+          "name": "Currency Exchange Tricks",
+          "risk": "medium",
+          "description": "Shopkeepers may quote prices in Turkish Lira but charge your card in euros or dollars, or give incorrect change hoping you won't notice the difference between denominations.",
+          "howToAvoid": "Check that card terminals show TRY currency before payment, familiarize yourself with Turkish Lira denominations, and count your change carefully."
+        },
+        {
+          "name": "Fake Tour and Ticket Sales",
+          "risk": "low",
+          "description": "Street sellers may offer discounted tours, museum tickets, or transport passes that turn out to be invalid or overpriced compared to official sources.",
+          "howToAvoid": "Buy tickets only from official venues, licensed tour operators, or your hotel. Be wary of street sellers offering deals that seem too good to be true."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Bodrum is considered very safe for solo female travelers and welcomes millions of women traveling independently each year. The coastal resort atmosphere is cosmopolitan and tourist-friendly, with visible security measures and helpful locals. While Turkey is a predominantly Muslim country, Bodrum's tourist areas are quite liberal and women can dress comfortably in typical vacation attire.",
+        "tips": [
+          "Dress modestly when visiting mosques or more traditional areas away from the coast, but normal summer clothing is fine in tourist zones",
+          "Be cautious about drink spiking in party areas like Gumbet - never accept drinks from strangers and keep your drink with you",
+          "Use official taxis or hotel transfers rather than walking alone at night, especially between distant locations",
+          "Trust your instincts if someone seems overly friendly or persistent - polite but firm refusal usually works",
+          "Keep emergency numbers saved in your phone and inform someone of your daily plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Bodrum is generally safe at night, particularly in well-lit tourist areas like the city center, marina, and popular beach districts. The town has active nightlife with good security presence around bars and clubs. However, standard nighttime precautions are still recommended, especially for solo travelers and when moving between areas.",
+        "tips": [
+          "Stick to well-lit main streets and avoid empty side streets or isolated beach areas after dark",
+          "Use taxis or prearranged transport rather than walking long distances at night",
+          "Keep valuables secure and avoid displaying expensive items or large amounts of cash",
+          "Stay with groups when possible and let others know your plans when going out",
+          "Be extra cautious around bars and clubs - drink responsibly and watch your drinks"
+        ]
+      },
+      "transport": {
+        "metro": "Bodrum does not have a metro system. The main public transportation consists of dolmus minibuses that run frequent routes throughout the peninsula connecting all major towns and beaches.",
+        "rideshare": "International ride-sharing apps like Uber have limited availability in Bodrum. Local taxi apps and hotel-arranged transfers are more reliable options for convenient transportation.",
+        "taxis": "Yellow taxis are readily available throughout Bodrum and generally safe to use. Always ensure the meter is running and have your destination written in Turkish if possible. Taxi ranks are located at the bus station and major hotels.",
+        "tips": "Dolmus minibuses are the most economical way to get around the peninsula - they're safe, frequent, and connect all major destinations. For airport transfers, pre-book through your hotel or a licensed transfer company for the most reliable service."
+      },
+      "customs": [
+        "Remove your shoes when entering homes and cover shoulders and knees when visiting mosques",
+        "Accept offered tea or coffee if possible - hospitality is very important in Turkish culture and refusal can seem rude",
+        "Dress modestly away from beach areas - while Bodrum is liberal, showing respect for local customs is appreciated"
+      ],
+      "health": {
+        "overview": "Bodrum has excellent healthcare facilities for a resort town, including modern private hospitals with English-speaking staff and international accreditation. The Acıbadem Bodrum Hospital and Bodrum American Hospital provide high-quality medical care for both routine and emergency situations.",
+        "water": "Tap water is generally safe to drink in Bodrum, but bottled water is widely available and may be preferred by some visitors. Hotels and restaurants maintain good hygiene standards.",
+        "vaccinations": "No special vaccinations are required for Turkey. Routine vaccinations like MMR, DPT, flu, and hepatitis A and B are recommended as for any international travel.",
+        "altitude": "Bodrum is at sea level with a Mediterranean climate. Summers can be very hot (30-35°C) so sun protection and hydration are important. Air quality is generally good due to coastal location."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112 (unified emergency) or 155",
+        "ambulance": "112",
+        "fire": "110",
+        "touristPolice": "+90 212 527 4503 (Istanbul-based, for major issues)",
+        "usEmbassy": "U.S. Embassy Ankara: +90 312 294 0000 | U.S. Consulate Istanbul: +90 212 335 9000 | 24/7 Emergency: +1 202 501 4444"
+      },
+      "faq": [
+        {
+          "q": "Is Bodrum safe for tourists?",
+          "a": "Yes, Bodrum is one of Turkey's safest tourist destinations with low crime rates, good infrastructure, and strong security measures. It consistently ranks among the country's most secure coastal areas for visitors."
+        },
+        {
+          "q": "Is Bodrum safe at night?",
+          "a": "Bodrum is generally safe at night in tourist areas and the city center. However, use standard precautions like staying in well-lit areas, using taxis for longer distances, and avoiding isolated locations after dark."
+        },
+        {
+          "q": "Is Bodrum safe for solo female travelers?",
+          "a": "Yes, Bodrum welcomes many solo female travelers and is considered very safe. The resort atmosphere is cosmopolitan and tourist-friendly, though normal travel precautions about drinks, transportation, and situational awareness still apply."
+        },
+        {
+          "q": "What areas should I avoid in Bodrum?",
+          "a": "Bodrum is generally safe throughout, but exercise extra caution in isolated areas at night, be aware of overpriced bars targeting tourists, and avoid political demonstrations if they occur. The peninsula's tourist areas are all considered safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Bodrum?",
+          "a": "Yes, public transport in Bodrum is safe and reliable. The dolmus minibus system connects all areas of the peninsula and is used by locals and tourists alike. Taxis are also generally safe when you ensure the meter is used."
+        }
+      ],
+      "relatedCities": [
+        "antalya",
+        "istanbul",
+        "izmir"
+      ]
+    },
+    {
+      "slug": "izmir",
+      "name": "Izmir",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 7.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.5,
+        "transport": 7.8,
+        "naturalHazards": 6.9
+      },
+      "summary": "Izmir is considered one of Turkey's safest and most liberal cities, ranking third for safety nationwide. The coastal city maintains a generally safe environment for tourists with low violent crime rates, though visitors should remain alert for petty theft and common tourist scams.",
+      "quickVerdict": "Izmir presents a welcoming and relatively safe destination for travelers, consistently ranking among Turkey's most secure cities. While the US State Department maintains a Level 2 advisory for Turkey overall due to regional tensions, Izmir remains far from affected border areas. The city benefits from visible police presence, modern infrastructure, and a cosmopolitan atmosphere. Standard urban precautions apply, particularly regarding petty crime in crowded areas and tourist-targeted scams.",
+      "neighborhoods": [
+        {
+          "name": "Alsancak",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The vibrant nightlife and dining district with strong police presence and well-lit streets. Generally very safe during day and night with many other travelers around."
+        },
+        {
+          "name": "Konak",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic city center around the Clock Tower with good daytime safety. Well-patrolled tourist area though can get crowded during peak hours."
+        },
+        {
+          "name": "Kemeralti Bazaar",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Traditional market area that's safe during day but requires awareness of pickpockets in crowds. Avoid narrow alleys after dark."
+        },
+        {
+          "name": "Basmane",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Transport hub area near the train station with increased homeless population. Safe during day but exercise caution at night, especially around the station."
+        },
+        {
+          "name": "Buca",
+          "score": 7.8,
+          "class": "safe",
+          "description": "University district known as one of the safest areas for nightlife and socializing. Popular with students and young professionals."
+        },
+        {
+          "name": "Bostanli",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale waterfront district with modern amenities, good lighting, and regular security patrols. Very safe for evening walks along the coast."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Restaurant Bills",
+          "risk": "medium",
+          "description": "Restaurants adding items you didn't order to your bill or charging inflated prices without showing menus upfront.",
+          "howToAvoid": "Always ask to see a menu with prices before ordering, check your bill carefully, and question any unfamiliar charges."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Taxi drivers taking longer routes, claiming broken meters, or giving incorrect change to inflate fares.",
+          "howToAvoid": "Use rideshare apps like BiTaksi or Uber, ensure meter is running, have destination written in Turkish, and use GPS to track route."
+        },
+        {
+          "name": "Friendly Stranger Con",
+          "risk": "medium",
+          "description": "Overly friendly locals approaching tourists to guide them to overpriced bars, restaurants, or shops where they receive commissions.",
+          "howToAvoid": "Be polite but firm in declining unsolicited help, avoid following strangers to venues, and research restaurants independently."
+        },
+        {
+          "name": "Currency Exchange Tricks",
+          "risk": "medium",
+          "description": "Shopkeepers giving wrong change by confusing similar-looking Turkish Lira notes or claiming they have no change.",
+          "howToAvoid": "Familiarize yourself with Turkish currency denominations, count change carefully, and keep small bills when possible."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Izmir is considered one of Turkey's safest cities for solo female travelers, ranking 18th nationally with a 4/5 safety rating. The cosmopolitan, liberal atmosphere means women can dress more freely than in other Turkish cities. Daytime exploration is very comfortable, with locals generally respectful and helpful. The Mediterranean coast culture creates a more relaxed environment compared to conservative inland areas.",
+        "tips": [
+          "Dress modestly when visiting mosques but modern clothing is acceptable in most city areas",
+          "Avoid prolonged eye contact with men as this may be misinterpreted as romantic interest",
+          "Stay in well-lit areas at night and use official taxis or rideshare apps rather than walking alone",
+          "The Buca district is particularly recommended for solo female nightlife and socializing",
+          "Keep hotel contact information handy and inform someone of your daily plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Izmir is generally safe at night, especially in main tourist areas like Alsancak and Bostanli. The city maintains good lighting and police presence in central districts. However, some quieter streets become deserted after dark, and certain areas near transport hubs require extra caution. The nightlife scene is vibrant and relatively safe, with Alsancak being the epicenter of evening entertainment.",
+        "tips": [
+          "Stick to main streets and avoid narrow, dark alleys particularly in Kemeralti and Basmane areas",
+          "Use taxis or rideshare apps rather than walking long distances at night",
+          "Drink responsibly and never leave drinks unattended in bars or clubs",
+          "Travel in groups when possible and stay aware of your surroundings",
+          "Keep emergency numbers saved and have backup transportation options planned"
+        ]
+      },
+      "transport": {
+        "metro": "Izmir Metro is modern, safe, and efficient, connecting major areas including the airport via IZBAN trains. The system uses the Izmirim Kart for payment and operates with good security measures. Clean stations and regular services make it ideal for tourists.",
+        "rideshare": "Uber operates in Izmir but mainly connects to licensed taxis rather than private cars. BiTaksi is a popular local alternative. Apps provide upfront pricing and tracking, making them safer than street taxis. English support may be limited.",
+        "taxis": "Official yellow taxis are abundant and generally safe, but ensure the meter runs and have your destination written in Turkish. Some drivers may attempt overcharging tourists through route manipulation or change confusion. Licensed taxis are preferable to unlicensed vehicles.",
+        "tips": "Public transport is highly recommended with the metro and buses being safe and affordable. For late night travel, pre-booked taxis or rideshare apps are safer than street hailing. The IZBAN train provides excellent airport connections. Keep small change and use navigation apps to verify routes."
+      },
+      "customs": [
+        "Remove shoes when entering homes and mosques - this is mandatory and shows respect",
+        "Accept offered tea (çay) if possible as refusing can be considered impolite in Turkish hospitality culture",
+        "Use your right hand for eating, passing food, and greeting as the left hand is associated with cleaning",
+        "Dress modestly in religious sites - women should cover heads and shoulders, men should avoid shorts",
+        "Show respect for Turkish flag and Atatürk - criticism or disrespect can be legally problematic"
+      ],
+      "health": {
+        "overview": "Turkey has a well-developed healthcare system with both public and private options. Izmir offers good medical facilities including JCI-accredited hospitals. The city has improved significantly since health reforms in 2003, though some facilities may have staff shortages.",
+        "water": "Tap water is generally safe to drink in Izmir, but bottled water is recommended for sensitive stomachs. Most hotels and restaurants maintain good water quality standards.",
+        "vaccinations": "No special vaccinations required for Turkey beyond routine immunizations. Check CDC recommendations before travel and ensure routine vaccines are current.",
+        "altitude": "Izmir is at sea level with a Mediterranean climate. Air pollution can be moderate in industrial areas. Summer temperatures can be very hot, requiring sun protection and hydration precautions."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "+90 232 527 4503",
+        "usEmbassy": "US Consular Agency Izmir: izmir@state.gov. For major emergencies contact US Consulate Istanbul at +90 212 335 9000 or US Embassy Ankara at +90 312 294 0000."
+      },
+      "faq": [
+        {
+          "q": "Is Izmir safe for tourists?",
+          "a": "Yes, Izmir is considered one of Turkey's safest cities and ranks third nationally for safety. The city has low violent crime rates and good police presence, though standard urban precautions should be taken against petty crime."
+        },
+        {
+          "q": "Is Izmir safe at night?",
+          "a": "Izmir is generally safe at night, especially in main areas like Alsancak and Bostanli. However, avoid dark narrow alleys and deserted streets, stick to well-lit main roads, and use taxis or rideshare apps for transportation after dark."
+        },
+        {
+          "q": "Is Izmir safe for solo female travelers?",
+          "a": "Yes, Izmir is very welcoming to solo female travelers and ranks highly for women's safety in Turkey. The cosmopolitan atmosphere is more liberal than other Turkish cities, though modest dress in religious sites and avoiding prolonged eye contact with men is advised."
+        },
+        {
+          "q": "What areas should I avoid in Izmir?",
+          "a": "While Izmir is generally safe, exercise more caution in Basmane area near the train station at night due to homeless population, and avoid dark narrow alleys in the old Kemeralti bazaar area after sunset."
+        },
+        {
+          "q": "Is it safe to use public transport in Izmir?",
+          "a": "Yes, Izmir's public transport including metro, IZBAN trains, and buses are safe and modern. The system uses the Izmirim Kart and provides good security. Taxis are generally safe but use official yellow taxis or rideshare apps to avoid overcharging."
+        }
+      ],
+      "relatedCities": [
+        "istanbul",
+        "ankara",
+        "antalya"
+      ]
+    },
+    {
+      "slug": "batumi",
+      "name": "Batumi",
+      "country": "Georgia",
+      "countryCode": "GE",
+      "region": "Europe",
+      "regionSlug": "europe",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.0,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 8.0,
+        "nightSafety": 7.5,
+        "transport": 7.0,
+        "naturalHazards": 7.8
+      },
+      "summary": "Batumi is Georgia's safest coastal destination, ranking 7th as the safest destination in Europe according to European Best Destinations. The city enjoys very low crime rates, excellent police presence, and strong safety infrastructure for tourists.",
+      "quickVerdict": "Batumi is exceptionally safe for tourists, with very low violent crime rates and a strong safety record that places it among Europe's top safe destinations. While petty crime exists and tourists should remain vigilant against bar scams and pickpocketing, the overall security environment is excellent. Solo travelers, including women, consistently report feeling secure both day and night.",
+      "neighborhoods": [
+        {
+          "name": "Old Town and Piazza",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic center with excellent police presence, well-lit streets, and heavy tourist foot traffic. Popular restaurants, cafes, and attractions make it very safe day and night."
+        },
+        {
+          "name": "Batumi Boulevard and Beach",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The famous seaside promenade is well-maintained, well-lit, and constantly patrolled. One of the safest areas for evening walks and late-night activities."
+        },
+        {
+          "name": "New Boulevard",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern beachfront area with hotels and resorts. Generally safe but more spread out, requiring slightly more caution when walking alone at night."
+        },
+        {
+          "name": "Central Station Area",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Transport hub area with good security but can be busier and more chaotic. Safe overall but exercise normal urban precautions."
+        },
+        {
+          "name": "Residential Areas",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Local neighborhoods are generally safe with low crime rates, though may have less tourist infrastructure and lighting."
+        },
+        {
+          "name": "Port and Industrial Areas",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Working port areas with limited tourist facilities. Avoid at night and stick to main roads during the day."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Bar Dating Scam",
+          "risk": "high",
+          "description": "Strangers on dating apps or met in person invite tourists to specific bars where inflated bills of 5-10 times normal prices are demanded. Security guards may escort victims to ATMs.",
+          "howToAvoid": "Never follow strangers to bars they suggest. Always ask to see menu prices before ordering. Meet dates in public places you choose."
+        },
+        {
+          "name": "Fake Camera Drop",
+          "risk": "medium",
+          "description": "Locals ask tourists to take their photo, then intentionally drop the camera when receiving it back, blaming the tourist and demanding payment for damages.",
+          "howToAvoid": "Politely decline to take photos for strangers. If you must help, insist they keep hold of one end of the camera."
+        },
+        {
+          "name": "Overpriced Souvenirs",
+          "risk": "medium",
+          "description": "Vendors near tourist attractions charge significantly inflated prices for common items and souvenirs, especially targeting foreign visitors.",
+          "howToAvoid": "Compare prices at multiple shops. Ask locals about fair prices. Don't buy from the first vendor approached."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unlicensed taxi drivers quote inflated rates to tourists, especially at the airport and transport hubs. Some may claim meters are broken.",
+          "howToAvoid": "Use Bolt or Yandex ride apps when possible. Agree on fare before entering. Know approximate distances and fair rates."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Batumi is exceptionally safe for solo female travelers, with many women reporting feeling more secure than in major Western cities. The city has visible police patrols, extensive CCTV coverage, and a culture that respects women travelers. Georgian hospitality culture treats solo guests like family members.",
+        "tips": [
+          "Use reputable accommodations with good reviews from other solo female travelers",
+          "The seaside boulevard is safe for evening walks, but avoid isolated beach areas after dark",
+          "Dress modestly when visiting churches and religious sites",
+          "Use ride-sharing apps like Bolt rather than street taxis, especially at night",
+          "Keep emergency contacts and local police numbers readily available"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Batumi has excellent nighttime safety with well-lit main areas, regular police patrols, and active nightlife districts that remain busy until late. The Boulevard and central areas are particularly safe after dark, though standard urban precautions apply in quieter residential zones.",
+        "tips": [
+          "Stick to well-lit main streets and tourist areas like the Boulevard",
+          "Avoid excessive alcohol consumption, especially in unfamiliar bars",
+          "Use ride-sharing apps rather than walking long distances alone",
+          "Stay aware of your surroundings and trust your instincts",
+          "Keep valuables secure and avoid displaying expensive items"
+        ]
+      },
+      "transport": {
+        "metro": "Batumi does not have a metro system. The city relies on buses, minibuses, and taxis for public transport.",
+        "rideshare": "Bolt and Yandex are widely available and reliable in Batumi. Bolt generally offers newer vehicles and better GPS usage. Fares are very affordable, typically 8-15 GEL to most city destinations.",
+        "taxis": "Licensed taxis are white and clearly marked. Many don't use meters, so agree on fares beforehand. Fair rates are 0.50-0.60 GEL per km. Airport to city center should cost 10-15 GEL.",
+        "tips": "Public buses cost 0.30 GEL with a Batumi Card or 0.80 GEL with paper tickets. Marshrutkas (minibuses) cost 0.50 GEL within the city. Always validate bus tickets and keep transport cards topped up."
+      },
+      "customs": [
+        "Remove shoes when entering someone's home and dress modestly in religious sites",
+        "Participate respectfully in Georgian supra (feast) traditions with toasts and eye contact during cheers",
+        "Avoid discussing politics, especially regarding Russia, Abkhazia, or South Ossetia conflicts"
+      ],
+      "health": {
+        "overview": "Batumi has good healthcare facilities for a coastal city, with several hospitals and clinics. As of 2026, all tourists must have mandatory health and accident insurance with minimum 30,000 GEL coverage.",
+        "water": "Tap water in Batumi is generally safe to drink and meets international standards. Bottled water is widely available for those preferring it.",
+        "vaccinations": "No special vaccinations required. Standard travel vaccinations recommended. Rabies risk is low but present - seek immediate medical attention if bitten by stray animals.",
+        "altitude": "Sea level location with subtropical climate. Hot, humid summers and mild winters. Pack sun protection and stay hydrated in summer heat."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "112",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "112",
+        "usEmbassy": "US Embassy Tbilisi: +995 32 227-7000 (covers Batumi region). Address: 29 Georgian-American Friendship Avenue, Tbilisi."
+      },
+      "faq": [
+        {
+          "q": "Is Batumi safe for tourists?",
+          "a": "Yes, Batumi is very safe for tourists and ranks as the 7th safest destination in Europe. Crime rates are low, police presence is strong, and tourist areas are well-monitored with CCTV."
+        },
+        {
+          "q": "Is Batumi safe at night?",
+          "a": "Batumi is generally safe at night, especially in central areas like the Boulevard and Old Town. These areas are well-lit with regular police patrols and active nightlife keeping streets busy."
+        },
+        {
+          "q": "Is Batumi safe for solo female travelers?",
+          "a": "Absolutely. Solo female travelers consistently report feeling very safe in Batumi, often safer than in major Western cities. Georgian culture is respectful toward women, and the city has excellent safety infrastructure."
+        },
+        {
+          "q": "What areas should I avoid in Batumi?",
+          "a": "Avoid port and industrial areas, especially at night. Be cautious in isolated beach areas after dark and stay aware in less touristy residential neighborhoods, though overall crime is low citywide."
+        },
+        {
+          "q": "Is it safe to use public transport in Batumi?",
+          "a": "Yes, public transport is safe and reliable. Buses and minibuses are well-maintained with security cameras. Ride-sharing apps like Bolt are excellent alternatives to traditional taxis."
+        }
+      ],
+      "relatedCities": [
+        "tbilisi",
+        "kutaisi",
+        "yerevan",
+        "istanbul",
+        "sochi"
+      ]
+    },
+    {
+      "slug": "yerevan",
+      "name": "Yerevan",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 7.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.8,
+        "violentCrime": 8.5,
+        "scamRisk": 7.2,
+        "womensSafety": 8.3,
+        "nightSafety": 8.0,
+        "transport": 7.5,
+        "naturalHazards": 6.7
+      },
+      "summary": "Yerevan is widely regarded as one of the safest capitals in the region, with low crime rates, minimal violent crime, and a strong sense of community security. The city offers excellent safety for tourists, with locals often strolling the streets late at night. The main concerns are minor scams and the regional earthquake risk.",
+      "quickVerdict": "Yerevan ranks among the safest cities globally for tourists, with very low crime rates and a welcoming atmosphere. The US State Department currently issues a Level 2 advisory for Armenia due to border tensions with Azerbaijan, but this doesn't affect Yerevan's day-to-day safety. Visitors consistently report feeling secure walking around even late at night, with violent crime being extremely rare. The biggest risks are minor scams targeting tourists and the city's location in a seismically active zone. Overall, Yerevan provides an exceptionally safe environment for travelers of all types.",
+      "neighborhoods": [
+        {
+          "name": "Republic Square & Northern Avenue",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of Yerevan with excellent police presence, well-lit streets, and constant activity. Home to government buildings, upscale hotels, and the famous dancing fountains. Very safe for tourists at all hours with minimal crime."
+        },
+        {
+          "name": "Cascade Complex Area",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Cultural district surrounding the giant stairway monument. Well-maintained, well-lit, and popular with both locals and tourists. Numerous cafes, galleries, and restaurants create a vibrant, secure atmosphere throughout the day and evening."
+        },
+        {
+          "name": "Kentron (City Center)",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The central downtown district with excellent walkability and safety. Strong cafe culture, pedestrian-friendly boulevards, and active nightlife. Police patrol regularly and the area remains busy until late hours."
+        },
+        {
+          "name": "Opera & Swan Lake District",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Cultural area around the National Opera House with upscale restaurants and lakeside cafes. Generally safe with good lighting and regular foot traffic, though slightly quieter than the main center after midnight."
+        },
+        {
+          "name": "Saryan Street (Wine Street)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Popular nightlife area lined with wine bars and restaurants. Generally safe but can get crowded during peak hours. Some reports of pickpocketing during busy weekend nights, but overall security remains good."
+        },
+        {
+          "name": "Malatia-Sebastia",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Residential district further from the center with fewer tourist amenities and higher crime rates. Limited police presence and poor lighting in some areas. Best avoided at night, especially for solo travelers."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Drivers quote inflated prices or refuse to use meters, especially at the airport and tourist areas. Some use fake bills scam claiming you didn't pay enough.",
+          "howToAvoid": "Use rideshare apps like GG or Yandex Taxi, agree on price beforehand, or insist on meter use. Official taxis have yellow license plates."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "medium",
+          "description": "Extra items added to bills or higher prices charged, especially in tourist areas and nightclubs. Some venues charge hidden entrance fees or service charges.",
+          "howToAvoid": "Always check menus for prices, review bills carefully before paying, and question any unexpected charges. Avoid opening tabs in clubs."
+        },
+        {
+          "name": "Fake Police Officers",
+          "risk": "medium",
+          "description": "Scammers impersonate police demanding spot fines or document checks, particularly targeting tourists who appear confused or lost.",
+          "howToAvoid": "Real police never demand on-the-spot payments. Ask to see proper ID and insist on going to the nearest police station if in doubt."
+        },
+        {
+          "name": "Currency Exchange Fraud",
+          "risk": "low",
+          "description": "Street money changers offer poor rates or provide counterfeit bills. Some tourist-focused shops deliberately give incorrect change.",
+          "howToAvoid": "Only use official banks or licensed exchange offices. Count money carefully before leaving the counter and avoid street exchanges completely."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Yerevan is exceptionally safe for solo female travelers, ranking among the world's safest capitals. Women regularly walk alone late at night without incident, and harassment is relatively uncommon compared to many destinations. The city has a strong cultural respect for women and protective community atmosphere.",
+        "tips": [
+          "Stay in central areas like Kentron or Cascade after dark for better lighting and activity",
+          "While generally safe, avoid Malatia-Sebastia district at night",
+          "Learn basic Armenian phrases - locals appreciate the effort and are very helpful"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Yerevan's night safety is excellent, with locals and tourists regularly enjoying the city until well past midnight. The downtown areas remain well-lit and active with numerous cafes, bars, and restaurants staying open late. Police presence is visible, and violent crime at night is extremely rare.",
+        "tips": [
+          "Stick to main areas like Republic Square, Northern Avenue, and Saryan Street for best lighting and activity",
+          "Use rideshare apps rather than hailing random taxis late at night",
+          "The dancing fountains at Republic Square create a safe, family-friendly evening atmosphere"
+        ]
+      },
+      "transport": {
+        "metro": "The Yerevan Metro is safe, modern, and efficient with one north-south line serving major districts. Costs only 150 AMD (0.40 USD) per ride and operates 7am-midnight. Each station features unique national motifs and historical decoration.",
+        "rideshare": "Apps like GG Taxi and Yandex Taxi are widely used and very affordable - you can cross the city for under $2 outside rush hour. These are much safer and more reliable than street taxis.",
+        "taxis": "Official taxis have yellow license plates, but many drivers don't use meters. Street taxis can overcharge tourists significantly. Airport taxis are particularly prone to scams. Negotiate prices beforehand or stick to apps.",
+        "tips": "Public transport is generally safe but watch belongings during rush hour. For longer distances, rideshare apps offer the best combination of safety, convenience, and fair pricing."
+      },
+      "customs": [
+        "Remove shoes when entering Armenian homes and expect to be offered abundant food and drinks - refusing is considered rude",
+        "Greetings often include kisses on both cheeks between friends and family, with physical affection being common in social interactions",
+        "Address people with 'jan' after their name to show respect and affection (e.g., 'Anna jan') - this is appreciated by locals"
+      ],
+      "health": {
+        "overview": "Healthcare in Yerevan is generally adequate for minor issues, with public facilities sufficient for straightforward ailments. Private hospitals offer higher standards but can be expensive. Many medications available over-the-counter elsewhere may require prescriptions.",
+        "water": "Tap water in Yerevan is generally safe to drink and meets international standards. However, some travelers prefer bottled water initially to avoid stomach adjustments. Restaurant water and ice are typically fine.",
+        "vaccinations": "No special vaccinations required for Armenia beyond routine immunizations. Some travelers may consider hepatitis A/B if planning extended rural stays. COVID-19 vaccination rates have been low, so consider current requirements.",
+        "altitude": "Yerevan sits at 3,300 feet elevation, which rarely causes issues. However, trips to Mount Aragats (4,090m) or other high-altitude areas may require altitude sickness precautions."
+      },
+      "emergency": {
+        "general": "911, 108, or 112",
+        "police": "102",
+        "ambulance": "103",
+        "fire": "101",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Yerevan: 1 American Avenue, Yerevan 0082. Phone: +374 10 49-42-00. Emergency after hours: +374 10 49-42-00."
+      },
+      "faq": [
+        {
+          "q": "Is Yerevan safe for tourists?",
+          "a": "Yes, Yerevan is extremely safe for tourists and consistently ranks among the world's safest capitals. Crime rates are very low, locals are welcoming, and violent crime against tourists is virtually nonexistent."
+        },
+        {
+          "q": "Is Yerevan safe at night?",
+          "a": "Yerevan is very safe at night, with locals regularly walking the streets past midnight. The city center stays well-lit and active, though it's best to stick to main areas like Republic Square and Saryan Street for optimal safety."
+        },
+        {
+          "q": "Is Yerevan safe for solo female travelers?",
+          "a": "Absolutely. Yerevan is one of the safest cities globally for solo female travelers, with minimal harassment and strong cultural respect for women. Many women report feeling completely comfortable walking alone even late at night."
+        },
+        {
+          "q": "What areas should I avoid in Yerevan?",
+          "a": "Malatia-Sebastia district should be avoided at night due to higher crime rates and poor lighting. Otherwise, Yerevan is remarkably safe throughout most areas, especially the tourist-friendly central districts."
+        },
+        {
+          "q": "Is it safe to use public transport in Yerevan?",
+          "a": "Yes, public transport including the metro and buses is safe to use. The main precaution is watching your belongings during crowded rush hours. Rideshare apps like GG Taxi offer the safest taxi option."
+        }
+      ],
+      "relatedCities": [
+        "tbilisi",
+        "baku",
+        "tehran"
+      ]
+    },
+    {
+      "slug": "baku",
+      "name": "Baku",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "region": "Middle East",
+      "regionSlug": "middle-east",
+      "lastUpdated": "2026-03-13",
+      "overallScore": 6.2,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 6.2,
+        "scamRisk": 5.0,
+        "womensSafety": 6.8,
+        "nightSafety": 5.8,
+        "transport": 6.2,
+        "naturalHazards": 7.1
+      },
+      "summary": "Baku is generally considered safe for tourists with low petty crime rates, though the US State Department maintains a Level 3 travel advisory due to regional tensions and terrorism risks. The capital has good security infrastructure but current Iran-US tensions add complexity to the safety environment.",
+      "quickVerdict": "While Baku itself is relatively secure with clean public transport and well-maintained tourist areas, visitors should be aware of broader regional tensions affecting Azerbaijan. The city has strong security measures and is developing its tourism infrastructure, but travelers should stay informed about current events and avoid border areas with Armenia. Standard urban precautions apply, with particular attention to taxi and nightlife scams.",
+      "neighborhoods": [
+        {
+          "name": "Icherisheher (Old City)",
+          "score": 7.8,
+          "class": "safe",
+          "description": "UNESCO World Heritage site with excellent security presence and frequent police patrols. Well-maintained tourist area with good lighting and CCTV coverage."
+        },
+        {
+          "name": "Nizami Street & City Center",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Main commercial district with heavy foot traffic and police presence during the day. Well-lit and generally secure, though watch for pickpockets in crowded areas."
+        },
+        {
+          "name": "Baku Boulevard (Seaside)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Popular waterfront promenade with good lighting and regular patrols. Safe during day and evening hours, with many restaurants and attractions nearby."
+        },
+        {
+          "name": "Fountain Square",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Central entertainment area that's busy during day but can attract intoxicated individuals at night. Exercise caution after dark, especially on weekends."
+        },
+        {
+          "name": "Suburban Areas",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Less developed areas outside the city center with limited police presence and poor lighting. Some reports of opportunistic crime in these areas."
+        },
+        {
+          "name": "Industrial Districts",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Oil industry areas and outskirts with minimal security presence. Poor infrastructure and higher crime rates - avoid unless necessary for business."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Drivers, especially at the airport, demand extra fees claiming government charges or night rates that don't exist.",
+          "howToAvoid": "Use ride-sharing apps like Bolt, agree on fare before starting, and refuse to pay additional charges not shown in the app."
+        },
+        {
+          "name": "Bar Tab Scam",
+          "risk": "high",
+          "description": "Attractive woman approaches tourist, orders expensive drinks, then leaves them with huge bill enforced by threatening men.",
+          "howToAvoid": "Never accept drink invitations from strangers, always check prices beforehand, and leave immediately if you feel pressured."
+        },
+        {
+          "name": "Currency Exchange Fraud",
+          "risk": "medium",
+          "description": "Unofficial exchange booths give wrong rates or counterfeit bills, especially targeting tourists unfamiliar with local currency.",
+          "howToAvoid": "Only use official bank exchanges or ATMs, avoid street exchangers, and familiarize yourself with genuine Azerbaijani manat notes."
+        },
+        {
+          "name": "Fake Police Extortion",
+          "risk": "medium",
+          "description": "Criminals dressed as police officers target foreigners, demanding fines for photography or alleged traffic violations.",
+          "howToAvoid": "Ask for proper identification, request to go to a police station if questioned, and never pay on-the-spot fines to anyone."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Baku is generally considered safe for solo female travelers, with Azerbaijan being more liberal than many regional neighbors. Most women report feeling secure in the city center and tourist areas, though cultural conservatism increases outside Baku. The strong security presence and low crime rates contribute to a relatively safe environment, but standard precautions are advised, especially at night.",
+        "tips": [
+          "Dress modestly, especially when visiting religious sites or traveling outside the city center",
+          "Use official ride-sharing apps rather than street taxis, particularly when traveling alone at night",
+          "Stay in well-lit, populated areas after dark and avoid walking alone in suburban areas",
+          "Be aware that some men may stare or approach foreign women - this is generally cultural curiosity rather than threat",
+          "Keep emergency contacts readily available and inform someone of your daily plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Baku's nightlife scene is generally safe in the main tourist areas, with good lighting and police presence in the city center. However, safety decreases significantly after midnight, particularly in entertainment districts where alcohol-related incidents are more common. The Fountain Square and Nizami Street areas remain relatively busy but require increased caution due to intoxicated individuals and opportunistic crime.",
+        "tips": [
+          "Stick to well-lit main streets and avoid empty side streets or suburban areas after dark",
+          "Use ride-sharing apps for transportation rather than walking or taking unmarked taxis",
+          "Be particularly cautious around bars and clubs, where drink-spiking and bar scams have been reported",
+          "Travel in groups when possible and keep valuables secure and out of sight",
+          "Avoid confrontations and leave immediately if you feel uncomfortable in any situation"
+        ]
+      },
+      "transport": {
+        "metro": "Baku Metro is clean, modern, and safe with good security presence. Runs from 06:00 to 00:00 with trains every 2-3 minutes. Requires BakiKART for payment. Generally very reliable for getting around the city center.",
+        "rideshare": "Bolt and Yango are widely available and generally safe, though airport pickup scams are common. Always pay through the app rather than cash to avoid overcharging. Confirm driver details match the app before getting in.",
+        "taxis": "Traditional taxis often lack meters and may overcharge tourists. Many drivers don't speak English. Licensed companies like 189 TAXI are more reliable than street taxis, but ride-sharing apps are generally preferred.",
+        "tips": "Public transport is modern and efficient within the city center. Avoid unofficial taxis and always negotiate prices in advance if not using apps. The BakiKART system works for both metro and buses."
+      },
+      "customs": [
+        "Azerbaijanis are known for their hospitality and may invite you for tea or meals - this is genuine cultural tradition",
+        "Remove shoes when entering homes and some traditional establishments",
+        "Dress modestly when visiting mosques or religious sites, covering arms and legs",
+        "Avoid public displays of affection, as this may be considered inappropriate",
+        "Respect for elders is highly valued - stand when an elderly person enters the room",
+        "Friday prayers are important to many locals - avoid scheduling meetings during this time"
+      ],
+      "health": {
+        "overview": "Healthcare quality varies significantly between public and private facilities, with private hospitals in Baku offering Western-standard care. Public healthcare is free for residents but often underfunded with limited English-speaking staff. International health insurance is strongly recommended.",
+        "water": "Tap water quality in Baku is poor and not recommended for drinking. Stick to bottled water or properly filtered water. Ice in drinks may also be problematic.",
+        "vaccinations": "Standard travel vaccinations recommended including Hepatitis A/B, typhoid, and routine immunizations. Malaria prophylaxis may be needed if traveling to southern lowland areas between June-October.",
+        "altitude": "Baku is at sea level. Climate is dry and temperate with hot summers and mild winters. Air pollution can be an issue due to oil industry activities."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "102",
+        "ambulance": "103",
+        "fire": "101",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Baku: +994 12 488 3300, located at 111 Azadliq Prospecti. Emergency services for US citizens available 24/7. Outside Azerbaijan: 1-888-407-4747"
+      },
+      "faq": [
+        {
+          "q": "Is Baku safe for tourists?",
+          "a": "Baku is generally safe for tourists with low crime rates and good security in tourist areas. However, regional tensions mean visitors should stay informed about current events and avoid border areas."
+        },
+        {
+          "q": "Is Baku safe at night?",
+          "a": "The city center and tourist areas are relatively safe at night with good lighting and police presence, but caution is advised after midnight, especially around entertainment districts."
+        },
+        {
+          "q": "Is Baku safe for solo female travelers?",
+          "a": "Yes, Baku is considered safe for solo female travelers. The city is more liberal than regional neighbors, though modest dress and standard precautions are recommended, especially outside tourist areas."
+        },
+        {
+          "q": "What areas should I avoid in Baku?",
+          "a": "Avoid industrial districts, suburban areas with poor lighting, and the border regions with Armenia. Also exercise caution in entertainment areas late at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Baku?",
+          "a": "Yes, Baku's metro and bus system are modern, clean, and safe. Use official ride-sharing apps for taxis rather than unmarked street taxis to avoid scams."
+        }
+      ],
+      "relatedCities": [
+        "tehran",
+        "tbilisi",
+        "yerevan",
+        "istanbul",
+        "astana"
+      ]
     }
   ]
 }
