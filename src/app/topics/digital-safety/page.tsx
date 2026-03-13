@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
@@ -11,8 +10,7 @@ export const metadata: Metadata = {
 export default function DigitalSafetyPage() {
   return (
     <>
-      <Nav />
-      <div className="container">
+            <div className="container">
         <div className="breadcrumb">
           <Link href="/">Home</Link> <span className="sep">{'\u203A'}</span>
           Topics <span className="sep">{'\u203A'}</span>

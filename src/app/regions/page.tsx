@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import { getAllCities, type City } from '@/lib/cities';
 
@@ -50,8 +49,7 @@ export default function RegionsPage() {
 
   return (
     <>
-      <Nav />
-      <div className="container">
+            <div className="container">
         <div className="breadcrumb">
           <Link href="/">Home</Link> <span className="sep">{'\u203A'}</span> Regions
         </div>

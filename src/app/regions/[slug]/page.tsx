@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import SafetyBadge from '@/components/SafetyBadge';
 import { getAllCities, getScoreColor, type City } from '@/lib/cities';
@@ -65,8 +64,7 @@ export default function RegionPage({ params }: { params: { slug: string } }) {
 
   return (
     <>
-      <Nav />
-      <div className="container">
+            <div className="container">
         <div className="breadcrumb">
           <Link href="/">Home</Link> <span className="sep">{'\u203A'}</span>
           <Link href="/regions">Regions</Link> <span className="sep">{'\u203A'}</span>

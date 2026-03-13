@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
 import { getAllCities } from '@/lib/cities';
 
@@ -16,8 +15,7 @@ export default function AboutPage() {
 
   return (
     <>
-      <Nav />
-      <div className="container">
+            <div className="container">
         <div className="breadcrumb">
           <Link href="/">Home</Link> <span className="sep">{'\u203A'}</span> About
         </div>
