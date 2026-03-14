@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Footer from '@/components/Footer';
 import SafetyBadge from '@/components/SafetyBadge';
 import HomeSearch from '@/components/HomeSearch';
+import NewsletterSignup from '@/components/NewsletterSignup';
 import { getAllCities, type City } from '@/lib/cities';
 
 const REGION_META: Record<string, { emoji: string; order: number }> = {
@@ -30,16 +31,31 @@ const topics = [
   { slug: 'digital-safety', icon: '\uD83D\uDCF1', name: 'Digital Safety', desc: 'WiFi security, phone theft prevention, and VPNs.' },
 ];
 
+// Curated list of featured cities — mix of safe, moderate, and diverse regions
+const FEATURED_SLUGS = ['vienna', 'tokyo', 'bangkok', 'medellin', 'cape-town', 'dubrovnik'];
+
+function getCityImage(cityName: string, country: string): string {
+  const query = encodeURIComponent(`${cityName} ${country} city skyline`);
+  return `https://source.unsplash.com/800x400/?${query}`;
+}
+
 function CityCard({ city }: { city: City }) {
   return (
     <Link href={`/cities/${city.slug}`} className="city-card">
+      <div className="city-card-image" style={{
+        backgroundImage: `url(${getCityImage(city.name, city.country)})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        height: '160px',
+        borderRadius: '12px 12px 0 0',
+      }} />
       <div className="city-card-body">
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 8 }}>
           <div className="city-card-region">{city.country} &middot; {city.region}</div>
           <SafetyBadge label={city.badgeLabel} badgeClass={city.badgeClass} />
         </div>
         <h3 className="city-card-name">{city.name}</h3>
-        <p className="city-card-excerpt">{city.summary.slice(0, 150)}...</p>
+        <p className="city-card-excerpt">{city.summary.slice(0, 120)}...</p>
       </div>
     </Link>
   );
@@ -66,7 +82,11 @@ function getRegions(cities: City[]) {
 
 export default function HomePage() {
   const cities = getAllCities();
-  const featured = cities.slice(0, 6);
+
+  // Get curated featured cities, fall back to first 6 if slugs not found
+  let featured = FEATURED_SLUGS.map(slug => cities.find(c => c.slug === slug)).filter((c): c is City => c !== undefined);
+  if (featured.length < 4) featured = cities.slice(0, 6);
+
   const recent = [...cities].sort((a, b) => b.lastUpdated.localeCompare(a.lastUpdated)).slice(0, 5);
   const regions = getRegions(cities);
 
@@ -89,7 +109,7 @@ export default function HomePage() {
           <HomeSearch cities={searchCities} />
           <div className="search-hints">
             Popular:{' '}
-            {['medellin', 'bangkok', 'istanbul', 'cape-town', 'mexico-city'].map((slug, i) => {
+            {['tokyo', 'bangkok', 'istanbul', 'cape-town', 'vienna'].map((slug, i) => {
               const c = cities.find(x => x.slug === slug);
               return c ? <span key={slug}>{i > 0 && ' \u00B7 '}<Link href={`/cities/${slug}`}>{c.name}</Link></span> : null;
             })}
@@ -159,7 +179,11 @@ export default function HomePage() {
       </section>
 
       <section className="cta-section">
-        <div className="container"><h2>Stay safe out there</h2><p>Daily safety updates, new city guides, and scam alerts. Free, no spam.</p></div>
+        <div className="container">
+          <h2>Stay informed. Travel safer.</h2>
+          <p>Get weekly safety updates, new city guides, and scam alerts delivered to your inbox.</p>
+          <NewsletterSignup />
+        </div>
       </section>
 
       <Footer />
