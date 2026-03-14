@@ -1206,3 +1206,7 @@
 2026-03-14 11:11:00,810 [INFO] Merged into site data: Bali
 2026-03-14 11:11:00,847 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-14 11:11:00,866 [INFO] Rebuilt sitemap with 270 URLs (182 cities, 82 countries, 6 static)
+2026-03-14 13:56:38,134 [INFO] Agent starting — mode: alert
+2026-03-14 13:56:38,198 [INFO] Checking alerts for 185 cities
+2026-03-14 13:57:20,111 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 13:57:20,168 [INFO] No safety alerts detected
