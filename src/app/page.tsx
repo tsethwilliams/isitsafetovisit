@@ -39,7 +39,7 @@ const CITY_IMAGES: Record<string, string> = {
   'vienna': 'https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&h=400&q=80',
   'tokyo': 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&h=400&q=80',
   'bangkok': 'https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=800&h=400&q=80',
-  'medellin': 'https://images.unsplash.com/photo-1599493758267-c6c884862ed4?auto=format&fit=crop&w=800&h=400&q=80',
+  'medellin': 'https://images.unsplash.com/photo-1568385247005-0d3c8e6c10de?auto=format&fit=crop&w=800&h=400&q=80',
   'cape-town': 'https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=800&h=400&q=80',
   'dubrovnik': 'https://images.unsplash.com/photo-1555990793-da11153b2473?auto=format&fit=crop&w=800&h=400&q=80',
 };
