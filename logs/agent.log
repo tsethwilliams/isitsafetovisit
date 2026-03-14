@@ -1262,3 +1262,47 @@
 2026-03-14 19:16:48,714 [INFO] Checking alerts for 189 cities
 2026-03-14 19:17:23,939 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-14 19:17:23,992 [INFO] No safety alerts detected
+2026-03-14 22:57:49,137 [INFO] Agent starting — mode: add
+2026-03-14 22:57:49,177 [INFO] Queue has 375 cities, adding 8
+2026-03-14 22:57:49,177 [INFO] Generating new city profile: Bucharest, Romania
+2026-03-14 22:59:16,576 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 22:59:16,856 [INFO] Found Wikipedia image for Bucharest
+2026-03-14 22:59:16,856 [INFO] Saved city data: bucharest-romania
+2026-03-14 22:59:16,859 [INFO] Generating new city profile: Fukuoka, Japan
+2026-03-14 23:00:47,867 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:00:48,042 [INFO] Found Wikipedia image for Fukuoka
+2026-03-14 23:00:48,042 [INFO] Saved city data: fukuoka-japan
+2026-03-14 23:00:48,044 [INFO] Generating new city profile: Sapporo, Japan
+2026-03-14 23:02:18,382 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:02:18,592 [INFO] Found Wikipedia image for Sapporo
+2026-03-14 23:02:18,593 [INFO] Saved city data: sapporo-japan
+2026-03-14 23:02:18,595 [INFO] Generating new city profile: Okinawa, Japan
+2026-03-14 23:03:29,127 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:03:29,343 [INFO] Found Wikipedia image for Okinawa
+2026-03-14 23:03:29,344 [INFO] Saved city data: okinawa-japan
+2026-03-14 23:03:29,346 [INFO] Generating new city profile: Seoul, South Korea
+2026-03-14 23:04:55,110 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:04:55,394 [INFO] Found Wikipedia image for Seoul
+2026-03-14 23:04:55,395 [INFO] Saved city data: seoul-south-korea
+2026-03-14 23:04:55,397 [INFO] Generating new city profile: Busan, South Korea
+2026-03-14 23:06:25,403 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:06:25,670 [INFO] Found Wikipedia image for Busan
+2026-03-14 23:06:25,671 [INFO] Saved city data: busan-south-korea
+2026-03-14 23:06:25,673 [INFO] Generating new city profile: Jeju Island, South Korea
+2026-03-14 23:07:50,697 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:07:51,027 [INFO] Found Wikipedia image for Jeju Island
+2026-03-14 23:07:51,028 [INFO] Saved city data: jeju-island-south-korea
+2026-03-14 23:07:51,030 [INFO] Generating new city profile: Hong Kong, China
+2026-03-14 23:09:07,295 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 23:09:07,477 [INFO] Found Wikipedia image for Hong Kong
+2026-03-14 23:09:07,478 [INFO] Saved city data: hong-kong-china
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Bucharest
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Fukuoka
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Sapporo
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Okinawa
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Seoul
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Busan
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Jeju Island
+2026-03-14 23:09:07,504 [INFO] Merged into site data: Hong Kong
+2026-03-14 23:09:07,546 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-14 23:09:07,567 [INFO] Rebuilt sitemap with 293 URLs (198 cities, 89 countries, 6 static)

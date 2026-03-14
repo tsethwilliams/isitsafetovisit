@@ -1,0 +1,166 @@
+{
+  "slug": "hong-kong",
+  "name": "Hong Kong",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.8,
+    "transport": 8.5,
+    "naturalHazards": 6.9
+  },
+  "summary": "Hong Kong remains one of Asia's safest cities with exceptionally low violent crime rates and world-class public transport. The main risks come from typhoons during summer months and increasingly sophisticated fraud schemes targeting tourists and locals alike.",
+  "quickVerdict": "Hong Kong is generally very safe for tourists, with violent crime being extremely rare and street crime at low levels. The city's efficient police force, modern infrastructure, and excellent emergency services provide strong safety nets. While the overall crime rate dropped 5.9% in 2025, travelers should remain alert for tourist scams, particularly fake shopping deals and overpriced goods. The biggest safety concern is natural disasters, especially typhoons between May and November, which can shut down the city temporarily.",
+  "neighborhoods": [
+    {
+      "name": "Central & Admiralty",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Hong Kong's business district is extremely safe day and night with heavy police presence, CCTV coverage, and constant foot traffic. Well-lit streets and professional atmosphere make it ideal for tourists."
+    },
+    {
+      "name": "Tsim Sha Tsui",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist hub with generally good safety but higher concentration of tourist-targeted scams and overpriced shops. Stay alert around Nathan Road electronics stores and pushy salespeople."
+    },
+    {
+      "name": "Causeway Bay",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Busy shopping and dining area that's safe for tourists. Crowded streets during peak hours provide natural security, though watch for pickpockets in crowded areas like Times Square."
+    },
+    {
+      "name": "Lan Kwai Fong",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Nightlife district that's generally safe but requires standard bar precautions. Watch drinks, avoid overintoxication, and be wary of inflated prices and aggressive party accessory sellers."
+    },
+    {
+      "name": "Mong Kok",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Dense residential and shopping area with higher crime rates. Exercise caution at night markets, avoid unlicensed shops, and be particularly wary of fake goods and aggressive vendors."
+    },
+    {
+      "name": "Tai O Village",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Traditional fishing village prone to flooding during typhoons and heavy rains. Generally safe from crime but has limited infrastructure and can become isolated during severe weather events."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Shopping Tours",
+      "risk": "high",
+      "description": "Budget tour operators take tourists to overpriced factory shops selling inferior goods at inflated prices, often 10-40 times market value.",
+      "howToAvoid": "Book only reputable tours, research prices beforehand, never feel pressured to buy anything, and report pushy vendors to authorities."
+    },
+    {
+      "name": "Electronics & Watch Scams",
+      "risk": "high",
+      "description": "Shops on Nathan Road and tourist areas sell counterfeit electronics or watches, switch products, or charge exorbitant prices for inferior goods.",
+      "howToAvoid": "Shop only at licensed retailers, compare prices online first, insist on seeing price tags, and avoid shops with aggressive sales tactics."
+    },
+    {
+      "name": "Fake Monks",
+      "risk": "medium",
+      "description": "People dressed as Buddhist monks approach tourists asking for donations, which is illegal in Hong Kong as begging is prohibited.",
+      "howToAvoid": "Never give money to anyone soliciting donations on the street, regardless of their appearance, and report such activity to police."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some drivers claim broken meters, take longer routes, or refuse to use meters, particularly targeting tourists unfamiliar with Hong Kong.",
+      "howToAvoid": "Always insist on using the meter, have destination written in Chinese, use GPS to track your route, and know approximate fare costs."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Hong Kong is exceptionally safe for solo female travelers, with very low rates of harassment and sexual assault. Women regularly walk alone at night throughout most areas of the city. The main precautions involve standard urban safety measures rather than gender-specific threats.",
+    "tips": [
+      "Use well-lit main streets when walking at night",
+      "Trust your instincts if approached by overly friendly strangers",
+      "Keep valuables secure in crowded areas like markets and MTR stations",
+      "Save emergency numbers and inform someone of your whereabouts",
+      "Carry a portable charger to keep your phone powered for navigation and emergencies"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Hong Kong maintains excellent nighttime safety with well-lit streets, active police patrols, and bustling late-night activity in most tourist areas. Violent crime is extremely rare after dark, though standard precautions apply in entertainment districts and when using public transport late at night.",
+    "tips": [
+      "Stick to main roads and well-populated areas after midnight",
+      "Use official taxis or the MTR rather than walking long distances alone",
+      "Watch your alcohol consumption in Lan Kwai Fong and avoid accepting drinks from strangers",
+      "Keep emergency cash separate from your main wallet",
+      "Be extra cautious during typhoon warnings when streets may be deserted"
+    ]
+  },
+  "transport": {
+    "metro": "The MTR is world-class with excellent safety records, efficient service, and comprehensive coverage. Security cameras throughout stations and trains deter crime. Last trains run around midnight with earlier services on Sundays.",
+    "rideshare": "Uber and other ride-sharing apps operate safely with GPS tracking. However, traditional red taxis remain more common and cost-effective for most journeys within Hong Kong.",
+    "taxis": "Licensed taxis are generally safe and regulated with working meters. Red taxis serve most areas, green serve New Territories, and blue serve Lantau Island. Always ensure the meter is used.",
+    "tips": "Public transport is extremely reliable and safe. Keep valuables secure during rush hours when trains are crowded. Download offline maps as backup navigation."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some traditional establishments",
+    "Avoid pointing with index finger; use open hand instead",
+    "Don't touch someone's head as it's considered sacred",
+    "Tipping is not mandatory but 10% is appreciated for good service",
+    "Avoid political discussions, especially regarding China and Hong Kong's status"
+  ],
+  "health": {
+    "overview": "Hong Kong offers world-class healthcare with both excellent public and private options. The city ranks 16th globally for healthcare innovation though public system faces overcrowding and wait times.",
+    "water": "Tap water is safe to drink throughout Hong Kong and meets WHO standards",
+    "vaccinations": "No special vaccinations required for Hong Kong. Standard travel vaccines recommended",
+    "altitude": "Hot, humid summers require hydration. Air pollution can affect those with respiratory conditions. Typhoon season brings heavy rains and flooding risks"
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "2527 7177",
+    "usEmbassy": "U.S. Consulate General: +852 2523-9011 / +852 2841-2211, 26 Garden Road, Central. Emergency contact for U.S. citizens: +852 2841-2211"
+  },
+  "faq": [
+    {
+      "q": "Is Hong Kong safe for tourists?",
+      "a": "Yes, Hong Kong is very safe for tourists with low crime rates and excellent emergency services. Violent crime is rare, but visitors should watch for tourist scams and take typhoon warnings seriously during summer months."
+    },
+    {
+      "q": "Is Hong Kong safe at night?",
+      "a": "Hong Kong is generally very safe at night with well-lit streets and active police presence. Most tourist areas remain busy until late, though standard urban precautions apply in entertainment districts."
+    },
+    {
+      "q": "Is Hong Kong safe for solo female travelers?",
+      "a": "Extremely safe. Hong Kong has very low rates of harassment and assault against women. Solo female travelers regularly explore the city day and night with minimal concerns beyond normal urban safety measures."
+    },
+    {
+      "q": "What areas should I avoid in Hong Kong?",
+      "a": "No areas are particularly dangerous, but exercise extra caution in Mong Kok's dense markets, avoid unlicensed shops on Nathan Road, and be wary of tourist-heavy areas where scams are more common."
+    },
+    {
+      "q": "Is it safe to use public transport in Hong Kong?",
+      "a": "Very safe. The MTR system is world-class with excellent safety records and comprehensive CCTV coverage. Taxis are regulated and reliable when meters are used. Pickpocketing is the main concern during rush hours."
+    }
+  ],
+  "relatedCities": [
+    "macau",
+    "shenzhen",
+    "guangzhou",
+    "taipei",
+    "singapore"
+  ],
+  "_city_id": "hong-kong-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1280px-Flag_of_Hong_Kong.svg.png"
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "busan",
+  "name": "Busan",
+  "country": "South Korea",
+  "countryCode": "KR",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 8.0,
+    "nightSafety": 7.6,
+    "transport": 8.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Busan is one of South Korea's safest major cities for tourists, with low crime rates and excellent infrastructure. While crime statistics show it ranks among the lowest globally for violent crime, visitors should remain aware of common tourist scams and seasonal weather hazards like typhoons.",
+  "quickVerdict": "Busan ranks as one of Asia's safest destinations for travelers. The coastal city maintains exceptionally low violent crime rates and offers world-class public transportation. Solo female travelers consistently report feeling comfortable day and night, though basic precautions are advised in nightlife areas. Common concerns include taxi overcharging, tourist scams near popular attractions, and seasonal typhoon risks during summer months. The efficient emergency services system provides English-language support for foreign visitors.",
+  "neighborhoods": [
+    {
+      "name": "Haeundae",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Popular beach district with heavy police presence, well-lit streets, and tourist infrastructure. Generally very safe with only minor issues from intoxicated visitors during summer peak season."
+    },
+    {
+      "name": "Seomyeon",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Main shopping and entertainment district that's bustling 24/7. Safe overall but can get crowded and occasionally see drunk individuals late at night, particularly on weekends."
+    },
+    {
+      "name": "Nampo-dong/BIFF Square",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic shopping area near Jagalchi Market. Generally safe during day but watch for aggressive vendors and unofficial tour guides. Well-patrolled and well-lit at night."
+    },
+    {
+      "name": "Gwangalli",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale beachfront area popular with locals and tourists. Excellent safety record with good lighting, regular police patrols, and family-friendly atmosphere even in evening hours."
+    },
+    {
+      "name": "Busan Station Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Transportation hub that can feel rough around edges, especially central areas. Generally safe but more transient population and some reports of petty crime. Stick to main thoroughfares."
+    },
+    {
+      "name": "Jung-gu Downtown",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Traditional downtown core with mix of old and new. Some areas can feel less polished than tourist districts. Safe during business hours but exercise normal urban caution at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "high",
+      "description": "Taxi drivers may start meters at inflated rates, take indirect routes, or charge flat fees to tourist destinations like Haeundae Beach or Jagalchi Market.",
+      "howToAvoid": "Always insist on using the meter, use ride-sharing apps like KakaoT, and have destination addresses written in Korean. Check routes on Naver Maps."
+    },
+    {
+      "name": "Jagalchi Market Tour Guides",
+      "risk": "medium",
+      "description": "Unauthorized guides approach tourists offering free market tours but pressure visitors to buy overpriced seafood or souvenirs, adding hidden fees up to 50,000 won.",
+      "howToAvoid": "Use official market maps and free audio guides from Busan Tourism website. Verify guide credentials through Busan Convention Bureau badges. Pay with credit cards when possible."
+    },
+    {
+      "name": "Beach Equipment Overcharging",
+      "risk": "medium",
+      "description": "Vendors at Haeundae Beach rent umbrellas and chairs at inflated tourist prices, claiming seasonal surcharges or limited availability during festivals.",
+      "howToAvoid": "Check prices at official beach kiosks first. Compare with posted prices in KRW. Consider renting through hotel services for transparent billing."
+    },
+    {
+      "name": "Fake Religious Ceremonies",
+      "risk": "low",
+      "description": "Scammers approach tourists claiming deceased relatives need traditional Korean ceremonies, requesting large donations based on tourist's age times 1,000 won.",
+      "howToAvoid": "Politely decline any unsolicited religious invitations. Real monks don't solicit money. Walk away from persistent approaches and stick to tourist areas."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Busan ranks among the world's safest cities for solo female travelers, with numerous women reporting feeling comfortable walking alone even late at night. The city has excellent infrastructure, helpful locals, and low harassment rates. Public transportation includes women-only subway cars during peak hours. Solo dining is increasingly accepted, with many ramen shops and convenience stores catering to individual travelers.",
+    "tips": [
+      "Use women-only subway cars during rush hours for added comfort",
+      "Download KakaoMap and Papago translation apps for navigation and communication",
+      "Stay in well-reviewed accommodations in areas like Haeundae or Gwangalli for maximum safety",
+      "Join female traveler groups through apps like Nomad Her for local connections",
+      "Trust your instincts and avoid excessive alcohol consumption in nightlife areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Busan maintains excellent nighttime safety with well-lit streets, 24/7 CCTV coverage, and regular police patrols. Most areas remain bustling with locals and visitors even late at night. The main concerns are occasional drunk individuals in entertainment districts like Seomyeon, but violent incidents are rare. Beach areas like Haeundae and Gwangalli are particularly well-monitored during evening hours.",
+    "tips": [
+      "Stick to well-lit, busy streets especially in entertainment districts",
+      "Avoid confrontations with intoxicated individuals in areas like Seomyeon",
+      "Use ride-sharing apps or official taxis rather than walking long distances alone",
+      "Keep emergency contacts saved and ensure your phone has sufficient battery",
+      "Trust local advice about areas to avoid and stay aware of your surroundings"
+    ]
+  },
+  "transport": {
+    "metro": "Busan Metro is exceptionally safe, clean, and efficient with English signage throughout. Lines operate from 5:30 AM to midnight with frequent services. Women-only cars available during peak hours. CCTV coverage and emergency buttons in all cars.",
+    "rideshare": "KakaoT is widely available and reliable with GPS tracking and cashless payments. Uber operates in major areas but with limited coverage compared to KakaoT. Both offer English language support and safety features.",
+    "taxis": "Generally honest and safe, though some drivers may attempt overcharging tourists. Always insist on meter use and have destinations written in Korean. Official taxis are regulated with GPS tracking systems.",
+    "tips": "Get a HANARO card for seamless public transport payments. Download KakaoT and Naver Maps for navigation. Official taxis have better English support than private vehicles."
+  },
+  "customs": [
+    "Remove shoes when entering homes, traditional restaurants, temples, and some guesthouses",
+    "Bow slightly when greeting and use both hands for handshakes, especially with older people or those in authority",
+    "Use both hands when giving or receiving items, business cards, or money as a sign of respect",
+    "Wait for elders to start eating before beginning your meal, and don't leave chopsticks sticking upright in rice bowls",
+    "Dress modestly and conservatively, especially when visiting religious sites or business settings"
+  ],
+  "health": {
+    "overview": "South Korea has one of the world's best healthcare systems, ranked 3rd globally by the Legatum Institute. Busan offers excellent medical facilities with many hospitals providing English translation services. The National Health Insurance Service covers emergency care for tourists. Air quality can be poor due to fine dust, especially in spring.",
+    "water": "Tap water is safe to drink throughout Busan and meets international standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for South Korea. Routine vaccinations should be up to date. Consider flu vaccination during winter months.",
+    "altitude": "Busan is at sea level with no altitude concerns. The city has a humid subtropical climate with hot summers and mild winters."
+  },
+  "emergency": {
+    "general": "119",
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "1330",
+    "usEmbassy": "+82-2-397-4114 (U.S. Embassy Seoul - covers Busan region)"
+  },
+  "faq": [
+    {
+      "q": "Is Busan safe for tourists?",
+      "a": "Yes, Busan is very safe for tourists with low crime rates and excellent infrastructure. It ranks among Asia's safest major cities with responsive emergency services and tourist-friendly police support."
+    },
+    {
+      "q": "Is Busan safe at night?",
+      "a": "Busan is generally very safe at night with well-lit streets, CCTV coverage, and regular police patrols. Exercise normal urban caution in entertainment districts and avoid confrontations with intoxicated individuals."
+    },
+    {
+      "q": "Is Busan safe for solo female travelers?",
+      "a": "Extremely safe for solo female travelers. Women regularly report feeling comfortable walking alone day and night. Public transport includes women-only cars, and locals are typically helpful and respectful."
+    },
+    {
+      "q": "What areas should I avoid in Busan?",
+      "a": "No areas require complete avoidance, but exercise more caution around Busan Station's immediate surroundings late at night. Some parts of central Jung-gu can feel less polished but remain generally safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Busan?",
+      "a": "Public transportation in Busan is exceptionally safe and efficient. The metro system has CCTV, emergency buttons, and English signage. Taxis are generally reliable when using the meter system."
+    }
+  ],
+  "relatedCities": [
+    "seoul",
+    "tokyo",
+    "osaka",
+    "shanghai",
+    "taipei"
+  ],
+  "_city_id": "busan-south-korea",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gwangandaegyo_Bridge_in_Busan%2C_South_Korea_%28iau2207b%29.tiff/lossy-page1-1200px-Gwangandaegyo_Bridge_in_Busan%2C_South_Korea_%28iau2207b%29.tiff.jpg"
+}

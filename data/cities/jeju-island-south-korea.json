@@ -1,0 +1,168 @@
+{
+  "slug": "jeju-island",
+  "name": "Jeju Island",
+  "country": "South Korea",
+  "countryCode": "KR",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.0,
+    "scamRisk": 6.5,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 8.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Jeju Island is one of South Korea's safest destinations with low crime rates and excellent infrastructure. While typhoons during summer pose natural risks, the island's well-developed safety systems and polite locals make it ideal for tourists.",
+  "quickVerdict": "Jeju Island ranks as exceptionally safe for tourists with minimal violent crime and well-established emergency systems. The main concerns are typhoons during summer months and occasional tourist-targeting scams, particularly overpriced taxis and fake tours. Solo female travelers consistently rate the island highly for safety, and the extensive public bus network provides reliable transportation. Healthcare facilities are modern with English-speaking staff available at major hospitals.",
+  "neighborhoods": [
+    {
+      "name": "Jeju City Center",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The main urban hub with excellent police presence, well-lit streets, and abundant tourist infrastructure. Hotels, restaurants, and attractions are concentrated here with reliable transportation links."
+    },
+    {
+      "name": "Seogwipo City",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Popular tourist area on the south coast with good safety infrastructure. Known for waterfalls and coastal attractions with adequate lighting and regular police patrols."
+    },
+    {
+      "name": "Hallasan National Park",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Generally safe hiking area but requires preparation for weather changes and proper trails. Mountain rescue services available, but hikers should inform others of plans."
+    },
+    {
+      "name": "Eastern Coastal Areas",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Scenic coastal region including Seongsan Ilchulbong with good tourist facilities. Well-maintained paths and emergency services, though some remote areas have limited cell coverage."
+    },
+    {
+      "name": "Western Beach Areas",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular beach destinations like Hyeopjae and Hallim with lifeguards during peak season. Generally safe but requires caution during typhoon season and strong currents."
+    },
+    {
+      "name": "Rural Interior Villages",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Peaceful traditional villages with very low crime but limited tourist infrastructure. May lack English signage and have fewer emergency services nearby."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Taxi Fares",
+      "risk": "moderate",
+      "description": "Taxi drivers refuse to use meters and charge inflated flat rates, especially from the airport or popular tourist spots. Some drivers may take unnecessarily long routes.",
+      "howToAvoid": "Insist on meter use by saying 'Miteo-ro saseyo' in Korean. Use KakaoTaxi app for fixed fares and GPS tracking. Check the initial fare which should be around 3,300 KRW."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "moderate",
+      "description": "Unlicensed individuals approach tourists offering private tours at low prices but take you to overpriced shops or provide substandard services. Some claim exclusive access to attractions.",
+      "howToAvoid": "Book tours through official channels, hotels, or verified platforms like Viator. Licensed guides should have official identification and company affiliation."
+    },
+    {
+      "name": "Counterfeit Souvenirs",
+      "risk": "low",
+      "description": "Street vendors sell fake Korean cosmetics or souvenirs claiming authenticity at discounted prices, particularly around popular tourist attractions and markets.",
+      "howToAvoid": "Buy from official stores or department stores with receipts. Check for holograms and serial numbers on cosmetics. Use shopping apps to verify product authenticity."
+    },
+    {
+      "name": "Restaurant Overcharging",
+      "risk": "low",
+      "description": "Some restaurants in crowded tourist areas may add extra items to bills or charge for dishes not ordered, particularly during peak tourist seasons.",
+      "howToAvoid": "Check menus carefully, ask for itemized receipts, and review bills before paying. Learn basic Korean phrases for common dishes to avoid misunderstandings."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Jeju Island is exceptionally safe for solo female travelers with a 4.6 out of 5 safety rating. The island has low crime rates, excellent street lighting, widespread CCTV coverage, and a responsive police force. Locals are typically polite and respectful, and the island is well-developed with good public transportation and women-friendly facilities. The main precautions involve standard travel safety practices.",
+    "tips": [
+      "Stay in well-reviewed accommodations in main tourist areas",
+      "Avoid poorly lit or deserted areas late at night when walking alone",
+      "Use reputable taxi services or public transportation during nighttime",
+      "Keep emergency numbers saved and inform someone of your itinerary",
+      "Join group activities or connect with other female travelers for added security"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety on Jeju Island is generally excellent with well-lit streets, extensive CCTV coverage, and regular police patrols. The island maintains a peaceful atmosphere after dark, though nightlife is limited compared to Seoul. Most safety concerns involve natural hazards during bad weather rather than crime.",
+    "tips": [
+      "Stick to well-populated and well-lit tourist areas after dark",
+      "Use official taxi services or hotel transportation for late-night travel",
+      "Be extra cautious during typhoon season when weather can change rapidly",
+      "Keep hotel contact information and emergency numbers easily accessible",
+      "Inform accommodation staff of late return plans when hiking or touring remote areas"
+    ]
+  },
+  "transport": {
+    "metro": "Jeju Island has no subway system. Public transportation relies on an extensive bus network with red express buses, blue city buses, and green village buses covering most destinations.",
+    "rideshare": "KakaoTaxi is the primary rideshare app with fixed fares and GPS tracking. Uber has limited availability. App provides English interface and cashless payment options.",
+    "taxis": "Standard taxis are orange/silver with base fare 3,300 KRW. Deluxe black taxis cost 4,500 KRW base. Global taxis cater to English/Chinese/Japanese speakers. All taxis are metered and generally reliable.",
+    "tips": "Public buses are the most economical option with T-money cards offering free transfers. Airport limousine buses connect to major hotels. For remote areas, taxis or rental cars provide better access than infrequent bus routes."
+  },
+  "customs": [
+    "Remove shoes when entering homes, temples, or traditional restaurants",
+    "Bow slightly when greeting or thanking someone, with deeper bows showing more respect",
+    "Use both hands when giving or receiving items, business cards, or payments",
+    "Wait for the eldest person to start eating before beginning your meal",
+    "Avoid pointing with fingers and use open hand gestures instead",
+    "Keep conversations quiet on public transportation",
+    "No tipping required as it may confuse staff - just pay the listed price"
+  ],
+  "health": {
+    "overview": "Jeju Island has excellent healthcare facilities with modern hospitals and clinics. Jeju National University Hospital and Halla General Hospital provide comprehensive care with some English-speaking staff. The island is developing into a medical tourism hub with international standard facilities.",
+    "water": "Tap water is safe to drink but many locals prefer bottled water. Restaurants serve filtered water. Consider bottled water if you have a sensitive stomach during initial days.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel vaccines like hepatitis A/B and typhoid are recommended for all international travel.",
+    "altitude": "Sea-level island with no altitude concerns. Climate is subtropical with hot humid summers and mild winters. Strong UV exposure requires sun protection year-round."
+  },
+  "emergency": {
+    "general": "112 (Police) / 119 (Ambulance and Fire)",
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "1330 (Tourism Hotline with English support)",
+    "usEmbassy": "US Embassy Seoul: +82-2-397-4114. Located on mainland but provides services to all Korea including Jeju Island. US Consulate in Busan: +82-51-663-7700."
+  },
+  "faq": [
+    {
+      "q": "Is Jeju Island safe for tourists?",
+      "a": "Yes, Jeju Island is very safe for tourists with low crime rates, excellent infrastructure, and responsive emergency services. It's considered one of South Korea's safest destinations with particular strength in tourist safety measures."
+    },
+    {
+      "q": "Is Jeju Island safe at night?",
+      "a": "Yes, nighttime safety is excellent with well-lit streets, CCTV coverage, and regular police patrols. The island maintains a peaceful atmosphere after dark, though visitors should stick to populated tourist areas and use official transportation."
+    },
+    {
+      "q": "Is Jeju Island safe for solo female travelers?",
+      "a": "Absolutely, Jeju Island ranks among the top 50 safest destinations globally for solo female travelers with a 4.6/5 safety rating. The island has low crime rates, respectful locals, and excellent safety infrastructure including widespread CCTV and responsive police."
+    },
+    {
+      "q": "What areas should I avoid in Jeju Island?",
+      "a": "There are no particularly dangerous areas, but exercise standard caution in remote hiking areas without cell coverage, avoid isolated beaches during typhoon season, and be alert for tourist scams around the airport and major attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Jeju Island?",
+      "a": "Yes, public transportation is very safe and reliable. The bus system is comprehensive with T-money cards for easy payment, and taxis are metered and regulated. KakaoTaxi app provides additional security with GPS tracking and fixed fares."
+    }
+  ],
+  "relatedCities": [
+    "seoul",
+    "busan",
+    "tokyo",
+    "taipei",
+    "shanghai"
+  ],
+  "_city_id": "jeju-island-south-korea",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jeju_Island.jpg/1280px-Jeju_Island.jpg"
+}

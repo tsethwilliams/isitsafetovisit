@@ -5,124 +5,124 @@
   "countryCode": "RO",
   "region": "Europe",
   "regionSlug": "europe",
-  "lastUpdated": "2026-03-08",
-  "overallScore": 7.1,
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.4,
   "verdict": "Generally Safe",
   "badgeLabel": "Generally Safe",
   "badgeClass": "safe",
   "scores": {
     "pettyCrime": 6.8,
-    "violentCrime": 8.2,
-    "scamRisk": 6.5,
-    "womensSafety": 7.5,
-    "nightSafety": 6.9,
-    "transport": 7.3,
-    "naturalHazards": 6.2
+    "violentCrime": 8.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 7.5,
+    "naturalHazards": 8.3
   },
-  "summary": "Bucharest is one of Europe's safest capitals with low violent crime rates and modern infrastructure. While petty theft and tourist scams occur mainly in the Old Town, overall safety levels are high and comparable to Western European cities. The main concern is seismic risk due to the city's location in an earthquake-prone zone.",
-  "quickVerdict": "Bucharest has shed its post-communist reputation and is now considered safer than major capitals like Paris and London. Violent crime is extremely rare, and most safety concerns involve minor scams targeting tourists in busy areas. The city ranks among Europe's top capitals for safety, with reliable transport, vibrant nightlife, and welcoming locals. Standard travel precautions apply, particularly avoiding unlicensed taxis and staying aware in crowded tourist zones.",
+  "summary": "Bucharest is one of Europe's safer capitals with exceptionally low violent crime rates and improving security infrastructure. While petty crime and tourist-targeted scams exist, violent incidents are extremely rare and the city ranks among the top 100 safest cities globally.",
+  "quickVerdict": "Bucharest offers a surprisingly safe urban experience for tourists, with crime statistics showing significant improvements since the early 2000s. The main concerns are opportunistic petty theft in tourist areas and taxi scams, particularly at transport hubs. Violent crime is exceptionally rare, women generally feel safe traveling solo, and the nightlife scene is vibrant yet secure. Modern rideshare apps and improved police presence in tourist areas have addressed many historical safety concerns.",
   "neighborhoods": [
     {
       "name": "Old Town (Centrul Vechi)",
-      "score": 6.5,
-      "class": "caution",
-      "description": "The main tourist hub with most bars, restaurants and nightlife. Generally safe but watch for pickpockets, overcharging in bars, and small-scale scams. Stay on main streets and avoid empty side streets late at night."
+      "score": 7.0,
+      "class": "safe",
+      "description": "The historic heart and main nightlife district is generally safe but requires normal urban caution. Well-patrolled with good lighting, though pickpockets may target tourists in crowded bars and restaurants."
     },
     {
       "name": "Herastrau/Floreasca",
-      "score": 8.0,
+      "score": 8.5,
       "class": "safe",
-      "description": "Upscale northern district with luxury clubs, restaurants and parks. Very safe area popular with locals and expats. Well-maintained streets with good lighting and regular police presence."
+      "description": "Upscale northern district with parks, embassies, and high-end venues. Excellent safety record with low crime rates and well-maintained infrastructure. Popular with expats and business travelers."
     },
     {
       "name": "Calea Victoriei",
-      "score": 7.5,
+      "score": 8.2,
       "class": "safe",
-      "description": "Main boulevard running through the city center. Safe for walking day and night with good lighting, shops, and restaurants. Busy area with regular foot traffic and police patrols."
+      "description": "Central boulevard with major attractions, shopping, and cultural sites. Heavy foot traffic and police presence during day. Safe for tourists with standard precautions."
     },
     {
       "name": "University Square",
-      "score": 7.2,
+      "score": 7.5,
       "class": "safe",
-      "description": "Central area around the university with good transport links. Generally safe but can get crowded during events. Well-connected to metro and has regular police presence."
+      "description": "Bustling student area with good daytime safety. Evening hours require more caution due to higher pedestrian traffic and occasional protests, though these are typically peaceful."
     },
     {
-      "name": "Gara de Nord",
+      "name": "Gara de Nord Area",
       "score": 5.8,
       "class": "caution",
-      "description": "Main train station area that can feel run-down and crowded. Higher risk of pickpocketing and taxi scams. Avoid lingering in the area, especially with luggage, and use official transport."
+      "description": "Main train station district can feel rough around the edges with more aggressive vendors and taxi scams. Avoid lingering after dark and use authorized transport options."
     },
     {
       "name": "Ferentari",
       "score": 4.2,
       "class": "danger",
-      "description": "Peripheral neighborhood with higher crime rates and poor infrastructure. Not recommended for tourists - no major attractions and can feel unsafe, especially at night. Locals also avoid this area."
+      "description": "Southeastern residential area with higher crime rates and limited tourist infrastructure. Locals and authorities advise visitors to avoid this district, especially at night."
     }
   ],
   "scams": [
     {
-      "name": "Taxi Driver Scams",
+      "name": "Taxi Overcharging",
       "risk": "high",
-      "description": "Unlicensed drivers at the airport and train stations offer rides at inflated prices or manipulate meters. Some claim to be Uber drivers but demand cash payment.",
-      "howToAvoid": "Use official ride-sharing apps like Uber, Bolt, or licensed taxi companies. Never accept rides from people approaching you directly. Always check the car matches the app details."
+      "description": "Unlicensed drivers at airports and train stations quote inflated flat rates or manipulate meters. Some claim no change for large bills or take longer routes.",
+      "howToAvoid": "Use only licensed taxis with visible company logos and rates, or stick to rideshare apps like Uber and Bolt. Always ensure the meter is running and have small bills ready."
     },
     {
-      "name": "The Maradona Police Scam",
+      "name": "Fake Police/Maradona Scam",
       "risk": "medium",
-      "description": "Someone approaches you for conversation, then fake police officers appear demanding to see your wallet and passport, claiming to check for fake money or documents.",
-      "howToAvoid": "Real police don't stop tourists randomly on the street. If approached, ask to go to a police station together. Keep documents secure and don't hand them over to anyone on the street."
+      "description": "Someone approaches tourists for conversation, then fake police appear demanding to see passports and wallets, claiming currency exchange violations.",
+      "howToAvoid": "Never hand over documents on the street. Real police have proper identification and will accompany you to a station. Walk away confidently or suggest going to a nearby hotel lobby."
     },
     {
-      "name": "Restaurant and Bar Overcharging",
+      "name": "Romance/Pig Butchering Scams",
+      "risk": "high",
+      "description": "Online relationships developed over months with Romanian women who eventually lure foreign men to visit, then rob them upon arrival with accomplices.",
+      "howToAvoid": "Be extremely cautious of online romantic relationships requesting visits or money. Meet only in public places and never share financial information or travel plans in advance."
+    },
+    {
+      "name": "Overcharging in Bars/Restaurants",
       "risk": "medium",
-      "description": "Tourist-focused venues in Old Town may not display prices clearly or add unexpected charges to bills, especially for drinks and bottle service.",
-      "howToAvoid": "Always ask for a menu with prices before ordering. Check your bill carefully and question any unexpected charges. Avoid venues that seem pushy or lack clear pricing."
-    },
-    {
-      "name": "Fake Tourist Guides",
-      "risk": "low",
-      "description": "Individuals approach tourists offering to show them around or provide unofficial guided tours for inflated prices, particularly around major attractions.",
-      "howToAvoid": "Book tours through reputable companies or online platforms. Politely decline unsolicited offers from strangers. Look for licensed guides with proper identification."
+      "description": "Tourist-focused venues in Old Town may inflate bills, charge for items not ordered, or present menus without prices then demand excessive payment.",
+      "howToAvoid": "Always check prices before ordering, ask for menus with listed prices, and review bills carefully. Stick to establishments with good reviews and visible local customers."
     }
   ],
   "soloFemale": {
-    "overview": "Bucharest is very safe for solo female travelers and ranks as one of Europe's safest capitals for women. Most locals report feeling secure walking alone at night, though standard precautions apply. Cat-calling may occur but is generally harmless, and violent incidents are extremely rare.",
+    "overview": "Solo female travelers generally report feeling safe in Bucharest, rating it among Europe's more comfortable capitals for women. Street harassment is less common than in many Western cities, violent crime against women is extremely rare, and locals are typically respectful. The main concerns are occasional catcalling and the need for standard urban precautions at night.",
     "tips": [
-      "Use Uber or Bolt instead of hailing random taxis, especially at night",
-      "Stay in well-lit central areas after dark - Old Town and main boulevards are generally safe",
-      "Be confident in declining unwanted attention and don't hesitate to ask for help from staff or authorities",
-      "Trust your instincts if a situation feels uncomfortable and move to a busier area",
-      "Consider staying in accommodations near the city center for easier access to safe areas"
+      "Stay in well-lit, populated areas after dark and avoid empty side streets",
+      "Use rideshare apps or licensed taxis rather than walking alone late at night",
+      "Don't leave drinks unattended in bars and decline unsolicited offers from strangers",
+      "Dress modestly when visiting religious sites and be aware that locals value neat appearance",
+      "Trust your instincts and don't hesitate to seek help from police or hotel staff if needed"
     ]
   },
   "nightSafety": {
-    "overview": "Bucharest has vibrant and generally safe nightlife centered in the Old Town and northern districts. The city comes alive after dark with numerous bars, clubs, and restaurants staying open until dawn. Police presence is adequate, and violent crime is rare, though standard precautions about drinks and valuables apply.",
+    "overview": "Bucharest's nightlife is vibrant and generally safe, with most venues operating until 5-6 AM and excellent security. The Old Town entertainment district has good lighting and police presence, while incidents of serious crime are rare. The biggest risks are petty theft in crowded venues and drink spiking, though the latter is uncommon.",
     "tips": [
-      "Stick to main nightlife areas like Old Town, Calea Victoriei, and Herastrau - avoid peripheral neighborhoods",
-      "Never leave drinks unattended and don't accept drinks from strangers",
-      "Use ride-sharing apps for late-night transport - public transport is limited after 11 PM",
-      "Stay aware of your surroundings in crowded venues and keep valuables secure",
-      "Travel in groups when possible and let someone know your plans"
+      "Stick to main nightlife areas like Old Town and avoid poorly lit side streets",
+      "Travel in groups when possible and keep track of your friends throughout the night",
+      "Use Uber or Bolt for late-night transportation rather than unlicensed taxis",
+      "Keep valuables secure and don't flash large amounts of cash in bars",
+      "Pace alcohol consumption and never leave drinks unattended"
     ]
   },
   "transport": {
-    "metro": "The metro system is safe, reliable, and operates from 5 AM to 11 PM with five lines serving 60+ stations. Security guards are present at most stations. Purchase tickets at machines or counters - single trip costs 3 RON. Generally crowded but well-maintained.",
-    "rideshare": "Uber and Bolt are widely available, reliable, and preferred by both locals and tourists. Both apps work in English, provide upfront pricing, and offer tracking features. Significantly safer than unlicensed taxis and often cheaper than official taxi services.",
-    "taxis": "Licensed taxis are available but have a reputation for overcharging tourists and poor service. Many vehicles are old and lack air conditioning. If using taxis, only use reputable companies and ensure the meter is running. Most locals avoid random street taxis.",
-    "tips": "Download Uber and Bolt apps before arrival. For night transport, stick to ride-sharing apps as public transport is limited. Avoid accepting rides from anyone approaching you at airports or stations."
+    "metro": "The Bucharest Metro is safe, modern, and reliable with security guards at most stations. Four lines serve major tourist areas, running 5 AM to 11 PM. Overcrowding during rush hours requires awareness of pickpockets, but violent crime is extremely rare.",
+    "rideshare": "Uber and Bolt operate extensively throughout Bucharest and are the safest, most reliable transport options. Both offer upfront pricing, driver tracking, and cashless payments. Response times are quick in central areas and significantly safer than unlicensed taxis.",
+    "taxis": "Licensed taxis are identifiable by yellow color, company logos, and posted rates. However, unlicensed operators frequently target tourists with inflated prices. Authorized taxis are generally safe but rideshare apps offer better protection against scams.",
+    "tips": "Download both Uber and Bolt apps for price comparison. Metro tickets cost around 5 lei and buses accept contactless payments. Avoid unlicensed taxis at airports and train stations - they're the biggest transport scam risk."
   },
   "customs": [
-    "Romanians value formal greetings - use 'bună ziua' (good day) when entering shops or meeting people",
-    "Respect for elders is important - younger people typically defer to older individuals in conversations and decisions",
-    "When dining, wait for the host to say 'poftă bună' (good appetite) before eating, and try to finish everything on your plate",
-    "Tipping is customary for all service providers including restaurants (10-15%), taxis, and even doctors (small gifts)",
-    "Romanians are hospitable and may insist on offering food or drinks - politely declining multiple times is normal and expected"
+    "Greet people with 'Buna ziua' (Good day) when entering shops or meeting new people",
+    "Remove shoes when entering someone's home and bring small gifts when invited for dinner",
+    "Always toast with 'Noroc' (Good luck) or 'Sanatate' (Good health) before drinking alcohol",
+    "Address people formally with titles until invited to use first names",
+    "Show respect for elderly people by offering seats and opening doors"
   ],
   "health": {
-    "overview": "Healthcare quality varies significantly between public and private facilities. Private hospitals in Bucharest offer excellent care with English-speaking staff, while public hospitals may have outdated equipment and overcrowding issues.",
-    "water": "Tap water is generally safe to drink though many locals prefer bottled water due to taste. Avoid tap water in older buildings that may have lead pipes, and be cautious of discolored water.",
-    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider hepatitis A and B vaccines. Tick-borne encephalitis vaccination recommended if planning extensive outdoor activities in rural areas.",
-    "altitude": "Bucharest is at low elevation with a continental climate. Winters are cold, summers hot. No altitude-related health concerns. Air quality is generally acceptable but can worsen during summer heat waves."
+    "overview": "Healthcare in Bucharest meets European standards with both public and private facilities available. The city has 26 public hospitals and several private clinics operating 24/7. Most prescription medications are available, though they may be sold under different names than in North America.",
+    "water": "Tap water is generally safe to drink throughout Bucharest, though bottled water is widely available if preferred. EU standards apply to municipal water treatment.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. EU health insurance cards (EHIC) provide coverage for EU citizens in emergencies.",
+    "altitude": "Bucharest sits at low elevation with a continental climate. Summers can be hot while winters are cold with potential for snow. No altitude-related health concerns."
   },
   "emergency": {
     "general": "112",
@@ -130,35 +130,37 @@
     "ambulance": "112",
     "fire": "112",
     "touristPolice": "N/A",
-    "usEmbassy": "U.S. Embassy Bucharest: +40-21-200-3300. Address: 4-6 Liviu Librescu Blvd, District 1, Bucharest. For after-hours emergencies: +40-21-200-3300."
+    "usEmbassy": "US Embassy Bucharest: +40-21-200-3300, located at 4-6 Liviu Librescu Blvd, District 1. Emergency services for US citizens: +40-21-200-3300"
   },
   "faq": [
     {
       "q": "Is Bucharest safe for tourists?",
-      "a": "Yes, Bucharest is very safe for tourists and ranks among Europe's safest capitals. Violent crime is extremely rare, and most incidents involve minor theft or scams in tourist areas. The city has excellent infrastructure and helpful locals."
+      "a": "Yes, Bucharest is generally very safe for tourists and ranks among Europe's safer capitals. Violent crime is extremely rare, and most visitors experience no safety issues. The main concerns are petty theft and taxi scams, which are easily avoided with basic precautions."
     },
     {
       "q": "Is Bucharest safe at night?",
-      "a": "Bucharest is generally safe at night, especially in central areas like Old Town and main boulevards. The nightlife scene is vibrant with good police presence. Stick to well-lit areas, use ride-sharing apps, and avoid peripheral neighborhoods after dark."
+      "a": "Bucharest is relatively safe at night, especially in central tourist areas like Old Town which have good lighting and police presence. The nightlife scene is vibrant and secure, though standard urban precautions apply like avoiding empty streets and using rideshare apps for transportation."
     },
     {
       "q": "Is Bucharest safe for solo female travelers?",
-      "a": "Yes, Bucharest is very safe for solo female travelers. Many women report feeling secure walking alone, even at night. While occasional cat-calling may occur, violent incidents are extremely rare. Use ride-sharing apps and stay in central areas."
+      "a": "Solo female travelers generally feel safe in Bucharest and report fewer harassment issues than in many Western European cities. Women can walk alone during the day without concern, and evening activities in central areas are typically safe with normal precautions."
     },
     {
       "q": "What areas should I avoid in Bucharest?",
-      "a": "Avoid peripheral neighborhoods like Ferentari, especially at night. Be extra cautious around Gara de Nord (main train station) due to higher pickpocketing risk. In Old Town, avoid empty side streets late at night and stay on main thoroughfares."
+      "a": "The main area to avoid is Ferentari district in the southeast, which has higher crime rates and limited tourist infrastructure. The Gara de Nord train station area can feel rough but is manageable with caution. Otherwise, most central tourist areas are very safe."
     },
     {
       "q": "Is it safe to use public transport in Bucharest?",
-      "a": "Yes, public transport is safe including the metro, buses, and trams. The metro is particularly reliable and secure with guards at most stations. For late-night travel, use ride-sharing apps as public transport is limited after 11 PM."
+      "a": "Yes, public transport in Bucharest is safe. The metro system is modern with security guards, and buses/trams are generally secure though can be crowded. Rideshare apps like Uber and Bolt are the safest option, while licensed taxis are acceptable but may overcharge tourists."
     }
   ],
   "relatedCities": [
-    "vienna",
     "budapest",
     "prague",
-    "warsaw"
+    "warsaw",
+    "sofia",
+    "zagreb"
   ],
-  "_city_id": "bucharest-romania"
+  "_city_id": "bucharest-romania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/1280px-Bucharest_University_Square_%28cropped%29.jpg"
 }

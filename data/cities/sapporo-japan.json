@@ -1,0 +1,168 @@
+{
+  "slug": "sapporo",
+  "name": "Sapporo",
+  "country": "Japan",
+  "countryCode": "JP",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 9.1,
+    "scamRisk": 7.8,
+    "womensSafety": 9.0,
+    "nightSafety": 8.3,
+    "transport": 8.9,
+    "naturalHazards": 7.2
+  },
+  "summary": "Sapporo stands as one of Japan's safest major cities, with exceptionally low crime rates and well-developed infrastructure. The main safety considerations are natural disasters including earthquakes, heavy winter snowfall, and occasional tourist scams in entertainment districts.",
+  "quickVerdict": "Sapporo is remarkably safe for tourists, ranking among the world's safest cities. With very low violent crime rates, excellent healthcare, and reliable public transportation, visitors can explore with confidence. The primary risks involve natural hazards like earthquakes and heavy snow, plus minor tourist scams in nightlife areas like Susukino. Basic precautions and earthquake preparedness are all that's needed for a secure visit to Japan's northern metropolis.",
+  "neighborhoods": [
+    {
+      "name": "Chuo Ward (Central Sapporo)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The heart of Sapporo with Odori Park, major shopping areas, and tourist attractions. Generally very safe with excellent infrastructure and frequent police presence. Well-lit streets and plenty of pedestrian traffic."
+    },
+    {
+      "name": "Susukino Entertainment District",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Sapporo's main nightlife area with bars, clubs, and restaurants. Generally safe but requires standard precautions, especially late at night. Some tourist-targeted scams and touts may approach visitors."
+    },
+    {
+      "name": "Kita Ward (North)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Mainly residential and university area including Hokkaido University campus. Very safe with low crime rates. Well-connected by public transport and popular with students and families."
+    },
+    {
+      "name": "Minami Ward (South)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Mix of residential areas and natural attractions like Jozankei hot springs. Safe for tourists with good transport connections. Some areas are more remote but crime rates remain very low."
+    },
+    {
+      "name": "Shiraishi Ward",
+      "score": 6.8,
+      "class": "caution",
+      "description": "More industrial and working-class residential area. Still relatively safe but fewer tourist amenities. Some locals recommend avoiding certain parts late at night, though serious crime remains rare."
+    },
+    {
+      "name": "Teine Ward",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Home to ski slopes and more suburban areas. Generally safe but can be isolated in some parts. Popular during winter sports season with adequate safety infrastructure for tourists."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Monk Scam",
+      "risk": "medium",
+      "description": "Individuals dressed as monks approach tourists near temples and tourist areas, offering trinkets or blessings before demanding payment.",
+      "howToAvoid": "Politely decline offerings from strangers. Real monks typically don't sell items or demand immediate payment. Walk away if pressured."
+    },
+    {
+      "name": "Susukino Bar Overcharging",
+      "risk": "medium",
+      "description": "Tourists are approached on the street and invited to bars with promises of cheap drinks, then presented with extremely high bills.",
+      "howToAvoid": "Never follow strangers to bars. Check prices clearly before ordering. Stay in established, well-reviewed venues with visible pricing."
+    },
+    {
+      "name": "Foreign Currency Exchange",
+      "risk": "low",
+      "description": "Vendors occasionally give foreign coins that look similar to Japanese yen as change, particularly Korean 500 won coins.",
+      "howToAvoid": "Check your change carefully. Familiarize yourself with Japanese coin designs. Use currency exchange at banks or legitimate exchange counters."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "low",
+      "description": "Some taxi drivers or tour operators may overcharge tourists, especially those who don't speak Japanese.",
+      "howToAvoid": "Use metered taxis from official ranks. Book tours through reputable companies. Learn basic Japanese numbers to understand prices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sapporo is exceptionally safe for solo female travelers, with very low rates of harassment or violent crime. Women regularly walk alone at night, and public transportation is safe and reliable. The Japanese culture of respect and politeness creates a welcoming environment, though basic awareness is still recommended in entertainment districts.",
+    "tips": [
+      "Women-only train cars are available during rush hours for added comfort and security",
+      "Hotels and ryokan maintain high safety standards with secure key card access and 24-hour front desk services",
+      "Emergency numbers (110 for police, 119 for ambulance) have English-speaking operators available",
+      "Learn basic Japanese phrases for directions and help - locals are generally very helpful to lost tourists",
+      "Download offline maps and translation apps as backup for navigation and communication"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sapporo maintains excellent safety standards at night with well-lit streets, frequent police patrols, and active nightlife areas that remain secure. The Susukino district requires standard urban precautions but violent crime remains extremely rare. Public transportation runs until late with reliable safety measures.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially in entertainment districts",
+      "Use official taxi stands rather than hailing cabs on empty streets",
+      "Avoid excessive drinking and always watch your beverages to prevent drink spiking",
+      "Keep emergency contact information and hotel address written in Japanese",
+      "Public transportation stops running around midnight, so plan your return journey in advance"
+    ]
+  },
+  "transport": {
+    "metro": "Sapporo's subway system is exceptionally safe, clean, and efficient with three color-coded lines. Stations have English signage and announcements. Security cameras monitor all areas and staff patrol regularly. Crime on public transport is virtually non-existent.",
+    "rideshare": "Uber operates in Sapporo offering taxi services through licensed local operators. The service is reliable and safe with GPS tracking and cashless payments. Regular rideshare services like Lyft are not available.",
+    "taxis": "Taxis are very safe with professional, honest drivers. Doors open automatically and vehicles are well-maintained. Fares are regulated by the government. Most drivers don't speak English but are helpful and trustworthy. 20% surcharge applies between 10 PM and 5 AM.",
+    "tips": "Public transport runs on time and is extremely reliable. Keep noise levels low and phones on silent mode as per local etiquette. IC cards like Kitaca work on all transport types for convenient payment."
+  },
+  "customs": [
+    "Remove shoes when entering homes, ryokan, some restaurants, and temples. Look for shoe storage areas and provided slippers",
+    "Bow slightly when greeting people. A small head nod is sufficient for tourists. Handshakes are not common but acceptable",
+    "Say 'itadakimasu' before eating and 'gochisousama' after meals. Don't stick chopsticks upright in rice or pass food chopstick to chopstick",
+    "Keep conversations quiet on public transport. Phone calls are discouraged on trains and buses",
+    "Don't tip - it's not customary in Japan and can be considered rude. Service charges are included in bills where applicable",
+    "Cover tattoos when visiting onsen (hot springs) as many facilities don't allow visible tattoos",
+    "Be punctual for all appointments, reservations, and tours. Japanese culture highly values being on time"
+  ],
+  "health": {
+    "overview": "Japan has one of the world's best healthcare systems with excellent hospitals and medical facilities in Sapporo. Healthcare quality is very high with modern equipment and well-trained medical professionals. Several hospitals offer English-speaking staff and international patient services.",
+    "water": "Tap water throughout Sapporo is completely safe to drink and meets high quality standards. No water purification needed. Ice in restaurants and hotels is also safe.",
+    "vaccinations": "No special vaccinations required for Japan. Standard travel vaccinations (hepatitis A/B, typhoid) are recommended. Tick-borne encephalitis vaccination available for those planning extensive outdoor activities in rural Hokkaido.",
+    "altitude": "Sapporo is at sea level with no altitude concerns. Climate features very cold snowy winters (temperatures often below -5°C) and mild summers. Winter visitors should prepare for extreme cold, snow, and potential frostbite risks."
+  },
+  "emergency": {
+    "general": "110 (Police), 119 (Fire/Ambulance)",
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Tokyo: 03-3224-5000 (24-hour emergency line available). Sapporo US Consulate General: 011-641-1115 (business hours). American citizens can also contact 03-3224-5000 for after-hours emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Sapporo safe for tourists?",
+      "a": "Yes, extremely safe. Sapporo ranks among the world's safest cities with very low crime rates, excellent infrastructure, and a culture that emphasizes safety and respect for visitors."
+    },
+    {
+      "q": "Is Sapporo safe at night?",
+      "a": "Yes, very safe at night. Streets are well-lit, police patrol regularly, and violent crime is extremely rare. Standard urban precautions apply in entertainment districts like Susukino."
+    },
+    {
+      "q": "Is Sapporo safe for solo female travelers?",
+      "a": "Absolutely. Sapporo is one of the safest cities in the world for solo female travelers with very low harassment rates, women-only train cars, and a respectful culture."
+    },
+    {
+      "q": "What areas should I avoid in Sapporo?",
+      "a": "No areas are particularly dangerous, but exercise normal caution in entertainment districts like Susukino late at night. Some locals suggest being careful in parts of Shiraishi and Teine wards at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Sapporo?",
+      "a": "Very safe. Sapporo's public transport system is clean, reliable, and secure with virtually no crime. Staff are helpful and security cameras monitor all areas."
+    }
+  ],
+  "relatedCities": [
+    "tokyo",
+    "osaka",
+    "kyoto",
+    "hiroshima",
+    "sendai"
+  ],
+  "_city_id": "sapporo-japan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SapporoCity_Skylines2020.jpg/500px-SapporoCity_Skylines2020.jpg"
+}

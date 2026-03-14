@@ -1,0 +1,164 @@
+{
+  "slug": "seoul",
+  "name": "Seoul",
+  "country": "South Korea",
+  "countryCode": "KR",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.9,
+    "violentCrime": 9.2,
+    "scamRisk": 7.8,
+    "womensSafety": 8.6,
+    "nightSafety": 8.1,
+    "transport": 9.0,
+    "naturalHazards": 7.3
+  },
+  "summary": "Seoul is one of the world's safest major cities, ranking 7th globally in safety indices with exceptionally low violent crime rates and excellent infrastructure. The city offers outstanding public transport safety, strong law enforcement, and 24/7 surveillance, making it ideal for all types of travelers including solo female visitors.",
+  "quickVerdict": "Seoul stands out as an exceptionally safe destination for tourists. With violent crime being extremely rare, efficient emergency services, world-class public transportation, and a strong culture of safety, visitors can explore confidently day and night. While minor tourist scams exist around major attractions and some nightlife areas require basic caution, the overall risk level is very low. The city's extensive CCTV coverage, helpful locals, and responsive police make it one of Asia's most secure capitals.",
+  "neighborhoods": [
+    {
+      "name": "Myeongdong",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Seoul's premier shopping district with heavy police presence and constant foot traffic. Very safe for tourists day and night, though watch for overpriced cosmetics stores targeting foreigners."
+    },
+    {
+      "name": "Gangnam",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale business and entertainment district with excellent safety infrastructure. Well-lit streets and good security, though some exclusive clubs may have stricter entry policies."
+    },
+    {
+      "name": "Hongdae",
+      "score": 7.2,
+      "class": "safe",
+      "description": "University nightlife area that's generally safe but can get rowdy after midnight. Watch belongings in crowded bars and be cautious of very intoxicated individuals on weekends."
+    },
+    {
+      "name": "Itaewon",
+      "score": 7.0,
+      "class": "safe",
+      "description": "International district popular with foreigners and military personnel. Safe overall but has the highest concentration of tourist-targeted scams and occasional late-night disturbances."
+    },
+    {
+      "name": "Jongno-gu",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic district with some areas having higher homeless populations. Generally safe but less polished than other districts. Stick to main streets at night."
+    },
+    {
+      "name": "Yeongdeungpo",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Working-class district with slightly higher crime rates, though still very safe by international standards. Well-connected by transit but fewer tourist amenities."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Cosmetics Stores",
+      "risk": "medium",
+      "description": "Stores without price tags pressure tourists, especially in Myeongdong, selling products at 3x normal price",
+      "howToAvoid": "Shop at official brand stores like Olive Young or check prices online first. Walk away if no prices are displayed."
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "medium",
+      "description": "Some drivers near tourist areas like Myeongdong and Itaewon refuse to use meters or tamper with them",
+      "howToAvoid": "Use KakaoTaxi app for fixed fares, insist on meter use, or use official airport taxi services with set rates."
+    },
+    {
+      "name": "Fake Buddhist Monks",
+      "risk": "low",
+      "description": "Imposters near temples like Jogyesa ask for donations claiming to support charity but pocket the money",
+      "howToAvoid": "Real monks don't solicit on streets. Politely decline and use official temple donation boxes if you wish to donate."
+    },
+    {
+      "name": "Traditional Ceremony Scam",
+      "risk": "low",
+      "description": "Con artists approach tourists claiming deceased relatives need ceremonies, demanding payments of 1000 times your age in won",
+      "howToAvoid": "Ignore anyone approaching you about deceased relatives or traditional ceremonies. Koreans don't typically approach strangers on the street."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Seoul is exceptionally safe for solo female travelers, ranking among the world's safest cities for women. The combination of low crime rates, 24/7 surveillance, helpful locals, and excellent public transport makes it ideal for independent exploration. Most women report feeling completely safe walking alone at night in central areas.",
+    "tips": [
+      "Women-only subway cars are available during rush hours on some lines - look for pink signage",
+      "Download KakaoMap and Papago translator apps for navigation and communication",
+      "Avoid excessive drinking in nightlife areas like Hongdae where harassment can occur",
+      "Be aware of hidden camera issues (molka) - inspect hotel rooms and use bathroom stalls with doors that fully close"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Seoul's nightlife is generally very safe with excellent street lighting, constant foot traffic, and regular police patrols. The city truly never sleeps with 24/7 restaurants, convenience stores, and transport. However, exercise normal caution in party districts where alcohol-related incidents can occur.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially in Hongdae and Itaewon after midnight",
+      "Never accept drinks from strangers in clubs - drink spiking incidents have been reported",
+      "Use KakaoTaxi or official transport rather than unmarked vehicles late at night",
+      "Keep emergency numbers saved: 112 (police), 119 (ambulance), 1330 (tourist hotline)"
+    ]
+  },
+  "transport": {
+    "metro": "Seoul's subway system is world-class with extensive CCTV coverage, emergency buttons, and regular security patrols. Operating 5:30am-midnight with clear English signage. T-money cards work across all transport. Women-only cars available during rush hour.",
+    "rideshare": "KakaoTaxi is the primary rideshare app with fixed pricing and GPS tracking. Uber operates in major areas. All rides include driver details and route tracking for safety. Payment through app eliminates cash handling risks.",
+    "taxis": "Official taxis are generally honest and safe with visible meters and ID displays. Orange Seoul taxis are recommended. Avoid unmarked vehicles, especially near tourist areas where overcharging occurs. International taxis speak multiple languages.",
+    "tips": "Public transport is extremely safe and efficient. Download Citymapper or KakaoMap for navigation. Keep T-money card loaded for seamless travel. Rush hours are 7-9am and 6-8pm."
+  },
+  "customs": [
+    "Bow slightly when greeting and thanking people - depth shows respect level",
+    "Remove shoes when entering homes, temples, and some traditional restaurants",
+    "Use both hands when giving or receiving items, especially to elders",
+    "Don't stick chopsticks upright in rice - it resembles funeral rituals",
+    "Speak quietly on public transport and avoid eating strong-smelling foods"
+  ],
+  "health": {
+    "overview": "Seoul has excellent healthcare with world-class hospitals and medical facilities. Many major hospitals have international centers with English-speaking staff. Air quality can be poor due to pollution and seasonal dust storms from China.",
+    "water": "Tap water is safe to drink in Seoul though many locals prefer bottled or filtered water. Hotels and restaurants serve safe drinking water.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines (hepatitis A/B, typhoid) recommended. Seasonal flu shots advised during winter months.",
+    "altitude": "Seoul is at sea level. Climate is continental with hot humid summers, cold winters, and monsoon rains in summer. Air pollution masks recommended during high pollution days."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "1330 (Korea Tourism Hotline - 24/7 multilingual support)",
+    "usEmbassy": "US Embassy Seoul: +82-2-397-4114. Located at 188 Sejong-daero, Jongno-gu. Emergency services available 24/7 for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Seoul safe for tourists?",
+      "a": "Yes, Seoul is one of the world's safest major cities for tourists. Violent crime is extremely rare, infrastructure is excellent, and the city has comprehensive security systems including extensive CCTV coverage and responsive emergency services."
+    },
+    {
+      "q": "Is Seoul safe at night?",
+      "a": "Seoul is very safe at night with excellent lighting, 24/7 activity, and regular police patrols. Most areas remain active all night. Exercise normal caution in nightlife districts like Hongdae and Itaewon where alcohol-related incidents can occur."
+    },
+    {
+      "q": "Is Seoul safe for solo female travelers?",
+      "a": "Seoul is exceptionally safe for solo female travelers, ranking among the world's top cities for women's safety. Public transport has women-only cars, crime rates are very low, and locals are generally helpful and respectful."
+    },
+    {
+      "q": "What areas should I avoid in Seoul?",
+      "a": "Seoul has no truly dangerous areas, but exercise extra caution in Hongdae late at night due to drunk crowds, and be aware of tourist scams in Myeongdong and Itaewon. Yeongdeungpo and some parts of Jongno-gu are grittier but still safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Seoul?",
+      "a": "Seoul's public transport is extremely safe and efficient. The subway system has extensive security, clear English signage, and runs until midnight. Buses are also safe with CCTV and regulated operators. Use T-money card for convenient payment."
+    }
+  ],
+  "relatedCities": [
+    "tokyo",
+    "osaka",
+    "taipei",
+    "singapore",
+    "hong-kong"
+  ],
+  "_city_id": "seoul-south-korea",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/1280px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+}
