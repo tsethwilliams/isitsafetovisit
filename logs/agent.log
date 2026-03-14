@@ -1080,3 +1080,24 @@
 2026-03-13 23:07:09,261 [INFO] Merged into site data: Nara
 2026-03-13 23:07:09,298 [INFO] Merged 5 new cities into src/lib/city-data.json
 2026-03-13 23:07:09,299 [INFO] Updated sitemap with 5 new URLs
+2026-03-14 05:01:51,791 [INFO] Agent starting — mode: alert
+2026-03-14 05:01:51,862 [INFO] Checking alerts for 178 cities
+2026-03-14 05:02:38,702 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 05:02:38,747 [WARNING] ALERTS DETECTED: 17
+2026-03-14 05:02:38,747 [WARNING]   [critical] Tel Aviv: Ongoing U.S.-Israeli military operations against Iran. US and Israeli strikes have killed over 1,300 people in Iran. Iranian counter-attacks targeting Israel continue. Travel advisory Level 3 warning active.
+2026-03-14 05:02:38,750 [WARNING]   [medium] Antalya: Magnitude 5.3 earthquake struck 75km southeast of Samsun at 03:35 local time on March 13, 2026. Turkey experiences regular seismic activity. No immediate damage reports for tourist areas.
+2026-03-14 05:02:38,752 [WARNING]   [medium] Bodrum: Multiple earthquakes in Turkish coastal regions, including magnitude 3.3 earthquake in Aegean Sea near Marmaris on March 9. Ongoing seismic activity in earthquake-prone zone.
+2026-03-14 05:02:38,754 [WARNING]   [medium] Corfu: Magnitude 5.5 earthquake occurred 10km west of Ioánnina (Epirus) on March 8, 2026. Strongest earthquake in Greece in over 5 months. Aftershocks continuing in region.
+2026-03-14 05:02:38,756 [WARNING]   [medium] Mykonos: Magnitude 5.5 earthquake occurred 10km west of Ioánnina (Epirus) on March 8, 2026. Strongest earthquake in Greece in over 5 months. Aftershocks continuing in region.
+2026-03-14 05:02:38,758 [WARNING]   [high] Milan: Massive flight disruptions hit Italian airports on March 12, 2026. Milan-Malpensa and Milan-Linate severely affected with hundreds of cancellations. Staff shortages and weather issues cited as causes.
+2026-03-14 05:02:38,760 [WARNING]   [high] Venice: Venice Marco Polo Airport affected by widespread Italian aviation disruptions on March 12. Weather-related delays and staffing issues causing significant flight cancellations and delays.
+2026-03-14 05:02:38,762 [WARNING]   [high] Turin: Italian airports experiencing major disruptions on March 12, 2026. Turin affected by national aviation crisis with hundreds of flight cancellations across Italy.
+2026-03-14 05:02:38,764 [WARNING]   [high] Madrid: Madrid-Barajas Airport recorded 19 cancellations and 315 delays on March 10, 2026. Spain experiencing worst aviation week of 2026 with cascade effects from European strikes.
+2026-03-14 05:02:38,766 [WARNING]   [high] Barcelona: Barcelona-El Prat Airport severely impacted with 21 cancellations and 298 delays on March 10. Ongoing disruptions through March 12 with KLM and Ryanair most affected.
+2026-03-14 05:02:38,768 [WARNING]   [critical] Brussels: Brussels Airport experiencing massive disruptions due to nationwide Belgian strike on March 12, 2026. Security staff participation likely causing all departing flights to be cancelled.
+2026-03-14 05:02:38,770 [WARNING]   [critical] Ghent: Belgium nationwide transport strike on March 12, 2026 affecting all transport networks. Brussels Airport cancelling departing flights due to security staff participation in strike.
+2026-03-14 05:02:38,772 [WARNING]   [medium] Belfast: UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.
+2026-03-14 05:02:38,774 [WARNING]   [medium] Edinburgh: UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.
+2026-03-14 05:02:38,776 [WARNING]   [medium] Liverpool: UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.
+2026-03-14 05:02:38,778 [WARNING]   [high] Miami: FBI investigating shooting at Old Dominion University as terrorism on March 12, 2026. Former National Guard member with ISIS connections killed 1, injured 2 in ROTC classroom attack.
+2026-03-14 05:02:38,780 [WARNING]   [high] Honolulu: FBI investigating shooting at Old Dominion University as terrorism on March 12, 2026. Former National Guard member with ISIS connections killed 1, injured 2 in ROTC classroom attack.

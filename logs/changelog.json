@@ -1612,5 +1612,107 @@
     "action": "add",
     "city_id": "nara-japan",
     "details": "New city added with score 8.9"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.748608+00:00",
+    "action": "alert",
+    "city_id": "Tel Aviv",
+    "details": "{\"city_id\": \"Tel Aviv\", \"alert_type\": \"active_conflict\", \"severity\": \"critical\", \"summary\": \"Ongoing U.S.-Israeli military operations against Iran. US and Israeli strikes have killed over 1,300 people in Iran. Iranian counter-attacks targeting Israel continue. Travel advisory Level 3 warning active.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.750774+00:00",
+    "action": "alert",
+    "city_id": "Antalya",
+    "details": "{\"city_id\": \"Antalya\", \"alert_type\": \"earthquake\", \"severity\": \"medium\", \"summary\": \"Magnitude 5.3 earthquake struck 75km southeast of Samsun at 03:35 local time on March 13, 2026. Turkey experiences regular seismic activity. No immediate damage reports for tourist areas.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.752823+00:00",
+    "action": "alert",
+    "city_id": "Bodrum",
+    "details": "{\"city_id\": \"Bodrum\", \"alert_type\": \"earthquake\", \"severity\": \"medium\", \"summary\": \"Multiple earthquakes in Turkish coastal regions, including magnitude 3.3 earthquake in Aegean Sea near Marmaris on March 9. Ongoing seismic activity in earthquake-prone zone.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.754859+00:00",
+    "action": "alert",
+    "city_id": "Corfu",
+    "details": "{\"city_id\": \"Corfu\", \"alert_type\": \"earthquake\", \"severity\": \"medium\", \"summary\": \"Magnitude 5.5 earthquake occurred 10km west of Io\\u00e1nnina (Epirus) on March 8, 2026. Strongest earthquake in Greece in over 5 months. Aftershocks continuing in region.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.756862+00:00",
+    "action": "alert",
+    "city_id": "Mykonos",
+    "details": "{\"city_id\": \"Mykonos\", \"alert_type\": \"earthquake\", \"severity\": \"medium\", \"summary\": \"Magnitude 5.5 earthquake occurred 10km west of Io\\u00e1nnina (Epirus) on March 8, 2026. Strongest earthquake in Greece in over 5 months. Aftershocks continuing in region.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.758892+00:00",
+    "action": "alert",
+    "city_id": "Milan",
+    "details": "{\"city_id\": \"Milan\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Massive flight disruptions hit Italian airports on March 12, 2026. Milan-Malpensa and Milan-Linate severely affected with hundreds of cancellations. Staff shortages and weather issues cited as causes.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.760991+00:00",
+    "action": "alert",
+    "city_id": "Venice",
+    "details": "{\"city_id\": \"Venice\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Venice Marco Polo Airport affected by widespread Italian aviation disruptions on March 12. Weather-related delays and staffing issues causing significant flight cancellations and delays.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.763001+00:00",
+    "action": "alert",
+    "city_id": "Turin",
+    "details": "{\"city_id\": \"Turin\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Italian airports experiencing major disruptions on March 12, 2026. Turin affected by national aviation crisis with hundreds of flight cancellations across Italy.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.765000+00:00",
+    "action": "alert",
+    "city_id": "Madrid",
+    "details": "{\"city_id\": \"Madrid\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Madrid-Barajas Airport recorded 19 cancellations and 315 delays on March 10, 2026. Spain experiencing worst aviation week of 2026 with cascade effects from European strikes.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.767029+00:00",
+    "action": "alert",
+    "city_id": "Barcelona",
+    "details": "{\"city_id\": \"Barcelona\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Barcelona-El Prat Airport severely impacted with 21 cancellations and 298 delays on March 10. Ongoing disruptions through March 12 with KLM and Ryanair most affected.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.769055+00:00",
+    "action": "alert",
+    "city_id": "Brussels",
+    "details": "{\"city_id\": \"Brussels\", \"alert_type\": \"transport_disruption\", \"severity\": \"critical\", \"summary\": \"Brussels Airport experiencing massive disruptions due to nationwide Belgian strike on March 12, 2026. Security staff participation likely causing all departing flights to be cancelled.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.771115+00:00",
+    "action": "alert",
+    "city_id": "Ghent",
+    "details": "{\"city_id\": \"Ghent\", \"alert_type\": \"transport_disruption\", \"severity\": \"critical\", \"summary\": \"Belgium nationwide transport strike on March 12, 2026 affecting all transport networks. Brussels Airport cancelling departing flights due to security staff participation in strike.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.773193+00:00",
+    "action": "alert",
+    "city_id": "Belfast",
+    "details": "{\"city_id\": \"Belfast\", \"alert_type\": \"travel_authorization\", \"severity\": \"medium\", \"summary\": \"UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.775216+00:00",
+    "action": "alert",
+    "city_id": "Edinburgh",
+    "details": "{\"city_id\": \"Edinburgh\", \"alert_type\": \"travel_authorization\", \"severity\": \"medium\", \"summary\": \"UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.777246+00:00",
+    "action": "alert",
+    "city_id": "Liverpool",
+    "details": "{\"city_id\": \"Liverpool\", \"alert_type\": \"travel_authorization\", \"severity\": \"medium\", \"summary\": \"UK Electronic Travel Authorization (ETA) becomes strictly mandatory on February 25, 2026. Travelers from visa-exempt countries must obtain ETA before travel or risk entry denial.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.779289+00:00",
+    "action": "alert",
+    "city_id": "Miami",
+    "details": "{\"city_id\": \"Miami\", \"alert_type\": \"terrorism\", \"severity\": \"high\", \"summary\": \"FBI investigating shooting at Old Dominion University as terrorism on March 12, 2026. Former National Guard member with ISIS connections killed 1, injured 2 in ROTC classroom attack.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T05:02:38.781334+00:00",
+    "action": "alert",
+    "city_id": "Honolulu",
+    "details": "{\"city_id\": \"Honolulu\", \"alert_type\": \"terrorism\", \"severity\": \"high\", \"summary\": \"FBI investigating shooting at Old Dominion University as terrorism on March 12, 2026. Former National Guard member with ISIS connections killed 1, injured 2 in ROTC classroom attack.\", \"action\": \"add_incident\"}"
   }
 ]
