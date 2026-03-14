@@ -1210,3 +1210,51 @@
 2026-03-14 13:56:38,198 [INFO] Checking alerts for 185 cities
 2026-03-14 13:57:20,111 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-14 13:57:20,168 [INFO] No safety alerts detected
+2026-03-14 17:01:14,038 [INFO] Agent starting — mode: add
+2026-03-14 17:01:14,081 [INFO] Queue has 383 cities, adding 8
+2026-03-14 17:01:14,081 [INFO] Generating new city profile: Da Nang, Vietnam
+2026-03-14 17:03:09,311 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:03:09,498 [INFO] Found Wikipedia image for Da Nang
+2026-03-14 17:03:09,499 [INFO] Saved city data: da-nang-vietnam
+2026-03-14 17:03:09,501 [INFO] Generating new city profile: Hanoi, Vietnam
+2026-03-14 17:04:33,892 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:04:34,014 [INFO] Found Wikipedia image for Hanoi
+2026-03-14 17:04:34,015 [INFO] Saved city data: hanoi-vietnam
+2026-03-14 17:04:34,018 [INFO] Generating new city profile: Ho Chi Minh City, Vietnam
+2026-03-14 17:06:11,436 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:06:11,631 [INFO] Found Wikipedia image for Ho Chi Minh City
+2026-03-14 17:06:11,631 [INFO] Saved city data: ho-chi-minh-city-vietnam
+2026-03-14 17:06:11,634 [INFO] Generating new city profile: Kuala Lumpur, Malaysia
+2026-03-14 17:07:55,263 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:07:55,395 [INFO] Found Wikipedia image for Kuala Lumpur
+2026-03-14 17:07:55,396 [INFO] Saved city data: kuala-lumpur-malaysia
+2026-03-14 17:07:55,398 [INFO] Generating new city profile: Manila, Philippines
+2026-03-14 17:08:37,507 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:08:37,540 [ERROR] Claude returned empty text response
+2026-03-14 17:08:37,540 [ERROR] Failed to parse city data for Manila (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-14 17:08:37,540 [INFO] Retry 1/2 for Manila
+2026-03-14 17:10:30,136 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:10:30,251 [INFO] Found Wikipedia image for Manila
+2026-03-14 17:10:30,252 [INFO] Saved city data: manila-philippines
+2026-03-14 17:10:30,255 [INFO] Generating new city profile: Phnom Penh, Cambodia
+2026-03-14 17:12:02,386 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:12:02,515 [INFO] Found Wikipedia image for Phnom Penh
+2026-03-14 17:12:02,516 [INFO] Saved city data: phnom-penh-cambodia
+2026-03-14 17:12:02,518 [INFO] Generating new city profile: Siem Reap, Cambodia
+2026-03-14 17:13:37,989 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:13:38,155 [INFO] Found Wikipedia image for Siem Reap
+2026-03-14 17:13:38,156 [INFO] Saved city data: siem-reap-cambodia
+2026-03-14 17:13:38,158 [INFO] Generating new city profile: Dar es Salaam, Tanzania
+2026-03-14 17:15:12,356 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 17:15:12,510 [INFO] Found Wikipedia image for Dar es Salaam
+2026-03-14 17:15:12,511 [INFO] Saved city data: dar-es-salaam-tanzania
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Da Nang
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Hanoi
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Ho Chi Minh City
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Kuala Lumpur
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Manila
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Phnom Penh
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Siem Reap
+2026-03-14 17:15:12,536 [INFO] Merged into site data: Dar es Salaam
+2026-03-14 17:15:12,575 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-14 17:15:12,597 [INFO] Rebuilt sitemap with 283 URLs (190 cities, 87 countries, 6 static)

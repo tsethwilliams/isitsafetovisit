@@ -1,127 +1,165 @@
 {
-  "city_id": "hanoi-vietnam",
-  "city_name": "Hanoi",
+  "slug": "hanoi",
+  "name": "Hanoi",
   "country": "Vietnam",
-  "overall_safety_score": 0,
-  "last_updated": "2026-03-07T03:48:09.459916+00:00",
-  "auto_generated": true,
-  "human_reviewed": false,
-  "categories": {
-    "violent_crime": {
-      "score": 85,
-      "sub_scores": {
-        "murder_homicide": 90,
-        "assault": 82,
-        "armed_robbery": 78,
-        "sexual_assault": 75
-      }
+  "countryCode": "VN",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.8,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.3,
+    "naturalHazards": 8.8
+  },
+  "summary": "Hanoi is considered one of the safest destinations in Southeast Asia for tourists, ranking well below most major cities worldwide for crime. While petty theft and tourist scams exist, violent crime against foreigners is extremely rare, making it particularly safe for solo travelers including women.",
+  "quickVerdict": "Hanoi offers excellent safety for tourists with low violent crime rates and good infrastructure. The biggest concerns are petty theft (particularly motorbike bag snatching), tourist scams, and challenging traffic conditions. The US State Department gives Vietnam its lowest risk rating of Level 1, advising only normal precautions. With proper awareness and basic precautions, Hanoi provides a safe and rewarding travel experience for visitors of all backgrounds.",
+  "neighborhoods": [
+    {
+      "name": "Hoan Kiem District (Old Quarter)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The tourist heart of Hanoi with heavy police presence and constant foot traffic. While petty theft can occur due to crowds, it's very safe overall with excellent emergency response."
     },
-    "petty_crime": {
-      "score": 65,
-      "sub_scores": {
-        "pickpocketing": 60,
-        "bag_snatching": 58,
-        "theft_from_vehicle": 70,
-        "scams": 62
-      }
+    {
+      "name": "Ba Dinh District",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Home to government buildings and embassies, this area has exceptional security. Well-lit streets and regular police patrols make it one of the safest areas day and night."
     },
-    "political_stability": {
-      "score": 78,
-      "sub_scores": {
-        "civil_unrest": 82,
-        "terrorism": 85,
-        "government_stability": 75
-      }
+    {
+      "name": "Dong Da District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "A predominantly residential area popular with expats. Generally safe with good lighting and regular transport links, though more quiet at night than central areas."
     },
-    "health_safety": {
-      "score": 68,
-      "sub_scores": {
-        "healthcare_quality": 72,
-        "disease_risk": 65,
-        "air_quality": 55,
-        "water_safety": 70
-      }
+    {
+      "name": "Tay Ho (West Lake) District",
+      "score": 7.6,
+      "class": "safe",
+      "description": "Upscale expat area with international restaurants and hotels. Very safe during the day, though some lakeside areas can be poorly lit at night."
     },
-    "natural_disasters": {
-      "score": 58,
-      "sub_scores": {
-        "typhoons": 52,
-        "flooding": 48,
-        "earthquakes": 85,
-        "landslides": 60
-      }
+    {
+      "name": "Hai Ba Trung District",
+      "score": 6.9,
+      "class": "caution",
+      "description": "Mixed residential and commercial area that's generally safe but requires more caution at night. Some areas lack adequate street lighting and police presence."
     },
-    "transportation_safety": {
-      "score": 55,
-      "sub_scores": {
-        "road_safety": 45,
-        "public_transport": 60,
-        "taxi_safety": 58,
-        "airport_safety": 75
-      }
-    },
-    "women_safety": {
-      "score": 76,
-      "sub_scores": {
-        "solo_female_travel": 78,
-        "harassment": 73,
-        "nighttime_safety": 72,
-        "accommodation_safety": 82
-      }
-    },
-    "lgbtq_safety": {
-      "score": 70,
-      "sub_scores": {
-        "legal_protection": 65,
-        "social_acceptance": 72,
-        "discrimination_risk": 68,
-        "nightlife_safety": 75
-      }
+    {
+      "name": "Long Bien District",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Industrial area across the Red River with limited tourist infrastructure. While not dangerous, it requires extra caution due to poor lighting and fewer people around after dark."
     }
-  },
-  "content": {
-    "overview": "Hanoi, Vietnam's capital, is generally a safe destination for travelers with low violent crime rates and a stable political environment. The US State Department maintains a Level 1 travel advisory for Vietnam ('Exercise Normal Precautions'), indicating the country is among the safest for international travel. However, visitors should be aware of specific risks including petty crime, natural disasters, and traffic safety concerns.",
-    "government_advisory": "The US State Department currently maintains a Level 1 travel advisory for Vietnam, recommending travelers 'Exercise Normal Precautions.' This is the lowest level of travel advisory, indicating Vietnam is considered safe for tourism. The advisory notes standard precautions should be taken, particularly regarding motorbike taxi safety and general awareness of surroundings.",
-    "crime_analysis": "Violent crime against tourists in Hanoi is extremely rare. The city experiences low rates of murder, assault, and armed robbery compared to other major Asian cities. However, petty crime is more common, particularly targeting tourists. Motorbike snatching of bags and phones is a notable concern in busy areas like the Old Quarter. Pickpocketing occurs frequently in crowded tourist areas, markets, and on public transport. Scams targeting tourists are prevalent, including taxi meter fraud, overcharging at markets, and various tourist-specific schemes.",
-    "health_risks": "Healthcare quality varies significantly between public and private facilities. International-standard private hospitals in Hanoi offer excellent care with English-speaking staff, but can be expensive. Public healthcare is basic and often requires upfront payment. Common health risks include dengue fever (year-round risk), Japanese encephalitis, typhoid, and hepatitis A/B. Air quality is poor due to traffic pollution and industrial activity. Tap water is not safe for drinking; bottled water should be used. Food safety requires attention, particularly with street food vendors.",
-    "natural_disasters": "Hanoi faces significant seasonal weather risks. The typhoon season (May-November) brings heavy rainfall, flooding, and strong winds. In 2025, Hanoi experienced severe flooding from multiple typhoons, including record-breaking rainfall that overwhelmed drainage systems. Urban flooding is common during heavy rains, particularly in central districts. Climate change has increased the frequency and intensity of extreme weather events. Earthquake risk is low, but the region can experience minor tremors.",
-    "transportation": "Road safety is a major concern in Hanoi. Traffic accidents account for approximately 6,900 fatalities annually nationwide. The city has an estimated 8.5 million motorbikes, creating chaotic traffic conditions. Pedestrian safety requires constant vigilance when crossing streets. Grab (ride-hailing app) is generally safer and more reliable than traditional taxis. Official airport taxis and hotel-arranged transport are recommended over street taxis. Motorbike rentals are risky for inexperienced riders and require proper licensing.",
-    "women_safety": "Hanoi is generally safe for solo female travelers. Harassment and catcalling are less common than in many Western countries due to conservative cultural norms. Women travelers report feeling secure exploring during the day and in well-lit tourist areas at night. However, caution is advised in less touristy areas after dark. Sexual assault, while rare, has been reported, particularly involving unofficial transport services. Female-only accommodations are available and recommended for solo travelers.",
-    "lgbtq_safety": "Same-sex relationships are legal in Vietnam and have never been criminalized. The government removed same-sex marriage bans in 2015, though full legal recognition is not yet available. Social acceptance is growing, particularly among younger generations, with 65% supporting same-sex marriage according to 2023 surveys. LGBTQ+ travelers face minimal safety risks as tourists, though discretion is advised in conservative rural areas. Hanoi has gay-friendly venues and hosts pride events, though the scene is relatively low-key.",
-    "political_stability": "Vietnam maintains stable one-party rule under the Communist Party. Political stability is expected to continue, with peaceful transitions of leadership. Civil unrest is extremely rare, and protests are typically small and quickly contained. The government strictly controls political dissent, with over 170 people currently imprisoned for political activities. However, this primarily affects local activists rather than tourists. Terrorism risk is very low, with no significant threats targeting visitors.",
-    "emergency_contacts": "Police: 113 (24/7 nationwide)\nAmbulance: 115 (24/7 nationwide)\nFire Department: 114 (24/7 nationwide)\nSearch & Rescue: 112 (natural disasters)\nUS Embassy Hanoi: +84 24 3850 5000\nBritish Embassy: +84 24 3936 0500\nAustralian Embassy: +84 24 3774 0100\nTourist Hotline: 1900 1883\nDisaster Management: 1900 7877",
-    "practical_tips": "Use bottled water and eat at reputable establishments. Carry valuables in front-facing bags and avoid displaying expensive items. Use official taxi services or Grab app rather than street taxis. Stay in well-lit, populated areas at night, particularly in the Old Quarter. Be cautious of common scams including fake tours, overpriced services, and aggressive vendors. Purchase comprehensive travel insurance before arrival. Keep copies of important documents in multiple locations. Learn basic Vietnamese phrases for emergencies. Monitor weather forecasts during typhoon season and follow local evacuation orders if issued."
-  },
-  "data_sources": [
-    "US State Department Travel Advisories (2026)",
-    "Vietnam National Statistics (2025)",
-    "World Bank Political Stability Index (2023)",
-    "WHO Health Statistics (2025)",
-    "Vietnam Meteorological Service (2025)",
-    "Numbeo Crime Index (2025)",
-    "LGBTQ+ Rights Organizations (2025)",
-    "Solo Female Travel Reports (2025-2026)",
-    "Embassy Security Briefings (2025)"
   ],
-  "frequent_updates": [
-    "natural_disasters",
-    "health_risks",
-    "transportation",
-    "government_advisory"
+  "scams": [
+    {
+      "name": "Motorbike Bag Snatching",
+      "risk": "high",
+      "description": "Thieves on motorbikes snatch bags, phones, and cameras from pedestrians, especially in crowded tourist areas. They target tourists walking near roads or riding in cyclos.",
+      "howToAvoid": "Walk on inner sidewalks away from traffic, use bags with cut-proof straps, keep valuables secured across your body, and avoid displaying expensive items openly."
+    },
+    {
+      "name": "Fake Photography Services",
+      "risk": "medium",
+      "description": "Street vendors with fruit baskets or fake photography students approach tourists for photos, then demand payment for prints or claim you must buy the fruit they prepared during the photo.",
+      "howToAvoid": "Politely decline photo offers from strangers, ask for university ID if someone claims to be a student, and never agree to photos without confirming costs upfront."
+    },
+    {
+      "name": "Taxi and Transport Overcharging",
+      "risk": "medium",
+      "description": "Airport and tourist area taxi drivers quote inflated fixed fares or use rigged meters. Some lock passengers in to extort higher payments or take unnecessarily long routes.",
+      "howToAvoid": "Use official taxi stands, insist on meter use, check Grab app for fair prices, write down taxi details, and avoid taxis that approach you at airports."
+    },
+    {
+      "name": "Shoe Shine Pressure Scam",
+      "risk": "medium",
+      "description": "Aggressive shoe shiners approach tourists and begin cleaning shoes without permission, then demand payment 10 times higher than normal rates. Some may even remove shoes forcibly.",
+      "howToAvoid": "Keep walking when approached about shoes, firmly say no without stopping, avoid areas where you see multiple shoe shiners operating, and wear shoes in good condition."
+    }
   ],
-  "travel_seasons": {
-    "safest_months": [
-      "October",
-      "November",
-      "March",
-      "April"
-    ],
-    "risk_periods": [
-      "May-September (typhoon season)",
-      "December-February (pollution)"
-    ],
-    "special_considerations": "Typhoon season (May-November) significantly increases flooding and weather-related risks"
+  "soloFemale": {
+    "overview": "Hanoi is exceptionally safe for solo female travelers, ranking among the top destinations in Southeast Asia for women traveling alone. Vietnamese culture respects women, violent crime against tourists is extremely rare, and the city has good infrastructure for independent travel. Local women are empowered and often run businesses, creating a supportive environment for female visitors.",
+    "tips": [
+      "Stay in well-reviewed hostels in the Old Quarter or Ba Dinh areas with female-only dorms for safety and social opportunities",
+      "Use reputable taxi companies like Mai Linh or Grab app rather than street taxis, especially from airports and tourist areas",
+      "Dress modestly when visiting temples or rural areas by covering shoulders and knees to show cultural respect",
+      "Be aware of motorbike bag snatchers by keeping bags across your body and walking away from traffic on inner sidewalks",
+      "Trust your instincts and politely decline overly friendly strangers who approach you in tourist areas"
+    ]
   },
-  "safety_tier": "high_risk",
-  "trending": "stable"
+  "nightSafety": {
+    "overview": "Hanoi is generally safe at night, especially in tourist areas like the Old Quarter and around Hoan Kiem Lake where activity continues late. Street lighting is good in central areas, and police presence is visible. However, some residential areas and outer districts have poor lighting and fewer people around after 11 PM.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas like the Old Quarter when walking at night",
+      "Use Grab or reputable taxi companies rather than walking long distances in unfamiliar areas after dark",
+      "Avoid excessive alcohol consumption and stay with groups when visiting bars or night markets",
+      "Keep emergency numbers saved and ensure your phone is charged for transportation apps and communication",
+      "Be extra cautious of motorbike traffic at night when visibility is reduced and some drivers may have been drinking"
+    ]
+  },
+  "transport": {
+    "metro": "Hanoi's metro system is modern, clean, and very safe with security cameras and regular police presence. Line 2A connects central areas and is reliable for tourists. Stations have English signage and announcements.",
+    "rideshare": "Grab is widely available, safe, and reliable with fixed pricing and driver tracking. Much safer than street taxis and helps avoid overcharging scams. Drivers are generally professional and vehicles are in good condition.",
+    "taxis": "Use only reputable companies like Mai Linh, Vinasun, or Hanoi Taxi Group. Avoid taxis that approach you at airports or tourist sites. Insist on meter use and check routes on your phone to prevent overcharging.",
+    "tips": "Avoid xe om (motorcycle taxis) unless through official apps, as unlicensed drivers pose safety risks. The US State Department specifically warns against using unregulated motorcycle taxis due to poor safety equipment and unscrupulous operators."
+  },
+  "customs": [
+    "Remove shoes when entering homes, temples, and some businesses - look for shoe racks or other shoes outside as indicators",
+    "Show respect to elders by greeting them first and using appropriate titles like 'Ong' (sir) and 'Ba' (madam)",
+    "Use both hands when giving or receiving items like business cards, money, or gifts to show respect",
+    "Dress modestly in temples and rural areas by covering shoulders and knees - carry a light scarf for temple visits",
+    "Avoid pointing with your feet or index finger - use your whole hand to gesture toward people or objects",
+    "Keep public displays of affection minimal as Vietnamese culture values modesty in relationships"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Hanoi varies significantly between public and private facilities. Private international hospitals offer Western-standard care with English-speaking staff, while public hospitals may lack resources and language support. Most common health issues for tourists include respiratory problems from air pollution and gastrointestinal issues from food/water.",
+    "water": "Tap water is not safe for drinking. Use bottled water for drinking and brushing teeth. Avoid ice in drinks unless at reputable establishments. Be cautious with fresh fruits and vegetables that may have been washed with tap water.",
+    "vaccinations": "No vaccinations are required for entry, but hepatitis A and B are recommended. Japanese encephalitis is only recommended for extended rural stays. Ensure routine vaccinations like measles and tetanus are up to date.",
+    "altitude": "Hanoi is at sea level with a humid subtropical climate. Air pollution is a major concern, especially for those with respiratory conditions. Monitor air quality apps and limit outdoor activities during high pollution days."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Hanoi: 7 Lang Ha Street, Ba Dinh District, Tel: +84 24 3850 5000. Emergency American Citizen Services available 24/7."
+  },
+  "faq": [
+    {
+      "q": "Is Hanoi safe for tourists?",
+      "a": "Yes, Hanoi is very safe for tourists. It has low violent crime rates and ranks among the safest cities in Southeast Asia. The US State Department gives Vietnam its lowest risk Level 1 rating. Main concerns are petty theft and tourist scams, which can be avoided with basic precautions."
+    },
+    {
+      "q": "Is Hanoi safe at night?",
+      "a": "Hanoi is generally safe at night, especially in tourist areas like the Old Quarter which remain active late. Central areas have good lighting and police presence. However, avoid poorly lit outer districts and excessive drinking, and use official transport rather than walking long distances after dark."
+    },
+    {
+      "q": "Is Hanoi safe for solo female travelers?",
+      "a": "Yes, Hanoi is excellent for solo female travelers and ranks as one of the safest destinations in Southeast Asia for women. Vietnamese culture respects women, violent crime is extremely rare, and the infrastructure supports independent travel. Use common sense precautions and stay in tourist areas."
+    },
+    {
+      "q": "What areas should I avoid in Hanoi?",
+      "a": "There are no outright dangerous areas, but exercise more caution in outer districts like Long Bien at night due to poor lighting and fewer people. Some parts of Hai Ba Trung can be quiet after dark. Stick to central tourist areas like Old Quarter and Ba Dinh for maximum safety."
+    },
+    {
+      "q": "Is it safe to use public transport in Hanoi?",
+      "a": "Yes, public transport is generally safe. The metro is modern and secure with good security measures. Use Grab app for rideshare services rather than street taxis. Avoid unlicensed motorcycle taxis (xe om) as they lack proper safety equipment and regulation."
+    }
+  ],
+  "relatedCities": [
+    "ho-chi-minh-city",
+    "da-nang",
+    "hoi-an"
+  ],
+  "_city_id": "hanoi-vietnam",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/1280px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg"
 }

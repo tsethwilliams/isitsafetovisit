@@ -1,0 +1,169 @@
+{
+  "slug": "ho-chi-minh-city",
+  "name": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "countryCode": "VN",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 6.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.8,
+    "violentCrime": 8.2,
+    "scamRisk": 4.5,
+    "womensSafety": 7.1,
+    "nightSafety": 6.5,
+    "transport": 6.8,
+    "naturalHazards": 6.4
+  },
+  "summary": "Ho Chi Minh City is generally safe for tourists with very low violent crime rates against foreigners, though petty theft and motorbike snatching are common concerns. The US State Department maintains a Level 1 'Exercise Normal Precautions' advisory for Vietnam. While traffic chaos and occasional scams require vigilance, the city ranks among Southeast Asia's safer destinations with good tourism infrastructure and helpful locals.",
+  "quickVerdict": "Ho Chi Minh City is a vibrant, largely safe destination where violent crime against tourists is extremely rare. The main safety concerns are opportunistic theft (especially phone snatching by motorbike), traffic navigation, and tourist-targeted scams. With basic street smarts and awareness of common scams like rigged taxi meters and overpriced street vendors, visitors can explore confidently. The city has solid healthcare infrastructure, helpful locals, and strong police presence in tourist areas.",
+  "neighborhoods": [
+    {
+      "name": "District 1 (Ben Thanh Ward)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The main tourist district with high police presence, well-lit streets, and numerous hotels. Close to major attractions like Independence Palace and War Remnants Museum. Very walkable with good infrastructure and plenty of legitimate taxis and Grab pickups."
+    },
+    {
+      "name": "District 3 (Ben Nghe Ward)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Central area with mix of business and residential, generally safe for tourists. Good restaurant scene and cultural sites. Well-connected to other districts with reliable transport options and decent nighttime lighting."
+    },
+    {
+      "name": "District 7 (Phu My Hung)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern planned district popular with expats and tourists. Clean, well-developed area with international hospitals, shopping malls, and upscale accommodation. Slightly removed from city center but very safe day and night."
+    },
+    {
+      "name": "District 4",
+      "score": 5.9,
+      "class": "caution",
+      "description": "Working-class area that can be rough after dark. Higher crime rates and fewer tourist amenities. While not dangerous during the day, solo travelers should exercise extra caution at night and avoid poorly lit areas."
+    },
+    {
+      "name": "District 8",
+      "score": 5.2,
+      "class": "caution",
+      "description": "One of the poorest districts frequently affected by flooding. Higher petty crime rates and limited tourist infrastructure. During flood season, regular inundation makes navigation difficult and increases safety risks."
+    },
+    {
+      "name": "Tan Son Nhat Airport Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Generally safe transit area but watch for fake taxi drivers and airport scams. Stick to official taxi companies like Mai Linh or Vinasun, or use Grab app. Late night arrivals should pre-book accommodation and transport."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Motorbike Phone Snatching",
+      "risk": "high",
+      "description": "Thieves on motorbikes snatch phones from pedestrians near traffic areas, especially in District 1 around Ben Thanh Market and busy streets.",
+      "howToAvoid": "Hold phones securely away from street side, use crossbody bags, avoid using phones near curbs. When taking photos, step away from traffic."
+    },
+    {
+      "name": "Rigged Taxi Meters",
+      "risk": "medium",
+      "description": "Unscrupulous taxi drivers use modified meters that run fast or quote prices in USD instead of VND. Some fake taxi companies impersonate legitimate ones.",
+      "howToAvoid": "Use only Mai Linh, Vinasun, or Grab app. Check meter is running and starts at correct rate. Agree on currency (VND) upfront."
+    },
+    {
+      "name": "Cyclo Overcharging",
+      "risk": "medium",
+      "description": "Pedicab drivers quote low prices but demand much higher payment at the end, claiming price was per person or adding 'waiting time' fees.",
+      "howToAvoid": "Negotiate total price clearly before starting. Clarify if price is per person or group. Book through reputable operators rather than street touts."
+    },
+    {
+      "name": "Street Vendor Photo Scam",
+      "risk": "medium",
+      "description": "Coconut sellers and street vendors offer free photos with props then demand payment for the 'experience' or opened coconuts.",
+      "howToAvoid": "Politely refuse unsolicited photo offers. If you want coconut, negotiate price beforehand and be clear about what you're purchasing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Ho Chi Minh City is relatively safe for solo female travelers with many women reporting positive experiences. The main concerns are petty theft and navigating chaotic traffic rather than harassment or assault. Tourist areas are well-patrolled and locals are generally helpful, though basic precautions are essential especially at night.",
+    "tips": [
+      "Stay in well-lit central areas like District 1",
+      "Use Grab or official taxis rather than street transport",
+      "Carry bags cross-body and away from street side",
+      "Avoid walking alone in poorly lit areas after dark",
+      "Book accommodation with good reviews from other solo female travelers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Ho Chi Minh City has active nightlife and is generally safe after dark in tourist areas, though petty crime risk increases at night. Well-lit districts with good foot traffic are safest, while quieter areas and certain districts should be avoided. Police presence is strong in nightlife zones.",
+    "tips": [
+      "Stick to busy, well-lit areas like Nguyen Hue Walking Street",
+      "Use Grab or official taxis for late-night transport",
+      "Travel in groups when possible in nightlife areas",
+      "Avoid District 4 and outer areas after dark",
+      "Don't flash valuables or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "Limited metro system with Line 1 operational but still expanding. Clean and safe when running but coverage is limited. Most tourists rely on other transport methods.",
+    "rideshare": "Grab is widely available, reliable, and safe. Shows upfront pricing and driver details. Both car and motorbike options available. Recommended over street taxis.",
+    "taxis": "Official companies Mai Linh and Vinasun are safe with metered fares. Avoid unmarked taxis and those without meters. Airport taxis are legitimate but more expensive than Grab.",
+    "tips": "Grab app is your best bet for reliable transport. For taxis, use only branded companies with meters. Avoid xe om (motorbike taxis) unless through Grab."
+  },
+  "customs": [
+    "Greet with 'xin chào' and a slight bow or nod to show respect",
+    "Remove shoes when entering temples, pagodas, and some homes",
+    "Dress modestly covering shoulders and knees, especially at religious sites",
+    "Don't point with index finger - use open hand instead",
+    "Avoid touching people's heads and pointing feet at religious statues",
+    "Wait for eldest person to start eating before beginning meals",
+    "Use both hands when giving or receiving business cards or gifts",
+    "Don't stick chopsticks upright in rice bowl - resembles funeral incense"
+  ],
+  "health": {
+    "overview": "Ho Chi Minh City has good private healthcare facilities for tourists, though public hospitals may have language barriers and basic conditions. Private international hospitals like FV Hospital provide Western-standard care with English-speaking staff.",
+    "water": "Don't drink tap water. Use bottled water for drinking and brushing teeth. Be cautious with ice in street drinks. Stick to busy food stalls with high turnover for safer street food.",
+    "vaccinations": "No special vaccinations required, but ensure routine vaccines are up-to-date. Consider hepatitis A/B and typhoid for extended stays. Dengue fever risk exists year-round - use mosquito repellent.",
+    "altitude": "Sea level city with hot, humid tropical climate. Rainy season June-November with heavy flooding possible. Air pollution can be problematic for those with respiratory issues."
+  },
+  "emergency": {
+    "general": "113",
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Ho Chi Minh City: +84 28 3520 4200. For US citizens emergencies: +84 24 3850 5000. Located at 4 Le Duan Boulevard, District 1."
+  },
+  "faq": [
+    {
+      "q": "Is Ho Chi Minh City safe for tourists?",
+      "a": "Yes, Ho Chi Minh City is generally safe for tourists. Vietnam has a Level 1 US State Department advisory. Violent crime against foreigners is extremely rare, though petty theft and scams do occur. Basic precautions and street awareness will ensure a safe visit."
+    },
+    {
+      "q": "Is Ho Chi Minh City safe at night?",
+      "a": "The city is relatively safe at night in tourist areas like District 1, with active nightlife and police presence. Stick to well-lit, busy areas and use Grab or official taxis for transport. Avoid quieter districts and poorly lit areas after dark."
+    },
+    {
+      "q": "Is Ho Chi Minh City safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit safely. Main concerns are petty theft rather than harassment. Stay in central areas, use reputable transport, carry bags securely, and avoid walking alone at night in quiet areas."
+    },
+    {
+      "q": "What areas should I avoid in Ho Chi Minh City?",
+      "a": "Districts 4 and 8 have higher crime rates and should be avoided at night. During flood season (June-November), low-lying areas become difficult to navigate. Always avoid poorly lit streets and alleys after dark regardless of district."
+    },
+    {
+      "q": "Is it safe to use public transport in Ho Chi Minh City?",
+      "a": "The limited metro system is safe but coverage is minimal. Grab rideshare is the safest option. For taxis, use only Mai Linh or Vinasun companies. Avoid unmarked taxis and xe om motorbike taxis unless booked through Grab."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "kuala-lumpur",
+    "singapore",
+    "jakarta",
+    "phnom-penh"
+  ],
+  "_city_id": "ho-chi-minh-city-vietnam",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg/1280px-Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg"
+}

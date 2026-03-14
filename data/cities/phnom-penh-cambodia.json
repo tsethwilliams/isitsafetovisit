@@ -1,0 +1,166 @@
+{
+  "slug": "phnom-penh",
+  "name": "Phnom Penh",
+  "country": "Cambodia",
+  "countryCode": "KH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 5.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 6.5,
+    "scamRisk": 3.0,
+    "womensSafety": 5.5,
+    "nightSafety": 5.0,
+    "transport": 6.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Phnom Penh is Cambodia's vibrant capital with significant cultural attractions, but visitors should be aware of elevated petty crime rates including bag snatching and pickpocketing, particularly around tourist areas. While violent crime against tourists is relatively uncommon, the city faces challenges with large-scale scam operations and requires heightened awareness.",
+  "quickVerdict": "Phnom Penh offers rewarding cultural experiences for travelers willing to take reasonable precautions. The city is generally safe during daylight hours in tourist areas, but petty crime is a persistent concern. Street crime including phone and bag snatching occurs frequently, especially near popular tourist sites. Large-scale cyber scam operations exist but primarily target local workers rather than tourists. Solo female travelers can visit safely with proper awareness, though extra caution is advised at night.",
+  "neighborhoods": [
+    {
+      "name": "BKK1",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The expat district with international restaurants, trendy cafes, and the highest safety standards. English is widely spoken and this area has the best security infrastructure."
+    },
+    {
+      "name": "Daun Penh (Central)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic center around Royal Palace and Central Market. Generally safe during day but can be crowded. Good police presence near major attractions."
+    },
+    {
+      "name": "Chamkar Mon",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with local markets. Relatively safe but requires basic street awareness, especially at night."
+    },
+    {
+      "name": "Riverside (Sisowath Quay)",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Main tourist strip with river views and restaurants. Safe during day but has elevated petty crime rates after dark. Use tuk-tuks at night."
+    },
+    {
+      "name": "Tuol Kork",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Rapidly developing area with new shopping centers. Generally safe but can be isolated at night. Mixed reports on safety standards."
+    },
+    {
+      "name": "Por Sen Chey",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Industrial area with higher crime rates including more serious incidents. Not recommended for tourists, especially after dark or alone."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bag/Phone Snatching",
+      "risk": "high",
+      "description": "Motorcycle riders grab phones, bags, and cameras from pedestrians, especially near tourist areas. Often involves multiple motorcycles working together.",
+      "howToAvoid": "Keep bags away from street side, don't use phones near roads, secure items in front pockets, avoid displaying expensive electronics."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "high",
+      "description": "Devices attached to ATMs record card data and PIN numbers. Fake money from ATMs is also reported.",
+      "howToAvoid": "Use ATMs in banks or hotels, check for unusual attachments, cover PIN entry, verify money immediately with camera or teller present."
+    },
+    {
+      "name": "Fake Monks",
+      "risk": "medium",
+      "description": "People dressed as monks selling bracelets or asking for donations at Riverside and tourist sites. Not genuine religious practitioners.",
+      "howToAvoid": "Remember real monks don't sell items or aggressively approach tourists. Politely decline and walk away."
+    },
+    {
+      "name": "Motorbike Rental Theft",
+      "risk": "medium",
+      "description": "After renting, someone with duplicate keys steals the bike while you're sightseeing. Rental place then demands full replacement cost.",
+      "howToAvoid": "Use only reputable rental companies with good reviews, take photos of bike condition, consider GPS tracking, avoid leaving bike unattended long periods."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Phnom Penh is generally manageable for solo female travelers during daylight hours, with many women reporting positive experiences. However, extra vigilance is required due to petty crime risks. The city has an active expat community and good accommodation options for solo travelers, particularly in areas like BKK1.",
+    "tips": [
+      "Stay in well-reviewed accommodations in BKK1 or central areas with 24-hour reception",
+      "Avoid walking alone after dark, especially in Riverside area and quiet streets",
+      "Keep bags secured and away from street side when walking or in tuk-tuks",
+      "Use trusted taxi services or Grab app rather than flagging random tuk-tuks",
+      "Connect with other travelers at hostels or expat cafes for safety and companionship"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Phnom Penh requires significant caution, particularly around tourist areas where petty crime increases after dark. The Riverside area, while popular with restaurants and bars, has elevated theft rates at night. Most entertainment venues close relatively early, and transportation options become more limited.",
+    "tips": [
+      "Use trusted transportation like Grab or hotel-arranged taxis after dark",
+      "Stay in groups when possible and avoid isolated areas and unlit streets",
+      "Keep minimal valuables when going out and secure phones with straps or lanyards",
+      "Choose restaurants and bars with good lighting and security presence",
+      "Return to accommodations before very late hours when streets become more deserted"
+    ]
+  },
+  "transport": {
+    "metro": "Phnom Penh has no metro system. Transportation relies on road-based options including buses, tuk-tuks, taxis and ride-sharing services.",
+    "rideshare": "Grab is the primary ride-sharing app and generally safe and reliable. Prices are fixed upfront and drivers are tracked. However, drivers may be restricted from certain pickup points due to local taxi monopolies.",
+    "taxis": "Traditional taxis exist but many don't use meters and overcharge tourists. Hotel-arranged taxis are more reliable. Airport taxis often operate at fixed rates but negotiate beforehand.",
+    "tips": "Public buses are available but can be crowded and confusing for tourists. Tuk-tuks are convenient but agree on prices beforehand. For safety, especially at night, stick to Grab or hotel-recommended drivers rather than street taxis."
+  },
+  "customs": [
+    "Dress modestly at temples covering shoulders and knees, remove shoes before entering",
+    "The traditional greeting is Sampeah - press palms together and bow slightly",
+    "Never touch someone's head or point feet at people or Buddha images",
+    "Remove hats and sunglasses when meeting locals or entering homes",
+    "Tipping is not required but small amounts are appreciated for good service"
+  ],
+  "health": {
+    "overview": "Healthcare in Phnom Penh is adequate for basic needs with several international standard hospitals and clinics. The majority of medical professionals are concentrated in the capital. Health insurance including evacuation coverage is essential as medical costs can be high and payment is expected in cash.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Ice in reputable establishments is usually safe but avoid in local venues.",
+    "vaccinations": "Routine vaccines should be up to date. Hepatitis A, Hepatitis B, and Japanese Encephalitis are recommended. Malaria risk is minimal in Phnom Penh itself but exists in rural areas.",
+    "altitude": "Phnom Penh is at sea level so no altitude concerns. Climate is tropical and humid year-round with monsoon season from May-October bringing heavy rains and potential flooding."
+  },
+  "emergency": {
+    "general": "117",
+    "police": "117",
+    "ambulance": "119",
+    "fire": "118",
+    "touristPolice": "012 942 484 / 097 778 0002",
+    "usEmbassy": "US Embassy Phnom Penh, #1 Street 96, corner Street 51, Phnom Penh. Phone: +855 23 728 000. Emergency after hours: +855 23 728 110"
+  },
+  "faq": [
+    {
+      "q": "Is Phnom Penh safe for tourists?",
+      "a": "Phnom Penh is moderately safe for tourists who take reasonable precautions. Violent crime against tourists is uncommon, but petty crime like bag snatching and pickpocketing is frequent, especially in tourist areas. Stay alert and secure your belongings."
+    },
+    {
+      "q": "Is Phnom Penh safe at night?",
+      "a": "Nighttime requires extra caution in Phnom Penh. The Riverside area and tourist zones have elevated crime rates after dark. Use trusted transportation, travel in groups when possible, and avoid walking alone on quiet or poorly lit streets."
+    },
+    {
+      "q": "Is Phnom Penh safe for solo female travelers?",
+      "a": "Solo female travelers can visit Phnom Penh safely with proper precautions. Stay in reputable accommodations in safer areas like BKK1, avoid walking alone at night, and be extra vigilant with belongings. Many solo female travelers have positive experiences."
+    },
+    {
+      "q": "What areas should I avoid in Phnom Penh?",
+      "a": "Avoid Por Sen Chey district which has higher crime rates. Exercise caution in Riverside area after dark, around Wat Phnom at night, and in any isolated or poorly lit areas. The area around the old airport can also be problematic."
+    },
+    {
+      "q": "Is it safe to use public transport in Phnom Penh?",
+      "a": "Public buses exist but can be crowded and confusing. Grab ride-sharing is safe and convenient. Traditional taxis often don't use meters, so negotiate prices or use hotel-arranged transport. Tuk-tuks are popular but secure belongings and agree on fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "ho-chi-minh-city",
+    "siem-reap",
+    "vientiane",
+    "kuala-lumpur"
+  ],
+  "_city_id": "phnom-penh-cambodia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg/1280px-Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg"
+}

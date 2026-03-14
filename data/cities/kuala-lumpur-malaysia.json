@@ -1,274 +1,164 @@
 {
-  "city_id": "kuala-lumpur-malaysia",
-  "city_name": "Kuala Lumpur",
+  "slug": "kuala-lumpur",
+  "name": "Kuala Lumpur",
   "country": "Malaysia",
-  "overall_safety_score": 0,
-  "last_updated": "2026-03-07T03:51:22.015590+00:00",
-  "data_sources": {
-    "government_advisories": {
-      "us_state_department": {
-        "level": 1,
-        "title": "Exercise Normal Precautions",
-        "last_updated": "2026-02-22",
-        "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malaysia-travel-advisory.html"
-      }
-    },
-    "crime_data": {
-      "numbeo_crime_index": {
-        "score": 59.11,
-        "safety_index": 40.89,
-        "last_updated": "2026"
-      },
-      "malaysia_crime_statistics": {
-        "total_cases_2024": 58255,
-        "increase_from_2023": "11.1%",
-        "property_crimes": 47188,
-        "violent_crimes": 11067
-      }
-    },
-    "healthcare_rankings": {
-      "newsweek_world_best_hospitals_2025": "Multiple KL hospitals ranked globally",
-      "malaysia_healthcare_index": "95/100 (2019 Global Retirement Index)"
-    }
+  "countryCode": "MY",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 7.1
   },
-  "score_breakdown": {
-    "petty_crime": {
-      "score": 55,
-      "description": "Moderate risk of pickpocketing, bag snatching, and phone theft, especially in tourist areas and on public transport"
-    },
-    "violent_crime": {
-      "score": 75,
-      "description": "Low violent crime rate with rare incidents affecting tourists"
-    },
-    "scams_fraud": {
-      "score": 60,
-      "description": "Common tourist scams including overcharging, fake tours, and romance scams"
-    },
-    "transport_safety": {
-      "score": 72,
-      "description": "Generally safe public transport with some concerns about unofficial taxis"
-    },
-    "health_medical": {
-      "score": 85,
-      "description": "Excellent healthcare facilities with world-class hospitals and medical tourism infrastructure"
-    },
-    "natural_disasters": {
-      "score": 65,
-      "description": "Moderate flood risk during monsoon season, low earthquake and tsunami risk"
-    },
-    "political_stability": {
-      "score": 67,
-      "description": "Generally stable with some political tensions and coalition challenges"
-    },
-    "lgbtq_safety": {
-      "score": 25,
-      "description": "Illegal status with active enforcement and societal discrimination"
-    },
-    "female_solo_safety": {
-      "score": 75,
-      "description": "Generally safe for solo female travelers with standard precautions"
-    },
-    "nightlife_safety": {
-      "score": 70,
-      "description": "Safe nightlife scene with precautions needed for late-night activities"
-    }
-  },
-  "neighborhood_safety": {
-    "safest_areas": [
-      {
-        "name": "KLCC (Kuala Lumpur City Centre)",
-        "safety_score": 85,
-        "description": "Well-patrolled tourist area with modern infrastructure and security"
-      },
-      {
-        "name": "Mont Kiara",
-        "safety_score": 80,
-        "description": "Upscale expat area with good security and low crime rates"
-      },
-      {
-        "name": "Bangsar",
-        "safety_score": 78,
-        "description": "Popular expat neighborhood with good security and nightlife"
-      }
-    ],
-    "areas_to_avoid": [
-      {
-        "name": "Chow Kit",
-        "safety_score": 45,
-        "description": "Higher crime rates, especially at night; drug-related activities"
-      },
-      {
-        "name": "Pudu",
-        "safety_score": 50,
-        "description": "Some areas can be unsafe after dark; increased vigilance needed"
-      }
-    ]
-  },
-  "transportation": {
-    "public_transport_safety": 72,
-    "taxi_safety": 68,
-    "rideshare_safety": 80,
-    "walking_safety": 65,
-    "driving_safety": 70,
-    "notes": "LRT/MRT systems are safe and efficient. Use Grab instead of street taxis. Walking can be challenging due to limited pedestrian infrastructure."
-  },
-  "health_safety": {
-    "healthcare_quality": 85,
-    "common_health_risks": [
-      "Dengue fever",
-      "Food poisoning from street food",
-      "Heat exhaustion",
-      "Air pollution during haze season"
-    ],
-    "vaccination_requirements": [
-      "Routine vaccinations up to date",
-      "Hepatitis A and B recommended",
-      "Japanese Encephalitis for rural areas",
-      "Malaria prophylaxis not needed for KL"
-    ],
-    "top_hospitals": [
-      {
-        "name": "Gleneagles Hospital Kuala Lumpur",
-        "rating": "Top 3 in Malaysia, Global ranking in Newsweek 2025"
-      },
-      {
-        "name": "Prince Court Medical Centre",
-        "rating": "5-star hospital, World's Best Hospitals 2025"
-      },
-      {
-        "name": "Pantai Hospital Kuala Lumpur",
-        "rating": "50 years of service, 507 beds, 200+ specialists"
-      }
-    ]
-  },
-  "natural_risks": {
-    "flood_risk": {
-      "level": "Moderate to High",
-      "season": "October to March (monsoon season)",
-      "description": "Flash floods common during heavy rains, especially in low-lying areas"
-    },
-    "earthquake_risk": {
-      "level": "Low",
-      "description": "2% chance of damaging earthquake in next 50 years"
-    },
-    "other_risks": [
-      "Haze from forest fires (seasonal)",
-      "Minor landslides in hilly areas during heavy rain",
-      "Extreme heat and humidity"
-    ]
-  },
-  "crime_hotspots": [
+  "summary": "Kuala Lumpur is one of Southeast Asia's safest major cities for tourists, with low violent crime rates and well-developed infrastructure. The US State Department maintains a Level 1 travel advisory rating for Malaysia, indicating normal precautions are sufficient. While petty theft and tourist scams exist, they are manageable with standard urban safety practices.",
+  "quickVerdict": "Kuala Lumpur ranks among the safest major cities in Southeast Asia for visitors. The city has excellent healthcare facilities, reliable public transportation, and a strong police presence in tourist areas. While petty crimes like phone snatching and tourist overcharging occur, violent crime against foreigners is rare. Solo travelers, including women, generally feel comfortable exploring during daytime and early evening hours in main tourist districts.",
+  "neighborhoods": [
     {
-      "area": "Bukit Bintang nightlife district",
-      "crimes": [
-        "Pickpocketing",
-        "Drink spiking",
-        "Overcharging"
-      ],
-      "time": "Late night/early morning"
+      "name": "Bukit Bintang & KLCC",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of KL's shopping and entertainment district with heavy police presence, CCTV coverage, and constant pedestrian traffic. Well-lit streets and proximity to major hotels make this area very safe day and night."
     },
     {
-      "area": "Public transport stations",
-      "crimes": [
-        "Phone snatching",
-        "Pickpocketing"
-      ],
-      "time": "Rush hours"
+      "name": "Bangsar & Mont Kiara",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential and dining areas popular with expatriates. Clean, well-maintained neighborhoods with good lighting and regular security patrols. Excellent for evening dining and nightlife."
     },
     {
-      "area": "Night markets",
-      "crimes": [
-        "Pickpocketing",
-        "Overcharging",
-        "Counterfeit goods"
-      ],
-      "time": "Evening hours"
+      "name": "Chinatown & Central Market",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic district that's generally safe during the day with active market life. Some areas can feel less secure after dark, and petty theft risks increase in crowded markets during peak hours."
+    },
+    {
+      "name": "Little India (Brickfields)",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Vibrant cultural area near KL Sentral with good transport connections. Generally safe but can be crowded and chaotic. Exercise normal caution with valuables in busy market areas."
+    },
+    {
+      "name": "Kampung Baru",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Traditional Malay village area with authentic local atmosphere but older infrastructure. Some poorly lit streets after dark. Stick to main roads and travel with others in the evening."
+    },
+    {
+      "name": "Chow Kit",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Red-light district with higher crime rates, drug activity, and prostitution. Budget accommodation available but not recommended for tourists, especially solo travelers or at night. Avoid if possible."
     }
   ],
-  "emergency_contacts": {
-    "emergency_services": "999 (Police, Fire, Ambulance)",
-    "mobile_emergency": "112",
-    "tourist_police": "+60 3 2149 6590",
-    "us_embassy": "+60 3 2168 5000",
-    "fire_department": "994",
-    "civil_defense": "991",
-    "gas_emergency": "995",
-    "power_failure": "15454"
-  },
-  "travel_advisories": {
-    "overall_risk": "Low to Moderate",
-    "current_concerns": [
-      "Petty crime in tourist areas",
-      "Monsoon flooding season",
-      "Political demonstrations possible"
-    ],
-    "recent_updates": [
-      "US State Department maintains Level 1 (Exercise Normal Precautions) as of Feb 2026",
-      "Eastern Sabah advisory reduced but KL unaffected",
-      "Increased security measures during political tensions"
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers refusing to use meters and quoting inflated fixed rates, especially from airports. Some take longer routes or claim traffic diversions to increase fares.",
+      "howToAvoid": "Use Grab rideshare app exclusively. If taking street taxis, insist on meter usage or walk away. Pre-purchase fixed-price taxi coupons at KLIA airport."
+    },
+    {
+      "name": "Fake Tourist Information",
+      "risk": "medium",
+      "description": "Individuals posing as tourist information staff selling overpriced tours, attraction tickets, or accommodations. Some operate near legitimate tourist sites with convincing materials.",
+      "howToAvoid": "Only purchase tours from reputable companies or hotels. Verify authenticity of tour operators online. Be suspicious of unsolicited approaches offering urgent deals."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Card skimming devices placed on ATMs to steal card information, particularly in tourist areas. Sometimes combined with hidden cameras to record PIN entry.",
+      "howToAvoid": "Use ATMs inside banks or hotels rather than standalone machines. Check for unusual devices on card slots. Cover your hand when entering PIN. Monitor bank statements regularly."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some tourist-area restaurants inflate prices on the spot, especially at buffet-style economy rice stalls where prices aren't clearly displayed.",
+      "howToAvoid": "Ask for prices before ordering. Check menus for clearly listed prices. Pay attention to calculations and request itemized receipts. Eat where locals eat."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Kuala Lumpur is generally very safe for solo female travelers with appropriate precautions. The city has good infrastructure, English-speaking police, and cultural respect for women. Tourist areas like Bukit Bintang and KLCC have active security presence and are comfortable for women alone during day and early evening hours. However, modest dress is important in this Muslim-majority country.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially when visiting religious sites or government buildings",
+      "Avoid walking alone after 11 PM in quiet areas - use Grab for late-night transportation even for short distances",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Bukit Bintang or near KLCC",
+      "Keep hotel contact information easily accessible and inform someone of your daily plans",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
     ]
   },
-  "local_laws_customs": {
-    "drug_laws": "Extremely strict - death penalty possible for trafficking",
-    "alcohol": "Available but restricted in some areas during religious periods",
-    "dress_code": "Modest dress required at religious sites; casual Western dress generally acceptable",
-    "photography": "Avoid photographing government buildings, military installations",
-    "lgbtq_status": "Illegal under federal and sharia law - up to 20 years imprisonment",
-    "important_notes": [
-      "Malaysia is a Muslim-majority country with conservative values",
-      "Public displays of affection should be minimal",
-      "Remove shoes when entering homes and certain venues"
+  "nightSafety": {
+    "overview": "Kuala Lumpur's nightlife areas are generally safe with busy crowds and security presence until around 11 PM. Major entertainment districts like Changkat Bukit Bintang and Bangsar maintain good lighting and regular police patrols. However, drink spiking incidents have been reported, and some areas become less safe after midnight when crowds thin out.",
+    "tips": [
+      "Stick to well-populated nightlife areas and avoid quiet streets after midnight",
+      "Never leave drinks unattended and only accept drinks directly from bartenders or waitstaff",
+      "Travel in groups when possible and keep friends informed of your location",
+      "Use Grab rather than walking for late-night transport, even for short distances",
+      "Avoid excessive alcohol consumption and stay aware of your surroundings at all times"
     ]
   },
-  "safety_tips": {
-    "general": [
-      "Use registered taxis or Grab instead of street taxis",
-      "Keep valuables secure and avoid displaying expensive items",
-      "Be cautious of friendly strangers offering unsolicited help",
-      "Stay hydrated and use sunscreen - tropical climate is intense"
-    ],
-    "transport": [
-      "Use LRT/MRT for safe public transport",
-      "Verify taxi meters are running or negotiate fare beforehand",
-      "Avoid walking alone late at night in quiet areas",
-      "Keep important documents in hotel safe"
-    ],
-    "health": [
-      "Drink bottled or boiled water",
-      "Use insect repellent to prevent dengue",
-      "Be cautious with street food if you have sensitive stomach",
-      "Carry basic medications and hand sanitizer"
-    ],
-    "women_solo": [
-      "KL is generally safe for solo female travelers",
-      "Use women-only train cars during rush hour",
-      "Trust your instincts and avoid isolated areas at night",
-      "Dress modestly, especially when visiting religious sites"
-    ],
-    "scam_prevention": [
-      "Beware of 'Macau scams' - fake official calls demanding money",
-      "Don't buy electronics from small shops with big discounts",
-      "Avoid fake monks asking for donations",
-      "Be cautious of sob stories and requests for money"
-    ]
+  "transport": {
+    "metro": "KL's metro system including LRT, MRT, and monorail is safe, efficient, and covers major tourist areas. Trains run 6 AM to midnight with good security and CCTV coverage. Use Touch 'n Go cards for easy payment.",
+    "rideshare": "Grab is the dominant rideshare service and much safer than street taxis. Transparent pricing, GPS tracking, and driver ratings make it the preferred transport option for tourists.",
+    "taxis": "Street taxis have a poor reputation for overcharging tourists and refusing to use meters. Many drivers quote inflated fixed rates. Avoid street taxis and use Grab instead for reliability and safety.",
+    "tips": "Public transport is excellent and safe for tourists. The KLIA Express train connects the airport to city center in 30 minutes. Avoid unlicensed vehicles and always verify Grab driver/vehicle details before getting in."
   },
-  "cultural_considerations": {
-    "religious_sensitivity": "Respect Islamic customs, especially during Ramadan",
-    "language": "Bahasa Malaysia official, English widely spoken",
-    "tipping": "Not expected but appreciated (10% in restaurants)",
-    "bargaining": "Expected in markets, not in malls or restaurants"
+  "customs": [
+    "Dress modestly with shoulders and knees covered, especially in religious areas and government buildings",
+    "Remove shoes before entering homes, mosques, temples, and some restaurants - wear slip-on footwear for convenience",
+    "Use only your right hand for eating, greeting, and exchanging money - the left hand is considered unclean",
+    "Avoid pointing with your index finger - use your thumb with other fingers folded under instead",
+    "Don't touch anyone's head, including children, as it's considered the most sacred part of the body"
+  ],
+  "health": {
+    "overview": "Malaysia has excellent healthcare infrastructure with world-class private hospitals in KL. Medical tourism is popular due to high standards and English-speaking staff. Healthcare quality rivals developed countries.",
+    "water": "Tap water is generally safe but bottled water is recommended for tourists. Most hotels provide complimentary bottled water. Ice in restaurants and hotels is typically safe.",
+    "vaccinations": "No special vaccinations required for KL. Routine vaccines should be up to date. Consider hepatitis A/B if traveling to rural areas. Malaria risk is minimal in KL.",
+    "altitude": "Sea level with hot, humid tropical climate year-round. Temperatures 25-35°C with high humidity. Air conditioning in most indoor spaces can be very cold, so bring layers."
   },
-  "seasonal_safety": {
-    "best_time": "May to July (dry season)",
-    "monsoon_season": "October to March - increased flood risk",
-    "haze_season": "June to October - air quality issues from forest fires",
-    "ramadan_considerations": "Respect fasting hours, some restaurants closed during day"
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "994",
+    "touristPolice": "03-2149-6590",
+    "usEmbassy": "60-3-2168-5000 (24/7 emergency line). Located at 376 Jalan Tun Razak, 50400 Kuala Lumpur. For emergencies involving US citizens, someone responds 24 hours a day."
   },
-  "auto_generated": true,
-  "human_reviewed": false,
-  "confidence_score": 85,
-  "data_freshness": "High - based on 2025-2026 sources",
-  "methodology_notes": "Score based on weighted analysis of government advisories, crime statistics, healthcare quality, infrastructure, and traveler reports. LGBTQ+ score heavily weighted down due to criminalization and enforcement.",
-  "safety_tier": "high_risk",
-  "trending": "stable"
+  "faq": [
+    {
+      "q": "Is Kuala Lumpur safe for tourists?",
+      "a": "Yes, Kuala Lumpur is one of Southeast Asia's safest major cities for tourists. The US State Department rates Malaysia at Level 1 (Exercise Normal Precautions). Violent crime against foreigners is rare, and the city has good infrastructure and police presence in tourist areas."
+    },
+    {
+      "q": "Is Kuala Lumpur safe at night?",
+      "a": "Tourist areas like Bukit Bintang and KLCC are generally safe until around 11 PM with good lighting and crowds. Use Grab for transport after dark and avoid walking alone in quiet areas late at night. Stick to busy entertainment districts for nightlife."
+    },
+    {
+      "q": "Is Kuala Lumpur safe for solo female travelers?",
+      "a": "Yes, KL is very safe for solo women with normal precautions. Dress modestly, avoid walking alone after 11 PM, and use Grab for transportation. Tourist areas are well-patrolled and locals are generally helpful and respectful toward female travelers."
+    },
+    {
+      "q": "What areas should I avoid in Kuala Lumpur?",
+      "a": "Avoid the Chow Kit area, especially at night, due to higher crime rates and red-light activities. Some parts of Kampung Baru can feel unsafe after dark due to poor lighting. Generally stick to main tourist areas and well-lit streets."
+    },
+    {
+      "q": "Is it safe to use public transport in Kuala Lumpur?",
+      "a": "Yes, public transport is very safe. The LRT, MRT, and monorail systems are modern, clean, and well-monitored. Use Grab instead of street taxis for door-to-door transport. The KLIA Express train is excellent for airport transfers."
+    }
+  ],
+  "relatedCities": [
+    "singapore",
+    "penang",
+    "johor-bahru"
+  ],
+  "_city_id": "kuala-lumpur-malaysia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bukit_Bintang_junction_in_2024_2.jpg/1280px-Bukit_Bintang_junction_in_2024_2.jpg"
 }
