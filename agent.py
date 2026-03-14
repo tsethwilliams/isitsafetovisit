@@ -54,7 +54,7 @@ CONFIG = {
     "log_file": Path("./logs/agent.log"),
     "changelog_file": Path("./logs/changelog.json"),
     "staleness_threshold_days": 30,
-    "batch_size_add": 5,       # New cities to add per run
+    "batch_size_add": 8,       # New cities to add per run
     "batch_size_refresh": 10,  # Stale cities to refresh per run
     "confidence_threshold": 0.6,
 }
@@ -176,12 +176,16 @@ def get_stale_cities(threshold_days: int = None) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(days=threshold)
     stale = []
     for city in get_all_cities():
-        last_updated = datetime.fromisoformat(city.get("last_updated", "2020-01-01T00:00:00Z"))
+        date_str = city.get("last_updated") or city.get("lastUpdated", "2020-01-01")
+        try:
+            last_updated = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        except (ValueError, AttributeError):
+            last_updated = datetime(2020, 1, 1, tzinfo=timezone.utc)
         if last_updated.tzinfo is None:
             last_updated = last_updated.replace(tzinfo=timezone.utc)
         if last_updated < cutoff:
             stale.append(city)
-    return sorted(stale, key=lambda c: c["last_updated"])
+    return sorted(stale, key=lambda c: c.get("last_updated") or c.get("lastUpdated", "2020-01-01"))
 
 
 def load_queue() -> list[dict]:
@@ -510,16 +514,23 @@ def sanitize_city_data(city_data: dict, city_name: str, country: str) -> dict:
 
 def refresh_city(client, city_data: dict) -> dict:
     """Refresh an existing city's safety data."""
-    city_name = city_data["name"]
-    country = city_data["country"]
-    city_id = city_data["city_id"]
+    city_name = city_data.get("name", "")
+    country = city_data.get("country", "")
+    city_id = city_data.get("city_id") or city_data.get("_city_id") or city_data.get("slug", "unknown")
+
+    if not city_name:
+        city_name = city_id.replace("-", " ").title()
+    if not country:
+        logging.warning(f"No country found for {city_id}, skipping refresh")
+        return city_data
+
     logging.info(f"Refreshing city: {city_name}, {country}")
 
     prompt = f"""Here is the current safety data for {city_name}, {country}:
 
 {json.dumps(city_data, indent=2, default=str)}
 
-Search for any updates since {city_data.get('last_updated', 'unknown')}:
+Search for any updates since {city_data.get('last_updated', city_data.get('lastUpdated', 'unknown'))}:
 1. Has the travel advisory for {country} changed?
 2. Any recent crime spikes or improvements in {city_name}?
 3. Any political events, protests, or instability in {country}?
@@ -528,19 +539,30 @@ Search for any updates since {city_data.get('last_updated', 'unknown')}:
 6. Any new scam reports for {city_name}?
 7. Any changes to LGBTQ+ laws or safety in {country}?
 
-Update the JSON with any changes. Update last_updated to: {datetime.now(timezone.utc).isoformat()}
-Increment revision_count. Add any recent incidents to recent_incidents array."""
+Update the JSON with any changes. Update lastUpdated to: "{datetime.now(timezone.utc).strftime('%Y-%m-%d')}"
+Respond with ONLY the updated JSON object. No markdown, no explanations."""
 
     response = call_claude(client, SYSTEM_PROMPT_REFRESH, prompt, use_search=True)
 
     try:
         updated_data = extract_json(response)
-        updated_data["city_id"] = city_id
-        new_score = calculate_overall_score(updated_data.get("scores", {}))
-        updated_data["trending"] = calculate_trend(city_data, new_score)
-        updated_data["overall_safety_score"] = new_score
-        tier_id, _ = determine_tier(new_score)
-        updated_data["safety_tier"] = tier_id
+        # Preserve the city_id/slug
+        if "city_id" in city_data:
+            updated_data["city_id"] = city_data["city_id"]
+        if "_city_id" in city_data:
+            updated_data["_city_id"] = city_data["_city_id"]
+        if "slug" in city_data:
+            updated_data["slug"] = city_data["slug"]
+
+        # Handle scoring for both formats
+        if "scores" in updated_data:
+            scores = updated_data["scores"]
+            score_values = [v for v in scores.values() if isinstance(v, (int, float))]
+            if score_values:
+                updated_data["overallScore"] = round(sum(score_values) / len(score_values), 1)
+
+        # Sanitize
+        updated_data = sanitize_city_data(updated_data, city_name, country)
         return updated_data
     except Exception as e:
         logging.error(f"Failed to refresh {city_name}: {e}")
@@ -551,7 +573,23 @@ def check_alerts(client, cities: list[dict]) -> list[dict]:
     """Check for breaking safety events across all cities."""
     logging.info(f"Checking alerts for {len(cities)} cities")
 
-    city_list = ", ".join([f"{c['name']} ({c['country']})" for c in cities[:50]])
+    # Handle both old format (city_id) and new format (name/country)
+    city_names = []
+    for c in cities[:50]:
+        name = c.get('name', '')
+        country = c.get('country', '')
+        if not name:
+            # Try to extract from city_id or slug
+            city_id = c.get('city_id', c.get('slug', ''))
+            name = city_id.replace('-', ' ').title() if city_id else 'Unknown'
+        if name and name != 'Unknown':
+            city_names.append(f"{name} ({country})" if country else name)
+
+    if not city_names:
+        logging.info("No valid cities to check alerts for")
+        return []
+
+    city_list = ", ".join(city_names)
 
     prompt = f"""Check for any breaking safety events in the last 48 hours
 that would affect travelers in these cities:
@@ -685,8 +723,9 @@ def run_refresh(client):
         updated = refresh_city(client, city)
         if updated:
             save_city(updated)
-            log_change("refresh", city["city_id"],
-                       f"Score: {city.get('overall_safety_score', '?')} → {updated.get('overall_safety_score', '?')}")
+            city_id = city.get("city_id") or city.get("_city_id") or city.get("slug", "unknown")
+            log_change("refresh", city_id,
+                       f"Score: {city.get('overall_safety_score', city.get('overallScore', '?'))} → {updated.get('overall_safety_score', updated.get('overallScore', '?'))}")
 
 
 def run_add_cities(client):
@@ -768,32 +807,67 @@ def merge_into_site_data(new_cities: list[dict]):
 
 
 def update_sitemap(new_cities: list[dict]):
-    """Add new city URLs to the sitemap."""
+    """Rebuild the entire sitemap from city-data.json to ensure valid XML."""
     sitemap_path = Path("./public/sitemap.xml")
-    if not sitemap_path.exists():
-        logging.warning("sitemap.xml not found, skipping sitemap update")
-        return
+    site_data_path = Path("./src/lib/city-data.json")
 
-    with open(sitemap_path) as f:
-        content = f.read()
+    # Load all cities from site data
+    all_cities = []
+    if site_data_path.exists():
+        try:
+            with open(site_data_path) as f:
+                data = json.load(f)
+            if isinstance(data, dict) and "cities" in data:
+                all_cities = data["cities"]
+            elif isinstance(data, list):
+                all_cities = data
+        except Exception as e:
+            logging.error(f"Failed to read city-data.json for sitemap: {e}")
+            return
 
-    new_entries = ""
-    for city in new_cities:
+    today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+
+    # Build sitemap XML
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+
+    # Static pages
+    static_pages = [
+        ("https://www.isitsafetovisit.com", "1.0"),
+        ("https://www.isitsafetovisit.com/cities", "0.9"),
+        ("https://www.isitsafetovisit.com/countries", "0.9"),
+        ("https://www.isitsafetovisit.com/regions", "0.9"),
+        ("https://www.isitsafetovisit.com/scams", "0.8"),
+        ("https://www.isitsafetovisit.com/about", "0.5"),
+    ]
+    for url, priority in static_pages:
+        xml += f'  <url><loc>{url}</loc><priority>{priority}</priority></url>\n'
+
+    # City pages + country pages
+    country_slugs = set()
+    for city in all_cities:
         slug = city.get("slug", "")
-        if slug and f"/cities/{slug}" not in content:
-            new_entries += f"""  <url>
-    <loc>https://www.isitsafetovisit.com/cities/{slug}</loc>
-    <lastmod>{datetime.now(timezone.utc).strftime('%Y-%m-%d')}</lastmod>
-    <priority>0.8</priority>
-  </url>
-"""
+        if not slug:
+            continue
+        lastmod = city.get("lastUpdated", today)
+        xml += f'  <url><loc>https://www.isitsafetovisit.com/cities/{slug}</loc><lastmod>{lastmod}</lastmod><priority>0.8</priority></url>\n'
 
-    if new_entries:
-        # Insert before closing </urlset> tag
-        content = content.replace("</urlset>", f"{new_entries}</urlset>")
-        with open(sitemap_path, "w") as f:
-            f.write(content)
-        logging.info(f"Updated sitemap with {len(new_cities)} new URLs")
+        # Add country page
+        country = city.get("country", "")
+        if country:
+            country_slug = country.lower().replace(" ", "-")
+            country_slug = "".join(c for c in country_slug if c.isalnum() or c == "-")
+            if country_slug not in country_slugs:
+                country_slugs.add(country_slug)
+                xml += f'  <url><loc>https://www.isitsafetovisit.com/countries/{country_slug}</loc><priority>0.7</priority></url>\n'
+
+    xml += '</urlset>\n'
+
+    with open(sitemap_path, "w") as f:
+        f.write(xml)
+
+    total_urls = len(all_cities) + len(country_slugs) + len(static_pages)
+    logging.info(f"Rebuilt sitemap with {total_urls} URLs ({len(all_cities)} cities, {len(country_slugs)} countries, {len(static_pages)} static)")
 
 
 def run_rankings():
