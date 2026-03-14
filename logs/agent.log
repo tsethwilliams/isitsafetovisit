@@ -1258,3 +1258,7 @@
 2026-03-14 17:15:12,536 [INFO] Merged into site data: Dar es Salaam
 2026-03-14 17:15:12,575 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-14 17:15:12,597 [INFO] Rebuilt sitemap with 283 URLs (190 cities, 87 countries, 6 static)
+2026-03-14 19:16:48,643 [INFO] Agent starting — mode: alert
+2026-03-14 19:16:48,714 [INFO] Checking alerts for 189 cities
+2026-03-14 19:17:23,939 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 19:17:23,992 [INFO] No safety alerts detected
