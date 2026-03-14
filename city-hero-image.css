@@ -1,0 +1,15 @@
+/* =============================================
+   CITY PAGE HERO IMAGE
+   Add to BOTTOM of src/styles/globals.css
+   ============================================= */
+
+.city-hero-image {
+  width: 100%;
+  border-radius: 0;
+}
+
+@media (max-width: 768px) {
+  .city-hero-image {
+    height: 180px !important;
+  }
+}

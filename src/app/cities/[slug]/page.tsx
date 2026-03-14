@@ -46,6 +46,16 @@ export default function CityPage({ params }: { params: { slug: string } }) {
         </div>
       </div>
 
+      {city.imageUrl && (
+        <div className="city-hero-image" style={{
+          backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0), rgba(250,249,246,1)), url(${city.imageUrl})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          height: '280px',
+          marginTop: '-1rem',
+        }} />
+      )}
+
       <section className="city-hero">
         <div className="container">
           <div className="city-hero-grid">

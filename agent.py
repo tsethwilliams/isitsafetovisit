@@ -452,6 +452,29 @@ Remember: scores are on a 1-10 scale. Respond with ONLY the JSON object."""
                 return None
 
 
+
+def fetch_wikipedia_image(city_name: str, country: str) -> str:
+    """Fetch the main Wikipedia image for a city."""
+    import urllib.request
+    import urllib.parse
+    
+    queries = [f"{city_name}, {country}", city_name]
+    for query in queries:
+        try:
+            encoded = urllib.parse.quote(query)
+            url = f"https://en.wikipedia.org/w/api.php?action=query&titles={encoded}&prop=pageimages&format=json&pithumbsize=1200&redirects=1"
+            req = urllib.request.Request(url, headers={"User-Agent": "IsItSafeToVisit/1.0"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode())
+            pages = data.get("query", {}).get("pages", {})
+            for page in pages.values():
+                thumb = page.get("thumbnail", {})
+                if thumb.get("source") and thumb.get("width", 0) >= 400:
+                    return thumb["source"]
+        except Exception:
+            continue
+    return ""
+
 def sanitize_city_data(city_data: dict, city_name: str, country: str) -> dict:
     """Strip citation tags and ensure all required fields exist."""
     import re
@@ -508,6 +531,16 @@ def sanitize_city_data(city_data: dict, city_name: str, country: str) -> dict:
         if field not in city_data or city_data[field] is None:
             city_data[field] = default_val
             logging.warning(f"Added missing field '{field}' for {city_name}")
+
+    # Fetch Wikipedia image if not present
+    if not city_data.get("imageUrl"):
+        try:
+            img = fetch_wikipedia_image(city_name, country)
+            if img:
+                city_data["imageUrl"] = img
+                logging.info(f"Found Wikipedia image for {city_name}")
+        except Exception as e:
+            logging.warning(f"Could not fetch image for {city_name}: {e}")
 
     return city_data
 

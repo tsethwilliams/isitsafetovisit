@@ -52,6 +52,7 @@ export interface City {
   };
   faq: { q: string; a: string }[];
   relatedCities: string[];
+  imageUrl?: string;
 }
 
 const data = cityData as { metadata: any; cities: City[] };
