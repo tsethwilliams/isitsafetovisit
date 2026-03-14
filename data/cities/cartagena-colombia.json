@@ -5,161 +5,168 @@
   "countryCode": "CO",
   "region": "South America",
   "regionSlug": "south-america",
-  "lastUpdated": "2026-03-09",
-  "overallScore": 6.5,
+  "lastUpdated": "2026-03-14",
+  "overallScore": 6.4,
   "verdict": "Moderate Caution Advised",
   "badgeLabel": "Moderate Caution",
   "badgeClass": "caution",
   "scores": {
     "pettyCrime": 5.5,
-    "violentCrime": 7.0,
-    "scamRisk": 4.5,
-    "womensSafety": 6.8,
-    "nightSafety": 6.5,
-    "transport": 6.5,
-    "naturalHazards": 8.5
+    "violentCrime": 6.8,
+    "scamRisk": 5.0,
+    "womensSafety": 6.2,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 8.0
   },
-  "summary": "Cartagena is generally safe for tourists and considered one of Colombia's safer cities, especially within the walled Old Town and established neighborhoods. While violent crime against tourists is uncommon, visitors should be aware of petty theft, pickpocketing, and tourist-targeted scams. Colombia maintains a Level 3 US State Department travel advisory, though this primarily reflects rural security concerns rather than urban tourist areas like Cartagena.",
-  "quickVerdict": "Cartagena is a popular Caribbean coastal destination that offers a relatively safe environment for tourists willing to exercise standard travel precautions. The historic Old Town, Getsemani, and Bocagrande neighborhoods are well-patrolled and generally secure during both day and night hours. While Colombia faces a Level 3 travel advisory primarily due to rural violence and terrorism, Cartagena's tourism-focused infrastructure provides adequate security for visitors. The main concerns are opportunistic petty crimes like pickpocketing and tourist scams rather than serious violent crime. Solo female travelers report feeling comfortable in touristy areas, though standard awareness is recommended. With proper precautions and staying within recommended zones, Cartagena can be enjoyed safely.",
+  "summary": "Cartagena is one of Colombia's safest major cities for tourists, particularly in well-patrolled areas like the Old Town and Bocagrande. While Colombia has a Level 3 travel advisory, Cartagena's tourist zones benefit from strong police presence and tourism infrastructure. Most visitors report positive experiences when taking standard precautions.",
+  "quickVerdict": "Cartagena offers a relatively safe experience for tourists who stay aware and follow basic safety protocols. The historic walled city and main tourist areas are well-secured with regular police patrols, making violent crime against visitors rare. However, petty theft, pickpocketing, and tourist-targeted scams remain concerns, especially in crowded areas. Solo female travelers can visit safely with additional awareness, and nightlife areas are generally secure when staying in groups. Transportation via rideshare apps and official taxis is reliable, though airport pickups require extra caution.",
   "neighborhoods": [
     {
       "name": "Old Town (Centro Histórico)",
       "score": 8.0,
       "class": "safe",
-      "description": "The UNESCO World Heritage walled city is the safest area with heavy police presence, well-lit streets, and constant tourist activity. Highly recommended for accommodations and exploration."
-    },
-    {
-      "name": "Getsemaní",
-      "score": 7.5,
-      "class": "safe",
-      "description": "Vibrant cultural neighborhood with growing tourism infrastructure, street art, and nightlife. Generally safe on main streets but avoid quiet alleys late at night."
+      "description": "The walled historic center is the safest area with constant police presence, security cameras, and heavy foot traffic. Well-lit cobblestone streets and numerous restaurants provide natural surveillance. Violent crime is extremely rare, though watch for pickpockets in crowded plazas."
     },
     {
       "name": "Bocagrande",
-      "score": 8.0,
+      "score": 7.5,
       "class": "safe",
-      "description": "Modern hotel district known as Little Miami with high-rise buildings, beaches, and affluent atmosphere. Excellent security and safe for tourists day and night."
+      "description": "Modern beachfront district with high-rise hotels, shopping malls, and affluent atmosphere. Strong security presence due to upscale clientele. Generally safe during day and night, though beach areas require standard caution with belongings."
     },
     {
-      "name": "Crespo",
+      "name": "Getsemaní",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Artistic, vibrant neighborhood popular with travelers. Generally safe on main streets with frequent police patrols, but some side alleys become quiet after dark. Excellent value accommodations and cultural scene with moderate crime levels."
+    },
+    {
+      "name": "Castillo Grande",
       "score": 7.0,
       "class": "safe",
-      "description": "Residential area near the airport with good accommodation options. Safe during the day but use taxis at night for transportation to other areas."
+      "description": "Upscale residential area near the beach with good security infrastructure. Safe for walking during day and early evening. Limited nightlife but peaceful atmosphere with luxury accommodations and restaurants."
     },
     {
-      "name": "Centro",
-      "score": 5.5,
-      "class": "caution",
-      "description": "Modern downtown area outside the historic walls. More caution needed, especially at night. Stick to main commercial streets and avoid after dark."
-    },
-    {
-      "name": "La Popa",
-      "score": 4.0,
+      "name": "La Matuna",
+      "score": 4.5,
       "class": "danger",
-      "description": "Area around Cerro de La Popa hill. While the monastery is a popular attraction, surrounding neighborhoods have higher crime rates. Visit only during daylight on organized tours."
+      "description": "Commercial district between Getsemaní and Old Town that becomes deserted after business hours. Poor lighting and minimal police presence make it risky for tourists, especially at night. Avoid walking through this area after dark."
+    },
+    {
+      "name": "El Pozón",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Lower-income residential area with limited tourist infrastructure. High crime rates including theft and armed robbery. No compelling tourist attractions and poor transportation connections. Strongly avoid this neighborhood entirely."
     }
   ],
   "scams": [
     {
-      "name": "Bracelet Scam",
-      "risk": "medium",
-      "description": "Friendly strangers approach tourists to tie colorful bracelets on their wrists, then demand payment for the unwanted bracelet.",
-      "howToAvoid": "Politely decline any attempt to put jewelry on you and keep walking. Don't engage with overly friendly strangers offering gifts."
-    },
-    {
-      "name": "Fake Emerald Sales",
+      "name": "Fake Police Officers",
       "risk": "high",
-      "description": "Street vendors or shop owners pressure tourists into buying fake or overpriced emeralds, claiming they are genuine Colombian stones with special deals.",
-      "howToAvoid": "Only buy gemstones from certified, government-regulated shops. Ask for official certifications and compare prices at multiple locations before purchasing."
+      "description": "Individuals posing as police ask to inspect money for counterfeits or check documents, then steal cash or demand bribes. Often work in pairs near tourist areas.",
+      "howToAvoid": "Always request to go to an official police station for document checks. Real police have proper identification and uniforms. Never hand over cash for inspection on the street."
     },
     {
-      "name": "Photography Fee Extortion",
-      "risk": "medium",
-      "description": "Palenqueras (women in traditional dress) and street performers pose for photos then demand excessive payment, sometimes calling others to surround tourists who refuse.",
-      "howToAvoid": "Always agree on a price before taking photos with performers. If photographing from a distance, be aware of your surroundings and be prepared to pay a small tip."
-    },
-    {
-      "name": "Beach Service Overcharging",
+      "name": "Overpriced Services Scam",
       "risk": "high",
-      "description": "Vendors offer massage, drinks, or food on beaches without stating prices upfront, then present shocking bills of over $100 for simple services.",
-      "howToAvoid": "Always confirm prices in writing before accepting any beach services. Carry small bills and avoid flashing large amounts of cash. Choose established beach clubs with posted rates."
+      "description": "Taxi drivers, tour operators, and restaurants quote inflated gringo prices, sometimes 3-4 times the local rate. Particularly common at beaches and tourist squares.",
+      "howToAvoid": "Research standard prices beforehand, always agree on taxi fares before getting in, book tours through reputable agencies, and ask locals for price guidance."
+    },
+    {
+      "name": "Bracelet Tie Scam",
+      "risk": "medium",
+      "description": "Friendly strangers approach tourists and quickly tie a bracelet on their wrist, then demand payment. Common around Plaza Santo Domingo and city walls.",
+      "howToAvoid": "Keep hands close to your body, politely but firmly decline any unsolicited gifts or interactions involving physical contact, and walk away quickly if approached."
+    },
+    {
+      "name": "Restaurant Menu Switching",
+      "risk": "medium",
+      "description": "Restaurants show one menu with reasonable prices, but the final bill includes higher prices or items not ordered. Language barriers are exploited.",
+      "howToAvoid": "Take photos of menus before ordering, especially handwritten boards. Verify each item on the bill before paying and ask for printed receipts."
     }
   ],
   "soloFemale": {
-    "overview": "Cartagena is generally safe for solo female travelers, particularly in tourist areas like the Old Town, Getsemani, and Bocagrande. The city receives many international female visitors and has good tourism infrastructure. While catcalling is common and can be overwhelming, serious incidents against tourists are rare. Women report feeling comfortable during the day and in well-populated areas at night.",
+    "overview": "Cartagena is generally safe for solo female travelers who exercise standard precautions. The tourist areas maintain good security, and Colombian culture is family-oriented and welcoming to visitors. However, machismo culture means women may experience catcalling and unwanted attention, particularly in busy areas. Most incidents are verbal rather than threatening, but extra awareness is advised.",
     "tips": [
-      "Stay in well-established neighborhoods like Old Town or Bocagrande with good lighting and foot traffic",
-      "Use ride-hailing apps like Uber instead of street taxis, especially at night",
-      "Dress modestly and avoid displaying expensive jewelry or electronics",
-      "Trust your instincts and avoid isolated areas or overly persistent strangers",
-      "Consider joining group tours for activities outside the main tourist zones"
+      "Stay in well-reviewed accommodations in safe areas like Old Town or Bocagrande with 24-hour reception",
+      "Use rideshare apps or hotel-arranged transportation instead of hailing taxis on the street, especially at night",
+      "Dress conservatively and avoid revealing clothing to reduce unwanted attention",
+      "Join group tours or stay in social hostels to meet other travelers and avoid being alone",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately",
+      "Keep drinks in sight at all times and never accept drinks from strangers",
+      "Share your location with family/friends when going out and have emergency contacts ready"
     ]
   },
   "nightSafety": {
-    "overview": "Cartagena's nightlife is vibrant and generally safe within tourist areas. The Old Town and Bocagrande maintain good security with police presence and well-lit streets. However, some caution is needed in transitional areas and when moving between neighborhoods after dark. The main risks are petty crime and being overcharged at bars or restaurants.",
+    "overview": "Cartagena's nightlife can be enjoyed safely with proper precautions. The main tourist areas like Old Town and Getsemaní remain lively and well-patrolled until late, with restaurants and bars providing natural surveillance. However, most nighttime incidents involve phone snatching, pickpocketing, or drink spiking. Avoid isolated streets, travel in groups, and be especially cautious with alcohol consumption.",
     "tips": [
-      "Stick to well-known tourist areas like the Old Town walls, Plaza Santo Domingo, and main Bocagrande strips",
-      "Use Uber or pre-arranged transportation rather than walking long distances at night",
-      "Travel in groups when possible and avoid quiet side streets or alleys",
-      "Keep drinks covered and never accept drinks from strangers to avoid spiking incidents",
-      "Let someone know your plans and expected return time"
+      "Stick to well-lit, busy areas with other tourists and locals present",
+      "Travel in groups and avoid walking alone, especially after 2 AM",
+      "Use official transportation apps like Uber, InDriver, or hotel taxis rather than walking long distances",
+      "Keep valuables hidden and only bring essential items when going out",
+      "Watch your drinks carefully and never leave them unattended",
+      "Avoid the Matuna area between Getsemaní and Old Town after dark",
+      "Plan your route home in advance and have backup transportation options"
     ]
   },
   "transport": {
-    "metro": "Cartagena has the Transcaribe BRT system, but most tourists find walking and ride-hailing apps more convenient. The bus system is generally safe during daylight hours but can be crowded.",
-    "rideshare": "Uber operates legally in Cartagena and is considered the safest transportation option. It's more reliable than street taxis and provides GPS tracking. InDrive and DiDi are also available alternatives with competitive pricing.",
-    "taxis": "Street taxis lack meters and have a reputation for overcharging tourists. If using taxis, only use official yellow cabs and agree on prices beforehand. Hotel-arranged taxis are safer than hailing from the street.",
-    "tips": "For airport transfers, pre-arrange private transportation or use official airport taxis rather than ride-hailing apps. Within the city, Uber is the recommended option for safety and price transparency."
+    "metro": "Cartagena has a bus rapid transit system called Transcaribe, but it's not widely used by tourists due to navigation challenges and language barriers. The historic Old Town is very walkable, and most tourist sites are within walking distance. Buses can be crowded and pickpocketing may occur.",
+    "rideshare": "Uber, InDriver, and DiDi are available and generally safe options. Uber operates legally but has limited drivers. InDriver allows fare negotiation and is popular with locals. Rideshare apps provide GPS tracking and driver details, making them safer than street taxis. Avoid using rideshare from the airport due to restrictions.",
+    "taxis": "Yellow taxis are common but don't use meters in Cartagena, leading to potential overcharging. Always agree on the fare before entering. Airport taxis use fixed rates with vouchers. Hotel or restaurant-arranged taxis are generally more reliable. Some incidents of robbery in unofficial taxis have been reported.",
+    "tips": "Use rideshare apps when possible for transparency and safety. For airport transfers, pre-arrange private transportation or use official airport taxis with vouchers. Always agree on taxi fares upfront and keep small bills for payment. Walking is safe and pleasant in tourist areas during daylight hours."
   },
   "customs": [
-    "Greet with a handshake for business or first meetings; close friends may give a kiss on the right cheek",
-    "Use formal address (usted) with strangers and elders until invited to use informal tú",
-    "Punctuality is relaxed for social events (Colombian time) but important for business meetings",
-    "Dress neatly even for casual outings; avoid revealing clothing in religious sites",
-    "Always say please (por favor) and thank you (muchas gracias) - Colombians value politeness"
+    "Greet people with a firm handshake and direct eye contact. Close friends may exchange cheek kisses, but this is only appropriate after you know someone well.",
+    "Punctuality is relaxed for social events - arriving 30-60 minutes late is normal and expected, but be on time for business meetings.",
+    "Say 'Buen provecho' (enjoy your meal) before eating, keep hands visible during meals, and try to taste all dishes offered as a sign of respect.",
+    "Dress neatly and avoid overly casual clothing. Colombians take pride in appearance and good grooming, especially when dining out or attending social events.",
+    "Avoid mentioning Pablo Escobar, drug trafficking, or negative stereotypes about Colombia. Focus on positive aspects of culture, food, and natural beauty.",
+    "Tipping is not mandatory but appreciated - 10% at restaurants if service charge isn't included, small tips for taxi drivers and tour guides.",
+    "Use formal address (usted) when speaking to older people or in professional settings as a sign of respect."
   ],
   "health": {
-    "overview": "Cartagena has good private healthcare facilities that cater to international visitors, with many English-speaking doctors available. The city's coastal location presents some tropical health risks but major diseases are manageable with precautions.",
-    "water": "Tap water in Cartagena is heavily chlorinated and may cause stomach upset for visitors. Bottled water is widely available and recommended for drinking. Ice in established restaurants is generally safe.",
-    "vaccinations": "Yellow fever vaccination is not required for Cartagena specifically but may be checked if arriving from certain countries or visiting national parks. Routine vaccinations should be up to date. Consider hepatitis A/B and typhoid vaccines.",
-    "altitude": "Cartagena is at sea level with hot, humid tropical climate year-round. Heat exhaustion is a concern - stay hydrated, use sunscreen, and take breaks in air conditioning during peak hours."
+    "overview": "Cartagena has good private medical facilities that cater to international visitors, with several hospitals offering English-speaking staff. The coastal location means hot, humid weather year-round with potential for heat-related illness. Mosquito-borne diseases like dengue, Zika, and chikungunya are present, though yellow fever vaccination is not required for Cartagena specifically.",
+    "water": "Tap water is not recommended for drinking. Stick to bottled water or properly filtered water. Ice in tourist establishments is generally safe, but use caution. Brush teeth with bottled water and avoid raw vegetables unless properly washed with safe water.",
+    "vaccinations": "Routine vaccinations should be up to date (MMR, DPT, flu, etc.). Yellow fever vaccination may be considered but is not required for Cartagena city. Hepatitis A and typhoid recommended due to food/water contamination risk. Consult a travel medicine specialist 4-6 weeks before departure.",
+    "altitude": "Cartagena is at sea level with hot, humid tropical climate year-round. Temperatures range 25-32°C (77-89°F). Stay hydrated, use sunscreen, wear light clothing, and take breaks from heat. Mosquito prevention is essential - use repellent, wear long sleeves at dawn/dusk, and stay in air-conditioned accommodations when possible."
   },
   "emergency": {
     "general": "123",
-    "police": "123",
-    "ambulance": "132",
+    "police": "112",
+    "ambulance": "123",
     "fire": "119",
-    "touristPolice": "123",
-    "usEmbassy": "US Embassy Bogota: +57-601-275-2000 (24-hour emergency line available)"
+    "touristPolice": "+57 5 337-4413",
+    "usEmbassy": "US Embassy Bogotá: +57 601 275-2000 (24/7 emergency line). US Consular Agency Barranquilla handles Cartagena region: +57 5 353-2001. Located at Carrera 52 #74-52, Barranquilla."
   },
   "faq": [
     {
       "q": "Is Cartagena safe for tourists?",
-      "a": "Yes, Cartagena is generally safe for tourists and considered one of Colombia's safest cities. The main tourist areas like the Old Town, Getsemani, and Bocagrande have good security and police presence. Violent crime against tourists is uncommon, though petty theft and scams do occur."
+      "a": "Yes, Cartagena is generally safe for tourists who stay in recommended areas and follow standard travel precautions. The main tourist zones like Old Town and Bocagrande have strong police presence and good security infrastructure. Most visitors report positive experiences, though petty crime like pickpocketing can occur in crowded areas."
     },
     {
       "q": "Is Cartagena safe at night?",
-      "a": "Cartagena is relatively safe at night in tourist areas with good lighting and foot traffic. The Old Town walls area and main Bocagrande strips maintain security after dark. However, avoid quiet side streets and use Uber for transportation between neighborhoods."
+      "a": "Cartagena can be safe at night in well-lit tourist areas like the historic center and Getsemaní, which remain busy with restaurants and nightlife. However, avoid isolated streets, travel in groups, and use rideshare apps or official taxis for transportation. Most nighttime incidents involve phone theft or pickpocketing rather than violent crime."
     },
     {
       "q": "Is Cartagena safe for solo female travelers?",
-      "a": "Yes, many solo female travelers visit Cartagena safely. The tourist infrastructure is well-developed and serious incidents are rare. Expect some catcalling but this is cultural rather than threatening. Stay in safe neighborhoods, use ride-hailing apps, and trust your instincts."
+      "a": "Solo female travelers can visit Cartagena safely with additional awareness. The city is welcoming to tourists, but women may experience catcalling due to local machismo culture. Stay in reputable accommodations, use official transportation, dress modestly, and trust your instincts. Consider joining group tours or staying in social hostels to meet other travelers."
     },
     {
       "q": "What areas should I avoid in Cartagena?",
-      "a": "Avoid neighborhoods far from the historic center like La Maria, El Paraiso, and Rafael Nuñez especially at night. The Centro area outside the walls requires more caution after dark. La Popa area should only be visited during daylight on organized tours."
+      "a": "Avoid neighborhoods like El Pozón, La María, and El Paraíso which have higher crime rates and little tourist appeal. The Matuna area between Old Town and Getsemaní becomes deserted and poorly lit after dark. Also avoid isolated beaches outside the main hotel zones and any areas that feel deserted or unsafe."
     },
     {
       "q": "Is it safe to use public transport in Cartagena?",
-      "a": "The Transcaribe bus system is generally safe during daylight but can be crowded. Most tourists prefer Uber, which is widely available, safe, and transparent with pricing. Avoid street taxis which often overcharge tourists and lack safety features."
+      "a": "The Transcaribe bus system exists but isn't commonly used by tourists due to language barriers and navigation difficulties. Rideshare apps like Uber and InDriver are safer and more convenient options. Official taxis are acceptable if you agree on the fare beforehand, but avoid unlicensed vehicles. Walking is safe and pleasant in tourist areas during the day."
     }
   ],
   "relatedCities": [
-    "santa-marta",
-    "barranquilla",
-    "medellin",
     "bogota",
-    "cali"
+    "medellin",
+    "santa-marta",
+    "quito",
+    "lima"
   ],
-  "_city_id": "cartagena-colombia"
+  "_city_id": "cartagena-colombia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_Naval_del_Caribe.JPG/1280px-Museo_Naval_del_Caribe.JPG"
 }

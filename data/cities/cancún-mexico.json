@@ -1,0 +1,162 @@
+{
+  "slug": "cancún",
+  "name": "Cancún",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 4.5,
+    "womensSafety": 6.0,
+    "nightSafety": 6.0,
+    "transport": 6.5,
+    "naturalHazards": 7.8
+  },
+  "summary": "Cancún is generally safe for tourists within established resort areas and the Hotel Zone, but requires increased awareness of petty crime, scams, and local conditions. The Mexican government maintains heavy security presence due to tourism's economic importance, with over 40,000 police officers in Quintana Roo state.",
+  "quickVerdict": "Cancún offers a safe vacation experience for most travelers who stick to tourist zones and exercise standard precautions. While violent crime exists city-wide, tourists are rarely targeted directly. The main concerns are petty theft, tourist scams, and nightlife-related incidents. The Hotel Zone maintains 24/7 security and is significantly safer than downtown areas. Recent security operations in February 2026 have stabilized, and the US State Department maintains a Level 2 advisory for Quintana Roo state.",
+  "neighborhoods": [
+    {
+      "name": "Hotel Zone (Zona Hotelera)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "A 15-mile stretch of resorts and hotels with heavy security presence including National Guard patrols, private security, and extensive surveillance systems. Zero violent incidents against international tourists reported in 2025."
+    },
+    {
+      "name": "Playa Delfines",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular beach area within the Hotel Zone with Blue Flag certification, 24/7 surveillance, and permanent Tourist Police patrols. Generally safe during daylight hours with some crowds."
+    },
+    {
+      "name": "Downtown Cancún (El Centro)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Local commercial and residential area safe during daytime but requiring caution after dark. Stick to main streets like Avenida Tulum and use rideshare services at night."
+    },
+    {
+      "name": "Isla Mujeres Ferry Terminal Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Busy tourist transportation hub with regular security presence. Generally safe but watch for pickpockets in crowded areas, especially during ferry boarding times."
+    },
+    {
+      "name": "Alfredo V. Bonfil",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Outlying neighborhood with higher crime statistics and limited tourist infrastructure. Avoid after sunset and limit exploration to well-traveled areas with local guides only."
+    },
+    {
+      "name": "Región 227",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Local residential area with higher crime rates and gang activity. Not recommended for tourists at any time. Stick to main tourist corridors and avoid venturing into this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Timeshare Presentations",
+      "risk": "high",
+      "description": "Aggressive salespeople offer free meals, excursions, or spa credits in exchange for attending a '90-minute' presentation that often lasts much longer with high-pressure tactics.",
+      "howToAvoid": "Never hand over your passport or credit card to hold. Set a phone alarm and leave when it rings. Avoid accepting unsolicited offers from people approaching you at the airport or on the street."
+    },
+    {
+      "name": "Airport Transportation Scams",
+      "risk": "high",
+      "description": "Unlicensed 'pirate' taxis approach travelers at the airport with inflated rates or aggressive tactics. Some may change prices upon arrival or lack proper insurance.",
+      "howToAvoid": "Only use official taxi stands with published rates or pre-book transportation. Ignore approaches from unlicensed drivers. Use the ADO bus for budget option or pre-arranged hotel shuttles."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "medium",
+      "description": "Some restaurants add unauthorized service charges, extra items, or use dynamic currency conversion when paying by card. Some quote in pesos but charge in dollars.",
+      "howToAvoid": "Read bills carefully line by line. Choose 'pay in pesos' on card terminals. Question any unexpected charges before paying. Pay cash at suspicious venues if necessary."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Card skimming devices and hidden cameras at ATMs, particularly at convenience stores or poorly-lit outdoor machines, to steal card information and PIN numbers.",
+      "howToAvoid": "Use ATMs inside bank branches or well-lit hotel lobbies. Cover your PIN when entering. Check for unusual devices attached to card slots. Monitor bank statements regularly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cancún is relatively safe for solo female travelers who stay in tourist areas and take standard precautions. The Hotel Zone and main resort areas are well-patrolled with good lighting. Most harassment occurs in busy tourist areas and nightlife spots rather than in dangerous situations. Many female travelers visit Cancún successfully each year.",
+    "tips": [
+      "Stay in the Hotel Zone or well-reviewed accommodations with good security",
+      "Avoid walking alone after midnight, especially outside tourist areas",
+      "Use rideshare apps or hotel-arranged transportation instead of street taxis",
+      "Be cautious with drinks in bars and never leave them unattended",
+      "Dress conservatively when visiting downtown or religious sites"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cancún's nightlife safety varies significantly by location. The Hotel Zone maintains heavy security with well-lit streets, police patrols, and resort security, making it relatively safe for evening activities. Downtown areas require more caution after midnight, and outlying neighborhoods should be avoided entirely after dark.",
+    "tips": [
+      "Stick to well-lit, busy areas in the Hotel Zone for nightlife",
+      "Travel in groups when possible and use rideshare services",
+      "Avoid excessive alcohol consumption and never leave drinks unattended",
+      "Don't flash expensive jewelry or large amounts of cash",
+      "Return to your hotel by midnight if staying in downtown areas"
+    ]
+  },
+  "transport": {
+    "metro": "Cancún does not have a metro system. Public transportation consists primarily of buses along major routes.",
+    "rideshare": "Uber operates in Cancún city and Hotel Zone but cannot pick up passengers at the airport due to conflicts with taxi unions. Generally safe and recommended for getting around once you reach your hotel.",
+    "taxis": "Official airport taxis are safe but expensive with published rates at booths. Avoid unlicensed 'pirate' taxis. Hotel-arranged taxis are reliable. Always agree on fare before starting the trip.",
+    "tips": "Pre-book airport transportation to avoid scams. Use ADO buses for budget option to downtown. Uber is best for local transport but not available at airport."
+  },
+  "customs": [
+    "Greet people individually with handshakes rather than addressing groups collectively",
+    "Use formal address 'usted' with strangers and elders until invited to use informal 'tú'",
+    "Say 'con permiso' when squeezing past someone and 'perdón' for mild apologies"
+  ],
+  "health": {
+    "overview": "Cancún has good healthcare infrastructure with private hospitals and clinics catering to international visitors. Main concerns are mosquito-borne diseases like dengue and chikungunya, though risk is relatively low in resort areas.",
+    "water": "Do not drink tap water. Use bottled water for drinking and brushing teeth if you have a sensitive stomach. Restaurants use filtered ice.",
+    "vaccinations": "No mandatory vaccines required. Recommended: Hepatitis A, routine vaccines (MMR, DTP, flu). Consider Hepatitis B for longer stays. Chikungunya vaccine available for extended visits.",
+    "altitude": "Sea level location with tropical climate. High UV exposure requires sunscreen. Mosquito protection recommended during daylight hours when Aedes mosquitoes are most active."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "+52 (998) 885-2277",
+    "ambulance": "+52 (998) 884-1616",
+    "fire": "+52 (998) 884-1202",
+    "touristPolice": "+52 (998) 885-2277",
+    "usEmbassy": "US Embassy Mexico City: +52-55-2579-2000. Tourist assistance hotline: 078. For emergencies from abroad: +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Cancún safe for tourists?",
+      "a": "Yes, Cancún is generally safe for tourists who stay in established tourist areas like the Hotel Zone and exercise normal precautions. The Mexican government maintains heavy security presence due to tourism's importance to the economy."
+    },
+    {
+      "q": "Is Cancún safe at night?",
+      "a": "The Hotel Zone is relatively safe at night with good lighting and security patrols. Downtown areas require more caution after midnight. Always stay in well-lit areas, travel in groups, and use rideshare services."
+    },
+    {
+      "q": "Is Cancún safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Cancún safely each year. Stay in tourist areas, avoid walking alone after midnight, use reputable transportation, and be cautious with drinks in bars."
+    },
+    {
+      "q": "What areas should I avoid in Cancún?",
+      "a": "Avoid outlying neighborhoods like Alfredo V. Bonfil and Región 227, especially after dark. Be cautious in downtown areas after midnight and stick to main streets like Avenida Tulum."
+    },
+    {
+      "q": "Is it safe to use public transport in Cancún?",
+      "a": "Public buses along main routes are generally safe. Uber is recommended for local transport but cannot operate at the airport. Use official taxis or pre-booked transportation for airport transfers."
+    }
+  ],
+  "relatedCities": [
+    "playa-del-carmen",
+    "tulum",
+    "cozumel"
+  ],
+  "_city_id": "cancún-mexico",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cancun_Strand_Luftbild_%2822143397586%29.jpg/1280px-Cancun_Strand_Luftbild_%2822143397586%29.jpg"
+}

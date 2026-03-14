@@ -1103,3 +1103,47 @@
 2026-03-14 05:02:38,780 [WARNING]   [high] Honolulu: FBI investigating shooting at Old Dominion University as terrorism on March 12, 2026. Former National Guard member with ISIS connections killed 1, injured 2 in ROTC classroom attack.
 2026-03-14 05:36:42,078 [INFO] Agent starting — mode: refresh
 2026-03-14 05:36:42,148 [INFO] Found 0 stale cities, refreshing 0
+2026-03-14 06:04:28,812 [INFO] Agent starting — mode: add
+2026-03-14 06:04:28,854 [INFO] Queue has 399 cities, adding 8
+2026-03-14 06:04:28,854 [INFO] Generating new city profile: Cartagena, Colombia
+2026-03-14 06:06:22,774 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:06:23,015 [INFO] Found Wikipedia image for Cartagena
+2026-03-14 06:06:23,016 [INFO] Saved city data: cartagena-colombia
+2026-03-14 06:06:23,018 [INFO] Generating new city profile: Cusco, Peru
+2026-03-14 06:07:56,893 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:07:57,066 [INFO] Found Wikipedia image for Cusco
+2026-03-14 06:07:57,067 [INFO] Saved city data: cusco-peru
+2026-03-14 06:07:57,069 [INFO] Generating new city profile: Montevideo, Uruguay
+2026-03-14 06:09:37,725 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:09:37,951 [INFO] Found Wikipedia image for Montevideo
+2026-03-14 06:09:37,952 [INFO] Saved city data: montevideo-uruguay
+2026-03-14 06:09:37,954 [INFO] Generating new city profile: Quito, Ecuador
+2026-03-14 06:11:32,471 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:11:32,614 [INFO] Found Wikipedia image for Quito
+2026-03-14 06:11:32,614 [INFO] Saved city data: quito-ecuador
+2026-03-14 06:11:32,617 [INFO] Generating new city profile: Rio de Janeiro, Brazil
+2026-03-14 06:13:06,154 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:13:06,323 [INFO] Found Wikipedia image for Rio de Janeiro
+2026-03-14 06:13:06,323 [INFO] Saved city data: rio-de-janeiro-brazil
+2026-03-14 06:13:06,325 [INFO] Generating new city profile: Santiago, Chile
+2026-03-14 06:14:43,325 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:14:43,567 [INFO] Found Wikipedia image for Santiago
+2026-03-14 06:14:43,568 [INFO] Saved city data: santiago-chile
+2026-03-14 06:14:43,570 [INFO] Generating new city profile: São Paulo, Brazil
+2026-03-14 06:16:29,485 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:16:29,717 [INFO] Found Wikipedia image for São Paulo
+2026-03-14 06:16:29,718 [INFO] Saved city data: são-paulo-brazil
+2026-03-14 06:16:29,720 [INFO] Generating new city profile: Cancún, Mexico
+2026-03-14 06:18:07,960 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 06:18:08,190 [INFO] Found Wikipedia image for Cancún
+2026-03-14 06:18:08,191 [INFO] Saved city data: cancún-mexico
+2026-03-14 06:18:08,213 [INFO] Merged into site data: Cartagena
+2026-03-14 06:18:08,213 [INFO] Merged into site data: Cusco
+2026-03-14 06:18:08,213 [INFO] Merged into site data: Montevideo
+2026-03-14 06:18:08,213 [INFO] Merged into site data: Quito
+2026-03-14 06:18:08,213 [INFO] Merged into site data: Rio de Janeiro
+2026-03-14 06:18:08,214 [INFO] Merged into site data: Santiago
+2026-03-14 06:18:08,214 [INFO] Merged into site data: São Paulo
+2026-03-14 06:18:08,214 [INFO] Merged into site data: Cancún
+2026-03-14 06:18:08,250 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-14 06:18:08,269 [INFO] Rebuilt sitemap with 257 URLs (174 cities, 77 countries, 6 static)

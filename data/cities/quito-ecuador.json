@@ -1,0 +1,166 @@
+{
+  "slug": "quito",
+  "name": "Quito",
+  "country": "Ecuador",
+  "countryCode": "EC",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.8,
+    "scamRisk": 5.2,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.2,
+    "naturalHazards": 7.5
+  },
+  "summary": "Quito is Ecuador's capital and relatively safer than other major Latin American cities, though petty crime and scams targeting tourists remain common concerns. The city has seen improvements in tourist security, with increased police presence in main tourist areas like the Historic Center, but visitors should exercise standard urban precautions.",
+  "quickVerdict": "Quito offers a rewarding travel experience for those who take sensible precautions. While it faces challenges typical of large Latin American cities - pickpocketing, taxi scams, and some areas to avoid after dark - the tourist zones are generally well-patrolled and millions of visitors explore the city safely each year. The biggest risks are opportunistic theft and tourist scams, both easily avoided with awareness and preparation.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center (Old Town)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "UNESCO World Heritage site with strong police presence during the day, making it relatively safe for tourists. Well-patrolled main plazas and churches, though be cautious in side streets and after dark."
+    },
+    {
+      "name": "La Mariscal (New Town)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Tourist hub with hotels, restaurants, and nightlife around Plaza Foch. Generally safe during the day but requires extra caution at night due to bar-related incidents and petty crime."
+    },
+    {
+      "name": "La Floresta",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy, artsy neighborhood popular with locals and expats. Well-lit streets with good foot traffic, cafes, and cultural venues. One of the safer residential areas for walking."
+    },
+    {
+      "name": "Cumbaya",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale suburb east of Quito with shopping centers, restaurants, and good security. Popular with middle-class families and considered one of the safest areas in greater Quito."
+    },
+    {
+      "name": "South Quito",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Working-class residential areas with higher crime rates. Limited tourist infrastructure and not recommended for visitors, especially after dark. Locals advise avoiding this area entirely."
+    },
+    {
+      "name": "El Panecillo",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Hill with famous Virgin statue offering panoramic city views. Safe to visit via organized tour or taxi, but walking up alone is not recommended due to muggings on the path."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Mustard/Bird Poop Scam",
+      "risk": "high",
+      "description": "Someone points out a stain on your clothes (fake mustard, ketchup, or bird droppings) while an accomplice steals your belongings during the distraction.",
+      "howToAvoid": "If someone alerts you to a stain, keep your belongings secure and don't let strangers help clean you. Move to a safe location before dealing with any mess."
+    },
+    {
+      "name": "Fake Police Checkpoint",
+      "risk": "medium",
+      "description": "Criminals pose as police officers asking to see ID or search belongings, often leading to theft or demands for bribes.",
+      "howToAvoid": "Real police have proper uniforms and ID badges. Ask to see credentials and insist on going to the nearest police station if approached. Never hand over documents on the street."
+    },
+    {
+      "name": "Express Kidnapping in Taxis",
+      "risk": "medium",
+      "description": "Fake or compromised taxi drivers take passengers to ATMs to withdraw money under threat. Can happen with both street taxis and even some registered vehicles.",
+      "howToAvoid": "Use only official yellow taxis with orange license plates and working meters, or stick to Uber/Cabify. Pre-arrange airport transfers and never get in unmarked vehicles."
+    },
+    {
+      "name": "Overcharging Tourists",
+      "risk": "high",
+      "description": "Restaurants, shops, and services quote inflated prices for foreigners, especially in tourist areas. Some establishments have separate tourist menus with higher prices.",
+      "howToAvoid": "Learn basic Spanish numbers, ask locals for price ranges, check menus before ordering, and don't be afraid to negotiate or walk away from unreasonable prices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Quito is generally safe with proper precautions, though women should be prepared for catcalling and extra attention. Many solo female travelers visit successfully, but staying alert and following safety guidelines is essential. The city has seen improvements in tourist policing, and most experiences are positive when common-sense precautions are taken.",
+    "tips": [
+      "Dress conservatively to minimize unwanted attention, especially in local neighborhoods outside tourist zones",
+      "Avoid walking alone after dark - use Uber or registered taxis instead, even for short distances",
+      "Stay in well-reviewed accommodations in safe neighborhoods like La Floresta, Mariscal, or near the Historic Center",
+      "Be cautious of overly friendly strangers offering drinks, tours, or assistance, especially in nightlife areas",
+      "Trust your instincts and don't engage with catcallers - ignore them and continue walking confidently"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Quito becomes significantly less safe after dark, with most crimes against tourists occurring at night. The Historic Center and southern areas should be avoided after sunset, while areas like La Mariscal have nightlife but require extra caution. Stick to well-lit, busy areas and always use reliable transportation after dark.",
+    "tips": [
+      "Avoid walking alone at night anywhere in the city - take Uber or registered taxis even for short distances",
+      "Stick to popular nightlife areas like Plaza Foch in La Mariscal if going out, and travel in groups",
+      "Don't display valuables, large amounts of cash, or expensive jewelry when out at night",
+      "Pre-arrange transportation back to your accommodation before going out, and share your location with someone",
+      "Be especially cautious leaving bars or restaurants - have your ride waiting rather than walking to find transport"
+    ]
+  },
+  "transport": {
+    "metro": "Quito's new Metro system is modern, safe, and efficient, running north-south through the city. It's well-maintained with security personnel, making it a reliable option during operating hours. The metro connects major areas but has limited coverage compared to the bus system.",
+    "rideshare": "Uber and Cabify operate in Quito and are considered the safest transport options, though not officially registered. Drivers may ask you to sit in front to avoid detection. Both apps work reliably with GPS tracking and cashless payment, making them ideal for tourists.",
+    "taxis": "Use only official yellow taxis with orange license plates and working meters. Many have security cameras installed. Minimum fare is $1.50 during day, $2.00 at night. Avoid unmarked vehicles or drivers who refuse to use the meter. Airport taxis are safe and use fixed rates.",
+    "tips": "Public buses are very cheap (25 cents) but crowded and targeted by pickpockets - keep belongings secure on your lap. For safety, prioritize Uber/Cabify over street taxis, especially at night. Always verify official taxi credentials before getting in."
+  },
+  "customs": [
+    "Greet people with 'Buenos días' (morning), 'Buenas tardes' (afternoon), or 'Buenas noches' (evening) before starting conversations",
+    "Shake hands when meeting someone new and say 'Mucho gusto' (pleased to meet you) - a kiss on the cheek is common between friends",
+    "Say 'Buen provecho' (enjoy your meal) to dining companions before eating and to other diners when entering/leaving restaurants",
+    "Use 'con permiso' (with permission) when squeezing past someone in crowds - politeness is highly valued in Ecuadorian culture",
+    "Tipping is not mandatory like in the US - 10% is appreciated in nicer restaurants, but many places include service charges automatically"
+  ],
+  "health": {
+    "overview": "Quito has good private healthcare with several hospitals offering international standards. Public healthcare exists but can be crowded. The high altitude (9,350 feet) affects many visitors initially. Water quality varies, and visitors should stick to bottled water for drinking.",
+    "water": "Tap water is technically potable in Quito but not recommended for tourists due to different bacterial composition. Stick to bottled water for drinking and brushing teeth. Most restaurants use filtered water for ice and cooking.",
+    "vaccinations": "No special vaccinations required for Quito itself. Yellow fever vaccination needed if traveling to Amazon regions. Routine vaccines (MMR, DPT, flu, COVID-19) should be up to date. Hepatitis A/B recommended for longer stays.",
+    "altitude": "At 9,350 feet elevation, altitude sickness is common. Symptoms include headaches, nausea, fatigue, and dizziness. Take it easy first few days, drink lots of water, avoid alcohol, and consider altitude sickness medication. Most visitors adjust within 2-3 days."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "101",
+    "ambulance": "131",
+    "fire": "102",
+    "touristPolice": "+593-2-295-0214 (available in Quito and Guayaquil)",
+    "usEmbassy": "U.S. Embassy Quito: +593-2-398-5000 (24hr emergency line). Located at Avigiras E12-170 y Eloy Alfaro. Consular services for American citizens include passport replacement, emergency assistance, and crime victim support."
+  },
+  "faq": [
+    {
+      "q": "Is Quito safe for tourists?",
+      "a": "Yes, Quito is generally safe for tourists who take standard urban precautions. The main tourist areas have increased police presence, and millions visit safely each year. The biggest risks are petty crime and tourist-targeted scams, both preventable with awareness and preparation."
+    },
+    {
+      "q": "Is Quito safe at night?",
+      "a": "Quito is less safe at night, especially in certain areas. Avoid walking alone after dark anywhere in the city. Stick to busy, well-lit areas like Plaza Foch for nightlife, and always use Uber or registered taxis for transportation. The Historic Center should be avoided at night."
+    },
+    {
+      "q": "Is Quito safe for solo female travelers?",
+      "a": "Solo female travelers can visit Quito safely with proper precautions. Expect some catcalling but serious harassment is uncommon. Stay in safe neighborhoods, dress conservatively, avoid walking alone at night, and trust your instincts. Many solo female travelers have positive experiences."
+    },
+    {
+      "q": "What areas should I avoid in Quito?",
+      "a": "Avoid South Quito entirely, especially areas like La Marin and south of the city center. Don't walk up to El Panecillo alone - take a tour or taxi. Avoid the Historic Center at night, and be cautious in side streets throughout the city, even in tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Quito?",
+      "a": "The new Metro system is safe and efficient. Buses are cheap but crowded with pickpocketing risks - keep belongings on your lap and stay alert. Uber and official yellow taxis with orange plates are the safest options. Avoid unmarked vehicles or drivers refusing to use meters."
+    }
+  ],
+  "relatedCities": [
+    "bogota",
+    "lima",
+    "la-paz",
+    "cusco",
+    "medellin"
+  ],
+  "_city_id": "quito-ecuador",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg/1280px-FACHADA_ASAMBLEA_NACIONAL._QUITO%2C_20_DE_FEBRERO_2020._01.jpg"
+}
