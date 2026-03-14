@@ -1762,5 +1762,71 @@
     "action": "add",
     "city_id": "canc\u00fan-mexico",
     "details": "New city added with score 6.1"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.141324+00:00",
+    "action": "alert",
+    "city_id": "Antalya (Turkey)",
+    "details": "{\"city_id\": \"Antalya (Turkey)\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"Turkey Level 2 advisory updated March 8-9, 2026. US-Iran conflict has spilled into Turkey with Iranian missile attacks intercepted by NATO on March 4. US consulate in southeast Turkey evacuated. Heightened anti-Western sentiment and terrorist threats.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.143500+00:00",
+    "action": "alert",
+    "city_id": "Bodrum (Turkey)",
+    "details": "{\"city_id\": \"Bodrum (Turkey)\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"Turkey Level 2 advisory updated March 8-9, 2026. US-Iran conflict has spilled into Turkey with Iranian missile attacks intercepted by NATO on March 4. US consulate in southeast Turkey evacuated. Heightened anti-Western sentiment and terrorist threats.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.145497+00:00",
+    "action": "alert",
+    "city_id": "Tel Aviv (Israel)",
+    "details": "{\"city_id\": \"Tel Aviv (Israel)\", \"alert_type\": \"travel_advisory\", \"severity\": \"critical\", \"summary\": \"Active war zone. US-Israel military strikes on Iran ongoing since February 28, 2026. Supreme Leader Khamenei killed in strikes. Active missile exchanges and retaliatory attacks across region. Multiple embassy evacuations.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.147774+00:00",
+    "action": "alert",
+    "city_id": "Brussels (Belgium)",
+    "details": "{\"city_id\": \"Brussels (Belgium)\", \"alert_type\": \"transport_disruption\", \"severity\": \"critical\", \"summary\": \"Brussels Airport completely closed March 12, 2026 due to nationwide strike. All departing flights canceled. 80,000+ protesters in Brussels. Public transport disrupted across Belgium. Airport operations suspended.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.149916+00:00",
+    "action": "alert",
+    "city_id": "Ghent (Belgium)",
+    "details": "{\"city_id\": \"Ghent (Belgium)\", \"alert_type\": \"protests\", \"severity\": \"medium\", \"summary\": \"Nationwide Belgium strike March 12, 2026 with 80,000+ protesters in Brussels. Transport disruptions spreading across country including Ghent. Labor disputes over wage indexation and pension reforms.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.151996+00:00",
+    "action": "alert",
+    "city_id": "Milan (Italy)",
+    "details": "{\"city_id\": \"Milan (Italy)\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Massive flight disruptions March 12, 2026. Hundreds of cancellations and delays at Italian airports due to weather, staff shortages, and industrial action. Ryanair, Lufthansa, Emirates most affected. Major airport chaos reported.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.153957+00:00",
+    "action": "alert",
+    "city_id": "Venice (Italy)",
+    "details": "{\"city_id\": \"Venice (Italy)\", \"alert_type\": \"transport_disruption\", \"severity\": \"high\", \"summary\": \"Severe flight disruptions March 12, 2026. Weather storms and fog creating hazardous conditions in Milan and Venice. Combined with staff shortages and strikes causing widespread cancellations and delays.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.155969+00:00",
+    "action": "alert",
+    "city_id": "Turin (Italy)",
+    "details": "{\"city_id\": \"Turin (Italy)\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Italian aviation system experiencing widespread disruptions March 12, 2026 due to combination of severe weather, staffing issues, and industrial action affecting airports nationwide.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.157950+00:00",
+    "action": "alert",
+    "city_id": "Edinburgh (United Kingdom)",
+    "details": "{\"city_id\": \"Edinburgh (United Kingdom)\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Edinburgh but increased security awareness recommended for UK cities during regional tensions.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.159956+00:00",
+    "action": "alert",
+    "city_id": "Belfast (United Kingdom)",
+    "details": "{\"city_id\": \"Belfast (United Kingdom)\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Belfast but increased security awareness recommended for UK cities during regional tensions.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-14T07:51:20.161963+00:00",
+    "action": "alert",
+    "city_id": "Liverpool (United Kingdom)",
+    "details": "{\"city_id\": \"Liverpool (United Kingdom)\", \"alert_type\": \"protests\", \"severity\": \"low\", \"summary\": \"Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Liverpool but increased security awareness recommended for UK cities during regional tensions.\", \"action\": \"update_score\"}"
   }
 ]

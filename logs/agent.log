@@ -1147,3 +1147,18 @@
 2026-03-14 06:18:08,214 [INFO] Merged into site data: Cancún
 2026-03-14 06:18:08,250 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-14 06:18:08,269 [INFO] Rebuilt sitemap with 257 URLs (174 cities, 77 countries, 6 static)
+2026-03-14 07:50:43,708 [INFO] Agent starting — mode: alert
+2026-03-14 07:50:43,777 [INFO] Checking alerts for 182 cities
+2026-03-14 07:51:20,086 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 07:51:20,140 [WARNING] ALERTS DETECTED: 11
+2026-03-14 07:51:20,140 [WARNING]   [high] Antalya (Turkey): Turkey Level 2 advisory updated March 8-9, 2026. US-Iran conflict has spilled into Turkey with Iranian missile attacks intercepted by NATO on March 4. US consulate in southeast Turkey evacuated. Heightened anti-Western sentiment and terrorist threats.
+2026-03-14 07:51:20,142 [WARNING]   [high] Bodrum (Turkey): Turkey Level 2 advisory updated March 8-9, 2026. US-Iran conflict has spilled into Turkey with Iranian missile attacks intercepted by NATO on March 4. US consulate in southeast Turkey evacuated. Heightened anti-Western sentiment and terrorist threats.
+2026-03-14 07:51:20,145 [WARNING]   [critical] Tel Aviv (Israel): Active war zone. US-Israel military strikes on Iran ongoing since February 28, 2026. Supreme Leader Khamenei killed in strikes. Active missile exchanges and retaliatory attacks across region. Multiple embassy evacuations.
+2026-03-14 07:51:20,147 [WARNING]   [critical] Brussels (Belgium): Brussels Airport completely closed March 12, 2026 due to nationwide strike. All departing flights canceled. 80,000+ protesters in Brussels. Public transport disrupted across Belgium. Airport operations suspended.
+2026-03-14 07:51:20,149 [WARNING]   [medium] Ghent (Belgium): Nationwide Belgium strike March 12, 2026 with 80,000+ protesters in Brussels. Transport disruptions spreading across country including Ghent. Labor disputes over wage indexation and pension reforms.
+2026-03-14 07:51:20,151 [WARNING]   [high] Milan (Italy): Massive flight disruptions March 12, 2026. Hundreds of cancellations and delays at Italian airports due to weather, staff shortages, and industrial action. Ryanair, Lufthansa, Emirates most affected. Major airport chaos reported.
+2026-03-14 07:51:20,153 [WARNING]   [high] Venice (Italy): Severe flight disruptions March 12, 2026. Weather storms and fog creating hazardous conditions in Milan and Venice. Combined with staff shortages and strikes causing widespread cancellations and delays.
+2026-03-14 07:51:20,155 [WARNING]   [medium] Turin (Italy): Italian aviation system experiencing widespread disruptions March 12, 2026 due to combination of severe weather, staffing issues, and industrial action affecting airports nationwide.
+2026-03-14 07:51:20,157 [WARNING]   [low] Edinburgh (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Edinburgh but increased security awareness recommended for UK cities during regional tensions.
+2026-03-14 07:51:20,159 [WARNING]   [low] Belfast (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Belfast but increased security awareness recommended for UK cities during regional tensions.
+2026-03-14 07:51:20,161 [WARNING]   [low] Liverpool (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Liverpool but increased security awareness recommended for UK cities during regional tensions.
