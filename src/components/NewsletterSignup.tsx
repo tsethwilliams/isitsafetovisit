@@ -13,7 +13,7 @@ export default function NewsletterSignup() {
     // Mailchimp form submission
     // Replace MAILCHIMP_URL with your actual Mailchimp form action URL
     // To get this: Mailchimp -> Audience -> Signup forms -> Embedded forms -> copy the action URL
-    const MAILCHIMP_URL = '';
+    const MAILCHIMP_URL: string = '';
 
     if (MAILCHIMP_URL) {
       // Submit to Mailchimp via their embedded form endpoint
