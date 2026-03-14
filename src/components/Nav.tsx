@@ -19,6 +19,11 @@ export default function Nav() {
             </Link>
           </li>
           <li>
+            <Link href="/countries" className={pathname?.startsWith('/countries') ? 'nav-link active' : 'nav-link'}>
+              Countries
+            </Link>
+          </li>
+          <li>
             <Link href="/regions" className={pathname?.startsWith('/regions') ? 'nav-link active' : 'nav-link'}>
               Regions
             </Link>
