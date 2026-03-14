@@ -1,0 +1,165 @@
+{
+  "slug": "guatemala-city",
+  "name": "Guatemala City",
+  "country": "Guatemala",
+  "countryCode": "GT",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 3.9,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 3.0,
+    "scamRisk": 3.5,
+    "womensSafety": 4.0,
+    "nightSafety": 2.5,
+    "transport": 4.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Guatemala City faces significant safety challenges including high crime rates, gang activity, and recent armed attacks on police. The capital requires extreme caution, especially Zone 18 which the U.S. State Department advises against visiting entirely. Tourists frequently experience scams, theft, and violent crime even in daylight hours.",
+  "quickVerdict": "Guatemala City is a high-risk destination requiring careful planning and constant vigilance. While Zones 9, 10, and 14 offer relatively safer areas for tourists, the overall security situation remains challenging with gang violence, police corruption, and opportunistic crimes targeting foreigners. Recent incidents including armed attacks on police and shelter-in-place orders for embassy staff underscore the volatile security environment. Travelers should minimize time in the capital, avoid certain zones entirely, and stick to tourist areas with professional security.",
+  "neighborhoods": [
+    {
+      "name": "Zone 10 (Zona Viva)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main tourist and business district with upscale hotels, restaurants, and shopping. Heavy security presence makes it the safest area for walking, especially during daytime."
+    },
+    {
+      "name": "Zone 9",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Generally safe upscale residential area with shopping centers and hotels. Less nightlife than Zone 10 but good security and tourist infrastructure."
+    },
+    {
+      "name": "Zone 14",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Quiet residential area with parks and luxury homes. Safe during day but limited after-dark activity. Popular with business travelers and families."
+    },
+    {
+      "name": "Zone 1 (Historic Center)",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Historic downtown with colonial architecture and museums. Heavy police presence during day but dangerous after sunset. Strictly daytime visits only."
+    },
+    {
+      "name": "Zone 7",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Higher crime area with limited tourist infrastructure. Frequent reports of theft and gang activity. Avoid unless absolutely necessary."
+    },
+    {
+      "name": "Zone 18",
+      "score": 1.5,
+      "class": "danger",
+      "description": "U.S. State Department prohibited area due to extreme gang violence and terrorism risk. Complete no-go zone for tourists under any circumstances."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "high",
+      "description": "Criminals pose as drug enforcement officers, demand to see documents, then rob victims or extort money claiming law violations.",
+      "howToAvoid": "Always ask for official identification, verify through hotel staff, and never hand over documents to anyone claiming to be police on the street."
+    },
+    {
+      "name": "ATM Card Cloning",
+      "risk": "high",
+      "description": "Card skimming devices placed on ATMs to steal card information and PIN numbers for fraudulent transactions.",
+      "howToAvoid": "Use ATMs only inside banks or hotels, cover PIN entry, check for suspicious devices, and monitor account statements regularly."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unofficial or unmetered taxis charge inflated fares, especially at airports and tourist areas. Some drivers take longer routes intentionally.",
+      "howToAvoid": "Use only official taxis arranged through hotels, buy prepaid taxi vouchers at airport, or use ride-sharing apps like Uber with GPS tracking."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams work together - one person spills something on you while accomplice steals belongings during the confusion and cleanup.",
+      "howToAvoid": "Stay alert in crowded areas, be suspicious of helpful strangers after accidents, and secure bags across your body with zippers facing inward."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Guatemala City requires extreme caution due to high rates of harassment, violent crime, and targeting of foreign women. Many areas become unsafe after dark, and reports of verbal harassment and unwanted attention are common. The safest approach is minimizing time in the capital and staying in secure zones with professional security.",
+    "tips": [
+      "Stay only in Zones 9, 10, or 14 with hotel security and avoid walking alone after dark anywhere in the city",
+      "Use Uber or hotel-arranged transportation exclusively - never street taxis or public buses",
+      "Dress conservatively and avoid displaying expensive jewelry, electronics, or large amounts of cash",
+      "Trust your instincts completely - if a situation feels uncomfortable, leave immediately regardless of being polite"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Guatemala City becomes significantly more dangerous after dark with increased gang activity, street crime, and reduced police effectiveness. Even relatively safe zones like Zone 10 require caution at night. Most areas outside tourist zones become no-go zones after sunset, and violent crimes including armed robbery increase substantially.",
+    "tips": [
+      "Avoid walking anywhere alone after dark - even in Zone 10 stay within sight of security guards",
+      "Never venture outside tourist areas after sunset and avoid Zone 1 historic center entirely at night",
+      "Use hotel-arranged transportation for all evening activities and return before midnight when possible",
+      "Stay in groups when going out and inform hotel staff of your evening plans and expected return"
+    ]
+  },
+  "transport": {
+    "metro": "Guatemala City has limited public transit options. The TransMetro bus rapid transit system exists but is not recommended for tourists due to high crime rates and targeting of foreigners.",
+    "rideshare": "Uber operates in Guatemala City and is the safest transportation option. Drivers are vetted and routes are GPS-tracked. Always verify license plate and driver photo before entering.",
+    "taxis": "Only use official taxis arranged through hotels or buy prepaid vouchers at the airport. Street taxis and taxi stands are dangerous with reports of robberies and fake drivers. Never accept unsolicited taxi offers.",
+    "tips": "Avoid all public buses including local 'chicken buses' which are extremely dangerous with frequent armed robberies. Private tourist shuttles are safer for longer distances but arrange through reputable companies only."
+  },
+  "customs": [
+    "Greet with handshake or slight nod; close friends may embrace but avoid overly familiar contact with strangers",
+    "Dress conservatively especially when visiting government buildings, churches, or formal establishments",
+    "Learn basic Spanish phrases as English is limited outside tourist areas and hotels",
+    "Respect indigenous Maya culture and ask permission before photographing people, especially in markets",
+    "Avoid discussing politics, the civil war period, or making comparisons between Guatemala and other countries"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies dramatically in Guatemala City. Private hospitals in wealthy zones offer good care but public facilities are severely underfunded. Emergency services exist but response times can be lengthy. Travel insurance with evacuation coverage is essential.",
+    "water": "Tap water is unsafe to drink. Use only bottled water for drinking and brushing teeth. Avoid ice in drinks and raw fruits/vegetables unless peeled yourself. Many restaurants use filtered water but verify first.",
+    "vaccinations": "Routine vaccines should be current including Hepatitis A and B, Typhoid, and Tetanus. Yellow fever not required but consider if visiting other Central American countries. Consult travel medicine clinic 4-6 weeks before departure.",
+    "altitude": "At 4,900 feet elevation, Guatemala City is cooler than coastal areas especially at night. Air quality can be poor due to vehicle emissions. No altitude sickness concerns but pollution may affect sensitive individuals."
+  },
+  "emergency": {
+    "general": "1500 (PROATUR Tourist Assistance - English/Spanish)",
+    "police": "110 or 120",
+    "ambulance": "123",
+    "fire": "123",
+    "touristPolice": "1500 (ASISTUR/DISETUR)",
+    "usEmbassy": "US Embassy Guatemala City: +502-2326-4000, Address: 7-01 Avenida de la Reforma, Zone 10. Emergency after-hours: follow embassy instructions or contact State Dept at +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Guatemala City safe for tourists?",
+      "a": "Guatemala City has significant safety challenges requiring extreme caution. While zones 9, 10, and 14 are relatively safer with security, the overall crime rate is high with gang violence, scams, and targeting of foreigners common. Minimize time in the capital and stay in secure tourist areas only."
+    },
+    {
+      "q": "Is Guatemala City safe at night?",
+      "a": "No, Guatemala City becomes much more dangerous after dark. Even in safer zones like Zone 10, walking alone at night is risky. Gang activity increases, police effectiveness decreases, and violent crimes including armed robbery are more frequent. Use hotel-arranged transport and return before midnight."
+    },
+    {
+      "q": "Is Guatemala City safe for solo female travelers?",
+      "a": "Solo female travelers face heightened risks including harassment, targeting by criminals, and sexual assault reports. Women should exercise extreme caution, stay in secure zones only, avoid walking alone especially after dark, and use hotel-arranged transportation exclusively."
+    },
+    {
+      "q": "What areas should I avoid in Guatemala City?",
+      "a": "Completely avoid Zone 18 (US State Department prohibited area) and Villa Nueva. Exercise extreme caution in Zones 1, 3, 5, 6, 7, and 21. Even in safer zones 9, 10, and 14, remain vigilant and avoid isolated areas. The historic center (Zone 1) is dangerous after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Guatemala City?",
+      "a": "No, public transport is extremely dangerous with frequent armed robberies on buses. Avoid all local buses including 'chicken buses.' Use Uber, hotel-arranged taxis, or private tourist shuttles only. The TransMetro system exists but is not recommended for tourists due to high crime rates."
+    }
+  ],
+  "relatedCities": [
+    "san-salvador",
+    "tegucigalpa",
+    "managua",
+    "san-jose-costa-rica",
+    "panama-city",
+    "belize-city"
+  ],
+  "_city_id": "guatemala-city-guatemala",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ciudad_de_Guatemala%2C_CA.jpg/1280px-Ciudad_de_Guatemala%2C_CA.jpg"
+}

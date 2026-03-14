@@ -1162,3 +1162,47 @@
 2026-03-14 07:51:20,157 [WARNING]   [low] Edinburgh (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Edinburgh but increased security awareness recommended for UK cities during regional tensions.
 2026-03-14 07:51:20,159 [WARNING]   [low] Belfast (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Belfast but increased security awareness recommended for UK cities during regional tensions.
 2026-03-14 07:51:20,161 [WARNING]   [low] Liverpool (United Kingdom): Iran-related protests March 7, 2026 in London with 5,000-6,000 participants. No direct impact on Liverpool but increased security awareness recommended for UK cities during regional tensions.
+2026-03-14 10:58:24,416 [INFO] Agent starting — mode: add
+2026-03-14 10:58:24,456 [INFO] Queue has 391 cities, adding 8
+2026-03-14 10:58:24,456 [INFO] Generating new city profile: Guatemala City, Guatemala
+2026-03-14 10:59:46,513 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 10:59:46,790 [INFO] Found Wikipedia image for Guatemala City
+2026-03-14 10:59:46,791 [INFO] Saved city data: guatemala-city-guatemala
+2026-03-14 10:59:46,793 [INFO] Generating new city profile: Havana, Cuba
+2026-03-14 11:01:37,446 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:01:37,577 [INFO] Found Wikipedia image for Havana
+2026-03-14 11:01:37,578 [INFO] Saved city data: havana-cuba
+2026-03-14 11:01:37,580 [INFO] Generating new city profile: Panama City, Panama
+2026-03-14 11:03:11,417 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:03:11,563 [INFO] Found Wikipedia image for Panama City
+2026-03-14 11:03:11,564 [INFO] Saved city data: panama-city-panama
+2026-03-14 11:03:11,566 [INFO] Generating new city profile: Playa del Carmen, Mexico
+2026-03-14 11:04:43,068 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:04:43,180 [INFO] Found Wikipedia image for Playa del Carmen
+2026-03-14 11:04:43,181 [INFO] Saved city data: playa-del-carmen-mexico
+2026-03-14 11:04:43,183 [INFO] Generating new city profile: San José, Costa Rica
+2026-03-14 11:06:16,156 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:06:16,325 [INFO] Found Wikipedia image for San José
+2026-03-14 11:06:16,326 [INFO] Saved city data: san-josé-costa-rica
+2026-03-14 11:06:16,328 [INFO] Generating new city profile: San Juan, Puerto Rico
+2026-03-14 11:07:41,912 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:07:42,061 [INFO] Found Wikipedia image for San Juan
+2026-03-14 11:07:42,061 [INFO] Saved city data: san-juan-puerto-rico
+2026-03-14 11:07:42,064 [INFO] Generating new city profile: Santo Domingo, Dominican Republic
+2026-03-14 11:09:22,082 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:09:22,275 [INFO] Found Wikipedia image for Santo Domingo
+2026-03-14 11:09:22,276 [INFO] Saved city data: santo-domingo-dominican-republic
+2026-03-14 11:09:22,278 [INFO] Generating new city profile: Bali, Indonesia
+2026-03-14 11:11:00,663 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-14 11:11:00,786 [INFO] Found Wikipedia image for Bali
+2026-03-14 11:11:00,787 [INFO] Saved city data: bali-indonesia
+2026-03-14 11:11:00,809 [INFO] Merged into site data: Guatemala City
+2026-03-14 11:11:00,809 [INFO] Merged into site data: Havana
+2026-03-14 11:11:00,809 [INFO] Merged into site data: Panama City
+2026-03-14 11:11:00,810 [INFO] Merged into site data: Playa del Carmen
+2026-03-14 11:11:00,810 [INFO] Merged into site data: San José
+2026-03-14 11:11:00,810 [INFO] Merged into site data: San Juan
+2026-03-14 11:11:00,810 [INFO] Merged into site data: Santo Domingo
+2026-03-14 11:11:00,810 [INFO] Merged into site data: Bali
+2026-03-14 11:11:00,847 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-14 11:11:00,866 [INFO] Rebuilt sitemap with 270 URLs (182 cities, 82 countries, 6 static)

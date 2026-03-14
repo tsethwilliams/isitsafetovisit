@@ -5,124 +5,122 @@
   "countryCode": "MX",
   "region": "Central America & Caribbean",
   "regionSlug": "central-america-caribbean",
-  "lastUpdated": "2026-03-09",
+  "lastUpdated": "2026-03-14",
   "overallScore": 6.9,
-  "verdict": "Generally Safe",
+  "verdict": "Moderate Caution Advised",
   "badgeLabel": "Moderate Caution",
   "badgeClass": "caution",
   "scores": {
-    "pettyCrime": 6.5,
+    "pettyCrime": 6.2,
     "violentCrime": 7.5,
-    "scamRisk": 6.0,
-    "womensSafety": 7.0,
+    "scamRisk": 5.8,
+    "womensSafety": 7.2,
     "nightSafety": 6.5,
-    "transport": 7.0,
-    "naturalHazards": 8.0
+    "transport": 6.8,
+    "naturalHazards": 8.2
   },
-  "summary": "Playa del Carmen is a popular Caribbean beach town that remains relatively safe for tourists, with the main tourist areas being well-policed and monitored. While petty crime and tourist scams exist, violent crime against tourists is rare and mostly confined to areas outside the main tourist zones.",
-  "quickVerdict": "Playa del Carmen is considered generally safe for tourists, especially when sticking to the main tourist areas like Fifth Avenue, downtown, and the beach zones. The city has increased police presence and security measures in recent years. Most visitors experience trouble-free vacations, though standard precautions against petty theft and tourist scams are recommended. Solo travelers, including women, can visit safely with proper awareness.",
+  "summary": "Playa del Carmen remains a popular and relatively safe Mexican Caribbean destination with low violent crime rates affecting tourists. While petty crime and tourist scams are common concerns, millions of visitors enjoy trouble-free vacations annually in this well-policed resort town.",
+  "quickVerdict": "Playa del Carmen is generally safe for tourists, particularly those staying in resort areas or central tourist zones like Fifth Avenue. The US State Department rates Mexico as Level 2 (Exercise Increased Caution), but Quintana Roo state enjoys enhanced security specifically to protect the crucial tourism industry. The main risks involve petty theft, taxi overcharging, and occasional police corruption rather than violent crime targeting tourists. Recent traveler safety data shows a score of 91 out of 100, indicating excellent visitor experiences with proper precautions.",
   "neighborhoods": [
     {
-      "name": "Downtown/Fifth Avenue",
-      "score": 8.0,
+      "name": "Fifth Avenue (Quinta Avenida)",
+      "score": 7.8,
       "class": "safe",
-      "description": "The main tourist corridor with pedestrian-only Fifth Avenue is well-lit, heavily patrolled, and bustling with activity. Tourist police presence is strong and businesses cater to international visitors."
+      "description": "The main tourist drag with heavy foot traffic, police presence, and tourist police patrols. Well-lit and bustling but watch for pickpockets and vendors."
     },
     {
-      "name": "Playacar",
-      "score": 8.5,
-      "class": "safe",
-      "description": "Upscale residential and resort area with gated communities, private security, and well-maintained infrastructure. Popular with families and considered very safe day and night."
-    },
-    {
-      "name": "Beach Zone",
+      "name": "Centro/Downtown Core",
       "score": 7.5,
       "class": "safe",
-      "description": "The beachfront area is generally safe during daytime with lifeguards and beach patrols. Exercise caution after dark and avoid isolated beach sections, especially late at night."
+      "description": "Central area between the beach and highway with good security, hotels, and restaurants. Generally safe during day and evening hours."
     },
     {
-      "name": "Central Playa",
+      "name": "Playacar Resort Zone",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale resort area with gated communities, private security, golf courses, and controlled access. Very safe for tourists and families."
+    },
+    {
+      "name": "Beach Front Areas",
       "score": 7.0,
       "class": "safe",
-      "description": "Areas within walking distance of Fifth Avenue including 10th and 20th Avenues. Generally safe but becomes quieter at night. Use normal urban precautions after dark."
+      "description": "Popular beach zones are safe during daylight with lifeguards and vendors. Avoid isolated beach areas after 10 PM due to robbery risk."
     },
     {
-      "name": "Colosio",
-      "score": 4.0,
-      "class": "danger",
-      "description": "Residential area north of 46th Street known for higher crime rates and poverty. Tourists have little reason to visit this area and should avoid it, especially at night."
+      "name": "North of CTM Avenue",
+      "score": 4.2,
+      "class": "caution",
+      "description": "Area beyond the main tourist zone with fewer visitors and reduced police presence. Exercise caution especially at night."
     },
     {
-      "name": "Villas del Sol",
+      "name": "Colosio Neighborhood",
       "score": 3.5,
       "class": "danger",
-      "description": "Recently earned reputation as one of the more dangerous neighborhoods with the highest number of police calls in the city. Extreme poverty and crime issues make it unsafe for tourists."
+      "description": "Impoverished area north of 46th Street known for high crime rates and police calls. No tourist attractions; avoid this area entirely."
     }
   ],
   "scams": [
     {
       "name": "Taxi Overcharging",
       "risk": "high",
-      "description": "Taxi drivers quote inflated prices to tourists, especially around Fifth Avenue and transportation hubs. Prices can be 2-3 times the normal rate.",
-      "howToAvoid": "Agree on price before getting in, use official taxi stands, or use WhatsApp taxi services. Learn standard zone rates and negotiate firmly."
+      "description": "Drivers inflate prices for tourists, especially from airport or when intoxicated. Some may demand ATM withdrawals.",
+      "howToAvoid": "Use official taxi stands, negotiate fare upfront, or use WhatsApp taxi services. Know official zone rates."
     },
     {
-      "name": "ATM Skimming",
+      "name": "ATM Card Skimming",
       "risk": "medium",
-      "description": "Fake ATMs or skimming devices on machines along Fifth Avenue and tourist areas that steal card information and funds.",
-      "howToAvoid": "Only use ATMs inside banks with security cameras. Avoid standalone ATMs on streets. Check for suspicious devices before inserting card."
+      "description": "Card skimmers placed on Fifth Avenue ATMs and tourist area machines to steal card information.",
+      "howToAvoid": "Only use ATMs inside banks with security cameras. Cover your PIN and inspect machines for tampering."
     },
     {
-      "name": "Timeshare Presentations",
+      "name": "Fake Hotel Worker Scam",
       "risk": "medium",
-      "description": "Aggressive sales tactics offering free tours, meals, or activities in exchange for attending high-pressure timeshare presentations that can last hours.",
-      "howToAvoid": "Politely decline offers from street promoters. If interested, only book through official hotel concierge or reputable tour companies."
+      "description": "Street promoters claim to work at your hotel to gain trust and direct you to overpriced stores or timeshare presentations.",
+      "howToAvoid": "Verify credentials and ignore unsolicited approaches from street vendors claiming hotel affiliation."
     },
     {
       "name": "Police Extortion",
       "risk": "medium",
-      "description": "Some reports of corrupt police targeting tourists, especially those who appear intoxicated, demanding bribes or confiscating money during fake drug searches.",
-      "howToAvoid": "Stay sober in public, travel in groups, keep limited cash visible, ask for identification and supervisor if stopped. Report incidents to tourist police."
+      "description": "Corrupt officers may target tourists for fake drug searches or traffic violations to demand bribes.",
+      "howToAvoid": "Stay in well-lit tourist areas, avoid carrying large amounts of cash, and politely request official documentation."
     }
   ],
   "soloFemale": {
-    "overview": "Playa del Carmen is considered moderately safe for solo female travelers, with thousands visiting annually without incident. The main tourist areas are well-patrolled and female-friendly, though standard precautions should be taken, especially at night and when consuming alcohol.",
+    "overview": "Playa del Carmen is generally safe for solo female travelers and ranks as the 7th safest place in Mexico for women traveling alone. The tourist areas have good security presence and many other solo female travelers visit regularly. However, standard precautions should be taken, especially regarding nightlife and transportation.",
     "tips": [
-      "Stay in central areas near Fifth Avenue and avoid isolated beaches after 10 PM",
-      "Use official transportation services rather than unmarked taxis, especially at night",
-      "Watch drinks carefully at bars and never accept drinks from strangers",
-      "Stay in accommodations with good reviews and security, preferably women-only dorms if using hostels",
-      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+      "Stay in central hotels near Fifth Avenue or Playacar for better security and lighting",
+      "Use WhatsApp taxi services or official taxi stands rather than hailing cabs on the street",
+      "Avoid walking alone on beaches after 10 PM and stick to well-lit main streets",
+      "Be cautious in nightlife areas and never leave drinks unattended due to spiking reports",
+      "Consider joining group activities or dance classes instead of clubbing alone"
     ]
   },
   "nightSafety": {
-    "overview": "Playa del Carmen's nightlife is generally safe in the main tourist zones, with Fifth Avenue and the club district being well-lit and patrolled. However, caution is needed after midnight, particularly on isolated beaches and when heavily intoxicated. The party scene attracts both fun-seekers and opportunistic criminals.",
+    "overview": "Playa del Carmen's nightlife areas are generally safe with good tourist police presence, but risks increase after midnight, particularly on beaches and side streets. The main Fifth Avenue corridor remains busy and relatively secure throughout the night, though petty crime like pickpocketing becomes more common in crowded areas.",
     "tips": [
-      "Stick to well-lit, busy areas like Fifth Avenue and the main club district on 12th Street",
-      "Avoid walking alone on beaches after 10 PM as this is the prime location for tourist robberies",
-      "Use official taxis or organized transport rather than walking late at night when intoxicated",
-      "Keep drinks in sight and be cautious of overly friendly strangers offering drugs or assistance",
-      "Travel in groups when possible and establish meeting points in case you get separated"
+      "Stay on well-lit main streets like Fifth Avenue and First Avenue near the beach",
+      "Avoid romantic walks on dark beach areas after 10 PM due to robbery incidents",
+      "Travel in groups when possible and use taxis for transportation after dark",
+      "Watch drinks carefully at beach clubs and bars due to reported spiking incidents",
+      "Keep valuables secured and avoid displaying expensive items or large amounts of cash"
     ]
   },
   "transport": {
-    "metro": "No metro system exists in Playa del Carmen.",
-    "rideshare": "Uber and other ride-sharing apps are now legal and operating, though coverage is best in downtown and resort areas. InDrive is also popular for negotiable fares.",
-    "taxis": "Official white taxis with turquoise stripes are abundant but don't use meters - prices are set by zone. Always agree on fare before departing. WhatsApp taxi services offer transparent pricing and are recommended for tourists.",
-    "tips": "Transportation is generally safe during daylight hours. Use official taxis from designated stands rather than street hails. For airport transfers, book private transportation in advance rather than relying on random taxis."
+    "metro": "No metro system exists. Local transportation relies on buses, taxis, and colectivos (shared minivans).",
+    "rideshare": "Uber is not available. WhatsApp taxi services provide safer alternatives to street taxis with advance booking and known drivers.",
+    "taxis": "Official taxis are generally safe but overcharging tourists is common. Use taxi stands with posted rates or negotiate prices beforehand. Avoid unlicensed vehicles.",
+    "tips": "ADO buses connect safely to Cancun Airport and other destinations. Always agree on taxi fares upfront and consider using hotel transportation for airport transfers."
   },
   "customs": [
-    "Greet people with 'Buenos dias' or 'Buenas tardes' - failing to greet in shops or restaurants is considered rude",
-    "Tipping is expected - 10-15% at restaurants, 10-20 pesos for hotel staff, parking attendants, and grocery baggers",
-    "Dress modestly when visiting churches or sacred sites - cover shoulders and avoid shorts",
-    "Personal space is closer than in Anglo cultures - light touches during conversation are normal",
-    "Say proper goodbyes with physical contact like handshakes rather than just waving from a distance"
+    "Greet people with handshakes or cheek kisses; physical contact during greetings is customary and shows warmth",
+    "Use formal address (usted) with elders and new acquaintances; say 'con permiso' when passing by people",
+    "Tipping 10-15% is standard at restaurants; say 'buen provecho' when passing diners or starting meals"
   ],
   "health": {
-    "overview": "Healthcare in Playa del Carmen is of good quality with several private hospitals catering to tourists. English-speaking medical staff are available at major facilities. Medical tourism is popular due to quality care at lower costs.",
-    "water": "Never drink tap water - it's not safe for tourists. Use bottled water for drinking, brushing teeth, and avoid ice in drinks. Most accommodations provide safe drinking water.",
-    "vaccinations": "No special vaccinations required beyond routine ones. Hepatitis A and typhoid are recommended for travelers. Yellow fever vaccination not required unless arriving from infected area.",
-    "altitude": "Playa del Carmen is at sea level with a tropical climate. Main health risks are heat exhaustion, dehydration, sunburn, and foodborne illnesses. Hurricane season runs June-November with peak risk August-October."
+    "overview": "Mexico requires no mandatory vaccinations for entry, but Hepatitis A, Typhoid, and routine vaccines are recommended. The region experiences mosquito-borne illnesses including dengue, chikungunya, and Zika at low levels.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and cooking. Most hotels and restaurants provide purified water.",
+    "vaccinations": "Recommended: Hepatitis A, Typhoid, updated Tetanus. Consider Hepatitis B for adventure activities. Measles outbreaks reported in early 2026 with cases in Playa del Carmen.",
+    "altitude": "Sea level location with tropical climate. Hurricane season runs June-November with peak August-October. Use mosquito repellent and sun protection."
   },
   "emergency": {
     "general": "911",
@@ -130,28 +128,28 @@
     "ambulance": "911",
     "fire": "911",
     "touristPolice": "911 (request tourist police)",
-    "usEmbassy": "U.S. Consular Agency Playa del Carmen: +52-984-873-0303 (Mon-Fri 9AM-1PM). For emergencies: U.S. Embassy Mexico City +52-55-2579-2000"
+    "usEmbassy": "US Consular Agency Playa del Carmen: Address varies - contact main Mexico City embassy +52-55-5080-2000 for current local agent information. Canadian Consulate: +52-984-803-2411. For emergencies, contact your embassy through 911 system."
   },
   "faq": [
     {
       "q": "Is Playa del Carmen safe for tourists?",
-      "a": "Yes, Playa del Carmen is generally safe for tourists. The main tourist areas are well-policed and millions visit annually without incident. Violent crime against tourists is rare, though petty theft and scams exist. Stay in main tourist zones and use common sense precautions."
+      "a": "Yes, Playa del Carmen is generally safe for tourists with millions visiting annually without incident. The main risks are petty crime and scams rather than violent crime. Stay in tourist areas and use common sense precautions."
     },
     {
       "q": "Is Playa del Carmen safe at night?",
-      "a": "The main nightlife areas like Fifth Avenue and 12th Street are safe at night with good lighting and police presence. However, avoid isolated beaches after 10 PM and be extra cautious when drinking. Use official transportation rather than walking alone late at night."
+      "a": "The main tourist areas like Fifth Avenue are safe at night with good lighting and police presence. Avoid dark beach areas after 10 PM and use taxis for transportation. Stay in groups when possible and watch your drinks."
     },
     {
       "q": "Is Playa del Carmen safe for solo female travelers?",
-      "a": "Yes, many solo female travelers visit Playa del Carmen safely. The tourist areas are female-friendly with good infrastructure. Take standard precautions like staying in well-reviewed accommodations, avoiding excessive alcohol, and using official transportation at night."
+      "a": "Yes, it ranks as one of Mexico's safest destinations for solo women. Many solo female travelers visit safely. Use official transportation, stay in well-lit tourist areas, and be cautious with nightlife activities."
     },
     {
       "q": "What areas should I avoid in Playa del Carmen?",
-      "a": "Avoid the Colosio neighborhood north of 46th Street and Villas del Sol area, which have higher crime rates. Also avoid isolated beach sections after dark and be cautious of street vendors offering drugs or overly friendly strangers trying to lure you away from main areas."
+      "a": "Avoid Colosio neighborhood north of 46th Street, dark beach areas after 10 PM, and areas beyond the main tourist zone between the highway and ocean. Stick to Fifth Avenue, downtown core, and Playacar areas."
     },
     {
       "q": "Is it safe to use public transport in Playa del Carmen?",
-      "a": "Official white taxis with turquoise stripes are generally safe, though agree on price beforehand. Colectivo vans are safe for intercity travel. Ride-sharing apps like Uber are now legal and operating. Avoid unmarked vehicles and random taxis hailed on the street, especially at night."
+      "a": "Local buses and colectivos are generally safe during daytime. Taxis are safe but may overcharge tourists - use official stands or WhatsApp taxi services. ADO buses for longer distances are reliable and secure."
     }
   ],
   "relatedCities": [
@@ -159,5 +157,6 @@
     "tulum",
     "cozumel"
   ],
-  "_city_id": "playa-del-carmen-mexico"
+  "_city_id": "playa-del-carmen-mexico",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aerial_of_Playa_del_Carmen%2C_Mexico_%2828708057347%29.jpg/1280px-Aerial_of_Playa_del_Carmen%2C_Mexico_%2828708057347%29.jpg"
 }

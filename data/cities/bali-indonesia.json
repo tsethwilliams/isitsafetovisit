@@ -1,211 +1,166 @@
 {
-  "city_id": "bali-indonesia",
-  "city_name": "Bali",
+  "slug": "bali",
+  "name": "Bali",
   "country": "Indonesia",
-  "overall_safety_score": 0,
-  "last_updated": "2026-03-07T03:46:35.869101+00:00",
-  "auto_generated": true,
-  "human_reviewed": false,
-  "safety_scores": {
-    "overall_safety": 72,
-    "petty_crime": 68,
-    "violent_crime": 85,
-    "tourist_scams": 62,
-    "transportation": 55,
-    "nightlife_safety": 70,
-    "lgbtq_safety": 58,
-    "women_solo_travel": 76,
-    "health_safety": 70,
-    "natural_disasters": 65,
-    "political_stability": 75
+  "countryCode": "ID",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-14",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.2,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.0,
+    "naturalHazards": 6.8
   },
-  "travel_advisory": {
-    "level": 2,
-    "title": "Exercise Increased Caution",
-    "description": "US State Department advises exercising increased caution in Indonesia due to terrorism and natural disasters. Bali itself is generally considered safer than many other parts of Indonesia.",
-    "last_updated": "2026-03-07",
-    "source": "US State Department"
-  },
-  "safety_summary": "Bali is generally safe for tourists with moderate precautions. Most visitors experience trouble-free trips, though awareness is needed for traffic safety, petty crime, and tourist scams. The island has good tourism infrastructure and low violent crime rates.",
-  "key_risks": [
-    "Traffic accidents, especially involving scooters",
-    "Petty theft and phone snatching in tourist areas",
-    "Tourist scams targeting inexperienced travelers",
-    "Foodborne illness and waterborne diseases",
-    "Natural disasters (earthquakes, volcanic activity)"
-  ],
-  "positive_factors": [
-    "Low violent crime rates",
-    "Tourist-friendly infrastructure",
-    "English-speaking staff in tourist areas",
-    "Good private healthcare facilities",
-    "Strong local culture of hospitality"
-  ],
-  "content_sections": {
-    "crime_safety": {
-      "title": "Crime Safety",
-      "content": "Bali has relatively low crime rates compared to many global destinations. Petty theft accounts for 40% of reported crimes, with incidents mainly involving pickpocketing, bag snatching, and phone theft in crowded areas like Kuta, Seminyak, and Canggu. Violent crime targeting tourists is rare. Most criminal incidents are opportunistic and occur around tourist attractions and transportation hubs. The island has good police presence in tourist areas, with dedicated tourist police stations providing English-language assistance.",
-      "score": 75
+  "summary": "Bali is considered one of the safest destinations in Southeast Asia for tourists, with low violent crime rates and a welcoming local culture rooted in Hindu traditions. The main safety concerns are petty crime like phone snatching, traffic accidents involving scooters, and occasional natural disasters due to its location on the Pacific Ring of Fire.",
+  "quickVerdict": "Bali is generally safe for tourists when common-sense precautions are taken. The island has extremely low violent crime rates and a tourist-friendly infrastructure, but visitors should be aware of petty theft, especially motorbike snatching in tourist areas, and exercise caution on the roads. Natural disasters like earthquakes and volcanic activity are monitored, and health risks like Bali Belly are manageable with proper food and water safety. Solo female travelers report feeling comfortable and welcomed, making Bali an excellent choice for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Ubud",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The cultural heart of Bali with low crime rates, peaceful atmosphere, and strong community values. Very safe for solo travelers and families, with the main risks being traffic and wildlife encounters at temple areas."
     },
-    "scams_fraud": {
-      "title": "Scams and Fraud",
-      "content": "Common tourist scams include money changer fraud, overcharging by taxis without meters, fake temple donation requests, and inflated prices for tours. Transport-related scams are frequent, with some taxi drivers claiming broken meters or quoting inflated flat rates. Money exchange scams involve sleight-of-hand tricks or hidden fees at unofficial kiosks. Visitors should use reputable exchange services, insist on taxi meters, and verify prices before agreeing to services.",
-      "score": 62
+    {
+      "name": "Sanur",
+      "score": 8.2,
+      "class": "safe",
+      "description": "A family-friendly coastal town with calm beaches, slower pace, and minimal nightlife issues. Features a safe 7km beachfront promenade and is considered ideal for first-time visitors to Bali."
     },
-    "transportation": {
-      "title": "Transportation Safety",
-      "content": "Traffic safety is the biggest risk for tourists in Bali. Scooter accidents are common due to narrow, crowded roads and inexperienced riders. Many tourists underestimate the risks of driving on unfamiliar roads. Ride-hailing apps like Grab and Gojek are generally safer alternatives. Public transportation is limited, making private transport or ride-hailing preferred options. International driving permits are required and strictly enforced. Traffic flows on the left side, and road conditions can be challenging.",
-      "score": 55
+    {
+      "name": "Nusa Dua",
+      "score": 8.0,
+      "class": "safe",
+      "description": "An upscale resort area with controlled access, private security, and minimal crime. The planned development offers excellent safety for families and luxury travelers."
     },
-    "health_medical": {
-      "title": "Health and Medical",
-      "content": "Bali has good private healthcare facilities, particularly in tourist areas. Major hospitals like BIMC, Siloam, and Bali International Hospital offer international-standard care with English-speaking staff. Common health risks include 'Bali belly' (food poisoning), dengue fever, and dehydration. Tap water is not safe to drink. Medical evacuation insurance is recommended as serious cases may require transfer to Jakarta or Singapore. Prescription medications should be brought from home as some may be restricted or unavailable.",
-      "score": 70
+    {
+      "name": "Seminyak",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular beach destination with higher tourist density and prices. Generally safe but requires more awareness due to busy nightlife scene and occasional petty crime targeting tourists."
     },
-    "natural_disasters": {
-      "title": "Natural Disasters",
-      "content": "Bali sits on the Pacific Ring of Fire, making it susceptible to earthquakes, volcanic eruptions, and tsunamis. Mount Agung is an active volcano monitored closely by authorities. Recent earthquake activity includes a magnitude 4.8 earthquake near Denpasar in March 2026. Tsunami risk exists but is considered low, with Kuta and Sanur being most vulnerable coastal areas. The government has early warning systems and evacuation procedures in place. Disasters are infrequent but travelers should stay informed through official channels.",
-      "score": 65
+    {
+      "name": "Canggu",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Hip surfer town with heavy traffic congestion and moderate crime rates. Digital nomad hotspot that's generally safe but requires caution due to chaotic roads and crowded party scenes."
     },
-    "women_solo_travel": {
-      "title": "Women's Safety & Solo Travel",
-      "content": "Bali is considered one of the safer Southeast Asian destinations for solo female travelers. Most women report feeling comfortable and welcome, particularly in tourist areas like Ubud, Canggu, and Seminyak. Street harassment is relatively uncommon, and aggressive behavior is rare. The Hindu-majority culture emphasizes respect and karma. Safety concerns are mainly around nightlife areas and when using transport after dark. Many successful solo female travelers visit annually, with good support networks and women-friendly accommodations available.",
-      "score": 76
-    },
-    "lgbtq_travel": {
-      "title": "LGBTQ+ Travel",
-      "content": "LGBTQ+ rights in Indonesia are complex, with homosexuality legal in most areas but same-sex marriage not recognized. New criminal code effective January 2026 criminalizes sex outside marriage, but government officials have stated it won't target tourists or same-sex couples specifically. Bali is more tolerant than other parts of Indonesia, particularly in tourist areas. However, public displays of affection should remain discreet. LGBTQ+ travelers generally report safe experiences in Bali's tourist zones, though caution is advised outside these areas.",
-      "score": 58
-    },
-    "nightlife_safety": {
-      "title": "Nightlife Safety",
-      "content": "Bali's nightlife is generally safe when normal precautions are taken. Popular areas include Seminyak, Kuta, and Canggu, each with different atmospheres. Main safety concerns involve alcohol-related incidents, drink spiking (though rare), and transportation after drinking. Indonesia has strict drug laws with severe penalties including imprisonment. Venues in tourist areas have security measures, but travelers should watch their drinks, pace alcohol consumption, and arrange safe transportation home. Private drivers or ride-hailing apps are recommended over driving after drinking.",
-      "score": 70
-    },
-    "political_stability": {
-      "title": "Political Stability",
-      "content": "Indonesia faces ongoing political tensions and civil unrest risks, though Bali remains relatively stable due to its tourism importance. The country ranks in the lower third globally for political stability, with recent protests occurring in 2025. However, Bali's economy depends heavily on tourism (80% of GDP), providing strong incentives for maintaining security. Political instability is more common in other Indonesian regions like Papua. Demonstrations are infrequent in Bali's tourist areas, and the government prioritizes visitor safety.",
-      "score": 75
+    {
+      "name": "Kuta",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Budget party destination with the highest petty crime rates on the island. Popular with backpackers but requires extra vigilance, especially at night, due to aggressive vendors, scams, and alcohol-fueled incidents."
     }
-  },
-  "practical_advice": {
-    "general_safety": [
-      "Use reputable ride-hailing apps like Grab or Gojek",
-      "Carry minimal cash and secure valuables",
-      "Stay in well-reviewed accommodations",
-      "Keep digital copies of important documents",
-      "Purchase comprehensive travel insurance"
-    ],
-    "health_precautions": [
-      "Drink only bottled or filtered water",
-      "Eat at busy restaurants with high turnover",
-      "Use insect repellent to prevent dengue",
-      "Bring necessary medications from home",
-      "Get routine vaccinations before travel"
-    ],
-    "scam_prevention": [
-      "Use only official money changers with licenses",
-      "Insist on taxi meters or use ride-hailing apps",
-      "Confirm prices before agreeing to services",
-      "Pay only at official temple entrance counters",
-      "Be wary of unsolicited offers or help"
-    ],
-    "cultural_sensitivity": [
-      "Dress modestly when visiting temples",
-      "Remove shoes before entering sacred areas",
-      "Respect local customs and religious ceremonies",
-      "Learn basic Indonesian phrases for emergencies",
-      "Be mindful of noise levels in residential areas"
+  ],
+  "scams": [
+    {
+      "name": "Motorbike Phone Snatching",
+      "risk": "high",
+      "description": "Thieves on motorbikes grab phones and bags from tourists walking along roads or riding scooters. This is the most common crime affecting visitors in Bali.",
+      "howToAvoid": "Keep phones in secure bags, avoid holding them while walking near roads, use crossbody bags, and be extra cautious in busy tourist areas like Kuta and Seminyak."
+    },
+    {
+      "name": "Fake Taxi Drivers",
+      "risk": "medium",
+      "description": "Drivers claiming broken meters and charging inflated fixed prices, or fake Blue Bird taxis painted to deceive tourists. Some demand payment upfront or take detours to commission-paying shops.",
+      "howToAvoid": "Use Grab or Gojek ride-hailing apps, only use legitimate Blue Bird taxis with working meters, or book taxis through your hotel. Always verify the driver matches the app photo."
+    },
+    {
+      "name": "Money Changer Sleight of Hand",
+      "risk": "medium",
+      "description": "Unlicensed money changers offering attractive rates but using quick hand tricks to shortchange customers or replacing bills with counterfeits during counting.",
+      "howToAvoid": "Only use authorized money changers with licenses displayed, count money yourself before leaving, use banks or hotel exchanges, and avoid street-side kiosks offering too-good-to-be-true rates."
+    },
+    {
+      "name": "Temple Donation Scams",
+      "risk": "low",
+      "description": "Fake officials approaching tourists before temple entrances demanding mandatory donations, showing guestbooks with inflated amounts from previous visitors to pressure payment.",
+      "howToAvoid": "Only pay at official ticket counters with printed receipts, ignore people demanding donations before the entrance gate, and remember that temple donations are always optional."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bali is considered one of the safest destinations in Asia for solo female travelers, with low rates of street harassment and a welcoming local culture. The island has excellent infrastructure for independent travel, with many other solo female travelers, digital nomad communities, and tourist-friendly services. Most women report feeling comfortable walking alone during the day and evening in main areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe areas like Ubud, Sanur, or central Seminyak",
+      "Use Grab or Gojek for transport rather than flagging down taxis, especially at night",
+      "Be extra cautious with drinks in nightlife areas - never leave them unattended or accept from strangers",
+      "Dress modestly when visiting temples and local communities - cover shoulders and knees",
+      "Keep valuables secure and use hotel safes - petty theft is the main concern for all travelers"
     ]
   },
-  "emergency_contacts": {
-    "general_emergency": "112",
+  "nightSafety": {
+    "overview": "Bali nightlife is generally safe compared to many global destinations, with low violent crime rates and well-established tourist areas. The main risks involve drink spiking, petty theft in crowded venues, and transport safety after drinking. Areas like Ubud and Uluwatu are very safe at night, while party zones like Kuta require more caution.",
+    "tips": [
+      "Never leave drinks unattended and watch them being prepared at bars and clubs",
+      "Use licensed transport like Grab or hotel-arranged rides rather than street taxis when drinking",
+      "Stay in groups when possible and avoid walking alone in poorly lit areas",
+      "Stick to reputable venues and avoid cheap alcohol deals which may contain methanol",
+      "Keep emergency contacts saved and share location with friends when going out"
+    ]
+  },
+  "transport": {
+    "metro": "Bali has no metro system. The island relies on roads, scooters, taxis, and ride-hailing apps for transportation.",
+    "rideshare": "Grab and Gojek are the dominant ride-hailing apps, offering both car and motorcycle taxi services. They're considered safe, track all rides, and show upfront pricing. Both require local SIM cards for registration.",
+    "taxis": "Blue Bird is the most reputable taxi company with metered fares, but many fake Blue Bird taxis operate. Other taxis often overcharge tourists and refuse to use meters, especially near airports and tourist areas.",
+    "tips": "Download both Grab and Gojek apps before arrival. Avoid renting scooters unless you're experienced - traffic is chaotic and accidents are common. For airport transfers, book private transport in advance to avoid taxi mafia inflated prices."
+  },
+  "customs": [
+    "Use your right hand for giving, receiving items, and eating - the left hand is considered impure",
+    "Remove shoes before entering homes, temples, and some shops - look for cues from others",
+    "Dress modestly with covered shoulders and knees when visiting temples, wear provided sarongs",
+    "Never touch someone's head, especially children - the head is considered sacred in Hindu culture",
+    "Show respect during religious ceremonies and processions - observe quietly and don't interrupt"
+  ],
+  "health": {
+    "overview": "Bali has good private healthcare facilities in tourist areas, with international-standard hospitals like BIMC and Siloam. Common health issues include Bali Belly (traveler's diarrhea), dengue fever during rainy season, and sun-related problems. Medical costs can be expensive without insurance.",
+    "water": "Tap water is not safe to drink and even locals avoid it. Use only bottled or filtered water for drinking and brushing teeth. Ice at reputable restaurants is generally safe as it's made from filtered water.",
+    "vaccinations": "No mandatory vaccinations required for entry. Consider hepatitis A and B, typhoid, and Japanese encephalitis depending on activities. Dengue vaccination is available locally for ages 6-45. Malaria risk is minimal in main tourist areas.",
+    "altitude": "Bali is at sea level with a tropical climate. Main health risks are heat exhaustion, dehydration, and sun exposure. The island has high humidity and temperatures ranging from 24-33°C year-round."
+  },
+  "emergency": {
+    "general": "112",
     "police": "110",
     "ambulance": "118",
-    "fire_department": "113",
-    "tourist_police_kuta": "+62 361 751598",
-    "tourist_police_denpasar": "+62 361 8448902",
-    "tourist_police_nusa_dua": "+62 361 7442622",
-    "search_rescue": "115",
-    "disaster_management": "117",
-    "us_embassy_jakarta": "+62 21 5083 1000"
+    "fire": "113",
+    "touristPolice": "Nusa Dua: +62 361 771 234, Kuta: +62 361 300 7777",
+    "usEmbassy": "US Consulate General Surabaya covers Bali: +62 31 297 4000. For emergencies, call US Citizens Services at +62 31 297 4000 or after hours +1 202 501 4444."
   },
-  "best_areas_to_stay": [
+  "faq": [
     {
-      "area": "Ubud",
-      "safety_score": 85,
-      "description": "Cultural center with low crime, pedestrian-friendly, strong community feel"
+      "q": "Is Bali safe for tourists?",
+      "a": "Yes, Bali is considered one of the safest destinations in Southeast Asia with very low violent crime rates and a welcoming culture. The main concerns are petty theft, traffic accidents, and occasional natural disasters, all of which are manageable with basic precautions."
     },
     {
-      "area": "Sanur",
-      "safety_score": 83,
-      "description": "Quiet beach town, paved boardwalk, relaxed atmosphere, family-friendly"
+      "q": "Is Bali safe at night?",
+      "a": "Generally yes, especially in areas like Ubud and Sanur. Nightlife areas like Seminyak are safe but require normal caution. Kuta's party scene needs extra awareness. The main risks are drink spiking and petty theft, not violent crime."
     },
     {
-      "area": "Nusa Dua",
-      "safety_score": 82,
-      "description": "Upscale resort area with security, controlled environment, excellent for families"
+      "q": "Is Bali safe for solo female travelers?",
+      "a": "Yes, Bali is excellent for solo female travel with low harassment rates and a strong community of other solo travelers. The island is very welcoming to women traveling alone, with good infrastructure and safety measures in tourist areas."
     },
     {
-      "area": "Seminyak",
-      "safety_score": 75,
-      "description": "Upmarket beach area with good infrastructure, some nightlife safety considerations"
+      "q": "What areas should I avoid in Bali?",
+      "a": "No areas are completely dangerous, but exercise more caution in Kuta at night due to higher petty crime and party atmosphere. Remote northern areas have limited emergency services. Avoid unlicensed transport and isolated beaches after dark."
     },
     {
-      "area": "Canggu",
-      "safety_score": 72,
-      "description": "Popular with digital nomads, busy traffic, moderate safety with awareness"
+      "q": "Is it safe to use public transport in Bali?",
+      "a": "There's no public transport system - use Grab/Gojek ride-hailing apps which are safe and tracked. Avoid unofficial taxis and be very careful with scooters due to chaotic traffic. Blue Bird taxis are legitimate but expensive."
     }
   ],
-  "seasonal_considerations": {
-    "dry_season": {
-      "months": "April to October",
-      "safety_notes": "Better weather conditions, more tourist activity, higher accommodation demand"
-    },
-    "wet_season": {
-      "months": "November to March",
-      "safety_notes": "Increased risk of flooding, dengue outbreaks possible, some outdoor venues may reduce hours"
-    }
-  },
-  "demographic_specific_advice": {
-    "solo_travelers": {
-      "safety_score": 76,
-      "advice": "Generally safe with good backpacker infrastructure. Stay in well-reviewed accommodations, inform someone of your plans, avoid isolated areas at night."
-    },
-    "families": {
-      "safety_score": 78,
-      "advice": "Very family-friendly destination. Main concerns are traffic safety and pool security. Choose resorts with proper safety measures and supervise children near roads."
-    },
-    "elderly_travelers": {
-      "safety_score": 74,
-      "advice": "Good healthcare available in tourist areas. Consider mobility limitations on uneven surfaces, heat sensitivity, and ensure comprehensive health insurance."
-    },
-    "budget_travelers": {
-      "safety_score": 70,
-      "advice": "Many affordable safe options available. Focus on location over luxury, use public transport alternatives, be extra vigilant with valuables."
-    }
-  },
-  "recent_incidents": [
-    {
-      "date": "2026-03-01",
-      "type": "Natural Disaster",
-      "description": "Magnitude 4.8 earthquake near Denpasar with no major damage reported"
-    },
-    {
-      "date": "2025-10-19",
-      "type": "Law Enforcement",
-      "description": "34 men arrested in Surabaya in police operation, highlighting enforcement of moral laws"
-    }
+  "relatedCities": [
+    "jakarta",
+    "yogyakarta",
+    "singapore",
+    "kuala-lumpur",
+    "bangkok"
   ],
-  "data_sources": [
-    "US State Department Travel Advisories",
-    "World Health Organization",
-    "Local police crime statistics",
-    "Tourism industry reports",
-    "Traveler safety surveys",
-    "Indonesian Meteorology Agency (BMKG)",
-    "International hospital networks"
-  ],
-  "safety_tier": "high_risk",
-  "trending": "stable"
+  "_city_id": "bali-indonesia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bali_in_Indonesia_%28special_marker%29.svg/1280px-Bali_in_Indonesia_%28special_marker%29.svg.png"
 }
