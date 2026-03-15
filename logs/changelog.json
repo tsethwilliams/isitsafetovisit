@@ -2080,5 +2080,53 @@
     "action": "alert",
     "city_id": "bodrum",
     "details": "{\"city_id\": \"bodrum\", \"alert_type\": \"regional_conflict\", \"severity\": \"medium\", \"summary\": \"Turkey involved in Iran conflict mediation discussions. Regional tensions elevated but no direct impact on Bodrum tourism infrastructure.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T11:02:34.670066+00:00",
+    "action": "add",
+    "city_id": "ulaanbaatar-mongolia",
+    "details": "New city added with score 6.7"
+  },
+  {
+    "timestamp": "2026-03-15T11:04:20.258674+00:00",
+    "action": "add",
+    "city_id": "chiang-mai-thailand",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-15T11:05:44.539820+00:00",
+    "action": "add",
+    "city_id": "phuket-thailand",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-15T11:07:26.749442+00:00",
+    "action": "add",
+    "city_id": "koh-samui-thailand",
+    "details": "New city added with score 7.0"
+  },
+  {
+    "timestamp": "2026-03-15T11:09:01.722077+00:00",
+    "action": "add",
+    "city_id": "krabi-thailand",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-15T11:10:18.575467+00:00",
+    "action": "add",
+    "city_id": "pai-thailand",
+    "details": "New city added with score 7.2"
+  },
+  {
+    "timestamp": "2026-03-15T11:11:43.415218+00:00",
+    "action": "add",
+    "city_id": "koh-phangan-thailand",
+    "details": "New city added with score 7.0"
+  },
+  {
+    "timestamp": "2026-03-15T11:13:43.200911+00:00",
+    "action": "add",
+    "city_id": "singapore-singapore",
+    "details": "New city added with score 8.8"
   }
 ]

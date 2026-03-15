@@ -1,0 +1,162 @@
+{
+  "slug": "phuket",
+  "name": "Phuket",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 5.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.0,
+    "naturalHazards": 6.3
+  },
+  "summary": "Phuket is generally safe for tourists with low violent crime rates and excellent healthcare infrastructure. Main concerns include petty scams, transport safety, and seasonal weather risks including monsoons and occasional tsunami potential.",
+  "quickVerdict": "Thailand's popular island destination maintains strong safety standards for tourists with millions visiting annually without incident. While petty scams and transport-related risks exist, violent crime against visitors is rare. The island offers world-class medical facilities, professional tourist police services, and well-developed tourism infrastructure. Natural disaster preparedness has improved significantly since the 2004 tsunami. With basic precautions and cultural awareness, most visitors enjoy a safe and rewarding experience.",
+  "neighborhoods": [
+    {
+      "name": "Patong Beach",
+      "score": 5.8,
+      "class": "caution",
+      "description": "The main tourist hub with vibrant nightlife but higher risk of petty crime, overcharging, and aggressive touts. Bangla Road can be chaotic at night with drink spiking concerns."
+    },
+    {
+      "name": "Kata/Karon Beach",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Family-friendly beach areas with calmer atmosphere, good security, and lower crime rates. Popular with couples and families seeking relaxation over nightlife."
+    },
+    {
+      "name": "Old Phuket Town",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic district with cultural attractions, well-maintained streets, and regular police presence. Generally safe for walking during day and early evening hours."
+    },
+    {
+      "name": "Bang Tao/Surin",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upmarket area with luxury resorts, beach clubs, and minimal crime issues. Higher security presence and well-maintained infrastructure make it very safe for tourists."
+    },
+    {
+      "name": "Kamala Beach",
+      "score": 7.6,
+      "class": "safe",
+      "description": "Quieter beach town with family-oriented accommodations and low crime rates. Less crowded than main tourist areas with peaceful atmosphere and good safety record."
+    },
+    {
+      "name": "Rawai/Nai Harn",
+      "score": 4.2,
+      "class": "danger",
+      "description": "While scenic, this area has limited infrastructure, poor lighting at night, isolated beaches, and longer emergency response times. Exercise extra caution especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Jet Ski Damage Scam",
+      "risk": "high",
+      "description": "Operators rent jet skis with pre-existing damage, then demand payment for repairs upon return. May involve intimidation or fake police involvement.",
+      "howToAvoid": "Take photos/videos of jet ski from all angles before use. Never leave passport as collateral. Use reputable operators recommended by hotels."
+    },
+    {
+      "name": "Taxi/Tuk-Tuk Overcharging",
+      "risk": "high",
+      "description": "Drivers refuse to use meters or quote inflated flat rates, especially near tourist areas. May involve detours to commission-paying shops.",
+      "howToAvoid": "Use Grab or Bolt apps for transparent pricing. Insist on meter use. Agree on price before starting journey. Walk away if driver refuses reasonable fare."
+    },
+    {
+      "name": "Gem and Tailor Scams",
+      "risk": "medium",
+      "description": "Friendly locals or drivers offer to take you to 'special government sales' of gems or custom tailoring at 'wholesale prices' with promises of resale profits.",
+      "howToAvoid": "Ignore unsolicited offers from strangers. The Thai government doesn't sponsor jewelry shops. Buy gems only from certified retailers if interested."
+    },
+    {
+      "name": "Motorbike Rental Damage Claims",
+      "risk": "medium",
+      "description": "Rental shops claim damage to returned motorbikes and demand excessive repair fees or withhold passports until payment is made.",
+      "howToAvoid": "Photograph bike thoroughly before and after rental. Use reputable shops with good reviews. Never leave passport as deposit - offer cash deposit instead."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Phuket is generally safe for solo female travelers with thousands visiting annually without incident. Thai culture is respectful toward women, and violent crime is rare. However, standard precautions are necessary, especially in nightlife areas and when using transport.",
+    "tips": [
+      "Use Grab app for reliable transportation instead of street taxis",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Kata or Karon",
+      "Avoid isolated beaches and unlit areas after dark",
+      "Keep drinks in sight at bars and don't accept drinks from strangers",
+      "Dress modestly when visiting temples - cover shoulders and knees"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Phuket's nightlife areas are generally safe but require extra vigilance. Patong's Bangla Road can be chaotic with reports of drink spiking and overcharging. Quieter beach areas are safer but poorly lit. Tourist police patrol main areas regularly.",
+    "tips": [
+      "Stick to well-lit, busy areas and avoid walking alone on empty streets",
+      "Use Grab for transport at night rather than street taxis",
+      "Watch your drinks carefully and never leave them unattended",
+      "Stay with trusted friends and establish meeting points if separated",
+      "Keep emergency numbers saved including Tourist Police (1155)"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on the island. Public transport is limited to blue songthaew buses connecting major beaches to Phuket Town.",
+    "rideshare": "Grab and Bolt operate legally island-wide with transparent pricing and GPS tracking. Generally safer and more reliable than street taxis.",
+    "taxis": "Official taxis are safe but expensive. Meter taxis are rare - most operate on fixed rates. Airport taxis are regulated and reliable.",
+    "tips": "Download ride-hailing apps for best safety and pricing. For motorbike rentals, always wear helmets and have proper insurance. Avoid renting without international driving license."
+  },
+  "customs": [
+    "Remove shoes before entering temples, homes, and some shops",
+    "Dress modestly at religious sites - cover shoulders and knees",
+    "Show respect for Thai monarchy - stand during national anthem (8am/6pm daily)"
+  ],
+  "health": {
+    "overview": "Phuket offers world-class healthcare with international-standard private hospitals staffed by English-speaking doctors. Bangkok Phuket Hospital and Phuket International Hospital provide excellent emergency and specialized care.",
+    "water": "Tap water is not recommended for drinking. Use bottled or filtered water. Ice in tourist restaurants is generally safe.",
+    "vaccinations": "No special vaccinations required. Routine shots recommended: hepatitis A/B, typhoid, Japanese encephalitis for extended stays.",
+    "altitude": "No altitude concerns. Hot tropical climate year-round. Use sunscreen, stay hydrated, and be aware that monsoon season (May-October) brings heavy rains."
+  },
+  "emergency": {
+    "general": "191",
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199",
+    "touristPolice": "1155",
+    "usEmbassy": "US Embassy Bangkok: +66-2-205-4000. US Citizens Services: +66-2-205-4049. Consular Agency Phuket for limited services."
+  },
+  "faq": [
+    {
+      "q": "Is Phuket safe for tourists?",
+      "a": "Yes, Phuket is generally very safe for tourists with millions visiting annually. Violent crime against visitors is rare, though petty scams and overcharging can occur. The island has excellent medical facilities and tourist infrastructure."
+    },
+    {
+      "q": "Is Phuket safe at night?",
+      "a": "Most areas are safe at night with proper precautions. Stay in well-lit, busy areas and use Grab for transport. Patong's nightlife areas require extra vigilance for drink safety and potential scams."
+    },
+    {
+      "q": "Is Phuket safe for solo female travelers?",
+      "a": "Yes, Phuket is considered very safe for solo female travelers. Thai culture is respectful toward women. Use standard precautions: stay in safe neighborhoods, use reliable transport, and avoid isolated areas after dark."
+    },
+    {
+      "q": "What areas should I avoid in Phuket?",
+      "a": "Avoid isolated beaches at night, unlicensed jet ski operators, and be extra cautious in Patong's party areas. Rawai/Nai Harn can be poorly lit after dark. Always use reputable transportation and accommodation."
+    },
+    {
+      "q": "Is it safe to use public transport in Phuket?",
+      "a": "Public transport is limited but generally safe. Ride-hailing apps like Grab are safest and most convenient. Official airport transfers are reliable. Avoid unlicensed taxis and always agree on fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "chiang-mai",
+    "pattaya"
+  ],
+  "_city_id": "phuket-thailand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Phuket_Aerial.jpg/1280px-Phuket_Aerial.jpg"
+}

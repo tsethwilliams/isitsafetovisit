@@ -33750,6 +33750,1309 @@
         "shenzhen"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/1280px-Flag_of_Macau.svg.png"
+    },
+    {
+      "slug": "ulaanbaatar",
+      "name": "Ulaanbaatar",
+      "country": "Mongolia",
+      "countryCode": "MN",
+      "region": "East Asia",
+      "regionSlug": "east-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 6.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.5,
+        "scamRisk": 5.0,
+        "womensSafety": 6.5,
+        "nightSafety": 6.0,
+        "transport": 7.5,
+        "naturalHazards": 8.9
+      },
+      "summary": "Ulaanbaatar is generally safe for tourists with low violent crime rates and a stable political environment. The main concerns are petty theft in crowded areas and winter air pollution, with the capital ranking among the safest cities in Asia despite modest challenges.",
+      "quickVerdict": "Mongolia's capital is a relatively safe destination for travelers, earning a Level 1 travel advisory from the US State Department. While violent crime is rare and the country ranks 45th globally on the Peace Index, visitors should remain alert for pickpocketing in tourist areas and be aware of occasional alcohol-related incidents at night. The biggest health concern is severe winter air pollution, and solo female travelers generally report positive experiences with proper precautions.",
+      "neighborhoods": [
+        {
+          "name": "Sukhbaatar District",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The city center with government buildings, Sukhbaatar Square, and major hotels. Well-patrolled and generally safe during both day and night with good lighting and police presence."
+        },
+        {
+          "name": "Khan-Uul District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Upscale residential area with diplomatic quarter and international schools. Considered one of the safest districts with low crime rates and good infrastructure."
+        },
+        {
+          "name": "Chingeltei District",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Mixed commercial and residential area with markets and shopping centers. Generally safe but higher risk of pickpocketing in crowded areas like the State Department Store."
+        },
+        {
+          "name": "Bayanzurkh District",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Large district with both developed areas and ger settlements. Central areas are safe but exercise caution in outer ger districts, especially after dark."
+        },
+        {
+          "name": "Songinokhairkhan District",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Largest district with significant ger areas. While generally peaceful, some outer areas have limited infrastructure and should be explored with local guidance."
+        },
+        {
+          "name": "Nalaikh District",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Former mining town on the outskirts with higher unemployment and crime rates. Avoid visiting alone, especially at night, and stick to main roads if traveling through."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pickpocket Distraction Teams",
+          "risk": "high",
+          "description": "Groups of pickpockets work together in crowded areas - one distracts while others steal from bags or pockets.",
+          "howToAvoid": "Stay alert in tourist areas, markets, and public transport. Keep valuables in front pockets or money belts, avoid displaying expensive items."
+        },
+        {
+          "name": "Overpriced Bar Scheme",
+          "risk": "medium",
+          "description": "Friendly strangers invite tourists to bars or clubs where drinks are severely overmarked up and payment is enforced by bouncers.",
+          "howToAvoid": "Be wary of unsolicited invitations to bars. Check drink prices before ordering and consider staying in well-known, established venues."
+        },
+        {
+          "name": "Fake Camera Damage",
+          "risk": "medium",
+          "description": "Someone asks you to take their photo, then deliberately drops their camera and blames you for breaking it, demanding payment.",
+          "howToAvoid": "Be cautious when strangers ask you to handle their valuables. If asked to take photos, suggest they take it themselves or politely decline."
+        },
+        {
+          "name": "ATM Card Skimming",
+          "risk": "medium",
+          "description": "Criminals approach tourists at ATMs offering help to avoid fees while secretly skimming card details and watching PIN entry.",
+          "howToAvoid": "Use ATMs inside banks when possible, cover your PIN entry, decline help from strangers, and never let anyone handle your card."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travelers generally report positive experiences in Ulaanbaatar, with Mongolia ranking among the safer Asian destinations for women. The country has strong female representation in education and business, creating a relatively respectful environment. However, standard precautions are essential, particularly regarding nighttime safety and avoiding poorly lit areas.",
+        "tips": [
+          "Use reputable taxi services like UB Cab or Help Taxi rather than flagging down unmarked cars",
+          "Avoid walking alone after dark, especially in ger districts and less populated areas",
+          "Dress modestly to respect local customs and avoid unwanted attention",
+          "Stay in central accommodations near Sukhbaatar Square for better safety and access to services",
+          "Join group tours for countryside excursions rather than traveling alone to remote areas"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety in Ulaanbaatar requires increased caution, particularly due to alcohol-related incidents and reduced police presence in some areas. While violent crime remains uncommon, most safety incidents occur between 10 PM and 3 AM, especially around bars and entertainment districts. Public transportation stops around 10 PM, increasing reliance on taxis.",
+        "tips": [
+          "Avoid the Sansar district party areas late at night when drunk crowds gather",
+          "Use official taxi companies or ride-hailing apps rather than walking after dark",
+          "Stay away from ger districts and poorly lit areas at night",
+          "Avoid accepting drinks from strangers on the street as these may precede robberies",
+          "Travel in groups when possible and inform others of your plans"
+        ]
+      },
+      "transport": {
+        "metro": "Ulaanbaatar does not have a metro system. The city relies primarily on an extensive bus network with 121 routes operated by various companies, running from 7 AM to 10 PM daily.",
+        "rideshare": "UB Cab and ABA taxi are the main ride-hailing apps available, both offering English menus and registered drivers. Uber is not available in Mongolia, but these local alternatives provide similar services with cash payment.",
+        "taxis": "Official taxis are generally safe with around 600 licensed vehicles operating. Fares are approximately 1,500 MNT per kilometer. Many private cars also offer unofficial taxi services - while common, use caution and prefer marked taxis, especially for solo female travelers.",
+        "tips": "Download local taxi apps before arrival, keep small denomination tugrik notes for buses, and allow extra travel time during winter months when traffic and vehicle performance can be affected by extreme cold."
+      },
+      "customs": [
+        "Always use your right hand or both hands when giving or receiving items, with left hand supporting the right elbow in formal situations",
+        "Remove shoes when entering homes and gers, and never step on the threshold",
+        "Accept offered food and drinks as a sign of respect, at least taste everything or put it to your lips",
+        "Walk clockwise around Buddhist temples and religious sites",
+        "Never put water on fires, which are considered sacred in Mongolian culture"
+      ],
+      "health": {
+        "overview": "Ulaanbaatar has reasonable healthcare facilities for a developing city, with about 4 doctors and 8 hospital beds per 1,000 residents. However, specialized care may be limited and medical evacuation insurance is recommended for serious conditions.",
+        "water": "Tap water is not recommended for drinking. Use bottled or properly filtered water. Most restaurants and hotels provide safe drinking water.",
+        "vaccinations": "No vaccines are required for entry, but consider Hepatitis A and B, typhoid, and rabies vaccinations. Mongolia reports periodic outbreaks of anthrax and plague in rural areas.",
+        "altitude": "Ulaanbaatar sits at 1,350 meters altitude, which rarely causes issues. The main health concern is severe winter air pollution with PM2.5 levels among the world's highest, potentially aggravating respiratory conditions."
+      },
+      "emergency": {
+        "general": "105",
+        "police": "102",
+        "ambulance": "103",
+        "fire": "101",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Ulaanbaatar: +976-7007-6001, Denver Street #3, 11th Micro-District, Ulaanbaatar 14190"
+      },
+      "faq": [
+        {
+          "q": "Is Ulaanbaatar safe for tourists?",
+          "a": "Yes, Ulaanbaatar is generally safe for tourists with low violent crime rates and a Level 1 US travel advisory. Main concerns are petty theft in crowded areas and winter air pollution."
+        },
+        {
+          "q": "Is Ulaanbaatar safe at night?",
+          "a": "Exercise increased caution at night, especially after 10 PM when public transport stops. Avoid poorly lit areas, ger districts, and entertainment areas with drunk crowds. Use official taxis rather than walking."
+        },
+        {
+          "q": "Is Ulaanbaatar safe for solo female travelers?",
+          "a": "Yes, with proper precautions. Mongolia has strong female representation and most women report positive experiences. Use reputable transportation, avoid walking alone after dark, and dress modestly to respect local customs."
+        },
+        {
+          "q": "What areas should I avoid in Ulaanbaatar?",
+          "a": "Avoid Nalaikh District especially at night, outer ger districts without local guidance, and entertainment areas in Sansar district during late night hours. Exercise caution around Narantuul market due to pickpocketing."
+        },
+        {
+          "q": "Is it safe to use public transport in Ulaanbaatar?",
+          "a": "Yes, buses are generally safe and reliable during operating hours (7 AM-10 PM). Watch for pickpockets during crowded times. Taxis are safe when using official companies or ride-hailing apps like UB Cab."
+        }
+      ],
+      "relatedCities": [
+        "beijing",
+        "almaty",
+        "astana"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/1280px-UB_downtown.jpg"
+    },
+    {
+      "slug": "chiang-mai",
+      "name": "Chiang Mai",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 7.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.5,
+        "scamRisk": 7.0,
+        "womensSafety": 8.2,
+        "nightSafety": 8.0,
+        "transport": 6.5,
+        "naturalHazards": 7.0
+      },
+      "summary": "Chiang Mai is Thailand's safest major city and ranks as the top destination in Southeast Asia for safety. With very low crime rates, excellent tourist infrastructure, and a welcoming culture, it's particularly popular with solo travelers and digital nomads.",
+      "quickVerdict": "Chiang Mai consistently ranks as one of the safest cities in Southeast Asia with a crime index of just 22.2 and safety index of 77.8. The city is exceptionally safe for solo travelers including women, with most visitors reporting feeling secure walking around day or night. While petty crime like pickpocketing can occur in tourist areas, violent crime against tourists is extremely rare. The biggest safety concerns are seasonal air pollution during burning season and motorbike accidents.",
+      "neighborhoods": [
+        {
+          "name": "Old City",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic walled center with temples, hostels, and restaurants. Well-lit streets, heavy tourist presence, and regular police patrols make it the safest area for visitors."
+        },
+        {
+          "name": "Nimman",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Modern digital nomad hub with trendy cafes, shopping centers, and upscale accommodations. Very safe with good lighting and busy streets even at night."
+        },
+        {
+          "name": "Night Bazaar Area",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Main tourist shopping and dining district. Generally safe but watch for pickpockets in crowded markets and some overcharging by vendors."
+        },
+        {
+          "name": "Riverside",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Scenic area along the Ping River with restaurants and guesthouses. Safe during day but some areas poorly lit at night. Flooding risk during monsoon season."
+        },
+        {
+          "name": "University Area",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Student-friendly neighborhood with budget accommodations and local eateries. Safe environment with good public transport connections but can be noisy."
+        },
+        {
+          "name": "Outskirts/Rural Areas",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Rural areas and distant suburbs have limited lighting, fewer people, and reduced emergency services. Exercise extra caution when visiting temples or attractions outside the city center."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Tuk-Tuk Overcharging",
+          "risk": "medium",
+          "description": "Drivers quote inflated fixed prices or claim attractions are closed to redirect tourists to commission-earning shops.",
+          "howToAvoid": "Use Grab app for transparent pricing, agree on fares beforehand, or use red songthaews for cheaper local transport."
+        },
+        {
+          "name": "Gem Scam",
+          "risk": "medium",
+          "description": "Friendly locals or tuk-tuk drivers lead tourists to shops selling overpriced fake gems presented as valuable investment opportunities.",
+          "howToAvoid": "Avoid unsolicited gem shopping recommendations, never buy expensive items from unknown vendors, and be wary of too-good-to-be-true deals."
+        },
+        {
+          "name": "Motorbike Rental Damage Claims",
+          "risk": "high",
+          "description": "Rental shops claim new damage to bikes upon return and demand payment, sometimes using pre-existing damage not documented initially.",
+          "howToAvoid": "Photograph all existing damage before taking the bike, never leave passport as deposit, inspect thoroughly, and use reputable rental companies."
+        },
+        {
+          "name": "Bar Tab Inflation",
+          "risk": "medium",
+          "description": "Some bars, particularly in nightlife areas, overcharge intoxicated tourists or add unexpected cover charges and inflated drink prices.",
+          "howToAvoid": "Pay per drink rather than running a tab, check prices before ordering, avoid overly friendly strangers offering bar recommendations, and stay aware of consumption."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Chiang Mai is widely considered the safest city in Thailand for solo female travelers, ranking among the top destinations globally for women traveling alone. The city has a strong community of female travelers and expats, with excellent safety records. Most women report feeling completely comfortable walking around day and night, with very low rates of harassment or unwanted attention.",
+        "tips": [
+          "Join the active Chiang Mai Nomad Girls Facebook group for support and connections with other female travelers",
+          "Stay in well-reviewed accommodations in central areas like Old City or Nimman rather than remote locations",
+          "Use Grab for late-night transportation instead of walking alone in poorly lit areas",
+          "Dress modestly when visiting temples and local neighborhoods to show cultural respect",
+          "Trust your instincts and don't hesitate to move to different accommodation if you feel uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Chiang Mai is remarkably safe at night with a nighttime safety rating of 80.97 compared to London's 37.73. The city center remains active with good lighting, and violent crime is extremely rare. Most areas have regular foot traffic until late evening, particularly around the Night Bazaar and bar districts. However, some side streets and rural areas have limited lighting.",
+        "tips": [
+          "Stick to main roads and well-lit areas, especially the Old City center and Nimman district",
+          "Use Grab or established taxi services for late-night transportation instead of walking alone",
+          "Avoid excessive alcohol consumption and never accept drinks from strangers",
+          "Stay aware in crowded areas like night markets where pickpockets may operate",
+          "Keep emergency contacts saved and inform someone of your plans when going out alone"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system. Local transport consists primarily of songthaews (red trucks), tuk-tuks, and motorbike taxis.",
+        "rideshare": "Grab is widely available and recommended for safety with transparent pricing, GPS tracking, and driver identification. Much safer than negotiating with street taxis.",
+        "taxis": "Regular taxis are available but less common. Always insist on using the meter. Many drivers may try to negotiate fixed rates that are usually higher than metered fares.",
+        "tips": "Motorbikes are popular but dangerous due to poor road conditions and chaotic traffic. Always wear helmets and get proper licenses. Songthaews are cheap shared transport but can be crowded. For safety and convenience, Grab is your best option."
+      },
+      "customs": [
+        "Remove shoes before entering homes, temples, and some businesses - this is strictly observed",
+        "Perform the 'wai' greeting by pressing palms together with slight bow, especially when greeting elders",
+        "Never point feet toward people or Buddha images as feet are considered the lowest part of the body",
+        "Dress modestly in temples with covered shoulders and knees, and avoid revealing clothing in local areas",
+        "Show absolute respect for the Thai monarchy - criticism or jokes about the royal family are illegal",
+        "Stand still during the national anthem at 8am and 6pm when it plays in public spaces"
+      ],
+      "health": {
+        "overview": "Chiang Mai has excellent private healthcare with internationally accredited hospitals like Bangkok Hospital Chiang Mai and Chiang Mai Ram Hospital. Medical costs are significantly lower than Western countries while maintaining high standards.",
+        "water": "Tap water is not recommended for drinking. Bottled water is cheap and widely available. Most hotels provide filtered water stations.",
+        "vaccinations": "Routine vaccines recommended (MMR, Hepatitis A/B, flu). Consult doctor about Japanese Encephalitis or Typhoid for extended stays in rural areas.",
+        "altitude": "The main health concern is seasonal air pollution during burning season (February-April) when PM2.5 levels can reach hazardous levels. Monitor air quality and limit outdoor activities during peak pollution."
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "US Consulate General Chiang Mai: +66 53 107 700. Located at 387 Wichayanon Road, Chiang Mai 50300."
+      },
+      "faq": [
+        {
+          "q": "Is Chiang Mai safe for tourists?",
+          "a": "Yes, Chiang Mai is extremely safe for tourists and ranks as the safest city in Southeast Asia. With very low crime rates and excellent tourist infrastructure, millions visit annually without incident. Standard precautions apply."
+        },
+        {
+          "q": "Is Chiang Mai safe at night?",
+          "a": "Chiang Mai is very safe at night, particularly in central areas like Old City and Nimman. The nighttime safety rating is twice as high as London's. Most areas remain active with good lighting until late evening."
+        },
+        {
+          "q": "Is Chiang Mai safe for solo female travelers?",
+          "a": "Absolutely. Chiang Mai is considered one of the world's safest destinations for solo female travelers. It has a strong community of female travelers and expats, with very low harassment rates and excellent safety records."
+        },
+        {
+          "q": "What areas should I avoid in Chiang Mai?",
+          "a": "No areas are particularly dangerous, but exercise extra caution in remote rural areas, poorly lit side streets at night, and during seasonal flooding. The main tourist areas are all very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Chiang Mai?",
+          "a": "Yes, but with caveats. Grab rideshare is safest. Songthaews and tuk-tuks are generally safe but watch for overcharging. Motorbikes require extreme caution due to traffic conditions and should only be used with proper licenses and helmets."
+        }
+      ],
+      "relatedCities": [
+        "bangkok",
+        "phuket",
+        "ko-samui",
+        "pattaya",
+        "krabi",
+        "chiang-rai"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/1280px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg"
+    },
+    {
+      "slug": "phuket",
+      "name": "Phuket",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 6.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.0,
+        "scamRisk": 5.5,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.0,
+        "naturalHazards": 6.3
+      },
+      "summary": "Phuket is generally safe for tourists with low violent crime rates and excellent healthcare infrastructure. Main concerns include petty scams, transport safety, and seasonal weather risks including monsoons and occasional tsunami potential.",
+      "quickVerdict": "Thailand's popular island destination maintains strong safety standards for tourists with millions visiting annually without incident. While petty scams and transport-related risks exist, violent crime against visitors is rare. The island offers world-class medical facilities, professional tourist police services, and well-developed tourism infrastructure. Natural disaster preparedness has improved significantly since the 2004 tsunami. With basic precautions and cultural awareness, most visitors enjoy a safe and rewarding experience.",
+      "neighborhoods": [
+        {
+          "name": "Patong Beach",
+          "score": 5.8,
+          "class": "caution",
+          "description": "The main tourist hub with vibrant nightlife but higher risk of petty crime, overcharging, and aggressive touts. Bangla Road can be chaotic at night with drink spiking concerns."
+        },
+        {
+          "name": "Kata/Karon Beach",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Family-friendly beach areas with calmer atmosphere, good security, and lower crime rates. Popular with couples and families seeking relaxation over nightlife."
+        },
+        {
+          "name": "Old Phuket Town",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Historic district with cultural attractions, well-maintained streets, and regular police presence. Generally safe for walking during day and early evening hours."
+        },
+        {
+          "name": "Bang Tao/Surin",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upmarket area with luxury resorts, beach clubs, and minimal crime issues. Higher security presence and well-maintained infrastructure make it very safe for tourists."
+        },
+        {
+          "name": "Kamala Beach",
+          "score": 7.6,
+          "class": "safe",
+          "description": "Quieter beach town with family-oriented accommodations and low crime rates. Less crowded than main tourist areas with peaceful atmosphere and good safety record."
+        },
+        {
+          "name": "Rawai/Nai Harn",
+          "score": 4.2,
+          "class": "danger",
+          "description": "While scenic, this area has limited infrastructure, poor lighting at night, isolated beaches, and longer emergency response times. Exercise extra caution especially after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Jet Ski Damage Scam",
+          "risk": "high",
+          "description": "Operators rent jet skis with pre-existing damage, then demand payment for repairs upon return. May involve intimidation or fake police involvement.",
+          "howToAvoid": "Take photos/videos of jet ski from all angles before use. Never leave passport as collateral. Use reputable operators recommended by hotels."
+        },
+        {
+          "name": "Taxi/Tuk-Tuk Overcharging",
+          "risk": "high",
+          "description": "Drivers refuse to use meters or quote inflated flat rates, especially near tourist areas. May involve detours to commission-paying shops.",
+          "howToAvoid": "Use Grab or Bolt apps for transparent pricing. Insist on meter use. Agree on price before starting journey. Walk away if driver refuses reasonable fare."
+        },
+        {
+          "name": "Gem and Tailor Scams",
+          "risk": "medium",
+          "description": "Friendly locals or drivers offer to take you to 'special government sales' of gems or custom tailoring at 'wholesale prices' with promises of resale profits.",
+          "howToAvoid": "Ignore unsolicited offers from strangers. The Thai government doesn't sponsor jewelry shops. Buy gems only from certified retailers if interested."
+        },
+        {
+          "name": "Motorbike Rental Damage Claims",
+          "risk": "medium",
+          "description": "Rental shops claim damage to returned motorbikes and demand excessive repair fees or withhold passports until payment is made.",
+          "howToAvoid": "Photograph bike thoroughly before and after rental. Use reputable shops with good reviews. Never leave passport as deposit - offer cash deposit instead."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Phuket is generally safe for solo female travelers with thousands visiting annually without incident. Thai culture is respectful toward women, and violent crime is rare. However, standard precautions are necessary, especially in nightlife areas and when using transport.",
+        "tips": [
+          "Use Grab app for reliable transportation instead of street taxis",
+          "Stay in well-reviewed accommodations in safe neighborhoods like Kata or Karon",
+          "Avoid isolated beaches and unlit areas after dark",
+          "Keep drinks in sight at bars and don't accept drinks from strangers",
+          "Dress modestly when visiting temples - cover shoulders and knees"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Phuket's nightlife areas are generally safe but require extra vigilance. Patong's Bangla Road can be chaotic with reports of drink spiking and overcharging. Quieter beach areas are safer but poorly lit. Tourist police patrol main areas regularly.",
+        "tips": [
+          "Stick to well-lit, busy areas and avoid walking alone on empty streets",
+          "Use Grab for transport at night rather than street taxis",
+          "Watch your drinks carefully and never leave them unattended",
+          "Stay with trusted friends and establish meeting points if separated",
+          "Keep emergency numbers saved including Tourist Police (1155)"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists on the island. Public transport is limited to blue songthaew buses connecting major beaches to Phuket Town.",
+        "rideshare": "Grab and Bolt operate legally island-wide with transparent pricing and GPS tracking. Generally safer and more reliable than street taxis.",
+        "taxis": "Official taxis are safe but expensive. Meter taxis are rare - most operate on fixed rates. Airport taxis are regulated and reliable.",
+        "tips": "Download ride-hailing apps for best safety and pricing. For motorbike rentals, always wear helmets and have proper insurance. Avoid renting without international driving license."
+      },
+      "customs": [
+        "Remove shoes before entering temples, homes, and some shops",
+        "Dress modestly at religious sites - cover shoulders and knees",
+        "Show respect for Thai monarchy - stand during national anthem (8am/6pm daily)"
+      ],
+      "health": {
+        "overview": "Phuket offers world-class healthcare with international-standard private hospitals staffed by English-speaking doctors. Bangkok Phuket Hospital and Phuket International Hospital provide excellent emergency and specialized care.",
+        "water": "Tap water is not recommended for drinking. Use bottled or filtered water. Ice in tourist restaurants is generally safe.",
+        "vaccinations": "No special vaccinations required. Routine shots recommended: hepatitis A/B, typhoid, Japanese encephalitis for extended stays.",
+        "altitude": "No altitude concerns. Hot tropical climate year-round. Use sunscreen, stay hydrated, and be aware that monsoon season (May-October) brings heavy rains."
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "US Embassy Bangkok: +66-2-205-4000. US Citizens Services: +66-2-205-4049. Consular Agency Phuket for limited services."
+      },
+      "faq": [
+        {
+          "q": "Is Phuket safe for tourists?",
+          "a": "Yes, Phuket is generally very safe for tourists with millions visiting annually. Violent crime against visitors is rare, though petty scams and overcharging can occur. The island has excellent medical facilities and tourist infrastructure."
+        },
+        {
+          "q": "Is Phuket safe at night?",
+          "a": "Most areas are safe at night with proper precautions. Stay in well-lit, busy areas and use Grab for transport. Patong's nightlife areas require extra vigilance for drink safety and potential scams."
+        },
+        {
+          "q": "Is Phuket safe for solo female travelers?",
+          "a": "Yes, Phuket is considered very safe for solo female travelers. Thai culture is respectful toward women. Use standard precautions: stay in safe neighborhoods, use reliable transport, and avoid isolated areas after dark."
+        },
+        {
+          "q": "What areas should I avoid in Phuket?",
+          "a": "Avoid isolated beaches at night, unlicensed jet ski operators, and be extra cautious in Patong's party areas. Rawai/Nai Harn can be poorly lit after dark. Always use reputable transportation and accommodation."
+        },
+        {
+          "q": "Is it safe to use public transport in Phuket?",
+          "a": "Public transport is limited but generally safe. Ride-hailing apps like Grab are safest and most convenient. Official airport transfers are reliable. Avoid unlicensed taxis and always agree on fares beforehand."
+        }
+      ],
+      "relatedCities": [
+        "bangkok",
+        "chiang-mai",
+        "pattaya"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Phuket_Aerial.jpg/1280px-Phuket_Aerial.jpg"
+    },
+    {
+      "slug": "koh-samui",
+      "name": "Koh Samui",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 8.0,
+        "scamRisk": 6.2,
+        "womensSafety": 7.5,
+        "nightSafety": 6.5,
+        "transport": 6.8,
+        "naturalHazards": 7.5
+      },
+      "summary": "Koh Samui is generally a safe destination for tourists with low violent crime rates and friendly locals. However, visitors should be aware of petty theft, motorbike safety concerns, and occasional flooding during monsoon season from October to December.",
+      "quickVerdict": "Koh Samui ranks as one of the safer Thai islands with about 80% of visitors rating their experience as safe. While violent crime against tourists is rare, petty theft and scams targeting tourists do occur, particularly in busy areas like Chaweng Beach. The biggest safety concern is motorbike accidents, which account for most tourist injuries on the island. Basic precautions and staying alert are sufficient for a safe visit.",
+      "neighborhoods": [
+        {
+          "name": "Fisherman's Village (Bophut)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic area with well-maintained streets, good lighting, and regular police presence. Popular with families and offers a refined nightlife scene with beachfront restaurants and the famous Friday Walking Market."
+        },
+        {
+          "name": "Chaweng Beach Central",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Main tourist hub with excellent infrastructure and security. While generally safe, the area can get crowded and is where most pickpocketing incidents occur. Stay vigilant in busy nightlife areas and markets."
+        },
+        {
+          "name": "Lamai Beach",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Popular beach area with good tourist facilities and moderate security presence. More laid-back than Chaweng with fewer crowds but still maintains good safety standards for visitors."
+        },
+        {
+          "name": "Choeng Mon",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Quieter upscale area with luxury resorts and calm atmosphere. Excellent for families with minimal crime reports and well-maintained infrastructure."
+        },
+        {
+          "name": "Nathon",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Working port town with basic facilities. While not dangerous, it's less tourist-oriented with limited evening activities. Exercise normal caution, especially around the ferry terminal area."
+        },
+        {
+          "name": "Remote Hills/Interior",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Mountain areas with poor road conditions and limited emergency services. Beautiful viewpoints but challenging access roads. Avoid traveling alone, especially on motorbikes, and be prepared for poor mobile coverage."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Jet Ski Damage Scam",
+          "risk": "high",
+          "description": "Rental operators claim you damaged the jet ski and demand large payments for pre-existing damage. They may threaten to call police or hold your passport.",
+          "howToAvoid": "Take photos and videos of the jet ski from all angles before use. Never leave your passport as collateral. Use reputable operators with good reviews and written rental agreements."
+        },
+        {
+          "name": "Taxi/Songthaew Overcharging",
+          "risk": "high",
+          "description": "Drivers charge inflated fares to tourists, especially from airport or ferry terminals. Some refuse to use meters or quote unrealistic flat rates.",
+          "howToAvoid": "Always agree on the fare before getting in. Use ride-sharing apps like Grab when available. Know approximate distances and fair prices. Consider pre-booking airport transfers."
+        },
+        {
+          "name": "Motorbike Rental Damage Claims",
+          "risk": "medium",
+          "description": "Rental shops claim you damaged the bike and demand payment for pre-existing scratches or mechanical issues. Some withhold security deposits unjustly.",
+          "howToAvoid": "Thoroughly document the bike's condition with photos before renting. Test all functions and note any damage. Use established rental companies and get everything in writing."
+        },
+        {
+          "name": "Bar Tab Inflation",
+          "risk": "medium",
+          "description": "Tourist-oriented bars add unexpected cover charges, claim drinks cost more than menu prices, or present inflated bills at the end of the night.",
+          "howToAvoid": "Check prices before ordering and ask about any additional charges. Keep track of what you order. Pay for drinks as you go rather than running a tab. Stick to reputable establishments."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Koh Samui is generally safe for solo female travelers with a safety rating of 3.7/5. Thai culture emphasizes respect, and harassment is relatively uncommon. Most women feel comfortable exploring during the day, though extra caution is recommended at night, especially in isolated areas.",
+        "tips": [
+          "Stick to well-lit, populated areas after dark and avoid walking alone on empty beaches at night",
+          "Stay in accommodations in main tourist areas like Chaweng, Lamai, or Bophut for better security and access to help",
+          "Use reputable transportation and avoid accepting rides from strangers or unlicensed operators",
+          "Trust your instincts and don't feel obligated to be overly friendly if someone makes you uncomfortable",
+          "Keep emergency contacts saved and inform someone of your whereabouts when heading out alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Koh Samui's nighttime safety varies by area, with a moderate rating of 6.5/10. Central tourist areas like Chaweng and Bophut are well-lit and patrolled, but safety drops significantly in remote areas. The main nightlife zones are generally safe with proper precautions.",
+        "tips": [
+          "Stay in groups when possible and use the buddy system when bar hopping",
+          "Never leave drinks unattended and watch for drink spiking, especially during busy beach parties",
+          "Use reputable taxis or ride-sharing apps rather than walking long distances alone at night",
+          "Avoid isolated beaches and poorly lit areas after dark",
+          "Keep valuables secure and avoid displaying expensive items while out at night"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists on Koh Samui. The island relies on road-based transportation.",
+        "rideshare": "Grab operates with limited drivers. InDrive is also available and often cheaper than Grab. Both apps may have longer wait times compared to mainland Thailand, so book in advance when possible.",
+        "taxis": "Yellow and red taxis are available but rarely use meters. Negotiate fares upfront and expect to pay 300-500 THB for short trips. Airport taxis charge fixed rates plus surcharges.",
+        "tips": "Songthaews (shared pickup trucks) are the cheapest option at 50-150 THB per journey but require negotiation. Motorbike taxis are quick and affordable but higher risk. Avoid renting motorbikes unless you're an experienced rider due to poor road conditions and high accident rates."
+      },
+      "customs": [
+        "Remove shoes before entering homes, temples, and some shops - look for shoes outside as a guide",
+        "Dress modestly when visiting temples, covering shoulders and knees completely",
+        "Show deep respect for the Thai monarchy - standing during the national anthem and never criticizing the royal family",
+        "Use the traditional wai greeting when appropriate but handshakes are also acceptable",
+        "Never point your feet at people or Buddha images, and keep feet on the ground in temples"
+      ],
+      "health": {
+        "overview": "Koh Samui has excellent private healthcare facilities with English-speaking staff. Bangkok Hospital Samui is the top facility, while public hospitals offer basic but adequate care at lower costs.",
+        "water": "Tap water is not safe to drink. Stick to bottled water, which is widely available and inexpensive. Most hotels provide complimentary bottled water.",
+        "vaccinations": "No special vaccinations required for Thailand. Consider hepatitis A/B and Japanese encephalitis for extended stays. Routine vaccinations should be up to date.",
+        "altitude": "Koh Samui is at sea level with tropical climate. Mosquito-borne dengue fever is present but malaria is not. Use mosquito repellent especially between 4-8 PM when Aedes mosquitoes are most active."
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "US Embassy Bangkok: +66 2 205 4000 (covers Koh Samui region). Local Bangkok Hospital Samui emergency: +66 77 429 500."
+      },
+      "faq": [
+        {
+          "q": "Is Koh Samui safe for tourists?",
+          "a": "Yes, Koh Samui is generally very safe for tourists with low violent crime rates. About 80% of visitors rate their experience as safe. The main risks are petty theft, motorbike accidents, and tourist-targeted scams, all of which can be avoided with basic precautions."
+        },
+        {
+          "q": "Is Koh Samui safe at night?",
+          "a": "Central tourist areas like Chaweng and Bophut are generally safe at night with good lighting and security presence. However, avoid isolated areas, empty beaches, and walking alone after dark. Stay in groups when possible and use reputable transportation."
+        },
+        {
+          "q": "Is Koh Samui safe for solo female travelers?",
+          "a": "Yes, Koh Samui is considered safe for solo female travelers with Thai culture emphasizing respect for women. However, exercise extra caution at night, stay in well-populated areas, and trust your instincts. Most harassment incidents are rare but basic safety awareness is important."
+        },
+        {
+          "q": "What areas should I avoid in Koh Samui?",
+          "a": "Avoid remote hill areas at night due to poor roads and limited emergency services. Be cautious in less touristy parts of Nathon after dark. While not dangerous, some nightlife areas can be sketchy late at night, so stay in groups and use reputable establishments."
+        },
+        {
+          "q": "Is it safe to use public transport in Koh Samui?",
+          "a": "Public transport is generally safe but requires negotiation. Songthaews (shared trucks) are the cheapest option but agree on fares upfront. Taxis rarely use meters so negotiate beforehand. Ride-sharing apps like Grab and InDrive offer more transparent pricing but have limited availability."
+        }
+      ],
+      "relatedCities": [
+        "phuket",
+        "krabi",
+        "koh-phi-phi"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Koh_Samui_Lipa_Noi2.jpg/960px-Koh_Samui_Lipa_Noi2.jpg"
+    },
+    {
+      "slug": "krabi",
+      "name": "Krabi",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 6.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 8.2,
+        "scamRisk": 5.5,
+        "womensSafety": 7.8,
+        "nightSafety": 7.0,
+        "transport": 6.5,
+        "naturalHazards": 6.0
+      },
+      "summary": "Krabi is one of Thailand's safest tourist destinations, with low violent crime rates and excellent infrastructure for visitors. The main concerns involve petty theft on beaches, motorbike safety, and occasional natural hazards like tsunami risk.",
+      "quickVerdict": "Krabi offers a very safe experience for tourists with minimal violent crime and friendly locals. The laid-back atmosphere and strong tourism infrastructure make it particularly welcoming for solo travelers and families. While petty theft can occur on busy beaches and transport safety requires attention (especially motorbikes), the overall risk level is low. Natural disaster preparedness is excellent following the 2004 tsunami, with comprehensive early warning systems in place.",
+      "neighborhoods": [
+        {
+          "name": "Ao Nang Beach",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The main tourist hub with excellent police presence, well-lit areas, and numerous hotels and restaurants. Very safe for tourists day and night."
+        },
+        {
+          "name": "Railay Beach",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Isolated beach peninsula accessible only by boat, creating a secure environment. Limited vehicle access enhances safety for families and solo travelers."
+        },
+        {
+          "name": "Krabi Town",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Authentic local area with lower tourist density. Generally safe but requires more cultural awareness and basic Thai phrases helpful."
+        },
+        {
+          "name": "Tonsai Beach",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Rock climbing destination with backpacker hostels. Safe but more relaxed atmosphere with some late-night partying."
+        },
+        {
+          "name": "Klong Muang",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upmarket resort area with luxury accommodations and good security. Family-friendly with less crowded beaches."
+        },
+        {
+          "name": "Remote Beach Areas",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Isolated beaches and jungle areas where pickpocketing can occur and medical help is distant. Use guided tours and avoid after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Jet Ski Damage Scam",
+          "risk": "high",
+          "description": "Rental operators claim pre-existing damage and demand excessive payment, often holding your passport as collateral.",
+          "howToAvoid": "Photograph all equipment before rental, never leave passport as deposit, use only reputable operators recommended by hotels."
+        },
+        {
+          "name": "Overpriced Taxi/Tuk-Tuk Rides",
+          "risk": "medium",
+          "description": "Drivers quote inflated fixed rates to tourists, especially from airport or to popular attractions.",
+          "howToAvoid": "Always negotiate price beforehand, use Grab app when available, or ask locals for fair price estimates."
+        },
+        {
+          "name": "Fake Travel Agency Tours",
+          "risk": "medium",
+          "description": "Unlicensed tour operators sell packages that may not include promised services or use unsafe transportation.",
+          "howToAvoid": "Book through established agencies with Tourism Authority of Thailand registration, verify credentials, and read reviews online."
+        },
+        {
+          "name": "Overcharged Bar Bills",
+          "risk": "medium",
+          "description": "Some bars inflate drink prices for tourists or add unauthorized charges, particularly in beach party areas.",
+          "howToAvoid": "Check prices before ordering, ask for itemized bills, and verify charges. Stick to well-reviewed establishments."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Krabi is exceptionally safe for solo female travelers, with many women exploring independently without issues. The relaxed beach atmosphere and strong expat community create a welcoming environment. Thai culture is respectful toward women, and harassment is rare compared to other international destinations.",
+        "tips": [
+          "Stay in well-reviewed accommodations in Ao Nang or Railay for best safety and social opportunities",
+          "Avoid isolated beaches at night and stick to main tourist areas after dark",
+          "Use official tour operators for island hopping and activities to ensure safety standards",
+          "Connect with other solo travelers at hostels or through organized tours for companionship",
+          "Trust your instincts and politely decline unwanted attention with a firm but friendly approach"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Krabi nightlife is generally safe and laid-back compared to party destinations like Phuket. Most bars close by 2 AM, and the atmosphere focuses more on beachfront relaxation than intensive clubbing. Ao Nang has the most active nightlife with good lighting and regular police presence.",
+        "tips": [
+          "Stick to well-lit main areas like Ao Nang Beach Road for nighttime activities",
+          "Use official taxi services or prearranged transport rather than walking long distances at night",
+          "Avoid excessive alcohol consumption and never leave drinks unattended",
+          "Stay with friends when possible and let others know your plans for evening activities",
+          "Be extra cautious on motorbike transportation after drinking"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists. Local transport relies on songthaews (shared pickup trucks), taxis, and motorbike taxis.",
+        "rideshare": "Grab operates in Krabi and Ao Nang with reliable service and transparent pricing. Bolt is also available as an alternative.",
+        "taxis": "Traditional taxis available but often don't use meters. Negotiate prices beforehand or use ride-hailing apps for transparency. Airport taxis operate on fixed-rate system.",
+        "tips": "Exercise extreme caution with motorbike rentals as road accidents are the leading cause of tourist deaths in Thailand. Always wear helmets, avoid night riding, and ensure proper insurance coverage."
+      },
+      "customs": [
+        "Perform the traditional wai greeting (palms together, slight bow) when meeting elders or in formal situations",
+        "Remove shoes before entering temples, homes, and many guesthouses - look for shoe piles as indicators",
+        "Never point feet toward people, Buddha images, or royal portraits as feet are considered unclean",
+        "Show absolute respect for the Thai royal family - criticism or disrespect is illegal under lese-majeste laws",
+        "Dress modestly when visiting temples - cover shoulders and knees, avoid tight or revealing clothing"
+      ],
+      "health": {
+        "overview": "Healthcare quality in Krabi is good with several hospitals serving tourists. Krabi Hospital provides public healthcare while Krabi Nakharin International Hospital offers private international-standard care with English-speaking staff.",
+        "water": "Tap water should be avoided. Bottled water is widely available and affordable. Ice in restaurants and hotels is generally safe as it comes from clean suppliers.",
+        "vaccinations": "No special vaccinations required for Thailand. Routine vaccines (MMR, DPT, flu) recommended. Consider hepatitis A/B and typhoid for extended stays.",
+        "altitude": "Tropical climate with high humidity year-round. Heat exhaustion is possible - stay hydrated, use sunscreen, and take breaks during hottest parts of day (11 AM-3 PM)."
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "US Embassy Bangkok: +66 2-205-4000 (24-hour emergency assistance for US citizens)"
+      },
+      "faq": [
+        {
+          "q": "Is Krabi safe for tourists?",
+          "a": "Yes, Krabi is one of Thailand's safest tourist destinations with low violent crime rates and excellent infrastructure. Most visitors experience no safety issues beyond minor concerns like petty theft."
+        },
+        {
+          "q": "Is Krabi safe at night?",
+          "a": "Krabi is generally safe at night, especially in main tourist areas like Ao Nang. The nightlife is laid-back compared to other Thai destinations, but basic precautions like staying in well-lit areas and using reliable transport are recommended."
+        },
+        {
+          "q": "Is Krabi safe for solo female travelers?",
+          "a": "Absolutely. Krabi is particularly welcoming for solo female travelers with many women exploring independently. The relaxed atmosphere, respectful local culture, and strong tourism infrastructure create a very safe environment."
+        },
+        {
+          "q": "What areas should I avoid in Krabi?",
+          "a": "Avoid isolated beaches and jungle areas after dark, and exercise caution in remote locations away from main tourist zones. The Thailand-Cambodia border areas (though far from Krabi) should be avoided due to ongoing conflict."
+        },
+        {
+          "q": "Is it safe to use public transport in Krabi?",
+          "a": "Yes, songthaews and official taxis are generally safe. Grab rideshare app provides additional security and transparency. However, exercise extreme caution with motorbike rentals as traffic accidents are a significant risk for tourists."
+        }
+      ],
+      "relatedCities": [
+        "phuket",
+        "koh-samui",
+        "chiang-mai",
+        "bangkok",
+        "pattaya"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wat_Tham_Sua_18.jpg/1280px-Wat_Tham_Sua_18.jpg"
+    },
+    {
+      "slug": "pai",
+      "name": "Pai",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 7.2,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.8,
+        "womensSafety": 7.6,
+        "nightSafety": 7.0,
+        "transport": 7.1,
+        "naturalHazards": 6.1
+      },
+      "summary": "Pai is a tranquil mountain town in Northern Thailand that attracts bohemian travelers, digital nomads, and backpackers seeking a relaxed atmosphere. Known for its laid-back community and stunning natural scenery including hot springs and rice fields, Pai is generally very safe for tourists with low crime rates and welcoming locals.",
+      "quickVerdict": "Pai stands out as one of Thailand's safest destinations for travelers, particularly solo female visitors. The small mountain town has minimal violent crime, a tight-knit traveler community, and locals who are genuinely helpful. While petty theft can occur as with any tourist destination, serious safety concerns are rare. The main risks involve road safety, especially for motorbike riders on winding mountain roads, and limited medical facilities for serious emergencies requiring evacuation to Chiang Mai.",
+      "neighborhoods": [
+        {
+          "name": "Pai Town Center",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The compact town center around Pai Walking Street is the safest area with well-lit streets, numerous guesthouses, restaurants, and constant foot traffic. Police and tourist police presence is regular, and locals are accustomed to helping international visitors."
+        },
+        {
+          "name": "Pai River Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The area around the Pai River offers beautiful guesthouses and is generally safe during the day. Evening walks along the river are peaceful, though lighting can be limited in some spots away from main accommodations."
+        },
+        {
+          "name": "Hot Springs Road",
+          "score": 7.2,
+          "class": "safe",
+          "description": "The route to Tha Pai Hot Springs features several guesthouses and is popular with tourists. While generally safe, some areas lack street lighting at night, making motorbike travel after dark less advisable."
+        },
+        {
+          "name": "Santichon Village",
+          "score": 6.8,
+          "class": "caution",
+          "description": "The Chinese Yunnan village area offers cultural attractions but is more isolated from the main town. While not dangerous, visitors should be more aware of their surroundings and avoid traveling alone at night."
+        },
+        {
+          "name": "Mae Yen Viewpoint Area",
+          "score": 6.5,
+          "class": "caution",
+          "description": "The hillside area leading to viewpoints offers spectacular views but involves winding roads with limited lighting. Motorbike accidents are more common here, especially for inexperienced riders."
+        },
+        {
+          "name": "Remote Countryside",
+          "score": 5.9,
+          "class": "caution",
+          "description": "Rural areas outside Pai proper are beautiful but isolated. Limited cell phone coverage, no streetlights, and challenging roads make solo travel here inadvisable, especially at night or during rainy season."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Motorbike Rental Damage Scam",
+          "risk": "medium",
+          "description": "Some rental shops pre-damage bikes or inflate repair costs for minor scratches. They may hold your passport hostage until payment.",
+          "howToAvoid": "Take detailed photos before renting, never leave your passport as collateral, use reputable shops with good reviews, and consider travel insurance covering motorbike damage."
+        },
+        {
+          "name": "Tour Agency Overcharging",
+          "risk": "medium",
+          "description": "Some agencies target foreigners with inflated prices for tours or transportation to other cities. Quality may not match the premium pricing.",
+          "howToAvoid": "Compare prices between multiple agencies, ask other travelers for recommendations, and book through established guesthouses that have partnerships with reputable tour operators."
+        },
+        {
+          "name": "Fake Charity Monks",
+          "risk": "low",
+          "description": "Occasional fake monks approach tourists asking for donations, often not genuine Buddhist monks. Real monks typically don't actively solicit money from tourists.",
+          "howToAvoid": "Real monks don't aggressively approach tourists for money. If approached, politely decline and ask guesthouse staff about legitimate temple donations if you wish to contribute."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Pai is exceptionally welcoming to solo female travelers, with many women reporting feeling completely safe and comfortable. The town has a strong community of independent female travelers, digital nomads, and backpackers. The laid-back atmosphere, helpful locals, and constant presence of other solo travelers create a supportive environment. Violent crime against women is virtually non-existent, and harassment is extremely rare.",
+        "tips": [
+          "Stay in well-reviewed guesthouses in the town center where staff speak English and know other female guests",
+          "Connect with other solo female travelers at cafes, yoga studios, and walking street markets",
+          "Exercise normal caution when riding motorbikes alone, especially on rural roads or after dark",
+          "Trust the local traveler grapevine for safety updates and recommendations from other women"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Pai is quite safe at night, especially in the town center where streets are well-lit and locals are accustomed to tourists. The Walking Street night market creates a lively, safe atmosphere until late evening. However, the rural mountain location means streets become very dark outside the main areas, and emergency services are limited.",
+        "tips": [
+          "Stick to the town center and main Walking Street area after dark",
+          "Carry a flashlight or use phone light when walking on unlit roads",
+          "Avoid solo motorbike rides on mountain roads at night due to poor visibility and road conditions",
+          "Let guesthouse staff know your plans if heading out late"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system in Pai",
+        "rideshare": "Grab and other rideshare apps have very limited availability due to the small town size and rural location",
+        "taxis": "Traditional taxis are scarce. Songthaews shared pickup trucks provide local transport, and motorbike taxis are available for short distances within town",
+        "tips": "Motorbikes are the primary transport method - rent from reputable shops, always wear helmets, and be extremely careful on winding mountain roads. For longer distances, use established minivan services to Chiang Mai."
+      },
+      "customs": [
+        "Remove shoes when entering temples and some guesthouses",
+        "Dress modestly when visiting temples, covering shoulders and knees",
+        "Never point feet toward Buddha statues or sit with feet pointing at others",
+        "Show respect for the monarchy - avoid any criticism or inappropriate comments",
+        "Use the traditional wai greeting palms together with locals when appropriate"
+      ],
+      "health": {
+        "overview": "Pai has basic medical facilities with a small district hospital and several clinics for minor issues. For serious medical emergencies, evacuation to Chiang Mai hospitals 3-4 hours away is necessary. Air quality can be poor during burning season February to April.",
+        "water": "Tap water is not safe to drink. Stick to bottled water or properly boiled water. Most guesthouses provide filtered water",
+        "vaccinations": "Routine vaccinations recommended. Hepatitis A and B, typhoid, and Japanese encephalitis may be advised. Consult travel medicine clinic before departure",
+        "altitude": "Pai is at moderate elevation around 700 meters. Climate is tropical mountain with cool season November to February, hot season March to May, and rainy season June to October. Malaria risk is minimal but dengue fever can occur during rainy months"
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "US Embassy Bangkok: +66-2-205-4000. For US citizens in emergencies outside Bangkok, contact the embassy which can coordinate with local authorities."
+      },
+      "faq": [
+        {
+          "q": "Is Pai safe for tourists?",
+          "a": "Yes, Pai is very safe for tourists with minimal crime and friendly locals. The main risks are road safety on mountain roads and limited medical facilities for serious emergencies. Basic precautions and common sense are sufficient for a safe visit."
+        },
+        {
+          "q": "Is Pai safe at night?",
+          "a": "Pai is generally safe at night, especially in the town center around Walking Street. Streets become very dark outside main areas, so carry a flashlight and avoid solo motorbike rides on rural roads after dark."
+        },
+        {
+          "q": "Is Pai safe for solo female travelers?",
+          "a": "Pai is excellent for solo female travelers with a strong community of independent women visitors. Harassment is extremely rare, violent crime is virtually non-existent, and locals are helpful. Many women report feeling completely comfortable traveling alone here."
+        },
+        {
+          "q": "What areas should I avoid in Pai?",
+          "a": "No areas are particularly dangerous, but exercise extra caution in remote countryside locations with poor road conditions and no cell coverage. Mae Yen viewpoint roads require careful motorbike driving, especially for inexperienced riders."
+        },
+        {
+          "q": "Is it safe to use public transport in Pai?",
+          "a": "Public transport options are limited but safe. Songthaews and established minivan services to Chiang Mai are reliable. Motorbike rentals are popular but require caution on winding mountain roads. Always wear helmets and avoid riding at night."
+        }
+      ],
+      "relatedCities": [
+        "chiang-mai",
+        "chiang-rai",
+        "sukhothai",
+        "luang-prabang"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/View_of_Pai_3.jpg/1280px-View_of_Pai_3.jpg"
+    },
+    {
+      "slug": "koh-phangan",
+      "name": "Koh Phangan",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 7.0,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 7.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.5,
+        "transport": 6.5,
+        "naturalHazards": 8.0
+      },
+      "summary": "Koh Phangan is generally a safe destination for tourists, with low violent crime rates and friendly locals. The island is known for its Full Moon Parties, beautiful beaches, and wellness retreats, though visitors should exercise normal precautions around nightlife events and transport safety.",
+      "quickVerdict": "Koh Phangan maintains a solid safety profile for tourists, with the island being significantly safer than many other Thai destinations. While petty crime and scams exist, particularly around tourist hotspots and party venues, violent crime against tourists remains rare. The island's relaxed atmosphere and strong tourist infrastructure make it welcoming for solo travelers, including women, though standard travel precautions around alcohol consumption and nightlife activities are advised. Healthcare facilities are adequate for most situations, with several international-standard hospitals available.",
+      "neighborhoods": [
+        {
+          "name": "Thongsala",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The main town and ferry hub with good infrastructure, police presence, hospitals, and numerous shops. Well-lit streets and constant activity make it one of the safest areas on the island."
+        },
+        {
+          "name": "Haad Rin",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Famous for Full Moon Parties but requires extra caution during events. High tourist concentration leads to increased petty crime, drink spiking concerns, and overcrowding during party periods."
+        },
+        {
+          "name": "Baan Tai",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Popular beach area with good accommodation options and tourist services. Generally safe with regular songtaew transport connections and proximity to medical facilities."
+        },
+        {
+          "name": "Chaloklum",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Quieter fishing village in the north with a local feel. Lower crime rates due to fewer tourists, though limited nightlife and services. Good for families and those seeking tranquility."
+        },
+        {
+          "name": "Tong Nai Pan",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Beautiful twin bays on the east coast with upmarket resorts. Relatively isolated location means good security but limited emergency services access during monsoon seasons."
+        },
+        {
+          "name": "Remote Interior Areas",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Jungle areas with waterfalls and viewpoints require caution due to poor road conditions, limited cell coverage, and risk of getting lost. Best visited with guides or in groups."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Motorbike Rental Damage",
+          "risk": "high",
+          "description": "Rental shops claim pre-existing damage to motorbikes upon return and demand excessive payment, sometimes holding passports as collateral.",
+          "howToAvoid": "Take detailed photos/video before renting, never leave original passport as deposit, use reputable rental shops with good reviews, and consider paying cash deposit instead."
+        },
+        {
+          "name": "Bucket Drinks Overcharging",
+          "risk": "medium",
+          "description": "Beach bars and party venues serve overpriced alcoholic bucket drinks, sometimes with hidden charges or watered-down alcohol during Full Moon events.",
+          "howToAvoid": "Agree on prices beforehand, avoid accepting drinks from strangers, stick to reputable establishments, and be particularly cautious during Full Moon Party periods."
+        },
+        {
+          "name": "Fake Tour Packages",
+          "risk": "medium",
+          "description": "Unlicensed tour operators offer cheap island hopping or snorkeling trips with poor safety standards, overcrowded boats, or unexpected additional charges.",
+          "howToAvoid": "Book through established tour agencies with proper licenses, check safety equipment before boarding boats, read recent reviews, and verify what's included in the price upfront."
+        },
+        {
+          "name": "Drug Setup Schemes",
+          "risk": "high",
+          "description": "Individuals offer drugs to tourists then arrange for police to 'discover' them shortly after, demanding large bribes to avoid arrest in areas known for party culture.",
+          "howToAvoid": "Never purchase or accept any illegal substances, be extremely wary of unsolicited offers, avoid carrying anyone else's belongings, and report suspicious approaches to tourist police."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Koh Phangan is generally safe for solo female travelers, with many women visiting alone for yoga retreats, diving courses, and even the party scene. The island has a well-established backpacker infrastructure and friendly local community. However, extra caution is needed during Full Moon Party periods and when consuming alcohol in nightlife areas.",
+        "tips": [
+          "Stay in well-reviewed accommodations with 24-hour reception and good security",
+          "Be extremely cautious with drinks at parties - never leave them unattended and consider bringing drink covers",
+          "Avoid isolated beaches and jungle areas alone, especially at night or during monsoon season",
+          "Use reputable transport options and take photos of taxi license plates when traveling alone",
+          "Connect with other travelers at hostels and join group activities for both safety and social benefits"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety varies significantly depending on location and activities. Well-lit main areas like Thongsala and popular beach strips are generally safe with regular police patrols. However, Full Moon Party nights and remote beach areas require heightened awareness due to increased alcohol consumption, drug availability, and reduced security presence.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid isolated beaches after dark",
+          "Exercise extreme caution with alcohol consumption and never accept drinks from strangers",
+          "Travel in groups when possible, especially during Full Moon Party events",
+          "Keep emergency numbers saved and ensure someone knows your whereabouts",
+          "Use licensed transport or arrange pickup rather than walking long distances at night"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system available on the island.",
+        "rideshare": "No formal rideshare services like Uber or Grab operate on Koh Phangan.",
+        "taxis": "Songtaews (shared pickup trucks) are the main public transport, with fixed routes and negotiable fares. Private taxi services available but more expensive. Always agree on fare before departure.",
+        "tips": "Motorbike rental is popular but risky - only rent if experienced, always wear helmets, and avoid night riding. Road conditions can be poor, especially to remote areas during rainy season."
+      },
+      "customs": [
+        "Remove shoes when entering temples, homes, and some businesses - this is non-negotiable cultural practice",
+        "Dress modestly when visiting temples with covered shoulders and knees, avoiding tight or revealing clothing",
+        "Show respect for the Thai monarchy - avoid any criticism or inappropriate comments about the royal family as it's illegal"
+      ],
+      "health": {
+        "overview": "Healthcare standards are good for a small island, with several private hospitals offering international-standard care. Koh Phangan Hospital and Bandon International Hospital provide 24-hour emergency services with English-speaking staff.",
+        "water": "Tap water is not safe to drink. Use bottled or filtered water for drinking and teeth brushing. Most accommodations provide filtered water.",
+        "vaccinations": "No specific vaccinations required, but hepatitis A, hepatitis B, typhoid, and Japanese encephalitis are recommended. Ensure routine vaccinations are up to date.",
+        "altitude": "Hot tropical climate year-round with high humidity. Use strong sunscreen, stay hydrated, and be aware that wounds heal slower in tropical conditions. Monsoon season brings heavy rains from October to January."
+      },
+      "emergency": {
+        "general": "191",
+        "police": "191",
+        "ambulance": "1669",
+        "fire": "199",
+        "touristPolice": "1155",
+        "usEmbassy": "Contact US Embassy Bangkok at +66 (0) 2-205-4049 for consular assistance"
+      },
+      "faq": [
+        {
+          "q": "Is Koh Phangan safe for tourists?",
+          "a": "Yes, Koh Phangan is generally safe for tourists with low violent crime rates. Most visitors experience no safety issues, though standard precautions around parties, motorbike rentals, and valuables are recommended."
+        },
+        {
+          "q": "Is Koh Phangan safe at night?",
+          "a": "Main areas and popular beaches are reasonably safe at night with police patrols, but avoid isolated areas and exercise caution during Full Moon Party events when alcohol-related incidents increase."
+        },
+        {
+          "q": "Is Koh Phangan safe for solo female travelers?",
+          "a": "Yes, many solo female travelers visit safely. Stay in reputable accommodations, avoid excessive alcohol consumption, travel in groups when possible, and be particularly cautious around party venues and at night."
+        },
+        {
+          "q": "What areas should I avoid in Koh Phangan?",
+          "a": "Avoid remote jungle areas alone, isolated beaches at night, and be extra cautious in Haad Rin during Full Moon Party periods. Also avoid unlicensed motorbike rental shops and unregulated tour operators."
+        },
+        {
+          "q": "Is it safe to use public transport in Koh Phangan?",
+          "a": "Songtaews (shared pickups) are generally safe and the main form of public transport. Motorbike taxis are common but riskier. Avoid motorbike rentals unless you're experienced, and always wear a helmet."
+        }
+      ],
+      "relatedCities": [
+        "koh-samui",
+        "koh-tao",
+        "krabi",
+        "phuket"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Koh_Phangan01.jpg/500px-Koh_Phangan01.jpg"
+    },
+    {
+      "slug": "singapore",
+      "name": "Singapore",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-15",
+      "overallScore": 8.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.8,
+        "violentCrime": 9.2,
+        "scamRisk": 7.5,
+        "womensSafety": 9.4,
+        "nightSafety": 9.1,
+        "transport": 9.0,
+        "naturalHazards": 8.3
+      },
+      "summary": "Singapore consistently ranks among the safest countries globally, with extremely low crime rates and robust security measures. The city-state's strict laws, efficient policing, and comprehensive surveillance systems create an exceptionally safe environment for tourists and residents alike.",
+      "quickVerdict": "Singapore is exceptionally safe for tourists, earning its reputation as one of the world's safest destinations. With Level 1 US travel advisory status, extremely low violent crime rates, and excellent emergency services, visitors can explore with confidence day and night. The main concerns are occasional scams targeting tourists and strict local laws that carry heavy penalties, but serious safety risks are minimal. Solo travelers, including women, consistently report feeling completely secure throughout their visits.",
+      "neighborhoods": [
+        {
+          "name": "Marina Bay",
+          "score": 9.5,
+          "class": "safe",
+          "description": "Singapore's premier tourist district featuring Marina Bay Sands, Gardens by the Bay, and the Merlion. Extensive security, constant surveillance, and heavy police presence make this area exceptionally safe at all hours."
+        },
+        {
+          "name": "Orchard Road",
+          "score": 9.2,
+          "class": "safe",
+          "description": "The main shopping belt with high-end malls and hotels. Well-lit streets, security cameras, and frequent patrols ensure excellent safety. Heavy foot traffic and business activity continue well into the evening."
+        },
+        {
+          "name": "Chinatown",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Historic cultural district with temples, heritage shops, and food centers. Generally very safe with good lighting and police presence, though crowds during festivals require normal awareness of belongings."
+        },
+        {
+          "name": "Clarke Quay",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Riverside nightlife hub with bars, restaurants, and entertainment venues. Safe overall with good security, but slightly higher risk of petty incidents due to late-night alcohol consumption and crowds."
+        },
+        {
+          "name": "Little India",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Vibrant ethnic enclave with markets, temples, and authentic dining. Safe during the day but can get crowded, especially during festivals. Exercise normal caution with belongings and avoid walking alone very late at night."
+        },
+        {
+          "name": "Geylang",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Red-light district known for its nightlife and food scene. While not unsafe by international standards, this area has slightly higher crime rates and can feel uncomfortable at night, particularly for solo travelers."
+        }
+      ],
+      "scams": [
+        {
+          "name": "E-commerce and Online Shopping Scams",
+          "risk": "high",
+          "description": "Fake online stores offering attractive deals on electronics, luxury goods, or travel packages. Scammers collect payment but never deliver products or provide counterfeit items.",
+          "howToAvoid": "Only shop from verified retailers, check reviews and business registration, avoid deals that seem too good to be true, and use secure payment methods with fraud protection."
+        },
+        {
+          "name": "Government Official Impersonation",
+          "risk": "high",
+          "description": "Scammers pose as police, tax officials, or immigration authorities via phone or messaging, claiming urgent action needed for legal issues, unpaid fines, or visa problems.",
+          "howToAvoid": "Government agencies never request money or personal details over the phone. Hang up and call the official hotline to verify. Real officials will never ask for immediate payment via bank transfer or cryptocurrency."
+        },
+        {
+          "name": "Investment and Cryptocurrency Scams",
+          "risk": "medium",
+          "description": "False investment opportunities promising high returns, often involving cryptocurrency or foreign exchange trading. May include fake trading platforms or Ponzi schemes.",
+          "howToAvoid": "Verify investment firms with MAS (Monetary Authority of Singapore), be skeptical of guaranteed high returns, never provide banking details to unverified sources, and research thoroughly before investing."
+        },
+        {
+          "name": "Tourist Overcharging Scams",
+          "risk": "low",
+          "description": "Some souvenir shops or tourist-focused restaurants may overcharge foreigners or add unexpected 'tourist fees' to bills, particularly at places like Sim Lim Square.",
+          "howToAvoid": "Check prices before purchasing, ask for itemized receipts, shop at established retailers, and be wary of electronics dealers offering suspiciously cheap deals without proper warranties."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Singapore is consistently ranked as one of the safest destinations worldwide for solo female travelers. The country's zero-tolerance policy toward harassment, well-lit streets, extensive CCTV coverage, and efficient emergency services create an exceptionally secure environment. Women can confidently explore alone day and night, with 98% of residents reporting they feel safe walking alone at night according to 2025 Gallup data.",
+        "tips": [
+          "Take advantage of the excellent public transport system which operates safely until midnight and beyond",
+          "Stay in central areas like Marina Bay, Orchard Road, or Chinatown for maximum convenience and safety",
+          "Keep emergency numbers saved: 999 for police, 995 for ambulance/fire, and download the SGSecure app for alerts",
+          "Respect local customs by dressing modestly when visiting religious sites and removing shoes when entering homes",
+          "Use ride-hailing apps like Grab for late-night transport, though public areas remain very safe after dark"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Singapore's nighttime safety is exceptional, with well-lit streets, extensive surveillance, regular police patrols, and active nightlife areas that remain secure. The city ranks first globally for walking alone at night safety. Most areas remain busy with pedestrians and business activity well into the evening, and violent crime is extremely rare. Transport runs efficiently until late, and emergency services respond rapidly 24/7.",
+        "tips": [
+          "Stick to main roads and well-lit areas, though even quieter neighborhoods are generally very safe",
+          "Be aware that some areas like Clarke Quay may have more alcohol-related incidents, but serious crime remains rare",
+          "Avoid very late-night exploration of industrial areas or construction zones as a general precaution",
+          "Keep emergency numbers handy and use official taxis or Grab for late-night transport",
+          "Take advantage of 24-hour food courts and late-night shopping areas which provide safe gathering spots"
+        ]
+      },
+      "transport": {
+        "metro": "The MRT (Mass Rapid Transit) system is world-class, clean, efficient, and very safe. Trains run from 5:30 AM to midnight with excellent security cameras and frequent staff presence. Use EZ-Link cards for contactless payment and follow etiquette rules like no eating or drinking on trains.",
+        "rideshare": "Grab is the dominant ride-hailing platform and is highly reliable and safe. All drivers are licensed and vehicles trackable. Upfront pricing eliminates meter concerns, and the app provides driver details and trip tracking for security.",
+        "taxis": "Licensed taxis are safe, regulated, and metered with standardized fares. Drivers are professional and vehicles well-maintained. Airport surcharges and peak-hour rates apply, but overcharging scams are extremely rare due to strict oversight.",
+        "tips": "Public transport is the most economical option at around S$1-2 per trip. Grab/taxis cost S$8-25+ depending on distance and time. Always use licensed operators and avoid unofficial 'taxi' offers at tourist areas."
+      },
+      "customs": [
+        "Queue patiently everywhere - jumping lines is considered very rude and locals take queuing seriously",
+        "Use your right hand for greetings, passing items, and eating - the left hand is considered unclean in many cultures",
+        "Remove shoes before entering homes, temples, and mosques as a sign of respect",
+        "Avoid pointing with your index finger, especially at people or religious items - use an open hand instead",
+        "Keep noise levels low in public spaces and avoid loud phone conversations or music",
+        "Respect the 'chope' culture - don't sit at tables with tissue packets or personal items as these reserve seats"
+      ],
+      "health": {
+        "overview": "Singapore has world-class healthcare with excellent hospitals and medical facilities. The tropical climate requires basic precautions against heat and humidity. Tap water is completely safe to drink, and food safety standards are very high, especially in licensed establishments.",
+        "water": "Tap water is safe to drink throughout Singapore and meets international quality standards. Free water is provided in most restaurants. Bottled water is widely available but unnecessary for health reasons.",
+        "vaccinations": "No specific vaccinations required for Singapore entry unless arriving from yellow fever risk countries. Ensure routine vaccinations (MMR, DPT, flu) are current. Hepatitis A and B recommended for extended stays. Consult travel medicine clinic 4-6 weeks before departure.",
+        "altitude": "Singapore is at sea level with tropical climate year-round. Temperatures average 27-32°C (80-90°F) with high humidity. Monsoon seasons bring heavy rain November-January. Stay hydrated, use sunscreen, and take breaks in air conditioning to avoid heat exhaustion."
+      },
+      "emergency": {
+        "general": "995",
+        "police": "999",
+        "ambulance": "995",
+        "fire": "995",
+        "touristPolice": "1800-255-0000",
+        "usEmbassy": "US Embassy Singapore: 27 Napier Road, Singapore 258508. Tel: +65-6476-9100. Emergency after-hours: +65-6476-9100. Consular services available Monday-Friday. Register with STEP program for alerts and assistance."
+      },
+      "faq": [
+        {
+          "q": "Is Singapore safe for tourists?",
+          "a": "Yes, Singapore is exceptionally safe for tourists and consistently ranks among the world's safest destinations. Crime rates are extremely low, emergency services are excellent, and the country has a US Level 1 travel advisory (exercise normal precautions). Tourists can explore confidently day and night."
+        },
+        {
+          "q": "Is Singapore safe at night?",
+          "a": "Singapore is very safe at night, ranking #1 globally for nighttime safety with 98% of people feeling safe walking alone after dark. Streets are well-lit, heavily surveilled, and patrolled. Nightlife areas remain active and secure, though normal urban awareness is always recommended."
+        },
+        {
+          "q": "Is Singapore safe for solo female travelers?",
+          "a": "Singapore is one of the world's safest destinations for solo female travelers. Women report feeling completely secure exploring alone, harassment is extremely rare due to strict laws, and public spaces are well-monitored. The country's zero-tolerance approach to violence against women creates an exceptionally secure environment."
+        },
+        {
+          "q": "What areas should I avoid in Singapore?",
+          "a": "Singapore has no truly dangerous areas by international standards. Geylang (red-light district) may feel less comfortable at night but isn't unsafe. Very late-night exploration of industrial areas should be avoided as a precaution, but even these areas aren't particularly risky compared to other major cities."
+        },
+        {
+          "q": "Is it safe to use public transport in Singapore?",
+          "a": "Yes, Singapore's public transport is extremely safe and efficient. The MRT system has excellent security, CCTV coverage, and staff presence. Buses and trains operate reliably with minimal crime. Follow basic etiquette rules and use contactless payment for the best experience."
+        }
+      ],
+      "relatedCities": [
+        "kuala-lumpur",
+        "bangkok",
+        "jakarta",
+        "manila",
+        "ho-chi-minh-city"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png"
     }
   ]
 }

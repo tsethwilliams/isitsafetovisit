@@ -1,0 +1,163 @@
+{
+  "slug": "koh-phangan",
+  "name": "Koh Phangan",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 6.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Koh Phangan is generally a safe destination for tourists, with low violent crime rates and friendly locals. The island is known for its Full Moon Parties, beautiful beaches, and wellness retreats, though visitors should exercise normal precautions around nightlife events and transport safety.",
+  "quickVerdict": "Koh Phangan maintains a solid safety profile for tourists, with the island being significantly safer than many other Thai destinations. While petty crime and scams exist, particularly around tourist hotspots and party venues, violent crime against tourists remains rare. The island's relaxed atmosphere and strong tourist infrastructure make it welcoming for solo travelers, including women, though standard travel precautions around alcohol consumption and nightlife activities are advised. Healthcare facilities are adequate for most situations, with several international-standard hospitals available.",
+  "neighborhoods": [
+    {
+      "name": "Thongsala",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The main town and ferry hub with good infrastructure, police presence, hospitals, and numerous shops. Well-lit streets and constant activity make it one of the safest areas on the island."
+    },
+    {
+      "name": "Haad Rin",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Famous for Full Moon Parties but requires extra caution during events. High tourist concentration leads to increased petty crime, drink spiking concerns, and overcrowding during party periods."
+    },
+    {
+      "name": "Baan Tai",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular beach area with good accommodation options and tourist services. Generally safe with regular songtaew transport connections and proximity to medical facilities."
+    },
+    {
+      "name": "Chaloklum",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quieter fishing village in the north with a local feel. Lower crime rates due to fewer tourists, though limited nightlife and services. Good for families and those seeking tranquility."
+    },
+    {
+      "name": "Tong Nai Pan",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Beautiful twin bays on the east coast with upmarket resorts. Relatively isolated location means good security but limited emergency services access during monsoon seasons."
+    },
+    {
+      "name": "Remote Interior Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Jungle areas with waterfalls and viewpoints require caution due to poor road conditions, limited cell coverage, and risk of getting lost. Best visited with guides or in groups."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Motorbike Rental Damage",
+      "risk": "high",
+      "description": "Rental shops claim pre-existing damage to motorbikes upon return and demand excessive payment, sometimes holding passports as collateral.",
+      "howToAvoid": "Take detailed photos/video before renting, never leave original passport as deposit, use reputable rental shops with good reviews, and consider paying cash deposit instead."
+    },
+    {
+      "name": "Bucket Drinks Overcharging",
+      "risk": "medium",
+      "description": "Beach bars and party venues serve overpriced alcoholic bucket drinks, sometimes with hidden charges or watered-down alcohol during Full Moon events.",
+      "howToAvoid": "Agree on prices beforehand, avoid accepting drinks from strangers, stick to reputable establishments, and be particularly cautious during Full Moon Party periods."
+    },
+    {
+      "name": "Fake Tour Packages",
+      "risk": "medium",
+      "description": "Unlicensed tour operators offer cheap island hopping or snorkeling trips with poor safety standards, overcrowded boats, or unexpected additional charges.",
+      "howToAvoid": "Book through established tour agencies with proper licenses, check safety equipment before boarding boats, read recent reviews, and verify what's included in the price upfront."
+    },
+    {
+      "name": "Drug Setup Schemes",
+      "risk": "high",
+      "description": "Individuals offer drugs to tourists then arrange for police to 'discover' them shortly after, demanding large bribes to avoid arrest in areas known for party culture.",
+      "howToAvoid": "Never purchase or accept any illegal substances, be extremely wary of unsolicited offers, avoid carrying anyone else's belongings, and report suspicious approaches to tourist police."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Koh Phangan is generally safe for solo female travelers, with many women visiting alone for yoga retreats, diving courses, and even the party scene. The island has a well-established backpacker infrastructure and friendly local community. However, extra caution is needed during Full Moon Party periods and when consuming alcohol in nightlife areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations with 24-hour reception and good security",
+      "Be extremely cautious with drinks at parties - never leave them unattended and consider bringing drink covers",
+      "Avoid isolated beaches and jungle areas alone, especially at night or during monsoon season",
+      "Use reputable transport options and take photos of taxi license plates when traveling alone",
+      "Connect with other travelers at hostels and join group activities for both safety and social benefits"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety varies significantly depending on location and activities. Well-lit main areas like Thongsala and popular beach strips are generally safe with regular police patrols. However, Full Moon Party nights and remote beach areas require heightened awareness due to increased alcohol consumption, drug availability, and reduced security presence.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid isolated beaches after dark",
+      "Exercise extreme caution with alcohol consumption and never accept drinks from strangers",
+      "Travel in groups when possible, especially during Full Moon Party events",
+      "Keep emergency numbers saved and ensure someone knows your whereabouts",
+      "Use licensed transport or arrange pickup rather than walking long distances at night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available on the island.",
+    "rideshare": "No formal rideshare services like Uber or Grab operate on Koh Phangan.",
+    "taxis": "Songtaews (shared pickup trucks) are the main public transport, with fixed routes and negotiable fares. Private taxi services available but more expensive. Always agree on fare before departure.",
+    "tips": "Motorbike rental is popular but risky - only rent if experienced, always wear helmets, and avoid night riding. Road conditions can be poor, especially to remote areas during rainy season."
+  },
+  "customs": [
+    "Remove shoes when entering temples, homes, and some businesses - this is non-negotiable cultural practice",
+    "Dress modestly when visiting temples with covered shoulders and knees, avoiding tight or revealing clothing",
+    "Show respect for the Thai monarchy - avoid any criticism or inappropriate comments about the royal family as it's illegal"
+  ],
+  "health": {
+    "overview": "Healthcare standards are good for a small island, with several private hospitals offering international-standard care. Koh Phangan Hospital and Bandon International Hospital provide 24-hour emergency services with English-speaking staff.",
+    "water": "Tap water is not safe to drink. Use bottled or filtered water for drinking and teeth brushing. Most accommodations provide filtered water.",
+    "vaccinations": "No specific vaccinations required, but hepatitis A, hepatitis B, typhoid, and Japanese encephalitis are recommended. Ensure routine vaccinations are up to date.",
+    "altitude": "Hot tropical climate year-round with high humidity. Use strong sunscreen, stay hydrated, and be aware that wounds heal slower in tropical conditions. Monsoon season brings heavy rains from October to January."
+  },
+  "emergency": {
+    "general": "191",
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199",
+    "touristPolice": "1155",
+    "usEmbassy": "Contact US Embassy Bangkok at +66 (0) 2-205-4049 for consular assistance"
+  },
+  "faq": [
+    {
+      "q": "Is Koh Phangan safe for tourists?",
+      "a": "Yes, Koh Phangan is generally safe for tourists with low violent crime rates. Most visitors experience no safety issues, though standard precautions around parties, motorbike rentals, and valuables are recommended."
+    },
+    {
+      "q": "Is Koh Phangan safe at night?",
+      "a": "Main areas and popular beaches are reasonably safe at night with police patrols, but avoid isolated areas and exercise caution during Full Moon Party events when alcohol-related incidents increase."
+    },
+    {
+      "q": "Is Koh Phangan safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit safely. Stay in reputable accommodations, avoid excessive alcohol consumption, travel in groups when possible, and be particularly cautious around party venues and at night."
+    },
+    {
+      "q": "What areas should I avoid in Koh Phangan?",
+      "a": "Avoid remote jungle areas alone, isolated beaches at night, and be extra cautious in Haad Rin during Full Moon Party periods. Also avoid unlicensed motorbike rental shops and unregulated tour operators."
+    },
+    {
+      "q": "Is it safe to use public transport in Koh Phangan?",
+      "a": "Songtaews (shared pickups) are generally safe and the main form of public transport. Motorbike taxis are common but riskier. Avoid motorbike rentals unless you're experienced, and always wear a helmet."
+    }
+  ],
+  "relatedCities": [
+    "koh-samui",
+    "koh-tao",
+    "krabi",
+    "phuket"
+  ],
+  "_city_id": "koh-phangan-thailand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Koh_Phangan01.jpg/500px-Koh_Phangan01.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "koh-samui",
+  "name": "Koh Samui",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.0,
+    "scamRisk": 6.2,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 6.8,
+    "naturalHazards": 7.5
+  },
+  "summary": "Koh Samui is generally a safe destination for tourists with low violent crime rates and friendly locals. However, visitors should be aware of petty theft, motorbike safety concerns, and occasional flooding during monsoon season from October to December.",
+  "quickVerdict": "Koh Samui ranks as one of the safer Thai islands with about 80% of visitors rating their experience as safe. While violent crime against tourists is rare, petty theft and scams targeting tourists do occur, particularly in busy areas like Chaweng Beach. The biggest safety concern is motorbike accidents, which account for most tourist injuries on the island. Basic precautions and staying alert are sufficient for a safe visit.",
+  "neighborhoods": [
+    {
+      "name": "Fisherman's Village (Bophut)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic area with well-maintained streets, good lighting, and regular police presence. Popular with families and offers a refined nightlife scene with beachfront restaurants and the famous Friday Walking Market."
+    },
+    {
+      "name": "Chaweng Beach Central",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Main tourist hub with excellent infrastructure and security. While generally safe, the area can get crowded and is where most pickpocketing incidents occur. Stay vigilant in busy nightlife areas and markets."
+    },
+    {
+      "name": "Lamai Beach",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular beach area with good tourist facilities and moderate security presence. More laid-back than Chaweng with fewer crowds but still maintains good safety standards for visitors."
+    },
+    {
+      "name": "Choeng Mon",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Quieter upscale area with luxury resorts and calm atmosphere. Excellent for families with minimal crime reports and well-maintained infrastructure."
+    },
+    {
+      "name": "Nathon",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Working port town with basic facilities. While not dangerous, it's less tourist-oriented with limited evening activities. Exercise normal caution, especially around the ferry terminal area."
+    },
+    {
+      "name": "Remote Hills/Interior",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Mountain areas with poor road conditions and limited emergency services. Beautiful viewpoints but challenging access roads. Avoid traveling alone, especially on motorbikes, and be prepared for poor mobile coverage."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Jet Ski Damage Scam",
+      "risk": "high",
+      "description": "Rental operators claim you damaged the jet ski and demand large payments for pre-existing damage. They may threaten to call police or hold your passport.",
+      "howToAvoid": "Take photos and videos of the jet ski from all angles before use. Never leave your passport as collateral. Use reputable operators with good reviews and written rental agreements."
+    },
+    {
+      "name": "Taxi/Songthaew Overcharging",
+      "risk": "high",
+      "description": "Drivers charge inflated fares to tourists, especially from airport or ferry terminals. Some refuse to use meters or quote unrealistic flat rates.",
+      "howToAvoid": "Always agree on the fare before getting in. Use ride-sharing apps like Grab when available. Know approximate distances and fair prices. Consider pre-booking airport transfers."
+    },
+    {
+      "name": "Motorbike Rental Damage Claims",
+      "risk": "medium",
+      "description": "Rental shops claim you damaged the bike and demand payment for pre-existing scratches or mechanical issues. Some withhold security deposits unjustly.",
+      "howToAvoid": "Thoroughly document the bike's condition with photos before renting. Test all functions and note any damage. Use established rental companies and get everything in writing."
+    },
+    {
+      "name": "Bar Tab Inflation",
+      "risk": "medium",
+      "description": "Tourist-oriented bars add unexpected cover charges, claim drinks cost more than menu prices, or present inflated bills at the end of the night.",
+      "howToAvoid": "Check prices before ordering and ask about any additional charges. Keep track of what you order. Pay for drinks as you go rather than running a tab. Stick to reputable establishments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Koh Samui is generally safe for solo female travelers with a safety rating of 3.7/5. Thai culture emphasizes respect, and harassment is relatively uncommon. Most women feel comfortable exploring during the day, though extra caution is recommended at night, especially in isolated areas.",
+    "tips": [
+      "Stick to well-lit, populated areas after dark and avoid walking alone on empty beaches at night",
+      "Stay in accommodations in main tourist areas like Chaweng, Lamai, or Bophut for better security and access to help",
+      "Use reputable transportation and avoid accepting rides from strangers or unlicensed operators",
+      "Trust your instincts and don't feel obligated to be overly friendly if someone makes you uncomfortable",
+      "Keep emergency contacts saved and inform someone of your whereabouts when heading out alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Koh Samui's nighttime safety varies by area, with a moderate rating of 6.5/10. Central tourist areas like Chaweng and Bophut are well-lit and patrolled, but safety drops significantly in remote areas. The main nightlife zones are generally safe with proper precautions.",
+    "tips": [
+      "Stay in groups when possible and use the buddy system when bar hopping",
+      "Never leave drinks unattended and watch for drink spiking, especially during busy beach parties",
+      "Use reputable taxis or ride-sharing apps rather than walking long distances alone at night",
+      "Avoid isolated beaches and poorly lit areas after dark",
+      "Keep valuables secure and avoid displaying expensive items while out at night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Koh Samui. The island relies on road-based transportation.",
+    "rideshare": "Grab operates with limited drivers. InDrive is also available and often cheaper than Grab. Both apps may have longer wait times compared to mainland Thailand, so book in advance when possible.",
+    "taxis": "Yellow and red taxis are available but rarely use meters. Negotiate fares upfront and expect to pay 300-500 THB for short trips. Airport taxis charge fixed rates plus surcharges.",
+    "tips": "Songthaews (shared pickup trucks) are the cheapest option at 50-150 THB per journey but require negotiation. Motorbike taxis are quick and affordable but higher risk. Avoid renting motorbikes unless you're an experienced rider due to poor road conditions and high accident rates."
+  },
+  "customs": [
+    "Remove shoes before entering homes, temples, and some shops - look for shoes outside as a guide",
+    "Dress modestly when visiting temples, covering shoulders and knees completely",
+    "Show deep respect for the Thai monarchy - standing during the national anthem and never criticizing the royal family",
+    "Use the traditional wai greeting when appropriate but handshakes are also acceptable",
+    "Never point your feet at people or Buddha images, and keep feet on the ground in temples"
+  ],
+  "health": {
+    "overview": "Koh Samui has excellent private healthcare facilities with English-speaking staff. Bangkok Hospital Samui is the top facility, while public hospitals offer basic but adequate care at lower costs.",
+    "water": "Tap water is not safe to drink. Stick to bottled water, which is widely available and inexpensive. Most hotels provide complimentary bottled water.",
+    "vaccinations": "No special vaccinations required for Thailand. Consider hepatitis A/B and Japanese encephalitis for extended stays. Routine vaccinations should be up to date.",
+    "altitude": "Koh Samui is at sea level with tropical climate. Mosquito-borne dengue fever is present but malaria is not. Use mosquito repellent especially between 4-8 PM when Aedes mosquitoes are most active."
+  },
+  "emergency": {
+    "general": "191",
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199",
+    "touristPolice": "1155",
+    "usEmbassy": "US Embassy Bangkok: +66 2 205 4000 (covers Koh Samui region). Local Bangkok Hospital Samui emergency: +66 77 429 500."
+  },
+  "faq": [
+    {
+      "q": "Is Koh Samui safe for tourists?",
+      "a": "Yes, Koh Samui is generally very safe for tourists with low violent crime rates. About 80% of visitors rate their experience as safe. The main risks are petty theft, motorbike accidents, and tourist-targeted scams, all of which can be avoided with basic precautions."
+    },
+    {
+      "q": "Is Koh Samui safe at night?",
+      "a": "Central tourist areas like Chaweng and Bophut are generally safe at night with good lighting and security presence. However, avoid isolated areas, empty beaches, and walking alone after dark. Stay in groups when possible and use reputable transportation."
+    },
+    {
+      "q": "Is Koh Samui safe for solo female travelers?",
+      "a": "Yes, Koh Samui is considered safe for solo female travelers with Thai culture emphasizing respect for women. However, exercise extra caution at night, stay in well-populated areas, and trust your instincts. Most harassment incidents are rare but basic safety awareness is important."
+    },
+    {
+      "q": "What areas should I avoid in Koh Samui?",
+      "a": "Avoid remote hill areas at night due to poor roads and limited emergency services. Be cautious in less touristy parts of Nathon after dark. While not dangerous, some nightlife areas can be sketchy late at night, so stay in groups and use reputable establishments."
+    },
+    {
+      "q": "Is it safe to use public transport in Koh Samui?",
+      "a": "Public transport is generally safe but requires negotiation. Songthaews (shared trucks) are the cheapest option but agree on fares upfront. Taxis rarely use meters so negotiate beforehand. Ride-sharing apps like Grab and InDrive offer more transparent pricing but have limited availability."
+    }
+  ],
+  "relatedCities": [
+    "phuket",
+    "krabi",
+    "koh-phi-phi"
+  ],
+  "_city_id": "koh-samui-thailand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Koh_Samui_Lipa_Noi2.jpg/960px-Koh_Samui_Lipa_Noi2.jpg"
+}

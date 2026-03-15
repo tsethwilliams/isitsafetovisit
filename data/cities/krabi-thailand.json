@@ -1,0 +1,166 @@
+{
+  "slug": "krabi",
+  "name": "Krabi",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.2,
+    "scamRisk": 5.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 6.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Krabi is one of Thailand's safest tourist destinations, with low violent crime rates and excellent infrastructure for visitors. The main concerns involve petty theft on beaches, motorbike safety, and occasional natural hazards like tsunami risk.",
+  "quickVerdict": "Krabi offers a very safe experience for tourists with minimal violent crime and friendly locals. The laid-back atmosphere and strong tourism infrastructure make it particularly welcoming for solo travelers and families. While petty theft can occur on busy beaches and transport safety requires attention (especially motorbikes), the overall risk level is low. Natural disaster preparedness is excellent following the 2004 tsunami, with comprehensive early warning systems in place.",
+  "neighborhoods": [
+    {
+      "name": "Ao Nang Beach",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The main tourist hub with excellent police presence, well-lit areas, and numerous hotels and restaurants. Very safe for tourists day and night."
+    },
+    {
+      "name": "Railay Beach",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Isolated beach peninsula accessible only by boat, creating a secure environment. Limited vehicle access enhances safety for families and solo travelers."
+    },
+    {
+      "name": "Krabi Town",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Authentic local area with lower tourist density. Generally safe but requires more cultural awareness and basic Thai phrases helpful."
+    },
+    {
+      "name": "Tonsai Beach",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Rock climbing destination with backpacker hostels. Safe but more relaxed atmosphere with some late-night partying."
+    },
+    {
+      "name": "Klong Muang",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upmarket resort area with luxury accommodations and good security. Family-friendly with less crowded beaches."
+    },
+    {
+      "name": "Remote Beach Areas",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Isolated beaches and jungle areas where pickpocketing can occur and medical help is distant. Use guided tours and avoid after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Jet Ski Damage Scam",
+      "risk": "high",
+      "description": "Rental operators claim pre-existing damage and demand excessive payment, often holding your passport as collateral.",
+      "howToAvoid": "Photograph all equipment before rental, never leave passport as deposit, use only reputable operators recommended by hotels."
+    },
+    {
+      "name": "Overpriced Taxi/Tuk-Tuk Rides",
+      "risk": "medium",
+      "description": "Drivers quote inflated fixed rates to tourists, especially from airport or to popular attractions.",
+      "howToAvoid": "Always negotiate price beforehand, use Grab app when available, or ask locals for fair price estimates."
+    },
+    {
+      "name": "Fake Travel Agency Tours",
+      "risk": "medium",
+      "description": "Unlicensed tour operators sell packages that may not include promised services or use unsafe transportation.",
+      "howToAvoid": "Book through established agencies with Tourism Authority of Thailand registration, verify credentials, and read reviews online."
+    },
+    {
+      "name": "Overcharged Bar Bills",
+      "risk": "medium",
+      "description": "Some bars inflate drink prices for tourists or add unauthorized charges, particularly in beach party areas.",
+      "howToAvoid": "Check prices before ordering, ask for itemized bills, and verify charges. Stick to well-reviewed establishments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Krabi is exceptionally safe for solo female travelers, with many women exploring independently without issues. The relaxed beach atmosphere and strong expat community create a welcoming environment. Thai culture is respectful toward women, and harassment is rare compared to other international destinations.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Ao Nang or Railay for best safety and social opportunities",
+      "Avoid isolated beaches at night and stick to main tourist areas after dark",
+      "Use official tour operators for island hopping and activities to ensure safety standards",
+      "Connect with other solo travelers at hostels or through organized tours for companionship",
+      "Trust your instincts and politely decline unwanted attention with a firm but friendly approach"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Krabi nightlife is generally safe and laid-back compared to party destinations like Phuket. Most bars close by 2 AM, and the atmosphere focuses more on beachfront relaxation than intensive clubbing. Ao Nang has the most active nightlife with good lighting and regular police presence.",
+    "tips": [
+      "Stick to well-lit main areas like Ao Nang Beach Road for nighttime activities",
+      "Use official taxi services or prearranged transport rather than walking long distances at night",
+      "Avoid excessive alcohol consumption and never leave drinks unattended",
+      "Stay with friends when possible and let others know your plans for evening activities",
+      "Be extra cautious on motorbike transportation after drinking"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local transport relies on songthaews (shared pickup trucks), taxis, and motorbike taxis.",
+    "rideshare": "Grab operates in Krabi and Ao Nang with reliable service and transparent pricing. Bolt is also available as an alternative.",
+    "taxis": "Traditional taxis available but often don't use meters. Negotiate prices beforehand or use ride-hailing apps for transparency. Airport taxis operate on fixed-rate system.",
+    "tips": "Exercise extreme caution with motorbike rentals as road accidents are the leading cause of tourist deaths in Thailand. Always wear helmets, avoid night riding, and ensure proper insurance coverage."
+  },
+  "customs": [
+    "Perform the traditional wai greeting (palms together, slight bow) when meeting elders or in formal situations",
+    "Remove shoes before entering temples, homes, and many guesthouses - look for shoe piles as indicators",
+    "Never point feet toward people, Buddha images, or royal portraits as feet are considered unclean",
+    "Show absolute respect for the Thai royal family - criticism or disrespect is illegal under lese-majeste laws",
+    "Dress modestly when visiting temples - cover shoulders and knees, avoid tight or revealing clothing"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Krabi is good with several hospitals serving tourists. Krabi Hospital provides public healthcare while Krabi Nakharin International Hospital offers private international-standard care with English-speaking staff.",
+    "water": "Tap water should be avoided. Bottled water is widely available and affordable. Ice in restaurants and hotels is generally safe as it comes from clean suppliers.",
+    "vaccinations": "No special vaccinations required for Thailand. Routine vaccines (MMR, DPT, flu) recommended. Consider hepatitis A/B and typhoid for extended stays.",
+    "altitude": "Tropical climate with high humidity year-round. Heat exhaustion is possible - stay hydrated, use sunscreen, and take breaks during hottest parts of day (11 AM-3 PM)."
+  },
+  "emergency": {
+    "general": "191",
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199",
+    "touristPolice": "1155",
+    "usEmbassy": "US Embassy Bangkok: +66 2-205-4000 (24-hour emergency assistance for US citizens)"
+  },
+  "faq": [
+    {
+      "q": "Is Krabi safe for tourists?",
+      "a": "Yes, Krabi is one of Thailand's safest tourist destinations with low violent crime rates and excellent infrastructure. Most visitors experience no safety issues beyond minor concerns like petty theft."
+    },
+    {
+      "q": "Is Krabi safe at night?",
+      "a": "Krabi is generally safe at night, especially in main tourist areas like Ao Nang. The nightlife is laid-back compared to other Thai destinations, but basic precautions like staying in well-lit areas and using reliable transport are recommended."
+    },
+    {
+      "q": "Is Krabi safe for solo female travelers?",
+      "a": "Absolutely. Krabi is particularly welcoming for solo female travelers with many women exploring independently. The relaxed atmosphere, respectful local culture, and strong tourism infrastructure create a very safe environment."
+    },
+    {
+      "q": "What areas should I avoid in Krabi?",
+      "a": "Avoid isolated beaches and jungle areas after dark, and exercise caution in remote locations away from main tourist zones. The Thailand-Cambodia border areas (though far from Krabi) should be avoided due to ongoing conflict."
+    },
+    {
+      "q": "Is it safe to use public transport in Krabi?",
+      "a": "Yes, songthaews and official taxis are generally safe. Grab rideshare app provides additional security and transparency. However, exercise extreme caution with motorbike rentals as traffic accidents are a significant risk for tourists."
+    }
+  ],
+  "relatedCities": [
+    "phuket",
+    "koh-samui",
+    "chiang-mai",
+    "bangkok",
+    "pattaya"
+  ],
+  "_city_id": "krabi-thailand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wat_Tham_Sua_18.jpg/1280px-Wat_Tham_Sua_18.jpg"
+}
