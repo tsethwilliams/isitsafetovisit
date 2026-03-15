@@ -1473,3 +1473,7 @@
 2026-03-15 17:14:17,820 [INFO] Merged into site data: Cebu
 2026-03-15 17:14:17,865 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-15 17:14:17,889 [INFO] Rebuilt sitemap with 320 URLs (222 cities, 92 countries, 6 static)
+2026-03-15 19:18:32,510 [INFO] Agent starting — mode: alert
+2026-03-15 19:18:32,586 [INFO] Checking alerts for 220 cities
+2026-03-15 19:19:11,606 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 19:19:11,692 [INFO] No safety alerts detected
