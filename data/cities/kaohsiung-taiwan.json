@@ -1,0 +1,163 @@
+{
+  "slug": "kaohsiung",
+  "name": "Kaohsiung",
+  "country": "Taiwan",
+  "countryCode": "TW",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 8.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 9.0,
+    "scamRisk": 7.5,
+    "womensSafety": 9.0,
+    "nightSafety": 8.0,
+    "transport": 8.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Kaohsiung is Taiwan's second-largest city and is widely regarded as very safe for tourists. With Taiwan ranked as the 4th safest country globally and crime rates among the lowest in the world, visitors can explore confidently day and night.",
+  "quickVerdict": "Kaohsiung stands out as an exceptionally safe destination for travelers of all types. The city benefits from Taiwan's excellent safety record, with very low crime rates and a culture of helpfulness toward visitors. While natural disasters like typhoons can occur during certain seasons, the city has robust emergency systems in place. Solo female travelers consistently rate it as one of the safest cities in Asia, and the efficient public transportation system makes getting around both safe and convenient.",
+  "neighborhoods": [
+    {
+      "name": "Zuoying District (HSR Station Area)",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Modern district around the High Speed Rail station with excellent security, well-lit streets, and regular police patrols. Home to major shopping areas and the popular Ruifeng Night Market."
+    },
+    {
+      "name": "Yancheng District (Love River/Pier-2)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Cultural heart of the city with riverside parks, art installations, and heavy foot traffic day and night. Well-maintained tourist area with good lighting and security cameras."
+    },
+    {
+      "name": "Lingya District (Central Kaohsiung)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Downtown business and shopping district with busy streets, MRT access, and constant activity. Generally safe but can be crowded during peak hours."
+    },
+    {
+      "name": "Gushan District (Sizihwan)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Coastal area popular with tourists featuring beaches, ferry terminals, and scenic spots. Well-patrolled and family-friendly with good transportation links."
+    },
+    {
+      "name": "Sanmin District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Residential and commercial area with local markets and eateries. Safe for tourists but less touristy, requiring basic awareness of surroundings."
+    },
+    {
+      "name": "Qianzhen District (Dream Mall area)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Shopping and entertainment district anchored by large malls and attractions like the Kaohsiung Eye ferris wheel. Well-secured commercial area with regular security."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Ferry Tickets at Love River",
+      "risk": "medium",
+      "description": "Vendors near Love River or Cijin Island ferry docks sell counterfeit or overpriced tickets, charging 100-200 NTD instead of the official 60 NTD rate",
+      "howToAvoid": "Buy tickets only from official booths with QR codes, verify with harbor authority signage, and avoid street vendors near tourist spots like Pier-2"
+    },
+    {
+      "name": "Fruit Cutting Scams",
+      "risk": "medium",
+      "description": "Street vendors cut expensive fruits for tourists to 'taste' then demand payment of 500-1000 NTD, claiming tourists cannot refuse once cut",
+      "howToAvoid": "Never ask vendors to test fruit freshness, buy only from established markets with displayed prices, and politely decline any unsolicited fruit samples"
+    },
+    {
+      "name": "Taxi Meter Avoidance",
+      "risk": "low",
+      "description": "Some taxi drivers refuse to use meters for tourists, especially at airports or night markets, quoting inflated fixed fares of 500-800 NTD for short rides",
+      "howToAvoid": "Insist on meter use by saying 'Yong biao' in Mandarin, use ride-hailing apps like Uber or Taiwan Taxi for fixed pricing, or use licensed taxi stands at MRT stations"
+    },
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "low",
+      "description": "Some restaurants near tourist areas hide service fees or inflate prices for foreigners, especially in night market adjacent eateries",
+      "howToAvoid": "Check menus for prices before ordering, confirm any service fees upfront, and choose restaurants with clearly displayed pricing or those frequented by locals"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Kaohsiung is exceptionally safe for solo female travelers, consistently ranking as one of the top destinations in Asia for women traveling alone. The city has a strong culture of respect and helpfulness, with locals often going out of their way to assist tourists. Women regularly walk alone at night without incident, and harassment is extremely rare.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central districts like Yancheng or near MRT stations for easy access to transport",
+      "Use the efficient MRT system which operates until midnight and has designated women-only cars during peak hours",
+      "Download translation apps as English signage is good but local language skills help in emergencies",
+      "Connect with other travelers through hostel common areas or join local Facebook expat groups for meetups",
+      "Keep emergency contacts saved in Chinese characters for easier communication with local authorities if needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kaohsiung is remarkably safe at night, with well-lit streets, active night markets, and regular police patrols. The city's famous night markets like Ruifeng and Liuhe operate until late with heavy foot traffic providing natural security. Public transportation runs until midnight, and 24-hour convenience stores are everywhere for assistance.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially around Love River and major shopping districts which stay active late",
+      "Use the MRT or official taxis for late-night transportation rather than walking long distances alone",
+      "Keep to populated areas like night markets where vendors and other visitors provide natural safety in numbers",
+      "Avoid secluded beach areas or empty parks after dark, though city center areas remain safe and well-patrolled"
+    ]
+  },
+  "transport": {
+    "metro": "Kaohsiung MRT (KRTC) is modern, safe, and efficient with two main lines (Red and Orange) plus a Light Rail system. Stations have CCTV monitoring, emergency buttons, and English announcements. Runs from 6am to midnight with 4-6 minute frequencies during peak hours.",
+    "rideshare": "Uber operates throughout Kaohsiung with good coverage and reliable service. Local Taiwan Taxi app also available for smartphone bookings. Both services are safe and use licensed drivers with GPS tracking for added security.",
+    "taxis": "Licensed taxis are generally safe and reliable, with meters required by law. Airport taxis have fixed surcharges. All official taxis display license numbers prominently. Some drivers speak basic English, especially near tourist areas.",
+    "tips": "Get an iPass or EasyCard for seamless public transport use across all systems. The Light Rail conveniently connects major tourist attractions like Sizihwan, Pier-2, and Dream Mall in a single line."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some traditional establishments - slippers will usually be provided",
+    "Bow slightly or nod when greeting rather than handshaking unless the other person initiates physical contact",
+    "Avoid touching anyone's head, pointing with fingers, or public displays of affection between couples",
+    "Give and receive business cards or gifts with both hands as a sign of respect",
+    "Stand on the right side of escalators leaving the left side clear for people walking up or down"
+  ],
+  "health": {
+    "overview": "Taiwan has one of the world's best healthcare systems with universal coverage and excellent quality. Kaohsiung has numerous modern hospitals and clinics with English-speaking staff available.",
+    "water": "Tap water is safe to drink throughout Taiwan after boiling, though most locals and visitors prefer bottled or filtered water. Ice in restaurants and hotels is safe.",
+    "vaccinations": "No special vaccinations required for most travelers. Consider hepatitis A vaccination and ensure routine vaccines are up to date. Dengue fever can occur during hot, humid months.",
+    "altitude": "Kaohsiung is at sea level with a tropical climate. Summer months are hot and humid with temperatures reaching 35°C. Typhoon season runs May through November with 3-4 storms typically affecting the area annually."
+  },
+  "emergency": {
+    "general": "119 (Fire/Ambulance), 110 (Police)",
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "165 (Anti-fraud hotline)",
+    "usEmbassy": "American Institute in Taiwan - Kaohsiung Branch Office, 5th Floor, No. 2 Zhongzheng 3rd Road, Xinxing District. Tel: +886-7-238-7744. After-hours emergencies: +886-2-2162-2000"
+  },
+  "faq": [
+    {
+      "q": "Is Kaohsiung safe for tourists?",
+      "a": "Yes, Kaohsiung is very safe for tourists with one of the lowest crime rates globally. Taiwan ranks as the 4th safest country worldwide, and visitors consistently report feeling secure day and night in the city."
+    },
+    {
+      "q": "Is Kaohsiung safe at night?",
+      "a": "Kaohsiung is remarkably safe at night with well-lit streets, active night markets until late hours, and regular police patrols. Public transport runs until midnight and 24-hour convenience stores provide assistance if needed."
+    },
+    {
+      "q": "Is Kaohsiung safe for solo female travelers?",
+      "a": "Absolutely. Kaohsiung consistently ranks among Asia's safest cities for women traveling alone. Harassment is extremely rare, locals are helpful, and many solo female travelers report feeling completely comfortable exploring independently."
+    },
+    {
+      "q": "What areas should I avoid in Kaohsiung?",
+      "a": "Kaohsiung has no particularly dangerous areas, though standard urban precautions apply. Avoid secluded areas after dark and stay in well-lit, populated zones. All major tourist districts and transportation hubs are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Kaohsiung?",
+      "a": "Yes, Kaohsiung's public transport including MRT, Light Rail, and buses are very safe with CCTV monitoring, emergency systems, and regular security patrols. The transport system is modern, efficient, and used safely by millions annually."
+    }
+  ],
+  "relatedCities": [
+    "taipei",
+    "taichung",
+    "tainan"
+  ],
+  "_city_id": "kaohsiung-taiwan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kaohsiung_Skyline_2020_%28cropped%29.jpg/1280px-Kaohsiung_Skyline_2020_%28cropped%29.jpg"
+}

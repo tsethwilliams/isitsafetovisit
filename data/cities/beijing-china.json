@@ -1,0 +1,167 @@
+{
+  "slug": "beijing",
+  "name": "Beijing",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 8.9,
+    "scamRisk": 5.5,
+    "womensSafety": 8.1,
+    "nightSafety": 8.0,
+    "transport": 8.5,
+    "naturalHazards": 7.3
+  },
+  "summary": "Beijing is one of the world's safest capital cities, with exceptionally low violent crime rates and excellent public safety infrastructure. While petty crime is rare, tourists should remain vigilant against common scams, particularly around major attractions. The city offers excellent safety for solo travelers, including women, with reliable public transportation and strong police presence throughout most areas.",
+  "quickVerdict": "Beijing consistently ranks as one of the safest major cities globally, with violent crime against tourists being extremely rare and comprehensive public safety measures in place. The main concerns for visitors are tourist-targeted scams rather than personal safety threats, making it an excellent destination for all types of travelers including solo female visitors. With modern healthcare facilities, reliable transportation systems, and helpful local authorities, Beijing provides a secure environment for exploring China's rich cultural heritage.",
+  "neighborhoods": [
+    {
+      "name": "Dongcheng (Forbidden City Area)",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Home to major attractions like the Forbidden City and Tiananmen Square, this area has heavy police presence and excellent safety infrastructure. Tourist scams are more common here, but violent crime is virtually non-existent."
+    },
+    {
+      "name": "Chaoyang (CBD & Sanlitun)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern business district with international hotels, embassies, and vibrant nightlife. Very safe with good lighting and security, though late-night caution is advised in bar areas."
+    },
+    {
+      "name": "Haidian (University District)",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Academic area with numerous universities and tech companies. Extremely safe with young, educated population and excellent public transportation connections."
+    },
+    {
+      "name": "Xicheng (Financial District)",
+      "score": 8.6,
+      "class": "safe",
+      "description": "Government and financial center with high security presence. Very safe for tourists with good access to major attractions and reliable infrastructure."
+    },
+    {
+      "name": "Hutong Neighborhoods",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Traditional alleyways offering authentic Beijing culture. Generally safe but can be darker at night. Stick to main hutong areas and avoid isolated alleys after dark."
+    },
+    {
+      "name": "Outer Ring Areas",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Suburban and industrial areas less frequented by tourists. Generally safe but with fewer amenities and potentially longer emergency response times. Better to stay in central areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tea House/Art Gallery Scam",
+      "risk": "high",
+      "description": "Friendly English-speaking locals approach tourists near major attractions, claiming to be students wanting to practice English. They invite visitors to tea houses or art galleries where astronomical bills are presented.",
+      "howToAvoid": "Politely decline invitations from strangers, especially around Tiananmen Square and Wangfujing. If approached, simply say no and walk away. Legitimate locals don't randomly approach foreigners."
+    },
+    {
+      "name": "Black Taxi Scam",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers approach tourists at airports, train stations, and attractions offering rides at inflated prices or using rigged meters. Some may take circuitous routes or refuse to use meters.",
+      "howToAvoid": "Only use official taxis with '京B' license plates or ride-hailing apps like DiDi. At airports, use official taxi queues. Always insist on using the meter and have your destination written in Chinese."
+    },
+    {
+      "name": "Fake Tour Guide Scam",
+      "risk": "medium",
+      "description": "Individuals claiming to be tour guides offer cheap tours to attractions like the Great Wall, then take tourists to overpriced shops where they receive commissions, or charge hidden fees.",
+      "howToAvoid": "Book tours only through reputable companies or your hotel. Check reviews online and verify credentials. Be suspicious of extremely cheap offers or guides approaching you on the street."
+    },
+    {
+      "name": "Counterfeit Money",
+      "risk": "low",
+      "description": "Occasionally, fake banknotes are passed to tourists, especially in markets or from unofficial money changers. Even some ATMs have reportedly dispensed counterfeit notes.",
+      "howToAvoid": "Exchange money only at banks, hotels, or official exchange counters. Learn to identify genuine Chinese banknotes by their security features. Check bills carefully before accepting them."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Beijing is exceptionally safe for solo female travelers, ranking among the world's safest capital cities. Women can walk alone during the day without concern, and night safety is generally very good in well-lit, populated areas. The extensive CCTV network, strong police presence, and cultural respect for personal safety create a secure environment. Sexual harassment is relatively uncommon, though foreign women may attract curious stares rather than threatening behavior.",
+    "tips": [
+      "Stick to well-lit main streets and populated areas when walking alone at night, especially in hutong neighborhoods",
+      "Use official transportation options like the metro, licensed taxis, or DiDi ride-sharing which has safety features",
+      "Dress modestly when visiting temples and traditional areas - Chinese women generally dress more conservatively",
+      "Keep emergency contacts saved in your phone including your embassy and local emergency numbers",
+      "Trust your instincts and politely but firmly decline unwanted attention or invitations from strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Beijing is remarkably safe at night, with most areas well-lit and patrolled. The city's extensive surveillance system and low crime rates mean violent incidents are rare. Popular nightlife districts like Sanlitun and Houhai are bustling and secure, though basic precautions should be taken. Public transportation operates late, and ride-hailing services are reliable and safe for night travel.",
+    "tips": [
+      "Avoid walking alone in isolated hutong alleys very late at night - stick to main streets or use transportation",
+      "Stay in groups when exploring nightlife areas and don't leave drinks unattended in bars",
+      "Keep valuables secure and be aware of your surroundings, especially in crowded night markets",
+      "Use official taxis or DiDi rather than accepting rides from strangers, even in entertainment districts",
+      "Have your hotel address written in Chinese and carry emergency contacts"
+    ]
+  },
+  "transport": {
+    "metro": "Beijing's extensive subway system is modern, clean, and extremely safe. Security checks at all stations provide additional safety. English signs and announcements make navigation easy for tourists. Operating hours are typically 5:00 AM to 11:30 PM with high frequency during peak hours.",
+    "rideshare": "DiDi is the dominant ride-sharing platform and is very safe with GPS tracking, driver verification, and emergency features. The app has English language support and allows cashless payment. Always verify the license plate matches the app before getting in.",
+    "taxis": "Official Beijing taxis are safe and regulated. Look for the '京B' license plates and insist on using the meter. Drivers may not speak English, so have your destination written in Chinese. Avoid unlicensed 'black cars' that approach you directly.",
+    "tips": "Public transportation is your safest bet in Beijing. The metro is efficient and secure, while official taxis and DiDi provide reliable door-to-door service. Avoid unofficial transportation and always verify credentials."
+  },
+  "customs": [
+    "Greet people with a handshake rather than hugging - physical contact with strangers is less common than in Western cultures",
+    "Show respect to elders and those in senior positions by addressing them first and using formal titles",
+    "Present and receive gifts or business cards with both hands as a sign of respect",
+    "Avoid pointing with your finger or chopsticks, and never stick chopsticks upright in rice bowls",
+    "Be punctual for appointments and meetings - lateness is considered disrespectful in Chinese culture"
+  ],
+  "health": {
+    "overview": "Beijing has excellent medical facilities including international hospitals with English-speaking staff. The city's healthcare system is modern and well-equipped, though air pollution can be a concern for those with respiratory conditions. Travel insurance is highly recommended for access to private international facilities.",
+    "water": "Tap water is not safe to drink in Beijing. Use bottled water for drinking and brushing teeth. The water is also quite hard, which may affect skin and hair. Most hotels provide complimentary bottled water.",
+    "vaccinations": "No special vaccinations are required for Beijing beyond routine immunizations. Ensure you're up to date on MMR, hepatitis A/B, and seasonal flu vaccines. Consult your doctor if you have specific health concerns.",
+    "altitude": "Beijing sits at low elevation (44 meters above sea level) so altitude is not a concern. The climate is continental with hot summers and cold winters. Air quality can be poor, especially in winter, so those with respiratory issues should monitor pollution levels."
+  },
+  "emergency": {
+    "general": "110",
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Beijing: 010-8531-4000, Address: No. 55 An Jia Lou Road, Chaoyang District. For other nationalities, contact your respective embassy in the diplomatic quarter."
+  },
+  "faq": [
+    {
+      "q": "Is Beijing safe for tourists?",
+      "a": "Yes, Beijing is exceptionally safe for tourists and ranks among the world's safest capital cities. Violent crime against visitors is extremely rare, though tourists should be aware of common scams around major attractions."
+    },
+    {
+      "q": "Is Beijing safe at night?",
+      "a": "Beijing is very safe at night with good street lighting, police presence, and CCTV coverage. Most areas are fine for evening activities, though it's wise to stick to populated main streets rather than isolated alleys."
+    },
+    {
+      "q": "Is Beijing safe for solo female travelers?",
+      "a": "Absolutely. Beijing is one of the safest cities globally for solo female travelers. Women can explore confidently during the day and exercise normal urban caution at night. Harassment is uncommon and help is readily available."
+    },
+    {
+      "q": "What areas should I avoid in Beijing?",
+      "a": "There are no particularly dangerous areas in Beijing, but tourists should exercise extra caution in isolated hutong alleys at night and be more vigilant around major tourist attractions where scams are common."
+    },
+    {
+      "q": "Is it safe to use public transport in Beijing?",
+      "a": "Yes, Beijing's public transportation is very safe and efficient. The subway has security checks and is modern and clean. Official taxis and ride-sharing services like DiDi are also safe and reliable options."
+    }
+  ],
+  "relatedCities": [
+    "shanghai",
+    "seoul",
+    "tokyo",
+    "hong-kong",
+    "singapore",
+    "taipei"
+  ],
+  "_city_id": "beijing-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg/1280px-Skyline_of_Beijing_CBD_from_the_southeast_%2820210907094201%29.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "macau",
+  "name": "Macau",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Macau is widely regarded as one of the safest destinations in Asia, with extremely low violent crime rates and a heavy police presence. The biggest risks for tourists are petty crimes like pickpocketing in crowded areas, taxi overcharging, and natural hazards from typhoons.",
+  "quickVerdict": "Macau stands out as an exceptionally safe destination for all types of travelers. With virtually non-existent violent crime, excellent police coverage, and well-developed tourism infrastructure, visitors can feel secure exploring day or night. The main precautions involve staying alert to taxi scams, avoiding unsafe areas during typhoon warnings, and using common sense around tourist hotspots.",
+  "neighborhoods": [
+    {
+      "name": "Senado Square & Historic Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The UNESCO World Heritage area is extremely safe with excellent police presence, CCTV coverage, and constant tourist traffic. Well-lit streets make it ideal for evening strolls."
+    },
+    {
+      "name": "Cotai Strip",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Home to major casinos and resorts with extensive private security, free shuttle buses, and round-the-clock activity. Very safe for tourists with minimal crime reported."
+    },
+    {
+      "name": "Taipa Village",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Charming area popular with tourists featuring good lighting, regular police patrols, and busy restaurants. Safe for walking and dining, especially during evening hours."
+    },
+    {
+      "name": "Macau Peninsula North",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Residential areas that are generally safe but less touristy. Exercise normal precautions and stay aware of your surroundings, particularly at night."
+    },
+    {
+      "name": "Inner Harbor District",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Lower-lying area prone to flooding during typhoons and storms. Generally safe but can become dangerous during severe weather events with 2+ meter flood risks."
+    },
+    {
+      "name": "Coloane",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quiet, less developed area with beaches and nature areas. Very safe with low crime rates, though public transport is limited and you may need taxis for late-night travel."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers may refuse to use meters, overcharge tourists, or take longer routes. Some reports of luggage theft or even rare kidnapping attempts in unlicensed vehicles.",
+      "howToAvoid": "Use official taxis with meters, have destination written in Chinese, confirm payment methods before departure, and use hotel shuttles when possible."
+    },
+    {
+      "name": "Hotel WiFi & Malware",
+      "risk": "medium",
+      "description": "Security experts have detected malware on major hotel WiFi networks, particularly on the Cotai Strip shopping centers, designed to steal customer information.",
+      "howToAvoid": "Avoid using public WiFi for sensitive transactions, use VPN services, and connect to verified hotel networks only."
+    },
+    {
+      "name": "Counterfeit Goods",
+      "risk": "medium",
+      "description": "Street vendors and some shops may sell fake luxury items, electronics, or branded goods at inflated prices, particularly targeting tourists.",
+      "howToAvoid": "Shop at reputable stores, verify authenticity before purchasing expensive items, and be wary of deals that seem too good to be true."
+    },
+    {
+      "name": "Gaming & Credit Scams",
+      "risk": "medium",
+      "description": "Casino-related financial scams including fake credit offers, loan sharks, and fraudulent gambling promotions targeting visitors.",
+      "howToAvoid": "Only use official casino credit services, set gambling budgets in advance, avoid unlicensed money lenders, and be cautious of unsolicited financial offers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Macau is exceptionally safe for solo female travelers, with very low rates of harassment and violent crime. Women regularly travel alone day and night without incident. The city has excellent lighting, heavy police presence, and a culture that is generally respectful toward women visitors.",
+    "tips": [
+      "The city is very walkable and safe for women alone, even late at night in tourist areas",
+      "Trust your instincts if taxi drivers seem unprofessional - use hotel shuttles or official ride services instead",
+      "Dress modestly when visiting temples or traditional areas to show cultural respect",
+      "Keep emergency numbers handy and inform accommodation of your plans if venturing to less touristy areas",
+      "Join group tours for activities like hiking or visiting remote temples for added safety and social connection"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Macau's nighttime safety is excellent, with well-lit streets, 24/7 casino activity, and regular police patrols. The city truly never sleeps, providing a safe environment for nighttime exploration. Tourist areas remain busy and secure throughout the night.",
+    "tips": [
+      "Stick to well-lit main streets and popular areas like Senado Square and the Cotai Strip",
+      "Use official transportation - taxis, hotel shuttles, or the light rail system for getting around after dark",
+      "Keep valuables secure and stay aware of your surroundings in crowded nightlife areas",
+      "Have your destination written in Chinese if taking taxis to avoid communication issues",
+      "Stay updated on weather conditions as typhoons can create dangerous conditions requiring indoor shelter"
+    ]
+  },
+  "transport": {
+    "metro": "The Macau Light Rail Transit system is modern, safe, and efficient, currently serving Taipa and Cotai areas. Stations are well-monitored with CCTV and security personnel.",
+    "rideshare": "International apps like Uber and Grab are not available. Use the Macau Taxi app for official bookings, though service can be limited during peak times.",
+    "taxis": "Official taxis are generally safe but overcharging is common. Ensure drivers use meters, confirm payment methods beforehand, and have destinations written in Chinese. Watch for unlicensed vehicles.",
+    "tips": "Public buses are very safe and affordable at MOP 6 per ride. Free casino shuttle buses are an excellent option between major hotels and attractions. Walking is safe in tourist areas with good lighting and police presence."
+  },
+  "customs": [
+    "Show respect to elders by addressing them first and speaking softly - age hierarchy is very important",
+    "Present and receive items with both hands as a sign of respect in Chinese culture",
+    "Remove shoes when entering homes and some traditional buildings or temples",
+    "Avoid public displays of affection and maintain modest behavior in public spaces",
+    "When dining, try everything offered as this shows appreciation to your hosts"
+  ],
+  "health": {
+    "overview": "Macau has good healthcare infrastructure with modern hospitals and clinics. The public healthcare system is adequate, and private facilities offer higher-end services. Medical tourism is developing with new facilities opening.",
+    "water": "Tap water is treated and generally safe, but many visitors prefer bottled water for taste. Restaurants and hotels maintain good food safety standards.",
+    "vaccinations": "No special vaccinations required for most travelers. Consider hepatitis A/B and typhoid for longer stays. Consult your doctor about routine immunizations.",
+    "altitude": "Macau is at sea level. Subtropical climate with hot, humid summers and mild winters. Typhoon season runs May-November. Air pollution can be an issue during certain periods."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999, 110, or 112",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "+853 2840 3492",
+    "usEmbassy": "U.S. citizens should contact the U.S. Consulate General in Hong Kong at +852 2523 9011 or after-hours emergencies +852 6143 8999"
+  },
+  "faq": [
+    {
+      "q": "Is Macau safe for tourists?",
+      "a": "Yes, Macau is extremely safe for tourists with one of the lowest crime rates in Asia. Violent crime against tourists is virtually non-existent, and the city has excellent police presence and security infrastructure."
+    },
+    {
+      "q": "Is Macau safe at night?",
+      "a": "Macau is very safe at night, particularly in tourist areas which remain well-lit and busy. The casino areas operate 24/7 with heavy security, and public areas have good CCTV coverage and police patrols."
+    },
+    {
+      "q": "Is Macau safe for solo female travelers?",
+      "a": "Yes, Macau is exceptionally safe for solo female travelers. Women regularly explore alone without harassment issues. The culture is respectful toward women, and safety infrastructure is excellent throughout the city."
+    },
+    {
+      "q": "What areas should I avoid in Macau?",
+      "a": "Macau has no particularly dangerous areas for tourists. Exercise extra caution in the Inner Harbor during typhoon warnings due to flooding risk, and be more vigilant in less touristy northern residential areas at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Macau?",
+      "a": "Yes, public transport in Macau is very safe. The light rail system is modern and secure, buses are reliable and monitored, and even taxis are generally safe though you should watch for overcharging scams."
+    }
+  ],
+  "relatedCities": [
+    "hong-kong",
+    "guangzhou",
+    "shenzhen"
+  ],
+  "_city_id": "macau-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/1280px-Flag_of_Macau.svg.png"
+}

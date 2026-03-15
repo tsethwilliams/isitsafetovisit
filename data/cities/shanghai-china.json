@@ -1,0 +1,165 @@
+{
+  "slug": "shanghai",
+  "name": "Shanghai",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 6.3
+  },
+  "summary": "Shanghai is widely considered one of the safest megacities in the world, with excellent infrastructure and low violent crime rates. The main risks for tourists are nonviolent scams and minor theft rather than serious crime.",
+  "quickVerdict": "Shanghai offers an exceptional level of safety for international visitors, ranking among the world's safest major cities. The US State Department considers China generally safe for tourists, and Shanghai's extensive CCTV surveillance, strong police presence, and modern infrastructure create a secure environment. While violent crime against tourists is extremely rare, travelers should remain aware of common tourist scams like the tea house scam and fake art gallery invitations. The city's excellent public transportation, walkable streets, and vibrant nightlife can be enjoyed with confidence using normal travel precautions.",
+  "neighborhoods": [
+    {
+      "name": "The Bund",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Shanghai's most iconic waterfront area with excellent security, well-lit streets, and heavy tourist police presence. Safe for walking at all hours with stunning skyline views."
+    },
+    {
+      "name": "French Concession",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Tree-lined historic district with boutique shops, cafes, and galleries. Very walkable with good lighting and popular with both locals and expats. Excellent for solo exploration."
+    },
+    {
+      "name": "Lujiazui (Pudong Financial District)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern business district home to Shanghai Tower and Oriental Pearl Tower. Ultra-modern with excellent security monitoring and wide, clean streets."
+    },
+    {
+      "name": "Yu Garden Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic tourist area that gets very crowded during the day. Generally safe but watch for pickpockets in crowds and avoid pushy street vendors."
+    },
+    {
+      "name": "Nanjing Road",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Major shopping street with heavy tourist traffic. Safe overall but prime territory for scammers and pickpockets. Be particularly cautious of friendly strangers offering tea or art gallery tours."
+    },
+    {
+      "name": "Remote Industrial Areas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Far outer districts lack tourist infrastructure, English signage, and adequate lighting. Not recommended for tourists, especially at night. Stick to central areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tea House Scam",
+      "risk": "high",
+      "description": "Friendly locals, often claiming to be students, approach tourists offering to show them authentic Chinese tea ceremonies. Victims are taken to expensive tea houses and charged hundreds of dollars for worthless tea.",
+      "howToAvoid": "Politely decline all unsolicited invitations from strangers. Never follow anyone to a tea house, art gallery, or other venue they suggest."
+    },
+    {
+      "name": "Fake Art Gallery Scam",
+      "risk": "high",
+      "description": "Scammers posing as art students invite tourists to visit their gallery or exhibition, then pressure them into buying overpriced, low-quality artwork using guilt and false friendship.",
+      "howToAvoid": "Be especially suspicious of anyone approaching you in tourist areas claiming to be students. Real art students don't randomly approach foreigners on the street."
+    },
+    {
+      "name": "Black Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers at airports and train stations offer rides at inflated prices or refuse to use meters. Some may tamper with meters to increase fares.",
+      "howToAvoid": "Only use official taxis with proper markings and insist they use the meter. Use ride-hailing apps like Didi for transparent pricing. At airports, use official taxi stands."
+    },
+    {
+      "name": "Counterfeit Money",
+      "risk": "medium",
+      "description": "Vendors or taxi drivers may switch your real money for counterfeit bills, then claim you paid with fake money and demand additional payment.",
+      "howToAvoid": "Inspect change carefully, especially 50 and 100 yuan notes. Get cash from banks or ATMs rather than changing money on the street. Don't let bills out of your sight during transactions."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Shanghai is exceptionally safe for solo female travelers, with harassment levels significantly lower than many global cities. The extensive surveillance network, well-lit streets, and cultural respect for women create a secure environment. Women can walk alone at night in central areas with confidence, though normal precautions should still be taken.",
+    "tips": [
+      "Stay in central districts like the French Concession or near the Bund where there are always people around",
+      "Use official transportation and avoid unlicensed taxis, especially at night",
+      "Be particularly cautious in nightlife areas and never leave drinks unattended",
+      "Carry a power bank as everything in Shanghai requires mobile payment",
+      "Trust your instincts and politely but firmly decline unwanted attention"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Shanghai's nightlife is remarkably safe with the city maintaining a secure atmosphere well into the early hours. Streets remain active with people, taxis operate all night, and the extensive surveillance network provides additional security. Most incidents are related to alcohol rather than crime.",
+    "tips": [
+      "Stick to well-known nightlife areas like the Bund, French Concession, and Found 158",
+      "Metro service ends around 11 PM so plan alternative transport for late nights",
+      "Use ride-hailing apps like Didi for safe late-night transportation",
+      "Be aware that some venues may attempt to spike drinks - never leave beverages unattended",
+      "Areas with heavy tourist traffic remain safest throughout the night"
+    ]
+  },
+  "transport": {
+    "metro": "Shanghai Metro is one of the world's largest and safest subway systems, operating from 5:30 AM to 11:30 PM. Stations have security checks and extensive CCTV coverage. Peak hours (7:30-9:00 AM and 5:00-7:00 PM) can be extremely crowded but are still safe.",
+    "rideshare": "Didi Chuxing is the dominant ride-hailing app and is very reliable and safe. The app provides driver details, real-time tracking, and transparent pricing. Essential for late-night travel when metro service has ended.",
+    "taxis": "Official taxis are well-regulated and safe. All taxis are metered with base fares starting around 14 yuan. Avoid unlicensed black taxis, especially at airports and train stations where overcharging is common.",
+    "tips": "Public transport is excellent and affordable. Always keep phone charged for mobile payments and navigation. Security checks at all metro stations may slow entry but enhance safety."
+  },
+  "customs": [
+    "Greet with a light handshake and brief eye contact - avoid prolonged staring which can be considered rude",
+    "Present and receive items like business cards with both hands as a sign of respect",
+    "Don't tip at restaurants or for services - it's not part of Chinese culture and can cause confusion",
+    "Remove shoes when entering someone's home and wait to be seated at formal dinners",
+    "Avoid sensitive political topics including Taiwan, Tibet, and criticism of the government"
+  ],
+  "health": {
+    "overview": "Shanghai has excellent healthcare facilities with many international standard hospitals. Air pollution can be an issue, especially in winter months. The city's medical infrastructure is among China's best.",
+    "water": "Tap water is not safe to drink. Bottled water is widely available and affordable. Most hotels provide complimentary bottled water. Stick to sealed bottles or properly boiled water.",
+    "vaccinations": "No special vaccinations required for Shanghai. Ensure routine vaccinations like MMR, hepatitis A and B are up to date. Consider Japanese encephalitis if staying long-term.",
+    "altitude": "Shanghai is at sea level with no altitude concerns. The city has a humid subtropical climate with hot, humid summers and cold, damp winters. Air pollution can worsen respiratory conditions."
+  },
+  "emergency": {
+    "general": "110",
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Shanghai: 021-3217-4650. Emergency services available 24/7. English-speaking operators available for emergency numbers in major cities."
+  },
+  "faq": [
+    {
+      "q": "Is Shanghai safe for tourists?",
+      "a": "Yes, Shanghai is one of the world's safest major cities with very low violent crime rates. The main concerns are nonviolent scams and petty theft. Extensive surveillance and police presence maintain excellent security."
+    },
+    {
+      "q": "Is Shanghai safe at night?",
+      "a": "Shanghai is very safe at night, especially in central areas. Streets remain busy, transportation is available, and surveillance is extensive. Normal precautions apply, but violent crime is extremely rare."
+    },
+    {
+      "q": "Is Shanghai safe for solo female travelers?",
+      "a": "Absolutely. Shanghai is exceptionally safe for women traveling alone with harassment levels much lower than most global cities. The surveillance network and cultural respect create a secure environment."
+    },
+    {
+      "q": "What areas should I avoid in Shanghai?",
+      "a": "Avoid remote industrial areas far from the city center, especially at night. Be cautious on Nanjing Road where scammers target tourists. Otherwise, central Shanghai is remarkably safe throughout."
+    },
+    {
+      "q": "Is it safe to use public transport in Shanghai?",
+      "a": "Yes, Shanghai's public transport is extremely safe and efficient. The metro has security checks and extensive CCTV coverage. Use official taxis or ride-hailing apps for the safest experience."
+    }
+  ],
+  "relatedCities": [
+    "beijing",
+    "hong-kong",
+    "tokyo",
+    "seoul"
+  ],
+  "_city_id": "shanghai-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/1280px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg"
+}

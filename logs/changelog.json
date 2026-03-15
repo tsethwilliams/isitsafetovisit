@@ -2002,5 +2002,53 @@
     "action": "alert",
     "city_id": "mexico_city_mexico",
     "details": "{\"city_id\": \"mexico_city_mexico\", \"alert_type\": \"cartel_violence\", \"severity\": \"high\", \"summary\": \"Nationwide cartel retaliation violence following killing of CJNG leader 'El Mencho' on February 22, 2026. Over 250 roadblocks established across Mexico. US Embassy issued shelter-in-place advisories. Violence has subsided but security concerns remain elevated.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T06:42:04.142245+00:00",
+    "action": "add",
+    "city_id": "shanghai-china",
+    "details": "New city added with score 7.4"
+  },
+  {
+    "timestamp": "2026-03-15T06:43:36.043521+00:00",
+    "action": "add",
+    "city_id": "beijing-china",
+    "details": "New city added with score 7.8"
+  },
+  {
+    "timestamp": "2026-03-15T06:45:08.756261+00:00",
+    "action": "add",
+    "city_id": "chengdu-china",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-15T06:46:39.524942+00:00",
+    "action": "add",
+    "city_id": "guilin-china",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-15T06:48:11.539938+00:00",
+    "action": "add",
+    "city_id": "xi'an-china",
+    "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-15T06:49:42.437227+00:00",
+    "action": "add",
+    "city_id": "taipei-taiwan",
+    "details": "New city added with score 8.2"
+  },
+  {
+    "timestamp": "2026-03-15T06:51:22.388039+00:00",
+    "action": "add",
+    "city_id": "kaohsiung-taiwan",
+    "details": "New city added with score 8.2"
+  },
+  {
+    "timestamp": "2026-03-15T06:52:54.039712+00:00",
+    "action": "add",
+    "city_id": "macau-china",
+    "details": "New city added with score 7.6"
   }
 ]

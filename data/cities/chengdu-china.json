@@ -1,0 +1,157 @@
+{
+  "slug": "chengdu",
+  "name": "Chengdu",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.8,
+    "violentCrime": 8.5,
+    "scamRisk": 6.2,
+    "womensSafety": 7.9,
+    "nightSafety": 7.3,
+    "transport": 8.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Chengdu stands out as one of China's safest major cities with exceptionally low violent crime rates and well-developed infrastructure. While the city does face occasional seismic risks due to its location in Sichuan Province, modern buildings are earthquake-resistant and tourist areas are well-policed and secure.",
+  "quickVerdict": "Chengdu is remarkably safe for tourists, ranking among China's most secure destinations. The city maintains excellent public safety standards with low crime rates across all categories, though visitors should remain alert for occasional tourist-targeted scams and maintain earthquake awareness given the region's seismic history. The relaxed 'slow life' culture, combined with efficient transport systems and female-friendly environment, makes Chengdu particularly welcoming for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Jinli Ancient Street",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-patrolled historic district with constant security presence and good lighting. Tourist police regularly patrol this area making it very safe day and night."
+    },
+    {
+      "name": "Chunxi Road & Taikoo Li",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern shopping district with excellent security, CCTV coverage, and heavy foot traffic. One of the safest areas in the city with upscale atmosphere."
+    },
+    {
+      "name": "Wuhou District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Central district housing many attractions with good police presence. Generally safe but can get crowded around temple areas during peak times."
+    },
+    {
+      "name": "Jiuyanqiao Bar Street",
+      "score": 7.1,
+      "class": "safe",
+      "description": "Popular nightlife area that's generally secure but requires standard nighttime precautions. Well-lit with regular security patrols."
+    },
+    {
+      "name": "Shuangliu Airport Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Generally safe but watch for unlicensed taxi operators and overcharging scams. Use official transport options and verified ride-hailing apps."
+    },
+    {
+      "name": "Remote Mountainous Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Areas outside the city center may have limited emergency services and higher natural disaster risks. Exercise caution and inform others of travel plans."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tea House Ceremony Scam",
+      "risk": "medium",
+      "description": "Friendly locals invite tourists to expensive tea ceremonies with inflated bills of hundreds of dollars",
+      "howToAvoid": "Politely decline unsolicited invitations to tea houses or art galleries from strangers, especially near tourist areas"
+    },
+    {
+      "name": "Fake Money Exchange",
+      "risk": "medium",
+      "description": "Taxi drivers or vendors switch genuine money for counterfeit notes and claim your money is fake",
+      "howToAvoid": "Learn to identify authentic Chinese currency features and use mobile payments like WeChat Pay or Alipay when possible"
+    },
+    {
+      "name": "Black Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers at airports and stations charge excessive fares or refuse to use meters",
+      "howToAvoid": "Only use official taxis with proper licensing or ride-hailing apps like Didi. Ensure meters are running before departure"
+    },
+    {
+      "name": "Shopping Tour Commission Scam",
+      "risk": "medium",
+      "description": "Tour guides take groups to shops where they receive commissions for overpriced goods",
+      "howToAvoid": "Book tours through reputable agencies and be wary of tours with excessive shopping stops or pressure to purchase items"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Chengdu is exceptionally safe for solo female travelers with low harassment rates and generally respectful local attitudes. The city ranks among the safest in China for women, with extensive CCTV coverage, well-lit streets, and reliable public transportation even at night. Female-only facilities are available on public transport during peak hours.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central areas like Chunxi Road or near metro stations",
+      "Use official transport options and avoid unlicensed taxis, especially late at night",
+      "Keep your phone charged and have translation apps ready as English proficiency varies outside tourist areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Chengdu maintains excellent nighttime safety with well-lit streets, active nightlife districts, and regular police patrols. The city's 'slow life' culture extends into evening hours with many locals enjoying outdoor dining and activities late into the night. Most areas remain safe for walking after dark, though standard urban precautions apply.",
+    "tips": [
+      "Metro operates until around 23:00 so plan transport accordingly for later nights",
+      "Stick to busy, well-lit areas like Jiuyanqiao or Taikoo Li when out after dark",
+      "Use ride-hailing apps like Didi rather than street taxis late at night for added security"
+    ]
+  },
+  "transport": {
+    "metro": "Excellent safety record with modern infrastructure, security checks at all stations, and comprehensive CCTV coverage. Operating hours typically 6:00-23:00 with clean, efficient service. Watch belongings during rush hours 7-9 AM and 5-7 PM when trains are extremely crowded.",
+    "rideshare": "Didi is the primary ride-hailing service and very safe with driver verification and GPS tracking. English interface available and payment through app. Generally more reliable than street taxis for tourists.",
+    "taxis": "Official taxis are safe and affordable with starting fare around 8 RMB. Ensure driver uses meter and have destination written in Chinese. Avoid unlicensed black taxis especially at transport hubs.",
+    "tips": "Public transport is generally very safe - combine metro and bus for best city coverage. Keep valuables secure during crowded rush hours and have backup transport plans after metro closure times."
+  },
+  "customs": [
+    "Greet with handshakes or nods rather than hugs - physical contact beyond handshakes may make locals uncomfortable",
+    "Address elders and senior people first as a sign of respect, using titles like Mr (xiansheng) or Ms (nvshi)",
+    "Avoid pointing at people or objects with your index finger - use an open hand gesture instead",
+    "When dining, wait for the host to begin eating and don't finish everything on your plate as it suggests the host didn't provide enough food",
+    "Present and receive items with both hands as a sign of politeness and respect",
+    "Dress modestly when visiting temples and religious sites - avoid revealing clothing"
+  ],
+  "_city_id": "chengdu-china",
+  "health": {
+    "overview": "Healthcare in Chengdu is adequate for travelers. Pharmacies are widely available.",
+    "water": "Check local advisories on tap water safety. Bottled water is widely available.",
+    "vaccinations": "Ensure routine vaccinations are up to date. Check CDC recommendations before travel.",
+    "altitude": "Check local weather conditions before traveling to Chengdu."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "Check local emergency number",
+    "ambulance": "Check local emergency number",
+    "fire": "Check local emergency number",
+    "touristPolice": "N/A",
+    "usEmbassy": "Contact the nearest US Embassy or Consulate in China"
+  },
+  "faq": [
+    {
+      "q": "Is Chengdu safe for tourists?",
+      "a": "Chengdu is generally safe for tourists who take standard precautions. Be aware of your surroundings and follow local safety advice."
+    },
+    {
+      "q": "Is Chengdu safe at night?",
+      "a": "Many areas of Chengdu are safe at night, but stick to well-lit, busy areas and use licensed transport."
+    },
+    {
+      "q": "Is Chengdu safe for solo female travelers?",
+      "a": "Solo female travelers can visit Chengdu safely by following standard precautions and staying aware of their surroundings."
+    },
+    {
+      "q": "What areas should I avoid in Chengdu?",
+      "a": "Check the neighborhood breakdown above for specific areas to exercise caution in Chengdu."
+    },
+    {
+      "q": "Is it safe to use public transport in Chengdu?",
+      "a": "Public transport in Chengdu is generally safe. Keep your belongings secure and be alert during rush hours."
+    }
+  ],
+  "relatedCities": [],
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg/1280px-%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg"
+}

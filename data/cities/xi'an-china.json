@@ -1,0 +1,166 @@
+{
+  "slug": "xian",
+  "name": "Xi'an",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 8.0,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Xi'an is generally a safe destination for tourists, with low violent crime rates and a strong police presence. While pickpocketing and tourist scams occur in crowded areas, the ancient capital offers good transport infrastructure and healthcare facilities for visitors.",
+  "quickVerdict": "Xi'an ranks as one of China's safer tourist destinations, with violent crimes being extremely rare and good public security. The main concerns for visitors are tourist-targeted scams and petty theft in crowded areas like the Muslim Quarter. The city benefits from extensive CCTV coverage, reliable public transport, and quality healthcare facilities. Solo travelers, including women, generally feel secure throughout the city.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Bell Tower Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Well-patrolled central district with excellent lighting and high security. Major hotels and attractions are located here with strong police presence."
+    },
+    {
+      "name": "Muslim Quarter",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy tourist area with good security but higher risk of pickpocketing and scams due to crowds. Generally safe but require vigilance with belongings."
+    },
+    {
+      "name": "Yanta District (Giant Wild Goose Pagoda)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern district with good infrastructure and security. Popular with tourists and expats, well-maintained with reliable transport connections."
+    },
+    {
+      "name": "Weiyang District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Mixed residential and commercial area near North Railway Station. Generally safe with good metro connections but fewer tourist amenities."
+    },
+    {
+      "name": "Lintong (Terracotta Warriors)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist zone with dedicated security for the archaeological site. Well-organized transport and tourist facilities but watch for overpriced vendors."
+    },
+    {
+      "name": "University District",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Student area with active nightlife. Generally safe but can be crowded and noisy, especially around universities. Good for younger travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tea Ceremony Scam",
+      "risk": "high",
+      "description": "Friendly students or locals approach tourists offering to practice English or show local culture, then lead them to expensive tea houses with inflated bills.",
+      "howToAvoid": "Politely decline invitations from strangers. If you want tea experiences, book through legitimate tour operators or ask your hotel for recommendations."
+    },
+    {
+      "name": "Fake Taxi Scam",
+      "risk": "medium",
+      "description": "Unlicensed black taxis, especially around train stations and airports, overcharge tourists or don't use meters.",
+      "howToAvoid": "Use official green and yellow taxis with meters. Book rides through Didi app or use hotel taxi services. Ensure the meter is running before departure."
+    },
+    {
+      "name": "Counterfeit Money",
+      "risk": "medium",
+      "description": "Vendors may give counterfeit bills as change, particularly 50 and 100 yuan notes.",
+      "howToAvoid": "Check bills carefully when receiving change. Use ATMs from major banks or pay with mobile payment apps like WeChat Pay or Alipay when possible."
+    },
+    {
+      "name": "Overpriced Souvenirs",
+      "risk": "medium",
+      "description": "Street vendors and shops near attractions charge inflated prices for antiques and souvenirs, often selling fake items as authentic.",
+      "howToAvoid": "Shop at established stores with fixed prices. Bargain aggressively at markets. Be skeptical of expensive authentic antiques being sold on the street."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Xi'an is considered very safe for solo female travelers, with low rates of harassment and violent crime. Chinese men are generally respectful, and the city has good infrastructure. However, standard precautions should be taken, especially at night and in crowded tourist areas.",
+    "tips": [
+      "Dress modestly, especially when visiting temples and religious sites",
+      "Carry hotel address written in Chinese characters for taxi drivers",
+      "Use well-lit main streets when walking alone at night",
+      "Trust your instincts if strangers approach offering help or friendship",
+      "Keep emergency numbers saved in your phone with local SIM card"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Xi'an is generally safe at night with good lighting in tourist areas and active nightlife districts. Police patrol regularly, and the metro runs until 11 PM. Most crimes are petty theft rather than violent incidents, though caution is recommended in less crowded areas.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty alleyways",
+      "Take official taxis or use Didi ride-sharing after dark",
+      "Avoid excessive drinking and keep belongings secure in bars",
+      "Stay aware of your surroundings in crowded nightlife areas like Defuxiang Bar Street",
+      "Return to your hotel before public transport stops running"
+    ]
+  },
+  "transport": {
+    "metro": "Xi'an Metro is modern, safe, and efficient with English signage and announcements. Security screening at all stations. Runs 6 AM to 11 PM with regular intervals. Very affordable at 2-6 yuan per trip.",
+    "rideshare": "Didi (Chinese Uber) is widely available and safer than street taxis. Can be used through WeChat mini-program with English interface. Drivers are tracked and rated for security.",
+    "taxis": "Official green and yellow taxis are generally safe and regulated. Always insist on using the meter. Avoid unofficial black taxis especially at train stations. Keep hotel address in Chinese.",
+    "tips": "Public transport is very safe with extensive CCTV coverage. Buy transport cards for convenience. Download offline maps as backup. Peak hours can be extremely crowded."
+  },
+  "customs": [
+    "Greet with handshakes rather than hugs or kisses - physical contact with strangers makes people uncomfortable",
+    "Address elderly or senior people first and speak quietly in their presence as a sign of respect",
+    "Present and receive items with both hands, especially business cards and gifts",
+    "Don't stick chopsticks upright in rice bowls as this resembles funeral incense",
+    "Remove shoes when entering temples and homes, dress modestly at religious sites"
+  ],
+  "health": {
+    "overview": "Xi'an has good healthcare facilities with several international-standard hospitals. Air quality can be poor due to pollution. Tap water is not safe to drink. Medical care is affordable but language barriers exist in most facilities.",
+    "water": "Tap water is not safe for drinking. Use bottled water or boil tap water. Hotels usually provide complimentary bottled water. Ice in drinks may not be safe.",
+    "vaccinations": "No special vaccinations required for Xi'an. Ensure routine vaccinations are up to date. Consider hepatitis A/B vaccination for extended stays.",
+    "altitude": "Xi'an is at low altitude with no altitude sickness concerns. Climate is dry with hot summers and cold winters. Air pollution can aggravate respiratory conditions."
+  },
+  "emergency": {
+    "general": "110",
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Beijing covers Xi'an - Tel: 010-8531-4000. Located at No. 55 An Jia Lou Road, Chaoyang District, Beijing. For emergencies outside China call +86-10-8531-4000."
+  },
+  "faq": [
+    {
+      "q": "Is Xi'an safe for tourists?",
+      "a": "Yes, Xi'an is very safe for tourists with low crime rates and good police presence. Main concerns are tourist scams and pickpocketing in crowded areas, but violent crime is extremely rare."
+    },
+    {
+      "q": "Is Xi'an safe at night?",
+      "a": "Xi'an is generally safe at night, especially in tourist areas with good lighting and security. Stick to main streets, use official transport, and avoid excessive drinking for the safest experience."
+    },
+    {
+      "q": "Is Xi'an safe for solo female travelers?",
+      "a": "Yes, Xi'an is considered very safe for solo female travelers. Chinese culture is respectful toward women, and harassment is uncommon. Take standard precautions and dress modestly at religious sites."
+    },
+    {
+      "q": "What areas should I avoid in Xi'an?",
+      "a": "No areas are particularly dangerous, but be extra vigilant in crowded tourist zones like the Muslim Quarter where pickpocketing occurs. Avoid unlicensed taxis and suspicious street vendors offering deals."
+    },
+    {
+      "q": "Is it safe to use public transport in Xi'an?",
+      "a": "Yes, Xi'an's public transport is very safe and efficient. The metro has security screening and CCTV coverage. Buses are crowded but safe. Avoid unlicensed black taxis and use official transport only."
+    }
+  ],
+  "relatedCities": [
+    "beijing",
+    "shanghai",
+    "chengdu",
+    "hangzhou",
+    "nanjing"
+  ],
+  "_city_id": "xi'an-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1280px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg"
+}

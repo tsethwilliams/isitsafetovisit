@@ -1317,3 +1317,51 @@
 2026-03-15 05:28:21,095 [WARNING]   [high] mexico_city_mexico: Nationwide cartel retaliation violence following killing of CJNG leader 'El Mencho' on February 22, 2026. Over 250 roadblocks established across Mexico. US Embassy issued shelter-in-place advisories. Violence has subsided but security concerns remain elevated.
 2026-03-15 06:12:16,250 [INFO] Agent starting — mode: refresh
 2026-03-15 06:12:16,324 [INFO] Found 0 stale cities, refreshing 0
+2026-03-15 06:40:28,160 [INFO] Agent starting — mode: add
+2026-03-15 06:40:28,202 [INFO] Queue has 367 cities, adding 8
+2026-03-15 06:40:28,202 [INFO] Generating new city profile: Shanghai, China
+2026-03-15 06:42:03,821 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:42:04,140 [INFO] Found Wikipedia image for Shanghai
+2026-03-15 06:42:04,141 [INFO] Saved city data: shanghai-china
+2026-03-15 06:42:04,143 [INFO] Generating new city profile: Beijing, China
+2026-03-15 06:43:35,758 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:43:36,042 [INFO] Found Wikipedia image for Beijing
+2026-03-15 06:43:36,042 [INFO] Saved city data: beijing-china
+2026-03-15 06:43:36,045 [INFO] Generating new city profile: Chengdu, China
+2026-03-15 06:45:08,428 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:45:08,563 [WARNING] Added missing field 'health' for Chengdu
+2026-03-15 06:45:08,563 [WARNING] Added missing field 'emergency' for Chengdu
+2026-03-15 06:45:08,563 [WARNING] Added missing field 'faq' for Chengdu
+2026-03-15 06:45:08,563 [WARNING] Added missing field 'relatedCities' for Chengdu
+2026-03-15 06:45:08,755 [INFO] Found Wikipedia image for Chengdu
+2026-03-15 06:45:08,755 [INFO] Saved city data: chengdu-china
+2026-03-15 06:45:08,758 [INFO] Generating new city profile: Guilin, China
+2026-03-15 06:46:39,300 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:46:39,523 [INFO] Found Wikipedia image for Guilin
+2026-03-15 06:46:39,524 [INFO] Saved city data: guilin-china
+2026-03-15 06:46:39,526 [INFO] Generating new city profile: Xi'an, China
+2026-03-15 06:48:11,189 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:48:11,538 [INFO] Found Wikipedia image for Xi'an
+2026-03-15 06:48:11,539 [INFO] Saved city data: xi'an-china
+2026-03-15 06:48:11,541 [INFO] Generating new city profile: Taipei, Taiwan
+2026-03-15 06:49:42,151 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:49:42,436 [INFO] Found Wikipedia image for Taipei
+2026-03-15 06:49:42,436 [INFO] Saved city data: taipei-taiwan
+2026-03-15 06:49:42,438 [INFO] Generating new city profile: Kaohsiung, Taiwan
+2026-03-15 06:51:22,094 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:51:22,386 [INFO] Found Wikipedia image for Kaohsiung
+2026-03-15 06:51:22,387 [INFO] Saved city data: kaohsiung-taiwan
+2026-03-15 06:51:22,389 [INFO] Generating new city profile: Macau, China
+2026-03-15 06:52:53,781 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 06:52:54,038 [INFO] Found Wikipedia image for Macau
+2026-03-15 06:52:54,039 [INFO] Saved city data: macau-china
+2026-03-15 06:52:54,064 [INFO] Merged into site data: Shanghai
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Beijing
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Chengdu
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Guilin
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Xi'an
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Taipei
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Kaohsiung
+2026-03-15 06:52:54,065 [INFO] Merged into site data: Macau
+2026-03-15 06:52:54,107 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-15 06:52:54,129 [INFO] Rebuilt sitemap with 302 URLs (206 cities, 90 countries, 6 static)
