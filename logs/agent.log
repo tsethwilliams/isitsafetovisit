@@ -1418,3 +1418,15 @@
 2026-03-15 11:13:43,228 [INFO] Merged into site data: Singapore
 2026-03-15 11:13:43,272 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-15 11:13:43,297 [INFO] Rebuilt sitemap with 312 URLs (214 cities, 92 countries, 6 static)
+2026-03-15 13:59:08,358 [INFO] Agent starting — mode: alert
+2026-03-15 13:59:08,429 [INFO] Checking alerts for 212 cities
+2026-03-15 13:59:45,489 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 13:59:45,599 [WARNING] ALERTS DETECTED: 8
+2026-03-15 13:59:45,599 [WARNING]   [critical] tel_aviv: Tel Aviv experiencing sustained Iranian missile attacks with daily sirens, civilian casualties, and building damage. US Embassy suspended consular services through March 20, offering evacuation assistance. State of emergency continues with shelter-in-place orders.
+2026-03-15 13:59:45,602 [WARNING]   [high] antalya: Turkey raised to Level 2 advisory due to terrorism and armed conflict. Non-emergency US personnel ordered to depart from southeast Turkey (Consulate Adana suspended). Increased restrictions on US government staff movements.
+2026-03-15 13:59:45,605 [WARNING]   [high] bodrum: Turkey raised to Level 2 advisory due to terrorism and armed conflict. Non-emergency US personnel ordered to depart from southeast Turkey (Consulate Adana suspended). Increased restrictions on US government staff movements.
+2026-03-15 13:59:45,607 [WARNING]   [medium] playa_del_carmen: Mexico experienced cartel violence following El Mencho killing on Feb 22, but Quintana Roo (including Playa del Carmen) returned to normal by Feb 23. US Embassy confirmed tourism operating normally. Level 2 advisory unchanged.
+2026-03-15 13:59:45,610 [WARNING]   [medium] mexico_city: Mexico experienced cartel violence following El Mencho killing on Feb 22, but situation normalized by Feb 25. US Embassy confirmed all restrictions lifted and operations returned to normal. Level 2 advisory unchanged.
+2026-03-15 13:59:45,612 [WARNING]   [low] honolulu: Kilauea volcano pause continues with next eruption episode forecast for March 28-April 12. Volcano remains at Watch level but poses no immediate threat to tourism areas.
+2026-03-15 13:59:45,615 [WARNING]   [medium] brussels: Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.
+2026-03-15 13:59:45,617 [WARNING]   [medium] ghent: Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.

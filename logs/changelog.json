@@ -2128,5 +2128,53 @@
     "action": "add",
     "city_id": "singapore-singapore",
     "details": "New city added with score 8.8"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.600654+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv",
+    "details": "{\"city_id\": \"tel_aviv\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"Tel Aviv experiencing sustained Iranian missile attacks with daily sirens, civilian casualties, and building damage. US Embassy suspended consular services through March 20, offering evacuation assistance. State of emergency continues with shelter-in-place orders.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.603293+00:00",
+    "action": "alert",
+    "city_id": "antalya",
+    "details": "{\"city_id\": \"antalya\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"Turkey raised to Level 2 advisory due to terrorism and armed conflict. Non-emergency US personnel ordered to depart from southeast Turkey (Consulate Adana suspended). Increased restrictions on US government staff movements.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.605761+00:00",
+    "action": "alert",
+    "city_id": "bodrum",
+    "details": "{\"city_id\": \"bodrum\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"Turkey raised to Level 2 advisory due to terrorism and armed conflict. Non-emergency US personnel ordered to depart from southeast Turkey (Consulate Adana suspended). Increased restrictions on US government staff movements.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.608301+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen",
+    "details": "{\"city_id\": \"playa_del_carmen\", \"alert_type\": \"security_operations\", \"severity\": \"medium\", \"summary\": \"Mexico experienced cartel violence following El Mencho killing on Feb 22, but Quintana Roo (including Playa del Carmen) returned to normal by Feb 23. US Embassy confirmed tourism operating normally. Level 2 advisory unchanged.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.611010+00:00",
+    "action": "alert",
+    "city_id": "mexico_city",
+    "details": "{\"city_id\": \"mexico_city\", \"alert_type\": \"security_operations\", \"severity\": \"medium\", \"summary\": \"Mexico experienced cartel violence following El Mencho killing on Feb 22, but situation normalized by Feb 25. US Embassy confirmed all restrictions lifted and operations returned to normal. Level 2 advisory unchanged.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.613469+00:00",
+    "action": "alert",
+    "city_id": "honolulu",
+    "details": "{\"city_id\": \"honolulu\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Kilauea volcano pause continues with next eruption episode forecast for March 28-April 12. Volcano remains at Watch level but poses no immediate threat to tourism areas.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.616054+00:00",
+    "action": "alert",
+    "city_id": "brussels",
+    "details": "{\"city_id\": \"brussels\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T13:59:45.618641+00:00",
+    "action": "alert",
+    "city_id": "ghent",
+    "details": "{\"city_id\": \"ghent\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.\", \"action\": \"add_incident\"}"
   }
 ]
