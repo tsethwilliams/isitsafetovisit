@@ -1365,3 +1365,12 @@
 2026-03-15 06:52:54,065 [INFO] Merged into site data: Macau
 2026-03-15 06:52:54,107 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-15 06:52:54,129 [INFO] Rebuilt sitemap with 302 URLs (206 cities, 90 countries, 6 static)
+2026-03-15 07:55:41,941 [INFO] Agent starting — mode: alert
+2026-03-15 07:55:42,013 [INFO] Checking alerts for 204 cities
+2026-03-15 07:56:21,667 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 07:56:21,730 [WARNING] ALERTS DETECTED: 5
+2026-03-15 07:56:21,730 [WARNING]   [critical] tel_aviv: Tel Aviv under sustained missile attacks from Iran with multiple casualties and infrastructure damage. US Embassy suspended consular services through March 13. Red alert sirens frequent with 90-second shelter timeframes.
+2026-03-15 07:56:21,733 [WARNING]   [high] playa_del_carmen: Cartel violence following El Mencho killing - vehicle fires, business attacks in Playa del Carmen. 7 arrested for violence. US government directed staff to shelter-in-place.
+2026-03-15 07:56:21,735 [WARNING]   [medium] mexico_city: Nationwide cartel violence affecting multiple states including areas around Mexico City. Enhanced security deployments in place following CJNG leader killing.
+2026-03-15 07:56:21,738 [WARNING]   [medium] antalya: Turkey involved in Iran conflict mediation discussions. Regional tensions elevated but no direct impact on Antalya tourism infrastructure.
+2026-03-15 07:56:21,740 [WARNING]   [medium] bodrum: Turkey involved in Iran conflict mediation discussions. Regional tensions elevated but no direct impact on Bodrum tourism infrastructure.

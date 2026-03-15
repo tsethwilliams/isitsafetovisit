@@ -2050,5 +2050,35 @@
     "action": "add",
     "city_id": "macau-china",
     "details": "New city added with score 7.6"
+  },
+  {
+    "timestamp": "2026-03-15T07:56:21.731309+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv",
+    "details": "{\"city_id\": \"tel_aviv\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"Tel Aviv under sustained missile attacks from Iran with multiple casualties and infrastructure damage. US Embassy suspended consular services through March 13. Red alert sirens frequent with 90-second shelter timeframes.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-15T07:56:21.733903+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen",
+    "details": "{\"city_id\": \"playa_del_carmen\", \"alert_type\": \"organized_crime\", \"severity\": \"high\", \"summary\": \"Cartel violence following El Mencho killing - vehicle fires, business attacks in Playa del Carmen. 7 arrested for violence. US government directed staff to shelter-in-place.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-15T07:56:21.736541+00:00",
+    "action": "alert",
+    "city_id": "mexico_city",
+    "details": "{\"city_id\": \"mexico_city\", \"alert_type\": \"organized_crime\", \"severity\": \"medium\", \"summary\": \"Nationwide cartel violence affecting multiple states including areas around Mexico City. Enhanced security deployments in place following CJNG leader killing.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T07:56:21.739260+00:00",
+    "action": "alert",
+    "city_id": "antalya",
+    "details": "{\"city_id\": \"antalya\", \"alert_type\": \"regional_conflict\", \"severity\": \"medium\", \"summary\": \"Turkey involved in Iran conflict mediation discussions. Regional tensions elevated but no direct impact on Antalya tourism infrastructure.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T07:56:21.741559+00:00",
+    "action": "alert",
+    "city_id": "bodrum",
+    "details": "{\"city_id\": \"bodrum\", \"alert_type\": \"regional_conflict\", \"severity\": \"medium\", \"summary\": \"Turkey involved in Iran conflict mediation discussions. Regional tensions elevated but no direct impact on Bodrum tourism infrastructure.\", \"action\": \"add_incident\"}"
   }
 ]
