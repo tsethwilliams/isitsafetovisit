@@ -2176,5 +2176,53 @@
     "action": "alert",
     "city_id": "ghent",
     "details": "{\"city_id\": \"ghent\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-15T17:03:26.580800+00:00",
+    "action": "add",
+    "city_id": "penang-malaysia",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-15T17:04:57.930327+00:00",
+    "action": "add",
+    "city_id": "langkawi-malaysia",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-15T17:06:15.776151+00:00",
+    "action": "add",
+    "city_id": "malacca-malaysia",
+    "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-15T17:08:03.559333+00:00",
+    "action": "add",
+    "city_id": "jakarta-indonesia",
+    "details": "New city added with score 6.2"
+  },
+  {
+    "timestamp": "2026-03-15T17:09:33.158386+00:00",
+    "action": "add",
+    "city_id": "yogyakarta-indonesia",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-15T17:11:16.289889+00:00",
+    "action": "add",
+    "city_id": "lombok-indonesia",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-15T17:12:38.064868+00:00",
+    "action": "add",
+    "city_id": "komodo-indonesia",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-15T17:14:17.793348+00:00",
+    "action": "add",
+    "city_id": "cebu-philippines",
+    "details": "New city added with score 6.4"
   }
 ]

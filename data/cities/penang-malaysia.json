@@ -1,0 +1,165 @@
+{
+  "slug": "penang",
+  "name": "Penang",
+  "country": "Malaysia",
+  "countryCode": "MY",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.8,
+    "naturalHazards": 8.1
+  },
+  "summary": "Penang is considered one of Malaysia's safest destinations, consistently ranking as the country's most secure state for tourists. The island enjoys low violent crime rates and excellent infrastructure, though visitors should remain vigilant against petty crimes and scams targeting tourists.",
+  "quickVerdict": "Penang stands out as an exceptionally safe destination for travelers, with excellent transport infrastructure, well-patrolled tourist areas, and a welcoming multicultural atmosphere. The main safety concerns are minor, involving pickpocketing in crowded areas and taxi scams, but violent crime against tourists is rare. The island's comprehensive bus network, reliable Grab services, and pedestrian-friendly George Town make it ideal for all types of travelers, including solo female visitors who consistently report positive experiences.",
+  "neighborhoods": [
+    {
+      "name": "George Town UNESCO Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart of Penang with heavy foot traffic, regular police patrols, and excellent street lighting. Popular tourist areas like Armenian Street and Beach Street are well-monitored and very safe for walking day and night."
+    },
+    {
+      "name": "Gurney Drive",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern waterfront district with upscale hotels, shopping malls, and restaurants. Well-lit promenade area with good security presence and regular police patrols, particularly safe for evening strolls."
+    },
+    {
+      "name": "Batu Ferringhi",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular beach resort area with established tourist infrastructure. The main strip is well-patrolled and safe, though beach areas can be less supervised at night. Night market area is generally secure but watch for pickpockets."
+    },
+    {
+      "name": "Air Itam",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area home to Kek Lok Si Temple and the funicular railway to Penang Hill. Generally safe but more isolated than central areas, with fewer people around after dark."
+    },
+    {
+      "name": "KOMTAR Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Major transport hub and commercial district that can attract petty criminals targeting tourists with luggage. Exercise extra caution around the bus terminals and avoid displaying valuable items openly."
+    },
+    {
+      "name": "Weld Quay Ferry Terminal",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy transport interchange with higher potential for pickpocketing and bag snatching due to crowds and distracted travelers. Stay alert when boarding ferries and keep belongings secure."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scam",
+      "risk": "high",
+      "description": "Taxi drivers refuse to use meters and quote inflated fixed prices, or take longer routes to increase metered fares. Common at tourist areas and the airport.",
+      "howToAvoid": "Insist on using the meter before getting in, use Grab or official airport taxis with fixed pricing, and have a general idea of routes and distances."
+    },
+    {
+      "name": "Fake Monk Donations",
+      "risk": "medium",
+      "description": "People dressed as Buddhist monks approach tourists in crowded areas like markets, offering medallions or blessings then requesting donations. Real monks don't solicit donations this way.",
+      "howToAvoid": "Politely decline any items offered by monks in tourist areas, walk away if approached, and remember that legitimate monks don't seek donations from tourists."
+    },
+    {
+      "name": "Street Food Overcharging",
+      "risk": "medium",
+      "description": "Vendors at tourist-heavy areas quote inflated prices for local dishes or add hidden charges for items presented as free samples, especially targeting foreign visitors.",
+      "howToAvoid": "Ask for prices upfront, eat at busy hawker centers with posted prices, choose stalls with local customers, and learn basic price ranges for common dishes."
+    },
+    {
+      "name": "Photography Extortion",
+      "risk": "medium",
+      "description": "Photographers approach tourists offering to take photos, then demand excessive payment after taking multiple shots and claiming you've received a service.",
+      "howToAvoid": "Set clear terms and price before accepting any photo service, offer to pay upfront for one photo only, and be prepared to walk away from pushy photographers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Penang is exceptionally safe for solo female travelers, consistently ranking as Malaysia's safest state. The island's cosmopolitan atmosphere, large expat community, and liberal culture create a comfortable environment. Solo women report feeling secure walking around George Town day and night, with many praising the friendly locals and excellent transport options. The UNESCO heritage area is particularly well-patrolled and safe.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central George Town or Gurney Drive",
+      "Use Grab instead of street taxis for better safety and transparency",
+      "Dress modestly when visiting religious sites or rural areas",
+      "Keep bags in front of you in crowded markets and night markets",
+      "Trust your instincts and avoid isolated areas after dark, especially beaches"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Penang offers excellent night safety with well-lit streets, active nightlife areas, and regular police patrols in tourist zones. George Town's night markets and restaurant areas remain busy and safe until late. The main precautions involve staying in popular areas and being aware of surroundings in less crowded locations.",
+    "tips": [
+      "Stick to well-lit, populated areas like George Town and Gurney Drive",
+      "Avoid isolated beach areas and less touristy streets after dark",
+      "Use Grab for late-night transportation instead of walking long distances",
+      "Keep valuables secure in crowded night markets",
+      "Stay aware of your surroundings and trust your instincts"
+    ]
+  },
+  "transport": {
+    "metro": "Penang has no metro system, but offers the free CAT (Central Area Transit) shuttle bus within George Town, connecting major attractions and tourist areas with frequent service from 6am to 11:45pm.",
+    "rideshare": "Grab is the primary ride-hailing service, operating reliably throughout Penang with upfront pricing, GPS tracking, and cashless payment. Service is excellent for airport transfers and getting around the island safely.",
+    "taxis": "Traditional taxis often don't use meters and quote inflated prices to tourists. Licensed airport taxis use a coupon system with fixed zones pricing, which is more reliable than street taxis.",
+    "tips": "Use Grab for most transport needs as it's safer and more transparent than street taxis. The Rapid Penang bus network is extensive, safe, and affordable, connecting all major areas including the airport, George Town, and Batu Ferringhi."
+  },
+  "customs": [
+    "Remove shoes before entering homes, temples, and some restaurants",
+    "Use your right hand for eating, passing objects, and handshakes as the left hand is considered unclean",
+    "Dress modestly at religious sites covering shoulders and knees, with women requiring headscarves at some mosques",
+    "Greet elders first and show respect through slight bows and formal titles",
+    "Don't point with your index finger; use your thumb or open hand instead"
+  ],
+  "health": {
+    "overview": "Penang has excellent healthcare standards with modern hospitals and clinics. Malaysia requires no mandatory vaccinations for most travelers, though routine vaccines should be current. The tropical climate requires sun protection and hydration.",
+    "water": "Tap water is treated but not recommended for drinking. Bottled water is widely available and affordable. Ice in restaurants and hotels is generally safe, but avoid ice from street vendors.",
+    "vaccinations": "Routine vaccines (MMR, DTaP, flu) should be current. Consider hepatitis A and typhoid for food/water exposure. Japanese encephalitis vaccination recommended for extended rural stays. Malaria risk is very low in Penang.",
+    "altitude": "Sea level location with hot, humid tropical climate year-round. Temperatures average 27-32°C with high humidity. Rainy season from May to October brings afternoon thunderstorms and increased humidity."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "994 or 999",
+    "touristPolice": "03-2149-6590",
+    "usEmbassy": "U.S. Embassy Kuala Lumpur: +60-3-2168-5000 (24/7 emergency line available). Located at 376 Jalan Tun Razak, 50400 Kuala Lumpur. For emergencies involving U.S. citizens, someone responds 24 hours a day."
+  },
+  "faq": [
+    {
+      "q": "Is Penang safe for tourists?",
+      "a": "Yes, Penang is very safe for tourists and consistently ranks as Malaysia's safest state. Violent crime against tourists is extremely rare, and the main concerns are minor issues like pickpocketing in crowded areas. The island has excellent tourist infrastructure and police presence."
+    },
+    {
+      "q": "Is Penang safe at night?",
+      "a": "Penang is generally safe at night, especially in tourist areas like George Town and Gurney Drive which remain active and well-lit. Night markets and restaurant areas are busy and secure. However, avoid isolated areas and beaches after dark, and use Grab for late-night transportation."
+    },
+    {
+      "q": "Is Penang safe for solo female travelers?",
+      "a": "Absolutely. Penang is considered one of the best destinations in Southeast Asia for solo female travelers. The island's liberal, cosmopolitan atmosphere and strong safety record make it very comfortable for women traveling alone. Most solo female travelers report feeling completely safe throughout their stay."
+    },
+    {
+      "q": "What areas should I avoid in Penang?",
+      "a": "There are no particularly dangerous areas in Penang, but exercise extra caution around transport hubs like KOMTAR and Weld Quay ferry terminal where pickpocketing can occur. Avoid isolated areas and beaches at night, and be more alert in less touristy neighborhoods after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Penang?",
+      "a": "Yes, public transport in Penang is very safe. The Rapid Penang bus system is modern, well-maintained, and reliable. Grab ride-hailing is excellent and widely used. The free CAT shuttle in George Town is also safe and convenient. Traditional taxis can be problematic due to overcharging, so Grab is preferred."
+    }
+  ],
+  "relatedCities": [
+    "kuala-lumpur",
+    "singapore",
+    "bangkok",
+    "ho-chi-minh-city"
+  ],
+  "_city_id": "penang-malaysia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Penang_in_Malaysia.svg/1280px-Penang_in_Malaysia.svg.png"
+}

@@ -1430,3 +1430,46 @@
 2026-03-15 13:59:45,612 [WARNING]   [low] honolulu: Kilauea volcano pause continues with next eruption episode forecast for March 28-April 12. Volcano remains at Watch level but poses no immediate threat to tourism areas.
 2026-03-15 13:59:45,615 [WARNING]   [medium] brussels: Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.
 2026-03-15 13:59:45,617 [WARNING]   [medium] ghent: Belgium nationwide strike on March 12 caused airport shutdowns and flight cancellations. European airports continue experiencing significant delays (380+ delayed, 86 cancelled flights) and weather-related disruptions through March 14-15.
+2026-03-15 17:01:49,560 [INFO] Agent starting — mode: add
+2026-03-15 17:01:49,600 [INFO] Queue has 351 cities, adding 8
+2026-03-15 17:01:49,600 [INFO] Generating new city profile: Penang, Malaysia
+2026-03-15 17:03:26,221 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:03:26,579 [INFO] Found Wikipedia image for Penang
+2026-03-15 17:03:26,580 [INFO] Saved city data: penang-malaysia
+2026-03-15 17:03:26,582 [INFO] Generating new city profile: Langkawi, Malaysia
+2026-03-15 17:04:57,651 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:04:57,929 [INFO] Found Wikipedia image for Langkawi
+2026-03-15 17:04:57,929 [INFO] Saved city data: langkawi-malaysia
+2026-03-15 17:04:57,932 [INFO] Generating new city profile: Malacca, Malaysia
+2026-03-15 17:06:15,563 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:06:15,774 [INFO] Found Wikipedia image for Malacca
+2026-03-15 17:06:15,775 [INFO] Saved city data: malacca-malaysia
+2026-03-15 17:06:15,778 [INFO] Generating new city profile: Jakarta, Indonesia
+2026-03-15 17:08:03,195 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:08:03,557 [INFO] Found Wikipedia image for Jakarta
+2026-03-15 17:08:03,558 [INFO] Saved city data: jakarta-indonesia
+2026-03-15 17:08:03,561 [INFO] Generating new city profile: Yogyakarta, Indonesia
+2026-03-15 17:09:32,942 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:09:33,156 [INFO] Found Wikipedia image for Yogyakarta
+2026-03-15 17:09:33,157 [INFO] Saved city data: yogyakarta-indonesia
+2026-03-15 17:09:33,160 [INFO] Generating new city profile: Lombok, Indonesia
+2026-03-15 17:11:16,091 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:11:16,288 [INFO] Found Wikipedia image for Lombok
+2026-03-15 17:11:16,289 [INFO] Saved city data: lombok-indonesia
+2026-03-15 17:11:16,291 [INFO] Generating new city profile: Komodo, Indonesia
+2026-03-15 17:12:37,767 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:12:38,064 [INFO] Saved city data: komodo-indonesia
+2026-03-15 17:12:38,066 [INFO] Generating new city profile: Cebu, Philippines
+2026-03-15 17:14:17,484 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 17:14:17,791 [INFO] Found Wikipedia image for Cebu
+2026-03-15 17:14:17,792 [INFO] Saved city data: cebu-philippines
+2026-03-15 17:14:17,819 [INFO] Merged into site data: Penang
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Langkawi
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Malacca
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Jakarta
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Yogyakarta
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Lombok
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Komodo
+2026-03-15 17:14:17,820 [INFO] Merged into site data: Cebu
+2026-03-15 17:14:17,865 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-15 17:14:17,889 [INFO] Rebuilt sitemap with 320 URLs (222 cities, 92 countries, 6 static)

@@ -1,0 +1,161 @@
+{
+  "slug": "malacca",
+  "name": "Malacca",
+  "country": "Malaysia",
+  "countryCode": "MY",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Malacca is one of Malaysia's safest tourist destinations, with a low violent crime rate and excellent infrastructure. While petty crime and tourist-targeted scams occur, the city maintains strong security presence and is particularly welcoming to international visitors.",
+  "quickVerdict": "Malacca stands out as one of Malaysia's safest cities for tourists, earning high marks across most safety categories. The UNESCO World Heritage city has one of the lowest crime rates among urban areas in Malaysia, with violent crime being exceptionally rare. Tourist Police stations are strategically located in key areas, and the compact historic center is easily walkable during both day and night. While visitors should remain cautious of pickpocketing and common tourist scams, the city's strong safety infrastructure and welcoming local population make it an ideal destination for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Historic Core (Jonker Street & Dutch Square)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The heart of Malacca with heavy tourist police presence, well-lit streets, and constant foot traffic. Very safe during day and night, though watch for pickpockets during weekend night markets."
+    },
+    {
+      "name": "Chinatown & Heritage Quarter",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Well-maintained tourist area with excellent lighting and regular patrols. Street food vendors and cultural sites make it bustling and secure, though be aware of overpricing scams."
+    },
+    {
+      "name": "Riverside & Malacca River",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Pleasant waterfront area with good evening ambiance and river cruise activities. Generally safe but less crowded after 10pm, so use common sense when walking alone."
+    },
+    {
+      "name": "Shopping Districts (Mahkota Parade)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern commercial areas with mall security and good transport links. Very safe during operating hours, though surrounding streets can be quieter late at night."
+    },
+    {
+      "name": "Residential Areas",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Local neighborhoods are generally safe but less tourist-oriented. Good for authentic experiences though may lack English signage and tourist amenities."
+    },
+    {
+      "name": "Outer Districts & Industrial Areas",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Areas beyond the historic center require more caution, especially after dark. Less police presence and tourist infrastructure, though still relatively safe by regional standards."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Taxi drivers refusing meters, inflated trishaw tours, and overcharging at markets targeting foreign visitors, especially around Dutch Square and Jonker Street.",
+      "howToAvoid": "Always use Grab app or insist on metered taxis. Agree on prices before services. Shop around and compare prices at multiple vendors."
+    },
+    {
+      "name": "Fake Photography Services",
+      "risk": "medium",
+      "description": "Street photographers offer one photo for RM10 but send multiple shots and demand higher payment, claiming tourists received more than agreed.",
+      "howToAvoid": "Be very specific about wanting only one photo for a set price. Have them confirm terms clearly before agreeing. Consider taking your own photos instead."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "high",
+      "description": "Fraudulent card readers at ATMs and some retail establishments can capture card details for later unauthorized use.",
+      "howToAvoid": "Use ATMs inside banks or hotels. Cover PIN entry. Monitor account statements regularly. Consider using contactless payments or cash for small purchases."
+    },
+    {
+      "name": "Counterfeit Goods Scams",
+      "risk": "low",
+      "description": "Vendors in tourist markets selling fake branded items or claiming locally-made crafts are authentic antiques at inflated prices.",
+      "howToAvoid": "Shop at certified stores with receipts. Be skeptical of designer goods at very low prices. Research typical prices for authentic local crafts beforehand."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Malacca is exceptionally safe for solo female travelers, ranking among the best destinations in Southeast Asia for women traveling alone. The city has very low rates of harassment or assault, with locals generally respectful and helpful. The compact size makes it easy to navigate, and tourist areas are well-patrolled.",
+    "tips": [
+      "Stay in well-reviewed accommodations in the historic center for easy access to main attractions and better security",
+      "Use Grab app for transport rather than street taxis, especially at night, for added safety and fare transparency",
+      "Dress modestly when visiting religious sites and respect local customs to avoid unwanted attention",
+      "Keep emergency contacts saved and share itinerary with someone - most locals speak English and are helpful if assistance needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Malacca is quite safe at night, particularly in tourist areas where good lighting and regular foot traffic continue after dark. The famous Jonker Street Night Market creates a lively, secure atmosphere on weekends. Most violent crime is extremely rare, though standard precautions should still be taken.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas like Jonker Street and the riverside, especially after 10pm",
+      "Weekend night markets provide safe, crowded environments for evening activities with food and shopping",
+      "Use Grab or official taxis for late-night transport rather than walking long distances alone",
+      "River cruises and evening dining along the waterfront are generally safe activities until around 11pm"
+    ]
+  },
+  "transport": {
+    "metro": "Malacca has no metro system. The city relies on buses, taxis, and ride-sharing services for public transport.",
+    "rideshare": "Grab is widely available, reliable, and the safest transport option with upfront pricing and driver tracking. Response times are typically 5-10 minutes in tourist areas.",
+    "taxis": "Traditional metered taxis are available but some drivers may refuse to use meters or take longer routes. Tourist police recommend using official taxi stands near major attractions.",
+    "tips": "Download Grab app for transparent pricing and safety features. For short distances within the historic center, walking or trishaw rides are popular options. Avoid unofficial taxi services at transport hubs."
+  },
+  "customs": [
+    "Remove shoes before entering homes, temples, and some traditional establishments as a sign of respect",
+    "Use right hand for eating, handshakes, and passing objects - the left hand is considered unclean in local culture",
+    "Dress modestly when visiting religious sites, covering shoulders and knees, and avoid public displays of affection"
+  ],
+  "health": {
+    "overview": "Malaysia has good healthcare standards with several accredited international hospitals. Malacca has adequate medical facilities for tourists, though serious cases may need transfer to Kuala Lumpur.",
+    "water": "Tap water is treated but bottled water is recommended for tourists. Street food is generally safe from established vendors but use common sense.",
+    "vaccinations": "No special vaccinations required for most tourists. Consider hepatitis A/B and typhoid for extended stays. Dengue fever risk exists year-round so use mosquito repellent.",
+    "altitude": "Sea level location with tropical climate. High humidity year-round, frequent afternoon showers. Stay hydrated and use sun protection."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "994",
+    "touristPolice": "03-2149-6590",
+    "usEmbassy": "US Embassy Kuala Lumpur: +60-3-2168-5000. Located at 376 Jalan Tun Razak, 50400 Kuala Lumpur. Emergency services available 24/7."
+  },
+  "faq": [
+    {
+      "q": "Is Malacca safe for tourists?",
+      "a": "Yes, Malacca is one of Malaysia's safest tourist destinations with very low violent crime rates. Tourist Police stations are located in major areas, and the compact historic center is well-patrolled and well-lit."
+    },
+    {
+      "q": "Is Malacca safe at night?",
+      "a": "Generally yes, especially in tourist areas. Jonker Street Night Market creates a safe, lively atmosphere on weekends. Stick to main streets and use Grab for transport after 10pm."
+    },
+    {
+      "q": "Is Malacca safe for solo female travelers?",
+      "a": "Extremely safe. Malacca has very low harassment rates and locals are generally respectful and helpful. Use standard precautions and stay in well-reviewed accommodations in the historic center."
+    },
+    {
+      "q": "What areas should I avoid in Malacca?",
+      "a": "No specific dangerous areas, but exercise more caution in outer districts and industrial areas after dark. The historic center and main tourist zones are very safe throughout the day and night."
+    },
+    {
+      "q": "Is it safe to use public transport in Malacca?",
+      "a": "Yes, though Grab rideshare is the safest and most convenient option. Traditional taxis are available but some may overcharge tourists, so prefer official taxi stands or use the Grab app."
+    }
+  ],
+  "relatedCities": [
+    "kuala-lumpur",
+    "penang",
+    "singapore",
+    "johor-bahru"
+  ],
+  "_city_id": "malacca-malaysia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Malacca_in_Malaysia.svg/1280px-Malacca_in_Malaysia.svg.png"
+}

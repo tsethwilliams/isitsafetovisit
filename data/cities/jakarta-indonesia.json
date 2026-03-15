@@ -1,0 +1,160 @@
+{
+  "slug": "jakarta",
+  "name": "Jakarta",
+  "country": "Indonesia",
+  "countryCode": "ID",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 6.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Jakarta is generally safe for informed travelers but requires urban awareness and smart planning. The main risks are petty crime, traffic accidents, scams, and seasonal flooding rather than violent crime.",
+  "quickVerdict": "Jakarta offers a moderate safety environment for tourists who take standard precautions. While violent crime targeting visitors is uncommon, especially in central business districts, travelers should remain vigilant about pickpocketing in crowded areas, taxi scams, and traffic hazards. The city's extensive security presence in commercial areas and reliable transport options through apps like Grab and Gojek make it navigable for careful visitors. Seasonal flooding between November and March poses additional risks to consider.",
+  "neighborhoods": [
+    {
+      "name": "Central Jakarta (Sudirman/Thamrin)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The business district featuring major hotels, embassies, and shopping centers with heavy security presence and visible police patrols. Well-lit streets and consistent foot traffic."
+    },
+    {
+      "name": "South Jakarta (SCBD/Senopati)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale area with modern infrastructure, luxury malls, and quality restaurants. Good for nightlife with established venues and reliable transport access."
+    },
+    {
+      "name": "Jakarta Old Town (Kota Tua)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic area safe during daylight hours when tourists are present, but can feel isolated after dark. Stick to main tourist areas and avoid deserted streets at night."
+    },
+    {
+      "name": "Glodok (Chinatown)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Budget-friendly area with cultural attractions but requires extra awareness for pickpocketing. Crowded markets and narrow streets can be challenging to navigate safely."
+    },
+    {
+      "name": "North Jakarta/Ancol Port Area",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Higher crime rates and infrastructure challenges in industrial and residential areas. The port area near Tanjung Priok is not recommended for independent exploration."
+    },
+    {
+      "name": "West Jakarta (outer areas)",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Some densely populated residential neighborhoods with higher crime rates and limited tourist appeal. Avoid wandering in areas lacking commercial activity and security presence."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Scam",
+      "risk": "high",
+      "description": "Drivers impersonating reputable Blue Bird taxis overcharge tourists or take long routes to increase fares. Some refuse to use meters and demand flat rates.",
+      "howToAvoid": "Only use official Blue Bird taxis or ride-hailing apps like Grab and Gojek. Verify license plates and driver details before entering vehicles."
+    },
+    {
+      "name": "Money Exchange Fraud",
+      "risk": "medium",
+      "description": "Unofficial money changers use sleight of hand to shortchange tourists or provide counterfeit bills. They advertise attractive rates but manipulate the exchange process.",
+      "howToAvoid": "Only exchange money at banks or licensed money changers in malls. Count money carefully and avoid street-side exchange services offering unusually good rates."
+    },
+    {
+      "name": "Fake Tour Guide",
+      "risk": "medium",
+      "description": "Unlicensed guides at tourist attractions like Monas and Kota Tua offer free services then demand payment. They approach tourists claiming to be official guides.",
+      "howToAvoid": "Politely decline unsolicited guide services. Book tours through reputable agencies or hotels. Official guides typically wear identification and are licensed."
+    },
+    {
+      "name": "Pickpocketing",
+      "risk": "high",
+      "description": "Opportunistic theft in crowded areas including markets, bus stations, and commuter trains. Thieves target phones, wallets, and bags in busy locations.",
+      "howToAvoid": "Keep bags zipped and in front of you in crowded areas. Avoid displaying expensive items openly and use hotel safes for valuables not needed daily."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Jakarta is generally safe for solo female travelers who take standard urban precautions. The city is modern and cosmopolitan with women commonly traveling alone for business and leisure. However, cultural considerations around modest dress and avoiding isolated areas at night are important to follow.",
+    "tips": [
+      "Use reputable transport like Blue Bird taxis or ride-hailing apps for safety and tracking",
+      "Dress modestly covering shoulders and knees, especially outside tourist areas",
+      "Stay in central business districts like Sudirman or Thamrin which are well-monitored and safer"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Jakarta's nightlife areas in SCBD and central districts are generally safe with visible security, but standard precautions apply. Stick to established venues and well-lit areas, and avoid wandering alone in isolated areas after dark. Traffic can be particularly challenging at night.",
+    "tips": [
+      "Stay in popular nightlife districts with good security and regular foot traffic",
+      "Use ride-hailing apps for safe transport rather than walking long distances at night",
+      "Keep valuables secure and limit cash carried when out for the evening"
+    ]
+  },
+  "transport": {
+    "metro": "Jakarta MRT is modern, clean, and generally safe with good security. Operating hours are approximately 5:30 AM to midnight with stations well-maintained and monitored. Avoid rush hours 7-9 AM and 5-7 PM when trains are extremely crowded.",
+    "rideshare": "Grab and Gojek are reliable and widely used with safety features like driver tracking and fare transparency. Both offer car and motorcycle options. Confirm license plate and driver details before entering vehicles.",
+    "taxis": "Blue Bird taxis are the most trusted with metered fares and professional drivers. Avoid unlicensed taxis and always ensure meters are running. Official taxis are clearly marked with company logos.",
+    "tips": "Traffic congestion is severe, so allow extra travel time. Plan trips around traffic patterns and use apps to avoid construction areas from ongoing MRT expansion."
+  },
+  "customs": [
+    "Always use your right hand for eating, greeting, and passing objects as the left hand is considered unclean in Indonesian culture",
+    "Remove shoes before entering homes, mosques, temples, and some traditional establishments as a sign of respect",
+    "Dress modestly with shoulders and knees covered, especially in religious areas and conservative neighborhoods outside tourist zones"
+  ],
+  "health": {
+    "overview": "Jakarta has good private healthcare facilities but public healthcare can be crowded with limited English-speaking staff. Air pollution is a significant health concern with PM2.5 levels regularly exceeding safe standards.",
+    "water": "Tap water is not safe to drink. Use bottled water which is widely available and inexpensive. Be cautious with ice and fresh fruits that may have been washed with tap water.",
+    "vaccinations": "No special vaccinations required for urban Jakarta, but routine vaccinations should be up to date. Consider hepatitis A and typhoid if eating street food extensively.",
+    "altitude": "Jakarta is at sea level with tropical climate and high humidity year-round. Air pollution and heat can affect those with respiratory conditions. Rainy season runs November to March with flood risks."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "118 or 119",
+    "fire": "113",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Jakarta: +62 21 3435 9000. Located at Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110. Emergency after-hours: +62 21 3435 9000."
+  },
+  "faq": [
+    {
+      "q": "Is Jakarta safe for tourists?",
+      "a": "Jakarta is moderately safe for tourists who take standard urban precautions. Violent crime against visitors is uncommon, but petty theft, scams, and traffic accidents are the main safety concerns to be aware of."
+    },
+    {
+      "q": "Is Jakarta safe at night?",
+      "a": "Central business districts and established nightlife areas like SCBD are generally safe at night with security presence. Avoid isolated areas and use reliable transport rather than walking alone after dark."
+    },
+    {
+      "q": "Is Jakarta safe for solo female travelers?",
+      "a": "Yes, Jakarta is generally safe for solo female travelers. The city is modern with women commonly traveling independently. Dress modestly, use reputable transport, and stay in well-monitored central areas."
+    },
+    {
+      "q": "What areas should I avoid in Jakarta?",
+      "a": "Avoid North Jakarta port areas, outer West Jakarta residential neighborhoods, and any areas lacking commercial activity after dark. The Ancol port area and industrial zones are not recommended for tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Jakarta?",
+      "a": "The MRT is modern and safe, while commuter trains and buses can be crowded but generally secure. Use ride-hailing apps like Grab or official Blue Bird taxis for the safest and most reliable transport."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "kuala-lumpur",
+    "manila",
+    "ho-chi-minh-city",
+    "singapore"
+  ],
+  "_city_id": "jakarta-indonesia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/1280px-Bundaran_Hotel_Indonesia_%282025%29.jpg"
+}

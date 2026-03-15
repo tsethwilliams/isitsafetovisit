@@ -1,0 +1,169 @@
+{
+  "slug": "cebu",
+  "name": "Cebu",
+  "country": "Philippines",
+  "countryCode": "PH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "Cebu is generally safe for tourists with friendly locals and good infrastructure in main areas, though petty crime like pickpocketing is common in crowded areas. The island faces natural disaster risks including typhoons and earthquakes, but violent crime against foreigners is relatively rare.",
+  "quickVerdict": "Cebu offers a relatively safe travel experience with reasonable precautions, particularly in tourist areas like IT Park and Cebu Business Park. While pickpocketing and tourist scams are concerns in crowded areas, violent crime against visitors is uncommon. The main challenges include natural disaster risks from typhoons and earthquakes, and navigating transportation safely at night. With proper awareness and common sense, most travelers enjoy trouble-free visits to this popular Philippine destination.",
+  "neighborhoods": [
+    {
+      "name": "IT Park",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Modern business district with excellent security, well-lit streets, numerous restaurants and bars, and reliable transportation options. Popular with expats and international visitors."
+    },
+    {
+      "name": "Cebu Business Park (Ayala)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale commercial area with shopping malls, luxury hotels, international banks, and visible security presence. Safe for walking day and night."
+    },
+    {
+      "name": "Mactan Island Resort Areas",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Beach resort zone with hotel security, tourist police presence, and organized tours. Generally safe but exercise caution outside resort compounds."
+    },
+    {
+      "name": "Colon Street",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Historic area that's busy during the day but known for pickpocketing. Avoid at night and keep valuables secure when visiting historical sites."
+    },
+    {
+      "name": "Downtown Cebu",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Crowded commercial area with higher crime rates. Watch for pickpockets, avoid displaying valuables, and stick to main streets during daylight hours."
+    },
+    {
+      "name": "Mango Avenue",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Nightlife strip with bars and clubs but higher risks of scams, overcharging, and petty crime. Exercise extreme caution, especially late at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "high",
+      "description": "Taxi drivers refusing to use meters or taking longer routes to overcharge tourists, particularly from airports and tourist areas.",
+      "howToAvoid": "Always insist on using the meter, use Grab app for transparent pricing, or agree on fixed rates beforehand. Learn common routes and approximate costs."
+    },
+    {
+      "name": "Pickpocketing by Minors",
+      "risk": "high",
+      "description": "Young children working in teams to distract tourists while stealing valuables in crowded markets, jeepneys, and tourist spots.",
+      "howToAvoid": "Keep bags in front, use anti-theft bags or money belts, avoid displaying expensive items, and stay alert in crowded areas like Carbon Market."
+    },
+    {
+      "name": "Fake Resort Bookings",
+      "risk": "medium",
+      "description": "Fraudulent Facebook pages impersonating legitimate resorts offering too-good-to-be-true deals, collecting payments then disappearing.",
+      "howToAvoid": "Book only through official resort websites or verified booking platforms, verify social media pages, and avoid deals that seem impossibly cheap."
+    },
+    {
+      "name": "Equipment Damage Scams",
+      "risk": "medium",
+      "description": "Motorcycle or water sports rental operators using hidden tape to cover pre-existing damage, then claiming tourists caused the damage.",
+      "howToAvoid": "Thoroughly inspect rentals and take photos before use, avoid operators who seem reluctant to show equipment, and use reputable rental companies recommended by hotels."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cebu is generally safe for solo female travelers with proper precautions, especially in tourist areas. The local culture is conservative but welcoming to female visitors. Most solo female travelers report positive experiences when staying in well-developed areas and using common sense safety measures.",
+    "tips": [
+      "Stay in safe areas like IT Park or Cebu Business Park where security is visible",
+      "Avoid walking alone late at night, especially in downtown areas or along Mango Avenue",
+      "Use Grab or hotel-arranged transportation rather than street taxis when alone",
+      "Dress modestly especially when visiting religious sites or rural areas",
+      "Have a cover story ready when asked if you're traveling alone - mention meeting friends or that someone expects you"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cebu's nightlife safety varies significantly by location. Areas like IT Park and Cebu Business Park are well-lit and patrolled, making them relatively safe for evening activities. However, downtown areas and certain nightlife strips like Mango Avenue require extra caution due to higher crime rates and scam risks.",
+    "tips": [
+      "Stick to well-established areas like IT Park for nightlife activities",
+      "Use Grab or trusted taxis for transportation after dark",
+      "Never leave drinks unattended and watch for signs of tampering",
+      "Travel in groups when possible and always tell someone your plans",
+      "Avoid poorly lit areas and keep emergency contacts readily available"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Cebu. Public transportation relies on jeepneys, buses, and multicabs during daytime hours, with limited service after 9-10 PM.",
+    "rideshare": "Grab is widely available and recommended for safety, offering both GrabCar and GrabTaxi services. Angkas provides motorcycle taxi services that are faster but require caution.",
+    "taxis": "Regular white taxis are common but always insist on using the meter. Yellow airport taxis are more reliable but expensive. Some drivers may refuse meter use or take longer routes.",
+    "tips": "Use Grab for transparent pricing and tracking. For budget travel, jeepneys are safe during daytime but avoid at night. Always verify taxi meters are running and keep small bills for exact change."
+  },
+  "customs": [
+    "Use respectful language including 'po' and 'opo' when speaking to elders or strangers",
+    "Remove shoes when entering homes and some establishments",
+    "Dress modestly especially in religious sites and rural areas - cover shoulders and knees",
+    "Show respect for family values and avoid public displays of affection",
+    "Greet people properly with handshakes or the traditional 'mano po' gesture for elders",
+    "Be patient with Filipino time - punctuality may be more relaxed than Western standards",
+    "Accept hospitality graciously but don't feel obligated to eat everything offered"
+  ],
+  "health": {
+    "overview": "Cebu has good healthcare facilities in urban areas with several quality hospitals and clinics. Medical evacuation insurance is recommended for serious emergencies.",
+    "water": "Tap water is not safe to drink. Use bottled or filtered water for drinking and brushing teeth. Ice in restaurants is generally safe in tourist areas.",
+    "vaccinations": "Routine vaccines should be current. Consider Hepatitis A, Typhoid, and Japanese Encephalitis. No malaria risk in Cebu but dengue fever is present during rainy season.",
+    "altitude": "Cebu is at sea level with tropical climate. Hot and humid year-round with typhoon season June-November. Use strong sun protection and stay hydrated."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "166",
+    "ambulance": "161",
+    "fire": "160",
+    "touristPolice": "Available in major tourist areas",
+    "usEmbassy": "US Embassy Manila: +63-2-5301-2000. Consular services available for American citizens. Emergency after-hours number: +63-2-5301-2000"
+  },
+  "faq": [
+    {
+      "q": "Is Cebu safe for tourists?",
+      "a": "Yes, Cebu is generally safe for tourists who take reasonable precautions. Stay in well-developed areas like IT Park and Ayala, use reputable transportation, and be aware of common scams. Violent crime against tourists is rare."
+    },
+    {
+      "q": "Is Cebu safe at night?",
+      "a": "Safety at night depends on location. IT Park and Cebu Business Park are well-lit and patrolled, making them relatively safe. Avoid downtown areas, Mango Avenue late at night, and always use Grab or hotel transportation after dark."
+    },
+    {
+      "q": "Is Cebu safe for solo female travelers?",
+      "a": "Yes, with proper precautions. Solo female travelers should stay in safe neighborhoods, avoid walking alone at night, dress modestly, and use reliable transportation. Most report positive experiences in tourist areas."
+    },
+    {
+      "q": "What areas should I avoid in Cebu?",
+      "a": "Exercise caution in downtown Cebu and along Colon Street, especially at night. Avoid poorly lit areas, isolated beaches after dark, and be very careful on Mango Avenue during late night hours due to higher crime rates."
+    },
+    {
+      "q": "Is it safe to use public transport in Cebu?",
+      "a": "Jeepneys are generally safe during daytime but can be crowded with pickpocket risks. For safety and convenience, use Grab app or metered taxis. Avoid public transport late at night when services are limited."
+    }
+  ],
+  "relatedCities": [
+    "manila",
+    "davao",
+    "iloilo",
+    "baguio",
+    "palawan",
+    "boracay"
+  ],
+  "_city_id": "cebu-philippines",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/1280px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "lombok",
+  "name": "Lombok",
+  "country": "Indonesia",
+  "countryCode": "ID",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.0,
+    "scamRisk": 6.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.2,
+    "naturalHazards": 6.4
+  },
+  "summary": "Lombok is generally safe for tourists, with low violent crime rates and friendly Sasak locals. However, visitors should be aware of petty theft, common tourist scams, and natural disaster risks including earthquakes. Solo female travelers can feel secure with basic precautions, especially in tourist areas like Senggigi and the Gili Islands.",
+  "quickVerdict": "Lombok offers a relatively safe travel experience for most visitors, particularly in established tourist areas. While the island faces natural disaster risks due to its location on the Ring of Fire, the bigger day-to-day concerns are petty theft and transportation-related scams. The predominantly Muslim Sasak population is known for their warmth and hospitality, though cultural sensitivity is appreciated. Solo female travelers generally feel comfortable, though standard precautions apply. The biggest safety challenges involve transportation outside main areas and the limited medical infrastructure outside Mataram.",
+  "neighborhoods": [
+    {
+      "name": "Senggigi",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The main resort town with good security, tourist police presence, and well-established infrastructure. Regular police patrols and security at hotels make it one of the safest areas on the island."
+    },
+    {
+      "name": "Gili Trawangan",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular party island with busy nightlife but generally safe. Some issues with drink spiking reported at bars, so never leave drinks unattended. No vehicles make walking safer but also limits emergency response."
+    },
+    {
+      "name": "Kuta Lombok",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Developing surf town with growing tourism infrastructure. Safe during the day but limited lighting at night. Local taxi mafia restricts rideshare services. Police station and medical clinic provide security."
+    },
+    {
+      "name": "Mataram",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Capital city with best medical facilities and police presence. Urban environment means more pickpocketing risk but better emergency services. Traffic congestion can be challenging for newcomers."
+    },
+    {
+      "name": "Gili Air",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Quieter island with family-friendly atmosphere and low crime rates. Limited nightlife reduces party-related risks but also fewer people around at night. Good for relaxed, peaceful stays."
+    },
+    {
+      "name": "Northern Villages (Senaru/Sembalun)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Remote mountain areas with limited infrastructure and emergency services. Beautiful for hiking but challenging road conditions and minimal medical facilities. Communication can be difficult due to poor cell coverage."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Blue Bird Taxi",
+      "risk": "high",
+      "description": "Scammers use fake Blue Bird taxis with similar colors and logos to overcharge tourists or refuse to use meters.",
+      "howToAvoid": "Use official Blue Bird app, verify license plate matches app booking, insist on meter usage, or book through hotel."
+    },
+    {
+      "name": "Ferry Ticket Fraud",
+      "risk": "medium",
+      "description": "Street touts sell fake or invalid ferry tickets to Bali at suspiciously low prices, especially around Bangsal Harbor.",
+      "howToAvoid": "Buy tickets only from official ferry company counters, avoid street sellers, research standard prices beforehand."
+    },
+    {
+      "name": "Money Changer Scam",
+      "risk": "medium",
+      "description": "Dishonest money changers use sleight-of-hand tricks, damaged bills, or quick counting to shortchange tourists.",
+      "howToAvoid": "Use ATMs or official bank branches for currency exchange, count money carefully, avoid street-side money changers."
+    },
+    {
+      "name": "Motorbike Rental Damage",
+      "risk": "medium",
+      "description": "Rental operators claim pre-existing damage was caused by tourist and demand expensive repair payments upon return.",
+      "howToAvoid": "Take photos/video of bike before renting, inspect thoroughly, use reputable rental shops, get written rental agreement."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lombok is generally safe for solo female travelers, ranking well compared to other Indonesian destinations. The Sasak people are known for their hospitality and respect for women. Tourist areas like Senggigi and Gili Islands have good security infrastructure. However, as a predominantly Muslim region, modest dress is appreciated, especially outside beach areas. Some harassment can occur from local men assuming Western women are seeking romance, but this is typically non-threatening.",
+    "tips": [
+      "Dress modestly with shoulders and knees covered when visiting villages or religious sites",
+      "Stay in established tourist areas like Senggigi or Gili Islands where infrastructure is better",
+      "Be cautious when drinking at nightclubs - never leave drinks unattended due to spiking incidents",
+      "Use official transport like Blue Bird taxis rather than unlicensed drivers",
+      "Inform accommodation of your plans when heading to remote areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Lombok varies significantly by location. Tourist areas like Senggigi and Gili Trawangan have active nightlife with reasonable security, though the party scene brings typical risks like drink spiking. Main roads are generally well-lit, but rural areas and smaller villages have very limited street lighting. Walking alone after dark is not recommended outside main tourist zones.",
+    "tips": [
+      "Stick to well-lit tourist areas after dark and avoid isolated beaches",
+      "Never leave drinks unattended at bars or nightclubs",
+      "Use hotel transport or official taxis rather than walking at night",
+      "Avoid motorbike riding after sunset due to poor lighting and road conditions",
+      "Keep accommodation contact details handy in case you need pickup"
+    ]
+  },
+  "transport": {
+    "metro": "Lombok has no metro system. Public transport consists mainly of bemos (minibuses) and public buses that operate primarily during daylight hours.",
+    "rideshare": "Grab and Gojek operate in western Lombok including Mataram and Senggigi but are restricted in Kuta due to local taxi monopolies. Coverage is limited in rural areas. Apps work for both car and motorbike services.",
+    "taxis": "Blue Bird taxis are the most reliable option, using meters and available through app booking. Other taxi companies exist but may not use meters. All taxis automatically use meters in Lombok unlike Bali. Airport taxis have fixed pricing displays.",
+    "tips": "Blue Bird taxis are your safest bet for reliable transport. Avoid street taxis without meters in remote areas. For longer distances, consider hiring a private driver. Motorbike rentals require international driving permit and experience due to varying road conditions."
+  },
+  "customs": [
+    "Remove shoes when entering homes, traditional villages, or religious sites",
+    "Use your right hand for eating, giving money, or handing objects - left hand is considered unclean",
+    "Dress modestly especially in villages and religious areas - cover shoulders and knees",
+    "Greet people with 'Selamat' and a gentle handshake, use titles like Bapak (Mr.) and Ibu (Mrs.)",
+    "Accept offered hospitality gracefully even if you don't consume food or drink",
+    "Ask permission before photographing people, especially in traditional villages"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Lombok is limited outside of Mataram. Private hospitals offer better facilities than public ones, but standards are below Western expectations. Medical evacuation insurance is recommended for serious conditions. The island has basic pharmacies and clinics in tourist areas.",
+    "water": "Tap water is not safe to drink. Use bottled water which is widely available and inexpensive. Avoid ice in drinks unless from reputable establishments.",
+    "vaccinations": "Standard travel vaccinations recommended include Hepatitis A and B, typhoid, and routine immunizations. Malaria risk exists in some rural areas - consult healthcare provider about prophylaxis.",
+    "altitude": "Lombok has a tropical climate with year-round warm temperatures. Mount Rinjani reaches 3,726m - altitude sickness possible on treks. High humidity and intense sun require sun protection and hydration."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113",
+    "touristPolice": "+62 370 693206 (Senggigi)",
+    "usEmbassy": "U.S. citizens should contact U.S. Embassy Jakarta at +62 21 5083 1000 for assistance. No U.S. consulate in Lombok - nearest is in Surabaya."
+  },
+  "faq": [
+    {
+      "q": "Is Lombok safe for tourists?",
+      "a": "Yes, Lombok is generally safe for tourists. Violent crime is rare, and the Sasak people are known for their hospitality. Main concerns are petty theft, transportation scams, and natural disaster risks. Tourist areas like Senggigi and Gili Islands have good security infrastructure."
+    },
+    {
+      "q": "Is Lombok safe at night?",
+      "a": "Lombok's night safety varies by location. Tourist areas like Senggigi and Gili Trawangan are reasonably safe with active nightlife, but avoid isolated areas and beaches after dark. Street lighting is limited outside main towns, making motorbike riding dangerous at night."
+    },
+    {
+      "q": "Is Lombok safe for solo female travelers?",
+      "a": "Yes, solo female travel in Lombok is generally safe. The Sasak culture respects women, and tourist areas have good infrastructure. Dress modestly, especially in villages, avoid leaving drinks unattended at bars, and use official transport. Some unwanted attention from local men may occur but is typically non-threatening."
+    },
+    {
+      "q": "What areas should I avoid in Lombok?",
+      "a": "Avoid remote northern villages during bad weather due to limited emergency services. Be cautious in isolated beach areas after dark. The southern coastal areas can be risky at night. Avoid unlicensed taxi drivers and always use official transport."
+    },
+    {
+      "q": "Is it safe to use public transport in Lombok?",
+      "a": "Public transport in Lombok is generally safe during daylight hours. Blue Bird taxis are the most reliable option. Bemos and public buses operate mainly during the day. Avoid unofficial transport and always use metered taxis or app-based rides where available."
+    }
+  ],
+  "relatedCities": [
+    "bali",
+    "flores",
+    "yogyakarta"
+  ],
+  "_city_id": "lombok-indonesia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camping_above_the_clouds_at_Rinjani.jpg/1280px-Camping_above_the_clouds_at_Rinjani.jpg"
+}

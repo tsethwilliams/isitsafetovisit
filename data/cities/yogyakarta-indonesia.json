@@ -1,0 +1,164 @@
+{
+  "slug": "yogyakarta",
+  "name": "Yogyakarta",
+  "country": "Indonesia",
+  "countryCode": "ID",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 5.5
+  },
+  "summary": "Yogyakarta is generally a safe and welcoming destination for tourists, with friendly locals and relatively low crime rates compared to other Indonesian cities. While the city faces natural disaster risks due to its proximity to active volcanoes and earthquake zones, it has well-established monitoring systems and emergency protocols.",
+  "quickVerdict": "Yogyakarta stands out as one of Indonesia's safer destinations for tourists, with locals known for their exceptional hospitality and respect for visitors. The city experiences minimal violent crime, though travelers should remain alert for petty theft and tourist-focused scams, particularly around Malioboro Street and popular attractions. Natural hazards pose the most significant risk due to Mount Merapi's proximity and the region's seismic activity, but comprehensive monitoring systems provide advance warning. Solo female travelers generally feel comfortable here, and the city's compact size makes it walkable during the day with reliable transport options available.",
+  "neighborhoods": [
+    {
+      "name": "Malioboro Street Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The tourist heart of Yogyakarta with constant foot traffic, well-lit streets, and regular police presence. Generally safe day and night, though pickpockets target crowded areas and scam artists frequent this zone."
+    },
+    {
+      "name": "Kraton Palace District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The historic royal palace area is very safe with cultural significance ensuring respectful behavior. Well-maintained with good security and fewer tourist-targeted scams due to its formal atmosphere."
+    },
+    {
+      "name": "Prawirotaman Backpacker Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular backpacker district with numerous hostels, cafes, and budget accommodations. Generally safe with good community feel, though standard precautions against petty theft should be taken."
+    },
+    {
+      "name": "Jogja City Mall Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern commercial district with shopping centers, restaurants, and hotels. Well-secured area with good lighting and security presence, making it safe for evening activities."
+    },
+    {
+      "name": "University District (UGM Area)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Student-heavy area around Gadjah Mada University with youthful energy and active nightlife. Generally safe but can get rowdy during student events, requiring awareness of surroundings."
+    },
+    {
+      "name": "Outer Suburbs",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Less touristy residential areas with fewer facilities and lighting. Generally safe during daylight but limited transport options at night and less English spoken by locals."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Batik Art Gallery Scam",
+      "risk": "high",
+      "description": "Friendly local approaches tourists on Malioboro Street, strikes up conversation about your home country, then mentions a special art exhibition happening today only. Takes you to overpriced batik shop where you're pressured to buy expensive items.",
+      "howToAvoid": "Politely decline unsolicited invitations to art shows or special exhibitions. If interested in batik, visit established shops independently and compare prices at multiple locations."
+    },
+    {
+      "name": "Fake Taxi Overcharging",
+      "risk": "moderate",
+      "description": "Unofficial taxis at airport or popular areas refuse to use meters and quote inflated fixed prices, often 2-3 times normal rates. Some fake taxis mimic legitimate Blue Bird taxi colors and logos.",
+      "howToAvoid": "Use ride-hailing apps like Grab or Gojek for transparent pricing. For official taxis, insist on using the meter or walk away. Verify taxi company logos and license plates."
+    },
+    {
+      "name": "Temple Tour Price Inflation",
+      "risk": "moderate",
+      "description": "Tour operators or drivers quote standard entrance fees but purchase discounted tickets (student or local rates) while charging tourists full price, pocketing the difference at Borobudur and Prambanan.",
+      "howToAvoid": "Research official entrance fees in advance, get quotes in writing, and ask to see tickets being purchased. Consider booking tours through established agencies rather than street touts."
+    },
+    {
+      "name": "Money Exchange Short-changing",
+      "risk": "moderate",
+      "description": "Unofficial money changers advertise attractive rates but use sleight of hand to provide less money than quoted, damaged banknotes, or rigged calculators due to large denominations.",
+      "howToAvoid": "Exchange money at banks or official money changers only. Count all money received carefully and check for damaged notes. Use ATMs for better rates and security."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Yogyakarta is considered one of Indonesia's safest cities for solo female travelers, with locals showing genuine respect and friendliness toward women. The Javanese culture emphasizes politeness and hospitality, creating a welcoming environment where harassment is uncommon. Female travelers report feeling comfortable walking around during the day and using public transport, though modest dress is appreciated and helps avoid unwanted attention.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially when visiting temples or traditional areas",
+      "Stay in well-reviewed accommodations in tourist areas like Prawirotaman or near Malioboro Street",
+      "Use reputable transport apps like Grab or Gojek rather than hailing taxis on the street",
+      "Carry a whistle or personal safety device and inform someone of your itinerary",
+      "Trust your instincts if approached by overly friendly strangers offering tours or shopping trips"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Yogyakarta maintains reasonable safety levels at night, particularly in tourist areas like Malioboro Street which stays active with vendors, street food stalls, and other travelers. The city has a more conservative nightlife scene compared to Jakarta or Bali, with most activities centered around cafes, cultural performances, and food markets rather than clubs. Police presence is visible in main areas, and serious crime against tourists is rare.",
+    "tips": [
+      "Stick to well-lit, busy areas like Malioboro Street and avoid poorly lit side streets",
+      "Use reliable transport like Grab or Gojek rather than walking long distances at night",
+      "Keep valuables secure and avoid displaying expensive items like jewelry or cameras",
+      "Travel in groups when possible and inform others of your plans",
+      "Be extra cautious during university student events which can get rowdy"
+    ]
+  },
+  "transport": {
+    "metro": "Yogyakarta has the TransJogja bus system with air-conditioned buses and clear route maps. Buses are generally safe and affordable, though routes can be complex for newcomers. Consider downloading the route map from dishub.jogjaprov.go.id.",
+    "rideshare": "Grab and Gojek are widely available and considered the safest transport options with transparent pricing and GPS tracking. Drivers are generally professional and many speak basic English. Always verify driver details before getting in.",
+    "taxis": "Official Blue Bird taxis are reliable but insist on using the meter. Avoid unofficial taxis which often overcharge tourists. Airport taxis require prepaid coupons from official counters.",
+    "tips": "Motorcycle taxis (ojek) through apps are cheaper but less safe than cars. Always wear the provided helmet and avoid during heavy rain. Walking is feasible in the city center but watch for traffic as motorbikes often ignore red lights."
+  },
+  "customs": [
+    "Always use your right hand when greeting, eating, or passing objects as the left hand is considered unclean",
+    "Remove shoes before entering homes, temples, and some restaurants - look for shoe racks at entrances",
+    "Dress modestly with covered shoulders and knees, especially at religious sites and in traditional areas",
+    "Show respect to elders by using titles like Pak (sir) and Ibu (madam) followed by their name",
+    "Avoid pointing with your index finger - use an open palm or thumb instead"
+  ],
+  "health": {
+    "overview": "Healthcare in Yogyakarta is adequate with several hospitals and clinics available. The tropical climate requires protection against mosquito-borne diseases like dengue fever, especially during rainy season. Air quality is generally good compared to Jakarta.",
+    "water": "Tap water is not safe to drink. Use bottled water which is widely available and affordable. Most hotels provide safe drinking water.",
+    "vaccinations": "Recommended vaccines include Hepatitis A, Typhoid, Tetanus, and routine vaccinations. Consult a travel doctor 4-6 weeks before departure. Malaria is not a concern in Yogyakarta.",
+    "altitude": "Yogyakarta sits at low elevation with tropical climate. Expect high humidity year-round. Dry season (May-September) is most comfortable for visiting. Use sunscreen and stay hydrated."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "118",
+    "fire": "113",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Surabaya covers Yogyakarta. Address: Jl. Dr. Sutomo 33, Surabaya 60264. Tel: +62-31-2975000. For emergencies: +62-31-2975000"
+  },
+  "faq": [
+    {
+      "q": "Is Yogyakarta safe for tourists?",
+      "a": "Yes, Yogyakarta is generally very safe for tourists with friendly locals, low violent crime rates, and good tourist infrastructure. Standard precautions against petty theft and scams should be taken, particularly around tourist areas."
+    },
+    {
+      "q": "Is Yogyakarta safe at night?",
+      "a": "Yogyakarta is reasonably safe at night, especially in tourist areas like Malioboro Street which remain active with food vendors and other travelers. Stick to well-lit areas and use reliable transport rather than walking long distances alone."
+    },
+    {
+      "q": "Is Yogyakarta safe for solo female travelers?",
+      "a": "Yes, Yogyakarta is considered one of Indonesia's safest cities for solo female travelers. The local Javanese culture emphasizes respect and hospitality toward women. Modest dress and basic safety precautions are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Yogyakarta?",
+      "a": "There are no major areas to completely avoid, but exercise extra caution in outer suburbs with poor lighting at night. Be aware of natural hazard zones near Mount Merapi and follow local evacuation guidance if warnings are issued."
+    },
+    {
+      "q": "Is it safe to use public transport in Yogyakarta?",
+      "a": "Yes, public transport is generally safe. TransJogja buses are air-conditioned and reliable. Grab and Gojek ride-hailing apps are the safest options with transparent pricing. Avoid unofficial taxis that refuse to use meters."
+    }
+  ],
+  "relatedCities": [
+    "jakarta",
+    "bandung",
+    "surabaya"
+  ],
+  "_city_id": "yogyakarta-indonesia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jogja_-_Tugu_Monument_%282025%29_-_img_06.jpg/1280px-Jogja_-_Tugu_Monument_%282025%29_-_img_06.jpg"
+}
