@@ -1,0 +1,166 @@
+{
+  "slug": "palawan",
+  "name": "Palawan",
+  "country": "Philippines",
+  "countryCode": "PH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.1,
+    "scamRisk": 6.8,
+    "womensSafety": 7.5,
+    "nightSafety": 7.3,
+    "transport": 7.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "Palawan is one of the Philippines' safest and most tourist-friendly destinations, ranking among the top islands for security with relatively low crime rates. The province enjoys a 26% drop in crime rate from 2023 to 2024, with strong tourism infrastructure and helpful local communities.",
+  "quickVerdict": "Palawan stands out as a remarkably safe destination in the Philippines, with tourism-dependent communities that actively protect visitors. While standard travel precautions apply, especially regarding petty theft in tourist areas and transport scams, violent crime against tourists is extremely rare. The island's remote location shields it from major security issues affecting other Philippine regions, making it ideal for solo travelers, families, and couples seeking a tropical paradise with peace of mind.",
+  "neighborhoods": [
+    {
+      "name": "Puerto Princesa City Center",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The capital city offers excellent tourist infrastructure, well-lit streets, visible police presence, and numerous hotels. Safe for walking during day and evening hours with good medical facilities and transport connections."
+    },
+    {
+      "name": "El Nido Town Proper",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Tourist-focused area with strong security presence, organized tours, and established hospitality industry. Crowded with travelers which enhances safety, though watch for overcharging and book tours through reputable operators."
+    },
+    {
+      "name": "Coron Town Center",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Compact tourist hub with friendly locals and good infrastructure. Generally safe for visitors with reliable accommodation and transport options, though negotiate prices upfront for services."
+    },
+    {
+      "name": "Port Barton",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Quiet coastal town with laid-back atmosphere and close-knit community. Less developed than other tourist centers but very safe, with basic amenities and growing eco-tourism focus."
+    },
+    {
+      "name": "Remote Island Areas",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Isolated beaches and islands during island-hopping tours require caution due to limited communication and emergency access. Always use reputable tour operators with proper safety equipment and emergency protocols."
+    },
+    {
+      "name": "South Palawan Border Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Southern municipalities near Sulu Sea including Rizal, Balabac, and Bataraza face occasional security concerns due to proximity to conflict zones. Check current advisories before visiting these remote areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi and Tricycle Overcharging",
+      "risk": "high",
+      "description": "Drivers quote inflated prices to tourists, refuse to use meters, or take longer routes. Common at airports, ports, and tourist attractions where Grab rideshare isn't available.",
+      "howToAvoid": "Negotiate and confirm prices before starting journey. Ask locals for standard rates. Use official airport taxis or pre-book transfers through hotels. In Puerto Princesa, standard tricycle fare is around 50-100 pesos for short distances."
+    },
+    {
+      "name": "Fake Tour Operators",
+      "risk": "medium",
+      "description": "Unregistered operators offer island-hopping tours through social media or street touts, often failing to provide promised services or using unsafe boats without proper equipment.",
+      "howToAvoid": "Book tours only through DOT-accredited operators. Verify company legitimacy through reviews and official tourism office recommendations. Avoid booking tours through unverified Facebook pages or street vendors."
+    },
+    {
+      "name": "Money Exchange Shortchanging",
+      "risk": "medium",
+      "description": "Unauthorized money changers offer attractive rates but shortchange tourists by palming bills or using outdated exchange rates, especially targeting arriving tourists.",
+      "howToAvoid": "Use official banks, hotel exchange services, or authorized money changers. Count money carefully before and after exchange. Avoid street money changers offering rates significantly above market value."
+    },
+    {
+      "name": "Equipment Damage Claims",
+      "risk": "medium",
+      "description": "Rental operators for snorkeling gear, boats, or motorbikes claim pre-existing damage and demand inflated compensation from tourists who weren't aware of initial damage.",
+      "howToAvoid": "Thoroughly inspect and photograph all rental equipment before use. Document any existing damage with the operator. Use only established rental companies with clear damage policies and insurance coverage."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Palawan is considered one of the Philippines' safest destinations for solo female travelers, with tourism-dependent communities that are generally protective of visitors. The predominantly Catholic culture provides a moral framework that enhances personal safety, though standard precautions remain important.",
+    "tips": [
+      "Stay in tourist-centered areas like Puerto Princesa, El Nido, and Coron where there's good infrastructure and other travelers",
+      "Join group tours for island-hopping and activities rather than exploring remote areas alone",
+      "Use reputable transportation like pre-booked transfers or established tricycle operators rather than hitchhiking",
+      "Avoid admitting you're traveling alone - mention meeting friends or having someone expecting you",
+      "Stick to well-lit, populated areas after dark and consider staying in hostels with social atmospheres for meeting fellow travelers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Palawan is generally good in tourist areas, with 77% of residents and visitors feeling secure during nighttime hours. Tourist zones in main towns have adequate lighting and some police presence, though rural and remote areas should be avoided after dark.",
+    "tips": [
+      "Stay within main tourist areas of Puerto Princesa, El Nido, and Coron after sunset",
+      "Use flashlights when walking in less developed areas as street lighting can be limited",
+      "Travel in groups when possible and inform accommodations of your evening plans",
+      "Avoid isolated beaches, remote trails, and poorly lit back streets after dark",
+      "Keep accommodation contact information handy and use registered taxis or tricycles for night transport"
+    ]
+  },
+  "transport": {
+    "metro": "Palawan has no metro or modern urban transit system. Public transport consists mainly of jeepneys in Puerto Princesa (8+ pesos), tricycles throughout the island (50-100 pesos for tourists), and basic buses for longer routes.",
+    "rideshare": "Grab, Uber, and other ride-hailing apps are not available in Palawan. Transportation requires negotiating with local tricycle drivers, pre-booking private vans, or using established taxi services at airports and hotels.",
+    "taxis": "Official taxis operate mainly at Puerto Princesa Airport and major hotels. Most local transport uses tricycles (motorbike with sidecar) that accommodate 2-4 passengers. Rates are negotiable but generally honest - confirm prices before boarding.",
+    "tips": "Pre-book transfers between cities through hotels or tourism offices. For island-hopping, use only licensed operators with proper safety equipment. Motorbike rentals available but roads can be rough - ensure proper licensing and insurance."
+  },
+  "customs": [
+    "Remove shoes when entering homes, some hotels, and religious sites",
+    "Use 'po' and 'opo' (respectful yes) when speaking to elders or authority figures",
+    "Dress modestly when visiting churches or rural communities - cover shoulders and knees",
+    "Point with your lips or open hand rather than using your index finger",
+    "Show respect for family values and religious traditions - Filipinos are predominantly Catholic"
+  ],
+  "health": {
+    "overview": "Palawan has moderate health risks typical of tropical Southeast Asia. Puerto Princesa offers decent medical facilities, but remote areas have limited healthcare access. Main concerns include mosquito-borne diseases and water quality.",
+    "water": "Tap water is not safe for drinking throughout Palawan. Use bottled water for drinking and brushing teeth. Many accommodations provide safe water or have filtration systems. Ice in tourist establishments is generally safe.",
+    "vaccinations": "Recommended: Hepatitis A, Typhoid, routine vaccinations (MMR, DPT, flu). Consider Hepatitis B for longer stays. Japanese Encephalitis if visiting rural areas. Malaria risk exists in Palawan with higher rates in southern areas - consult travel medicine specialist about antimalarials.",
+    "altitude": "Palawan is at sea level with tropical climate year-round. Temperatures 75-90°F. High humidity and sun exposure require sun protection, hydration, and light clothing. Rainy season June-October brings increased mosquito activity."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "117",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "Available in major tourist areas - contact through 911 or local police stations",
+    "usEmbassy": "U.S. Embassy Manila: +63 (2) 5301-2000. Located at 1201 Roxas Boulevard, Manila. After-hours emergency: +63 (2) 5301-2000. From US/Canada: 1-888-407-4747 or 1-202-501-4444."
+  },
+  "faq": [
+    {
+      "q": "Is Palawan safe for tourists?",
+      "a": "Yes, Palawan is one of the Philippines' safest tourist destinations with very low violent crime rates and tourism-dependent communities that protect visitors. Standard travel precautions apply, but it's considered much safer than many other Southeast Asian destinations."
+    },
+    {
+      "q": "Is Palawan safe at night?",
+      "a": "Tourist areas in Puerto Princesa, El Nido, and Coron are generally safe at night with adequate lighting and some police presence. Avoid remote areas and isolated beaches after dark, and stick to main tourist zones."
+    },
+    {
+      "q": "Is Palawan safe for solo female travelers?",
+      "a": "Yes, Palawan is particularly safe for solo female travelers compared to other Philippine destinations. The Catholic culture and tourism-focused economy create a protective environment, though joining group tours and staying in tourist areas is recommended."
+    },
+    {
+      "q": "What areas should I avoid in Palawan?",
+      "a": "Avoid southern border areas near Rizal, Balabac, and Bataraza due to proximity to conflict zones. Remote islands during solo exploration and isolated beaches after dark should also be avoided. Stick to established tourist areas and use reputable tour operators."
+    },
+    {
+      "q": "Is it safe to use public transport in Palawan?",
+      "a": "Local transport via tricycles and jeepneys is generally safe but negotiate prices upfront. No rideshare apps operate here. Use official airport taxis, pre-book van transfers between cities, and choose licensed boat operators for island tours."
+    }
+  ],
+  "relatedCities": [
+    "boracay",
+    "cebu",
+    "bohol",
+    "siargao",
+    "manila"
+  ],
+  "_city_id": "palawan-philippines",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kayangan_Lake%2C_Coron_-_Palawan.jpg/1280px-Kayangan_Lake%2C_Coron_-_Palawan.jpg"
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "yangon",
+  "name": "Yangon",
+  "country": "Myanmar",
+  "countryCode": "MM",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 3.4,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 3.0,
+    "scamRisk": 4.0,
+    "womensSafety": 4.5,
+    "nightSafety": 2.0,
+    "transport": 3.5,
+    "naturalHazards": 1.0
+  },
+  "summary": "Yangon faces severe safety concerns due to Myanmar's ongoing civil unrest, armed conflict, and military rule. While the city historically had low crime rates, the current political crisis has created widespread security risks including arbitrary detentions, protests, and explosive attacks.",
+  "quickVerdict": "The US State Department has issued a Level 4 Do Not Travel advisory for Myanmar due to armed conflict, civil unrest, and wrongful detentions. While Yangon is considered the safest major city in Myanmar and operates with relative normalcy compared to conflict zones, significant risks remain including potential for arbitrary detention, sudden restrictions, explosive attacks, and limited evacuation options. Independent travel requires extreme caution and comprehensive safety planning.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Pabedan",
+      "score": 4.0,
+      "class": "caution",
+      "description": "Central business district with major hotels and tourist sites like Sule Pagoda. Better infrastructure but prone to sudden closures and protests. Military checkpoints common."
+    },
+    {
+      "name": "Bahan/Inya Lake",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Upscale area with embassies and diplomatic quarter. Generally calmer but still subject to sudden restrictions. Location of US Embassy provides some security awareness."
+    },
+    {
+      "name": "Chinatown/Latha",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Densely populated commercial area with markets and street food. Higher crime potential and difficult evacuation access. Stray dogs pose rabies risk at night."
+    },
+    {
+      "name": "Yangon University Area",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Historic protest location with frequent military presence. University campuses often monitored or restricted. Avoid during any political gatherings or anniversaries."
+    },
+    {
+      "name": "Industrial Areas",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Outer industrial zones with poor infrastructure and limited emergency services. Higher risk of explosive incidents targeting regime facilities. Avoid after dark."
+    },
+    {
+      "name": "Shwedagon Vicinity",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Tourist area around famous pagoda. Generally maintained for visitors but subject to sudden closures. Petty crime increasing due to economic pressure."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Money Exchange Scam",
+      "risk": "high",
+      "description": "Street money changers near Sule Pagoda use sleight of hand to swap legitimate bills with counterfeit notes when binding stacks with rubber bands, stealing significant portions of exchanged money.",
+      "howToAvoid": "Only use official banks or hotel exchanges. Never change money on the street despite better rates offered. Count all bills carefully before accepting."
+    },
+    {
+      "name": "Employment Trafficking",
+      "risk": "high",
+      "description": "Fake job offers promising high wages lure foreigners to Myanmar where they are forced into online scam operations with passport confiscation and severe restrictions on movement.",
+      "howToAvoid": "Be extremely cautious of too-good-to-be-true job offers in Myanmar. Research employers thoroughly and never hand over passport documents to employers."
+    },
+    {
+      "name": "Temple Donation Pressure",
+      "risk": "medium",
+      "description": "People dressed as monks or temple officials persistently demand donations of 5,000-10,000 kyats for temple upkeep, following tourists who refuse and using guilt tactics.",
+      "howToAvoid": "Make voluntary donations only to official temple collection boxes. Ignore persistent requests for specific amounts and walk away if pressured."
+    },
+    {
+      "name": "Overcharging and Short-changing",
+      "risk": "medium",
+      "description": "Vendors at tourist areas systematically overcharge foreigners and give incorrect change, exploiting the cash-based economy and tourists' unfamiliarity with currency.",
+      "howToAvoid": "Learn kyat denominations beforehand, negotiate prices clearly before purchase, and count change carefully. Shop where prices are displayed."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Yangon requires extreme caution due to Myanmar's security situation. While locals generally show respect toward women and street harassment is relatively rare due to cultural norms, the broader security environment poses significant risks. Limited legal protections, inconsistent policing, and potential for arbitrary detention create serious concerns. The military situation has heightened all risks for foreigners.",
+    "tips": [
+      "Avoid traveling alone to Myanmar given current security situation",
+      "If already in Yangon, stay in well-reviewed accommodations in safer areas like Bahan",
+      "Register with your embassy and maintain regular communication with family/friends",
+      "Avoid solo outings at night and stay in well-lit, populated areas",
+      "Use hotel-recommended transportation only and avoid independent exploration"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Yangon is severely compromised by the current security situation. Even before the military coup, night activities were limited, but current curfews, military patrols, and potential for sudden violence make nighttime movement extremely risky. Roads have poor lighting, emergency services are unreliable, and the risk of arbitrary detention increases significantly after dark.",
+    "tips": [
+      "Strictly observe any curfews - return to accommodation well before designated times",
+      "Avoid all night travel between locations within the city",
+      "If must travel at night, use only hotel-arranged transportation",
+      "Stay away from military facilities, checkpoints, and government buildings",
+      "Keep emergency contacts readily available and inform someone of your exact location"
+    ]
+  },
+  "transport": {
+    "metro": "Yangon has the circular railway line which moves very slowly and is primarily used for local commuting rather than efficient transport. Service may be disrupted without notice due to security concerns.",
+    "rideshare": "Grab operates in Yangon since 2018 and provides tracked rides with known pricing. However, service may be limited during unrest and drivers may refuse trips to certain areas.",
+    "taxis": "Local taxis are available but conditions vary significantly. Negotiate fares beforehand as meters may be tampered with. Avoid unmarked vehicles and be cautious of night rides. Many drivers may be reluctant to travel during curfew hours.",
+    "tips": "All transport options are subject to sudden restrictions or route closures. Domestic flights between major cities are currently the safest option for longer distances. Always have multiple backup transport plans and cash for unexpected situations."
+  },
+  "customs": [
+    "Remove shoes and socks before entering any temple or pagoda grounds",
+    "Dress modestly covering shoulders and knees, especially at religious sites",
+    "Avoid touching someone's head or pointing feet toward people or Buddha images",
+    "Use both hands when giving or receiving items as a sign of respect",
+    "Avoid public displays of affection as Myanmar remains very conservative",
+    "Do not discuss politics or criticize the government/military - this can lead to arrest",
+    "Respect Buddhist customs including not touching monk's robes",
+    "Never photograph military personnel, facilities, or political demonstrations"
+  ],
+  "health": {
+    "overview": "Myanmar's healthcare system is severely strained due to the political crisis. Many hospitals have closed or reduced services, medical evacuations may be delayed or impossible, and medical supplies are limited. Private hospitals in Yangon offer better care but may not be accessible during unrest.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Be cautious of ice in drinks and raw vegetables that may have been washed in tap water.",
+    "vaccinations": "Routine vaccinations should be up to date. Consider hepatitis A and B, typhoid, and Japanese encephalitis vaccines. Malaria risk exists in some areas. Consult a travel medicine specialist before travel.",
+    "altitude": "Yangon is at sea level so altitude is not a concern. Climate is tropical with high humidity. Monsoon season from June to October brings flooding risks and transport disruptions."
+  },
+  "emergency": {
+    "general": "199",
+    "police": "199",
+    "ambulance": "192",
+    "fire": "191",
+    "touristPolice": "+95-9-4485-17704",
+    "usEmbassy": "US Embassy Rangoon: +95-1-753-6509, Address: 110 University Ave, Kamayut Township, Emergency after hours: +95-9-51-24330"
+  },
+  "faq": [
+    {
+      "q": "Is Yangon safe for tourists?",
+      "a": "No, Yangon is not safe for tourists due to Myanmar's Level 4 Do Not Travel advisory. While Yangon is the safest city in Myanmar, significant risks include arbitrary detention, civil unrest, armed conflict, and limited emergency services."
+    },
+    {
+      "q": "Is Yangon safe at night?",
+      "a": "No, Yangon is not safe at night. Curfews may be in effect, military patrols are active, and the risk of arbitrary detention increases significantly after dark. Emergency services are unreliable and evacuation options are limited."
+    },
+    {
+      "q": "Is Yangon safe for solo female travelers?",
+      "a": "No, solo female travel to Yangon is not recommended due to Myanmar's current security situation. While locals generally respect women, the broader risks of arbitrary detention, limited legal protections, and security instability make it dangerous."
+    },
+    {
+      "q": "What areas should I avoid in Yangon?",
+      "a": "Avoid military facilities, government buildings, university campuses, protest areas, and industrial zones. Even generally safer areas can become dangerous quickly due to sudden restrictions or security operations."
+    },
+    {
+      "q": "Is it safe to use public transport in Yangon?",
+      "a": "Public transport safety is severely compromised by security restrictions, sudden route closures, and potential targeting. Use only hotel-recommended transportation and avoid crowded buses or trains where possible."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "phnom-penh",
+    "ho-chi-minh-city"
+  ],
+  "_city_id": "yangon-myanmar",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/500px-ShwedagonPagoda.jpg"
+}

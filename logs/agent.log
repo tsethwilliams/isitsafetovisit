@@ -1477,3 +1477,45 @@
 2026-03-15 19:18:32,586 [INFO] Checking alerts for 220 cities
 2026-03-15 19:19:11,606 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-15 19:19:11,692 [INFO] No safety alerts detected
+2026-03-15 23:00:20,570 [INFO] Agent starting — mode: add
+2026-03-15 23:00:20,611 [INFO] Queue has 343 cities, adding 8
+2026-03-15 23:00:20,611 [INFO] Generating new city profile: Palawan, Philippines
+2026-03-15 23:01:55,941 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:01:56,283 [INFO] Found Wikipedia image for Palawan
+2026-03-15 23:01:56,284 [INFO] Saved city data: palawan-philippines
+2026-03-15 23:01:56,286 [INFO] Generating new city profile: Siargao, Philippines
+2026-03-15 23:03:30,274 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:03:30,581 [INFO] Found Wikipedia image for Siargao
+2026-03-15 23:03:30,581 [INFO] Saved city data: siargao-philippines
+2026-03-15 23:03:30,584 [INFO] Generating new city profile: Hoi An, Vietnam
+2026-03-15 23:04:55,354 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:04:55,607 [INFO] Saved city data: hoi-an-vietnam
+2026-03-15 23:04:55,609 [INFO] Generating new city profile: Ha Long Bay, Vietnam
+2026-03-15 23:06:19,922 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:06:20,191 [INFO] Found Wikipedia image for Ha Long Bay
+2026-03-15 23:06:20,192 [INFO] Saved city data: ha-long-bay-vietnam
+2026-03-15 23:06:20,194 [INFO] Generating new city profile: Sapa, Vietnam
+2026-03-15 23:07:51,023 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:07:51,347 [INFO] Saved city data: sapa-vietnam
+2026-03-15 23:07:51,350 [INFO] Generating new city profile: Luang Prabang, Laos
+2026-03-15 23:09:30,066 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:09:30,211 [INFO] Found Wikipedia image for Luang Prabang
+2026-03-15 23:09:30,212 [INFO] Saved city data: luang-prabang-laos
+2026-03-15 23:09:30,214 [INFO] Generating new city profile: Vientiane, Laos
+2026-03-15 23:10:53,489 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:10:53,648 [INFO] Found Wikipedia image for Vientiane
+2026-03-15 23:10:53,648 [INFO] Saved city data: vientiane-laos
+2026-03-15 23:10:53,651 [INFO] Generating new city profile: Yangon, Myanmar
+2026-03-15 23:12:21,406 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 23:12:21,537 [INFO] Found Wikipedia image for Yangon
+2026-03-15 23:12:21,537 [INFO] Saved city data: yangon-myanmar
+2026-03-15 23:12:21,564 [INFO] Merged into site data: Palawan
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Siargao
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Hoi An
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Ha Long Bay
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Sapa
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Luang Prabang
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Vientiane
+2026-03-15 23:12:21,565 [INFO] Merged into site data: Yangon
+2026-03-15 23:12:21,612 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-15 23:12:21,636 [INFO] Rebuilt sitemap with 330 URLs (230 cities, 94 countries, 6 static)

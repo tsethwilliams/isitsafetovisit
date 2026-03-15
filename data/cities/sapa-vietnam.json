@@ -1,0 +1,157 @@
+{
+  "slug": "sapa",
+  "name": "Sapa",
+  "country": "Vietnam",
+  "countryCode": "VN",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-15",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 9.0,
+    "scamRisk": 6.5,
+    "womensSafety": 8.5,
+    "nightSafety": 7.5,
+    "transport": 7.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Sapa is a mountainous town in northern Vietnam known for its stunning rice terraces and ethnic minority villages. While generally very safe for tourists, visitors should be aware of occasional scams, weather-related hazards like landslides during typhoon season, and basic mountain safety precautions.",
+  "quickVerdict": "Sapa ranks as one of Vietnam's safest destinations, with extremely low violent crime rates and a welcoming local community. The main safety concerns revolve around tourist scams, natural hazards during monsoon season, and trekking safety. Solo female travelers report feeling particularly safe here, and the well-developed tourism infrastructure provides good support for international visitors.",
+  "neighborhoods": [
+    {
+      "name": "Sapa Town Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist hub with hotels, restaurants, and shops. Well-lit and patrolled with good infrastructure and English-speaking staff."
+    },
+    {
+      "name": "Cat Cat Village",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular ethnic minority village destination with established tourism infrastructure and guided tours available."
+    },
+    {
+      "name": "Ta Van Village",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Remote village offering homestays and trekking experiences. Generally safe but requires more caution and preferably a guide."
+    },
+    {
+      "name": "Ham Rong Mountain",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Tourist mountain attraction near town center with developed trails and facilities. Safe during daylight hours."
+    },
+    {
+      "name": "Muong Hoa Valley",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Scenic trekking area with rice terraces. Safe with proper guides but can be risky during bad weather."
+    },
+    {
+      "name": "Remote Trekking Areas",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Backcountry trekking areas that require experienced guides and proper equipment. Weather conditions can change rapidly."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Trekking Guides",
+      "risk": "medium",
+      "description": "Unqualified individuals offering cut-rate trekking services that may lack proper safety equipment or knowledge of safe routes.",
+      "howToAvoid": "Book through established tour companies, verify guide credentials, and read recent reviews from other travelers."
+    },
+    {
+      "name": "Overpriced Homestay Bookings",
+      "risk": "medium",
+      "description": "Hotels and tour shops earning commissions by booking travelers into overpriced accommodations or forcing them into homestays when rooms aren't actually available.",
+      "howToAvoid": "Book directly with accommodations, confirm bookings in advance, and have backup options during peak seasons."
+    },
+    {
+      "name": "Persistent Handicraft Vendors",
+      "risk": "low",
+      "description": "Ethnic minority women and children following tourists to sell handicrafts, sometimes claiming it's a free service then demanding payment.",
+      "howToAvoid": "Be clear about not wanting to purchase, avoid accepting 'free' guided walks, and don't feel obligated to buy out of guilt."
+    },
+    {
+      "name": "Love Market Tourist Traps",
+      "risk": "low",
+      "description": "Overpriced food, drinks, and souvenirs marketed specifically to tourists attending cultural performances.",
+      "howToAvoid": "Check prices beforehand, eat at local restaurants away from performance venues, and bargain respectfully at markets."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sapa is excellent for solo female travelers, ranking among Vietnam's safest destinations for women. The town has a strong tourism infrastructure with many female-friendly accommodations and tours. Local communities are respectful and accustomed to international female visitors. However, standard precautions should still be taken, especially when trekking.",
+    "tips": [
+      "Stay in well-reviewed hostels or guesthouses with female-only dorms if preferred",
+      "Join group tours for trekking rather than going solo into remote areas",
+      "Avoid walking alone in very remote areas after dark, stick to main town areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sapa is generally safe at night within the town center, with most nightlife concentrated in well-lit, populated areas. The town has a relatively quiet nightlife scene that winds down by midnight, fitting with the area's natural mountain rhythms. While violent crime is extremely rare, basic precautions are still recommended.",
+    "tips": [
+      "Stick to well-lit main streets and popular areas after dark",
+      "Avoid remote trekking trails or isolated areas at night",
+      "Use hotel transportation or reputable taxi services rather than walking long distances"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available in Sapa",
+    "rideshare": "Grab is available but limited. Local taxi services and electric cars operate within town for short distances",
+    "taxis": "Reputable taxi companies include Xanh Sapa, Mai Linh Lao Cai, and local electric car services. Always agree on fare beforehand or ensure meter is running",
+    "tips": "For longer distances, use established bus companies or pre-arranged hotel transfers. Motorbike rentals are available but require caution due to mountainous terrain and weather conditions"
+  },
+  "customs": [
+    "Remove shoes before entering homes and temples",
+    "Dress modestly when visiting ethnic minority villages and sacred sites",
+    "Show respect to elders and wait for the oldest person to begin eating at meals"
+  ],
+  "health": {
+    "overview": "Healthcare facilities in Sapa are basic, with limited English-speaking medical staff. Serious medical emergencies may require evacuation to Hanoi or other major cities.",
+    "water": "Drink only bottled or properly filtered water. Avoid ice in rural areas and brush teeth with bottled water",
+    "vaccinations": "Ensure routine vaccinations are current. Consider hepatitis A and B vaccines, especially for rural travel",
+    "altitude": "Sapa sits at 1,500m elevation. Some visitors may experience mild altitude effects. The climate is cooler than lowland Vietnam with potential for sudden weather changes"
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Hanoi: +84-24-3850-5000, located approximately 320km from Sapa"
+  },
+  "faq": [
+    {
+      "q": "Is Sapa safe for tourists?",
+      "a": "Yes, Sapa is very safe for tourists with extremely low violent crime rates. The main concerns are tourist scams, weather-related hazards, and trekking safety. The local community is welcoming and accustomed to international visitors."
+    },
+    {
+      "q": "Is Sapa safe at night?",
+      "a": "Sapa town center is safe at night with good lighting and regular foot traffic until around midnight. However, avoid remote areas and stick to main streets. The nightlife scene is relatively quiet and family-friendly."
+    },
+    {
+      "q": "Is Sapa safe for solo female travelers?",
+      "a": "Yes, Sapa is excellent for solo female travelers and ranks among Vietnam's safest destinations for women. Many solo female travelers report feeling very secure, with good tourism infrastructure and respectful local communities."
+    },
+    {
+      "q": "What areas should I avoid in Sapa?",
+      "a": "Avoid remote trekking areas without proper guides, especially during bad weather. During typhoon season (June-November), be cautious of landslide-prone areas and follow local advisories about suspended trekking activities."
+    },
+    {
+      "q": "Is it safe to use public transport in Sapa?",
+      "a": "Local transport within Sapa town is generally safe, including electric cars and reputable taxi services. For longer distances, use established bus companies. Motorbike rentals require caution due to mountainous terrain and traffic conditions."
+    }
+  ],
+  "relatedCities": [
+    "hanoi",
+    "halong-bay",
+    "hoi-an"
+  ],
+  "_city_id": "sapa-vietnam"
+}
