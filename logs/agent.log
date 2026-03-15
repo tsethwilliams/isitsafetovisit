@@ -1306,3 +1306,12 @@
 2026-03-14 23:09:07,504 [INFO] Merged into site data: Hong Kong
 2026-03-14 23:09:07,546 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-14 23:09:07,567 [INFO] Rebuilt sitemap with 293 URLs (198 cities, 89 countries, 6 static)
+2026-03-15 05:27:42,856 [INFO] Agent starting — mode: alert
+2026-03-15 05:27:42,929 [INFO] Checking alerts for 196 cities
+2026-03-15 05:28:21,000 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-15 05:28:21,086 [WARNING] ALERTS DETECTED: 5
+2026-03-15 05:28:21,086 [WARNING]   [critical] tel_aviv_israel: Active missile attacks from Iran and Hezbollah on Tel Aviv area since March 1, 2026. Civilians injured from missile fragments. US Embassy issued shelter-in-place orders and is evacuating Americans via bus to Egypt border. Routine consular services suspended through March 20.
+2026-03-15 05:28:21,088 [WARNING]   [medium] antalya_turkey: Turkey under Level 2 Enhanced Caution due to US-Iran conflict. Tourist areas like Antalya and Bodrum remain outside conflict zones but increased vigilance advised due to regional tensions and possible flight path disruptions.
+2026-03-15 05:28:21,091 [WARNING]   [medium] bodrum_turkey: Turkey under Level 2 Enhanced Caution due to US-Iran conflict. Tourist areas like Antalya and Bodrum remain outside conflict zones but increased vigilance advised due to regional tensions and possible flight path disruptions.
+2026-03-15 05:28:21,093 [WARNING]   [high] playa_del_carmen_mexico: Major cartel violence erupted February 22, 2026 following killing of CJNG leader 'El Mencho'. Vehicle fires and arson attacks occurred in Playa del Carmen. US Embassy issued shelter-in-place orders through February 24. Situation has since normalized but heightened security remains.
+2026-03-15 05:28:21,095 [WARNING]   [high] mexico_city_mexico: Nationwide cartel retaliation violence following killing of CJNG leader 'El Mencho' on February 22, 2026. Over 250 roadblocks established across Mexico. US Embassy issued shelter-in-place advisories. Violence has subsided but security concerns remain elevated.
