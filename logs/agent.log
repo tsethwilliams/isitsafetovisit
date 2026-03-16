@@ -1673,3 +1673,7 @@
 2026-03-16 19:50:58,754 [INFO] Merged into site data: AlUla
 2026-03-16 19:50:58,804 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-16 19:50:58,834 [INFO] Rebuilt sitemap with 360 URLs (254 cities, 100 countries, 6 static)
+2026-03-16 19:58:21,229 [INFO] Agent starting — mode: alert
+2026-03-16 19:58:21,298 [INFO] Checking alerts for 251 cities
+2026-03-16 19:58:59,806 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 19:58:59,843 [INFO] No safety alerts detected
