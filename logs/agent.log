@@ -1621,3 +1621,7 @@
 2026-03-16 12:16:15,834 [INFO] Merged into site data: Thimphu
 2026-03-16 12:16:15,879 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-16 12:16:15,904 [INFO] Rebuilt sitemap with 348 URLs (246 cities, 96 countries, 6 static)
+2026-03-16 15:44:21,596 [INFO] Agent starting — mode: alert
+2026-03-16 15:44:21,674 [INFO] Checking alerts for 243 cities
+2026-03-16 15:45:00,886 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 15:45:00,951 [INFO] No safety alerts detected
