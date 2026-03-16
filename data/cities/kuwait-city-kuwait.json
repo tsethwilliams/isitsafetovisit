@@ -1,0 +1,165 @@
+{
+  "slug": "kuwait-city",
+  "name": "Kuwait City",
+  "country": "Kuwait",
+  "countryCode": "KW",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 5.4,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 5.5,
+    "scamRisk": 6.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.5,
+    "transport": 5.0,
+    "naturalHazards": 5.0
+  },
+  "summary": "Kuwait City faces significant safety challenges in early 2026 with ongoing regional tensions, a Level 3 US State Department travel advisory, and suspended US Embassy operations. While the city typically has low crime rates, current threats include missile attacks, landmines in northern areas, and general security risks from regional conflict.",
+  "quickVerdict": "Kuwait City is experiencing heightened security risks in 2026 due to regional armed conflict. The US State Department advises reconsidering travel, and the US Embassy has suspended operations. While crime rates are generally low, current threats include potential missile attacks, unexploded ordnance in certain areas, and disrupted commercial flights. Travelers should exercise extreme caution and consider postponing non-essential travel until conditions improve.",
+  "neighborhoods": [
+    {
+      "name": "Kuwait City Center",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Downtown area with government buildings and Kuwait Towers. Generally safer than outlying areas but subject to current regional security concerns and potential targeted attacks."
+    },
+    {
+      "name": "Salmiya",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Coastal district popular with expatriates. Moderate safety but affected by current travel advisory and security situation."
+    },
+    {
+      "name": "Hawalli",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Densely populated area with mixed security conditions. Exercise increased caution, especially for solo travelers."
+    },
+    {
+      "name": "Ahmadi",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Oil industry area in the south. Generally stable but monitor security updates due to strategic importance."
+    },
+    {
+      "name": "Jleeb Al-Shuyoukh",
+      "score": 3.0,
+      "class": "danger",
+      "description": "High-crime area near Kuwait International Airport identified by Kuwaiti police. Avoid this neighborhood, especially at night, due to theft, violence, and unsafe conditions."
+    },
+    {
+      "name": "Northern Border Areas",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Desert areas north of Mutla'a Ridge containing unexploded landmines and ordnance from the 1990 Gulf War. Extremely dangerous - do not travel to these areas under any circumstances."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Cybercrime and Fake Government Sites",
+      "risk": "high",
+      "description": "Sophisticated scams using fake government websites and official-looking communications to steal personal data and money. Scammers may impersonate authorities or financial institutions.",
+      "howToAvoid": "Only use official .com.kw websites, verify all communications independently, never provide personal information via unsolicited calls or messages."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Taxi drivers may quote inflated prices or claim broken meters, especially to tourists and airport passengers.",
+      "howToAvoid": "Use ride-hailing apps like Careem, agree on fares upfront, or ensure the meter is working before starting your journey."
+    },
+    {
+      "name": "Fake Traffic Fines via SMS",
+      "risk": "medium",
+      "description": "Fraudulent text messages demanding immediate payment of traffic fines with threats of increased penalties.",
+      "howToAvoid": "Kuwait authorities only send traffic violations through the Sahel app, never via SMS. Do not click links or respond to such messages."
+    },
+    {
+      "name": "Public Wi-Fi Exploitation",
+      "risk": "medium",
+      "description": "Criminals use compromised public Wi-Fi networks to steal personal data, banking information, and monitor social media activity.",
+      "howToAvoid": "Avoid using public Wi-Fi for sensitive activities, use a VPN when necessary, and never install unknown apps or enter personal data on unsecured networks."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Kuwait City requires extra caution, especially given current security conditions. While violent crime against foreigners is uncommon, women may experience verbal harassment and should dress modestly. The current regional tensions add additional risks that female travelers should carefully consider.",
+    "tips": [
+      "Dress conservatively covering shoulders and knees, carry a scarf for mosque visits",
+      "Avoid walking alone at night and use official transportation when possible",
+      "Be prepared for stares and occasional verbal harassment, especially in less touristy areas",
+      "Stay in well-populated areas and avoid isolated locations during current security situation"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety is significantly compromised due to current regional tensions and security threats. Even in normal times, Kuwait City has limited pedestrian activity after dark as most residents drive. The current situation with potential missile threats and suspended embassy services makes nighttime travel inadvisable.",
+    "tips": [
+      "Avoid unnecessary nighttime travel due to current security situation",
+      "If you must go out, use hotel transportation or pre-arranged trusted drivers",
+      "Stay in well-lit, populated areas and avoid industrial zones",
+      "Keep emergency contacts readily available and inform others of your whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Kuwait does not have an operational metro system. A metro project is under development but not yet available for public use.",
+    "rideshare": "Careem and Uber operate in Kuwait City and are generally the safest transportation option. Services may be disrupted during security alerts.",
+    "taxis": "Official taxis are available but not all have working meters. Agree on fares upfront and use registered taxis with official plates. Current security situation may affect availability.",
+    "tips": "Due to current regional tensions and airport closures, transportation options are severely limited. Overland routes to Saudi Arabia remain open but carry risks. Monitor security updates before traveling."
+  },
+  "customs": [
+    "Dress modestly in public - cover shoulders and knees, especially in religious sites",
+    "Show respect during prayer times when businesses may close briefly",
+    "Avoid public displays of affection between men and women",
+    "Use your right hand for eating and greeting, left hand is considered unclean",
+    "Accept offers of Arabic coffee and dates as refusing hospitality can be seen as rude",
+    "Remove shoes when entering homes or traditional dining areas"
+  ],
+  "health": {
+    "overview": "Kuwait has excellent healthcare infrastructure with modern hospitals and clinics. Medical care is provided free to residents and available to tourists. Current security situation may affect access to some facilities.",
+    "water": "Tap water is treated but bottled water is recommended for sensitive stomachs. Most hotels and restaurants use filtered water.",
+    "vaccinations": "Routine vaccinations recommended including MMR, Hepatitis A/B. Check with healthcare provider for current requirements. MERS-CoV risk exists - avoid contact with camels.",
+    "altitude": "No altitude concerns. Extreme heat (40°C+) in summer requires precautions including hydration and avoiding midday sun. Dust storms can affect air quality."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy operations suspended as of March 5, 2026. US citizens should contact +1-202-501-4444 (from abroad) or +1-888-407-4747 (from US/Canada) for emergency assistance. Complete crisis intake form online for departure assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Kuwait City safe for tourists?",
+      "a": "Currently no - Kuwait City has a Level 3 travel advisory due to regional armed conflict, landmines, and security threats. The US Embassy has suspended operations. Reconsider travel until conditions improve."
+    },
+    {
+      "q": "Is Kuwait City safe at night?",
+      "a": "No, especially during current security situation. Night travel is strongly discouraged due to potential missile attacks and limited emergency services. Even in normal times, night safety requires caution."
+    },
+    {
+      "q": "Is Kuwait City safe for solo female travelers?",
+      "a": "Currently not recommended due to security situation. Even in stable times, solo female travel requires significant precautions including modest dress, avoiding isolation, and dealing with potential harassment."
+    },
+    {
+      "q": "What areas should I avoid in Kuwait City?",
+      "a": "Avoid Jleeb Al-Shuyoukh (high crime), all areas north of Mutla'a Ridge (landmines), and currently all non-essential travel due to security threats. Monitor embassy updates for restricted areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Kuwait City?",
+      "a": "Limited options available and safety compromised by current situation. Public buses exist but ride-hailing apps are safer when operating. Commercial flights suspended due to missile threat - only overland travel to Saudi Arabia available."
+    }
+  ],
+  "relatedCities": [
+    "riyadh",
+    "doha",
+    "dubai",
+    "manama",
+    "muscat"
+  ],
+  "_city_id": "kuwait-city-kuwait",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg"
+}

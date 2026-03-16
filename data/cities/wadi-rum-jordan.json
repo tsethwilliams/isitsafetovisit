@@ -1,0 +1,162 @@
+{
+  "slug": "wadi-rum",
+  "name": "Wadi Rum",
+  "country": "Jordan",
+  "countryCode": "JO",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.0,
+    "scamRisk": 5.0,
+    "womensSafety": 7.2,
+    "nightSafety": 7.8,
+    "transport": 5.5,
+    "naturalHazards": 4.2
+  },
+  "summary": "Wadi Rum is Jordan's stunning desert wilderness that remains generally safe for tourists despite regional tensions. While the desert environment poses natural challenges including flash floods and extreme temperatures, violent crime is rare and the Bedouin communities are renowned for their hospitality toward visitors.",
+  "quickVerdict": "Wadi Rum offers a relatively safe desert experience with excellent local hospitality, though visitors should be aware of current regional tensions that have prompted a US Level 3 travel advisory for Jordan. The main risks come from natural hazards like flash floods and extreme weather rather than crime. Tourist scams exist but are manageable with proper precautions. The area benefits from tourism police presence and well-established camp operators, making it accessible for solo travelers including women.",
+  "neighborhoods": [
+    {
+      "name": "Wadi Rum Village",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main settlement with shops, visitor center, and official entry point. Well-patrolled by tourism police with established infrastructure for visitors."
+    },
+    {
+      "name": "Central Desert Camps",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Licensed Bedouin camps in the protected area core with experienced guides and established safety protocols for tourists."
+    },
+    {
+      "name": "Northern Desert Routes",
+      "score": 6.5,
+      "class": "caution",
+      "description": "More remote areas requiring experienced guides and proper preparation. Risk of getting lost without local knowledge."
+    },
+    {
+      "name": "Eastern Border Areas",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Areas near Saudi border with restricted access and potential security concerns. Avoided by most tourist operations."
+    },
+    {
+      "name": "Flash Flood Zones",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Wadis and low-lying areas prone to sudden flooding during rare but intense rainstorms. Extremely dangerous during weather events."
+    },
+    {
+      "name": "Rock Climbing Areas",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Popular climbing spots with natural risks from rockfall and extreme temperatures. Require proper equipment and experience."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Wadi Rum Tours",
+      "risk": "high",
+      "description": "Operators in Petra or Aqaba offering tours to areas outside the protected area, claiming it's authentic Wadi Rum.",
+      "howToAvoid": "Only book through licensed operators and ensure tours enter through the official Visitor Center at Wadi Rum Village."
+    },
+    {
+      "name": "Fraudulent Entry Tickets",
+      "risk": "medium",
+      "description": "Fake entrance tickets sold by unauthorized individuals at makeshift gates before the official visitor center.",
+      "howToAvoid": "Purchase tickets only at the official Wadi Rum Visitor Center or use the Jordan Pass. Verify tickets have official stamps."
+    },
+    {
+      "name": "Overpriced Jeep Tours",
+      "risk": "medium",
+      "description": "Desert camps charging inflated prices for activities after arrival, particularly for jeep safaris and camel rides.",
+      "howToAvoid": "Book package deals in advance that include all activities, or verify official pricing at the Visitor Center before agreeing to any tours."
+    },
+    {
+      "name": "Transport Price Gouging",
+      "risk": "low",
+      "description": "Taxi drivers charging excessive rates for transfers to and from Wadi Rum, especially during peak season.",
+      "howToAvoid": "Arrange transport through your accommodation or use established bus services. Agree on prices before starting any journey."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Wadi Rum is considered safe for solo female travelers with thousands visiting annually. The Bedouin culture emphasizes protecting female guests, and established camps maintain professional standards. Most solo women report positive experiences, though cultural awareness and modest dress are important.",
+    "tips": [
+      "Choose reputable licensed camps with good reviews from other female travelers",
+      "Dress modestly covering shoulders and knees out of respect for local customs",
+      "Inform your camp of hiking plans and stick to guided activities rather than exploring alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Wadi Rum is generally excellent due to the remote location and strong Bedouin hospitality traditions. The desert environment is peaceful with minimal crime risks. Most safety concerns relate to natural hazards rather than human threats.",
+    "tips": [
+      "Stay close to your camp after dark as the desert can be disorienting",
+      "Bring warm clothing as temperatures drop significantly at night",
+      "Enjoy stargazing activities but always go with guides who know the terrain"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Wadi Rum. The area is accessed via the Visitor Center and requires 4WD vehicles or organized tours for desert exploration.",
+    "rideshare": "Rideshare apps like Uber and Careem are not available in Wadi Rum. Transport is arranged through camps, tour operators, or private taxis.",
+    "taxis": "Licensed taxis operate between major cities and Wadi Rum Village. Expect to pay 25-45 JOD from Aqaba or Petra respectively. Arrange through hotels for best rates.",
+    "tips": "Book transport in advance during peak season and always use licensed operators for safety and reliability."
+  },
+  "customs": [
+    "Remove shoes when entering Bedouin tents and accept hospitality graciously",
+    "Dress modestly with covered shoulders and knees, especially when interacting with local families",
+    "Respect prayer times and avoid loud activities during Islamic prayer periods",
+    "Photography of local people should be done with permission, particularly women",
+    "Tipping 10-15% is appreciated for guides and camp staff but not mandatory"
+  ],
+  "health": {
+    "overview": "Medical facilities in Wadi Rum are limited with the nearest hospitals in Aqaba 60km away. Basic first aid is available at camps but serious emergencies require evacuation to urban centers.",
+    "water": "Bottled water is readily available at camps and should be consumed exclusively. Desert camps provide water but verify it's properly sourced.",
+    "vaccinations": "Routine vaccines recommended including Hepatitis A and Tetanus. Rabies vaccination advised for extended stays due to desert dogs.",
+    "altitude": "Desert climate with extreme temperature variations from 45°C days to 5°C nights. Sun protection and hydration essential. Flash flood risk during rare storms."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "199",
+    "touristPolice": "+962 79 550 5755",
+    "usEmbassy": "US Embassy Amman: +962 6 590 6500 (Al-Umayyaween Street, Abdoun, Amman). Note: Non-emergency personnel departed March 2026 due to regional tensions."
+  },
+  "faq": [
+    {
+      "q": "Is Wadi Rum safe for tourists?",
+      "a": "Yes, Wadi Rum is generally safe for tourists with low crime rates and strong Bedouin hospitality traditions. Current regional tensions have raised the US travel advisory to Level 3, but tourist areas remain operational with proper security measures."
+    },
+    {
+      "q": "Is Wadi Rum safe at night?",
+      "a": "Wadi Rum is very safe at night with peaceful desert conditions and protective camp environments. The main concerns are natural hazards like temperature drops and disorientation rather than crime or security issues."
+    },
+    {
+      "q": "Is Wadi Rum safe for solo female travelers?",
+      "a": "Yes, Wadi Rum is considered safe for solo female travelers. Thousands visit annually with positive experiences. Choose reputable camps, dress modestly, and follow local customs for the best experience."
+    },
+    {
+      "q": "What areas should I avoid in Wadi Rum?",
+      "a": "Avoid unlicensed camps outside the protected area, eastern border regions near Saudi Arabia, and low-lying wadis during weather warnings. Always use official entry points and licensed tour operators."
+    },
+    {
+      "q": "Is it safe to use public transport to Wadi Rum?",
+      "a": "Public bus options are limited but safe. Most visitors use JETT buses to nearby cities then arrange taxi transfers. Private transfers through licensed operators are recommended for convenience and reliability."
+    }
+  ],
+  "relatedCities": [
+    "petra",
+    "aqaba",
+    "amman",
+    "dead-sea",
+    "jerash"
+  ],
+  "_city_id": "wadi-rum-jordan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/1280px-Mountain_in_Wadi_Rum%2C_Jordan.jpg"
+}

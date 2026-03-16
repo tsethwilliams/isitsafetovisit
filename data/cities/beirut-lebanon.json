@@ -1,0 +1,164 @@
+{
+  "slug": "beirut",
+  "name": "Beirut",
+  "country": "Lebanon",
+  "countryCode": "LB",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 2.6,
+  "verdict": "Exercise Extreme Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 2.5,
+    "scamRisk": 3.5,
+    "womensSafety": 2.0,
+    "nightSafety": 2.5,
+    "transport": 3.0,
+    "naturalHazards": 1.0
+  },
+  "summary": "Beirut faces extreme security challenges with ongoing regional conflicts, Level 4 travel advisory, and US Embassy evacuation orders. The city experiences terrorism threats, political instability, and deteriorating infrastructure amid a collapsed economy.",
+  "quickVerdict": "Beirut is currently extremely dangerous for tourists with the US State Department maintaining a Level 4 Do Not Travel advisory. The February 2026 evacuation of non-essential embassy personnel amid regional warfare, terrorism threats, and complete healthcare system breakdown makes travel highly inadvisable. Those who ignore warnings face risks of being trapped with no consular support.",
+  "neighborhoods": [
+    {
+      "name": "Hamra & Ras Beirut",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Traditional tourist district near American University of Beirut. While historically safer, current security situation makes even central areas dangerous with regular checkpoints and military presence."
+    },
+    {
+      "name": "Downtown Beirut",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Central business district with government buildings and financial centers. Heavily secured but prime target for political demonstrations and potential terrorist attacks."
+    },
+    {
+      "name": "Gemmayzeh & Mar Mikhael",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Former nightlife district still recovering from 2020 port explosion. Infrastructure damage persists and area remains vulnerable to security incidents."
+    },
+    {
+      "name": "Achrafieh",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Upscale Christian neighborhood with embassies and international organizations. Despite affluence, faces same regional security threats as rest of city."
+    },
+    {
+      "name": "Dahieh (Southern Suburbs)",
+      "score": 1.0,
+      "class": "danger",
+      "description": "Under Hezbollah control and specifically mentioned in US warnings to avoid. Scene of recent Israeli airstrikes and ongoing military operations."
+    },
+    {
+      "name": "Airport Area",
+      "score": 1.5,
+      "class": "danger",
+      "description": "Vulnerable corridor between city and international airport. Frequent target of road blockades, demonstrations, and security incidents affecting evacuation routes."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "high",
+      "description": "Unauthorized individuals posing as official tour guides, especially targeting tourists at historical sites and hotels.",
+      "howToAvoid": "Only use guides arranged through reputable hotels or agencies. Verify credentials and agree on prices beforehand."
+    },
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "high",
+      "description": "Street money changers offering unfavorable rates or counterfeit bills amid economic crisis and currency instability.",
+      "howToAvoid": "Use only official banks or authorized exchange bureaus. Avoid street exchanges entirely."
+    },
+    {
+      "name": "Official Fee Extortion",
+      "risk": "medium",
+      "description": "Corrupt officials or fake authorities demanding bribes or inventing violations, particularly at checkpoints.",
+      "howToAvoid": "Carry proper documentation, remain polite but firm, and ask for official receipts for any payments."
+    },
+    {
+      "name": "ATM Distraction Theft",
+      "risk": "medium",
+      "description": "Groups creating distractions while accessing ATMs to steal cards or cash, especially in crowded areas.",
+      "howToAvoid": "Use ATMs inside banks when possible, stay alert, and shield your PIN entry."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Beirut is extremely dangerous given current security conditions. Even under normal circumstances, women face harassment and cultural restrictions. Current warfare and instability create additional severe risks including sexual assault and inability to access help.",
+    "tips": [
+      "Do not travel to Lebanon as a solo female under current conditions",
+      "If already present, maintain constant communication with embassy and family",
+      "Avoid all public areas and maintain low profile",
+      "Dress very conservatively to avoid unwanted attention",
+      "Never travel alone outside secured accommodations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime in Beirut is extremely dangerous with military curfews, active combat zones, and complete breakdown of normal policing. Even areas previously considered safe are now subject to airstrikes, military operations, and armed confrontations.",
+    "tips": [
+      "Observe all curfews and military restrictions strictly",
+      "Stay indoors after dark unless absolutely necessary",
+      "Keep emergency supplies and communication devices charged",
+      "Monitor news constantly for evacuation orders",
+      "Have multiple escape routes planned from your location"
+    ]
+  },
+  "transport": {
+    "metro": "Beirut has no metro system. Public buses operate sporadically due to fuel shortages and security concerns.",
+    "rideshare": "Limited availability due to economic crisis and driver safety concerns. Apps like Uber and Careem operate with restrictions.",
+    "taxis": "Traditional service taxis and private taxis available but drivers may refuse certain areas. Negotiate prices due to fuel costs.",
+    "tips": "All transport severely disrupted by ongoing conflict. Airport road subject to closure. Use only trusted drivers and avoid travel near military zones."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some religious sites",
+    "Accept offers of coffee or tea as refusing is considered rude - it may be offered three times",
+    "Dress modestly especially when visiting religious areas or outside central Beirut",
+    "Greet with handshake and direct eye contact, or three kisses on alternating cheeks with close friends",
+    "Show respect for both Christian and Muslim religious practices as Lebanon is highly diverse"
+  ],
+  "health": {
+    "overview": "Lebanon's healthcare system has completely collapsed due to economic crisis, ongoing conflict, and medical supply shortages. Many hospitals have closed or operate with severely limited capacity.",
+    "water": "Tap water is unsafe to drink throughout Lebanon. Use bottled water for drinking, cooking, and teeth brushing. Infrastructure heavily damaged.",
+    "vaccinations": "Consult travel medicine specialist before any travel. Routine vaccines plus Hepatitis A/B, Typhoid recommended. Medical care extremely limited if complications arise.",
+    "altitude": "Beirut is at sea level. Mediterranean climate but current conditions include damaged infrastructure, power outages, and limited air conditioning during hot summers."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "140",
+    "fire": "175",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy services suspended. Emergency contact: +1-202-501-4444 (from abroad) or +1-888-407-4747 (from US/Canada). Embassy located Awkar, north of Beirut but staff evacuated."
+  },
+  "faq": [
+    {
+      "q": "Is Beirut safe for tourists?",
+      "a": "No. The US State Department has issued a Level 4 Do Not Travel advisory with embassy personnel evacuation. Ongoing regional warfare, terrorism threats, and complete infrastructure breakdown make tourism extremely dangerous."
+    },
+    {
+      "q": "Is Beirut safe at night?",
+      "a": "Absolutely not. Military curfews are in effect, active combat zones exist throughout the city, and normal policing has collapsed. Airstrikes and armed confrontations can occur without warning."
+    },
+    {
+      "q": "Is Beirut safe for solo female travelers?",
+      "a": "Extremely dangerous. Current conflict conditions combined with cultural harassment issues create severe risks. Embassy cannot provide assistance and evacuation routes are limited."
+    },
+    {
+      "q": "What areas should I avoid in Beirut?",
+      "a": "All areas are dangerous, but specifically avoid Dahieh southern suburbs (Hezbollah-controlled), airport road, government buildings, and anywhere near Syrian border. US Embassy warns against entire country."
+    },
+    {
+      "q": "Is it safe to use public transport in Beirut?",
+      "a": "No reliable public transport exists due to fuel shortages and security concerns. Private transport also severely limited. Airport access frequently blocked by military operations."
+    }
+  ],
+  "relatedCities": [
+    "damascus",
+    "amman",
+    "baghdad"
+  ],
+  "_city_id": "beirut-lebanon",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Beirut_close_to_plane_descent.jpg/1280px-Beirut_close_to_plane_descent.jpg"
+}

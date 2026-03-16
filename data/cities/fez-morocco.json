@@ -1,0 +1,164 @@
+{
+  "slug": "fez",
+  "name": "Fez",
+  "country": "Morocco",
+  "countryCode": "MA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 7.5,
+    "scamRisk": 4.0,
+    "womensSafety": 5.5,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Fez offers a rich cultural experience but requires vigilance due to persistent hassling, pickpocketing in the medina, and common tourist scams. While violent crime is rare, the ancient winding streets create ideal conditions for petty theft and aggressive vendors targeting tourists.",
+  "quickVerdict": "Fez is generally safe for tourists but demands constant awareness. The medina's labyrinthine streets are hotspots for scams and pickpocketing, while female travelers should expect persistent harassment. Violent crime remains rare, and police presence is visible in tourist areas. With proper precautions and realistic expectations, visitors can safely explore Morocco's cultural capital.",
+  "neighborhoods": [
+    {
+      "name": "Ville Nouvelle (New City)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern downtown area with wide streets, good lighting, police presence, and legitimate businesses. Most hotels, restaurants, and transport connections are here."
+    },
+    {
+      "name": "Medina Bab Boujloud (Main Tourist Areas)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tourist-heavy areas near the main entrance with regular police patrols. Expect persistent vendors but generally manageable with firm boundaries."
+    },
+    {
+      "name": "Fez El Bali Central Medina",
+      "score": 5.0,
+      "class": "caution",
+      "description": "The ancient winding streets where most scams occur. High risk of pickpocketing, fake guides, and getting deliberately lost. Recommended to hire official guides."
+    },
+    {
+      "name": "Tannery Quarter",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Notorious for aggressive touts and fake guide scams. Visitors are often led to overpriced shops or charged excessive viewing fees. Exercise extreme caution."
+    },
+    {
+      "name": "Sidi Harazem Road",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Main road connecting to the new city with decent lighting and regular traffic. Generally safe for taxis and transport."
+    },
+    {
+      "name": "Security Zone 3",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area with reported increases in crime including knife-related robberies and assaults. Avoid walking alone especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Guide Scam",
+      "risk": "high",
+      "description": "Unofficial guides approach tourists offering help or tours, leading them through confusing routes to shops for commissions or demanding large payments.",
+      "howToAvoid": "Only use licensed guides with official badges and ID. Book through hotels or tourist offices. Firmly decline unsolicited help."
+    },
+    {
+      "name": "Tannery Viewing Scam",
+      "risk": "high",
+      "description": "Touts claim the main entrance requires high fees and offer free alternative access, then demand money once inside or lead to overpriced leather shops.",
+      "howToAvoid": "Use official entrances only. Research current entrance fees. Don't follow strangers claiming shops are closed or offering better deals."
+    },
+    {
+      "name": "Lost Tourist Scam",
+      "risk": "medium",
+      "description": "Locals deliberately give wrong directions or claim areas are closed, then offer to guide you for a fee after you become confused.",
+      "howToAvoid": "Download offline maps. Don't ask random people for directions. Trust your GPS over strangers claiming you're going the wrong way."
+    },
+    {
+      "name": "Henna Tattoo Scam",
+      "risk": "medium",
+      "description": "Women quickly apply henna to tourists' hands without permission, then demand payment for the unwanted service.",
+      "howToAvoid": "Keep hands away from henna artists. Say no firmly and keep walking. Don't let anyone grab your hands."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Fez requires extra vigilance due to persistent harassment and cultural attitudes. While physical safety isn't typically threatened, constant attention from men can be exhausting and intimidating. Many female travelers report feeling uncomfortable walking alone, especially in the medina.",
+    "tips": [
+      "Dress conservatively with covered shoulders, arms, and legs to minimize unwanted attention",
+      "Consider hiring official guides for medina exploration to avoid harassment",
+      "Learn to say 'La' (no) firmly in Arabic and ignore catcalling completely",
+      "Stay confident and avoid looking lost or confused in public",
+      "Book accommodation in the Ville Nouvelle rather than deep in the medina"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Fez is relatively safe at night in well-lit tourist areas, but the narrow medina streets become risky after dark. Visible police presence in main areas provides some security, though response times can vary. Most locals avoid certain neighborhoods at night.",
+    "tips": [
+      "Stick to the Ville Nouvelle and main tourist areas after dark",
+      "Avoid the medina's narrow alleys at night completely",
+      "Use registered taxis instead of walking for evening transportation",
+      "Stay near your accommodation after 10 PM",
+      "Travel in groups when possible during evening activities"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Fez. Local buses serve some routes but are crowded and confusing for tourists.",
+    "rideshare": "Careem operates in Fez and is generally reliable. Uber is not available.",
+    "taxis": "Petit taxis are common and affordable but insist on using the meter. Grand taxis for longer distances. Avoid unofficial taxi drivers.",
+    "tips": "Use registered taxis with meters, agree on prices beforehand for longer journeys, and keep small bills for exact change."
+  },
+  "customs": [
+    "Dress modestly with covered shoulders and knees, especially in religious areas",
+    "Use only your right hand for eating, greeting, and exchanging money",
+    "Remove shoes when entering homes and some traditional shops",
+    "Avoid public displays of affection and respect Islamic customs",
+    "Tip service workers appropriately (10-15% in restaurants, 5-10 dirhams for small services)"
+  ],
+  "health": {
+    "overview": "Basic medical facilities are available in Fez, with better care in private clinics. Water quality is a concern, and food safety varies significantly between establishments.",
+    "water": "Tap water is officially treated but not recommended for tourists. Drink bottled water and avoid ice cubes. Water pollution in local rivers poses health risks.",
+    "vaccinations": "No special vaccinations required beyond standard travel vaccines. Hepatitis A and B recommended. Check routine immunizations are up to date.",
+    "altitude": "Fez is at low elevation with no altitude concerns. Mediterranean climate with hot summers and mild winters. Air pollution can affect sensitive individuals."
+  },
+  "emergency": {
+    "general": "19",
+    "police": "19",
+    "ambulance": "15",
+    "fire": "15",
+    "touristPolice": "Available in tourist areas - look for Police Touristique badges",
+    "usEmbassy": "US Embassy in Rabat: +212-537-637-200 or US Consulate Casablanca: +212-522-264-550"
+  },
+  "faq": [
+    {
+      "q": "Is Fez safe for tourists?",
+      "a": "Yes, Fez is generally safe with low violent crime rates, but tourists should be prepared for persistent hassling, scams, and pickpocketing in the medina. Police presence is visible in tourist areas."
+    },
+    {
+      "q": "Is Fez safe at night?",
+      "a": "The Ville Nouvelle is relatively safe at night, but avoid the medina's narrow streets after dark. Stick to well-lit main roads and use taxis for transportation after sunset."
+    },
+    {
+      "q": "Is Fez safe for solo female travelers?",
+      "a": "Solo female travel is possible but challenging due to persistent harassment. Dress conservatively, stay confident, and consider hiring official guides for medina exploration. Many women find the experience manageable but exhausting."
+    },
+    {
+      "q": "What areas should I avoid in Fez?",
+      "a": "Avoid the deep medina alleys at night, the tannery quarter without official guides, and Security Zone 3. Be especially cautious around unofficial guides and anyone offering unsolicited help."
+    },
+    {
+      "q": "Is it safe to use public transport in Fez?",
+      "a": "Registered petit taxis are generally safe and affordable. Local buses exist but can be confusing. Careem rideshare is reliable. Always insist on taxi meters and avoid unofficial drivers."
+    }
+  ],
+  "relatedCities": [
+    "marrakech",
+    "casablanca",
+    "rabat"
+  ],
+  "_city_id": "fez-morocco",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/University_karaouiyine_of_fes.jpg/1280px-University_karaouiyine_of_fes.jpg"
+}

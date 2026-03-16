@@ -1,0 +1,164 @@
+{
+  "slug": "petra",
+  "name": "Petra",
+  "country": "Jordan",
+  "countryCode": "JO",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 5.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.5,
+    "scamRisk": 4.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 6.5,
+    "naturalHazards": 4.5
+  },
+  "summary": "Petra, Jordan's crown jewel archaeological site, remains a magnificent tourist destination despite current regional tensions affecting travel advisories. While the site itself is well-secured and monitored, visitors should be aware of elevated security concerns and exercise increased caution due to ongoing conflicts in the broader region.",
+  "quickVerdict": "Petra continues to welcome visitors under heightened security measures, but the March 2026 US State Department Level 3 advisory recommends reconsidering travel to Jordan due to regional conflicts. The site is heavily patrolled by tourist police and authorities take visitor safety seriously, though travelers should prepare for possible disruptions and stay informed of rapidly changing conditions. Most safety concerns relate to tourist scams, flash flood risks, and standard travel precautions rather than serious criminal activity.",
+  "neighborhoods": [
+    {
+      "name": "Petra Archaeological Park Main Site",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main archaeological site including the Treasury, Monastery, and Royal Tombs is heavily monitored by tourist police with visible security presence. Well-maintained paths and facilities make this the safest area, though visitors should watch for uneven terrain and stay on marked trails."
+    },
+    {
+      "name": "Wadi Musa Town Center",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The gateway town to Petra offers numerous hotels, restaurants, and shops. Generally safe during daylight hours with good tourist infrastructure, though visitors should be aware of persistent vendors and negotiate prices clearly to avoid overcharging."
+    },
+    {
+      "name": "Petra Visitor Center & Entrance",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The official entry point is well-organized with security screenings and tourist police presence. Modern facilities include restrooms, shops, and information services. Primary concerns involve ticket scams and unofficial guide harassment."
+    },
+    {
+      "name": "The Siq Canyon Entrance",
+      "score": 6.0,
+      "class": "caution",
+      "description": "The dramatic 1.2km gorge leading to the Treasury can be crowded and narrow. Flash flood risk exists during rainy season with early warning systems in place. Animal handlers may pressure tourists for rides, and path lighting is limited."
+    },
+    {
+      "name": "Little Petra (Al-Beidha)",
+      "score": 5.5,
+      "class": "caution",
+      "description": "This smaller Nabatean site north of main Petra offers fewer crowds but also less security presence. Access roads can be challenging, and visitors may encounter more aggressive local guides. Best visited with organized tours or trusted local contacts."
+    },
+    {
+      "name": "Remote Hiking Trails & Viewpoints",
+      "score": 4.0,
+      "class": "danger",
+      "description": "High-altitude viewpoints and off-the-beaten-path trails like Al-Khubtha offer spectacular views but pose safety risks including rockfall hazards, extreme heat exposure, unmarked paths, and limited rescue access. Romance scam reports from these isolated areas advise extra caution."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Photo Spot Entry Fees",
+      "risk": "high",
+      "description": "Locals charge unofficial entry fees for Treasury viewpoints and cliff-top photo spots, claiming these areas require special permission or guides. They can be aggressive in enforcement and may demand 20-50 JOD per person.",
+      "howToAvoid": "All areas within Petra Archaeological Park are included in your entry ticket. Walk confidently past anyone demanding extra fees and report persistent harassment to tourist police stationed throughout the site."
+    },
+    {
+      "name": "Free Ride Turned Expensive",
+      "risk": "high",
+      "description": "Animal handlers offer free horse, donkey or camel rides then demand large payments afterward, claiming the free portion was only to a specific point. They may become confrontational when payment is refused.",
+      "howToAvoid": "Negotiate all terms clearly before accepting any rides. If you hear free, ask exactly what is included and what is not. Better to pay upfront or decline entirely. Use only official animal services through the visitor center."
+    },
+    {
+      "name": "Romance Scammer Bedouins",
+      "risk": "high",
+      "description": "Charming local men, often wearing traditional dress and eyeliner, target solo female travelers with romantic advances, invitations to private areas, and stories designed to elicit sympathy and money transfers after tourists return home.",
+      "howToAvoid": "Be extremely wary of invitations to private caves, remote hiking, or personal meetings. Never share personal contact information or send money after your trip. Stay in populated areas and trust your instincts if something feels too good to be true."
+    },
+    {
+      "name": "Overpriced Unofficial Guides",
+      "risk": "medium",
+      "description": "Self-proclaimed guides approach tourists claiming official status and offering exclusive experiences at inflated prices. They may be persistent and claim tourist police support their activities.",
+      "howToAvoid": "Use only licensed guides arranged through the official visitor center or reputable tour companies. Licensed guides carry official identification and wear recognizable uniforms. Politely decline unsolicited guide offers and walk toward tourist police if pressured."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Petra is generally manageable with proper precautions, though the current security climate requires extra vigilance. The site has good tourist infrastructure and police presence, but cultural differences and recent reports of harassment in remote areas mean extra caution is warranted. Local culture is conservative but respectful, and most interactions will be positive.",
+    "tips": [
+      "Dress very modestly covering shoulders, arms, and legs to show respect and avoid unwanted attention",
+      "Stay on main tourist trails and avoid isolated areas, especially with unmarked local guides",
+      "Consider wearing a wedding ring (real or fake) to signal unavailability and respectability",
+      "Book accommodations with good reviews and verified tourist police recommendations",
+      "Join group tours when possible rather than exploring completely alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Petra's main archaeological site closes at sunset for safety reasons, and unauthorized nighttime presence is strictly prohibited with risk of arrest. The official Petra by Night experience offers safe, supervised access on select evenings with security escorts. Wadi Musa town has basic nightlife but limited after-dark activities, with most restaurants and cafes closing early.",
+    "tips": [
+      "Only visit Petra after dark through official Petra by Night tours with proper authorization",
+      "Stay in well-lit central areas of Wadi Musa and avoid walking alone after sunset",
+      "Use ride-sharing apps or hotel-arranged taxis rather than hailing random vehicles",
+      "Keep emergency numbers saved and inform someone of your whereabouts",
+      "Avoid isolated areas and stick to main tourist zones where security presence is maintained"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Jordan. Petra is accessed via Wadi Musa town with no rail connections.",
+    "rideshare": "Uber and Careem operate in major Jordanian cities but have limited presence in Wadi Musa. Local taxi apps like Petra Ride may be available but coverage is inconsistent.",
+    "taxis": "Regular taxis are available but often lack meters outside Amman. Negotiate fares in advance and expect to pay 2-5 JOD for local trips. Hotel-arranged taxis are generally safer and more reliable.",
+    "tips": "JETT buses provide reliable intercity service from Amman to Petra. For airport transfers and day trips, pre-arranged private drivers through hotels offer the most convenience and safety, though costs range from 140-350 USD depending on distance and duration."
+  },
+  "customs": [
+    "Dress modestly with shoulders and knees covered at all times, both men and women",
+    "Remove shoes when entering traditional homes and avoid showing shoe soles",
+    "Accept offered tea or coffee as a sign of respect, even if briefly",
+    "Use right hand for eating, greeting, and passing objects",
+    "Stand when elders enter the room and show deference in conversation"
+  ],
+  "health": {
+    "overview": "Jordan has good healthcare infrastructure with modern hospitals in major cities, though services become limited in rural areas around Petra. Private medical facilities offer high standards but can be expensive for foreigners.",
+    "water": "Bottled water is recommended for drinking. Tap water is generally safe for brushing teeth but may cause stomach upset. Most hotels provide complimentary bottled water.",
+    "vaccinations": "No special vaccinations required for Jordan. Standard travel vaccines (hepatitis A/B, typhoid, routine immunizations) are recommended. Check CDC guidelines before travel.",
+    "altitude": "Petra sits at 800-1000m elevation with hot, dry desert climate. Dehydration and heat exhaustion are primary health risks. Temperatures can exceed 40°C in summer, dropping significantly at night in winter."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "+962 79 550 5755",
+    "usEmbassy": "US Embassy Amman: +962 6 590 6000 (24hr emergency). Due to March 2026 ordered departure, embassy services are limited. US citizens should call +1-202-501-4444 from abroad for assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Petra safe for tourists?",
+      "a": "Petra remains relatively safe for tourists with proper precautions, though the March 2026 US State Department Level 3 advisory recommends reconsidering travel due to regional tensions. The site has strong security measures and tourist police presence, but visitors should stay informed of changing conditions and avoid non-essential travel during current instability."
+    },
+    {
+      "q": "Is Petra safe at night?",
+      "a": "Petra closes at sunset and unauthorized nighttime access is prohibited with arrest risks. The official Petra by Night experience operates on select evenings with security escorts and is generally safe. Wadi Musa town has limited nightlife and visitors should stick to well-lit areas near hotels after dark."
+    },
+    {
+      "q": "Is Petra safe for solo female travelers?",
+      "a": "Solo female travel to Petra requires extra caution but is manageable with proper planning. Dress modestly, stay on main tourist areas, and be very wary of romantic advances or invitations to isolated areas. Consider joining group tours and stay at well-reviewed accommodations with tourist police recommendations."
+    },
+    {
+      "q": "What areas should I avoid in Petra?",
+      "a": "Avoid remote hiking trails without proper guides, unauthorized viewpoints where locals demand fees, and private invitations to caves or isolated areas. The US State Department specifically warns against certain areas of Ma'an Governorate where Petra is located due to terrorism and crime risks."
+    },
+    {
+      "q": "Is it safe to use public transport in Petra?",
+      "a": "Public transport to Petra is limited. JETT buses from Amman are reliable and safe. Local transport around Wadi Musa includes taxis without meters, so negotiate fares upfront. Private drivers arranged through hotels are safest but more expensive. Ride-sharing apps have limited coverage in the area."
+    }
+  ],
+  "relatedCities": [
+    "amman",
+    "aqaba",
+    "dead-sea"
+  ],
+  "_city_id": "petra-jordan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/1280px-Al_Deir_Petra.JPG"
+}

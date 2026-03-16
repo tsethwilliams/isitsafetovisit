@@ -1677,3 +1677,47 @@
 2026-03-16 19:58:21,298 [INFO] Checking alerts for 251 cities
 2026-03-16 19:58:59,806 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-16 19:58:59,843 [INFO] No safety alerts detected
+2026-03-16 23:01:53,460 [INFO] Agent starting — mode: add
+2026-03-16 23:01:53,500 [INFO] Queue has 311 cities, adding 8
+2026-03-16 23:01:53,500 [INFO] Generating new city profile: Petra, Jordan
+2026-03-16 23:03:38,580 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:03:38,893 [INFO] Found Wikipedia image for Petra
+2026-03-16 23:03:38,894 [INFO] Saved city data: petra-jordan
+2026-03-16 23:03:38,897 [INFO] Generating new city profile: Wadi Rum, Jordan
+2026-03-16 23:05:04,352 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:05:04,784 [INFO] Found Wikipedia image for Wadi Rum
+2026-03-16 23:05:04,784 [INFO] Saved city data: wadi-rum-jordan
+2026-03-16 23:05:04,787 [INFO] Generating new city profile: Jerusalem, Israel
+2026-03-16 23:06:43,264 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:06:43,462 [INFO] Found Wikipedia image for Jerusalem
+2026-03-16 23:06:43,463 [INFO] Saved city data: jerusalem-israel
+2026-03-16 23:06:43,466 [INFO] Generating new city profile: Beirut, Lebanon
+2026-03-16 23:07:48,737 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:07:48,994 [INFO] Found Wikipedia image for Beirut
+2026-03-16 23:07:48,995 [INFO] Saved city data: beirut-lebanon
+2026-03-16 23:07:48,998 [INFO] Generating new city profile: Kuwait City, Kuwait
+2026-03-16 23:09:25,983 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:09:26,157 [INFO] Found Wikipedia image for Kuwait City
+2026-03-16 23:09:26,158 [INFO] Saved city data: kuwait-city-kuwait
+2026-03-16 23:09:26,161 [INFO] Generating new city profile: Manama, Bahrain
+2026-03-16 23:10:52,745 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:10:52,972 [INFO] Found Wikipedia image for Manama
+2026-03-16 23:10:52,972 [INFO] Saved city data: manama-bahrain
+2026-03-16 23:10:52,975 [INFO] Generating new city profile: Fez, Morocco
+2026-03-16 23:12:11,110 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:12:11,284 [INFO] Found Wikipedia image for Fez
+2026-03-16 23:12:11,285 [INFO] Saved city data: fez-morocco
+2026-03-16 23:12:11,288 [INFO] Generating new city profile: Chefchaouen, Morocco
+2026-03-16 23:13:41,271 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 23:13:41,643 [INFO] Found Wikipedia image for Chefchaouen
+2026-03-16 23:13:41,644 [INFO] Saved city data: chefchaouen-morocco
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Petra
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Wadi Rum
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Jerusalem
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Beirut
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Kuwait City
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Manama
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Fez
+2026-03-16 23:13:41,676 [INFO] Merged into site data: Chefchaouen
+2026-03-16 23:13:41,729 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-16 23:13:41,757 [INFO] Rebuilt sitemap with 371 URLs (262 cities, 103 countries, 6 static)

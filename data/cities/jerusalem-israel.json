@@ -1,0 +1,169 @@
+{
+  "slug": "jerusalem",
+  "name": "Jerusalem",
+  "country": "Israel",
+  "countryCode": "IL",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 5.9,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 4.0
+  },
+  "summary": "Jerusalem offers rich history and culture but faces significant security challenges with ongoing regional tensions and security incidents. While day-to-day crime is relatively low, the complex political situation requires heightened awareness and preparedness for emergency situations.",
+  "quickVerdict": "Jerusalem remains accessible to tourists but requires careful planning due to heightened security concerns. The US State Department currently advises reconsidering travel to Israel, with specific restrictions in some areas. Tourist zones like the Western Wall and major hotels continue operating, but visitors should stay informed about current conditions, have evacuation plans, and be prepared for potential security restrictions. The city's excellent healthcare system and strong security presence provide important safety infrastructure, but the unpredictable nature of regional tensions means situations can change rapidly.",
+  "neighborhoods": [
+    {
+      "name": "West Jerusalem (City Center)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Main tourist and commercial area with good security presence. Hotels, restaurants, and attractions continue operating normally. Regular police patrols and established emergency procedures."
+    },
+    {
+      "name": "Jewish Quarter (Old City)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic area around Western Wall with heavy security presence. Access may be restricted during security incidents. Tourist police and clear evacuation routes available."
+    },
+    {
+      "name": "Mahane Yehuda Market Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Vibrant market and nightlife district. Well-patrolled area with security checkpoints. Popular with both locals and tourists, offering good situational awareness."
+    },
+    {
+      "name": "East Jerusalem",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Higher tension area with potential for unrest. US Embassy restricts staff travel here. Visitors should exercise extreme caution and consider avoiding non-essential visits."
+    },
+    {
+      "name": "Mount of Olives",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Tourist site with panoramic views but higher security risk. Reports of harassment and theft. Best visited with organized tours during daylight hours only."
+    },
+    {
+      "name": "German Colony/First Station",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Modern, upscale neighborhood with restaurants and cultural venues. Well-maintained area with good lighting and regular foot traffic providing natural security."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Menu Switching Scam",
+      "risk": "medium",
+      "description": "Restaurants show reasonable prices for items like falafel but bring expensive platters without asking. Bill manipulation at restaurants near tourist sites.",
+      "howToAvoid": "Clearly specify what you want to order, confirm prices verbally, and check your receipt carefully before paying. Only pay after receiving the correct item."
+    },
+    {
+      "name": "Red String Blessing Scam",
+      "risk": "medium",
+      "description": "People approach tourists near Western Wall offering to tie red strings and give blessings, then demand payment afterward.",
+      "howToAvoid": "Politely decline any unsolicited religious items or services. Keep walking and don't accept anything you didn't specifically request."
+    },
+    {
+      "name": "Fake Photography Accident",
+      "risk": "high",
+      "description": "Locals ask tourists to take their photo, then deliberately drop the camera and demand compensation for damage while claiming tourist broke it.",
+      "howToAvoid": "Refuse requests to take photos for strangers unless you're completely confident they're genuine tourists. Trust your instincts and walk away if something feels off."
+    },
+    {
+      "name": "ATM Skimming and Assistance",
+      "risk": "high",
+      "description": "Criminals offer help at ATMs to avoid fees while secretly using card skimmers to steal information and watch PIN entry.",
+      "howToAvoid": "Never accept help at ATMs, cover your PIN entry with your hand, and use ATMs inside banks when possible. If card isn't working, go inside the bank for assistance."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Jerusalem is generally considered safe for solo female travelers, with many women reporting feeling comfortable walking around during the day and evening in tourist areas. The strong security presence and low violent crime rates contribute to overall safety. However, the current regional situation requires extra vigilance, and some areas like East Jerusalem should be avoided.",
+    "tips": [
+      "Stay in central accommodations near major tourist areas with good security",
+      "Join group tours or walking tours to meet other travelers and have local guidance",
+      "Dress modestly when visiting religious sites - cover shoulders and knees",
+      "Be aware of cultural differences in Arab-majority areas where you may receive more attention",
+      "Download safety apps and keep emergency numbers handy",
+      "Inform someone of your whereabouts and check in regularly",
+      "Trust your instincts and avoid isolated areas, especially after dark"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Jerusalem at night offers beautiful illuminated sites and active nightlife in certain areas, but requires careful area selection. West Jerusalem, particularly around Mahane Yehuda Market and the city center, has vibrant evening scenes with good security. The Old City becomes very quiet after dark with limited lighting, while some areas should be completely avoided at night.",
+    "tips": [
+      "Stick to well-lit, populated areas like Machane Yehuda Market for nightlife",
+      "The Old City has limited lighting and uneven surfaces - exercise extreme caution",
+      "Use registered taxis or rideshare apps rather than walking long distances",
+      "Stay aware of your surroundings and trust local security guidance",
+      "Keep emergency numbers programmed in your phone",
+      "Inform your hotel of your evening plans and expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "Jerusalem Light Rail operates a single red line from Mount Herzl to Pisgat Ze'ev, passing major tourist sites. Trains run every 6-8 minutes during peak hours. Service stops during Shabbat (Friday evening to Saturday evening). Use Rav Kav cards or mobile apps for payment. Generally safe and reliable with security presence.",
+    "rideshare": "Gett is the main rideshare app in Israel, widely used and reliable. Service may be limited during security incidents or emergency situations. Drivers are generally trustworthy, and the app provides safety features including driver details and trip tracking.",
+    "taxis": "Taxis are abundant but drivers may overcharge tourists. Always insist on using the meter or agree on fare beforehand. Licensed taxis are safer than unlicensed ones. During security situations, taxi availability may be reduced. Expect higher rates during emergencies or high-demand periods.",
+    "tips": "Public transport stops during Shabbat. Keep alternative transportation options available. During security alerts, services may be suspended temporarily. Download offline maps as backup navigation."
+  },
+  "customs": [
+    "Respect religious diversity - Jerusalem is holy to Judaism, Christianity, and Islam",
+    "Dress modestly at religious sites (cover shoulders and knees), men should wear head covering",
+    "Shabbat observance affects city operations from Friday evening to Saturday evening",
+    "Israelis value directness in communication - this is cultural, not rudeness",
+    "Gift-giving often uses multiples of 18 (chai - meaning life in Hebrew)",
+    "Physical contact like handshakes is common, but some Orthodox Jews avoid opposite-gender contact",
+    "Tipping is customary in restaurants (10-15%) and for various services"
+  ],
+  "health": {
+    "overview": "Israel has an excellent healthcare system with modern facilities and well-trained medical professionals. Healthcare quality meets or exceeds Western standards, with 73% of people satisfied with healthcare availability. Jerusalem has several major hospitals including Hadassah Ein Kerem and Shaare Zedek.",
+    "water": "Tap water is safe to drink throughout Jerusalem and Israel. The quality meets international standards and is regularly tested. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations required for travel to Israel. Routine vaccinations (MMR, DPT, flu, etc.) should be up to date. COVID-19 vaccination requirements may apply depending on current policies.",
+    "altitude": "Jerusalem sits at about 760 meters (2,500 feet) above sea level. Most travelers experience no altitude-related issues. Climate is Mediterranean with hot, dry summers and mild winters. Summer temperatures can exceed 30°C (86°F), so stay hydrated."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "101",
+    "fire": "102",
+    "touristPolice": "100 (available in major tourist areas)",
+    "usEmbassy": "US Embassy Jerusalem: +972-2-630-4000 (outside Israel) / 02-630-4000 (within Israel). Embassy Branch Office Tel Aviv also available. Services may be limited during security situations. Register with STEP program for emergency updates."
+  },
+  "faq": [
+    {
+      "q": "Is Jerusalem safe for tourists?",
+      "a": "Jerusalem can be safe for tourists but requires careful planning due to ongoing regional tensions. Tourist areas continue operating with strong security presence, but visitors should stay informed about current conditions and be prepared for potential restrictions or evacuations."
+    },
+    {
+      "q": "Is Jerusalem safe at night?",
+      "a": "Nighttime safety varies significantly by area. West Jerusalem and tourist zones like Mahane Yehuda Market are generally safe with good lighting and security. However, avoid East Jerusalem and isolated areas after dark. The Old City becomes very quiet with limited lighting."
+    },
+    {
+      "q": "Is Jerusalem safe for solo female travelers?",
+      "a": "Solo female travelers generally report feeling safe in Jerusalem's main tourist areas during normal times. The current security situation requires extra precautions, but many women travel successfully by staying in central areas, joining groups, and following security guidance."
+    },
+    {
+      "q": "What areas should I avoid in Jerusalem?",
+      "a": "Currently avoid East Jerusalem due to US Embassy restrictions on staff travel. The Mount of Olives requires caution due to harassment reports. During security incidents, access to Old City areas may be restricted. Stay updated on current conditions and follow official guidance."
+    },
+    {
+      "q": "Is it safe to use public transport in Jerusalem?",
+      "a": "Public transportation is generally safe and reliable under normal circumstances. The light rail has security presence and serves major tourist areas. However, services may be suspended during security incidents. Have backup transportation options and stay informed about service disruptions."
+    }
+  ],
+  "relatedCities": [
+    "tel-aviv",
+    "haifa",
+    "eilat"
+  ],
+  "_city_id": "jerusalem-israel",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%D7%94%D7%9E%D7%A6%D7%95%D7%93%D7%94_%D7%91%D7%9C%D7%99%D7%9C%D7%94.jpg/1280px-%D7%94%D7%9E%D7%A6%D7%95%D7%93%D7%94_%D7%91%D7%9C%D7%99%D7%9C%D7%94.jpg"
+}
