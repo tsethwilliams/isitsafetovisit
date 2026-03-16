@@ -1,0 +1,166 @@
+{
+  "slug": "bishkek",
+  "name": "Bishkek",
+  "country": "Kyrgyzstan",
+  "countryCode": "KG",
+  "region": "Central Asia",
+  "regionSlug": "central-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 6.8,
+    "naturalHazards": 6.8
+  },
+  "summary": "Bishkek is generally safe for tourists with low violent crime rates and friendly locals. The main concerns are petty theft, occasional police corruption, and nighttime safety in poorly lit areas.",
+  "quickVerdict": "Bishkek ranks among the safer capital cities in Central Asia, earning a US State Department Level 1 advisory. While petty crime like pickpocketing occurs, violent crime against tourists is rare. The city has a welcoming atmosphere with helpful locals, though visitors should exercise normal precautions, especially at night and in crowded markets. Infrastructure is improving but some areas have poor lighting after dark.",
+  "neighborhoods": [
+    {
+      "name": "City Center/Ala-Too Square",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Well-patrolled tourist area with good lighting, police presence, and numerous shops and restaurants. Generally very safe during day and reasonably safe at night."
+    },
+    {
+      "name": "Chui Avenue District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Main commercial strip with hotels, restaurants and nightlife. Good lighting and foot traffic make it relatively safe, though some caution needed late at night."
+    },
+    {
+      "name": "Osh Bazaar Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Bustling market area with higher pickpocketing risk due to crowds. Generally safe during daylight hours but avoid carrying valuables and be aware of surroundings."
+    },
+    {
+      "name": "Residential Mikrorayons",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Soviet-era apartment districts that are generally safe but can be confusing to navigate. Well-populated during day but some areas poorly lit at night."
+    },
+    {
+      "name": "Southern Outskirts",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Less developed areas with limited infrastructure and lighting. Exercise extra caution, especially after dark, and use reliable transportation."
+    },
+    {
+      "name": "Industrial Zone",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Poorly lit industrial area with minimal foot traffic and security. Avoid after dark and use caution during day. Not recommended for tourists."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "high",
+      "description": "Unmetered taxis quote inflated prices or take longer routes to increase fares, especially targeting foreign tourists at airports and tourist areas.",
+      "howToAvoid": "Use Yandex Go app for ride-hailing, agree on fare before starting trip, or use airport official taxi services. Ask hotel staff for fare estimates."
+    },
+    {
+      "name": "Phone/Internet Fraud",
+      "risk": "medium",
+      "description": "Scammers impersonate bank employees or law enforcement via phone/WhatsApp, requesting personal information or money transfers for fake security checks.",
+      "howToAvoid": "Never give personal banking information over phone. Hang up and contact your bank directly. Banks never request codes or passwords by phone."
+    },
+    {
+      "name": "Fake Camera Damage",
+      "risk": "low",
+      "description": "Someone asks you to take their photo, then intentionally drops the camera and demands payment for repairs, claiming you broke it.",
+      "howToAvoid": "Politely decline to handle strangers' expensive electronics. If you do help, ensure others witness the camera is already damaged."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Criminals offer help at ATMs to skim your card or observe PIN entry, then drain accounts later. May claim to help avoid bank fees.",
+      "howToAvoid": "Never accept help at ATMs. Cover PIN entry with your hand. Use ATMs inside banks when possible. Check for unusual card readers or devices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bishkek is generally safe for solo female travelers, with many women reporting positive experiences. The city has a moderate level of street harassment compared to other destinations, and locals are typically helpful. However, some caution is needed at night and in certain situations.",
+    "tips": [
+      "Dress modestly, especially outside the city center - cover shoulders and knees to blend in better",
+      "Avoid walking alone at night in poorly lit areas; use Yandex Go or official taxis after dark",
+      "Stay in well-reviewed hostels or hotels in the city center where you can meet other travelers",
+      "Learn basic Russian phrases as English is limited outside tourist areas",
+      "Trust your instincts if someone makes you uncomfortable and don't hesitate to ask for help"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bishkek's nightlife is active but night safety requires some precautions. The city center and main streets are generally well-lit with good foot traffic, but some residential areas and outskirts can be poorly lit with minimal security presence.",
+    "tips": [
+      "Stick to well-lit main streets and avoid poorly lit side streets or empty areas",
+      "Use Yandex Go or official taxis instead of walking long distances at night",
+      "Don't carry large amounts of cash or important documents when going out",
+      "Avoid excessive drinking as there have been reports of muggings near nightclubs",
+      "Travel in groups when possible and let someone know your plans"
+    ]
+  },
+  "transport": {
+    "metro": "Bishkek has no metro system. Public transport consists of buses, trolleybuses, and marshrutkas (minibuses) that operate from 6 AM to 10 PM.",
+    "rideshare": "Yandex Go is the primary ride-hailing app and is generally safe and reliable. Download the app and ensure driver details match before getting in.",
+    "taxis": "Official taxis are available but negotiate fare beforehand. Some corruption exists with unlicensed drivers overcharging tourists.",
+    "tips": "Use 2GIS app for public transport routes. Marshrutkas can be crowded during rush hours. Always carry small bills as drivers rarely have change for large notes."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some restaurants; this is standard practice",
+    "Greet elders first and use respectful titles like 'eje' (older sister) or 'aga' (older brother)",
+    "Accept offers of tea or food graciously - refusing hospitality can be considered rude",
+    "Respect personal space norms which are closer than Western standards - don't take offense",
+    "Show respect at mosques by dressing conservatively and following local customs"
+  ],
+  "health": {
+    "overview": "Healthcare in Bishkek is adequate for basic needs but may not meet Western standards. Private clinics offer better care than public facilities. Most doctors are well-trained but equipment and medicines can be limited.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Locals typically boil water before consumption.",
+    "vaccinations": "Routine vaccinations should be up to date. Consider hepatitis A/B, typhoid, and tick-borne encephalitis depending on activities. Consult a travel medicine clinic before departure.",
+    "altitude": "Bishkek sits at 2,500 feet elevation. Air pollution can be severe in winter months due to heating and vehicle emissions. Consider air quality when planning outdoor activities."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "102",
+    "ambulance": "103",
+    "fire": "101",
+    "touristPolice": "+996 705 009 102 (Issyk-Kul region only, summer season)",
+    "usEmbassy": "US Embassy Bishkek: 171 Prospect Mira, Bishkek 720016, Phone: +996 312 597 000"
+  },
+  "faq": [
+    {
+      "q": "Is Bishkek safe for tourists?",
+      "a": "Yes, Bishkek is generally safe for tourists. It has a US State Department Level 1 advisory (Exercise Normal Precautions) and is considered one of the safer capitals in Central Asia. Violent crime against tourists is rare, though petty theft can occur."
+    },
+    {
+      "q": "Is Bishkek safe at night?",
+      "a": "Bishkek is moderately safe at night in well-lit central areas, but some caution is needed. Stick to main streets, avoid poorly lit residential areas, and use taxis or rideshare apps rather than walking long distances after dark."
+    },
+    {
+      "q": "Is Bishkek safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Bishkek safely. While some harassment may occur, it's generally less severe than in many destinations. Dress modestly, avoid walking alone at night, and stay in well-reviewed accommodation."
+    },
+    {
+      "q": "What areas should I avoid in Bishkek?",
+      "a": "Avoid the industrial zones, poorly lit outskirts, and be cautious around Osh Bazaar due to pickpocketing risk. The southern outskirts have limited infrastructure. Generally avoid any area that feels deserted, especially at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Bishkek?",
+      "a": "Yes, public transport is generally safe though crowded during rush hours. Marshrutkas, buses, and trolleybuses operate reliably. For convenience and safety, many visitors prefer using Yandex Go rideshare app, especially at night."
+    }
+  ],
+  "relatedCities": [
+    "almaty",
+    "tashkent",
+    "astana",
+    "dushanbe",
+    "ashgabat"
+  ],
+  "_city_id": "bishkek-kyrgyzstan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bishkek_City%27s_business_center.jpg/1280px-Bishkek_City%27s_business_center.jpg"
+}

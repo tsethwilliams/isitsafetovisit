@@ -1,0 +1,169 @@
+{
+  "slug": "alula",
+  "name": "AlUla",
+  "country": "Saudi Arabia",
+  "countryCode": "SA",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 5.8,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 5.5,
+    "scamRisk": 5.0,
+    "womensSafety": 5.5,
+    "nightSafety": 6.0,
+    "transport": 4.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "AlUla presents a complex safety picture for tourists, combining low street crime and strong security presence with significant regional security risks. The US State Department currently advises against travel to Saudi Arabia due to missile and drone threats from Iran and Yemen-based Houthis, making this a particularly volatile time for visitors. However, for those who do visit, AlUla itself offers relatively secure tourist experiences with modern infrastructure and dedicated tourism police.",
+  "quickVerdict": "While AlUla is generally safe from street crime and has excellent tourism infrastructure, travelers must weigh serious regional security risks against the destination's cultural and historical appeal. The ongoing US Level 3 travel advisory due to missile threats, combined with strict local laws and cultural restrictions, means this destination requires careful consideration and thorough preparation. Solo female travelers can visit safely but should understand conservative social norms, and all visitors should avoid displays of political dissent or critical social media posts.",
+  "neighborhoods": [
+    {
+      "name": "AlUla Old Town",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The historic center features traditional mud-brick architecture and is well-patrolled by tourist police. Generally safe during daylight hours with shops, cafes and cultural sites, though visitors should dress conservatively and respect local customs. Evening activities are limited but the area becomes lively with cultural events during festivals."
+    },
+    {
+      "name": "Hegra Heritage Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "This UNESCO World Heritage Site is highly secure with controlled access through official tours only. Government-operated shuttle buses provide safe transportation, and the area benefits from extensive security infrastructure. Visitors can only access through pre-booked tours, ensuring controlled and safe experiences."
+    },
+    {
+      "name": "AlJadidah Arts District",
+      "score": 6.0,
+      "class": "caution",
+      "description": "The modern arts and entertainment district offers venues like AlUla on Wheels skating rink and various cultural attractions. Generally safe with good security presence, though visitors should remain aware of their surroundings, especially during evening events and festivals when crowds gather."
+    },
+    {
+      "name": "Ashar Valley Resort Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Home to luxury desert resorts like Our Habitas, this area offers the highest safety standards with private security, controlled access, and premium emergency services. The remote location provides natural security, though this also means limited immediate access to urban emergency services."
+    },
+    {
+      "name": "Winter Park Hub",
+      "score": 5.5,
+      "class": "caution",
+      "description": "The main transportation and tour departure point can become congested during peak tourist season. While generally secure with tourism police presence, the high concentration of tourists makes it important to watch belongings and be aware of surroundings, especially during busy transfer times."
+    },
+    {
+      "name": "Rural Desert Areas",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Remote desert regions outside main tourist zones present risks from extreme weather, lack of mobile coverage, and limited emergency services. Navigation can be challenging even with GPS, and vehicle breakdowns in remote areas pose serious safety risks. Should only be explored with experienced guides and proper preparation."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Camera Damage Scam",
+      "risk": "moderate",
+      "description": "Scammers ask tourists to take their photo, then intentionally drop the camera when it's returned and demand payment for the 'damage'.",
+      "howToAvoid": "Politely decline photo requests from strangers, or if you must help, hold the camera securely and be cautious when returning it. Never agree to pay for 'accidental' damage."
+    },
+    {
+      "name": "Overpriced Desert Tours",
+      "risk": "high",
+      "description": "Unlicensed tour operators offer desert experiences at inflated prices with poor safety standards and may abandon tourists in remote locations.",
+      "howToAvoid": "Only book tours through official Experience AlUla website or verified tour operators. Check credentials and never pay full amounts upfront. Confirm pickup and return arrangements in writing."
+    },
+    {
+      "name": "Fake Taxi Services",
+      "risk": "moderate",
+      "description": "Unlicensed drivers may approach tourists claiming to be taxis and charge inflated rates or take indirect routes to increase fares.",
+      "howToAvoid": "Use official AlUla Taxi service via WhatsApp, pre-arranged hotel transport, or verified ride-hailing apps like Careem. Always confirm pricing before starting the journey."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "low",
+      "description": "Unauthorized money changers may offer attractive rates but use counterfeit currency or hidden fees to defraud tourists.",
+      "howToAvoid": "Only exchange money at official banks, hotel reception desks, or ATMs. Avoid street money changers and always count your money before leaving the exchange point."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to AlUla is possible but requires understanding of conservative Saudi cultural norms and current security situation. While the Kingdom has relaxed many restrictions on women, foreign female tourists still attract attention and should dress modestly. Reports from recent female visitors indicate generally respectful treatment from locals, though the regional security situation adds complexity to travel planning.",
+    "tips": [
+      "Dress conservatively with loose-fitting clothing covering arms and legs; carry a headscarf for religious sites and conservative areas",
+      "Use reputable transportation like official AlUla Taxi service or hotel transfers rather than attempting to walk long distances alone",
+      "Book accommodations at established hotels or resorts rather than budget options, and inform someone of your itinerary regularly",
+      "Be prepared for curious attention as solo female tourists are still uncommon, but maintain confident body language and ignore inappropriate comments",
+      "Avoid walking alone after dark and stick to well-lit tourist areas; consider joining group tours for major attractions like Hegra",
+      "Have emergency contacts readily available and register with your embassy upon arrival in Saudi Arabia"
+    ]
+  },
+  "nightSafety": {
+    "overview": "AlUla offers limited but generally safe nighttime activities, with security focused around major tourist areas and resort zones. The desert location means most activities center around hotels and designated cultural venues, with traditional Saudi hospitality extending to evening hours. However, transportation options become extremely limited after dark, requiring careful planning.",
+    "tips": [
+      "Plan return transportation in advance as taxis and rideshares are scarce late at night; many venues offer shuttle services",
+      "Stick to organized evening activities like AlUla Moments cultural programs or resort-based entertainment rather than wandering independently",
+      "Carry emergency contacts and ensure your phone is fully charged, as mobile coverage can be patchy in remote areas",
+      "Inform hotel staff of evening plans and expected return times, especially if staying in desert resorts",
+      "Avoid alcohol consumption entirely as it's strictly prohibited throughout Saudi Arabia, with severe legal penalties for violations"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in AlUla. The city relies primarily on private vehicles and tourism shuttle services.",
+    "rideshare": "Careem and Uber operate with very limited vehicle availability and long wait times. The official AlUla Taxi service via WhatsApp is more reliable but still requires 15-30 minute wait times.",
+    "taxis": "Official AlUla Taxi operates 24/7 through WhatsApp booking only. Airport taxis are limited and first-come-first-served. Unlicensed taxis exist but should be avoided.",
+    "tips": "Rent a car with an international driving permit for maximum flexibility, as public transport is virtually non-existent. Pre-arrange hotel transfers for airport journeys, and always book transportation well in advance for tours and evening activities."
+  },
+  "customs": [
+    "Dress modestly with long sleeves and pants covering arms and legs; women should carry headscarves for religious areas",
+    "Greet with 'As-salamu alaikum' and accept offers of Arabic coffee and dates as gestures of hospitality",
+    "Remove shoes when entering homes or mosque areas, and avoid pointing with fingers or showing shoe soles",
+    "Use only your right hand for eating, greeting, and passing objects as the left hand is considered unclean",
+    "Respect prayer times when shops may close briefly, and avoid photographing people without permission, especially women",
+    "Never display public affection between couples, avoid political discussions, and maintain respectful behavior during religious observances"
+  ],
+  "health": {
+    "overview": "Healthcare in AlUla is limited to basic services with the main facility being Prince Abdul Mohsen Hospital. More serious medical conditions require evacuation to major cities like Riyadh or Medina.",
+    "water": "Tap water is generally safe but bottled water is recommended. Stay well-hydrated due to desert climate and carry extra water when exploring outdoor sites.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Hepatitis A and B recommended for all travelers. Consult travel clinic 4-6 weeks before departure.",
+    "altitude": "Desert climate with extreme temperature variations. Summer temperatures can exceed 45°C while winter nights may drop to 5°C. Heat exhaustion is a significant risk from June to September. Dust storms occur regularly and can trigger respiratory issues."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "999",
+    "ambulance": "997",
+    "fire": "998",
+    "touristPolice": "Contact through local hotels",
+    "usEmbassy": "US Embassy Riyadh: +966 11 835-4000. Due to current security situation, US government has limited ability to provide emergency services and has ordered non-emergency personnel to leave Saudi Arabia."
+  },
+  "faq": [
+    {
+      "q": "Is AlUla safe for tourists?",
+      "a": "AlUla itself is relatively safe with low crime rates and strong tourism security, but the broader regional security situation is concerning. The US currently advises against travel to Saudi Arabia due to missile and drone threats. Tourists who do visit should stay informed about security developments and be prepared to leave quickly if conditions deteriorate."
+    },
+    {
+      "q": "Is AlUla safe at night?",
+      "a": "Nighttime activities in AlUla are generally safe within designated tourist areas and resort properties. However, transportation options are extremely limited after dark, and the remote desert location means emergency services are far away. Visitors should plan evening activities carefully and arrange return transportation in advance."
+    },
+    {
+      "q": "Is AlUla safe for solo female travelers?",
+      "a": "Solo female travel to AlUla is possible but requires understanding conservative cultural norms and dressing modestly. Recent female visitors report respectful treatment from locals and feeling safe in tourist areas. However, the current regional security situation adds complexity, and women should take extra precautions with transportation and accommodation choices."
+    },
+    {
+      "q": "What areas should I avoid in AlUla?",
+      "a": "Avoid remote desert areas without guides, as navigation is difficult and emergency services are far away. While AlUla town itself is generally safe, be extra cautious in the Winter Park transportation hub during busy periods. Most importantly, stay informed about the broader security situation affecting the entire region."
+    },
+    {
+      "q": "Is it safe to use public transport in AlUla?",
+      "a": "Public transport is virtually non-existent in AlUla. The official AlUla Taxi service via WhatsApp is the most reliable option, though wait times can be long. Rental cars are strongly recommended for independence, while resort shuttles and organized tours provide the safest transportation for major attractions like Hegra."
+    }
+  ],
+  "relatedCities": [
+    "riyadh",
+    "jeddah",
+    "medina",
+    "tabuk",
+    "mecca",
+    "dubai"
+  ],
+  "_city_id": "alula-saudi-arabia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Al_Ula_%286748577917%29.jpg/1280px-Al_Ula_%286748577917%29.jpg"
+}
