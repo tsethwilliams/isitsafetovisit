@@ -1519,3 +1519,7 @@
 2026-03-15 23:12:21,565 [INFO] Merged into site data: Yangon
 2026-03-15 23:12:21,612 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-15 23:12:21,636 [INFO] Rebuilt sitemap with 330 URLs (230 cities, 94 countries, 6 static)
+2026-03-16 05:58:59,252 [INFO] Agent starting — mode: alert
+2026-03-16 05:58:59,327 [INFO] Checking alerts for 228 cities
+2026-03-16 05:59:36,977 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 05:59:37,022 [INFO] No safety alerts detected
