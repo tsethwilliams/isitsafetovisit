@@ -1523,3 +1523,5 @@
 2026-03-16 05:58:59,327 [INFO] Checking alerts for 228 cities
 2026-03-16 05:59:36,977 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-16 05:59:37,022 [INFO] No safety alerts detected
+2026-03-16 07:55:53,808 [INFO] Agent starting — mode: refresh
+2026-03-16 07:55:53,885 [INFO] Found 0 stale cities, refreshing 0
