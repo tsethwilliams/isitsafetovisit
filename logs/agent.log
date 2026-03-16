@@ -1569,3 +1569,7 @@
 2026-03-16 08:13:34,495 [INFO] Merged into site data: Agra
 2026-03-16 08:13:34,544 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-16 08:13:34,570 [INFO] Rebuilt sitemap with 338 URLs (238 cities, 94 countries, 6 static)
+2026-03-16 09:46:13,133 [INFO] Agent starting — mode: alert
+2026-03-16 09:46:13,207 [INFO] Checking alerts for 235 cities
+2026-03-16 09:46:48,326 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 09:46:48,402 [INFO] No safety alerts detected
