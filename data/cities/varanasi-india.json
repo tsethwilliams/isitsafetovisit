@@ -1,0 +1,169 @@
+{
+  "slug": "varanasi",
+  "name": "Varanasi",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 4.5,
+    "womensSafety": 5.8,
+    "nightSafety": 6.2,
+    "transport": 6.8,
+    "naturalHazards": 7.6
+  },
+  "summary": "Varanasi is a sacred city that's generally safe for tourists but requires heightened awareness due to persistent scams and challenges for solo female travelers. The ancient ghats and spiritual atmosphere attract millions of pilgrims and visitors annually, with crime statistics showing low violent crime rates but higher incidents of petty theft and tourist-focused scams.",
+  "quickVerdict": "Varanasi is manageable for most travelers who come prepared, but it's not a destination for passive tourism. The city demands cultural sensitivity, street smarts, and patience. While violent crime against tourists is rare, the combination of intense crowds, persistent touts, and numerous tourist scams means you need to stay alert. Solo female travelers can visit successfully but should take extra precautions, especially after dark. The city's transformation through infrastructure improvements and increased security makes it more accessible than in previous years, but the fundamental intensity remains unchanged.",
+  "neighborhoods": [
+    {
+      "name": "Assi Ghat Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist-friendly area with cafes, guesthouses, and a more relaxed atmosphere. Well-connected to main roads and popular with backpackers and international visitors."
+    },
+    {
+      "name": "Dashashwamedh Ghat",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The main ghat with constant activity and security presence. Safe during the day but can be overwhelming. Heavy police presence during evening Aarti ceremonies."
+    },
+    {
+      "name": "Cantonment Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern area near airport and railway station with wider roads, hotels, and better infrastructure. Quieter and more westernized than the old city."
+    },
+    {
+      "name": "Old City Lanes",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Narrow, maze-like alleys that are fascinating but challenging to navigate. Easy to get lost and vulnerable to scams. Best explored with a guide during daytime."
+    },
+    {
+      "name": "Manikarnika Ghat",
+      "score": 5.8,
+      "class": "caution",
+      "description": "The main cremation ghat where photography scams and donation demands are common. Culturally significant but requires respectful behavior and firm boundaries with touts."
+    },
+    {
+      "name": "Remote Ghats After Dark",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Isolated areas along the riverfront that become deserted after evening activities end. Poor lighting and lack of security presence make these areas risky for solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Holy Men Blessing Scam",
+      "risk": "high",
+      "description": "Men dressed as priests or sadhus approach tourists, perform unsolicited blessings or place tilaka on foreheads, then aggressively demand large donations for services never requested.",
+      "howToAvoid": "Politely but firmly say 'No thank you' and keep walking. Do not allow anyone to perform rituals on you unless you initiate it. Genuine religious figures don't demand payment."
+    },
+    {
+      "name": "Boat Ride Overcharging",
+      "risk": "high",
+      "description": "Boatmen quote inflated prices for Ganga rides, claim special features or exclusive views, or add hidden charges during the trip. Some quote per-person rates as total boat costs.",
+      "howToAvoid": "Research standard rates beforehand. Agree on total price, duration, and what's included before boarding. Use official boat services or pre-book with reputable operators."
+    },
+    {
+      "name": "Cremation Ghat Donation Fraud",
+      "risk": "medium",
+      "description": "Touts at Manikarnika Ghat claim to collect money for wood for poor families' cremations or run fake hospices, showing emotional stories to extract donations.",
+      "howToAvoid": "Decline all donation requests from unofficial sources. If you want to help, donate through established charities. Real cremation costs are handled by families, not tourists."
+    },
+    {
+      "name": "Silk Shop Commission Scam",
+      "risk": "medium",
+      "description": "Drivers or fake guides insist on taking you to 'government-approved' silk shops where prices are inflated 3-5x normal rates. The guide receives hefty commissions from purchases.",
+      "howToAvoid": "Shop independently at established markets. Refuse guided shopping trips. Research fair prices beforehand and don't buy anything on your first day."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Varanasi is challenging but manageable for solo female travelers who come prepared. The city has low rates of violent crime against tourists, but cultural sensitivity and street awareness are essential. Many women travel here successfully, particularly those who stay in tourist-friendly areas, dress modestly, and avoid isolated situations after dark. The intense spiritual atmosphere and crowded conditions require mental preparation, but the experience can be deeply rewarding for those who approach it with the right mindset.",
+    "tips": [
+      "Stay in well-reviewed accommodations near Assi Ghat or Dashashwamedh areas with other travelers around",
+      "Dress modestly covering shoulders and knees - loose, conservative clothing significantly reduces unwanted attention",
+      "Avoid walking alone in narrow lanes or remote ghats after 9 PM - use rickshaws or taxis for evening transport",
+      "Use women's compartments on trains and women-only queues where available",
+      "Trust your instincts - if a situation feels uncomfortable, return to your hotel or find a crowded public space"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Varanasi's nighttime safety varies dramatically by location and time. The main ghats remain reasonably safe until 10 PM due to evening activities and crowds, but become isolated afterward. Well-lit areas like Assi Ghat road and the Cantonment maintain better security throughout the night. However, the narrow maze-like lanes of the old city become challenging to navigate and less safe after dark. About 61% of visitors report feeling secure at night in populated areas, but caution increases significantly in quieter zones.",
+    "tips": [
+      "Stay on main roads and well-lit areas after dark - avoid narrow lanes where you can easily get lost",
+      "Plan your evening activities around the Ganga Aarti which ends around 8-9 PM, then head back to your accommodation",
+      "Use auto-rickshaws or pre-booked taxis for transport after sunset rather than walking alone",
+      "Keep emergency contacts and accommodation details easily accessible on your phone",
+      "If attending late evening events, travel in groups or with trusted guides who know the area well"
+    ]
+  },
+  "transport": {
+    "metro": "Varanasi has no metro system. The city relies on surface transport including buses, auto-rickshaws, and taxis.",
+    "rideshare": "Uber and Ola operate in Varanasi with mixed reliability. App-based services work well for airport transfers and longer distances but can be challenging in narrow old city lanes where vehicles cannot reach. Ola Auto provides auto-rickshaw services through the app.",
+    "taxis": "Private taxis and cab services are widely available. Pre-paid taxi counters at the airport and railway station offer transparent pricing. Local operators like Chiku Cab and Varanasi Cab provide reliable services with fixed rates. Always agree on fares beforehand for non-metered rides.",
+    "tips": "Auto-rickshaws are the most practical transport for city center navigation. E-rickshaws are environmentally friendly and widely available. For airport transfers, use pre-paid counters or pre-book with reputable services. Avoid negotiating with unknown drivers on the spot - prices can be inflated 3-5 times normal rates."
+  },
+  "customs": [
+    "Remove shoes before entering temples, homes, and some shops - follow your host's example",
+    "Use your right hand for eating, greeting, and giving/receiving items - left hand is considered unclean",
+    "Greet people with 'Namaste' (palms together near chest with slight bow) rather than handshakes, especially with women",
+    "Dress modestly covering shoulders and knees, particularly in religious areas and the old city",
+    "Show respect to elders and religious figures - avoid pointing feet toward people or religious objects",
+    "Don't touch someone's head, even children, as it's considered sacred in Hindu culture",
+    "Accept offered tea or water when visiting homes or shops as refusing can seem impolite",
+    "Avoid public displays of affection - even holding hands can draw unwanted attention"
+  ],
+  "health": {
+    "overview": "Varanasi has adequate healthcare facilities for basic needs, with several quality hospitals and clinics available. However, air pollution levels are concerning, often reaching unhealthy to hazardous levels. The city's location on the Ganges presents water quality challenges, and travelers should be cautious with street food and water consumption. Medical facilities are concentrated in the main city area.",
+    "water": "Don't drink tap water or use it for brushing teeth. Stick to sealed bottled water or properly purified water. Avoid ice in drinks unless from reputable establishments. The Ganges water is not safe for consumption despite its religious significance.",
+    "vaccinations": "Standard travel vaccinations recommended: Hepatitis A & B, Typhoid, Japanese Encephalitis (if staying long-term), and ensure routine vaccines are up-to-date. Consult a travel medicine clinic 4-6 weeks before departure.",
+    "altitude": "Varanasi is at low altitude (80m above sea level) so no altitude concerns. However, air pollution can be severe, especially October-February. Bring face masks and consider air purifiers for accommodation. Hot, humid summers require heat illness precautions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101",
+    "touristPolice": "1363",
+    "usEmbassy": "US Consulate General Mumbai: +91-22-2672-4000 (closest to Varanasi). US Embassy New Delhi: +91-11-2419-8000. Emergency After-Hours: +91-11-2419-8000."
+  },
+  "faq": [
+    {
+      "q": "Is Varanasi safe for tourists?",
+      "a": "Yes, Varanasi is generally safe for tourists who take basic precautions. Violent crime against visitors is rare, but petty theft and tourist scams are common. The city requires cultural sensitivity and street awareness rather than physical safety concerns."
+    },
+    {
+      "q": "Is Varanasi safe at night?",
+      "a": "Varanasi is reasonably safe at night in well-populated areas like main ghats and roads, but becomes riskier in narrow lanes and isolated areas after 10 PM. About 61% of visitors feel secure at night in busy zones, but it's best to use transportation after dark."
+    },
+    {
+      "q": "Is Varanasi safe for solo female travelers?",
+      "a": "Varanasi is manageable for solo female travelers who dress modestly, stay in tourist-friendly areas, and avoid isolated situations after dark. Many women visit successfully, particularly those who book with organized tours or stay near other travelers."
+    },
+    {
+      "q": "What areas should I avoid in Varanasi?",
+      "a": "Avoid narrow, unmarked lanes in the old city after dark, remote ghats when empty, and isolated areas away from the main tourist circuit. The cremation ghat area requires cultural sensitivity and firm boundaries with touts demanding donations."
+    },
+    {
+      "q": "Is it safe to use public transport in Varanasi?",
+      "a": "Auto-rickshaws and e-rickshaws are generally safe and widely used. App-based services like Uber and Ola work well for longer distances. Always agree on fares beforehand or use metered services. Pre-book transportation for airport transfers to avoid overcharging."
+    }
+  ],
+  "relatedCities": [
+    "delhi",
+    "mumbai",
+    "kolkata",
+    "jaipur",
+    "agra"
+  ],
+  "_city_id": "varanasi-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg/1280px-Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg"
+}

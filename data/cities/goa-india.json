@@ -1,0 +1,166 @@
+{
+  "slug": "goa",
+  "name": "Goa",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 6.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Goa is generally safer than many other Indian destinations but requires standard precautions due to tourist-focused crimes and scams. Recent years have seen increases in crime rates including a rise in serious offenses, though tourist areas maintain relatively good safety standards.",
+  "quickVerdict": "Goa remains one of India's safer destinations for tourists, with its tourism-dependent economy creating incentives for maintaining security. However, visitors should exercise moderate caution due to petty crime, taxi scams, and occasional serious incidents. The state has good healthcare facilities and emergency services, though monsoon flooding can occur. Solo female travelers can visit safely with proper precautions, and nightlife areas like Baga and Anjuna have reasonable security despite some risks.",
+  "neighborhoods": [
+    {
+      "name": "South Goa (Palolem, Agonda, Colva)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "More peaceful and family-friendly areas with lower crime rates. Palolem and Agonda offer tranquil beaches with good safety records, while Colva provides a balance of amenities and security."
+    },
+    {
+      "name": "Panaji (Old Goa)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The capital city with good police presence, government buildings, and tourist infrastructure. Historic Old Goa area is well-patrolled and generally safe for visitors exploring churches and monuments."
+    },
+    {
+      "name": "Calangute and Candolim",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular tourist beaches with decent safety during the day but increased petty crime and harassment, especially targeting tourists. Good infrastructure but crowded conditions can facilitate pickpocketing."
+    },
+    {
+      "name": "Baga and Arpora",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Major nightlife hub with Tito's Lane and numerous clubs. Higher crime rates at night, drug-related activities, and tourist-targeted scams. Solo female travelers should exercise extra caution after dark."
+    },
+    {
+      "name": "Anjuna and Vagator",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Party destinations known for trance music scenes and nightlife. Higher drug-related crime, theft from beach huts, and occasional serious incidents. Popular with backpackers but requires vigilance."
+    },
+    {
+      "name": "Interior Villages and Remote Areas",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Less developed areas with limited police presence, poor lighting, and potential for getting lost. During monsoon season, flooding and landslides can occur. Avoid traveling alone at night in these areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Taxi drivers quote inflated fares, claim broken meters, or take longer routes. Some refuse to use meters and negotiate high fixed prices, especially at airports and tourist areas.",
+      "howToAvoid": "Use app-based services like GoaMiles when available, agree on fares before getting in, carry small change to avoid 'no change' scams, and ask hotels for typical fare estimates."
+    },
+    {
+      "name": "Gem and Jewelry Scam",
+      "risk": "high",
+      "description": "Friendly strangers offer to help you buy 'precious' gems at cheap prices with promises of huge profits when resold abroad. Later, fake customs officers demand payment of non-existent fines.",
+      "howToAvoid": "Never buy expensive items from strangers or unlicensed dealers. Only purchase gems and jewelry from certified, reputable stores with proper documentation."
+    },
+    {
+      "name": "Fake Party Tickets",
+      "risk": "medium",
+      "description": "Scammers sell fake tickets for popular New Year events, beach parties, or club nights. Tickets may be for non-existent events or greatly inflated prices for free events.",
+      "howToAvoid": "Buy tickets only from official venues, verified websites, or established ticketing platforms. Be wary of street vendors selling 'exclusive' event access."
+    },
+    {
+      "name": "Rental Vehicle Damage Claims",
+      "risk": "medium",
+      "description": "Rental agencies claim pre-existing damage was caused by the renter, or police stop tourists riding illegally rented vehicles without proper commercial licenses (white plates instead of yellow).",
+      "howToAvoid": "Take photos/videos of rental vehicles before use, check that scooters have yellow plates with black numbers (commercial license), verify insurance and registration documents, and use only licensed rental agencies."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Goa is considered one of India's safer destinations for solo female travelers, with its tourism-friendly environment and relatively liberal culture. However, women should still exercise standard precautions, particularly regarding nightlife, accommodation security, and beach safety. The state has dedicated women's police services and helplines available.",
+    "tips": [
+      "Stay in well-reviewed accommodations with good security, preferably concrete structures rather than bamboo beach huts",
+      "Avoid walking alone on beaches or isolated areas after dark, especially during off-season when fewer people are around",
+      "Use women-only compartments on public transport and consider female-driven taxi services when available",
+      "Keep emergency numbers handy including Women's Helpline (1091) and local police contacts",
+      "Dress modestly when away from beach areas and respect local customs to avoid unwanted attention"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Goa's nightlife safety varies significantly by location, with popular areas like Baga and Anjuna having better security but higher crime rates. Most clubs and bars have security, but traveling between venues and returning to accommodation can present risks. Police patrol main tourist areas, but remote locations have minimal coverage after dark.",
+    "tips": [
+      "Stick to well-lit, popular areas with good crowds and avoid isolated beaches or lanes at night",
+      "Travel in groups when possible and pre-arrange transportation for late-night returns",
+      "Keep drinks covered and never leave them unattended; be cautious of accepting drinks from strangers",
+      "Carry minimal cash and valuables, and keep emergency contacts readily accessible",
+      "Inform someone of your plans and expected return time when going out for the evening"
+    ]
+  },
+  "transport": {
+    "metro": "Goa does not have a metro system. Public transportation relies primarily on buses operated by Kadamba Transport Corporation (KTC), which connect major towns but can be crowded and have limited late-night services.",
+    "rideshare": "Uber is not fully operational in Goa. Local alternatives include GoaMiles (government-backed app) and Goa Taxi App, though availability can be limited during peak seasons. Traditional taxis are widely available but require negotiation.",
+    "taxis": "Official taxis are available at airports, hotels, and tourist areas. Many don't use meters despite regulations. Expect higher fares during peak season and at night. Prepaid taxi counters at airports offer more transparent pricing.",
+    "tips": "Rent a scooter (ensure yellow license plates) for maximum mobility but always wear helmets and carry valid licenses. App-based services like GoaMiles are safer than street taxis but have limited coverage. Agree on fares before starting journeys."
+  },
+  "customs": [
+    "Greet with 'Namaste' (palms together) rather than handshakes, especially with older people and women",
+    "Remove shoes before entering homes, temples, and some restaurants; look for shoe piles outside as indicators",
+    "Use your right hand for eating, giving money, and passing items; the left hand is considered unclean for these activities",
+    "Dress modestly when visiting religious sites, covering shoulders and knees; women may need to cover their heads in some temples",
+    "Show respect to elders and religious figures; avoid pointing feet toward people or religious items"
+  ],
+  "health": {
+    "overview": "Goa has relatively good healthcare infrastructure with several quality hospitals and medical facilities, though standards vary between urban and rural areas. The state has both government and private healthcare options, with private facilities generally offering better services for tourists.",
+    "water": "Tap water is not safe for drinking. Use bottled water, which is widely available, or water purification tablets. Ice in drinks at reputable establishments is usually safe, but exercise caution at local vendors.",
+    "vaccinations": "No specific vaccinations required, but hepatitis A and B, typhoid, and Japanese encephalitis are recommended. Ensure routine vaccinations (measles, mumps, rubella, polio, tetanus-diphtheria) are up to date. Consult healthcare provider before travel.",
+    "altitude": "Goa is at sea level with tropical climate. Main health concerns are heat exhaustion, dehydration, and monsoon-related issues. Sun protection is essential. Monsoon season (June-September) brings high humidity and potential waterborne diseases."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "108/102",
+    "fire": "101",
+    "touristPolice": "1364 (Tourism Helpline)",
+    "usEmbassy": "US Consulate Mumbai: +91-22-2672-4000 (covers Goa region). Emergency American Citizen Services: +91-22-2672-4000. Address: C-49, G Block, Bandra Kurla Complex, Mumbai 400051"
+  },
+  "faq": [
+    {
+      "q": "Is Goa safe for tourists?",
+      "a": "Yes, Goa is generally one of India's safer tourist destinations. The state's tourism-dependent economy creates incentives for maintaining security. However, petty crime, scams, and occasional serious incidents do occur, so standard travel precautions are necessary."
+    },
+    {
+      "q": "Is Goa safe at night?",
+      "a": "Goa's night safety varies by location. Popular areas like Baga and major beach towns have decent security, but isolated areas and remote beaches can be risky. Travel in groups, stick to well-lit areas, and arrange transportation in advance for late nights."
+    },
+    {
+      "q": "Is Goa safe for solo female travelers?",
+      "a": "Goa is considered among India's safer destinations for solo women, but caution is still needed. Choose secure accommodation, avoid isolated areas at night, use reputable transport, and keep emergency contacts handy. Women-only transport options are available in some areas."
+    },
+    {
+      "q": "What areas should I avoid in Goa?",
+      "a": "Exercise extra caution in remote interior villages, isolated beaches at night, and areas with poor lighting. Anjuna and Vagator have higher crime rates due to party scenes. During monsoon season, avoid flood-prone low-lying areas and unstable coastal regions."
+    },
+    {
+      "q": "Is it safe to use public transport in Goa?",
+      "a": "Public buses are generally safe during daylight hours but can be crowded. For taxis, use app-based services like GoaMiles when possible, or negotiate fares beforehand. Renting a scooter is popular but requires proper licenses and safety gear, plus awareness of traffic conditions."
+    }
+  ],
+  "relatedCities": [
+    "mumbai",
+    "bangalore",
+    "delhi",
+    "kolkata",
+    "chennai"
+  ],
+  "_city_id": "goa-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1280px-BeachFun.jpg"
+}

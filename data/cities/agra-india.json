@@ -1,0 +1,166 @@
+{
+  "slug": "agra",
+  "name": "Agra",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 4.8,
+    "womensSafety": 6.0,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 7.3
+  },
+  "summary": "Agra is generally safe for tourists but requires vigilance against common scams targeting visitors to the Taj Mahal. The city experiences moderate petty crime levels and occasional air quality issues, while violent crime against tourists remains relatively rare.",
+  "quickVerdict": "Agra offers a manageable safety environment for tourists visiting the iconic Taj Mahal and other Mughal monuments. While serious violent crime against visitors is uncommon, travelers should be prepared for persistent touts, overcharging, and sophisticated scams particularly around major attractions. The city's well-established tourism infrastructure provides good transport options and security at major sites, though air pollution can be concerning. With proper precautions and awareness of common tourist scams, most visitors can enjoy Agra's historical treasures safely.",
+  "neighborhoods": [
+    {
+      "name": "Taj Ganj",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist-focused area near the Taj Mahal with heavy security presence, numerous hotels, and established tourism infrastructure. Generally safe during daylight hours with regular police patrols."
+    },
+    {
+      "name": "Sadar Bazaar",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Busy commercial and shopping district popular with tourists. Higher concentration of touts and pickpockets, especially crowded during evening hours. Exercise caution with valuables."
+    },
+    {
+      "name": "Agra Fort Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Well-maintained heritage zone with good security around the UNESCO World Heritage site. Tourist police presence and established visitor facilities make it relatively safe for exploration."
+    },
+    {
+      "name": "Fatehabad Road",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern hotel and restaurant district favored by tourists. Generally safe with good infrastructure, though traffic can be chaotic. Well-lit areas with security at major establishments."
+    },
+    {
+      "name": "Civil Lines",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Administrative area with government offices and residential neighborhoods. Quieter than tourist zones but less police presence. Safe during daytime but avoid isolated areas after dark."
+    },
+    {
+      "name": "Lohamandi",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Industrial area with higher crime rates and fewer tourist facilities. Not recommended for visitors, especially at night. Limited police presence and poor lighting in many sections."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taj Mahal Guides",
+      "risk": "high",
+      "description": "Unofficial guides approach tourists claiming to be government-certified, often wearing fake IDs and uniforms. They provide incorrect information and charge inflated fees.",
+      "howToAvoid": "Only hire guides from official Archaeological Survey of India counters. Ask to see genuine ASI-issued identification and verify rates at official ticket offices before agreeing to services."
+    },
+    {
+      "name": "Counterfeit Ticket Sales",
+      "risk": "high",
+      "description": "Scammers outside monuments sell fake or reused tickets claiming to offer fast-track entry or discounts. Tourists discover the fraud only when trying to enter.",
+      "howToAvoid": "Purchase tickets exclusively from official ASI counters or the verified government website. Never buy tickets from street vendors or individuals approaching you outside attractions."
+    },
+    {
+      "name": "Marble Workshop Commission Scam",
+      "risk": "medium",
+      "description": "Taxi drivers and guides take tourists to marble workshops claiming to show authentic Taj Mahal craftsmanship, earning commissions on overpriced fake marble products.",
+      "howToAvoid": "Decline unsolicited workshop visits. If interested in marble crafts, research genuine government-approved stores independently. Be wary of high-pressure sales tactics."
+    },
+    {
+      "name": "Hotel Closure Lies",
+      "risk": "medium",
+      "description": "Transport drivers claim your pre-booked hotel is closed, full, or of poor quality, then suggest alternative accommodations where they receive kickbacks.",
+      "howToAvoid": "Contact your hotel directly if told it's unavailable. Use GPS navigation to verify your original destination. Insist on being taken to your confirmed booking regardless of driver suggestions."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Agra requires extra precautions but is manageable with proper planning. The city has established tourist infrastructure and many women travel here successfully, though conservative dress and behavior are essential. Tourist areas have reasonable security, but harassment from touts and unwanted male attention can be persistent.",
+    "tips": [
+      "Dress modestly with covered shoulders and knees, especially near religious sites",
+      "Use women-only sections in public transport when available",
+      "Book accommodations in tourist areas like Taj Ganj with good reviews and security",
+      "Avoid isolated areas after sunset and stick to well-lit main roads",
+      "Carry emergency contact numbers and consider traveling with organized tours for major attractions"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Agra's nightlife is limited but the city offers some evening activities including sound and light shows, rooftop dining, and night viewing of the Taj Mahal on full moon nights. Most tourist areas are reasonably safe in early evening hours, though caution is advised after 10 PM when streets become quieter.",
+    "tips": [
+      "Stay in tourist-concentrated areas like Taj Ganj and Fatehabad Road after dark",
+      "Use reputable taxi services or hotel transport rather than walking at night",
+      "Book night viewing of Taj Mahal through official channels only",
+      "Avoid isolated areas and deserted streets, especially near industrial zones",
+      "End evening activities by 10 PM when local transport becomes less frequent"
+    ]
+  },
+  "transport": {
+    "metro": "Agra does not have a metro system. Public buses are available but not recommended for tourists due to overcrowding and lack of clear route information.",
+    "rideshare": "Uber and Ola operate in Agra with generally reliable service. Both apps provide upfront pricing and GPS tracking. Particularly useful for airport transfers and moving between tourist sites.",
+    "taxis": "Prepaid taxi counters at railway stations and airport offer fixed rates. Private taxi operators are numerous but negotiate fares in advance. Auto-rickshaws are common but insist on meter use or agree on price beforehand.",
+    "tips": "Use app-based services or pre-booked hotel transport for best safety and reliability. Avoid accepting rides from drivers who approach you at tourist sites. Keep small denomination cash for local transport."
+  },
+  "customs": [
+    "Greet people with 'Namaste' by joining palms together rather than handshakes",
+    "Remove shoes before entering homes, temples, and some traditional shops",
+    "Dress modestly covering shoulders and knees, especially in religious areas",
+    "Use your right hand for eating, giving, and receiving items",
+    "Show respect to elders by greeting them first and avoiding pointing feet toward them"
+  ],
+  "health": {
+    "overview": "Agra has adequate medical facilities for tourists with several private hospitals and clinics. The main health concerns are air pollution, foodborne illnesses from street food, and respiratory issues during winter months when air quality deteriorates significantly.",
+    "water": "Drink only bottled water from sealed containers or water that has been properly filtered and boiled. Most hotels provide complimentary bottled water. Avoid ice in drinks unless from reputable establishments.",
+    "vaccinations": "Routine vaccines should be up to date. Consider hepatitis A and B, typhoid, and Japanese encephalitis vaccines. Consult a travel doctor 4-6 weeks before departure for personalized recommendations.",
+    "altitude": "Agra sits at low elevation (171m) so altitude sickness is not a concern. Climate can be extremely hot in summer (reaching 45°C) requiring heat precautions, while winter air pollution can affect those with respiratory conditions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101",
+    "touristPolice": "9454402764",
+    "usEmbassy": "US Consulate General Mumbai: +91-22-2672-4000 (Mumbai office covers Agra jurisdiction). US Embassy New Delhi: +91-11-2419-8000. For emergencies involving US citizens: +91-11-2419-8000."
+  },
+  "faq": [
+    {
+      "q": "Is Agra safe for tourists?",
+      "a": "Agra is generally safe for tourists with proper precautions. The main risks are petty theft and tourist scams rather than violent crime. Major attractions have good security, but remain vigilant against overcharging and fake guides."
+    },
+    {
+      "q": "Is Agra safe at night?",
+      "a": "Agra has limited nightlife but tourist areas are reasonably safe in early evening. Avoid walking alone after 10 PM and stick to well-lit main areas. Use hotel transport or reputable taxi services for night travel."
+    },
+    {
+      "q": "Is Agra safe for solo female travelers?",
+      "a": "Solo female travel in Agra requires extra caution but is manageable. Dress modestly, stay in tourist areas, use women-only transport sections when available, and avoid isolated areas after dark. Many women visit successfully with proper planning."
+    },
+    {
+      "q": "What areas should I avoid in Agra?",
+      "a": "Avoid the Lohamandi industrial area, especially at night. Stay away from isolated areas outside main tourist zones after dark. Be particularly cautious in crowded markets where pickpocketing is more common."
+    },
+    {
+      "q": "Is it safe to use public transport in Agra?",
+      "a": "Public buses are not recommended for tourists due to overcrowding and confusion. Use app-based taxis like Uber/Ola, prepaid taxi services, or hotel-arranged transport for better safety and convenience."
+    }
+  ],
+  "relatedCities": [
+    "delhi",
+    "jaipur",
+    "varanasi",
+    "lucknow",
+    "kolkata"
+  ],
+  "_city_id": "agra-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1280px-Taj_Mahal%2C_Agra%2C_India.jpg"
+}

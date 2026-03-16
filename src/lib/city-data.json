@@ -37672,6 +37672,1328 @@
         "ho-chi-minh-city"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/500px-ShwedagonPagoda.jpg"
+    },
+    {
+      "slug": "bagan",
+      "name": "Bagan",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "region": "Southeast Asia",
+      "regionSlug": "southeast-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 2.8,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Exercise Caution",
+      "badgeClass": "danger",
+      "scores": {
+        "pettyCrime": 4.0,
+        "violentCrime": 3.5,
+        "scamRisk": 3.0,
+        "womensSafety": 2.5,
+        "nightSafety": 2.0,
+        "transport": 2.5,
+        "naturalHazards": 2.0
+      },
+      "summary": "Bagan, while home to magnificent ancient temples, faces significant safety challenges due to Myanmar's ongoing civil unrest and military rule. The US State Department maintains a Level 4 Do Not Travel advisory for the entire country, citing armed conflict, arbitrary detentions, poor healthcare, and landmines.",
+      "quickVerdict": "While Bagan remains within the relatively safer 'Tourist Kite' zone alongside Yangon and Mandalay, travel here requires extreme caution due to Myanmar's volatile political situation. Infrastructure damage from the devastating March 2025 earthquake that struck central Myanmar has further complicated safety conditions. The temple complex itself sees low violent crime, but systemic risks including healthcare collapse, transportation disruptions, and potential for sudden conflict escalation make this a high-risk destination requiring careful consideration and local guidance.",
+      "neighborhoods": [
+        {
+          "name": "Old Bagan Archaeological Zone",
+          "score": 4.5,
+          "class": "caution",
+          "description": "The historic temple complex is generally secure with some police presence, though basic medical facilities and transportation disruptions from recent earthquakes pose concerns. Most tourist activity centers here with guided tours recommended."
+        },
+        {
+          "name": "New Bagan",
+          "score": 3.5,
+          "class": "caution",
+          "description": "Modern hotel and restaurant area with better infrastructure than Old Bagan, but still affected by nationwide power outages and limited emergency services. Safest area for accommodation with international hotels."
+        },
+        {
+          "name": "Nyaung-U",
+          "score": 3.0,
+          "class": "caution",
+          "description": "Main town with airport, markets, and budget accommodations. More local atmosphere but higher risk of scams targeting tourists. Transportation hub affected by earthquake damage to regional infrastructure."
+        },
+        {
+          "name": "Mandalay Road Area",
+          "score": 2.5,
+          "class": "danger",
+          "description": "Commercial and transport corridor with military checkpoints. Increased security presence due to ongoing conflict in region. Road conditions deteriorated following March 2025 earthquake damage."
+        },
+        {
+          "name": "Rural Temple Areas",
+          "score": 2.0,
+          "class": "danger",
+          "description": "Remote temple sites accessible by e-bike or horse cart. Risk of unexploded ordnance and limited emergency access. Several temples sustained damage in recent earthquakes. Travel only with experienced guides."
+        },
+        {
+          "name": "Irrawaddy Riverside",
+          "score": 2.5,
+          "class": "danger",
+          "description": "Sunset viewing spots and boat launch areas. Flooding risks during monsoon season and limited rescue capabilities. Some infrastructure damage from seismic activity affecting bridge connections."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Temple Entry Tickets",
+          "risk": "high",
+          "description": "Scammers set up fake ticket booths outside temples claiming individual entrance fees are required for each temple, when only one Archaeological Zone pass is needed.",
+          "howToAvoid": "Purchase your official Bagan Archaeological Zone ticket only from the authorized booth at the airport, official hotels, or designated entry points. Never buy tickets from individuals outside temples."
+        },
+        {
+          "name": "Shoe Guardian Scam",
+          "risk": "medium",
+          "description": "Locals offer to watch your shoes while you visit temples barefoot, then demand payment or purchases from nearby shops when you return.",
+          "howToAvoid": "Politely decline offers to watch your shoes. Bring a bag to carry your footwear inside temples or leave them with your official guide only."
+        },
+        {
+          "name": "E-bike Rental Damage Claims",
+          "risk": "high",
+          "description": "Rental shops charge tourists extra fees for alleged damages to e-bikes, often claiming scratches that may have existed before rental.",
+          "howToAvoid": "Document any existing damage with photos before renting. Choose reputable rental shops recommended by your hotel. Consider guided tours instead of independent rentals."
+        },
+        {
+          "name": "Money Exchange Manipulation",
+          "risk": "high",
+          "description": "Street money changers use sleight of hand to reduce the amount of kyat given, often involving multiple people and rubber bands around note bundles.",
+          "howToAvoid": "Only exchange money at banks, official exchange counters, or reputable hotels. Count money carefully before accepting any bundle. Avoid street exchanges entirely."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel to Bagan is particularly challenging given Myanmar's deteriorating security situation and limited legal protections for women. The ongoing civil conflict has reduced police effectiveness, and cultural conservatism combined with political instability creates elevated risks for women traveling alone.",
+        "tips": [
+          "Travel only with reputable tour companies and never venture out alone after dark",
+          "Dress extremely conservatively covering shoulders and knees at all times, especially at religious sites",
+          "Stay in internationally-branded hotels with 24-hour security rather than guesthouses",
+          "Maintain constant communication with someone at home and register with your embassy",
+          "Carry emergency contact numbers and avoid isolated temple areas without guides"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety in Bagan is severely compromised by military curfews, power outages, and limited emergency services. The earthquake damage has further reduced lighting and infrastructure reliability, making night travel extremely hazardous.",
+        "tips": [
+          "Return to your accommodation well before any imposed curfew times which can change without notice",
+          "Carry flashlights and backup power sources as electricity is unreliable",
+          "Avoid all outdoor activities after dark including temple visits or riverside areas",
+          "Stay within your hotel compound after sunset and use hotel transport only if absolutely necessary"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Bagan. Public transportation is limited to buses and shared taxis, both unreliable and potentially unsafe.",
+        "rideshare": "No international rideshare services like Uber operate. Grab has limited presence but service is inconsistent due to infrastructure issues.",
+        "taxis": "Local taxis lack safety features and meters are often manipulated. Road conditions have deteriorated following earthquake damage. Always negotiate rates upfront and verify driver credentials.",
+        "tips": "Use hotel-arranged transportation whenever possible. For temple visits, hire reputable guides with vehicles. Avoid motorbike taxis and always wear helmets if using e-bikes. Check road conditions daily as earthquake damage affects routes."
+      },
+      "customs": [
+        "Remove shoes and socks before entering any temple grounds, even extensive areas like the Bagan Archaeological Zone",
+        "Show extreme respect to Buddhist monks - women must never touch monks or their belongings, and all should avoid pointing feet toward monks",
+        "Walk clockwise around pagodas and always keep religious sites to your right when circumnavigating",
+        "Never point feet toward Buddha images or religious objects, sit with feet tucked under when in temples",
+        "Use both hands when giving or receiving items, gifts, or business cards as a sign of respect",
+        "Avoid public displays of affection as Myanmar remains culturally conservative",
+        "Never touch anyone's head, including children, as it is considered the most sacred part of the body"
+      ],
+      "health": {
+        "overview": "Healthcare in Bagan and Myanmar generally is severely compromised following the 2021 coup and recent earthquake damage. Medical facilities are limited and often lack basic supplies, with many hospitals closing or operating at reduced capacity.",
+        "water": "Tap water is unsafe to drink. Use only bottled or properly filtered water for drinking, brushing teeth, and ice. Many areas lack clean water access following earthquake damage to infrastructure.",
+        "vaccinations": "Ensure routine vaccinations are current including MMR, tetanus, and polio. Consider hepatitis A/B, Japanese encephalitis, and typhoid. Malaria prophylaxis may be recommended depending on season and specific areas visited.",
+        "altitude": "Bagan sits in Myanmar's central dry zone with hot, humid conditions. Heat-related illness is common with temperatures often exceeding 40°C (104°F). The March 2025 earthquake occurred during hot season when over 1,470 people died from heat-related causes in Mandalay region alone."
+      },
+      "emergency": {
+        "general": "199",
+        "police": "199",
+        "ambulance": "192",
+        "fire": "191",
+        "touristPolice": "067-414224 (Regional)",
+        "usEmbassy": "US Embassy Rangoon: +95-1-753-6509 (after hours emergencies). Note: Limited consular services available due to security situation. US government assistance may be severely restricted."
+      },
+      "faq": [
+        {
+          "q": "Is Bagan safe for tourists?",
+          "a": "Bagan faces significant safety challenges due to Myanmar's ongoing civil unrest, military rule, and recent earthquake damage. While it remains in the relatively safer 'Tourist Kite' zone, the US State Department maintains a Level 4 Do Not Travel advisory for all of Myanmar. Travel requires extreme caution and local guidance."
+        },
+        {
+          "q": "Is Bagan safe at night?",
+          "a": "No, Bagan is not safe at night. Military curfews, power outages from earthquake damage, and limited emergency services make nighttime travel extremely hazardous. Visitors should return to accommodations before dark and remain in hotel compounds after sunset."
+        },
+        {
+          "q": "Is Bagan safe for solo female travelers?",
+          "a": "Solo female travel to Bagan is not recommended due to Myanmar's deteriorating security situation, limited legal protections for women, and reduced police effectiveness. Women face elevated risks from both the ongoing conflict and cultural conservatism."
+        },
+        {
+          "q": "What areas should I avoid in Bagan?",
+          "a": "Avoid remote temple areas without guides, rural zones away from main tourist sites, areas near military installations, and anywhere after dark. The Irrawaddy riverside areas and Mandalay Road corridor have increased security risks. Be aware that unexploded ordnance may exist in some areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Bagan?",
+          "a": "Public transport in Bagan is unreliable and potentially unsafe. Road conditions have deteriorated following earthquake damage, and vehicles often lack safety features. Use hotel-arranged transportation or reputable tour companies instead of local buses or shared taxis."
+        }
+      ],
+      "relatedCities": [
+        "yangon",
+        "mandalay",
+        "inle-lake",
+        "naypyidaw"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/1280px-Bagan%2C_Burma.jpg"
+    },
+    {
+      "slug": "new-delhi",
+      "name": "New Delhi",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 6.0,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.8,
+        "scamRisk": 4.2,
+        "womensSafety": 5.2,
+        "nightSafety": 5.7,
+        "transport": 7.5,
+        "naturalHazards": 7.3
+      },
+      "summary": "New Delhi is India's bustling capital where vibrant history meets modern chaos. While violent crime against tourists is uncommon, petty crime, scams, and safety concerns for solo female travelers require vigilance. Crime rates have decreased significantly in 2025, with Delhi Police reporting improvements across major offense categories.",
+      "quickVerdict": "New Delhi requires street smarts but rewards prepared travelers with incredible experiences. The city has made notable security improvements in 2025, but travelers should remain alert to common scams, especially near tourist areas and transport hubs. The extensive metro system and ride-hailing apps provide safe transportation options. Solo female travelers need extra caution, particularly at night. Most safety concerns are preventable with basic awareness and following local advice.",
+      "neighborhoods": [
+        {
+          "name": "South Delhi (Hauz Khas, Khan Market)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale residential and commercial area popular with expats and young professionals. Well-lit streets, good security presence, and plenty of cafes and restaurants. The metro connectivity is excellent and it's generally safe even at night."
+        },
+        {
+          "name": "Connaught Place & Central Delhi",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The commercial heart of Delhi with good police presence and CCTV coverage. While generally safe during the day, tourists should be wary of touts and scammers. Avoid isolated areas after dark."
+        },
+        {
+          "name": "New Delhi (Lutyens' Delhi)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Government quarter with embassy areas, India Gate, and official buildings. High security presence and well-maintained infrastructure make it one of the safest areas in Delhi, even for evening walks."
+        },
+        {
+          "name": "Karol Bagh & Paharganj",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Budget accommodation area near New Delhi Railway Station. Heavy tourist traffic attracts touts and scammers. Streets can be crowded and chaotic, with persistent hawkers. Exercise caution with belongings."
+        },
+        {
+          "name": "Old Delhi (Chandni Chowk)",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Historic walled city with narrow lanes and bustling markets. Generally safe during daylight hours but can be overwhelming. Watch for pickpockets in crowded areas and be prepared for intense street life."
+        },
+        {
+          "name": "Outer Delhi & Industrial Areas",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Areas like East Delhi, parts of North Delhi, and industrial zones have higher crime rates and fewer tourist facilities. Limited police presence and poor infrastructure make these areas best avoided, especially after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Tourist Office Scam",
+          "risk": "high",
+          "description": "Taxi drivers claim your hotel is closed/full and take you to fake government tourist offices that sell overpriced tours and accommodation. Often involves fake phone calls to confirm the story.",
+          "howToAvoid": "Never believe claims about your hotel being closed. Call your hotel directly to verify. Ignore anyone offering to take you to tourist information centers. Book transport through official pre-paid counters or apps."
+        },
+        {
+          "name": "Railway Station Tout Scam",
+          "risk": "high",
+          "description": "Fake officials at railway stations claim the foreigners' booking office has moved or is closed, directing you to fake travel agencies that overcharge for train tickets or sell invalid tickets.",
+          "howToAvoid": "The foreign tourist quota office at New Delhi station is open 24/7 on the first floor. Walk confidently inside and ignore anyone who approaches to 'help' you. Bring your passport for tourist quota tickets."
+        },
+        {
+          "name": "Overcharging and Commission Scams",
+          "risk": "medium",
+          "description": "Auto drivers and friendly locals take you to shops, restaurants, or services where they earn commission, resulting in inflated prices. Includes the gem buying scam where fake stones are sold at high prices.",
+          "howToAvoid": "Use ride-hailing apps like Uber or Ola to avoid haggling. Be wary of overly friendly strangers who want to take you shopping. Research prices beforehand and shop at fixed-price stores when possible."
+        },
+        {
+          "name": "Street Service Scams",
+          "risk": "low",
+          "description": "Ear cleaners, shoe shiners, or vendors provide unsolicited services then demand payment. Often involves fake demonstrations like showing you 'wax' from your ear that wasn't actually there.",
+          "howToAvoid": "Firmly decline unsolicited services. Don't allow anyone to touch you or your belongings without explicit permission. If someone provides a service despite your refusal, you're not obligated to pay."
+        }
+      ],
+      "soloFemale": {
+        "overview": "New Delhi presents moderate challenges for solo female travelers, requiring heightened awareness and precautions. While thousands of women visit safely, incidents of harassment and inappropriate behavior are reported. The US State Department specifically advises women to observe strict security precautions when traveling alone in India. Daytime exploration is generally manageable with proper preparation, but evening activities require extra caution.",
+        "tips": [
+          "Dress modestly covering shoulders and legs, especially in Old Delhi and religious sites",
+          "Use women-only metro compartments during peak hours - they're marked in pink",
+          "Stay in well-reviewed accommodations in safe neighborhoods like South Delhi",
+          "Avoid isolated areas after dark and use trusted transport apps rather than walking alone",
+          "Be prepared for frequent staring and potential harassment - maintain confident body language",
+          "Keep emergency contacts handy and inform someone of your daily plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Delhi's nighttime safety varies significantly by area and activity. Well-lit commercial areas in South Delhi and Connaught Place maintain reasonable safety levels until around 10-11 PM, while areas like Paharganj and parts of Old Delhi become riskier after dark. The city has an active nightlife scene, but travelers should stick to established venues and avoid walking alone in unfamiliar areas after midnight.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid shortcuts through dark alleys or parks",
+          "Use ride-hailing apps rather than walking or hailing random taxis after 10 PM",
+          "Stay in groups when possible and inform someone of your nighttime plans",
+          "Choose reputable bars and clubs in safe neighborhoods like Hauz Khas Village or Connaught Place",
+          "Keep valuables secure and avoid displaying expensive items or large amounts of cash",
+          "Have emergency numbers saved and ensure your phone is charged before going out"
+        ]
+      },
+      "transport": {
+        "metro": "Delhi Metro is excellent - modern, efficient, and safe with over 350km of network connecting most tourist areas. Has women-only compartments during peak hours and operates 6 AM to 11 PM. Purchase smart cards at stations for convenience. Generally very safe and affordable.",
+        "rideshare": "Uber and Ola are widely available, safe, and eliminate haggling. Require Indian phone number to book. Track your ride and share location with contacts. Both offer auto-rickshaw and car options. More expensive than local transport but much safer and more reliable for tourists.",
+        "taxis": "Pre-paid taxi counters at airport and railway stations are safer than street taxis. Regular taxis often don't use meters and require negotiation. Private car hire through hotels is safer for day trips. Always agree on fare before departure unless using apps.",
+        "tips": "Delhi Metro is your best option for most journeys. For short distances, use Uber/Ola rather than negotiating with auto drivers. Avoid overcrowded buses. Traffic is chaotic so allow extra time. Women should use metro's pink line women-only coaches during rush hours."
+      },
+      "customs": [
+        "Greet with 'Namaste' (hands pressed together) rather than handshakes, especially with women and elders",
+        "Remove shoes before entering homes, temples, and some restaurants - follow others' lead",
+        "Use only your right hand for eating, passing items, and greeting - left hand is considered unclean",
+        "Dress modestly covering shoulders and knees, especially in religious sites and Old Delhi",
+        "Avoid public displays of affection - even holding hands can attract negative attention",
+        "Show respect for elders and never touch anyone's head, including children"
+      ],
+      "health": {
+        "overview": "Delhi faces significant health challenges including severe air pollution, water quality issues, and seasonal disease outbreaks. The city has good private healthcare facilities but air pollution remains a major concern, especially during winter months when AQI levels can reach hazardous levels.",
+        "water": "Tap water is not safe to drink. Use bottled water from reputable brands and check seals carefully. Avoid ice in drinks unless from reliable sources. Street food requires caution - choose busy stalls with high turnover and avoid raw foods.",
+        "vaccinations": "Routine vaccinations should be up-to-date. Consider Hepatitis A, Hepatitis B, Japanese Encephalitis, and Typhoid. Malaria risk is low in Delhi itself but consider prophylaxis if traveling to other parts of India. Consult travel clinic 4-6 weeks before travel.",
+        "altitude": "Delhi is at sea level so no altitude concerns. Climate is extremely hot in summer (up to 45°C) and can be very polluted in winter. Monsoon season (July-September) brings flooding risks. Air quality is worst October-February, requiring masks and limiting outdoor activities."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "102 or 108",
+        "fire": "101",
+        "touristPolice": "1363",
+        "usEmbassy": "US Embassy Delhi: +91-11-2672-2000, Consular Section: +91-11-2672-2000 (24/7 emergency line). Located at Shantipath, Chanakyapuri, New Delhi. Provides emergency assistance, passport services, and citizen welfare."
+      },
+      "faq": [
+        {
+          "q": "Is New Delhi safe for tourists?",
+          "a": "New Delhi is moderately safe for tourists who take proper precautions. Violent crime against tourists is uncommon, but petty crime, scams, and harassment can occur. Stay alert, use common sense, and follow local advice to have a safe visit."
+        },
+        {
+          "q": "Is New Delhi safe at night?",
+          "a": "Delhi has areas that are reasonably safe at night, particularly South Delhi and Connaught Place until around 10-11 PM. However, avoid walking alone after dark, stick to well-lit populated areas, and use ride-hailing apps for transport. Solo female travelers should be especially cautious."
+        },
+        {
+          "q": "Is New Delhi safe for solo female travelers?",
+          "a": "Solo female travel to Delhi requires extra precautions. Dress modestly, use women-only metro compartments, avoid isolated areas especially after dark, and stay in safe neighborhoods. Many women visit successfully, but harassment and inappropriate behavior are concerns that require vigilance."
+        },
+        {
+          "q": "What areas should I avoid in New Delhi?",
+          "a": "Avoid outer Delhi and industrial areas, especially at night. Be cautious in Paharganj (budget accommodation area) due to touts and scams. While Old Delhi is worth visiting during the day, its narrow lanes can be overwhelming. Stick to well-established tourist areas and follow local advice."
+        },
+        {
+          "q": "Is it safe to use public transport in New Delhi?",
+          "a": "Delhi Metro is very safe, modern, and reliable - it's the best way to get around the city. It has women-only compartments during peak hours. Avoid overcrowded buses. For shorter trips, use Uber or Ola rather than negotiating with auto-rickshaw drivers to avoid overcharging and ensure safety."
+        }
+      ],
+      "relatedCities": [
+        "mumbai",
+        "kolkata",
+        "chennai"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg"
+    },
+    {
+      "slug": "goa",
+      "name": "Goa",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 6.4,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.5,
+        "scamRisk": 5.0,
+        "womensSafety": 6.5,
+        "nightSafety": 6.0,
+        "transport": 6.5,
+        "naturalHazards": 8.5
+      },
+      "summary": "Goa is generally safer than many other Indian destinations but requires standard precautions due to tourist-focused crimes and scams. Recent years have seen increases in crime rates including a rise in serious offenses, though tourist areas maintain relatively good safety standards.",
+      "quickVerdict": "Goa remains one of India's safer destinations for tourists, with its tourism-dependent economy creating incentives for maintaining security. However, visitors should exercise moderate caution due to petty crime, taxi scams, and occasional serious incidents. The state has good healthcare facilities and emergency services, though monsoon flooding can occur. Solo female travelers can visit safely with proper precautions, and nightlife areas like Baga and Anjuna have reasonable security despite some risks.",
+      "neighborhoods": [
+        {
+          "name": "South Goa (Palolem, Agonda, Colva)",
+          "score": 8.0,
+          "class": "safe",
+          "description": "More peaceful and family-friendly areas with lower crime rates. Palolem and Agonda offer tranquil beaches with good safety records, while Colva provides a balance of amenities and security."
+        },
+        {
+          "name": "Panaji (Old Goa)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The capital city with good police presence, government buildings, and tourist infrastructure. Historic Old Goa area is well-patrolled and generally safe for visitors exploring churches and monuments."
+        },
+        {
+          "name": "Calangute and Candolim",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Popular tourist beaches with decent safety during the day but increased petty crime and harassment, especially targeting tourists. Good infrastructure but crowded conditions can facilitate pickpocketing."
+        },
+        {
+          "name": "Baga and Arpora",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Major nightlife hub with Tito's Lane and numerous clubs. Higher crime rates at night, drug-related activities, and tourist-targeted scams. Solo female travelers should exercise extra caution after dark."
+        },
+        {
+          "name": "Anjuna and Vagator",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Party destinations known for trance music scenes and nightlife. Higher drug-related crime, theft from beach huts, and occasional serious incidents. Popular with backpackers but requires vigilance."
+        },
+        {
+          "name": "Interior Villages and Remote Areas",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Less developed areas with limited police presence, poor lighting, and potential for getting lost. During monsoon season, flooding and landslides can occur. Avoid traveling alone at night in these areas."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Taxi drivers quote inflated fares, claim broken meters, or take longer routes. Some refuse to use meters and negotiate high fixed prices, especially at airports and tourist areas.",
+          "howToAvoid": "Use app-based services like GoaMiles when available, agree on fares before getting in, carry small change to avoid 'no change' scams, and ask hotels for typical fare estimates."
+        },
+        {
+          "name": "Gem and Jewelry Scam",
+          "risk": "high",
+          "description": "Friendly strangers offer to help you buy 'precious' gems at cheap prices with promises of huge profits when resold abroad. Later, fake customs officers demand payment of non-existent fines.",
+          "howToAvoid": "Never buy expensive items from strangers or unlicensed dealers. Only purchase gems and jewelry from certified, reputable stores with proper documentation."
+        },
+        {
+          "name": "Fake Party Tickets",
+          "risk": "medium",
+          "description": "Scammers sell fake tickets for popular New Year events, beach parties, or club nights. Tickets may be for non-existent events or greatly inflated prices for free events.",
+          "howToAvoid": "Buy tickets only from official venues, verified websites, or established ticketing platforms. Be wary of street vendors selling 'exclusive' event access."
+        },
+        {
+          "name": "Rental Vehicle Damage Claims",
+          "risk": "medium",
+          "description": "Rental agencies claim pre-existing damage was caused by the renter, or police stop tourists riding illegally rented vehicles without proper commercial licenses (white plates instead of yellow).",
+          "howToAvoid": "Take photos/videos of rental vehicles before use, check that scooters have yellow plates with black numbers (commercial license), verify insurance and registration documents, and use only licensed rental agencies."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Goa is considered one of India's safer destinations for solo female travelers, with its tourism-friendly environment and relatively liberal culture. However, women should still exercise standard precautions, particularly regarding nightlife, accommodation security, and beach safety. The state has dedicated women's police services and helplines available.",
+        "tips": [
+          "Stay in well-reviewed accommodations with good security, preferably concrete structures rather than bamboo beach huts",
+          "Avoid walking alone on beaches or isolated areas after dark, especially during off-season when fewer people are around",
+          "Use women-only compartments on public transport and consider female-driven taxi services when available",
+          "Keep emergency numbers handy including Women's Helpline (1091) and local police contacts",
+          "Dress modestly when away from beach areas and respect local customs to avoid unwanted attention"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Goa's nightlife safety varies significantly by location, with popular areas like Baga and Anjuna having better security but higher crime rates. Most clubs and bars have security, but traveling between venues and returning to accommodation can present risks. Police patrol main tourist areas, but remote locations have minimal coverage after dark.",
+        "tips": [
+          "Stick to well-lit, popular areas with good crowds and avoid isolated beaches or lanes at night",
+          "Travel in groups when possible and pre-arrange transportation for late-night returns",
+          "Keep drinks covered and never leave them unattended; be cautious of accepting drinks from strangers",
+          "Carry minimal cash and valuables, and keep emergency contacts readily accessible",
+          "Inform someone of your plans and expected return time when going out for the evening"
+        ]
+      },
+      "transport": {
+        "metro": "Goa does not have a metro system. Public transportation relies primarily on buses operated by Kadamba Transport Corporation (KTC), which connect major towns but can be crowded and have limited late-night services.",
+        "rideshare": "Uber is not fully operational in Goa. Local alternatives include GoaMiles (government-backed app) and Goa Taxi App, though availability can be limited during peak seasons. Traditional taxis are widely available but require negotiation.",
+        "taxis": "Official taxis are available at airports, hotels, and tourist areas. Many don't use meters despite regulations. Expect higher fares during peak season and at night. Prepaid taxi counters at airports offer more transparent pricing.",
+        "tips": "Rent a scooter (ensure yellow license plates) for maximum mobility but always wear helmets and carry valid licenses. App-based services like GoaMiles are safer than street taxis but have limited coverage. Agree on fares before starting journeys."
+      },
+      "customs": [
+        "Greet with 'Namaste' (palms together) rather than handshakes, especially with older people and women",
+        "Remove shoes before entering homes, temples, and some restaurants; look for shoe piles outside as indicators",
+        "Use your right hand for eating, giving money, and passing items; the left hand is considered unclean for these activities",
+        "Dress modestly when visiting religious sites, covering shoulders and knees; women may need to cover their heads in some temples",
+        "Show respect to elders and religious figures; avoid pointing feet toward people or religious items"
+      ],
+      "health": {
+        "overview": "Goa has relatively good healthcare infrastructure with several quality hospitals and medical facilities, though standards vary between urban and rural areas. The state has both government and private healthcare options, with private facilities generally offering better services for tourists.",
+        "water": "Tap water is not safe for drinking. Use bottled water, which is widely available, or water purification tablets. Ice in drinks at reputable establishments is usually safe, but exercise caution at local vendors.",
+        "vaccinations": "No specific vaccinations required, but hepatitis A and B, typhoid, and Japanese encephalitis are recommended. Ensure routine vaccinations (measles, mumps, rubella, polio, tetanus-diphtheria) are up to date. Consult healthcare provider before travel.",
+        "altitude": "Goa is at sea level with tropical climate. Main health concerns are heat exhaustion, dehydration, and monsoon-related issues. Sun protection is essential. Monsoon season (June-September) brings high humidity and potential waterborne diseases."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "108/102",
+        "fire": "101",
+        "touristPolice": "1364 (Tourism Helpline)",
+        "usEmbassy": "US Consulate Mumbai: +91-22-2672-4000 (covers Goa region). Emergency American Citizen Services: +91-22-2672-4000. Address: C-49, G Block, Bandra Kurla Complex, Mumbai 400051"
+      },
+      "faq": [
+        {
+          "q": "Is Goa safe for tourists?",
+          "a": "Yes, Goa is generally one of India's safer tourist destinations. The state's tourism-dependent economy creates incentives for maintaining security. However, petty crime, scams, and occasional serious incidents do occur, so standard travel precautions are necessary."
+        },
+        {
+          "q": "Is Goa safe at night?",
+          "a": "Goa's night safety varies by location. Popular areas like Baga and major beach towns have decent security, but isolated areas and remote beaches can be risky. Travel in groups, stick to well-lit areas, and arrange transportation in advance for late nights."
+        },
+        {
+          "q": "Is Goa safe for solo female travelers?",
+          "a": "Goa is considered among India's safer destinations for solo women, but caution is still needed. Choose secure accommodation, avoid isolated areas at night, use reputable transport, and keep emergency contacts handy. Women-only transport options are available in some areas."
+        },
+        {
+          "q": "What areas should I avoid in Goa?",
+          "a": "Exercise extra caution in remote interior villages, isolated beaches at night, and areas with poor lighting. Anjuna and Vagator have higher crime rates due to party scenes. During monsoon season, avoid flood-prone low-lying areas and unstable coastal regions."
+        },
+        {
+          "q": "Is it safe to use public transport in Goa?",
+          "a": "Public buses are generally safe during daylight hours but can be crowded. For taxis, use app-based services like GoaMiles when possible, or negotiate fares beforehand. Renting a scooter is popular but requires proper licenses and safety gear, plus awareness of traffic conditions."
+        }
+      ],
+      "relatedCities": [
+        "mumbai",
+        "bangalore",
+        "delhi",
+        "kolkata",
+        "chennai"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1280px-BeachFun.jpg"
+    },
+    {
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 6.5,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 8.3,
+        "scamRisk": 4.0,
+        "womensSafety": 6.0,
+        "nightSafety": 6.5,
+        "transport": 7.0,
+        "naturalHazards": 8.0
+      },
+      "summary": "Jaipur, India's Pink City, is generally safe for tourists with excellent hospitality and well-developed tourism infrastructure. While violent crime against tourists is rare, visitors should be aware of common tourist scams and exercise standard precautions, especially regarding gem shops and overcharging.",
+      "quickVerdict": "Jaipur is a moderately safe destination for tourists, ranking as the second safest city in India according to the 2025 Numbeo Safety Index. The main concerns are tourist-targeted scams rather than violent crime, which is uncommon. The city has strong tourism infrastructure, helpful locals, and good emergency services. Solo female travelers can visit safely with proper precautions, though evening caution is advised. The biggest risks involve gem and jewelry scams, overcharging, and fake tourist guides rather than serious safety threats.",
+      "neighborhoods": [
+        {
+          "name": "C-Scheme",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern commercial area with hotels, restaurants, and nightlife. Well-policed with good infrastructure and considered safe for tourists day and night."
+        },
+        {
+          "name": "Civil Lines",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Upscale residential and commercial area near many attractions. Safe for solo travelers with good accommodations and transport connections."
+        },
+        {
+          "name": "Old City (Pink City)",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Historic center with major attractions like Hawa Mahal and City Palace. Generally safe but crowded with higher risk of pickpocketing and tourist scams."
+        },
+        {
+          "name": "Bani Park",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Budget accommodation area popular with backpackers. Relatively safe but can be crowded with some street harassment reported."
+        },
+        {
+          "name": "Malviya Nagar",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Residential area with shopping centers and restaurants. Good for families and considered safe with modern amenities."
+        },
+        {
+          "name": "Sanganer",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Industrial area near the airport. Less tourist-friendly with limited infrastructure, best visited during daytime only."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Gem Export Scam",
+          "risk": "high",
+          "description": "Friendly locals befriend tourists over several days, then convince them to buy expensive gems or carpets claiming they can resell them abroad for profit. The gems are worthless and no export market exists.",
+          "howToAvoid": "Never buy expensive items from strangers or shops recommended by new friends. Only purchase gems from certified dealers with proper documentation and return policies."
+        },
+        {
+          "name": "Fake Tourist Guide",
+          "risk": "high",
+          "description": "Unofficial guides at monuments claim government approval and charge inflated rates. They often lead tourists to commission-earning shops instead of providing genuine tours.",
+          "howToAvoid": "Only use official government-approved guides who wear official badges. Check rates posted at monument entrances and book tours through official channels."
+        },
+        {
+          "name": "Hotel Closed Scam",
+          "risk": "medium",
+          "description": "Taxi drivers claim your pre-booked hotel is closed, flooded, or condemned, offering to take you to a better one where they earn commission. The original hotel is usually fine.",
+          "howToAvoid": "Always call your hotel directly to confirm. Insist on going to your booked accommodation first before considering alternatives."
+        },
+        {
+          "name": "Overpriced Transport",
+          "risk": "medium",
+          "description": "Auto-rickshaw and taxi drivers quote inflated fares, claiming broken meters or refusing to use them, especially targeting foreign tourists.",
+          "howToAvoid": "Use app-based services like Uber or Ola for transparent pricing. For auto-rickshaws, agree on the fare before starting and know approximate local rates."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Jaipur is relatively safe for solo female travelers compared to other Indian cities, with many women visiting successfully each year. The city ranks as safe for solo female travel in tourist areas, though standard precautions are necessary. Local hospitality is strong and tourist police presence has increased at major sites.",
+        "tips": [
+          "Dress modestly covering shoulders and knees, especially at religious sites",
+          "Avoid isolated areas after dark and stick to well-lit, populated streets",
+          "Use women-only train compartments and registered transport services",
+          "Stay in reputable accommodations in safe areas like C-Scheme or Civil Lines",
+          "Be confident and assertive when dealing with touts or unwanted attention"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Jaipur's nightlife is generally safe with many venues operating until midnight. The city has active nightlife in areas like C-Scheme and MI Road with good security at clubs and restaurants. However, isolated areas should be avoided after dark and transport should be pre-arranged.",
+        "tips": [
+          "Stick to popular nightlife areas like C-Scheme with good lighting and crowds",
+          "Use reliable transport like Uber or pre-booked taxis rather than walking alone",
+          "Visit well-established venues with security rather than unknown bars"
+        ]
+      },
+      "transport": {
+        "metro": "Jaipur has a modern but limited metro system operating 6:30 AM to 9:30 PM. It connects some city areas but doesn't reach major tourist sites like Amber Fort. The metro is safe, clean, and affordable at 10-30 rupees per trip.",
+        "rideshare": "Uber and Ola operate widely in Jaipur with good safety features including GPS tracking, driver profiles, and cashless payments. Both offer cars and bike taxis with transparent pricing. Response times are generally good in main areas.",
+        "taxis": "Official taxis are available but negotiate fares in advance as meters may not be used. App-based services are recommended for safety and transparent pricing. Private taxi hire for day trips is common and generally reliable.",
+        "tips": "App-based transport is the safest option with tracking and fixed pricing. For auto-rickshaws, agree on fares beforehand. Metro is efficient for limited routes. Avoid unlicensed vehicles and always check driver credentials."
+      },
+      "customs": [
+        "Remove shoes before entering temples, mosques, and homes as a sign of respect",
+        "Dress modestly with covered shoulders and knees, especially at religious sites",
+        "Use 'Namaste' greeting with palms pressed together rather than handshakes",
+        "Eat with your right hand only; left hand is considered unclean for food",
+        "Avoid public displays of affection as they are culturally inappropriate",
+        "Take permission before photographing people or religious sites",
+        "Bargaining is expected in markets but should be done politely and respectfully"
+      ],
+      "health": {
+        "overview": "Jaipur has good healthcare facilities in urban areas with both government and private hospitals available. Medical care is generally affordable with English-speaking staff. However, rural areas have limited facilities.",
+        "water": "Tap water is not safe to drink. Use bottled or boiled water for drinking and brushing teeth. Avoid ice unless made from safe water. Many hotels provide filtered water.",
+        "vaccinations": "Recommended vaccines include Hepatitis A and B, Typhoid, and Japanese Encephalitis. Consult a travel doctor 4-6 weeks before departure. Routine vaccinations should be up to date.",
+        "altitude": "Jaipur is at low altitude with no altitude concerns. Climate is hot and dry with intense summer heat (up to 45°C). Monsoon season brings humidity and risk of waterborne diseases."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "touristPolice": "Available at major tourist sites",
+        "usEmbassy": "US Embassy New Delhi: +91-11-2419-8000 (24-hour emergency line). Consulates in Chennai, Hyderabad, Kolkata, and Mumbai also available."
+      },
+      "faq": [
+        {
+          "q": "Is Jaipur safe for tourists?",
+          "a": "Yes, Jaipur is generally safe for tourists and ranks as India's second safest city. Violent crime against tourists is rare, though visitors should be aware of common scams and exercise standard precautions. The city has good tourism infrastructure and helpful locals."
+        },
+        {
+          "q": "Is Jaipur safe at night?",
+          "a": "Jaipur is moderately safe at night in well-lit, populated areas like C-Scheme and MI Road. Many restaurants and bars operate until midnight with security. However, avoid isolated areas after dark and use reliable transport rather than walking alone."
+        },
+        {
+          "q": "Is Jaipur safe for solo female travelers?",
+          "a": "Yes, Jaipur is relatively safe for solo female travelers with proper precautions. Many women visit successfully each year. Dress modestly, avoid isolated areas at night, use women-only transport compartments, and stay in reputable accommodations in safe areas."
+        },
+        {
+          "q": "What areas should I avoid in Jaipur?",
+          "a": "While most of Jaipur is safe, be extra cautious in crowded areas of the Old City where pickpocketing can occur. Avoid isolated areas after dark and be wary of gem shops and unofficial guides near major tourist sites. Industrial areas like parts of Sanganer are less tourist-friendly."
+        },
+        {
+          "q": "Is it safe to use public transport in Jaipur?",
+          "a": "Yes, public transport is generally safe. The metro is modern and secure, while app-based services like Uber and Ola offer tracked, cashless rides. Government buses are basic but safe. For auto-rickshaws, agree on fares in advance and consider using app-based booking for transparency."
+        }
+      ],
+      "relatedCities": [
+        "delhi",
+        "mumbai",
+        "chennai",
+        "kolkata",
+        "bangalore"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/1280px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
+    },
+    {
+      "slug": "varanasi",
+      "name": "Varanasi",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 6.5,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 4.5,
+        "womensSafety": 5.8,
+        "nightSafety": 6.2,
+        "transport": 6.8,
+        "naturalHazards": 7.6
+      },
+      "summary": "Varanasi is a sacred city that's generally safe for tourists but requires heightened awareness due to persistent scams and challenges for solo female travelers. The ancient ghats and spiritual atmosphere attract millions of pilgrims and visitors annually, with crime statistics showing low violent crime rates but higher incidents of petty theft and tourist-focused scams.",
+      "quickVerdict": "Varanasi is manageable for most travelers who come prepared, but it's not a destination for passive tourism. The city demands cultural sensitivity, street smarts, and patience. While violent crime against tourists is rare, the combination of intense crowds, persistent touts, and numerous tourist scams means you need to stay alert. Solo female travelers can visit successfully but should take extra precautions, especially after dark. The city's transformation through infrastructure improvements and increased security makes it more accessible than in previous years, but the fundamental intensity remains unchanged.",
+      "neighborhoods": [
+        {
+          "name": "Assi Ghat Area",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Tourist-friendly area with cafes, guesthouses, and a more relaxed atmosphere. Well-connected to main roads and popular with backpackers and international visitors."
+        },
+        {
+          "name": "Dashashwamedh Ghat",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The main ghat with constant activity and security presence. Safe during the day but can be overwhelming. Heavy police presence during evening Aarti ceremonies."
+        },
+        {
+          "name": "Cantonment Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Modern area near airport and railway station with wider roads, hotels, and better infrastructure. Quieter and more westernized than the old city."
+        },
+        {
+          "name": "Old City Lanes",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Narrow, maze-like alleys that are fascinating but challenging to navigate. Easy to get lost and vulnerable to scams. Best explored with a guide during daytime."
+        },
+        {
+          "name": "Manikarnika Ghat",
+          "score": 5.8,
+          "class": "caution",
+          "description": "The main cremation ghat where photography scams and donation demands are common. Culturally significant but requires respectful behavior and firm boundaries with touts."
+        },
+        {
+          "name": "Remote Ghats After Dark",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Isolated areas along the riverfront that become deserted after evening activities end. Poor lighting and lack of security presence make these areas risky for solo travelers."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Holy Men Blessing Scam",
+          "risk": "high",
+          "description": "Men dressed as priests or sadhus approach tourists, perform unsolicited blessings or place tilaka on foreheads, then aggressively demand large donations for services never requested.",
+          "howToAvoid": "Politely but firmly say 'No thank you' and keep walking. Do not allow anyone to perform rituals on you unless you initiate it. Genuine religious figures don't demand payment."
+        },
+        {
+          "name": "Boat Ride Overcharging",
+          "risk": "high",
+          "description": "Boatmen quote inflated prices for Ganga rides, claim special features or exclusive views, or add hidden charges during the trip. Some quote per-person rates as total boat costs.",
+          "howToAvoid": "Research standard rates beforehand. Agree on total price, duration, and what's included before boarding. Use official boat services or pre-book with reputable operators."
+        },
+        {
+          "name": "Cremation Ghat Donation Fraud",
+          "risk": "medium",
+          "description": "Touts at Manikarnika Ghat claim to collect money for wood for poor families' cremations or run fake hospices, showing emotional stories to extract donations.",
+          "howToAvoid": "Decline all donation requests from unofficial sources. If you want to help, donate through established charities. Real cremation costs are handled by families, not tourists."
+        },
+        {
+          "name": "Silk Shop Commission Scam",
+          "risk": "medium",
+          "description": "Drivers or fake guides insist on taking you to 'government-approved' silk shops where prices are inflated 3-5x normal rates. The guide receives hefty commissions from purchases.",
+          "howToAvoid": "Shop independently at established markets. Refuse guided shopping trips. Research fair prices beforehand and don't buy anything on your first day."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Varanasi is challenging but manageable for solo female travelers who come prepared. The city has low rates of violent crime against tourists, but cultural sensitivity and street awareness are essential. Many women travel here successfully, particularly those who stay in tourist-friendly areas, dress modestly, and avoid isolated situations after dark. The intense spiritual atmosphere and crowded conditions require mental preparation, but the experience can be deeply rewarding for those who approach it with the right mindset.",
+        "tips": [
+          "Stay in well-reviewed accommodations near Assi Ghat or Dashashwamedh areas with other travelers around",
+          "Dress modestly covering shoulders and knees - loose, conservative clothing significantly reduces unwanted attention",
+          "Avoid walking alone in narrow lanes or remote ghats after 9 PM - use rickshaws or taxis for evening transport",
+          "Use women's compartments on trains and women-only queues where available",
+          "Trust your instincts - if a situation feels uncomfortable, return to your hotel or find a crowded public space"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Varanasi's nighttime safety varies dramatically by location and time. The main ghats remain reasonably safe until 10 PM due to evening activities and crowds, but become isolated afterward. Well-lit areas like Assi Ghat road and the Cantonment maintain better security throughout the night. However, the narrow maze-like lanes of the old city become challenging to navigate and less safe after dark. About 61% of visitors report feeling secure at night in populated areas, but caution increases significantly in quieter zones.",
+        "tips": [
+          "Stay on main roads and well-lit areas after dark - avoid narrow lanes where you can easily get lost",
+          "Plan your evening activities around the Ganga Aarti which ends around 8-9 PM, then head back to your accommodation",
+          "Use auto-rickshaws or pre-booked taxis for transport after sunset rather than walking alone",
+          "Keep emergency contacts and accommodation details easily accessible on your phone",
+          "If attending late evening events, travel in groups or with trusted guides who know the area well"
+        ]
+      },
+      "transport": {
+        "metro": "Varanasi has no metro system. The city relies on surface transport including buses, auto-rickshaws, and taxis.",
+        "rideshare": "Uber and Ola operate in Varanasi with mixed reliability. App-based services work well for airport transfers and longer distances but can be challenging in narrow old city lanes where vehicles cannot reach. Ola Auto provides auto-rickshaw services through the app.",
+        "taxis": "Private taxis and cab services are widely available. Pre-paid taxi counters at the airport and railway station offer transparent pricing. Local operators like Chiku Cab and Varanasi Cab provide reliable services with fixed rates. Always agree on fares beforehand for non-metered rides.",
+        "tips": "Auto-rickshaws are the most practical transport for city center navigation. E-rickshaws are environmentally friendly and widely available. For airport transfers, use pre-paid counters or pre-book with reputable services. Avoid negotiating with unknown drivers on the spot - prices can be inflated 3-5 times normal rates."
+      },
+      "customs": [
+        "Remove shoes before entering temples, homes, and some shops - follow your host's example",
+        "Use your right hand for eating, greeting, and giving/receiving items - left hand is considered unclean",
+        "Greet people with 'Namaste' (palms together near chest with slight bow) rather than handshakes, especially with women",
+        "Dress modestly covering shoulders and knees, particularly in religious areas and the old city",
+        "Show respect to elders and religious figures - avoid pointing feet toward people or religious objects",
+        "Don't touch someone's head, even children, as it's considered sacred in Hindu culture",
+        "Accept offered tea or water when visiting homes or shops as refusing can seem impolite",
+        "Avoid public displays of affection - even holding hands can draw unwanted attention"
+      ],
+      "health": {
+        "overview": "Varanasi has adequate healthcare facilities for basic needs, with several quality hospitals and clinics available. However, air pollution levels are concerning, often reaching unhealthy to hazardous levels. The city's location on the Ganges presents water quality challenges, and travelers should be cautious with street food and water consumption. Medical facilities are concentrated in the main city area.",
+        "water": "Don't drink tap water or use it for brushing teeth. Stick to sealed bottled water or properly purified water. Avoid ice in drinks unless from reputable establishments. The Ganges water is not safe for consumption despite its religious significance.",
+        "vaccinations": "Standard travel vaccinations recommended: Hepatitis A & B, Typhoid, Japanese Encephalitis (if staying long-term), and ensure routine vaccines are up-to-date. Consult a travel medicine clinic 4-6 weeks before departure.",
+        "altitude": "Varanasi is at low altitude (80m above sea level) so no altitude concerns. However, air pollution can be severe, especially October-February. Bring face masks and consider air purifiers for accommodation. Hot, humid summers require heat illness precautions."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "touristPolice": "1363",
+        "usEmbassy": "US Consulate General Mumbai: +91-22-2672-4000 (closest to Varanasi). US Embassy New Delhi: +91-11-2419-8000. Emergency After-Hours: +91-11-2419-8000."
+      },
+      "faq": [
+        {
+          "q": "Is Varanasi safe for tourists?",
+          "a": "Yes, Varanasi is generally safe for tourists who take basic precautions. Violent crime against visitors is rare, but petty theft and tourist scams are common. The city requires cultural sensitivity and street awareness rather than physical safety concerns."
+        },
+        {
+          "q": "Is Varanasi safe at night?",
+          "a": "Varanasi is reasonably safe at night in well-populated areas like main ghats and roads, but becomes riskier in narrow lanes and isolated areas after 10 PM. About 61% of visitors feel secure at night in busy zones, but it's best to use transportation after dark."
+        },
+        {
+          "q": "Is Varanasi safe for solo female travelers?",
+          "a": "Varanasi is manageable for solo female travelers who dress modestly, stay in tourist-friendly areas, and avoid isolated situations after dark. Many women visit successfully, particularly those who book with organized tours or stay near other travelers."
+        },
+        {
+          "q": "What areas should I avoid in Varanasi?",
+          "a": "Avoid narrow, unmarked lanes in the old city after dark, remote ghats when empty, and isolated areas away from the main tourist circuit. The cremation ghat area requires cultural sensitivity and firm boundaries with touts demanding donations."
+        },
+        {
+          "q": "Is it safe to use public transport in Varanasi?",
+          "a": "Auto-rickshaws and e-rickshaws are generally safe and widely used. App-based services like Uber and Ola work well for longer distances. Always agree on fares beforehand or use metered services. Pre-book transportation for airport transfers to avoid overcharging."
+        }
+      ],
+      "relatedCities": [
+        "delhi",
+        "mumbai",
+        "kolkata",
+        "jaipur",
+        "agra"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg/1280px-Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg"
+    },
+    {
+      "slug": "kerala",
+      "name": "Kerala",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 7.1,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.5,
+        "violentCrime": 8.0,
+        "scamRisk": 6.5,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 7.0,
+        "naturalHazards": 6.5
+      },
+      "summary": "Kerala is considered one of India's safest states for tourists, with low crime rates, high literacy, and excellent healthcare infrastructure. While petty crimes and scams targeting tourists can occur, violent crime against foreign visitors is uncommon.",
+      "quickVerdict": "Kerala stands out as one of India's safest destinations for travelers, earning recognition for its progressive culture, tourist-friendly infrastructure, and relatively low crime rates. The state's high literacy rate, well-developed healthcare system, and strong focus on tourism safety make it particularly welcoming to international visitors. While tourists should remain alert for common scams and take standard precautions during monsoon season, Kerala offers a safer and more comfortable travel experience compared to many other parts of India.",
+      "neighborhoods": [
+        {
+          "name": "Kochi (Fort Kochi)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic port city with strong tourist infrastructure, well-lit streets, and regular police patrols. Popular backpacker area with good accommodation options and tourist-friendly atmosphere."
+        },
+        {
+          "name": "Varkala Cliff Area",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Popular coastal resort town with good lighting, tourist police presence, and established hospitality sector catering to international visitors."
+        },
+        {
+          "name": "Munnar Hill Station",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Scenic tea plantation region with organized tourism, good hotels, and relatively low crime. Exercise caution during foggy weather on mountain roads."
+        },
+        {
+          "name": "Alleppey Backwaters",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Famous houseboat destination with established tourism infrastructure. Choose licensed operators and avoid isolated waterways at night."
+        },
+        {
+          "name": "Thiruvananthapuram City Center",
+          "score": 7.0,
+          "class": "safe",
+          "description": "State capital with urban amenities and good transport links, though busy areas require standard urban precautions for pickpocketing."
+        },
+        {
+          "name": "Rural Interior Villages",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Generally safe but limited infrastructure, language barriers possible, and reduced access to medical facilities. Flooding risk during monsoon."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Hotel Booking Calls",
+          "risk": "high",
+          "description": "Scammers contact tourists after legitimate bookings, demanding additional payments via QR codes or fake links, threatening cancellation.",
+          "howToAvoid": "Never pay through unsolicited links or calls. Always verify directly with hotel through official channels and avoid sharing booking details publicly."
+        },
+        {
+          "name": "Spice Garden & Ayurvedic Center Overpricing",
+          "risk": "medium",
+          "description": "Drivers take tourists to commission-based spice gardens or fake Ayurvedic centers charging inflated prices for brief tours and ineffective products.",
+          "howToAvoid": "Research attractions independently, avoid driver recommendations for shops, and compare prices at government stores. Verify Ayurvedic practitioners' credentials."
+        },
+        {
+          "name": "Transport Fare Inflation",
+          "risk": "medium",
+          "description": "Auto-rickshaw and taxi drivers quote inflated fares, claim broken meters, or take longer routes to increase charges.",
+          "howToAvoid": "Use ride-hailing apps like Uber or Ola, insist on using meters, agree on fares beforehand, and check expected costs on Google Maps."
+        },
+        {
+          "name": "Fake Tour Package Agencies",
+          "risk": "medium",
+          "description": "Fraudulent travel agencies offer discounted luxury packages, collect advance payments, then become unreachable or provide substandard services.",
+          "howToAvoid": "Book through established agencies, verify licenses and reviews, use secure payment methods, and avoid deals that seem too good to be true."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Kerala is widely regarded as one of India's safest states for solo female travelers, with a progressive culture and tourist-friendly environment. The state's high literacy rate, strong women's rights advocacy, and established tourism infrastructure create a more comfortable experience than many other parts of India. However, standard precautions should still be taken, particularly regarding modest dress and avoiding isolated areas at night.",
+        "tips": [
+          "Dress modestly with covered shoulders and knees, especially in temples and rural areas",
+          "Use women-only transport sections when available on trains and buses",
+          "Stay in well-reviewed accommodations, preferably with female-only floors or good security",
+          "Carry pepper spray and familiarize yourself with Kerala Pink Police (1515) helpline",
+          "Join organized group tours or activities to meet other travelers safely"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Kerala's nightlife is relatively quiet compared to major Indian cities, with most areas becoming less active after 10 PM. Tourist areas like Kochi and Varkala maintain better lighting and security, but rural areas can become quite isolated. The state's low crime rates make it safer than many destinations, but standard nighttime precautions should be observed.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid isolated beaches or rural roads after dark",
+          "Use registered taxi apps or pre-booked hotel transport rather than hailing random vehicles",
+          "Keep accommodation and emergency contact numbers readily accessible",
+          "Travel in groups when possible and inform someone of your whereabouts",
+          "Be aware that Kerala becomes much quieter after 10 PM outside major tourist centers"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Kerala. Public buses are extensive but can be crowded. Women-only buses and sections are available on some routes.",
+        "rideshare": "Uber and Ola operate in major cities like Kochi and Thiruvananthapuram. Both apps offer safety features and are generally reliable for tourists.",
+        "taxis": "Traditional taxis and auto-rickshaws are common but negotiate fares beforehand or insist on meters. Pre-paid taxi counters at airports are recommended.",
+        "tips": "Use app-based rides when possible, keep small denominations for public transport, and avoid unmarked vehicles. Train travel between cities is safe and comfortable with women-only compartments available."
+      },
+      "customs": [
+        "Remove shoes before entering homes, temples, and some guesthouses",
+        "Use 'Namaste' greeting with palms pressed together, especially with older people",
+        "Dress modestly with covered shoulders and knees, particularly in religious sites",
+        "Use right hand for eating, giving/receiving items, and shaking hands",
+        "Avoid public displays of affection as they are considered inappropriate"
+      ],
+      "health": {
+        "overview": "Kerala has India's best healthcare system with high-quality hospitals and medical facilities, especially in cities. The state is known for medical tourism and Ayurvedic treatments. However, tropical diseases and monsoon-related health risks require precautions.",
+        "water": "Avoid tap water and stick to sealed bottled water or properly filtered water. Ice in tourist establishments is generally safe but exercise caution with street vendors.",
+        "vaccinations": "Recommended: Hepatitis A & B, Typhoid, Japanese Encephalitis (during monsoon), and routine vaccinations. Consult travel medicine specialist for malaria prophylaxis during monsoon season.",
+        "altitude": "Kerala is at sea level to low elevation with tropical climate. High humidity year-round, heavy monsoon rains June-September and October-November. Heat and humidity can cause dehydration."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "touristPolice": "1515 (Pink Police)",
+        "usEmbassy": "US Consulate General Chennai: +91-44-2857-4000. US Embassy New Delhi: +91-11-2419-8000. Americans can also call 24/7 support at +1-202-501-4444 from abroad."
+      },
+      "faq": [
+        {
+          "q": "Is Kerala safe for tourists?",
+          "a": "Yes, Kerala is considered one of India's safest states for tourists with low crime rates, high literacy, and strong tourism infrastructure. Standard precautions should still be taken against petty theft and scams."
+        },
+        {
+          "q": "Is Kerala safe at night?",
+          "a": "Kerala is relatively safe at night in tourist areas, though most places become quiet after 10 PM. Stick to well-lit areas, use registered transportation, and avoid isolated locations after dark."
+        },
+        {
+          "q": "Is Kerala safe for solo female travelers?",
+          "a": "Kerala is widely regarded as India's safest state for solo female travelers due to its progressive culture and tourist-friendly environment. Dress modestly, use women-only transport sections when available, and stay in reputable accommodations."
+        },
+        {
+          "q": "What areas should I avoid in Kerala?",
+          "a": "Avoid isolated rural areas during monsoon season due to flooding risk, and exercise caution in remote interior villages with limited infrastructure. Tourist areas are generally safe with proper precautions."
+        },
+        {
+          "q": "Is it safe to use public transport in Kerala?",
+          "a": "Yes, Kerala's public transport is generally safe. Buses have women-only sections, trains offer women-only compartments, and ride-hailing apps operate in major cities. Keep belongings secure and use registered services when possible."
+        }
+      ],
+      "relatedCities": [
+        "mumbai",
+        "goa",
+        "bangalore",
+        "chennai",
+        "kochi"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/1280px-Boathouse_%287063399547%29.jpg"
+    },
+    {
+      "slug": "udaipur",
+      "name": "Udaipur",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 7.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.1,
+        "scamRisk": 6.8,
+        "womensSafety": 7.6,
+        "nightSafety": 7.0,
+        "transport": 7.5,
+        "naturalHazards": 7.6
+      },
+      "summary": "Udaipur is widely regarded as one of India's safest tourist destinations, earning recognition as particularly welcoming to solo female travelers. The City of Lakes maintains low crime rates against tourists, though standard precautions against petty theft and tourist scams remain advisable.",
+      "quickVerdict": "Udaipur stands out as a remarkably safe destination in India, consistently ranking among the top cities for solo travelers, especially women. While petty crime exists as in any tourist destination, violent crime against visitors is rare. The city's tourism-focused infrastructure, visible police presence around major attractions, and reputation for hospitality make it an excellent choice for first-time visitors to India. Standard tourist precautions and cultural awareness will ensure a safe and enjoyable visit.",
+      "neighborhoods": [
+        {
+          "name": "Lake Pichola Area & Old City",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The heart of tourist Udaipur with constant foot traffic, police presence, and well-lit streets. Home to major attractions like City Palace and numerous heritage hotels with excellent security."
+        },
+        {
+          "name": "Fateh Sagar Lake District",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Popular evening destination for locals and tourists with active lakefront promenades, food stalls, and families. Well-patrolled area with good lighting and public facilities."
+        },
+        {
+          "name": "Sukhadia Circle",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Bustling local hangout spot popular for street food and evening activities. Generally safe due to crowds and activity, though pickpocketing can occur in busy areas."
+        },
+        {
+          "name": "Airport Road & Modern Udaipur",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Well-developed commercial area with hotels, shopping centers, and restaurants. Good transportation links and modern infrastructure, though less atmospheric than old city."
+        },
+        {
+          "name": "Railway Station Area",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Typical transport hub with increased risk of scams targeting arriving tourists. More crowded and chaotic, requiring extra vigilance with belongings and transport arrangements."
+        },
+        {
+          "name": "Remote Villages & Outskirts",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Rural areas around Udaipur can lack tourist infrastructure and emergency services. While generally safe, limited communication and transport options require local guidance for visits."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Gem & Jewelry Export Scam",
+          "risk": "high",
+          "description": "Friendly locals befriend tourists and take them to gem stores, promising huge profits from reselling jewelry abroad. The gems are always worthless fakes.",
+          "howToAvoid": "Never buy expensive items from strangers or unofficial stores. Only purchase from government-certified shops with proper certificates. Be especially wary in Jaipur-Pushkar-Udaipur circuit."
+        },
+        {
+          "name": "Fake Tourist Office",
+          "risk": "medium",
+          "description": "Scammers pose as government tourism officials claiming your hotel bookings are fake or cancelled, then redirect you to overpriced alternatives where they earn commission.",
+          "howToAvoid": "Verify all bookings directly with hotels. Official tourist offices are clearly marked. Never trust people who approach you claiming to be officials, especially near transport hubs."
+        },
+        {
+          "name": "Overcharging & Taxi Scams",
+          "risk": "medium",
+          "description": "Taxi and auto-rickshaw drivers quote inflated prices to tourists, take longer routes, or claim destinations are closed to redirect to commission-earning shops.",
+          "howToAvoid": "Use ride-hailing apps like Uber or Ola when available. Agree on fares upfront, use hotel-arranged transport, or ask locals for typical pricing. Keep GPS handy to verify routes."
+        },
+        {
+          "name": "Religious Donation Pressure",
+          "risk": "medium",
+          "description": "People near temples and ghats offer blessings, tie threads on wrists, or apply tilaka, then aggressively demand large donations, claiming religious necessity.",
+          "howToAvoid": "Politely decline unsolicited religious services. If you want to participate, ask about costs upfront. Genuine temples have official donation boxes and don't pressure visitors."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Udaipur is consistently rated as one of India's safest cities for solo female travelers, with multiple travel guides highlighting its welcoming atmosphere. The city's tourism infrastructure, visible police presence around attractions, and cultural respect for guests create a secure environment. Women-only accommodations are widely available, and the local community is accustomed to independent female travelers.",
+        "tips": [
+          "Stay in well-reviewed accommodations in central areas like Lake Pichola vicinity or near major attractions",
+          "Dress modestly with covered shoulders and legs, especially when visiting temples or traditional areas",
+          "Use women-only compartments on trains and women-only sections in public transport when available",
+          "Avoid isolated areas after dark and stick to well-lit, populated streets for evening activities",
+          "Book daytime arrivals and arrange hotel pickups from transport stations to avoid navigating unfamiliar areas alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Udaipur's nightlife is relatively tame but safe, centered around lakeside dining, cultural performances, and rooftop restaurants. The city doesn't have extensive late-night party culture, with most venues closing by 11 PM. Tourist areas remain active until evening hours with families and couples enjoying lakefront walks. Police presence is visible around major attractions, and the compact old city is generally well-lit.",
+        "tips": [
+          "Stick to popular tourist areas like Lake Pichola, Fateh Sagar, and established restaurants for evening activities",
+          "Use hotel-arranged transport or reputable taxi services rather than walking alone late at night",
+          "Enjoy cultural performances at venues like Bagore Ki Haveli which end at reasonable hours with organized transport",
+          "Avoid completely deserted areas and isolated ghats after 10 PM, even though violent crime is rare",
+          "Book accommodations in central areas to minimize late-night travel between locations"
+        ]
+      },
+      "transport": {
+        "metro": "Udaipur does not have a metro system. The city relies on buses, auto-rickshaws, taxis, and ride-hailing services for public transportation.",
+        "rideshare": "Uber and Ola operate in Udaipur with good coverage in tourist areas. Both apps offer safety features like GPS tracking, driver details, and emergency buttons. Generally reliable and safer than street taxis.",
+        "taxis": "Local taxis are available but require negotiation. Hotel-arranged taxis are more reliable and safer. Many operators offer day-long sightseeing packages. Pre-paid taxi counters at airport and railway station provide fixed-rate options.",
+        "tips": "Use ride-hailing apps when possible for transparent pricing and safety features. For longer distances or day trips, book through reputable hotels or established tour operators with good reviews."
+      },
+      "customs": [
+        "Remove shoes before entering homes, temples, and some traditional establishments - follow local lead and look for shoe racks",
+        "Use right hand for eating, greeting, giving money, and touching - left hand is considered unclean in Indian culture",
+        "Dress modestly with covered shoulders and legs, especially in religious sites and traditional areas - avoid shorts and revealing clothing"
+      ],
+      "health": {
+        "overview": "Udaipur has decent healthcare facilities for a mid-sized Indian city, with several private hospitals and clinics serving tourists. The main health concerns are waterborne illnesses and vector-borne diseases during monsoon season.",
+        "water": "Drink only bottled or properly filtered water. Avoid ice in drinks, raw salads, and street food from unhygienic vendors. Most hotels provide safe drinking water.",
+        "vaccinations": "Routine vaccines recommended: Hepatitis A & B, Typhoid, Japanese Encephalitis. Consult travel medicine clinic 4-6 weeks before travel. No yellow fever requirement unless arriving from endemic areas.",
+        "altitude": "Udaipur sits at 598 meters with no altitude concerns. Climate is semi-arid with hot summers (March-June), monsoon (July-September), and pleasant winters (October-February). Dengue and malaria risk exists during monsoon season."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "102",
+        "fire": "101",
+        "touristPolice": "1363",
+        "usEmbassy": "US Consulate Mumbai: +91-22-2672-4000 (24/7 American Citizen Services). Embassy New Delhi: +91-11-2419-8000. Register with STEP (Smart Traveler Enrollment Program) for safety updates."
+      },
+      "faq": [
+        {
+          "q": "Is Udaipur safe for tourists?",
+          "a": "Yes, Udaipur is considered one of India's safest tourist destinations with low crime rates against visitors. The city has good tourism infrastructure, visible police presence, and a reputation for hospitality. Standard precautions against petty theft and scams are sufficient."
+        },
+        {
+          "q": "Is Udaipur safe at night?",
+          "a": "Udaipur is relatively safe at night in tourist areas, though nightlife is limited with most venues closing by 11 PM. Stick to well-lit areas like Lake Pichola vicinity, use reliable transport, and avoid isolated locations after dark."
+        },
+        {
+          "q": "Is Udaipur safe for solo female travelers?",
+          "a": "Udaipur is frequently cited as one of India's best cities for solo female travelers, with established tourism infrastructure and cultural respect for guests. Many accommodations offer women-only dorms, and the city is accustomed to independent female visitors."
+        },
+        {
+          "q": "What areas should I avoid in Udaipur?",
+          "a": "Generally avoid remote outskirts without local guidance, railway station area late at night, and isolated rural areas. The city center and major tourist zones are very safe. Exercise normal caution in crowded markets and transport hubs."
+        },
+        {
+          "q": "Is it safe to use public transport in Udaipur?",
+          "a": "Public transport is generally safe but basic. Ride-hailing apps like Uber and Ola offer the best safety features and reliability. Auto-rickshaws and local taxis are safe but require fare negotiation. Hotel-arranged transport is most reliable for tourists."
+        }
+      ],
+      "relatedCities": [
+        "jaipur",
+        "jodhpur",
+        "delhi",
+        "mumbai",
+        "agra"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Evening_view%2C_City_Palace%2C_Udaipur.jpg/1280px-Evening_view%2C_City_Palace%2C_Udaipur.jpg"
+    },
+    {
+      "slug": "agra",
+      "name": "Agra",
+      "country": "India",
+      "countryCode": "IN",
+      "region": "South Asia",
+      "regionSlug": "south-asia",
+      "lastUpdated": "2026-03-16",
+      "overallScore": 6.4,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.2,
+        "scamRisk": 4.8,
+        "womensSafety": 6.0,
+        "nightSafety": 6.5,
+        "transport": 7.5,
+        "naturalHazards": 7.3
+      },
+      "summary": "Agra is generally safe for tourists but requires vigilance against common scams targeting visitors to the Taj Mahal. The city experiences moderate petty crime levels and occasional air quality issues, while violent crime against tourists remains relatively rare.",
+      "quickVerdict": "Agra offers a manageable safety environment for tourists visiting the iconic Taj Mahal and other Mughal monuments. While serious violent crime against visitors is uncommon, travelers should be prepared for persistent touts, overcharging, and sophisticated scams particularly around major attractions. The city's well-established tourism infrastructure provides good transport options and security at major sites, though air pollution can be concerning. With proper precautions and awareness of common tourist scams, most visitors can enjoy Agra's historical treasures safely.",
+      "neighborhoods": [
+        {
+          "name": "Taj Ganj",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Tourist-focused area near the Taj Mahal with heavy security presence, numerous hotels, and established tourism infrastructure. Generally safe during daylight hours with regular police patrols."
+        },
+        {
+          "name": "Sadar Bazaar",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Busy commercial and shopping district popular with tourists. Higher concentration of touts and pickpockets, especially crowded during evening hours. Exercise caution with valuables."
+        },
+        {
+          "name": "Agra Fort Area",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Well-maintained heritage zone with good security around the UNESCO World Heritage site. Tourist police presence and established visitor facilities make it relatively safe for exploration."
+        },
+        {
+          "name": "Fatehabad Road",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Modern hotel and restaurant district favored by tourists. Generally safe with good infrastructure, though traffic can be chaotic. Well-lit areas with security at major establishments."
+        },
+        {
+          "name": "Civil Lines",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Administrative area with government offices and residential neighborhoods. Quieter than tourist zones but less police presence. Safe during daytime but avoid isolated areas after dark."
+        },
+        {
+          "name": "Lohamandi",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Industrial area with higher crime rates and fewer tourist facilities. Not recommended for visitors, especially at night. Limited police presence and poor lighting in many sections."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Taj Mahal Guides",
+          "risk": "high",
+          "description": "Unofficial guides approach tourists claiming to be government-certified, often wearing fake IDs and uniforms. They provide incorrect information and charge inflated fees.",
+          "howToAvoid": "Only hire guides from official Archaeological Survey of India counters. Ask to see genuine ASI-issued identification and verify rates at official ticket offices before agreeing to services."
+        },
+        {
+          "name": "Counterfeit Ticket Sales",
+          "risk": "high",
+          "description": "Scammers outside monuments sell fake or reused tickets claiming to offer fast-track entry or discounts. Tourists discover the fraud only when trying to enter.",
+          "howToAvoid": "Purchase tickets exclusively from official ASI counters or the verified government website. Never buy tickets from street vendors or individuals approaching you outside attractions."
+        },
+        {
+          "name": "Marble Workshop Commission Scam",
+          "risk": "medium",
+          "description": "Taxi drivers and guides take tourists to marble workshops claiming to show authentic Taj Mahal craftsmanship, earning commissions on overpriced fake marble products.",
+          "howToAvoid": "Decline unsolicited workshop visits. If interested in marble crafts, research genuine government-approved stores independently. Be wary of high-pressure sales tactics."
+        },
+        {
+          "name": "Hotel Closure Lies",
+          "risk": "medium",
+          "description": "Transport drivers claim your pre-booked hotel is closed, full, or of poor quality, then suggest alternative accommodations where they receive kickbacks.",
+          "howToAvoid": "Contact your hotel directly if told it's unavailable. Use GPS navigation to verify your original destination. Insist on being taken to your confirmed booking regardless of driver suggestions."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Agra requires extra precautions but is manageable with proper planning. The city has established tourist infrastructure and many women travel here successfully, though conservative dress and behavior are essential. Tourist areas have reasonable security, but harassment from touts and unwanted male attention can be persistent.",
+        "tips": [
+          "Dress modestly with covered shoulders and knees, especially near religious sites",
+          "Use women-only sections in public transport when available",
+          "Book accommodations in tourist areas like Taj Ganj with good reviews and security",
+          "Avoid isolated areas after sunset and stick to well-lit main roads",
+          "Carry emergency contact numbers and consider traveling with organized tours for major attractions"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Agra's nightlife is limited but the city offers some evening activities including sound and light shows, rooftop dining, and night viewing of the Taj Mahal on full moon nights. Most tourist areas are reasonably safe in early evening hours, though caution is advised after 10 PM when streets become quieter.",
+        "tips": [
+          "Stay in tourist-concentrated areas like Taj Ganj and Fatehabad Road after dark",
+          "Use reputable taxi services or hotel transport rather than walking at night",
+          "Book night viewing of Taj Mahal through official channels only",
+          "Avoid isolated areas and deserted streets, especially near industrial zones",
+          "End evening activities by 10 PM when local transport becomes less frequent"
+        ]
+      },
+      "transport": {
+        "metro": "Agra does not have a metro system. Public buses are available but not recommended for tourists due to overcrowding and lack of clear route information.",
+        "rideshare": "Uber and Ola operate in Agra with generally reliable service. Both apps provide upfront pricing and GPS tracking. Particularly useful for airport transfers and moving between tourist sites.",
+        "taxis": "Prepaid taxi counters at railway stations and airport offer fixed rates. Private taxi operators are numerous but negotiate fares in advance. Auto-rickshaws are common but insist on meter use or agree on price beforehand.",
+        "tips": "Use app-based services or pre-booked hotel transport for best safety and reliability. Avoid accepting rides from drivers who approach you at tourist sites. Keep small denomination cash for local transport."
+      },
+      "customs": [
+        "Greet people with 'Namaste' by joining palms together rather than handshakes",
+        "Remove shoes before entering homes, temples, and some traditional shops",
+        "Dress modestly covering shoulders and knees, especially in religious areas",
+        "Use your right hand for eating, giving, and receiving items",
+        "Show respect to elders by greeting them first and avoiding pointing feet toward them"
+      ],
+      "health": {
+        "overview": "Agra has adequate medical facilities for tourists with several private hospitals and clinics. The main health concerns are air pollution, foodborne illnesses from street food, and respiratory issues during winter months when air quality deteriorates significantly.",
+        "water": "Drink only bottled water from sealed containers or water that has been properly filtered and boiled. Most hotels provide complimentary bottled water. Avoid ice in drinks unless from reputable establishments.",
+        "vaccinations": "Routine vaccines should be up to date. Consider hepatitis A and B, typhoid, and Japanese encephalitis vaccines. Consult a travel doctor 4-6 weeks before departure for personalized recommendations.",
+        "altitude": "Agra sits at low elevation (171m) so altitude sickness is not a concern. Climate can be extremely hot in summer (reaching 45°C) requiring heat precautions, while winter air pollution can affect those with respiratory conditions."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "touristPolice": "9454402764",
+        "usEmbassy": "US Consulate General Mumbai: +91-22-2672-4000 (Mumbai office covers Agra jurisdiction). US Embassy New Delhi: +91-11-2419-8000. For emergencies involving US citizens: +91-11-2419-8000."
+      },
+      "faq": [
+        {
+          "q": "Is Agra safe for tourists?",
+          "a": "Agra is generally safe for tourists with proper precautions. The main risks are petty theft and tourist scams rather than violent crime. Major attractions have good security, but remain vigilant against overcharging and fake guides."
+        },
+        {
+          "q": "Is Agra safe at night?",
+          "a": "Agra has limited nightlife but tourist areas are reasonably safe in early evening. Avoid walking alone after 10 PM and stick to well-lit main areas. Use hotel transport or reputable taxi services for night travel."
+        },
+        {
+          "q": "Is Agra safe for solo female travelers?",
+          "a": "Solo female travel in Agra requires extra caution but is manageable. Dress modestly, stay in tourist areas, use women-only transport sections when available, and avoid isolated areas after dark. Many women visit successfully with proper planning."
+        },
+        {
+          "q": "What areas should I avoid in Agra?",
+          "a": "Avoid the Lohamandi industrial area, especially at night. Stay away from isolated areas outside main tourist zones after dark. Be particularly cautious in crowded markets where pickpocketing is more common."
+        },
+        {
+          "q": "Is it safe to use public transport in Agra?",
+          "a": "Public buses are not recommended for tourists due to overcrowding and confusion. Use app-based taxis like Uber/Ola, prepaid taxi services, or hotel-arranged transport for better safety and convenience."
+        }
+      ],
+      "relatedCities": [
+        "delhi",
+        "jaipur",
+        "varanasi",
+        "lucknow",
+        "kolkata"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1280px-Taj_Mahal%2C_Agra%2C_India.jpg"
     }
   ]
 }

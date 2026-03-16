@@ -1525,3 +1525,47 @@
 2026-03-16 05:59:37,022 [INFO] No safety alerts detected
 2026-03-16 07:55:53,808 [INFO] Agent starting — mode: refresh
 2026-03-16 07:55:53,885 [INFO] Found 0 stale cities, refreshing 0
+2026-03-16 07:59:10,916 [INFO] Agent starting — mode: add
+2026-03-16 07:59:10,956 [INFO] Queue has 335 cities, adding 8
+2026-03-16 07:59:10,956 [INFO] Generating new city profile: Bagan, Myanmar
+2026-03-16 08:00:45,043 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:00:45,280 [INFO] Found Wikipedia image for Bagan
+2026-03-16 08:00:45,281 [INFO] Saved city data: bagan-myanmar
+2026-03-16 08:00:45,283 [INFO] Generating new city profile: New Delhi, India
+2026-03-16 08:02:26,692 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:02:26,890 [INFO] Found Wikipedia image for New Delhi
+2026-03-16 08:02:26,891 [INFO] Saved city data: new-delhi-india
+2026-03-16 08:02:26,894 [INFO] Generating new city profile: Goa, India
+2026-03-16 08:04:04,445 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:04:04,519 [INFO] Found Wikipedia image for Goa
+2026-03-16 08:04:04,519 [INFO] Saved city data: goa-india
+2026-03-16 08:04:04,522 [INFO] Generating new city profile: Jaipur, India
+2026-03-16 08:06:06,728 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:06:06,815 [INFO] Found Wikipedia image for Jaipur
+2026-03-16 08:06:06,815 [INFO] Saved city data: jaipur-india
+2026-03-16 08:06:06,818 [INFO] Generating new city profile: Varanasi, India
+2026-03-16 08:08:08,383 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:08:08,470 [INFO] Found Wikipedia image for Varanasi
+2026-03-16 08:08:08,470 [INFO] Saved city data: varanasi-india
+2026-03-16 08:08:08,473 [INFO] Generating new city profile: Kerala, India
+2026-03-16 08:09:25,471 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:09:25,544 [INFO] Found Wikipedia image for Kerala
+2026-03-16 08:09:25,544 [INFO] Saved city data: kerala-india
+2026-03-16 08:09:25,547 [INFO] Generating new city profile: Udaipur, India
+2026-03-16 08:11:52,756 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:11:53,352 [INFO] Found Wikipedia image for Udaipur
+2026-03-16 08:11:53,353 [INFO] Saved city data: udaipur-india
+2026-03-16 08:11:53,355 [INFO] Generating new city profile: Agra, India
+2026-03-16 08:13:34,266 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 08:13:34,467 [INFO] Found Wikipedia image for Agra
+2026-03-16 08:13:34,468 [INFO] Saved city data: agra-india
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Bagan
+2026-03-16 08:13:34,495 [INFO] Merged into site data: New Delhi
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Goa
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Jaipur
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Varanasi
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Kerala
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Udaipur
+2026-03-16 08:13:34,495 [INFO] Merged into site data: Agra
+2026-03-16 08:13:34,544 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-16 08:13:34,570 [INFO] Rebuilt sitemap with 338 URLs (238 cities, 94 countries, 6 static)

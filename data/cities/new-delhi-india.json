@@ -5,154 +5,163 @@
   "countryCode": "IN",
   "region": "South Asia",
   "regionSlug": "south-asia",
-  "lastUpdated": "2026-03-07",
-  "overallScore": 5.6,
+  "lastUpdated": "2026-03-16",
+  "overallScore": 6.0,
   "verdict": "Moderate Caution Advised",
   "badgeLabel": "Moderate Caution",
   "badgeClass": "caution",
   "scores": {
-    "pettyCrime": 4.5,
+    "pettyCrime": 5.5,
     "violentCrime": 6.8,
-    "scamRisk": 3.0,
+    "scamRisk": 4.2,
     "womensSafety": 5.2,
-    "nightSafety": 5.5,
+    "nightSafety": 5.7,
     "transport": 7.5,
-    "naturalHazards": 7.0
+    "naturalHazards": 7.3
   },
-  "summary": "New Delhi, India's bustling capital, presents a mixed safety picture for tourists with significant scam risks but relatively low violent crime against visitors. <cite index=\"1-14,13-1,13-4\">Violent crime is uncommon against foreign travelers, though incidents of murder, robbery, and rape have decreased in recent years according to Delhi Police statistics.</cite> The city's main challenges lie in petty crime and tourist-targeted scams, particularly around transport hubs and tourist areas.",
-  "quickVerdict": "<cite index=\"3-15,6-2,6-5\">The US State Department rates India at Level 2: Exercise Increased Caution due to risks of crime and terrorism, with some areas having higher risks.</cite> While Delhi can be challenging for first-time visitors, millions of tourists visit safely each year by taking proper precautions. The biggest risks are scams, petty theft, and air pollution rather than violent crime. <cite index=\"42-14,42-15\">India is not particularly challenging due to crime, and crimes against tourists, including female tourists, are relatively rare.</cite> Smart travelers who stay alert, use reputable transportation, and avoid common scam scenarios can explore the city's rich cultural offerings safely.",
+  "summary": "New Delhi is India's bustling capital where vibrant history meets modern chaos. While violent crime against tourists is uncommon, petty crime, scams, and safety concerns for solo female travelers require vigilance. Crime rates have decreased significantly in 2025, with Delhi Police reporting improvements across major offense categories.",
+  "quickVerdict": "New Delhi requires street smarts but rewards prepared travelers with incredible experiences. The city has made notable security improvements in 2025, but travelers should remain alert to common scams, especially near tourist areas and transport hubs. The extensive metro system and ride-hailing apps provide safe transportation options. Solo female travelers need extra caution, particularly at night. Most safety concerns are preventable with basic awareness and following local advice.",
   "neighborhoods": [
     {
       "name": "South Delhi (Hauz Khas, Khan Market)",
       "score": 8.2,
       "class": "safe",
-      "description": "<cite index=\"45-13,45-14\">The best areas to stay in for convenience and safety are South and Central Delhi, well serviced by the metro and close to attractions.</cite> <cite index=\"61-1,61-7\">For nightlife, stick to places in South Delhi or Central Delhi that are known for being lively and secure, with areas like Hauz Khas and Khan Market being comfortable.</cite>"
+      "description": "Upscale residential and commercial area popular with expats and young professionals. Well-lit streets, good security presence, and plenty of cafes and restaurants. The metro connectivity is excellent and it's generally safe even at night."
     },
     {
-      "name": "Central Delhi (Connaught Place)",
-      "score": 7.5,
+      "name": "Connaught Place & Central Delhi",
+      "score": 7.0,
       "class": "safe",
-      "description": "Well-patrolled tourist hub with good infrastructure and metro connectivity. <cite index=\"70-1,70-19\">Major tourist areas like Connaught Place are safe with good lighting and police presence.</cite> Watch for persistent touts but generally secure for visitors."
+      "description": "The commercial heart of Delhi with good police presence and CCTV coverage. While generally safe during the day, tourists should be wary of touts and scammers. Avoid isolated areas after dark."
     },
     {
-      "name": "New Delhi Railway Station Area",
-      "score": 6.0,
+      "name": "New Delhi (Lutyens' Delhi)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Government quarter with embassy areas, India Gate, and official buildings. High security presence and well-maintained infrastructure make it one of the safest areas in Delhi, even for evening walks."
+    },
+    {
+      "name": "Karol Bagh & Paharganj",
+      "score": 5.8,
       "class": "caution",
-      "description": "Busy transport hub with heavy tourist traffic but significant scam activity. <cite index=\"31-23,40-12\">Security guards and officials may be involved in elaborate scams directing tourists to fake travel agencies.</cite> Stay vigilant and pre-arrange transportation."
-    },
-    {
-      "name": "Paharganj (Main Bazaar)",
-      "score": 4.5,
-      "class": "danger",
-      "description": "<cite index=\"45-15,45-16\">Many visitors end up in Paharganj, the backpacker area - do not stay in either Paharganj or Old Delhi.</cite> While budget-friendly, the area has poor infrastructure, aggressive touts, and higher crime rates. Solo female travelers should avoid."
+      "description": "Budget accommodation area near New Delhi Railway Station. Heavy tourist traffic attracts touts and scammers. Streets can be crowded and chaotic, with persistent hawkers. Exercise caution with belongings."
     },
     {
       "name": "Old Delhi (Chandni Chowk)",
-      "score": 4.0,
-      "class": "danger",
-      "description": "<cite index=\"34-2,34-15\">The most common tourist friction is in Old Delhi — persistent touts near Chandni Chowk and the Red Fort.</cite> Extremely crowded, chaotic traffic, and frequent pickpocketing. Requires extra caution, especially for solo travelers."
+      "score": 6.2,
+      "class": "caution",
+      "description": "Historic walled city with narrow lanes and bustling markets. Generally safe during daylight hours but can be overwhelming. Watch for pickpockets in crowded areas and be prepared for intense street life."
     },
     {
-      "name": "Outer Delhi/NCR Border Areas",
-      "score": 3.5,
+      "name": "Outer Delhi & Industrial Areas",
+      "score": 4.5,
       "class": "danger",
-      "description": "Remote areas with limited police presence and poor lighting. <cite index=\"48-8,66-9\">Better to avoid outskirts at night, travel via trusted apps like Ola and Uber.</cite> Industrial zones and unauthorized colonies pose higher risks for tourists."
+      "description": "Areas like East Delhi, parts of North Delhi, and industrial zones have higher crime rates and fewer tourist facilities. Limited police presence and poor infrastructure make these areas best avoided, especially after dark."
     }
   ],
   "scams": [
     {
-      "name": "Fake Government Tourist Office",
+      "name": "Fake Tourist Office Scam",
       "risk": "high",
-      "description": "<cite index=\"31-28,32-10\">Rickshaw drivers, taxi drivers and locals try to lure you into fake tourist agencies where they get commissions, often claiming your hotel is closed or the street is blocked due to protests.</cite>",
-      "howToAvoid": "<cite index=\"33-14\">The only official government tourist office is at 88 Janpath near Connaught Lane.</cite> Never trust drivers who insist on taking you to 'tourist offices' and always verify hotel bookings independently."
+      "description": "Taxi drivers claim your hotel is closed/full and take you to fake government tourist offices that sell overpriced tours and accommodation. Often involves fake phone calls to confirm the story.",
+      "howToAvoid": "Never believe claims about your hotel being closed. Call your hotel directly to verify. Ignore anyone offering to take you to tourist information centers. Book transport through official pre-paid counters or apps."
     },
     {
-      "name": "Airport Transport Scams",
+      "name": "Railway Station Tout Scam",
       "risk": "high",
-      "description": "<cite index=\"31-19,31-20,31-21\">Taxi drivers from airport talk to fake policemen and tell you roads are blocked due to protests, COVID measures, or other reasons, then take you to fake travel agencies.</cite>",
-      "howToAvoid": "Use prepaid taxi counters, Delhi Metro Airport Express, or book rides through verified apps like Uber/Ola. Pre-arrange hotel pickup when possible and never believe claims about blocked roads or closed hotels."
+      "description": "Fake officials at railway stations claim the foreigners' booking office has moved or is closed, directing you to fake travel agencies that overcharge for train tickets or sell invalid tickets.",
+      "howToAvoid": "The foreign tourist quota office at New Delhi station is open 24/7 on the first floor. Walk confidently inside and ignore anyone who approaches to 'help' you. Bring your passport for tourist quota tickets."
     },
     {
-      "name": "Railway Station Ticket Scams",
+      "name": "Overcharging and Commission Scams",
       "risk": "medium",
-      "description": "<cite index=\"35-25,35-26,35-29\">People dressed as officials claim your ticket needs stamping for validation or that the reservation center is closed due to riots, ants, or other absurd excuses.</cite>",
-      "howToAvoid": "<cite index=\"35-27,35-28\">Confirmed tickets only need to be shown to the train conductor with your passport - you don't need to pay for anything else after purchasing your ticket.</cite>"
+      "description": "Auto drivers and friendly locals take you to shops, restaurants, or services where they earn commission, resulting in inflated prices. Includes the gem buying scam where fake stones are sold at high prices.",
+      "howToAvoid": "Use ride-hailing apps like Uber or Ola to avoid haggling. Be wary of overly friendly strangers who want to take you shopping. Research prices beforehand and shop at fixed-price stores when possible."
     },
     {
-      "name": "Helpful Baggage Carriers",
-      "risk": "medium",
-      "description": "<cite index=\"35-8,35-9,35-11\">At airports, men grab your bags before you can object, claiming to help, then demand payment.</cite>",
-      "howToAvoid": "<cite index=\"35-13,35-14,35-15\">Keep hold of your bags at all times. If you need help, use official porters in red shirts, but only if prepared to pay.</cite>"
+      "name": "Street Service Scams",
+      "risk": "low",
+      "description": "Ear cleaners, shoe shiners, or vendors provide unsolicited services then demand payment. Often involves fake demonstrations like showing you 'wax' from your ear that wasn't actually there.",
+      "howToAvoid": "Firmly decline unsolicited services. Don't allow anyone to touch you or your belongings without explicit permission. If someone provides a service despite your refusal, you're not obligated to pay."
     }
   ],
   "soloFemale": {
-    "overview": "<cite index=\"41-1,41-21\">Delhi is safe for solo female travellers as long as you use common sense and stick to some rules.</cite> <cite index=\"1-47,1-48\">The U.S. government advises women traveling alone to observe strict security precautions and use women-only public transport available in Delhi.</cite> While harassment like staring and following is common, serious incidents are relatively rare. <cite index=\"42-32,42-33,42-34\">Most encounters with men are annoying rather than threatening - groping in crowded areas and following on streets, but they rarely cross serious lines.</cite>",
+    "overview": "New Delhi presents moderate challenges for solo female travelers, requiring heightened awareness and precautions. While thousands of women visit safely, incidents of harassment and inappropriate behavior are reported. The US State Department specifically advises women to observe strict security precautions when traveling alone in India. Daytime exploration is generally manageable with proper preparation, but evening activities require extra caution.",
     "tips": [
-      "<cite index=\"41-14,41-15,41-18\">Dress modestly covering shoulders and legs, especially in Old Delhi, as revealing clothes attract unwanted attention.</cite>",
-      "<cite index=\"45-20,45-21\">Use the women's coach on Delhi Metro (first coach in moving direction) - it's less crowded and you won't get stared at.</cite>",
-      "<cite index=\"41-29,41-30,41-31,41-32\">Use the Ola app for booking rickshaws and taxis for fair prices and safety tracking, especially for evening/night travel.</cite>"
+      "Dress modestly covering shoulders and legs, especially in Old Delhi and religious sites",
+      "Use women-only metro compartments during peak hours - they're marked in pink",
+      "Stay in well-reviewed accommodations in safe neighborhoods like South Delhi",
+      "Avoid isolated areas after dark and use trusted transport apps rather than walking alone",
+      "Be prepared for frequent staring and potential harassment - maintain confident body language",
+      "Keep emergency contacts handy and inform someone of your daily plans"
     ]
   },
   "nightSafety": {
-    "overview": "<cite index=\"61-16,61-17,61-18\">Delhi safety at night varies by area - major tourist zones like India Gate and Connaught Place are well-lit with police presence, but avoid isolated areas.</cite> <cite index=\"66-1,66-2\">For solo travelers, stick to daytime and before 10pm ideally, though moving between safe locations later via cabs is manageable.</cite> <cite index=\"65-1,65-14,65-16\">Safest nightlife spots include Cyber Hub, Aerocity, Hauz Khas, and Saket Select Citywalk.</cite>",
+    "overview": "Delhi's nighttime safety varies significantly by area and activity. Well-lit commercial areas in South Delhi and Connaught Place maintain reasonable safety levels until around 10-11 PM, while areas like Paharganj and parts of Old Delhi become riskier after dark. The city has an active nightlife scene, but travelers should stick to established venues and avoid walking alone in unfamiliar areas after midnight.",
     "tips": [
-      "<cite index=\"65-2,65-17\">Never leave drinks unattended, travel with friends when possible, and share your location with family.</cite>",
-      "<cite index=\"65-18\">Book cabs via verified apps like Uber, Ola, and Rapido for their safety tracking features and verified drivers.</cite>",
-      "<cite index=\"45-2,45-23\">Delhi Metro is safe until about 8pm for solo travelers, after that it's better to take an Uber.</cite>"
+      "Stick to well-lit, populated areas and avoid shortcuts through dark alleys or parks",
+      "Use ride-hailing apps rather than walking or hailing random taxis after 10 PM",
+      "Stay in groups when possible and inform someone of your nighttime plans",
+      "Choose reputable bars and clubs in safe neighborhoods like Hauz Khas Village or Connaught Place",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash",
+      "Have emergency numbers saved and ensure your phone is charged before going out"
     ]
   },
   "transport": {
-    "metro": "<cite index=\"45-17,45-18,45-19\">Often called the lifeline of the city, the metro is modern, clean, efficient, inexpensive and very easy to use with 12 lines covering 400km, all in English and Hindi with color coding.</cite> <cite index=\"50-4,50-5\">The Delhi Metro is reliable and safe with dedicated women-only coaches, particularly helpful during rush hours.</cite>",
-    "rideshare": "<cite index=\"55-25,55-36\">Ola offers real-time driver monitoring and SOS button for emergencies, with users prioritizing apps that show exact fares upfront and have safety features like driver verification.</cite> <cite index=\"53-26,53-27\">Uber prioritizes safety with in-app emergency assistance button to call authorities if needed.</cite>",
-    "taxis": "<cite index=\"68-24,68-25,68-26\">Taxi drivers often take advantage of tourists with fast meters or wrong routes, so take only official taxis. Some unlicensed taxis have taken people to wrong hotels.</cite> <cite index=\"51-7,58-10\">New partnerships between Delhi Metro and taxi cooperatives aim to provide affordable, reliable and safe last-mile connectivity services.</cite>",
-    "tips": "<cite index=\"34-8\">Use ride-hailing apps like Uber and Ola instead of unmarked taxis — they have GPS tracking and fare transparency built in.</cite> <cite index=\"34-16\">Use the Delhi Metro wherever possible (safe, air-conditioned, cheap) and book airport transfers through pre-paid apps.</cite>"
+    "metro": "Delhi Metro is excellent - modern, efficient, and safe with over 350km of network connecting most tourist areas. Has women-only compartments during peak hours and operates 6 AM to 11 PM. Purchase smart cards at stations for convenience. Generally very safe and affordable.",
+    "rideshare": "Uber and Ola are widely available, safe, and eliminate haggling. Require Indian phone number to book. Track your ride and share location with contacts. Both offer auto-rickshaw and car options. More expensive than local transport but much safer and more reliable for tourists.",
+    "taxis": "Pre-paid taxi counters at airport and railway stations are safer than street taxis. Regular taxis often don't use meters and require negotiation. Private car hire through hotels is safer for day trips. Always agree on fare before departure unless using apps.",
+    "tips": "Delhi Metro is your best option for most journeys. For short distances, use Uber/Ola rather than negotiating with auto drivers. Avoid overcrowded buses. Traffic is chaotic so allow extra time. Women should use metro's pink line women-only coaches during rush hours."
   },
   "customs": [
-    "<cite index=\"81-1,81-2\">Greet with 'Namaste' or 'Namaskar' by placing palms together and bowing slightly, especially when meeting older people.</cite>",
-    "<cite index=\"84-23,84-24\">Eat with your right hand only - the left hand is for unsavory functions while the right hand is for eating and greeting.</cite>",
-    "<cite index=\"86-1,86-2,87-15\">Remove shoes when entering temples, homes, and some religious sites to prevent dirt from coming into sanctified environments.</cite>"
+    "Greet with 'Namaste' (hands pressed together) rather than handshakes, especially with women and elders",
+    "Remove shoes before entering homes, temples, and some restaurants - follow others' lead",
+    "Use only your right hand for eating, passing items, and greeting - left hand is considered unclean",
+    "Dress modestly covering shoulders and knees, especially in religious sites and Old Delhi",
+    "Avoid public displays of affection - even holding hands can attract negative attention",
+    "Show respect for elders and never touch anyone's head, including children"
   ],
   "health": {
-    "overview": "<cite index=\"22-4,22-7\">Delhi faces a serious air pollution crisis with PM2.5 levels creating a public health emergency. Between 2022-2024, 204,758 cases of Acute Respiratory Infection were reported to emergency departments, with 30,424 requiring hospitalization.</cite> <cite index=\"25-4,27-4,27-21\">Current Air Quality Index levels are around 153-159 (Unhealthy), requiring extra precautions especially for those with respiratory conditions.</cite>",
-    "water": "<cite index=\"42-18,42-19\">Travelers' diarrhea (Delhi belly) is the single biggest problem travelers face, with bad water being the main cause rather than food poisoning.</cite> Always drink bottled or properly treated water and avoid ice in drinks.",
-    "vaccinations": "<cite index=\"42-4,42-5,42-7,42-8\">Be very careful of mosquitoes due to dengue fever risk, which has no vaccine. Malaria is less of a risk, but use DEET repellent liberally.</cite>",
-    "altitude": "<cite index=\"28-4,28-6\">Air pollution is causing noticeable rise in allergies, sinus issues, respiratory infections, asthma, and COPD across all age groups, especially affecting children and elderly.</cite> Consider air purifiers for accommodation and limit outdoor activities during high pollution days."
+    "overview": "Delhi faces significant health challenges including severe air pollution, water quality issues, and seasonal disease outbreaks. The city has good private healthcare facilities but air pollution remains a major concern, especially during winter months when AQI levels can reach hazardous levels.",
+    "water": "Tap water is not safe to drink. Use bottled water from reputable brands and check seals carefully. Avoid ice in drinks unless from reliable sources. Street food requires caution - choose busy stalls with high turnover and avoid raw foods.",
+    "vaccinations": "Routine vaccinations should be up-to-date. Consider Hepatitis A, Hepatitis B, Japanese Encephalitis, and Typhoid. Malaria risk is low in Delhi itself but consider prophylaxis if traveling to other parts of India. Consult travel clinic 4-6 weeks before travel.",
+    "altitude": "Delhi is at sea level so no altitude concerns. Climate is extremely hot in summer (up to 45°C) and can be very polluted in winter. Monsoon season (July-September) brings flooding risks. Air quality is worst October-February, requiring masks and limiting outdoor activities."
   },
   "emergency": {
-    "general": "<cite index=\"71-5,71-10\">112 (unified emergency number launched in 2026 for all services)</cite>",
-    "police": "<cite index=\"72-1,75-2\">100 or 112</cite>",
-    "ambulance": "<cite index=\"72-1,75-2\">102</cite>",
-    "fire": "<cite index=\"72-1,75-2\">101</cite>",
-    "touristPolice": "<cite index=\"77-7\">1091 (Women's Helpline)</cite>",
-    "usEmbassy": "US Embassy New Delhi: +91-11-2419-8000. Located in Chanakyapuri diplomatic enclave, provides 24/7 emergency services for US citizens including passport replacement, emergency loans, and crime reporting assistance."
+    "general": "112",
+    "police": "100",
+    "ambulance": "102 or 108",
+    "fire": "101",
+    "touristPolice": "1363",
+    "usEmbassy": "US Embassy Delhi: +91-11-2672-2000, Consular Section: +91-11-2672-2000 (24/7 emergency line). Located at Shantipath, Chanakyapuri, New Delhi. Provides emergency assistance, passport services, and citizen welfare."
   },
   "faq": [
     {
       "q": "Is New Delhi safe for tourists?",
-      "a": "<cite index=\"63-6,63-7\">Delhi does have a high crime rate compared to the rest of India, but crimes against tourists are rare. The city is safe as long as you are careful.</cite> The main risks are scams and petty crime rather than violent incidents. Millions of tourists visit annually without problems."
+      "a": "New Delhi is moderately safe for tourists who take proper precautions. Violent crime against tourists is uncommon, but petty crime, scams, and harassment can occur. Stay alert, use common sense, and follow local advice to have a safe visit."
     },
     {
       "q": "Is New Delhi safe at night?",
-      "a": "<cite index=\"61-16,61-17\">Parts of Delhi are safe at night - major tourist areas have good lighting and police presence, but avoid isolated areas.</cite> <cite index=\"70-1,70-2\">Stick to well-lit areas like India Gate, Connaught Place, and use metered taxis or app-based cabs.</cite>"
+      "a": "Delhi has areas that are reasonably safe at night, particularly South Delhi and Connaught Place until around 10-11 PM. However, avoid walking alone after dark, stick to well-lit populated areas, and use ride-hailing apps for transport. Solo female travelers should be especially cautious."
     },
     {
       "q": "Is New Delhi safe for solo female travelers?",
-      "a": "<cite index=\"47-1,47-26\">After traveling India alone for over 10 months, the general impression is that India is safe for solo female travel as long as you use common sense.</cite> <cite index=\"1-48,45-20\">Use women-only metro coaches and public transport designated for women, available as a free service in Delhi.</cite>"
+      "a": "Solo female travel to Delhi requires extra precautions. Dress modestly, use women-only metro compartments, avoid isolated areas especially after dark, and stay in safe neighborhoods. Many women visit successfully, but harassment and inappropriate behavior are concerns that require vigilance."
     },
     {
       "q": "What areas should I avoid in New Delhi?",
-      "a": "<cite index=\"45-15,45-16\">Avoid staying in Paharganj (backpacker area) and Old Delhi.</cite> <cite index=\"48-8,66-9\">Avoid outskirts at night and always travel via trusted apps like Ola and Uber in remote areas.</cite> Be extra cautious around transport hubs where scam activity is highest."
+      "a": "Avoid outer Delhi and industrial areas, especially at night. Be cautious in Paharganj (budget accommodation area) due to touts and scams. While Old Delhi is worth visiting during the day, its narrow lanes can be overwhelming. Stick to well-established tourist areas and follow local advice."
     },
     {
       "q": "Is it safe to use public transport in New Delhi?",
-      "a": "<cite index=\"51-17,51-18\">Delhi Metro has emerged as the backbone of public transportation, providing fast, safe and reliable mass transit for millions daily.</cite> <cite index=\"50-4,50-5\">The metro is reliable and safe with dedicated women-only coaches.</cite> Avoid city buses which can be crowded and less safe."
+      "a": "Delhi Metro is very safe, modern, and reliable - it's the best way to get around the city. It has women-only compartments during peak hours. Avoid overcrowded buses. For shorter trips, use Uber or Ola rather than negotiating with auto-rickshaw drivers to avoid overcharging and ensure safety."
     }
   ],
   "relatedCities": [
     "mumbai",
     "kolkata",
-    "bangalore",
     "chennai"
   ],
-  "_city_id": "new-delhi-india"
+  "_city_id": "new-delhi-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg"
 }
