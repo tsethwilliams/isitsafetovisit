@@ -1573,3 +1573,51 @@
 2026-03-16 09:46:13,207 [INFO] Checking alerts for 235 cities
 2026-03-16 09:46:48,326 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-16 09:46:48,402 [INFO] No safety alerts detected
+2026-03-16 12:02:40,158 [INFO] Agent starting — mode: add
+2026-03-16 12:02:40,196 [INFO] Queue has 327 cities, adding 8
+2026-03-16 12:02:40,197 [INFO] Generating new city profile: Rishikesh, India
+2026-03-16 12:04:09,729 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:04:10,275 [INFO] Found Wikipedia image for Rishikesh
+2026-03-16 12:04:10,275 [INFO] Saved city data: rishikesh-india
+2026-03-16 12:04:10,278 [INFO] Generating new city profile: Kolkata, India
+2026-03-16 12:05:39,601 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:05:39,900 [INFO] Found Wikipedia image for Kolkata
+2026-03-16 12:05:39,900 [INFO] Saved city data: kolkata-india
+2026-03-16 12:05:39,903 [INFO] Generating new city profile: Bangalore, India
+2026-03-16 12:07:18,733 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:07:19,144 [INFO] Found Wikipedia image for Bangalore
+2026-03-16 12:07:19,145 [INFO] Saved city data: bangalore-india
+2026-03-16 12:07:19,147 [INFO] Generating new city profile: Ella, Sri Lanka
+2026-03-16 12:08:58,287 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:08:58,491 [INFO] Found Wikipedia image for Ella
+2026-03-16 12:08:58,492 [INFO] Saved city data: ella-sri-lanka
+2026-03-16 12:08:58,494 [INFO] Generating new city profile: Galle, Sri Lanka
+2026-03-16 12:10:35,397 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:10:35,731 [INFO] Found Wikipedia image for Galle
+2026-03-16 12:10:35,732 [INFO] Saved city data: galle-sri-lanka
+2026-03-16 12:10:35,735 [INFO] Generating new city profile: Pokhara, Nepal
+2026-03-16 12:11:49,634 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:11:49,905 [INFO] Found Wikipedia image for Pokhara
+2026-03-16 12:11:49,906 [INFO] Saved city data: pokhara-nepal
+2026-03-16 12:11:49,908 [INFO] Generating new city profile: Dhaka, Bangladesh
+2026-03-16 12:12:40,423 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:12:40,565 [ERROR] Claude returned empty text response
+2026-03-16 12:12:40,565 [ERROR] Failed to parse city data for Dhaka (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-16 12:12:40,565 [INFO] Retry 1/2 for Dhaka
+2026-03-16 12:14:24,563 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:14:24,916 [INFO] Found Wikipedia image for Dhaka
+2026-03-16 12:14:24,917 [INFO] Saved city data: dhaka-bangladesh
+2026-03-16 12:14:24,919 [INFO] Generating new city profile: Thimphu, Bhutan
+2026-03-16 12:16:15,517 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-16 12:16:15,804 [INFO] Found Wikipedia image for Thimphu
+2026-03-16 12:16:15,804 [INFO] Saved city data: thimphu-bhutan
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Rishikesh
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Kolkata
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Bangalore
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Ella
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Galle
+2026-03-16 12:16:15,833 [INFO] Merged into site data: Pokhara
+2026-03-16 12:16:15,834 [INFO] Merged into site data: Dhaka
+2026-03-16 12:16:15,834 [INFO] Merged into site data: Thimphu
+2026-03-16 12:16:15,879 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-16 12:16:15,904 [INFO] Rebuilt sitemap with 348 URLs (246 cities, 96 countries, 6 static)

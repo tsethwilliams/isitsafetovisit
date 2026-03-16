@@ -1,0 +1,166 @@
+{
+  "slug": "thimphu",
+  "name": "Thimphu",
+  "country": "Bhutan",
+  "countryCode": "BT",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.5,
+    "nightSafety": 7.5,
+    "transport": 7.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Thimphu, Bhutan's capital, is widely considered one of Asia's safest cities for tourists, with extremely low crime rates and a Buddhist culture that emphasizes respect and harmony. While petty crime exists and tourists may encounter occasional overcharging or scams, violent crime against visitors is virtually unheard of. The city is particularly safe for solo female travelers and offers a peaceful, respectful environment for all visitors.",
+  "quickVerdict": "Thimphu stands out as exceptionally safe destination where violent crime against tourists is extremely rare and locals are generally respectful and helpful. The main concerns for visitors are minor issues like overcharging at tourist shops, occasional petty theft in crowded areas, and the need to respect local customs. The city's Buddhist culture and strong social values create an environment where harassment is minimal and personal safety risks are very low. Travelers should be aware of natural disaster risks including earthquakes and landslides due to the Himalayan location, but day-to-day security concerns are minimal.",
+  "neighborhoods": [
+    {
+      "name": "Norzin Lam",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The main commercial district and heart of Thimphu, bustling with shops, restaurants, and cultural attractions. Very safe for tourists with good police presence, though pickpocketing can occur in crowded areas. Well-lit at night with plenty of activity."
+    },
+    {
+      "name": "Motithang",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area in the hills offering scenic views and peaceful atmosphere. Extremely safe with low crime rates, popular with tourists for its serene environment and nature walks. Ideal for those seeking quiet, secure accommodation."
+    },
+    {
+      "name": "Babesa",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern neighborhood with contemporary amenities and infrastructure. Safe and convenient for visitors who prefer modern comforts, with good access to facilities and transportation links."
+    },
+    {
+      "name": "Changzamtok",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Traditional area near the old town with historic temples and local markets. Generally safe but requires more attention to belongings in market areas. Good for cultural experiences with local guide recommended."
+    },
+    {
+      "name": "Changangkha",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Religious area home to ancient temples and monasteries. Very peaceful and spiritually significant, though more isolated at night. Excellent for cultural tourism with proper respect for religious customs required."
+    },
+    {
+      "name": "Simtokha",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Suburban area further from city center with rural character. While generally safe, more remote location means fewer people around after dark and longer response times for assistance. Better suited for daytime visits or travelers with local contacts."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Souvenirs",
+      "risk": "moderate",
+      "description": "Shop owners, especially in tourist areas, may quote prices significantly higher than actual value for handicrafts, textiles, and traditional items.",
+      "howToAvoid": "Compare prices across multiple shops, ask locals for fair price ranges, and negotiate politely. Shop at government emporiums for fixed prices."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "moderate",
+      "description": "Unauthorized individuals may pose as official guides offering services at dzongs, temples, or cultural sites without proper credentials or knowledge.",
+      "howToAvoid": "Only hire guides through licensed tour operators or at official visitor centers. Verify credentials and ask for identification cards before agreeing to services."
+    },
+    {
+      "name": "Restaurant/Bar Overcharging",
+      "risk": "moderate",
+      "description": "Some establishments may not provide menus or inflate prices for tourists, especially for alcohol and specialty dishes in bars and restaurants.",
+      "howToAvoid": "Always ask to see a menu with prices before ordering. In bars, confirm drink prices upfront. Keep receipts and question unexpected charges."
+    },
+    {
+      "name": "Transportation Fare Inflation",
+      "risk": "low",
+      "description": "Taxi drivers or private transport operators may quote higher fares to tourists or take longer routes to increase costs.",
+      "howToAvoid": "Use official taxi services when available, confirm fares before starting journey, and use GPS to track routes. Negotiate fixed prices for longer trips in advance."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Thimphu is exceptionally safe for solo female travelers, with Bhutan consistently rated as one of the safest destinations for women in Asia. The Buddhist culture emphasizes respect for all people, street harassment is extremely rare, and violent crime against women is virtually unheard of. Local people are generally helpful and respectful, and many solo female travelers report feeling safer in Thimphu than in their home countries. The requirement for guides in certain areas actually adds an extra layer of security.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially when visiting religious sites and dzongs",
+      "Be aware that you'll need an official guide for most tourist activities outside the main city areas",
+      "The Bhutanese people are very respectful - don't hesitate to ask locals or authorities for help if needed",
+      "Evening socializing is generally safe, but consider going with your guide to local bars and social venues",
+      "Book accommodation through reputable sources as solo travelers may receive special attention to ensure safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Thimphu is very safe at night by international standards, though the city tends to wind down early with most shops and restaurants closing by 9-10 PM. Violent crime is extremely rare, and the streets remain relatively safe for walking, especially in the main commercial areas. However, lighting can be limited in some residential areas, and the mountainous terrain means some paths may be challenging in the dark.",
+    "tips": [
+      "Stick to main roads and well-lit areas when walking at night, particularly Norzin Lam and the central district",
+      "Be aware that many establishments close early, so plan evening activities accordingly",
+      "Use taxis or arrange transportation for longer distances rather than walking in unfamiliar or remote areas",
+      "Social drinking is acceptable but maintain awareness as altitude can affect alcohol tolerance",
+      "Consider joining group activities or going with your guide for nighttime socializing and cultural experiences"
+    ]
+  },
+  "transport": {
+    "metro": "Thimphu has no metro system. Public transportation consists mainly of buses and shared taxis operating on fixed routes within the city.",
+    "rideshare": "International rideshare apps like Uber are not available. Local taxi services and private drivers are the main options for point-to-point transport.",
+    "taxis": "Local taxis are generally safe but may not use meters. Negotiate fares in advance and use licensed operators. Hotel recommendations for reliable drivers are helpful.",
+    "tips": "Transportation is generally safe but limited. Most tourists arrange transport through tour operators or hotels. For independent travel, verify driver credentials and agree on fares beforehand. Road conditions can be challenging during monsoon season."
+  },
+  "customs": [
+    "Dress modestly covering shoulders and knees, especially at religious sites. Remove shoes and hats when entering temples and dzongs.",
+    "Greet people with 'Kuzuzangpo la' and use both hands when giving or receiving items. Add 'la' to show respect to elders.",
+    "Walk clockwise around religious monuments, prayer wheels, and stupas. Never point feet at religious objects or statues.",
+    "Photography is often restricted inside temples and religious buildings. Always ask permission before taking photos of people.",
+    "Public displays of affection are frowned upon. Maintain respectful behavior and speak quietly in religious areas."
+  ],
+  "health": {
+    "overview": "Thimphu has basic healthcare facilities with the Jigme Dorji Wangchuck National Referral Hospital being the best medical facility in Bhutan. However, healthcare standards may not match Western expectations, and serious medical emergencies may require evacuation to India or Thailand.",
+    "water": "Tap water is generally safe in hotels and restaurants in Thimphu, but bottled water is recommended for visitors to avoid any stomach upset. Avoid ice in drinks from street vendors.",
+    "vaccinations": "No specific vaccinations required for entry from most countries, though routine vaccines (MMR, DPT, flu) should be up to date. Malaria is risk in some low-altitude areas but not in Thimphu.",
+    "altitude": "Thimphu sits at 2,320 meters (7,610 feet) elevation. Most visitors experience mild altitude effects. Stay hydrated, avoid excessive alcohol, and ascend gradually from Paro. Consult doctor if you have heart or lung conditions."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "112",
+    "fire": "110",
+    "touristPolice": "N/A",
+    "usEmbassy": "The US does not have an embassy in Bhutan. US citizens should contact the US Embassy in New Delhi, India at +(91) (11) 2419-8000 for consular assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Thimphu safe for tourists?",
+      "a": "Yes, Thimphu is exceptionally safe for tourists. Bhutan has very low crime rates, and violent crime against visitors is virtually unheard of. The biggest concerns are minor issues like overcharging and the need to respect local customs. The Buddhist culture emphasizes respect and non-violence."
+    },
+    {
+      "q": "Is Thimphu safe at night?",
+      "a": "Thimphu is generally very safe at night, though the city tends to close early with most establishments shutting down by 9-10 PM. Main areas like Norzin Lam remain safe for evening walks, but stick to well-lit areas and be aware that some residential areas have limited lighting."
+    },
+    {
+      "q": "Is Thimphu safe for solo female travelers?",
+      "a": "Absolutely. Thimphu is one of the safest cities in Asia for solo female travelers. Street harassment is extremely rare due to Buddhist cultural values emphasizing respect. Many women report feeling safer here than in their home countries. The guide requirement for most tourist activities also adds security."
+    },
+    {
+      "q": "What areas should I avoid in Thimphu?",
+      "a": "There are no particularly dangerous areas to avoid in Thimphu. The most remote suburban areas like Simtokha may have fewer people around after dark, but they're still relatively safe. Use common sense in any isolated areas and stick to main roads at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Thimphu?",
+      "a": "Yes, public transport including buses and taxis is generally safe, though limited. Taxis may not use meters so agree on fares in advance. Most tourists arrange transport through tour operators. Road conditions can be challenging during monsoon season, but drivers are generally experienced with mountain driving."
+    }
+  ],
+  "relatedCities": [
+    "kathmandu",
+    "gangtok",
+    "dharamshala",
+    "leh",
+    "pokhara"
+  ],
+  "_city_id": "thimphu-bhutan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg/1280px-Tashich%C3%B6dzong_Thimphu-2008-01-23.jpg"
+}

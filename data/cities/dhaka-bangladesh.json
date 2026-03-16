@@ -1,0 +1,168 @@
+{
+  "slug": "dhaka",
+  "name": "Dhaka",
+  "country": "Bangladesh",
+  "countryCode": "BD",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 4.7,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 5.5,
+    "scamRisk": 3.5,
+    "womensSafety": 4.5,
+    "nightSafety": 3.8,
+    "transport": 6.2,
+    "naturalHazards": 5.4
+  },
+  "summary": "Dhaka presents moderate safety concerns with rising crime rates, political demonstrations, and frequent flooding. While the city is relatively safe during daylight hours with friendly locals, visitors should exercise heightened caution at night and in certain areas.",
+  "quickVerdict": "Dhaka requires careful planning and awareness for safe travel. The city has experienced a notable spike in crime since political changes in 2024, including increased muggings, robberies, and theft. While most areas remain relatively safe during the day, tourist scams are common and night safety is a significant concern. Infrastructure challenges, air pollution, and monsoon flooding add to the complexity of visiting safely.",
+  "neighborhoods": [
+    {
+      "name": "Gulshan",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale diplomatic quarter with modern amenities, international hotels, restaurants and embassies. Well-patrolled by security forces with good infrastructure and road conditions."
+    },
+    {
+      "name": "Banani",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy business district adjacent to Gulshan with vibrant nightlife, shopping centers and corporate offices. Generally secure but can get crowded in commercial areas."
+    },
+    {
+      "name": "Dhanmondi",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Cultural residential area with parks, universities and restaurants. Generally safe but can experience traffic congestion and occasional street crime."
+    },
+    {
+      "name": "Uttara",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Modern planned suburb with shopping malls and residential complexes. Relatively safe but isolated from city center and can have limited late-night transport options."
+    },
+    {
+      "name": "Old Dhaka",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Historic area with narrow streets, crowded markets and heritage sites. High risk of pickpocketing, scams and harassment, especially around Lalbagh Fort and Sadarghat."
+    },
+    {
+      "name": "Mirpur",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Dense residential and industrial area with higher crime rates. Avoid especially after dark due to increased incidents of mugging and theft."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "high",
+      "description": "Street vendors at markets and near hotels offer better-than-official exchange rates for foreign currency, then provide counterfeit notes or shortchange tourists.",
+      "howToAvoid": "Only exchange money at authorized banks, hotels in upscale areas like Gulshan, or use official ATMs. Count money carefully and avoid street exchanges entirely."
+    },
+    {
+      "name": "Fake Travel Agents",
+      "risk": "high",
+      "description": "Fraudulent travel agencies, especially for Hajj/Umrah packages and international flights, collect advance payments then disappear or provide fake tickets.",
+      "howToAvoid": "Book only through licensed agencies with physical offices, verify credentials with tourism authorities, and use secure payment methods with fraud protection."
+    },
+    {
+      "name": "Airport Porter Scam",
+      "risk": "medium",
+      "description": "Self-appointed porters at Hazrat Shahjalal International Airport grab luggage without permission claiming to be official staff, then demand inflated fees.",
+      "howToAvoid": "Keep luggage close, only use official porter services with clear pricing, and firmly decline unsolicited help at the airport."
+    },
+    {
+      "name": "Tourist Transport Overcharge",
+      "risk": "medium",
+      "description": "Rickshaw and taxi drivers refuse to use meters or negotiate fair prices, especially near tourist spots, charging significantly higher fares.",
+      "howToAvoid": "Agree on fare before starting journey, use ride-sharing apps like Uber or Pathao, or ask locals for typical fare amounts to popular destinations."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Dhaka requires extra precautions due to conservative cultural norms and higher harassment risks. While Bangladesh has a history of female leadership and women are generally protected in society, foreign women may face unwanted attention, verbal harassment, and cultural challenges. Dress modestly and avoid traveling alone at night.",
+    "tips": [
+      "Dress conservatively with loose-fitting clothes covering shoulders and knees, carry a scarf for religious sites",
+      "Use reputable accommodations in safer areas like Gulshan or Banani rather than budget options",
+      "Travel during daylight hours and use ride-sharing apps or women-only transport services when available",
+      "Connect with local women's groups or expat communities for support and advice",
+      "Carry emergency contacts and inform someone of your whereabouts when exploring"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Dhaka is poor and requires significant caution. Crime rates spike after dark with increased muggings, robberies and theft. Many areas become deserted early evening making solo travel particularly risky. Political demonstrations can occur without warning.",
+    "tips": [
+      "Avoid walking alone after dark, especially in areas like Old Dhaka and Mirpur",
+      "Use trusted transport services rather than public transportation at night",
+      "Stay in well-lit, populated areas if you must go out after sunset",
+      "Keep valuables minimal and use hotel safes for important documents",
+      "Monitor local news for any political gatherings or security alerts"
+    ]
+  },
+  "transport": {
+    "metro": "Dhaka Metro Rail (MRT) is new and generally safe with security personnel and CCTV. However, crowds can be intense and pickpocketing may occur during peak hours.",
+    "rideshare": "Uber and Pathao operate reliably in Dhaka with GPS tracking and driver verification. Generally the safest transport option for tourists with upfront pricing.",
+    "taxis": "Traditional taxis often refuse to use meters and may overcharge. Choose registered companies and agree on fares beforehand. CNG auto-rickshaws are cheaper but can be uncomfortable.",
+    "tips": "Use ride-sharing apps whenever possible for safety and fair pricing. Avoid public buses which are overcrowded and have safety concerns. For women, look for women-only transport services when available."
+  },
+  "customs": [
+    "Greet with 'Assalamu Alaikum' (Peace be upon you) and respond with 'Wa Aleykum As-Salaam'",
+    "Remove shoes before entering homes, mosques, and many shops as a sign of respect",
+    "Use your right hand for eating, greeting, and exchanging items as left hand is considered unclean",
+    "Dress modestly especially when visiting religious sites - cover shoulders, knees, and head in mosques",
+    "Show respect for elders and use formal titles like 'sir' or family terms like 'uncle/aunty' for older people",
+    "Avoid public displays of affection between men and women, including handholding",
+    "Do not point with your finger - use an open hand or nod to indicate direction"
+  ],
+  "health": {
+    "overview": "Dhaka faces significant health challenges including severe air pollution ranked among world's worst, contaminated water supply, and overcrowded healthcare system. The city experiences dengue outbreaks and has limited quality medical facilities outside private hospitals.",
+    "water": "Do not drink tap water in Dhaka. Stick to sealed bottled water and check seals for tampering. Use bottled water for brushing teeth and avoid ice in drinks unless from trusted sources.",
+    "vaccinations": "Required: Hepatitis A and Typhoid. Recommended: Hepatitis B, Japanese Encephalitis, and Rabies. Yellow Fever vaccination needed if coming from infected areas.",
+    "altitude": "Dhaka sits at low elevation with tropical monsoon climate. Main health concerns are air pollution causing respiratory issues, heat stress during summer months, and dengue fever risk year-round."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "+880-1320-222222",
+    "usEmbassy": "US Embassy Dhaka: +(88) (2) 5566-2000, located at Madani Avenue, Baridhara, Dhaka 1212. After hours emergency number same as above - press 3 for duty officer."
+  },
+  "faq": [
+    {
+      "q": "Is Dhaka safe for tourists?",
+      "a": "Dhaka is moderately safe during daylight hours but requires caution. Stick to safer neighborhoods like Gulshan and Banani, use reputable transport, and avoid wandering alone at night. Crime rates have increased since 2024 political changes."
+    },
+    {
+      "q": "Is Dhaka safe at night?",
+      "a": "Night safety in Dhaka is poor. Avoid walking alone after dark, especially in Old Dhaka and Mirpur areas. Use trusted transportation and stay in well-lit, populated areas if you must go out."
+    },
+    {
+      "q": "Is Dhaka safe for solo female travelers?",
+      "a": "Solo female travel requires extra precautions in Dhaka. Dress modestly, use reputable accommodations in safer areas, avoid night travel, and be prepared for cultural challenges and potential harassment."
+    },
+    {
+      "q": "What areas should I avoid in Dhaka?",
+      "a": "Avoid Old Dhaka (especially around Sadarghat and markets) and Mirpur after dark. Be cautious in crowded areas like Kamalapur Railway Station and avoid political gathering areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Dhaka?",
+      "a": "The new metro system is relatively safe but can be crowded. Avoid public buses due to safety concerns. Use ride-sharing apps like Uber or Pathao for safest transport option with GPS tracking and verified drivers."
+    }
+  ],
+  "relatedCities": [
+    "colombo",
+    "kathmandu",
+    "karachi",
+    "mumbai",
+    "delhi"
+  ],
+  "_city_id": "dhaka-bangladesh",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Drone_view_from_Kamal_Atat%C3%BCrk_Avenue.jpg/1280px-Drone_view_from_Kamal_Atat%C3%BCrk_Avenue.jpg"
+}

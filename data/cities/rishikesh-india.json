@@ -1,0 +1,166 @@
+{
+  "slug": "rishikesh",
+  "name": "Rishikesh",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Rishikesh is considered one of India's safest destinations for tourists, earning a reputation as the 'Yoga Capital of the World.' This spiritual town along the Ganges River offers a peaceful atmosphere with low crime rates and a welcoming community. While natural hazards and minor scams exist, the overall safety profile makes it ideal for solo travelers, including women.",
+  "quickVerdict": "Rishikesh stands out as exceptionally safe among Indian destinations, combining spiritual tranquility with practical security. The town's alcohol-free, vegetarian environment attracts respectful visitors and maintains peaceful streets. Crime rates are notably low, particularly violent crime, making it perfect for solo female travelers and first-time visitors to India. The main precautions involve natural disaster awareness (earthquake zone) and typical tourist scams.",
+  "neighborhoods": [
+    {
+      "name": "Laxman Jhula",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of backpacker Rishikesh with the iconic suspension bridge. Extremely well-patrolled and busy area with numerous cafes, shops, and accommodations. Very safe day and night with constant foot traffic."
+    },
+    {
+      "name": "Ram Jhula",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Another major tourist hub connected by the famous bridge. Well-lit at night with good police presence. Popular with international visitors and considered very safe for all travelers."
+    },
+    {
+      "name": "Tapovan",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale area on the west bank of Ganges, popular for yoga retreats and wellness centers. Quieter than the main bridges but equally safe with well-maintained roads and frequent patrols."
+    },
+    {
+      "name": "Muni Ki Reti",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Traditional ashram area with numerous spiritual centers. Generally safe but can be quieter at night. Recommended to stay alert in less populated sections after dark."
+    },
+    {
+      "name": "Rishikesh City Center",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The main commercial area near the railway station. Busier and noisier than spiritual zones but safe during day hours. Take standard precautions with belongings in crowded markets."
+    },
+    {
+      "name": "Swarg Ashram",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic ashram area on the east bank near Laxman Jhula. Peaceful spiritual environment with good safety record. Well-connected to main tourist areas and generally safe for walking."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Holy Man Blessings",
+      "risk": "medium",
+      "description": "Self-proclaimed sadhus or holy men offer blessings, tie threads on wrists, or place tilaka marks, then demand significant payment.",
+      "howToAvoid": "Politely decline unsolicited blessings from strangers. Only accept blessings from established temples or recommended ashrams. Never feel obligated to pay for unwanted religious services."
+    },
+    {
+      "name": "Overpriced Yoga Classes",
+      "risk": "medium",
+      "description": "Fake yoga instructors or unregistered schools charge excessive fees for basic classes or worthless certifications, especially targeting foreign tourists.",
+      "howToAvoid": "Research yoga schools in advance and check reviews. Ask about instructor certifications. Compare prices from multiple schools and book through established centers with proper credentials."
+    },
+    {
+      "name": "Transport Overcharging",
+      "risk": "high",
+      "description": "Auto-rickshaw and taxi drivers quote inflated fares to tourists, claiming meters are broken or routes are longer than necessary.",
+      "howToAvoid": "Use ride-hailing apps like Ola or Uber when available. Negotiate fares before starting trips. Ask locals for typical fare estimates and insist on using meters in official taxis."
+    },
+    {
+      "name": "Fake GST Billing",
+      "risk": "medium",
+      "description": "Some outlets charge GST without valid registration, particularly in tourist areas. Bills may include unauthorized taxes or service charges.",
+      "howToAvoid": "Verify GST numbers on bills using government apps. Ask for itemized receipts and question unexpected charges. Report suspicious billing to local authorities if concerned."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Rishikesh is consistently ranked as one of India's safest destinations for solo female travelers, with a spiritual atmosphere that naturally promotes respectful behavior. The town has a strong international community of female travelers, creating a supportive environment. Most accommodations offer women-only areas and the local community is accustomed to solo female visitors.",
+    "tips": [
+      "Stay in well-reviewed hostels or guesthouses with female staff and women-only dormitories",
+      "Dress modestly, especially when visiting temples and ashrams - cover shoulders and knees",
+      "Join the active community of female travelers at popular cafes like Little Buddha and German Bakery",
+      "Use established yoga schools and wellness centers rather than accepting services from unknown individuals",
+      "Keep regular contact with family or friends and share your itinerary with accommodation staff"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Rishikesh maintains good safety levels after dark, though the spiritual town naturally winds down earlier than typical Indian cities. Main tourist areas remain well-lit and populated until around 10 PM. The alcohol-free environment contributes to peaceful nights, and most establishments close early in keeping with the town's spiritual character.",
+    "tips": [
+      "Stick to well-lit main roads and avoid isolated riverside paths after dark",
+      "Most cafes and shops close by 10 PM - plan accordingly and don't expect late-night services",
+      "The bridges (Laxman Jhula, Ram Jhula) are generally safe for evening walks but stay alert",
+      "Use hotel-arranged transportation for late arrivals rather than flagging down random vehicles",
+      "Carry a flashlight for walking as street lighting can be inconsistent in some areas"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Rishikesh. The town is small enough to walk between most attractions.",
+    "rideshare": "Ola and Uber operate with limited availability, mainly for airport transfers and longer distances. More reliable for trips to Dehradun or Haridwar than local transport.",
+    "taxis": "Private taxis and auto-rickshaws are widely available. Negotiate fares in advance or insist on meter use. Many established taxi services operate from major hotels and tourist areas with good safety records.",
+    "tips": "Walking is the best way to explore central Rishikesh. For longer distances, use hotel-recommended taxi services or established operators. Always confirm fares before starting journeys and avoid unlicensed vehicles."
+  },
+  "customs": [
+    "Remove shoes before entering any temple, ashram, or traditional Indian home",
+    "Use only your right hand for eating, greeting, and handling money - left hand is considered unclean",
+    "Dress modestly covering shoulders and knees, especially in religious areas",
+    "Greet with 'Namaste' placing palms together rather than handshakes",
+    "Avoid public displays of affection as they are culturally inappropriate",
+    "Do not point feet toward people, religious images, or altars",
+    "Photography may be restricted in temples - always ask permission first"
+  ],
+  "health": {
+    "overview": "Rishikesh offers good healthcare facilities including AIIMS Rishikesh, one of India's premier medical institutions. The spiritual focus of the town means healthy vegetarian food is widely available and air quality is generally better than major Indian cities.",
+    "water": "Tap water should be avoided. Stick to bottled water from reputable brands or use UV purification tablets. Most accommodations provide safe drinking water.",
+    "vaccinations": "Standard travel vaccinations recommended: Hepatitis A and B, Typhoid, Japanese Encephalitis, and ensure routine vaccinations are current. Consult a travel medicine specialist.",
+    "altitude": "Located at 372 meters above sea level with no altitude concerns. Climate is generally pleasant but can be hot in summer (up to 40°C). Monsoon season brings heavy rains and potential flooding risks."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101",
+    "touristPolice": "1363",
+    "usEmbassy": "US Embassy New Delhi: +91-11-2419-8000. US Consulate Mumbai: +91-22-6672-4000. No direct US representation in Rishikesh - contact through Delhi embassy for assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Rishikesh safe for tourists?",
+      "a": "Yes, Rishikesh is one of India's safest tourist destinations with very low crime rates. The spiritual atmosphere promotes peaceful behavior, and the town has extensive experience hosting international visitors safely."
+    },
+    {
+      "q": "Is Rishikesh safe at night?",
+      "a": "Generally yes, main tourist areas remain safe after dark until about 10 PM when most businesses close. The alcohol-free environment contributes to peaceful nights, though standard precautions should be taken."
+    },
+    {
+      "q": "Is Rishikesh safe for solo female travelers?",
+      "a": "Absolutely. Rishikesh is consistently rated as one of India's best destinations for solo female travel, with a strong community of female travelers and accommodations specifically catering to women's safety needs."
+    },
+    {
+      "q": "What areas should I avoid in Rishikesh?",
+      "a": "There are no particularly dangerous areas, but exercise caution in isolated riverside paths after dark and avoid unauthorized yoga instructors or fake holy men approaching you on the street."
+    },
+    {
+      "q": "Is it safe to use public transport in Rishikesh?",
+      "a": "Yes, local transport is generally safe. Auto-rickshaws and taxis operate reliably, though negotiate fares in advance. Walking is often the best option for short distances in the compact town center."
+    }
+  ],
+  "relatedCities": [
+    "varanasi",
+    "mcleod-ganj",
+    "pushkar"
+  ],
+  "_city_id": "rishikesh-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Trayambakeshwar_Temple_VK.jpg/1280px-Trayambakeshwar_Temple_VK.jpg"
+}

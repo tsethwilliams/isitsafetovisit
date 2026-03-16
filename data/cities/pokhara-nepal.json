@@ -1,0 +1,158 @@
+{
+  "slug": "pokhara",
+  "name": "Pokhara",
+  "country": "Nepal",
+  "countryCode": "NP",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-16",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 6.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Pokhara is one of Nepal's safest tourist destinations, offering stunning mountain views and lakes with a peaceful atmosphere. Crime rates are generally low, though visitors should be aware of natural hazards and common tourist scams. The city is particularly welcoming to solo female travelers.",
+  "quickVerdict": "Pokhara is widely considered one of the safest cities in Nepal for tourists, with its lakeside charm and tourist-friendly infrastructure creating a secure environment. The city benefits from a strong tourism police presence and generally low crime rates. While petty theft and scams targeting tourists do occur, violent crime against foreigners is rare. Natural hazards like earthquakes, floods, and landslides pose the greatest risks, along with typical tourist-targeted scams. Solo female travelers report feeling safe and supported in Pokhara, particularly in the well-developed Lakeside area.",
+  "neighborhoods": [
+    {
+      "name": "Lakeside (Baidam)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist hub with excellent infrastructure, tourist police presence, and well-lit streets. Safest area for tourists with numerous accommodation options, restaurants, and shops."
+    },
+    {
+      "name": "Damside",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Quieter area near the dam with good safety levels and fewer crowds. Popular with budget travelers and offers easy access to lake activities."
+    },
+    {
+      "name": "Old Pokhara Bazaar",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Traditional market area that's generally safe during daytime but can get busy and crowded. Exercise normal precautions with valuables."
+    },
+    {
+      "name": "Bindyabasini Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Residential area near the temple that's safe but less tourist-oriented. Limited nighttime lighting in some parts requires extra awareness."
+    },
+    {
+      "name": "Mahendrapul",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Bus station area that can be chaotic and crowded. Watch for pickpockets and overcharging, especially during peak travel times."
+    },
+    {
+      "name": "Outskirts/Rural Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Remote areas outside the city center with limited infrastructure and emergency services. Natural hazards like landslides are more common during monsoon season."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Trekking Permits",
+      "risk": "high",
+      "description": "Scammers sell fake or overpriced trekking permits, or claim permits are needed when they're not required for certain routes.",
+      "howToAvoid": "Only buy permits from official sources like Nepal Tourism Board offices or authorized trekking agencies. Verify permit requirements beforehand."
+    },
+    {
+      "name": "Overpriced Taxi/Transport",
+      "risk": "high",
+      "description": "Taxi drivers refuse to use meters and quote inflated rates, especially to/from airport or tourist areas. Some may take longer routes.",
+      "howToAvoid": "Insist on meter use or negotiate fare beforehand. Use ride-hailing apps like InDrive when available. Ask locals about typical fares."
+    },
+    {
+      "name": "Gem/Jewelry Export Scam",
+      "risk": "medium",
+      "description": "Friendly locals befriend tourists then ask them to carry expensive gems or jewelry abroad, promising large payments. Can result in legal troubles.",
+      "howToAvoid": "Never agree to carry items for others across borders. Be wary of overly friendly strangers offering business deals or partnerships."
+    },
+    {
+      "name": "Fake Guide Services",
+      "risk": "medium",
+      "description": "Unlicensed guides approach tourists offering cheap tours but take them to commission-based shops instead of actual sights.",
+      "howToAvoid": "Use only licensed guides through registered agencies. Verify credentials and agree on itinerary in writing before starting any tour."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Pokhara is considered very safe for solo female travelers, with many women reporting positive experiences and feeling secure throughout their stay. The Lakeside area is particularly female-friendly with good lighting and regular police patrols. Local culture is generally respectful toward women travelers.",
+    "tips": [
+      "Stay in the well-developed Lakeside area which has better lighting and more security presence",
+      "Dress modestly, covering shoulders and knees, especially when visiting temples or rural areas",
+      "Avoid isolated areas at night and use trusted transportation options like registered taxis"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Pokhara's main tourist areas like Lakeside are generally safe at night with good lighting and regular patrols. However, power cuts are common, so carrying a flashlight is recommended. Most nighttime incidents involve petty theft or scams rather than violent crime.",
+    "tips": [
+      "Stick to main tourist areas like Lakeside which are well-lit and have more people around",
+      "Carry a flashlight or use your phone's light during frequent power cuts",
+      "Don't walk alone in dark alleys or remote areas after dark"
+    ]
+  },
+  "transport": {
+    "metro": "Pokhara has no metro system. The city relies on buses, taxis, and private vehicles for public transport.",
+    "rideshare": "Limited ride-hailing options available. InDrive operates in the city but coverage may be inconsistent compared to major cities.",
+    "taxis": "Taxis are common but many refuse to use meters. Negotiate fares beforehand or insist on meter use. Tourist taxis are available but more expensive.",
+    "tips": "Use registered taxis with clear identification. For airport transfers, pre-arrange transport through your hotel. Local buses are cheap but can be crowded."
+  },
+  "customs": [
+    "Greet people with 'Namaste' while placing palms together in prayer position - shows respect for local culture",
+    "Remove shoes before entering homes, temples, and some shops - this is considered basic courtesy",
+    "Use your right hand for eating, giving, and receiving items - the left hand is considered unclean in local customs"
+  ],
+  "health": {
+    "overview": "Pokhara has better healthcare facilities than most of Nepal outside Kathmandu, including the Western Regional Hospital and several private clinics. CIWEC Hospital has a branch specifically serving international travelers.",
+    "water": "Tap water is not safe to drink. Use bottled water, boiled water, or water purification tablets. Many hotels provide safe drinking water.",
+    "vaccinations": "Hepatitis A and typhoid vaccines are strongly recommended. Japanese encephalitis vaccine may be recommended for longer stays. Consult a travel medicine specialist before travel.",
+    "altitude": "Pokhara sits at 884m elevation, so altitude sickness is not a concern. The climate is subtropical with hot summers and mild winters. Monsoon season brings heavy rains and flooding risks."
+  },
+  "emergency": {
+    "general": "100",
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101",
+    "touristPolice": "1144",
+    "usEmbassy": "US Embassy Kathmandu: +977-1-423-4000. Tourist Police Pokhara: 061-452761, mobile 9856082762. CIWEC Hospital Pokhara provides international standard medical care."
+  },
+  "faq": [
+    {
+      "q": "Is Pokhara safe for tourists?",
+      "a": "Yes, Pokhara is one of Nepal's safest tourist destinations with low crime rates and good infrastructure. The main risks are natural hazards, petty theft, and tourist scams rather than violent crime."
+    },
+    {
+      "q": "Is Pokhara safe at night?",
+      "a": "The main tourist areas like Lakeside are generally safe at night with good lighting and police presence. However, power cuts are common, so carry a flashlight and stick to well-lit main areas."
+    },
+    {
+      "q": "Is Pokhara safe for solo female travelers?",
+      "a": "Yes, Pokhara is considered very safe for solo female travelers. Many women report positive experiences, especially in the Lakeside area. Dress modestly and use common sense precautions."
+    },
+    {
+      "q": "What areas should I avoid in Pokhara?",
+      "a": "Avoid remote areas outside the city center, especially at night. The bus station area (Mahendrapul) can be chaotic with pickpockets. Be cautious in poorly lit areas during power cuts."
+    },
+    {
+      "q": "Is it safe to use public transport in Pokhara?",
+      "a": "Local buses and registered taxis are generally safe but can be crowded. Many taxis don't use meters, so negotiate fares beforehand. Private transport arranged through hotels is often safer and more reliable."
+    }
+  ],
+  "relatedCities": [
+    "kathmandu",
+    "chitwan",
+    "lumbini"
+  ],
+  "_city_id": "pokhara-nepal",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pokhara_Valley.jpg/1280px-Pokhara_Valley.jpg"
+}
