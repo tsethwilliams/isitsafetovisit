@@ -2698,5 +2698,35 @@
     "action": "add",
     "city_id": "dakar-senegal",
     "details": "New city added with score 6.4"
+  },
+  {
+    "timestamp": "2026-03-17T20:01:39.721957+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"Tel Aviv under active missile attacks from Iran with multiple strikes hitting residential areas. US Embassy ordered departure of non-emergency personnel. Shelter-in-place orders active. Multiple casualties reported including fatalities in central Israel.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-17T20:01:39.725016+00:00",
+    "action": "alert",
+    "city_id": "jeddah_saudi_arabia",
+    "details": "{\"city_id\": \"jeddah_saudi_arabia\", \"alert_type\": \"travel_advisory_change\", \"severity\": \"critical\", \"summary\": \"US State Department ordered departure of non-emergency personnel on March 8, 2026 due to ongoing Iranian missile and drone attack threats. Level 3 advisory - Reconsider Travel. Commercial flight disruptions ongoing.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-17T20:01:39.727950+00:00",
+    "action": "alert",
+    "city_id": "antalya_turkey",
+    "details": "{\"city_id\": \"antalya_turkey\", \"alert_type\": \"travel_advisory_change\", \"severity\": \"high\", \"summary\": \"US ordered departure of non-emergency personnel from southeast Turkey on March 9, 2026. Travel restrictions implemented due to armed conflict risks and terrorism threats. US Consulate Adana suspended all services.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-17T20:01:39.730768+00:00",
+    "action": "alert",
+    "city_id": "playa_del_carmen_mexico",
+    "details": "{\"city_id\": \"playa_del_carmen_mexico\", \"alert_type\": \"civil_unrest\", \"severity\": \"high\", \"summary\": \"Widespread cartel violence following El Mencho killing on Feb 23. Retaliatory attacks, roadblocks, and arson across 20+ Mexican states. Tourist areas affected with flight cancellations and shelter-in-place orders. Over 70 casualties reported.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-17T20:01:39.733712+00:00",
+    "action": "alert",
+    "city_id": "miami_united_states",
+    "details": "{\"city_id\": \"miami_united_states\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"TSA experiencing severe staffing shortages due to partial government shutdown. Wait times up to 3 hours at major airports causing missed flights and delays. Spring break travel heavily impacted.\", \"action\": \"add_incident\"}"
   }
 ]

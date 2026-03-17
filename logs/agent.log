@@ -1884,3 +1884,12 @@
 2026-03-17 19:51:37,120 [INFO] Merged into site data: Dakar
 2026-03-17 19:51:37,179 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-17 19:51:37,209 [INFO] Rebuilt sitemap with 405 URLs (286 cities, 113 countries, 6 static)
+2026-03-17 20:01:11,629 [INFO] Agent starting — mode: alert
+2026-03-17 20:01:11,719 [INFO] Checking alerts for 283 cities
+2026-03-17 20:01:39,681 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 20:01:39,720 [WARNING] ALERTS DETECTED: 5
+2026-03-17 20:01:39,721 [WARNING]   [critical] tel_aviv_israel: Tel Aviv under active missile attacks from Iran with multiple strikes hitting residential areas. US Embassy ordered departure of non-emergency personnel. Shelter-in-place orders active. Multiple casualties reported including fatalities in central Israel.
+2026-03-17 20:01:39,724 [WARNING]   [critical] jeddah_saudi_arabia: US State Department ordered departure of non-emergency personnel on March 8, 2026 due to ongoing Iranian missile and drone attack threats. Level 3 advisory - Reconsider Travel. Commercial flight disruptions ongoing.
+2026-03-17 20:01:39,727 [WARNING]   [high] antalya_turkey: US ordered departure of non-emergency personnel from southeast Turkey on March 9, 2026. Travel restrictions implemented due to armed conflict risks and terrorism threats. US Consulate Adana suspended all services.
+2026-03-17 20:01:39,730 [WARNING]   [high] playa_del_carmen_mexico: Widespread cartel violence following El Mencho killing on Feb 23. Retaliatory attacks, roadblocks, and arson across 20+ Mexican states. Tourist areas affected with flight cancellations and shelter-in-place orders. Over 70 casualties reported.
+2026-03-17 20:01:39,733 [WARNING]   [medium] miami_united_states: TSA experiencing severe staffing shortages due to partial government shutdown. Wait times up to 3 hours at major airports causing missed flights and delays. Spring break travel heavily impacted.
