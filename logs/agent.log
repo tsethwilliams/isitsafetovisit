@@ -1838,3 +1838,49 @@
 2026-03-17 15:43:35,784 [INFO] Checking alerts for 275 cities
 2026-03-17 15:43:44,587 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-17 15:43:44,611 [INFO] No safety alerts detected
+2026-03-17 19:38:30,863 [INFO] Agent starting — mode: add
+2026-03-17 19:38:30,904 [INFO] Queue has 287 cities, adding 8
+2026-03-17 19:38:30,904 [INFO] Generating new city profile: Stellenbosch, South Africa
+2026-03-17 19:40:16,532 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:40:16,774 [INFO] Found Wikipedia image for Stellenbosch
+2026-03-17 19:40:16,775 [INFO] Saved city data: stellenbosch-south-africa
+2026-03-17 19:40:16,778 [INFO] Generating new city profile: Kruger National Park, South Africa
+2026-03-17 19:41:42,413 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:41:42,634 [INFO] Found Wikipedia image for Kruger National Park
+2026-03-17 19:41:42,635 [INFO] Saved city data: kruger-national-park-south-africa
+2026-03-17 19:41:42,638 [INFO] Generating new city profile: Victoria Falls, Zimbabwe
+2026-03-17 19:43:03,981 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:43:04,103 [INFO] Found Wikipedia image for Victoria Falls
+2026-03-17 19:43:04,104 [INFO] Saved city data: victoria-falls-zimbabwe
+2026-03-17 19:43:04,107 [INFO] Generating new city profile: Windhoek, Namibia
+2026-03-17 19:43:53,317 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 <none>"
+2026-03-17 19:43:53,317 [INFO] Retrying request to /v1/messages in 0.444176 seconds
+2026-03-17 19:45:37,168 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:45:37,296 [INFO] Found Wikipedia image for Windhoek
+2026-03-17 19:45:37,297 [INFO] Saved city data: windhoek-namibia
+2026-03-17 19:45:37,300 [INFO] Generating new city profile: Swakopmund, Namibia
+2026-03-17 19:46:50,987 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:46:51,144 [INFO] Found Wikipedia image for Swakopmund
+2026-03-17 19:46:51,145 [INFO] Saved city data: swakopmund-namibia
+2026-03-17 19:46:51,148 [INFO] Generating new city profile: Gaborone, Botswana
+2026-03-17 19:48:27,411 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:48:27,546 [INFO] Found Wikipedia image for Gaborone
+2026-03-17 19:48:27,546 [INFO] Saved city data: gaborone-botswana
+2026-03-17 19:48:27,549 [INFO] Generating new city profile: Maputo, Mozambique
+2026-03-17 19:50:15,844 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:50:16,005 [INFO] Found Wikipedia image for Maputo
+2026-03-17 19:50:16,006 [INFO] Saved city data: maputo-mozambique
+2026-03-17 19:50:16,009 [INFO] Generating new city profile: Dakar, Senegal
+2026-03-17 19:51:36,943 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 19:51:37,084 [INFO] Found Wikipedia image for Dakar
+2026-03-17 19:51:37,085 [INFO] Saved city data: dakar-senegal
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Stellenbosch
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Kruger National Park
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Victoria Falls
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Windhoek
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Swakopmund
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Gaborone
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Maputo
+2026-03-17 19:51:37,120 [INFO] Merged into site data: Dakar
+2026-03-17 19:51:37,179 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-17 19:51:37,209 [INFO] Rebuilt sitemap with 405 URLs (286 cities, 113 countries, 6 static)

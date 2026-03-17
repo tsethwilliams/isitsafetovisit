@@ -1,0 +1,158 @@
+{
+  "slug": "victoria-falls",
+  "name": "Victoria Falls",
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 7.9
+  },
+  "summary": "Victoria Falls is generally considered safe for tourists, though visitors should exercise moderate caution due to petty crime in tourist areas and Zimbabwe's elevated crime levels. The tourist town benefits from Tourism Police patrols, making it relatively safer than other parts of Zimbabwe.",
+  "quickVerdict": "Victoria Falls offers a safer environment than many parts of Zimbabwe, with tourism-focused security and infrastructure. While petty crime like pickpocketing and bag snatching is the main concern, violent crime against tourists is rare in the tourist zones. The greatest risks come from natural hazards around the falls themselves and the need for malaria prevention. Solo female travelers can visit safely with proper precautions, and the town's small size makes it easy to navigate. However, visitors should remain vigilant, avoid displaying valuables, and be cautious after dark.",
+  "neighborhoods": [
+    {
+      "name": "Victoria Falls Town Center",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The main tourist hub with hotels, restaurants, and shops. Well-patrolled by Tourism Police and generally safe during the day. Stay alert for pickpockets in crowded areas."
+    },
+    {
+      "name": "Victoria Falls National Park Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The falls viewing area is well-maintained and monitored. Main risks are natural hazards like slippery rocks and wildlife. Stay on marked paths and follow safety signs."
+    },
+    {
+      "name": "Airport Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Victoria Falls Airport and surrounding transport hubs are generally secure. Use reputable transfer services and avoid unlicensed taxi operators."
+    },
+    {
+      "name": "Chinotimba Township",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Local residential area offering cultural experiences but requiring more caution. Best visited with organized tours during daylight hours rather than independently."
+    },
+    {
+      "name": "Bridge Area (Zimbabwe-Zambia Border)",
+      "score": 6.8,
+      "class": "safe",
+      "description": "The famous bridge and border crossing area is monitored but can be crowded. Exercise caution with belongings and follow border procedures carefully."
+    },
+    {
+      "name": "Outlying Areas After Dark",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Areas outside the main tourist zone become riskier after sunset due to poor lighting and potential wildlife encounters. Avoid walking alone at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guide Scam",
+      "risk": "high",
+      "description": "Unlicensed individuals approach tourists offering tours or activities at suspiciously low prices, then demand extra payments or lead to overpriced venues.",
+      "howToAvoid": "Only book through licensed operators recommended by your hotel. Verify credentials and get clear pricing upfront in writing."
+    },
+    {
+      "name": "Overcharging and False Change",
+      "risk": "medium",
+      "description": "Vendors and some service providers inflate prices for tourists or give incorrect change, especially in cash transactions.",
+      "howToAvoid": "Research fair prices beforehand, use credit cards when possible, and always count change carefully. Negotiate prices before services."
+    },
+    {
+      "name": "Aggressive Vendor Pressure",
+      "risk": "medium",
+      "description": "Persistent vendors at craft markets and tourist areas use high-pressure tactics to sell overpriced souvenirs or force unwanted services.",
+      "howToAvoid": "Politely but firmly decline unwanted offers. Don't accept 'free' items as they often come with payment demands. Walk away if pressured."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Victoria Falls is considered one of the safer destinations in Zimbabwe for solo female travelers, ranking as the top choice for women traveling alone in the country. The tourist-focused infrastructure, Tourism Police presence, and small town size work in favor of safety. However, standard precautions are still necessary, particularly regarding accommodation security and after-dark activities.",
+    "tips": [
+      "Choose reputable accommodations with good security reviews and 24-hour staff presence",
+      "Avoid walking alone after dark and use hotel-arranged transport for evening activities",
+      "Be prepared for persistent but generally harmless street vendors - firm but polite refusal usually works",
+      "Book activities through established tour operators rather than street touts",
+      "Stay alert in crowded tourist areas where pickpocketing is most common"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Victoria Falls becomes considerably less safe after dark, with increased risks of petty crime and potential wildlife encounters in outlying areas. While the main tourist strip maintains some activity and lighting, walking alone at night is not recommended. Most hotels and lodges provide transport for evening activities, which is the safest option for tourists.",
+    "tips": [
+      "Use hotel shuttles or pre-arranged taxis for evening activities rather than walking",
+      "Stay within well-lit tourist areas if you must be out after dark",
+      "Be aware that wildlife including baboons and elephants can roam into town at night",
+      "Book sunset activities through reputable operators who provide return transport",
+      "Keep emergency numbers handy and inform someone of your evening plans"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Victoria Falls. The town is small enough to walk around during daylight hours.",
+    "rideshare": "International rideshare apps like Uber are not available. Local taxi services and private car hire through hotels are the main options for transport.",
+    "taxis": "Taxis are considered safe when using reputable companies recommended by hotels. Always negotiate fares beforehand as meters are uncommon. Airport taxis are regulated and generally reliable.",
+    "tips": "Hotel shuttles are often the safest and most convenient transport option. For longer trips or border crossings, use established transfer companies rather than unlicensed operators."
+  },
+  "customs": [
+    "Greet people with a handshake and friendly smile - respect for elders is particularly important",
+    "Tipping is customary in restaurants (10-15%) and for guides and hotel staff, typically in USD cash",
+    "Ask permission before photographing people, especially in rural areas or markets"
+  ],
+  "health": {
+    "overview": "Victoria Falls is in a high-risk malaria zone requiring antimalarial medication year-round, with peak transmission from November to April during the rainy season. Healthcare facilities are limited, making travel insurance with medical evacuation coverage essential.",
+    "water": "Stick to bottled or properly treated water. Most hotels provide safe water, but avoid tap water and ice from unknown sources.",
+    "vaccinations": "Routine vaccinations plus Hepatitis A recommended for all travelers. Yellow fever vaccination required if arriving from endemic areas. Malaria prevention is crucial - consult a doctor for appropriate antimalarial medication.",
+    "altitude": "Victoria Falls sits at low altitude (about 1000m) so altitude sickness is not a concern. The subtropical climate can be hot and humid, requiring sun protection and hydration."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999 or +263-13-44206",
+    "ambulance": "999 or EMRAS Victoria Falls +263-732-146-256",
+    "fire": "993",
+    "touristPolice": "Available in Victoria Falls town center",
+    "usEmbassy": "US Embassy Harare: +263-867-701-1000 (2 Lorraine Drive, Bluffhill, Harare). Emergency assistance: +1-202-501-4444 (from abroad)"
+  },
+  "faq": [
+    {
+      "q": "Is Victoria Falls safe for tourists?",
+      "a": "Yes, Victoria Falls is generally safe for tourists and is considered one of the safer destinations in Zimbabwe. The town has Tourism Police, and violent crime against tourists is rare. However, petty crime like pickpocketing occurs, so standard travel precautions are necessary."
+    },
+    {
+      "q": "Is Victoria Falls safe at night?",
+      "a": "Victoria Falls is less safe at night, with increased risks of petty crime and wildlife encounters. Avoid walking alone after dark and use hotel transport or reputable taxis for evening activities. The main tourist areas have some lighting but caution is still advised."
+    },
+    {
+      "q": "Is Victoria Falls safe for solo female travelers?",
+      "a": "Victoria Falls is relatively safe for solo female travelers and ranks as the top choice for women traveling alone in Zimbabwe. Exercise standard precautions, choose secure accommodation, avoid walking alone at night, and be prepared for persistent but generally harmless vendor approaches."
+    },
+    {
+      "q": "What areas should I avoid in Victoria Falls?",
+      "a": "Avoid outlying areas after dark, be cautious in Chinotimba township without a guide, and stay away from the river edge outside designated areas. The main tourist zones are generally safe, but always remain alert for petty crime."
+    },
+    {
+      "q": "Is it safe to use public transport in Victoria Falls?",
+      "a": "Public transport options are limited but generally safe during daylight. Hotel shuttles are the safest option, followed by reputable taxi services recommended by accommodation. Avoid unlicensed operators and negotiate fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "cape-town",
+    "johannesburg",
+    "nairobi",
+    "livingstone",
+    "harare"
+  ],
+  "_city_id": "victoria-falls-zimbabwe",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/ZW-Victoria-falls-stadt-1.jpg"
+}

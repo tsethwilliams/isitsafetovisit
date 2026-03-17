@@ -1,0 +1,166 @@
+{
+  "slug": "maputo",
+  "name": "Maputo",
+  "country": "Mozambique",
+  "countryCode": "MZ",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 4.7,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 5.0,
+    "scamRisk": 4.5,
+    "womensSafety": 4.5,
+    "nightSafety": 3.5,
+    "transport": 5.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Maputo presents moderate safety risks typical of a major African capital city. While violent crime exists, most visitors encounter petty theft and scams rather than serious safety issues. Recent improvements in political stability have enhanced the overall security environment.",
+  "quickVerdict": "Maputo requires heightened caution but is generally safer than many neighboring capitals like Johannesburg. Petty crime is common, especially in crowded areas and markets. Violent crime occurs but often targets locals rather than tourists. Night activities should be avoided, particularly walking alone. With proper precautions - staying in safer neighborhoods, using reliable transport, and remaining vigilant - most visitors have trouble-free stays.",
+  "neighborhoods": [
+    {
+      "name": "Polana Cimento",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale diplomatic and business district with embassies, luxury hotels, and good security. Well-lit streets with regular police patrols make it the safest area for tourists."
+    },
+    {
+      "name": "Sommerschield",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern residential area popular with expats, featuring shopping centers and restaurants. Good infrastructure and security presence make it relatively safe day and night."
+    },
+    {
+      "name": "Baixa (Downtown)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic city center with colonial architecture and markets. Safe during daylight hours but requires caution due to pickpocketing and crowded conditions."
+    },
+    {
+      "name": "Costa do Sol",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Coastal area known for beaches and nightlife. Generally safe during day but has official beach curfew from 7 PM to 5 AM due to increased crime incidents."
+    },
+    {
+      "name": "Xipamanine",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Dense township area with high poverty levels. Significantly higher crime rates and not recommended for tourists without local guides."
+    },
+    {
+      "name": "Mafalala",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Informal settlement with limited infrastructure and high crime rates. Known for muggings and theft, particularly dangerous for foreign visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overcharging by Taxi Drivers",
+      "risk": "high",
+      "description": "Unofficial taxi drivers quote inflated prices to tourists, especially at the airport and popular destinations.",
+      "howToAvoid": "Use official taxi apps like Yango or Viva Taxi, agree on prices beforehand, or ask locals about standard fares."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Individuals approach tourists offering unofficial guide services at inflated prices or lead them to unsafe areas.",
+      "howToAvoid": "Only use reputable tour companies, verify credentials, and book through hotels or official tourism offices."
+    },
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "medium",
+      "description": "Street money changers offer better rates but provide counterfeit bills or shortchange tourists during the exchange.",
+      "howToAvoid": "Use official banks or exchange bureaus, avoid street exchanges, and verify bills immediately."
+    },
+    {
+      "name": "Police Corruption",
+      "risk": "medium",
+      "description": "Some police officers may solicit bribes from tourists for minor infractions or during document checks.",
+      "howToAvoid": "Carry proper documentation, remain polite but firm, ask for official receipts, and report incidents to your embassy."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Maputo requires extra caution due to increased harassment risks and cultural factors. While many women travel safely, incidents of unwanted attention, sexual harassment, and assault have been reported. Local authorities advise female visitors to travel with companions whenever possible.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Polana Cimento or Sommerschield",
+      "Avoid walking alone after dark and use reliable taxi services for evening transport",
+      "Dress modestly to respect local culture and reduce unwanted attention",
+      "Keep emergency contacts readily available and inform someone of your daily plans",
+      "Trust your instincts and avoid isolated areas, particularly beaches and markets during quiet hours"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Maputo becomes significantly less safe after dark, with increased criminal activity including armed robbery, muggings, and sexual assaults. The US State Department advises avoiding all non-emergency travel between sunset and sunrise. Even popular tourist areas see heightened crime at night.",
+    "tips": [
+      "Return to your accommodation before sunset and avoid walking outdoors at night",
+      "Use only reputable taxi services or ride-sharing apps for evening transportation",
+      "Stay in areas with active nightlife and good lighting if you must go out",
+      "Inform others of your plans and expected return time when going out after dark",
+      "Be aware that Costa do Sol beach has an official curfew from 7 PM to 5 AM due to crime"
+    ]
+  },
+  "transport": {
+    "metro": "Maputo does not have a metro system. Public buses (machinabombo) exist but are unreliable, overcrowded, and not recommended for tourists due to safety concerns.",
+    "rideshare": "Ride-sharing apps are available including Yango (cheapest), Viva Taxi (mid-range safety), and Taxi Marcello (safest but most expensive). Apps require local SIM cards and basic Portuguese. Most drivers don't speak English.",
+    "taxis": "Official yellow-green taxis are available but don't use meters, requiring price negotiation. Costs typically range from 200-800 MZN depending on distance. Use taxis recommended by hotels when possible.",
+    "tips": "Chapas (minibuses) are very cheap but extremely overcrowded and potentially unsafe. Avoid 'My Loves' (open-back trucks) which are dangerous. For night travel, use only the most reputable taxi services."
+  },
+  "customs": [
+    "Greet people with handshakes and eye contact, using formal titles like Senhor/Senhora initially",
+    "Remove shoes before entering homes and accept offered tea or snacks when visiting locals",
+    "Dress modestly with covered thighs for women and long pants for men, especially in rural areas",
+    "Ask permission before photographing people and avoid photos of government buildings",
+    "Use your right hand for eating and passing items as it's considered more respectful"
+  ],
+  "health": {
+    "overview": "Maputo faces significant health challenges with weak healthcare infrastructure and limited medical supplies. Private facilities offer better care but require cash payments upfront.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking, brushing teeth, and ice cubes. Boiling or chemical disinfection is necessary for tap water use.",
+    "vaccinations": "Routine vaccines should be current. Hepatitis A, typhoid, and yellow fever (if arriving from endemic areas) are recommended. MMR vaccination is important due to ongoing global measles outbreaks.",
+    "altitude": "Maputo is at sea level. Climate is tropical with high temperatures year-round. Malaria is a serious risk requiring prophylaxis and prevention measures including insect repellent and bed nets."
+  },
+  "emergency": {
+    "general": "197",
+    "police": "199 or +258 21 325031",
+    "ambulance": "+258 21 325000",
+    "fire": "198",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Maputo: +258 21 492797. Located at Avenida Kenneth Kaunda 193, Maputo. For after-hours emergencies: +258 84 304 4600"
+  },
+  "faq": [
+    {
+      "q": "Is Maputo safe for tourists?",
+      "a": "Maputo is moderately safe for tourists who take proper precautions. While violent crime exists, most visitors experience only petty theft. Stay in safer neighborhoods, use reliable transport, avoid night activities, and remain vigilant in crowded areas."
+    },
+    {
+      "q": "Is Maputo safe at night?",
+      "a": "No, Maputo becomes significantly more dangerous after dark. The US State Department advises avoiding all non-emergency travel between sunset and sunrise. Criminal activity including armed robbery and muggings increases substantially at night."
+    },
+    {
+      "q": "Is Maputo safe for solo female travelers?",
+      "a": "Solo female travel in Maputo requires extra caution. While possible, women face increased risks of harassment and assault. Authorities recommend traveling with companions, staying in safer areas, dressing modestly, and avoiding isolated locations."
+    },
+    {
+      "q": "What areas should I avoid in Maputo?",
+      "a": "Avoid Mafalala and Xipamanine neighborhoods due to high crime rates. Stay away from Avenida Marginal between Southern Sun Hotel and Waterfront Restaurant. Avoid all beaches after 7 PM due to official curfews, and don't venture into informal settlements without guides."
+    },
+    {
+      "q": "Is it safe to use public transport in Maputo?",
+      "a": "Public buses and chapas are not recommended for tourists due to overcrowding and safety concerns. Use ride-sharing apps like Yango, Viva Taxi, or official taxis instead. For night travel, use only the most reputable taxi services like Taxi Marcello."
+    }
+  ],
+  "relatedCities": [
+    "johannesburg",
+    "cape-town",
+    "nairobi",
+    "dar-es-salaam",
+    "harare"
+  ],
+  "_city_id": "maputo-mozambique",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg/1280px-Maputo_seen_from_southeast_-_October_2006_%28cropped%29.jpg"
+}
