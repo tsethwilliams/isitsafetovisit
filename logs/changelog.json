@@ -2602,5 +2602,53 @@
     "action": "alert",
     "city_id": "penang",
     "details": "{\"city_id\": \"penang\", \"alert_type\": \"disease_outbreak\", \"severity\": \"low\", \"summary\": \"Malaysia experiences year-round dengue risk as part of global dengue surveillance. Outbreaks commonly occur every 2-5 years. Standard mosquito bite prevention advised.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-17T12:00:27.808385+00:00",
+    "action": "add",
+    "city_id": "zanzibar-tanzania",
+    "details": "New city added with score 6.7"
+  },
+  {
+    "timestamp": "2026-03-17T12:01:54.019165+00:00",
+    "action": "add",
+    "city_id": "arusha-tanzania",
+    "details": "New city added with score 5.7"
+  },
+  {
+    "timestamp": "2026-03-17T12:03:24.478313+00:00",
+    "action": "add",
+    "city_id": "kampala-uganda",
+    "details": "New city added with score 5.6"
+  },
+  {
+    "timestamp": "2026-03-17T12:04:55.547848+00:00",
+    "action": "add",
+    "city_id": "lalibela-ethiopia",
+    "details": "New city added with score 6.1"
+  },
+  {
+    "timestamp": "2026-03-17T12:06:37.079870+00:00",
+    "action": "add",
+    "city_id": "antananarivo-madagascar",
+    "details": "New city added with score 4.9"
+  },
+  {
+    "timestamp": "2026-03-17T12:07:58.571378+00:00",
+    "action": "add",
+    "city_id": "victoria-seychelles",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-17T12:09:34.164736+00:00",
+    "action": "add",
+    "city_id": "port-louis-mauritius",
+    "details": "New city added with score 6.4"
+  },
+  {
+    "timestamp": "2026-03-17T12:10:53.290139+00:00",
+    "action": "add",
+    "city_id": "durban-south-africa",
+    "details": "New city added with score 4.6"
   }
 ]

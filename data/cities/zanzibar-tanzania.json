@@ -1,0 +1,164 @@
+{
+  "slug": "zanzibar",
+  "name": "Zanzibar",
+  "country": "Tanzania",
+  "countryCode": "TZ",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 5.2,
+    "womensSafety": 6.2,
+    "nightSafety": 6.4,
+    "transport": 6.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Zanzibar is generally considered a safe destination for tourists, with violent crime being rare and tourism prioritized by local authorities. While petty theft and tourist scams can occur, especially in crowded areas like Stone Town and markets, the island maintains lower crime rates than mainland Tanzania and many other African destinations.",
+  "quickVerdict": "Zanzibar offers a relatively safe tropical getaway with minimal violent crime and strong tourism infrastructure. Most visitors experience no major safety issues when taking basic precautions like securing valuables, avoiding isolated areas at night, and using reputable tour operators. The main concerns are petty theft, tourist scams, and health risks like malaria, all of which are manageable with proper preparation and awareness.",
+  "neighborhoods": [
+    {
+      "name": "Nungwi",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular beach town with strong tourism police presence and good resort security. Can experience pushy beach vendors but generally safe during day and evening hours."
+    },
+    {
+      "name": "Kendwa",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale beach area with excellent resort security and minimal crime. Wide beaches and good lighting make it one of the safest areas on the island."
+    },
+    {
+      "name": "Stone Town",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Historic UNESCO site that's safe during day but requires caution at night. Narrow alleys can be poorly lit and pickpocketing occurs in crowded markets."
+    },
+    {
+      "name": "Paje",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular backpacker destination with lively atmosphere. Generally safe but beach theft can occur when items are left unattended during water activities."
+    },
+    {
+      "name": "Jambiani",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Quieter beach village with strong local community presence. Less touristy means fewer scams but slower police response due to remote location."
+    },
+    {
+      "name": "Kizimkazi",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Remote southern village popular for dolphin tours. Safe but isolated location means limited emergency services and longer response times."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Spice Tours",
+      "risk": "high",
+      "description": "Street vendors offer cheap spice tours for around $10-15 that visit small gardens with overpriced souvenirs marked up 300-500% from local prices.",
+      "howToAvoid": "Book spice tours through licensed hotels, established operators, or the Zanzibar Tourism Commission. Legitimate tours rarely cost under $25-30 per person."
+    },
+    {
+      "name": "Beach Boys and Unlicensed Tours",
+      "risk": "high",
+      "description": "Persistent vendors on beaches offer boat trips, dolphin tours, and excursions without proper licenses, often resulting in poor quality, overcrowded boats, or safety issues.",
+      "howToAvoid": "Only book activities through your hotel or established tour operators. Avoid booking tours with random beach vendors even if prices seem attractive."
+    },
+    {
+      "name": "Overpriced Taxi Fares",
+      "risk": "medium",
+      "description": "Taxi drivers quote inflated prices to tourists, especially at airports and tourist areas, sometimes charging 2-3 times the normal rate.",
+      "howToAvoid": "Always agree on fare before starting journey. Use ride-hailing apps like Bolt when available. Ask your hotel for typical fare estimates."
+    },
+    {
+      "name": "ATM Skimming and Money Exchange",
+      "risk": "medium",
+      "description": "Skimming devices on ATMs in tourist areas capture card details, while street money changers offer better rates but provide fake or torn currency.",
+      "howToAvoid": "Use ATMs inside banks or hotels. Exchange money at official bureaus or banks. Cover your PIN and check cards for unusual attachments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Zanzibar is generally safe for solo female travelers with proper precautions. Street harassment in the form of catcalling can occur, particularly in busy areas and Stone Town. The conservative Muslim culture means modest dress is essential outside resort areas. Most resorts and tourist areas have good security, and many solo women visit without major incidents.",
+    "tips": [
+      "Dress modestly with shoulders and knees covered, especially in Stone Town and villages",
+      "Avoid walking alone at night and use hotel-recommended taxis after dark",
+      "Stay in well-reviewed accommodations with 24-hour security when possible",
+      "Join small group tours for activities and excursions rather than going alone",
+      "Don't broadcast that you're traveling solo to strangers or vendors"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Zanzibar nights are generally peaceful but require extra caution. Stone Town can feel unsafe after dark due to poorly lit narrow alleys, while beach areas like Nungwi and Kendwa have better lighting and security. Most tourist areas have some nightlife, but public transportation should be avoided after dark.",
+    "tips": [
+      "Use registered taxis or hotel-arranged transport instead of walking at night",
+      "Stick to well-lit main streets and avoid empty alleyways in Stone Town",
+      "Stay close to your resort or accommodation area after dark",
+      "Avoid isolated beaches at night even for romantic walks",
+      "Don't accept drinks from strangers and monitor your alcohol consumption"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on the island.",
+    "rideshare": "Bolt ride-hailing app launched in August 2025 and offers safer, transparent pricing for taxis, tuk-tuks, and boda bodas with improved safety features.",
+    "taxis": "Taxis are generally safe when using licensed operators with red number plates. Always negotiate fares upfront as meters are rare. Hotel-arranged taxis are most reliable.",
+    "tips": "Avoid unlicensed boda boda motorcycle taxis due to accident risks and lack of helmets. Dala-dala public minibuses are cheap but crowded with pickpocketing risks. For airport transfers, pre-book through hotels or use official taxi stands."
+  },
+  "customs": [
+    "Zanzibar is 99% Muslim - dress modestly with shoulders and knees covered outside resort areas",
+    "Avoid public displays of affection, especially between same-sex couples as homosexuality is illegal",
+    "Remove shoes when entering mosques and respect prayer times, especially during Ramadan",
+    "Alcohol is available in tourist areas and resorts but be discreet when consuming it",
+    "Bargaining is expected in markets - start at about half the asking price and negotiate politely"
+  ],
+  "health": {
+    "overview": "Zanzibar poses typical tropical health risks with malaria being the primary concern. Healthcare facilities are improving but may not meet Western standards. Private hospitals in Stone Town offer better care than public facilities.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. High-end resorts may have advanced filtration systems but bottled water is still recommended.",
+    "vaccinations": "Yellow fever certificate required if arriving from endemic countries. Recommended vaccines include Hepatitis A, Typhoid, and routine immunizations. Malaria prophylaxis essential.",
+    "altitude": "Sea level location with hot, humid tropical climate. High sun exposure requires SPF 50+ sunscreen and 3-4 liters of water daily. Heat exhaustion is common."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "999",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "+255 24 223 0710",
+    "usEmbassy": "US Embassy Dar es Salaam: +255 22-229-4000, Emergency After-Hours: +255 22-229-4000 dial '1'. Located at 686 Old Bagamoyo Road, Msasani, Dar es Salaam."
+  },
+  "faq": [
+    {
+      "q": "Is Zanzibar safe for tourists?",
+      "a": "Yes, Zanzibar is generally safe for tourists with violent crime being rare. The main risks are petty theft and tourist scams, which can be avoided with basic precautions like securing valuables and using reputable tour operators."
+    },
+    {
+      "q": "Is Zanzibar safe at night?",
+      "a": "Zanzibar nights require extra caution, especially in Stone Town where narrow alleys can be poorly lit. Beach resort areas like Nungwi and Kendwa are safer at night. Always use taxis after dark rather than walking alone."
+    },
+    {
+      "q": "Is Zanzibar safe for solo female travelers?",
+      "a": "Yes, but solo female travelers should take extra precautions including dressing modestly, avoiding isolated areas at night, and being prepared for occasional street harassment. Many solo women visit safely each year."
+    },
+    {
+      "q": "What areas should I avoid in Zanzibar?",
+      "a": "Avoid poorly lit alleyways in Stone Town at night, isolated beaches after dark, and remote areas without good communication coverage. The southern tip near Kizimkazi has limited emergency services due to remoteness."
+    },
+    {
+      "q": "Is it safe to use public transport in Zanzibar?",
+      "a": "Dala-dala minibuses are generally safe but crowded with pickpocketing risks. Boda boda motorcycle taxis have higher accident risks. Licensed taxis and the new Bolt app are the safest transport options for tourists."
+    }
+  ],
+  "relatedCities": [
+    "dar-es-salaam",
+    "arusha",
+    "mombasa"
+  ],
+  "_city_id": "zanzibar-tanzania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/1280px-Flag_of_Zanzibar.svg.png"
+}

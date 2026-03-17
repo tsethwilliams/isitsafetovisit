@@ -44240,6 +44240,1311 @@
         "addis-ababa"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mombasa_Island.jpg/1280px-Mombasa_Island.jpg"
+    },
+    {
+      "slug": "zanzibar",
+      "name": "Zanzibar",
+      "country": "Tanzania",
+      "countryCode": "TZ",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 5.2,
+        "womensSafety": 6.2,
+        "nightSafety": 6.4,
+        "transport": 6.5,
+        "naturalHazards": 8.0
+      },
+      "summary": "Zanzibar is generally considered a safe destination for tourists, with violent crime being rare and tourism prioritized by local authorities. While petty theft and tourist scams can occur, especially in crowded areas like Stone Town and markets, the island maintains lower crime rates than mainland Tanzania and many other African destinations.",
+      "quickVerdict": "Zanzibar offers a relatively safe tropical getaway with minimal violent crime and strong tourism infrastructure. Most visitors experience no major safety issues when taking basic precautions like securing valuables, avoiding isolated areas at night, and using reputable tour operators. The main concerns are petty theft, tourist scams, and health risks like malaria, all of which are manageable with proper preparation and awareness.",
+      "neighborhoods": [
+        {
+          "name": "Nungwi",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Popular beach town with strong tourism police presence and good resort security. Can experience pushy beach vendors but generally safe during day and evening hours."
+        },
+        {
+          "name": "Kendwa",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale beach area with excellent resort security and minimal crime. Wide beaches and good lighting make it one of the safest areas on the island."
+        },
+        {
+          "name": "Stone Town",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Historic UNESCO site that's safe during day but requires caution at night. Narrow alleys can be poorly lit and pickpocketing occurs in crowded markets."
+        },
+        {
+          "name": "Paje",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Popular backpacker destination with lively atmosphere. Generally safe but beach theft can occur when items are left unattended during water activities."
+        },
+        {
+          "name": "Jambiani",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Quieter beach village with strong local community presence. Less touristy means fewer scams but slower police response due to remote location."
+        },
+        {
+          "name": "Kizimkazi",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Remote southern village popular for dolphin tours. Safe but isolated location means limited emergency services and longer response times."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Spice Tours",
+          "risk": "high",
+          "description": "Street vendors offer cheap spice tours for around $10-15 that visit small gardens with overpriced souvenirs marked up 300-500% from local prices.",
+          "howToAvoid": "Book spice tours through licensed hotels, established operators, or the Zanzibar Tourism Commission. Legitimate tours rarely cost under $25-30 per person."
+        },
+        {
+          "name": "Beach Boys and Unlicensed Tours",
+          "risk": "high",
+          "description": "Persistent vendors on beaches offer boat trips, dolphin tours, and excursions without proper licenses, often resulting in poor quality, overcrowded boats, or safety issues.",
+          "howToAvoid": "Only book activities through your hotel or established tour operators. Avoid booking tours with random beach vendors even if prices seem attractive."
+        },
+        {
+          "name": "Overpriced Taxi Fares",
+          "risk": "medium",
+          "description": "Taxi drivers quote inflated prices to tourists, especially at airports and tourist areas, sometimes charging 2-3 times the normal rate.",
+          "howToAvoid": "Always agree on fare before starting journey. Use ride-hailing apps like Bolt when available. Ask your hotel for typical fare estimates."
+        },
+        {
+          "name": "ATM Skimming and Money Exchange",
+          "risk": "medium",
+          "description": "Skimming devices on ATMs in tourist areas capture card details, while street money changers offer better rates but provide fake or torn currency.",
+          "howToAvoid": "Use ATMs inside banks or hotels. Exchange money at official bureaus or banks. Cover your PIN and check cards for unusual attachments."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Zanzibar is generally safe for solo female travelers with proper precautions. Street harassment in the form of catcalling can occur, particularly in busy areas and Stone Town. The conservative Muslim culture means modest dress is essential outside resort areas. Most resorts and tourist areas have good security, and many solo women visit without major incidents.",
+        "tips": [
+          "Dress modestly with shoulders and knees covered, especially in Stone Town and villages",
+          "Avoid walking alone at night and use hotel-recommended taxis after dark",
+          "Stay in well-reviewed accommodations with 24-hour security when possible",
+          "Join small group tours for activities and excursions rather than going alone",
+          "Don't broadcast that you're traveling solo to strangers or vendors"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Zanzibar nights are generally peaceful but require extra caution. Stone Town can feel unsafe after dark due to poorly lit narrow alleys, while beach areas like Nungwi and Kendwa have better lighting and security. Most tourist areas have some nightlife, but public transportation should be avoided after dark.",
+        "tips": [
+          "Use registered taxis or hotel-arranged transport instead of walking at night",
+          "Stick to well-lit main streets and avoid empty alleyways in Stone Town",
+          "Stay close to your resort or accommodation area after dark",
+          "Avoid isolated beaches at night even for romantic walks",
+          "Don't accept drinks from strangers and monitor your alcohol consumption"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists on the island.",
+        "rideshare": "Bolt ride-hailing app launched in August 2025 and offers safer, transparent pricing for taxis, tuk-tuks, and boda bodas with improved safety features.",
+        "taxis": "Taxis are generally safe when using licensed operators with red number plates. Always negotiate fares upfront as meters are rare. Hotel-arranged taxis are most reliable.",
+        "tips": "Avoid unlicensed boda boda motorcycle taxis due to accident risks and lack of helmets. Dala-dala public minibuses are cheap but crowded with pickpocketing risks. For airport transfers, pre-book through hotels or use official taxi stands."
+      },
+      "customs": [
+        "Zanzibar is 99% Muslim - dress modestly with shoulders and knees covered outside resort areas",
+        "Avoid public displays of affection, especially between same-sex couples as homosexuality is illegal",
+        "Remove shoes when entering mosques and respect prayer times, especially during Ramadan",
+        "Alcohol is available in tourist areas and resorts but be discreet when consuming it",
+        "Bargaining is expected in markets - start at about half the asking price and negotiate politely"
+      ],
+      "health": {
+        "overview": "Zanzibar poses typical tropical health risks with malaria being the primary concern. Healthcare facilities are improving but may not meet Western standards. Private hospitals in Stone Town offer better care than public facilities.",
+        "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. High-end resorts may have advanced filtration systems but bottled water is still recommended.",
+        "vaccinations": "Yellow fever certificate required if arriving from endemic countries. Recommended vaccines include Hepatitis A, Typhoid, and routine immunizations. Malaria prophylaxis essential.",
+        "altitude": "Sea level location with hot, humid tropical climate. High sun exposure requires SPF 50+ sunscreen and 3-4 liters of water daily. Heat exhaustion is common."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "999",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "+255 24 223 0710",
+        "usEmbassy": "US Embassy Dar es Salaam: +255 22-229-4000, Emergency After-Hours: +255 22-229-4000 dial '1'. Located at 686 Old Bagamoyo Road, Msasani, Dar es Salaam."
+      },
+      "faq": [
+        {
+          "q": "Is Zanzibar safe for tourists?",
+          "a": "Yes, Zanzibar is generally safe for tourists with violent crime being rare. The main risks are petty theft and tourist scams, which can be avoided with basic precautions like securing valuables and using reputable tour operators."
+        },
+        {
+          "q": "Is Zanzibar safe at night?",
+          "a": "Zanzibar nights require extra caution, especially in Stone Town where narrow alleys can be poorly lit. Beach resort areas like Nungwi and Kendwa are safer at night. Always use taxis after dark rather than walking alone."
+        },
+        {
+          "q": "Is Zanzibar safe for solo female travelers?",
+          "a": "Yes, but solo female travelers should take extra precautions including dressing modestly, avoiding isolated areas at night, and being prepared for occasional street harassment. Many solo women visit safely each year."
+        },
+        {
+          "q": "What areas should I avoid in Zanzibar?",
+          "a": "Avoid poorly lit alleyways in Stone Town at night, isolated beaches after dark, and remote areas without good communication coverage. The southern tip near Kizimkazi has limited emergency services due to remoteness."
+        },
+        {
+          "q": "Is it safe to use public transport in Zanzibar?",
+          "a": "Dala-dala minibuses are generally safe but crowded with pickpocketing risks. Boda boda motorcycle taxis have higher accident risks. Licensed taxis and the new Bolt app are the safest transport options for tourists."
+        }
+      ],
+      "relatedCities": [
+        "dar-es-salaam",
+        "arusha",
+        "mombasa"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/1280px-Flag_of_Zanzibar.svg.png"
+    },
+    {
+      "slug": "arusha",
+      "name": "Arusha",
+      "country": "Tanzania",
+      "countryCode": "TZ",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 5.7,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.0,
+        "violentCrime": 6.0,
+        "scamRisk": 4.0,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 6.5,
+        "naturalHazards": 7.0
+      },
+      "summary": "Arusha, Tanzania's safari capital, presents moderate safety concerns for tourists while remaining generally accessible with proper precautions. The city experiences higher levels of petty crime and tourist-targeted scams due to its popularity as a gateway to major attractions, though violent crime against tourists remains relatively uncommon. Recent political unrest and an elevated US State Department travel advisory have raised concerns, but safari operations continue normally.",
+      "quickVerdict": "Arusha is reasonably safe for tourists who take standard precautions, particularly during daylight hours in main tourist areas. While the US raised its travel advisory to Level 3 due to national concerns about unrest and terrorism, the northern safari regions including Arusha continue operating normally. The main risks are petty crime like pickpocketing and bag snatching, along with tourist scams targeting safari bookings. Solo female travelers should exercise extra caution, especially at night, but thousands visit safely each year by using reputable accommodations, verified tour operators, and avoiding isolated areas after dark.",
+      "neighborhoods": [
+        {
+          "name": "Central Business District",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The heart of Arusha with good infrastructure, police presence, and most tourist services. Generally safe during daytime with regular foot traffic and established businesses. Stay alert for pickpockets in crowded areas."
+        },
+        {
+          "name": "Njiro",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Upscale residential area popular with expatriates and tourists. Well-maintained roads, good security, and proximity to quality hotels and restaurants. Consider one of the safer neighborhoods for accommodation."
+        },
+        {
+          "name": "Clock Tower Area",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Historic city center with many tourist attractions but also frequent reports of muggings and pickpocketing. Busy during day but avoid lingering here at night. Exercise heightened awareness when visiting."
+        },
+        {
+          "name": "Cultural Heritage Centre Area",
+          "score": 6.5,
+          "class": "safe",
+          "description": "Tourist-focused area with shops and cultural attractions. Generally safe with security presence, though vendors can be persistent. Good area for shopping with reasonable safety precautions."
+        },
+        {
+          "name": "Themi River Area",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Areas across the Themi River are strongly discouraged for walking tourists due to higher crime rates. Poor lighting and fewer people make it risky, especially for foreigners on foot."
+        },
+        {
+          "name": "Unga Limited",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Industrial area with reported higher crime rates and limited tourist infrastructure. Poor road conditions and inadequate security make this area unsuitable for tourist activities."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Safari Operators",
+          "risk": "high",
+          "description": "Scammers pose as legitimate safari companies at airports and hotels, offering deeply discounted safaris to Serengeti and Ngorongoro for around 500,000 TZS per person using photocopied licenses and pressure tactics.",
+          "howToAvoid": "Verify operators through Tanzania Tourism Board website, check for official TTB licenses, compare prices (legitimate multi-day safaris rarely go below 800,000 TZS), pay with credit cards for chargeback protection, and avoid cash deposits in informal settings."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Drivers without meters significantly overcharge tourists or take longer routes. Some claim hotels are fully booked to redirect to partnered overpriced accommodations.",
+          "howToAvoid": "Use hotel-arranged taxis, agree on fare before starting journey, use reputable taxi services or ride-sharing apps where available, and ask your accommodation to recommend trusted transport options."
+        },
+        {
+          "name": "Fake Kilimanjaro Guides",
+          "risk": "medium",
+          "description": "Unlicensed guides offer cut-rate Kilimanjaro climbs for about 1,000,000 TZS promising shortcuts or insider access, but lack proper equipment and abandon treks or demand extra payments en route.",
+          "howToAvoid": "Book through registered operators certified by Kilimanjaro National Park authority, verify guides have Wilderness First Responder certification, check for official permits on park website, and carry emergency supplies."
+        },
+        {
+          "name": "Counterfeit Souvenirs",
+          "risk": "low",
+          "description": "Vendors sell mass-produced items claiming they are authentic local handicrafts, often at inflated tourist prices in markets and tourist areas.",
+          "howToAvoid": "Shop at recognized stores and markets, inquire about product origins, buy directly from artisans when possible, and negotiate prices respectfully while being aware of fair market values."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travelers can visit Arusha safely with proper precautions, though extra vigilance is required compared to male travelers. The main risks are harassment, petty crime, and being targeted by opportunistic scammers. Most women travel without serious incident by staying in reputable accommodations, using trusted transport, and avoiding isolated areas especially after dark.",
+        "tips": [
+          "Stay in well-reviewed accommodations with good security and female-friendly policies",
+          "Dress modestly covering shoulders and knees, especially in rural areas and around religious sites",
+          "Avoid walking alone at night and use hotel-arranged transport after dark",
+          "Keep a low profile, don't display expensive jewelry or electronics openly",
+          "Join group tours when possible and inform someone of your daily plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nighttime safety in Arusha requires significant caution as crime rates increase after dark. Muggings, bag snatching, and petty theft are more common in poorly lit areas. The clock tower area and zones across the Themi River are particularly risky at night. Most incidents can be avoided by using proper transport and staying in well-lit, populated areas.",
+        "tips": [
+          "Always use hotel-arranged taxis or reputable transport services after dark",
+          "Stick to well-lit main roads and avoid walking alone at night",
+          "Keep valuables secure and carry only essential items when going out",
+          "Stay in groups when possible and inform your accommodation of your plans",
+          "Avoid the clock tower area and anywhere across the Themi River after sunset"
+        ]
+      },
+      "transport": {
+        "metro": "Arusha has no metro or subway system. Public transport consists mainly of daladalas (shared minibuses) which are inexpensive but can be crowded and unsafe for tourists with luggage.",
+        "rideshare": "Limited ride-sharing services available. Some international apps operate in major areas but coverage is inconsistent. Hotel-arranged transport is generally more reliable.",
+        "taxis": "Taxis are widely available but many lack meters leading to overcharging. Airport taxis are generally legitimate but expensive. Always negotiate fares beforehand or ask hotels to arrange trusted drivers.",
+        "tips": "Use hotel-arranged transport when possible, agree on fares before starting any journey, carry small bills for exact payments, and avoid unlicensed operators who approach aggressively."
+      },
+      "customs": [
+        "Greet with 'Jambo' casually or 'Shikamoo' respectfully to elders, always use right hand for handshakes and giving items as left hand is considered unclean",
+        "Dress modestly covering shoulders and knees especially in rural areas and religious sites, avoid revealing clothing in public spaces",
+        "Always ask permission before photographing people, respect may require small tips especially with Maasai people in traditional dress"
+      ],
+      "health": {
+        "overview": "Arusha sits at higher elevation with lower malaria risk than coastal areas but antimalarial medication is still recommended. Healthcare quality is limited outside private facilities. Medical evacuation insurance is essential.",
+        "water": "Tap water is not safe to drink. Use bottled or properly filtered water. Avoid ice in drinks and be cautious with fresh fruits and vegetables that may have been washed with tap water.",
+        "vaccinations": "Yellow fever vaccination required if arriving from endemic countries. Recommended: hepatitis A/B, typhoid, meningitis, and routine vaccinations. Consult travel clinic 4-6 weeks before departure.",
+        "altitude": "Arusha sits at 1,400m elevation which is generally not problematic. However, if planning Kilimanjaro climbs, acclimatization and altitude sickness precautions become critical at higher elevations."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "999",
+        "ambulance": "112",
+        "fire": "112",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Dar es Salaam: +255-22-229-4000 (24hr emergency line, dial 0 for operator). Located at 686 Old Bagamoyo Road, Msasani, Dar es Salaam. For medical emergencies in Arusha area: Arusha Medivac +255-767-996-996."
+      },
+      "faq": [
+        {
+          "q": "Is Arusha safe for tourists?",
+          "a": "Yes, Arusha is generally safe for tourists who take reasonable precautions. While the US elevated its travel advisory to Level 3 due to national concerns, safari operations continue normally. Main risks are petty crime and tourist scams rather than violent crime. Stay alert, use reputable services, and avoid isolated areas at night."
+        },
+        {
+          "q": "Is Arusha safe at night?",
+          "a": "Nighttime requires extra caution in Arusha. Avoid walking alone after dark, especially near the clock tower and across the Themi River. Use hotel-arranged transport and stick to well-lit main areas. Most accommodations and restaurants have good security, but street safety decreases significantly after sunset."
+        },
+        {
+          "q": "Is Arusha safe for solo female travelers?",
+          "a": "Solo female travelers can visit Arusha safely with proper precautions. Dress modestly, stay in reputable accommodations, use trusted transport, and avoid isolated areas especially at night. Join group activities when possible and keep a low profile to minimize unwanted attention."
+        },
+        {
+          "q": "What areas should I avoid in Arusha?",
+          "a": "Avoid walking in the clock tower area at night due to frequent muggings. Stay away from areas across the Themi River on foot at all times. The Unga Limited industrial area has higher crime rates. Generally avoid poorly lit or isolated areas, especially after dark."
+        },
+        {
+          "q": "Is it safe to use public transport in Arusha?",
+          "a": "Public daladalas (minibuses) are generally safe but can be crowded and confusing for tourists. Taxis are widely available but many overcharge - always negotiate fares beforehand. Hotel-arranged transport is the safest and most reliable option for visitors."
+        }
+      ],
+      "relatedCities": [
+        "dar-es-salaam",
+        "stone-town",
+        "mombasa"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arusha_City_view.jpg/1280px-Arusha_City_view.jpg"
+    },
+    {
+      "slug": "kampala",
+      "name": "Kampala",
+      "country": "Uganda",
+      "countryCode": "UG",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 5.6,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 6.0,
+        "scamRisk": 4.0,
+        "womensSafety": 5.5,
+        "nightSafety": 5.0,
+        "transport": 6.0,
+        "naturalHazards": 8.0
+      },
+      "summary": "Kampala requires moderate caution due to petty crime, romance scams, and political tensions. The city has reasonable infrastructure and friendly locals, but travelers should remain vigilant, especially at night and in crowded areas.",
+      "quickVerdict": "Kampala is Uganda's bustling capital with vibrant nightlife and friendly people, but visitors should exercise moderate caution. While violent crime against tourists is relatively uncommon, petty theft, pickpocketing, and romance scams are frequent concerns. The recent elections in January 2026 have heightened political tensions, and the US maintains a Level 3 Travel Advisory. With proper precautions - avoiding demonstrations, securing belongings, using reputable transport, and staying aware at night - most travelers can safely enjoy Kampala's cultural offerings and urban attractions.",
+      "neighborhoods": [
+        {
+          "name": "Kololo",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale diplomatic area with embassies, high-end restaurants, and good security. Popular for nightlife with well-patrolled streets and quality accommodations."
+        },
+        {
+          "name": "Nakasero",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Central business district with hotels, government offices, and shopping. Generally safe during day with police presence, though caution needed at night."
+        },
+        {
+          "name": "Central Business District",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Busy commercial heart with markets and transport hubs. High foot traffic increases pickpocket risk, especially around taxi parks and Owino Market."
+        },
+        {
+          "name": "Kampala Old Town",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Historic area with mosques and traditional markets. Generally safe but crowded streets require vigilance against petty theft, especially for tourists."
+        },
+        {
+          "name": "Kabalagala",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Known nightlife district with bars and clubs. Higher crime rates at night, incidents of robbery and harassment reported, especially targeting intoxicated visitors."
+        },
+        {
+          "name": "Bwaise/Kawempe",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Densely populated suburbs with limited infrastructure. High poverty levels contribute to crime including robbery and theft. Avoid after dark and exercise extreme caution."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Romance Scams",
+          "risk": "very high",
+          "description": "Fake romantic relationships initiated online or through dating apps, leading to requests for money after building trust over weeks or months.",
+          "howToAvoid": "Never send money to someone you haven't met in person. Be suspicious of quick declarations of love and requests for financial help."
+        },
+        {
+          "name": "Fake Police Extortion",
+          "risk": "high",
+          "description": "Individuals posing as police officers demanding bribes or claiming documents are invalid, threatening arrest unless immediate payment is made.",
+          "howToAvoid": "Always ask for proper identification and insist on going to an official police station. Real police rarely demand on-spot payments."
+        },
+        {
+          "name": "Overcharging Scams",
+          "risk": "high",
+          "description": "Tourists charged inflated prices for transport, food, or goods, especially by boda-boda drivers and in markets without clear pricing.",
+          "howToAvoid": "Negotiate prices beforehand, use metered taxis or ride-hailing apps, and ask locals for fair price estimates before purchasing."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Card details stolen through devices attached to ATMs, leading to unauthorized withdrawals and identity theft.",
+          "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN, and check for unusual devices attached to card slots."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Kampala is possible with extra precautions. Many women report positive experiences, but harassment and safety concerns at night are common. The city has improving gender equality but traditional attitudes persist in some areas.",
+        "tips": [
+          "Dress modestly, especially outside central Kampala - cover knees and shoulders",
+          "Avoid walking alone at night, use registered taxis or rideshare apps instead",
+          "Stay in well-reviewed accommodations in safer areas like Kololo or Bugolobi",
+          "Be cautious with boda-bodas, prefer SafeBoda or other regulated services",
+          "Trust your instincts and avoid isolated areas or overly friendly strangers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Kampala's nightlife is vibrant but requires careful navigation. Most venues have security, but street crime increases after dark. Popular areas like Kololo and Kabalagala have active nightlife but varying safety levels.",
+        "tips": [
+          "Stick to well-established venues with visible security in Kololo or Bugolobi",
+          "Use registered taxis or rideshare apps - avoid boda-bodas after 10 PM",
+          "Travel in groups when possible and inform others of your plans",
+          "Keep valuables secure and avoid displaying expensive items openly",
+          "Stay alert to your surroundings and trust your instincts about situations"
+        ]
+      },
+      "transport": {
+        "metro": "Kampala has no metro system. Public transport consists mainly of matatu minibuses which can be crowded and less safe for tourists.",
+        "rideshare": "Uber, Bolt, and SafeBoda apps are available and generally safe. SafeBoda for motorcycles provides helmets and trained drivers.",
+        "taxis": "Official taxis are available but negotiate prices upfront. Airport taxis and hotel taxis are typically more reliable than street hails.",
+        "tips": "Boda-bodas (motorcycle taxis) are popular but risky - use SafeBoda app for better safety standards. Avoid unlicensed operators and always wear a helmet."
+      },
+      "customs": [
+        "Greet people warmly with handshakes - asking 'How are you?' before business is important",
+        "Dress modestly, especially in religious sites and rural areas - cover shoulders and knees",
+        "Use your right hand for eating, greeting, and passing items - left hand is considered unclean",
+        "Show respect to elders by greeting them first and using titles like Mr./Mrs.",
+        "Remove shoes before entering mosques and dress conservatively at all religious sites"
+      ],
+      "health": {
+        "overview": "Healthcare quality varies significantly in Kampala. Private facilities offer better care but are expensive. Public hospitals are overcrowded with limited resources.",
+        "water": "Tap water is not safe to drink. Use bottled or purified water at all times, including for brushing teeth and ice in drinks.",
+        "vaccinations": "Required: Yellow fever certificate from endemic countries. Recommended: Hepatitis A & B, Typhoid, Meningitis. Consider malaria prophylaxis as Kampala is in a malaria zone.",
+        "altitude": "Kampala sits at 1,200m elevation with a tropical climate. High humidity and pollution can affect some visitors. Air quality is often poor due to traffic and limited environmental controls."
+      },
+      "emergency": {
+        "general": "999 or 112",
+        "police": "999 or 0800-199-699",
+        "ambulance": "999 or +256-782-556-878",
+        "fire": "999 or +256-714-667-752",
+        "touristPolice": "0800-122-291 (CPS Kampala)",
+        "usEmbassy": "US Embassy Kampala: 1577 Ggaba Road, +256-312-306-001. Available 24/7 for American citizen emergencies."
+      },
+      "faq": [
+        {
+          "q": "Is Kampala safe for tourists?",
+          "a": "Kampala is moderately safe with proper precautions. Petty crime is common but violent crime against tourists is less frequent. Stay vigilant, avoid demonstrations, and use reputable transport."
+        },
+        {
+          "q": "Is Kampala safe at night?",
+          "a": "Nightlife areas like Kololo have security but street crime increases after dark. Use registered taxis, travel in groups, and avoid walking alone. Popular venues generally have good security."
+        },
+        {
+          "q": "Is Kampala safe for solo female travelers?",
+          "a": "Solo female travel is possible with extra caution. Dress modestly, avoid walking alone at night, stay in safe areas, and use registered transport. Many women report positive experiences with proper precautions."
+        },
+        {
+          "q": "What areas should I avoid in Kampala?",
+          "a": "Avoid Bwaise, Kawempe, and outer suburbs after dark. Be cautious in Kabalagala at night despite its nightlife. Stay away from political demonstrations and crowded transport hubs."
+        },
+        {
+          "q": "Is it safe to use public transport in Kampala?",
+          "a": "Matatu minibuses are less safe for tourists - crowded and prone to theft. Prefer registered taxis, Uber, Bolt, or SafeBoda. Avoid unlicensed boda-bodas, especially at night."
+        }
+      ],
+      "relatedCities": [
+        "nairobi",
+        "dar-es-salaam",
+        "kigali",
+        "addis-ababa",
+        "juba"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Urban_Rising%2C_KAMPALA%2C_Uganda.jpg/1280px-Urban_Rising%2C_KAMPALA%2C_Uganda.jpg"
+    },
+    {
+      "slug": "lalibela",
+      "name": "Lalibela",
+      "country": "Ethiopia",
+      "countryCode": "ET",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.1,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 7.5,
+        "scamRisk": 4.5,
+        "womensSafety": 6.5,
+        "nightSafety": 5.5,
+        "transport": 6.0,
+        "naturalHazards": 7.0
+      },
+      "summary": "Lalibela is a relatively safe pilgrimage town known for its famous rock-hewn churches. While tourists generally report feeling secure, visitors should remain vigilant against common scams and overcharging schemes. The city is significantly safer than many other parts of Ethiopia.",
+      "quickVerdict": "Lalibela is considered one of Ethiopia's safer destinations for tourists, ranking second in the country for solo female traveler safety. The main concerns are petty crimes like pickpocketing and tourist scams, while violent crime is rare. Recent political tensions in northern Ethiopia have stabilized, and the town receives regular tourists. However, visitors should exercise normal caution, use reputable guides, and stay aware of overcharging practices.",
+      "neighborhoods": [
+        {
+          "name": "Church Complex Area",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The UNESCO World Heritage site with 11 rock churches is well-monitored with security personnel and regular tourist police presence. Generally very safe during daylight hours with many visitors around."
+        },
+        {
+          "name": "Central Lalibela (Town Center)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The main commercial area with hotels, restaurants, and shops. Well-populated and relatively safe, though tourists should watch for overcharging and unauthorized guides approaching them."
+        },
+        {
+          "name": "Hotel Zone",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Area around major hotels like Mountain View and Maribela. Good security, well-lit streets, and regular hotel staff presence. Safe for walking during reasonable hours."
+        },
+        {
+          "name": "Market Area",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Local market where dual pricing and aggressive vendors are common. Higher risk of pickpocketing in crowds. Exercise caution with belongings and be prepared for persistent sellers."
+        },
+        {
+          "name": "Outskirts and Rural Areas",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Less developed areas outside the main town. Limited lighting and fewer people around. Use guided tours when exploring these areas and avoid walking alone especially after dark."
+        },
+        {
+          "name": "Airport Road",
+          "score": 6.5,
+          "class": "safe",
+          "description": "The route connecting Lalibela Airport to town. Generally safe but can be isolated. Use reputable transport and avoid hitchhiking. Some reports of overcharging by taxi drivers."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Dual Pricing",
+          "risk": "high",
+          "description": "Foreigners are routinely charged 2-3 times more than locals for goods, services, and transportation. This includes restaurants, shops, and taxi rides.",
+          "howToAvoid": "Research local prices beforehand, ask locals about fair rates, negotiate prices in advance, and consider shopping at fixed-price establishments."
+        },
+        {
+          "name": "Bible/Tea Invitation Scam",
+          "risk": "medium",
+          "description": "Friendly locals invite tourists for tea at their homes, which turns into high-pressure sales tactics for religious items, handicrafts, or fake antiques.",
+          "howToAvoid": "Politely decline invitations to private homes from strangers, be wary of overly friendly approaches near tourist sites, and don't feel obligated to buy anything."
+        },
+        {
+          "name": "Fake Guide Services",
+          "risk": "medium",
+          "description": "Unlicensed individuals approach tourists offering guide services at churches or around town, providing poor quality information and demanding excessive fees.",
+          "howToAvoid": "Only use officially licensed guides with proper identification badges, book through reputable hotels or tour companies, and agree on prices upfront."
+        },
+        {
+          "name": "Children Begging for Items",
+          "risk": "low",
+          "description": "Local children persistently ask tourists for pens, candies, money, or other items, which can become overwhelming and may encourage dependency.",
+          "howToAvoid": "Avoid giving items directly to children as it encourages begging. Instead, donate to established schools or charities if you want to help the community."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Lalibela ranks as the second safest place in Ethiopia for solo female travelers. Women generally feel comfortable exploring the town and church complex during daylight hours. However, conservative dress is important, and some unwanted attention from local men is possible. Most harassment is verbal rather than physical, and serious incidents are rare.",
+        "tips": [
+          "Dress conservatively covering shoulders and knees, especially when visiting churches",
+          "Avoid walking alone after dark - use hotel transport or reputable taxis",
+          "Stay near other tourists when exploring, particularly in the evening",
+          "Be firm but polite when declining unwanted advances or sales pitches",
+          "Consider joining group tours for church visits to avoid isolated situations"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Lalibela becomes notably quieter after dark with limited street lighting in many areas. While violent crime is uncommon, petty theft risks increase at night. Most hotels and restaurants in the central area remain safe, but walking alone in poorly lit areas is not recommended. The town essentially shuts down early, making evening activities limited.",
+        "tips": [
+          "Stick to well-lit main streets and avoid venturing into dark side roads",
+          "Use hotel-arranged transport rather than walking at night",
+          "Keep valuables secure and avoid displaying expensive items",
+          "Travel in groups when possible for evening dining or activities",
+          "Return to accommodations by 9-10 PM when most activity winds down"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Lalibela. The town is small and walkable.",
+        "rideshare": "No formal rideshare services like Uber operate in Lalibela.",
+        "taxis": "Limited taxi services available, mainly serving the airport route. Negotiate fares in advance as meters are rare. Hotel taxis are generally more reliable and honest than street taxis.",
+        "tips": "Walking is the primary way to get around town. For airport transfers or day trips, use hotel-recommended drivers or pre-arranged transport to avoid overcharging."
+      },
+      "customs": [
+        "Remove shoes before entering churches and cover your head if you are a woman",
+        "Use your right hand for eating and greeting - the left hand is considered unclean",
+        "Greet people warmly with handshakes and inquire about their health and family",
+        "Dress modestly with covered shoulders and knees, especially in religious areas",
+        "Accept coffee when offered as refusing is considered impolite in Ethiopian culture"
+      ],
+      "health": {
+        "overview": "Healthcare facilities in Lalibela are basic with limited modern equipment. The town has a small rural hospital but serious medical conditions require evacuation to Addis Ababa. Altitude at 2,500m may cause mild symptoms for some visitors.",
+        "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Bottled water is readily available in hotels and shops.",
+        "vaccinations": "Yellow fever vaccination required if arriving from infected countries. Malaria prophylaxis recommended as Lalibela is below 2,500m elevation. Routine vaccines should be up to date.",
+        "altitude": "Located at 2,500m altitude which may cause mild symptoms like headaches or fatigue. The highland climate is generally pleasant but can be cool at night."
+      },
+      "emergency": {
+        "general": "991",
+        "police": "991",
+        "ambulance": "907",
+        "fire": "902",
+        "touristPolice": "Contact local police station",
+        "usEmbassy": "US Embassy Addis Ababa: +251-11-130-6000. Limited ability to assist outside Addis Ababa."
+      },
+      "faq": [
+        {
+          "q": "Is Lalibela safe for tourists?",
+          "a": "Yes, Lalibela is generally safe for tourists and considered one of Ethiopia's safer destinations. The main risks are petty crime and tourist scams rather than violent crime. Stay vigilant and use common sense."
+        },
+        {
+          "q": "Is Lalibela safe at night?",
+          "a": "Lalibela is relatively quiet at night with limited lighting. While violent crime is rare, it's better to avoid walking alone after dark. Stick to hotel areas and use arranged transport when needed."
+        },
+        {
+          "q": "Is Lalibela safe for solo female travelers?",
+          "a": "Yes, Lalibela ranks as the second safest place in Ethiopia for solo female travelers. Dress conservatively and avoid isolated areas, but most women visit without serious problems."
+        },
+        {
+          "q": "What areas should I avoid in Lalibela?",
+          "a": "Avoid poorly lit outskirts and rural areas after dark. Be cautious in the market area where overcharging and pickpocketing are more common. The church complex and central hotel zone are safest."
+        },
+        {
+          "q": "Is it safe to use public transport in Lalibela?",
+          "a": "Public transport options are very limited. Walking is safest for getting around town. For longer distances, use hotel-recommended drivers rather than street taxis to avoid overcharging."
+        }
+      ],
+      "relatedCities": [
+        "addis-ababa",
+        "gondar",
+        "bahir-dar"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/1280px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg"
+    },
+    {
+      "slug": "antananarivo",
+      "name": "Antananarivo",
+      "country": "Madagascar",
+      "countryCode": "MG",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 4.9,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Exercise Caution",
+      "badgeClass": "danger",
+      "scores": {
+        "pettyCrime": 4.0,
+        "violentCrime": 5.5,
+        "scamRisk": 4.5,
+        "womensSafety": 5.0,
+        "nightSafety": 4.0,
+        "transport": 5.5,
+        "naturalHazards": 6.0
+      },
+      "summary": "Antananarivo presents moderate safety challenges typical of a developing nation's capital. Petty crime like pickpocketing and mugging is common in tourist areas, with particular concerns after dark and in crowded markets.",
+      "quickVerdict": "While Madagascar's capital offers rich cultural experiences, tourists should exercise heightened awareness due to elevated crime risks. Recent political transitions and economic hardship have increased security concerns, though the city remains accessible to prepared travelers who take appropriate precautions. Street crime is the primary concern rather than violent crime targeting tourists specifically.",
+      "neighborhoods": [
+        {
+          "name": "Haute Ville (Upper Town)",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Historic hilltop district with better security but challenging terrain. Home to the Queen's Palace ruins and colonial architecture, relatively safer during daylight hours."
+        },
+        {
+          "name": "Ankorondrano",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Modern diplomatic quarter with embassies, upscale hotels, and restaurants. Generally well-maintained with better police presence and lighting."
+        },
+        {
+          "name": "Isoraka",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Popular nightlife district with bars and restaurants. Relatively safe in main areas but requires caution after dark when crowds disperse."
+        },
+        {
+          "name": "Analakely Market Area",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Central market district with high pickpocketing risk. Extremely crowded with poor lighting in some areas. Exercise extreme caution with belongings."
+        },
+        {
+          "name": "Lake Anosy Area",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Scenic lake area popular for photos but suffers from petty crime even during daylight. Beautiful jacaranda trees in season but not safe for solo walking."
+        },
+        {
+          "name": "Andranoro",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Area near the US Embassy with diplomatic presence. Better infrastructure and security but still requires normal urban precautions."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Prison Fine Scam",
+          "risk": "high",
+          "description": "Scammers claim they need money to be released from prison or pay a fine, often starting through online contacts or emails.",
+          "howToAvoid": "Never send money to unknown individuals. Verify any claims through official channels and be suspicious of urgent money requests."
+        },
+        {
+          "name": "Shell Game Pickpocketing",
+          "risk": "medium",
+          "description": "Street performers with three boxes and a ball attract crowds while accomplices pickpocket distracted spectators.",
+          "howToAvoid": "Avoid street gambling games and keep belongings secured. Don't get drawn into crowds around street performers."
+        },
+        {
+          "name": "Helpful Cleaner Scam",
+          "risk": "medium",
+          "description": "Someone throws substance on you then offers to help clean while pickpocketing. May claim it's bird droppings.",
+          "howToAvoid": "Politely decline help from strangers. Move to a safe location to clean yourself and check your belongings immediately."
+        },
+        {
+          "name": "Overpriced Taxi Setup",
+          "risk": "high",
+          "description": "Unlicensed taxi drivers or hotel touts charge excessive fixed rates, especially targeting airport arrivals.",
+          "howToAvoid": "Always negotiate fares before getting in taxis. Use reputable ride-share apps like Piqla or pre-arrange transportation through hotels."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel to Antananarivo requires extra caution, particularly after dark. Women may face unwanted attention and should dress conservatively in line with local customs. The city has conservative cultural expectations, and foreign women traveling alone may attract attention.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safer neighborhoods like Ankorondrano",
+          "Avoid walking alone after dark and use trusted transportation",
+          "Dress modestly respecting local customs - cover shoulders and avoid revealing clothing",
+          "Join group tours for cultural sites rather than exploring alone",
+          "Keep emergency contacts readily available and inform someone of your whereabouts"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Antananarivo becomes significantly less safe after dark, with most areas experiencing increased crime risk. The city tends to shutter early with dark, deserted streets. Even well-traveled areas see reduced foot traffic after 9 PM, and robbery risks increase substantially.",
+        "tips": [
+          "Avoid walking alone at night - use reliable taxi services or ride-sharing apps",
+          "Stay in the immediate vicinity of your hotel after dark",
+          "If going out, travel in groups and stick to well-lit main areas like Isoraka nightlife district",
+          "Pre-arrange transportation back to accommodation rather than searching for taxis late at night",
+          "Keep valuable items and excess cash secured in hotel safes"
+        ]
+      },
+      "transport": {
+        "metro": "Antananarivo has no metro, tram, or rail system. The main public transport consists of taxi-be (shared minibuses) which are overcrowded, poorly maintained, and pose pickpocketing risks.",
+        "rideshare": "Modern ride-sharing apps are emerging including Piqla (electric vehicles), e-VTC by Esanandro, and HOP Andao. These provide safer, more reliable transportation than traditional taxis with GPS tracking and set pricing.",
+        "taxis": "Traditional cream-colored taxis are common but have no meters, requiring fare negotiation. Avoid multi-passenger taxis due to robbery risks. Official taxis can be found at hotels and airports but may overcharge tourists.",
+        "tips": "Use reputable ride-share apps when available, negotiate taxi fares before getting in, and avoid taxi-brousse (bush taxis) which have poor safety records and high accident rates."
+      },
+      "customs": [
+        "Respect 'fady' (local taboos) which vary by location - always ask guides about specific prohibitions",
+        "Greet elders first and use both hands when offering or receiving items as a sign of respect",
+        "Remove shoes when entering homes or sacred sites, and ask permission before photographing people",
+        "Dress modestly, especially near religious sites - avoid pointing at tombs or sacred objects",
+        "Learn basic Malagasy greetings like 'Salama' (hello) to show respect for local culture"
+      ],
+      "health": {
+        "overview": "Medical infrastructure is very limited in Antananarivo and extremely poor in rural areas. Private facilities offer better care than public hospitals but still fall short of international standards. Serious medical emergencies require evacuation.",
+        "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice in drinks and be cautious with raw foods washed in local water.",
+        "vaccinations": "Recommended vaccinations include Hepatitis A and B, Typhoid, Yellow Fever, routine vaccinations, and malaria prophylaxis. Antananarivo has low malaria risk but prophylaxis recommended for travel outside the city.",
+        "altitude": "Located at 1,200-1,400m elevation which generally doesn't cause altitude issues. Climate is subtropical highland with cyclone season December-April bringing heavy rains and flooding risks."
+      },
+      "emergency": {
+        "general": "117",
+        "police": "117",
+        "ambulance": "22-200-40",
+        "fire": "18",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Antananarivo: +261 33 44 320 00. Located at Lot 207 A Andranoro, Antehiroka 105. For US citizen emergencies: AntanACS@state.gov"
+      },
+      "faq": [
+        {
+          "q": "Is Antananarivo safe for tourists?",
+          "a": "Antananarivo requires moderate caution due to petty crime risks, particularly pickpocketing and mugging in tourist areas. While not extremely dangerous, visitors should remain vigilant and take standard urban safety precautions."
+        },
+        {
+          "q": "Is Antananarivo safe at night?",
+          "a": "No, Antananarivo is not safe for walking at night. The city becomes dark and largely deserted after 9 PM, with significantly increased robbery risks. Use trusted transportation and avoid walking alone after dark."
+        },
+        {
+          "q": "Is Antananarivo safe for solo female travelers?",
+          "a": "Solo female travelers should exercise extra caution in Antananarivo. While possible to visit safely, women face additional risks of unwanted attention and should dress modestly, avoid walking alone at night, and stay in reputable accommodations."
+        },
+        {
+          "q": "What areas should I avoid in Antananarivo?",
+          "a": "Avoid the Analakely market area due to high pickpocketing risks, Lake Anosy area despite its beauty, and any area after dark. The steps to the Rova and certain streets in Chinatown also pose elevated risks."
+        },
+        {
+          "q": "Is it safe to use public transport in Antananarivo?",
+          "a": "Traditional public transport (taxi-be) poses safety and comfort concerns. Better options include ride-sharing apps like Piqla and e-VTC, or negotiated taxi fares. Avoid overcrowded minibuses and multi-passenger taxis."
+        }
+      ],
+      "relatedCities": [
+        "cape-town",
+        "nairobi",
+        "addis-ababa"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg"
+    },
+    {
+      "slug": "victoria",
+      "name": "Victoria",
+      "country": "Seychelles",
+      "countryCode": "SC",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 8.2,
+        "scamRisk": 6.8,
+        "womensSafety": 7.5,
+        "nightSafety": 6.8,
+        "transport": 7.6,
+        "naturalHazards": 7.7
+      },
+      "summary": "Victoria, the small capital of Seychelles on Mahe island, is generally safe for tourists with low violent crime rates and a welcoming local population. However, petty theft and opportunistic crimes targeting tourists have been increasing, particularly around popular areas like Beau Vallon and tourist facilities.",
+      "quickVerdict": "Victoria is a safe destination for most travelers, with excellent safety infrastructure and friendly locals. The US State Department maintains a Level 1 advisory (Exercise Normal Precautions) for Seychelles overall, though some outer islands have Level 2 warnings due to limited medical facilities. Crime rates are relatively low, but visitors should remain vigilant against petty theft and practice standard safety precautions, especially at night and in crowded tourist areas.",
+      "neighborhoods": [
+        {
+          "name": "Victoria City Center",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The compact capital city center is generally safe during day and evening hours. Well-patrolled tourist areas around the Clock Tower, markets, and government buildings. Some caution needed after dark on quieter streets."
+        },
+        {
+          "name": "Beau Vallon",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Popular beach area with higher tourist concentration but also increased petty crime incidents. Safe during daylight hours but requires extra vigilance at night, especially on the beach and in bars."
+        },
+        {
+          "name": "Eden Island",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential and hotel area with private security. Considered one of the safest areas on Mahe with well-maintained infrastructure and low crime rates."
+        },
+        {
+          "name": "Anse Royale",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Quieter southern area with good medical facilities nearby. Generally safe with lower tourist density, though standard precautions apply when visiting beaches alone."
+        },
+        {
+          "name": "Les Mamelles",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Residential area in the hills above Victoria. Safe during day but limited lighting and fewer people around at night. Best accessed by taxi after dark."
+        },
+        {
+          "name": "Port Area",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Working port with ferry terminals and cargo facilities. Safe during day for transit but avoid lingering after dark. Some reports of opportunistic theft near transport hubs."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Airport and tourist area taxi drivers may quote inflated fares or claim meters are broken, especially targeting newly arrived visitors.",
+          "howToAvoid": "Agree on fares before getting in, use the meter when available, or take the public bus from the airport (only 1 USD to city center vs 70 USD by taxi)."
+        },
+        {
+          "name": "Restaurant Bill Padding",
+          "risk": "low",
+          "description": "Some establishments may add mysterious extra charges or service fees not mentioned on menus, particularly in tourist-heavy areas.",
+          "howToAvoid": "Review bills carefully before paying, ask about service charges upfront, and choose restaurants with clear pricing displayed."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "medium",
+          "description": "Unauthorized individuals may approach tourists offering overpriced tours or leading visitors to shops where they receive commissions.",
+          "howToAvoid": "Book tours through reputable agencies or your hotel, verify credentials of guides, and be wary of unsolicited street approaches."
+        },
+        {
+          "name": "Dating App Exploitation",
+          "risk": "low",
+          "description": "Criminals may use dating apps to target tourists for robbery or overpriced entertainment venues, as warned by US State Department.",
+          "howToAvoid": "Meet in public places, tell friends your plans, avoid isolated locations, and be cautious of expensive venue suggestions from new contacts."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Victoria and Seychelles generally rank well for solo female travelers, with low violent crime and a respectful local culture. However, standard precautions are recommended, especially regarding nighttime activities and isolated areas like hiking trails where incidents have occurred.",
+        "tips": [
+          "Avoid hiking popular trails like Anse Major alone - go with others or when tourist police are present at Copolia Trail",
+          "Stay in well-lit, populated areas at night and avoid secluded beaches after dark",
+          "Use reputable taxis or public transport rather than walking alone late at night, especially in Beau Vallon area"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Victoria has moderate nighttime safety with most incidents involving petty theft rather than violent crime. The city center has some lighting and activity, but outlying areas can be poorly lit. Beau Vallon and some backstreets of Victoria have higher incident rates after dark.",
+        "tips": [
+          "Stick to well-lit main roads and avoid shortcuts through dark alleys or secluded areas",
+          "Avoid Mahe's beaches and remote areas at night - petty crime and isolated incident risks increase significantly",
+          "Use taxis for transportation after dark rather than walking, especially if staying outside the immediate city center"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in Victoria or Seychelles.",
+        "rideshare": "International apps like Uber are not available. Local taxi apps like 'Taxi Seychelles' and 'SeyTaxi' operate on Mahe. Limited availability compared to major cities.",
+        "taxis": "Taxis are generally safe but negotiate fares upfront as meters aren't always used with tourists. Airport taxis are notoriously overpriced at 70 USD vs 1 USD public bus. Yellow taxis operate throughout Victoria and Mahe.",
+        "tips": "Public buses are very affordable (12-15 SCR/$1) and safe, though crowded during peak hours. Require prepaid cards available at airport or SPTC offices. Ferry services between islands are reliable and well-maintained."
+      },
+      "customs": [
+        "Greet with handshakes and friendly 'Bonjour' or 'Hello' - locals appreciate politeness and respect for elders",
+        "Dress modestly when not on beaches - cover shoulders and knees in markets, religious sites, and town areas",
+        "Remove shoes when entering homes and bring small gifts like flowers or sweets if invited to someone's house"
+      ],
+      "health": {
+        "overview": "Healthcare in Victoria is adequate for routine needs with Victoria Hospital as the main facility, plus private clinics. Medical evacuation insurance strongly recommended as complex procedures require treatment in South Africa or India.",
+        "water": "Tap water in Victoria generally meets WHO standards but quality can vary, especially during heavy rains. Most tourists drink bottled water as a precaution.",
+        "vaccinations": "No special vaccinations required. MMR recommended due to global measles increases. Current chikungunya outbreak requires mosquito bite prevention measures.",
+        "altitude": "Sea level location with tropical climate. Current chikungunya virus outbreak requires insect repellent, long sleeves, and air-conditioned or screened accommodations."
+      },
+      "emergency": {
+        "general": "999",
+        "police": "999",
+        "ambulance": "151",
+        "fire": "999",
+        "touristPolice": "Available at major beaches",
+        "usEmbassy": "No US embassy in Seychelles - covered by US Embassy Port Louis, Mauritius. Emergency contact: +1-202-501-4444 from abroad or +1-888-407-4747 from US."
+      },
+      "faq": [
+        {
+          "q": "Is Victoria safe for tourists?",
+          "a": "Yes, Victoria is generally safe with low violent crime rates and a Level 1 US travel advisory. However, petty theft targeting tourists has increased, so standard precautions are recommended around tourist areas and ATMs."
+        },
+        {
+          "q": "Is Victoria safe at night?",
+          "a": "Victoria has moderate nighttime safety. The city center has some activity and lighting, but areas like Beau Vallon and Victoria's backstreets have higher petty crime rates after dark. Stick to well-lit areas and use taxis for transport."
+        },
+        {
+          "q": "Is Victoria safe for solo female travelers?",
+          "a": "Victoria ranks well for solo female travel with respectful local culture. However, avoid hiking trails alone (incidents have occurred), stay in populated areas at night, and use caution in isolated locations like secluded beaches."
+        },
+        {
+          "q": "What areas should I avoid in Victoria?",
+          "a": "While no areas are completely off-limits, exercise extra caution in Beau Vallon at night, Victoria's backstreets after dark, and isolated beaches or hiking trails. Avoid the port area after business hours and poorly lit residential areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Victoria?",
+          "a": "Yes, public buses are safe and very affordable (1 USD to city center), though crowded during peak hours. Taxis are generally safe but negotiate fares upfront. Ferry services between islands are reliable and well-maintained."
+        }
+      ],
+      "relatedCities": [
+        "port-louis",
+        "antananarivo",
+        "moroni",
+        "saint-denis",
+        "maputo"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_clock_tower.jpg"
+    },
+    {
+      "slug": "port-louis",
+      "name": "Port Louis",
+      "country": "Mauritius",
+      "countryCode": "MU",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.4,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.0,
+        "violentCrime": 6.5,
+        "scamRisk": 5.5,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.5,
+        "naturalHazards": 8.8
+      },
+      "summary": "Port Louis, Mauritius' vibrant capital, has recently moved to a US Level 2 advisory due to rising petty crime concerns. While violent crime remains relatively low, tourists should exercise increased caution, particularly in busy markets and tourist areas where pickpocketing and bag snatching occur.",
+      "quickVerdict": "Port Louis is generally safe for tourists but requires increased vigilance following a recent uptick in petty crime. The capital offers rich cultural experiences and modern amenities, but visitors should be especially cautious in crowded areas like the Central Market and Caudan Waterfront. Most crimes against foreigners are opportunistic, and basic safety precautions significantly reduce risk. Healthcare is good with both public and private options available.",
+      "neighborhoods": [
+        {
+          "name": "Caudan Waterfront",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Modern shopping and dining district along the harbor. Well-maintained and patrolled area popular with tourists, though petty crime can occur in crowded areas. Generally safe during day and evening hours."
+        },
+        {
+          "name": "Central Market Area",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Historic market district offering authentic local culture and shopping. Higher risk of pickpocketing and vendor overcharging. Exercise extra caution with belongings and avoid carrying visible valuables."
+        },
+        {
+          "name": "Chinatown",
+          "score": 6.5,
+          "class": "safe",
+          "description": "Cultural quarter with temples, shops and restaurants. Generally safe during daytime with regular foot traffic. Some petty crime risk in less busy side streets, especially after dark."
+        },
+        {
+          "name": "Business District",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Modern commercial area with offices, banks and hotels. Well-policed during business hours with good security presence. Quieter evenings but generally safe for tourists."
+        },
+        {
+          "name": "Roche Bois",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Residential area with higher crime rates and social issues. Not recommended for tourists, especially after dark. Limited tourist infrastructure and potential safety concerns."
+        },
+        {
+          "name": "Vallée Pitot",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Local residential neighborhood with elevated crime levels. Visitors should avoid this area as it lacks tourist facilities and has reported safety issues, particularly at night."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Taxi Overcharging",
+          "risk": "high",
+          "description": "Drivers avoiding meters and taking longer routes, sometimes charging triple the fair rate. May also take you to commission-earning shops.",
+          "howToAvoid": "Always negotiate fare before starting journey. Use reputable taxi companies or apps like Yugo. Ask your hotel for estimated fare ranges."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "medium",
+          "description": "Unauthorized individuals approaching tourists offering tours at attractive prices but providing poor service or taking you to unwanted shops for commissions.",
+          "howToAvoid": "Only book tours through licensed operators with proper tourism authority certificates. Verify credentials and check reviews before booking."
+        },
+        {
+          "name": "Street Vendor Overpricing",
+          "risk": "medium",
+          "description": "Market vendors and beach sellers inflating prices for tourists, especially in Central Market and popular tourist spots.",
+          "howToAvoid": "Research typical prices beforehand. Don't appear unfamiliar with local costs. Be prepared to bargain and walk away if prices seem excessive."
+        },
+        {
+          "name": "Currency Exchange Ripoffs",
+          "risk": "medium",
+          "description": "Unofficial exchange counters offering poor rates or providing counterfeit bills to unsuspecting tourists.",
+          "howToAvoid": "Use official banks, hotels, or authorized exchange bureaus. Count money carefully and check for authentic currency features."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Port Louis is relatively safe for solo female travelers, though recent crime increases warrant extra caution. Street harassment exists but is less prevalent than in many destinations. Women should avoid isolated areas after dark and be particularly cautious in busy market areas where bag snatching occurs.",
+        "tips": [
+          "Avoid walking alone at night, especially in poorly lit areas and beaches",
+          "Dress modestly when visiting religious sites and conservative areas",
+          "Use registered accommodation and reputable transport services",
+          "Stay alert in crowded markets and tourist areas where pickpocketing occurs",
+          "Keep emergency contacts readily available and inform someone of your plans"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Night safety in Port Louis requires increased caution due to higher crime rates after dark. While violent crime against tourists remains relatively rare, petty crime and opportunistic theft increase significantly. Well-lit tourist areas like Caudan Waterfront are generally safer, but isolated areas should be avoided.",
+        "tips": [
+          "Stick to well-lit, populated areas and avoid walking alone after dark",
+          "Use reputable taxi services rather than walking, especially from Central Market",
+          "Avoid displaying expensive jewelry, watches, or electronics",
+          "Stay in groups when possible and inform others of your whereabouts",
+          "Be extra cautious near ATMs and when withdrawing money"
+        ]
+      },
+      "transport": {
+        "metro": "The Metro Express operates from 6:00 AM to 7:00 PM between Port Louis and Curepipe. Modern, reliable, and generally safe system popular with locals and tourists. Requires MECard for payment.",
+        "rideshare": "No Uber or international rideshare apps. Local app Yugo connects to registered taxis with automatic fare calculation and real-time tracking for enhanced safety.",
+        "taxis": "Taxi meters exist but drivers often avoid using them. Always negotiate fare before starting. Use registered taxis with yellow signs and official markings. Airport taxi scams reported - use only licensed services.",
+        "tips": "Public buses are cheap and generally safe but crowded. Metro Express is most reliable. For taxis, pre-book through reputable companies or use Yugo app. Avoid unmarked vehicles at airport."
+      },
+      "customs": [
+        "Remove shoes when entering homes and some religious sites",
+        "Dress modestly when visiting temples, mosques, and churches - cover shoulders and knees",
+        "Show respect during religious festivals and ceremonies which are frequent due to diverse population",
+        "Mauritians are generally friendly but appreciate polite, respectful behavior",
+        "Tipping is not mandatory but 10% is appreciated in restaurants and for good service"
+      ],
+      "health": {
+        "overview": "Port Louis has good healthcare with both free public hospitals and quality private clinics. The main public hospital is A.G. Jeetoo Hospital, while private options include City Clinic and Clinique Darné. Medical evacuation insurance recommended for complex cases.",
+        "water": "Tap water is technically safe but bottled water recommended for sensitive stomachs due to potential pipe issues. Most hotels provide bottled water which is widely available and affordable.",
+        "vaccinations": "No specific vaccines required for most travelers. Yellow fever vaccination needed only if arriving from endemic areas. Hepatitis A and B recommended for extended stays.",
+        "altitude": "Sea level location with tropical climate year-round. Cyclone season November-April with January-March peak. High humidity moderated by trade winds. Dengue and chikungunya risk - use insect repellent."
+      },
+      "emergency": {
+        "general": "112 or 999",
+        "police": "999",
+        "ambulance": "114",
+        "fire": "115 or 995",
+        "touristPolice": "213 1740",
+        "usEmbassy": "US Embassy Port Louis: +230 202 4400, 4th Floor Rogers House, John Kennedy Street. Provides consular services to US citizens including emergency assistance and document replacement."
+      },
+      "faq": [
+        {
+          "q": "Is Port Louis safe for tourists?",
+          "a": "Port Louis is generally safe but requires increased caution due to recent rises in petty crime. Most visits are trouble-free, though tourists should be vigilant in markets and crowded areas where pickpocketing occurs."
+        },
+        {
+          "q": "Is Port Louis safe at night?",
+          "a": "Night safety requires extra caution. Stick to well-lit, populated areas like Caudan Waterfront and avoid walking alone after dark. Use registered taxis instead of walking, especially in market areas."
+        },
+        {
+          "q": "Is Port Louis safe for solo female travelers?",
+          "a": "Relatively safe with basic precautions. Avoid isolated areas after dark, dress modestly near religious sites, and be extra alert in crowded markets. Street harassment exists but is less common than many destinations."
+        },
+        {
+          "q": "What areas should I avoid in Port Louis?",
+          "a": "Avoid Roche Bois and Vallée Pitot neighborhoods, especially after dark. Exercise extra caution in Central Market area and be vigilant around ATMs and less touristy areas at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Port Louis?",
+          "a": "Yes, generally safe. The Metro Express is modern and reliable. Public buses are affordable but can be crowded. For taxis, use registered services or the Yugo app, and always agree on fares beforehand."
+        }
+      ],
+      "relatedCities": [
+        "cape-town",
+        "nairobi",
+        "antananarivo",
+        "victoria-seychelles",
+        "casablanca",
+        "tunis"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Port_Louis_Skyline.JPG"
+    },
+    {
+      "slug": "durban",
+      "name": "Durban",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 4.6,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Exercise Caution",
+      "badgeClass": "danger",
+      "scores": {
+        "pettyCrime": 3.0,
+        "violentCrime": 3.5,
+        "scamRisk": 4.0,
+        "womensSafety": 4.5,
+        "nightSafety": 3.0,
+        "transport": 5.5,
+        "naturalHazards": 8.5
+      },
+      "summary": "Durban ranks among South Africa's most crime-affected cities with a high crime index of 80.6 and was ranked 6th globally for crime in 2026. While tourist areas like Umhlanga and the Golden Mile have visible security measures, significant safety precautions are necessary, especially avoiding walking alone at night and staying away from certain neighborhoods.",
+      "quickVerdict": "Durban requires careful planning and constant vigilance for tourist safety. The city experiences high rates of violent crime, armed robberies, and petty theft, particularly in the CBD after business hours and certain townships. However, tourists who stay in secure accommodations like Umhlanga, use rideshare services instead of public transport, avoid walking alone at night, and remain in well-populated tourist areas can visit relatively safely. The beachfront areas are generally safe during daylight hours with lifeguards present.",
+      "neighborhoods": [
+        {
+          "name": "Umhlanga",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Upscale northern suburb with gated hotels, private security patrols, well-lit streets and controlled beach access. Recommended as the safest base for tourists."
+        },
+        {
+          "name": "Golden Mile Beachfront",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Popular tourist area with beaches and hotels. Generally safe during daylight with security presence, but requires extra caution at dusk and evening hours."
+        },
+        {
+          "name": "Berea",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Mixed residential and commercial area with some tourist accommodations. Safe during day but avoid walking alone at night."
+        },
+        {
+          "name": "City Centre/CBD",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Business district that feels normal during day but becomes risky after business hours. Avoid walking here at night and stay alert during daytime visits."
+        },
+        {
+          "name": "Warwick Junction",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Busy market area with higher crime rates. Visit only during peak daytime hours with a guide, and leave before sunset."
+        },
+        {
+          "name": "Cato Crest/Chatsworth",
+          "score": 2.5,
+          "class": "danger",
+          "description": "Township areas with high crime rates. Not recommended for tourists without experienced local guides and proper security arrangements."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Tour Guides",
+          "risk": "high",
+          "description": "Unauthorized individuals approach tourists offering unofficial tours or assistance at tourist sites.",
+          "howToAvoid": "Only book tours through established companies and hotels. Ask to see official credentials and avoid unsolicited offers."
+        },
+        {
+          "name": "ATM Distraction Theft",
+          "risk": "high",
+          "description": "Criminals create distractions while you use ATMs to steal cash or card details through skimming devices.",
+          "howToAvoid": "Use ATMs inside banks or shopping malls only. Cover your PIN and be aware of anyone standing too close."
+        },
+        {
+          "name": "Overcharging Taxi Scams",
+          "risk": "medium",
+          "description": "Unlicensed taxi drivers or metered taxis quote inflated fares to tourists, especially from the airport.",
+          "howToAvoid": "Use rideshare apps like Uber or Bolt, or book taxis through your hotel. Always confirm fare before starting journey."
+        },
+        {
+          "name": "Street Vendor Pressure",
+          "risk": "medium",
+          "description": "Persistent vendors offer unsolicited help or overpriced goods, sometimes working with pickpockets.",
+          "howToAvoid": "Politely decline help from strangers. Keep valuables secure and don't engage in long conversations with street vendors."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Durban requires significant extra precautions and is not recommended for first-time solo travelers. Women face harassment risks, especially in nightlife areas and less busy streets. The city has intermediate levels of street harassment including unwanted attention and stares, though situations rarely escalate beyond verbal confrontations with confident responses.",
+        "tips": [
+          "Stay in upscale accommodations in Umhlanga with visible security rather than budget inner city options",
+          "Never walk alone at night anywhere in the city - use rideshare services exclusively after dark",
+          "Avoid accepting drinks from strangers as drink spiking incidents have been reported",
+          "Join organized tours rather than exploring independently, especially for township visits",
+          "Consider travel insurance and inform trusted contacts of your daily itinerary"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Durban becomes significantly more dangerous after dark with opportunistic crime increasing substantially. The CBD transforms from busy to risky as shops close and foot traffic drops. Even popular areas like the Golden Mile require extra caution at dusk.",
+        "tips": [
+          "Avoid all walking after sunset - use Uber or Bolt exclusively for transportation",
+          "Stay in well-lit areas near your hotel and avoid venturing into quiet side streets",
+          "Don't visit bars or nightclubs alone - always go with others and stay together",
+          "Pre-arrange transportation back to your accommodation before going out",
+          "Keep valuable items and excess cash locked in hotel safes"
+        ]
+      },
+      "transport": {
+        "metro": "Durban lacks a comprehensive metro system. Limited public bus services exist but are not recommended for tourists due to safety concerns and unreliable scheduling.",
+        "rideshare": "Uber and Bolt operate reliably and are the safest transport options. Both offer GPS tracking and transparent pricing. Use UberBLACK for professional drivers when available.",
+        "taxis": "Avoid street-hailed taxis and minibus taxis which can be unsafe and overcharge tourists. Licensed taxi companies like Rikki Cabs can be pre-booked through hotels.",
+        "tips": "Always verify driver and vehicle details in rideshare apps before entering. Sit in back seats and avoid sharing rides with strangers."
+      },
+      "customs": [
+        "Remove shoes when entering homes and greet with firm handshakes and eye contact",
+        "Respect the diverse cultures - avoid making assumptions based on race or ethnicity",
+        "Tipping is customary at 10-15% in restaurants and small amounts for parking attendants and hotel staff",
+        "Ubuntu philosophy of community support is important - locals often look out for each other and tourists",
+        "Avoid sensitive topics like politics and apartheid history unless invited to discuss them"
+      ],
+      "health": {
+        "overview": "Durban has modern medical facilities including private hospitals and clinics. The subtropical climate requires sun protection and insect precautions. Some beaches may have water quality issues.",
+        "water": "Tap water is generally safe to drink in urban areas but bottled water is recommended. Avoid swimming in areas with pollution warnings.",
+        "vaccinations": "No special vaccinations required unless arriving from yellow fever areas. Consider malaria prophylaxis if traveling to rural KwaZulu-Natal.",
+        "altitude": "Durban is at sea level. Subtropical climate with high humidity. Use sunscreen and stay hydrated in hot weather."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "10111",
+        "ambulance": "10177",
+        "fire": "10111",
+        "touristPolice": "031 361 0000",
+        "usEmbassy": "US Consulate General Durban: +27-31-305-7600, located in Durban Bay House, 333 Smith Street"
+      },
+      "faq": [
+        {
+          "q": "Is Durban safe for tourists?",
+          "a": "Durban requires significant safety precautions but can be visited safely with proper planning. Stay in secure areas like Umhlanga, use rideshare transport, avoid walking at night, and remain vigilant in tourist areas during the day."
+        },
+        {
+          "q": "Is Durban safe at night?",
+          "a": "No, Durban is not safe for walking at night. Even tourist areas become risky after dark. Always use Uber or Bolt for transportation and avoid venturing out alone after sunset."
+        },
+        {
+          "q": "Is Durban safe for solo female travelers?",
+          "a": "Solo female travel in Durban is challenging and not recommended for inexperienced travelers. Women who visit should take extra precautions, stay in upscale accommodations, never walk alone at night, and consider joining organized tours."
+        },
+        {
+          "q": "What areas should I avoid in Durban?",
+          "a": "Avoid the CBD after business hours, townships like Cato Crest and Chatsworth without guides, and any isolated areas. Stick to tourist zones like Umhlanga and the Golden Mile during daylight hours."
+        },
+        {
+          "q": "Is it safe to use public transport in Durban?",
+          "a": "Public transport is not recommended for tourists. Minibus taxis are unsafe and overcrowded. Use Uber or Bolt rideshare services, or book taxis through reputable companies recommended by your hotel."
+        }
+      ],
+      "relatedCities": [
+        "cape-town",
+        "johannesburg",
+        "port-elizabeth",
+        "bloemfontein",
+        "pretoria"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/1280px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg"
     }
   ]
 }

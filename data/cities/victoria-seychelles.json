@@ -1,0 +1,160 @@
+{
+  "slug": "victoria",
+  "name": "Victoria",
+  "country": "Seychelles",
+  "countryCode": "SC",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.6,
+    "naturalHazards": 7.7
+  },
+  "summary": "Victoria, the small capital of Seychelles on Mahe island, is generally safe for tourists with low violent crime rates and a welcoming local population. However, petty theft and opportunistic crimes targeting tourists have been increasing, particularly around popular areas like Beau Vallon and tourist facilities.",
+  "quickVerdict": "Victoria is a safe destination for most travelers, with excellent safety infrastructure and friendly locals. The US State Department maintains a Level 1 advisory (Exercise Normal Precautions) for Seychelles overall, though some outer islands have Level 2 warnings due to limited medical facilities. Crime rates are relatively low, but visitors should remain vigilant against petty theft and practice standard safety precautions, especially at night and in crowded tourist areas.",
+  "neighborhoods": [
+    {
+      "name": "Victoria City Center",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The compact capital city center is generally safe during day and evening hours. Well-patrolled tourist areas around the Clock Tower, markets, and government buildings. Some caution needed after dark on quieter streets."
+    },
+    {
+      "name": "Beau Vallon",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Popular beach area with higher tourist concentration but also increased petty crime incidents. Safe during daylight hours but requires extra vigilance at night, especially on the beach and in bars."
+    },
+    {
+      "name": "Eden Island",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential and hotel area with private security. Considered one of the safest areas on Mahe with well-maintained infrastructure and low crime rates."
+    },
+    {
+      "name": "Anse Royale",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Quieter southern area with good medical facilities nearby. Generally safe with lower tourist density, though standard precautions apply when visiting beaches alone."
+    },
+    {
+      "name": "Les Mamelles",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Residential area in the hills above Victoria. Safe during day but limited lighting and fewer people around at night. Best accessed by taxi after dark."
+    },
+    {
+      "name": "Port Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Working port with ferry terminals and cargo facilities. Safe during day for transit but avoid lingering after dark. Some reports of opportunistic theft near transport hubs."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Airport and tourist area taxi drivers may quote inflated fares or claim meters are broken, especially targeting newly arrived visitors.",
+      "howToAvoid": "Agree on fares before getting in, use the meter when available, or take the public bus from the airport (only 1 USD to city center vs 70 USD by taxi)."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some establishments may add mysterious extra charges or service fees not mentioned on menus, particularly in tourist-heavy areas.",
+      "howToAvoid": "Review bills carefully before paying, ask about service charges upfront, and choose restaurants with clear pricing displayed."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unauthorized individuals may approach tourists offering overpriced tours or leading visitors to shops where they receive commissions.",
+      "howToAvoid": "Book tours through reputable agencies or your hotel, verify credentials of guides, and be wary of unsolicited street approaches."
+    },
+    {
+      "name": "Dating App Exploitation",
+      "risk": "low",
+      "description": "Criminals may use dating apps to target tourists for robbery or overpriced entertainment venues, as warned by US State Department.",
+      "howToAvoid": "Meet in public places, tell friends your plans, avoid isolated locations, and be cautious of expensive venue suggestions from new contacts."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Victoria and Seychelles generally rank well for solo female travelers, with low violent crime and a respectful local culture. However, standard precautions are recommended, especially regarding nighttime activities and isolated areas like hiking trails where incidents have occurred.",
+    "tips": [
+      "Avoid hiking popular trails like Anse Major alone - go with others or when tourist police are present at Copolia Trail",
+      "Stay in well-lit, populated areas at night and avoid secluded beaches after dark",
+      "Use reputable taxis or public transport rather than walking alone late at night, especially in Beau Vallon area"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Victoria has moderate nighttime safety with most incidents involving petty theft rather than violent crime. The city center has some lighting and activity, but outlying areas can be poorly lit. Beau Vallon and some backstreets of Victoria have higher incident rates after dark.",
+    "tips": [
+      "Stick to well-lit main roads and avoid shortcuts through dark alleys or secluded areas",
+      "Avoid Mahe's beaches and remote areas at night - petty crime and isolated incident risks increase significantly",
+      "Use taxis for transportation after dark rather than walking, especially if staying outside the immediate city center"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Victoria or Seychelles.",
+    "rideshare": "International apps like Uber are not available. Local taxi apps like 'Taxi Seychelles' and 'SeyTaxi' operate on Mahe. Limited availability compared to major cities.",
+    "taxis": "Taxis are generally safe but negotiate fares upfront as meters aren't always used with tourists. Airport taxis are notoriously overpriced at 70 USD vs 1 USD public bus. Yellow taxis operate throughout Victoria and Mahe.",
+    "tips": "Public buses are very affordable (12-15 SCR/$1) and safe, though crowded during peak hours. Require prepaid cards available at airport or SPTC offices. Ferry services between islands are reliable and well-maintained."
+  },
+  "customs": [
+    "Greet with handshakes and friendly 'Bonjour' or 'Hello' - locals appreciate politeness and respect for elders",
+    "Dress modestly when not on beaches - cover shoulders and knees in markets, religious sites, and town areas",
+    "Remove shoes when entering homes and bring small gifts like flowers or sweets if invited to someone's house"
+  ],
+  "health": {
+    "overview": "Healthcare in Victoria is adequate for routine needs with Victoria Hospital as the main facility, plus private clinics. Medical evacuation insurance strongly recommended as complex procedures require treatment in South Africa or India.",
+    "water": "Tap water in Victoria generally meets WHO standards but quality can vary, especially during heavy rains. Most tourists drink bottled water as a precaution.",
+    "vaccinations": "No special vaccinations required. MMR recommended due to global measles increases. Current chikungunya outbreak requires mosquito bite prevention measures.",
+    "altitude": "Sea level location with tropical climate. Current chikungunya virus outbreak requires insect repellent, long sleeves, and air-conditioned or screened accommodations."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999",
+    "ambulance": "151",
+    "fire": "999",
+    "touristPolice": "Available at major beaches",
+    "usEmbassy": "No US embassy in Seychelles - covered by US Embassy Port Louis, Mauritius. Emergency contact: +1-202-501-4444 from abroad or +1-888-407-4747 from US."
+  },
+  "faq": [
+    {
+      "q": "Is Victoria safe for tourists?",
+      "a": "Yes, Victoria is generally safe with low violent crime rates and a Level 1 US travel advisory. However, petty theft targeting tourists has increased, so standard precautions are recommended around tourist areas and ATMs."
+    },
+    {
+      "q": "Is Victoria safe at night?",
+      "a": "Victoria has moderate nighttime safety. The city center has some activity and lighting, but areas like Beau Vallon and Victoria's backstreets have higher petty crime rates after dark. Stick to well-lit areas and use taxis for transport."
+    },
+    {
+      "q": "Is Victoria safe for solo female travelers?",
+      "a": "Victoria ranks well for solo female travel with respectful local culture. However, avoid hiking trails alone (incidents have occurred), stay in populated areas at night, and use caution in isolated locations like secluded beaches."
+    },
+    {
+      "q": "What areas should I avoid in Victoria?",
+      "a": "While no areas are completely off-limits, exercise extra caution in Beau Vallon at night, Victoria's backstreets after dark, and isolated beaches or hiking trails. Avoid the port area after business hours and poorly lit residential areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Victoria?",
+      "a": "Yes, public buses are safe and very affordable (1 USD to city center), though crowded during peak hours. Taxis are generally safe but negotiate fares upfront. Ferry services between islands are reliable and well-maintained."
+    }
+  ],
+  "relatedCities": [
+    "port-louis",
+    "antananarivo",
+    "moroni",
+    "saint-denis",
+    "maputo"
+  ],
+  "_city_id": "victoria-seychelles",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_clock_tower.jpg"
+}

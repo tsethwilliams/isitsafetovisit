@@ -1,0 +1,167 @@
+{
+  "slug": "port-louis",
+  "name": "Port Louis",
+  "country": "Mauritius",
+  "countryCode": "MU",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 8.8
+  },
+  "summary": "Port Louis, Mauritius' vibrant capital, has recently moved to a US Level 2 advisory due to rising petty crime concerns. While violent crime remains relatively low, tourists should exercise increased caution, particularly in busy markets and tourist areas where pickpocketing and bag snatching occur.",
+  "quickVerdict": "Port Louis is generally safe for tourists but requires increased vigilance following a recent uptick in petty crime. The capital offers rich cultural experiences and modern amenities, but visitors should be especially cautious in crowded areas like the Central Market and Caudan Waterfront. Most crimes against foreigners are opportunistic, and basic safety precautions significantly reduce risk. Healthcare is good with both public and private options available.",
+  "neighborhoods": [
+    {
+      "name": "Caudan Waterfront",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern shopping and dining district along the harbor. Well-maintained and patrolled area popular with tourists, though petty crime can occur in crowded areas. Generally safe during day and evening hours."
+    },
+    {
+      "name": "Central Market Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic market district offering authentic local culture and shopping. Higher risk of pickpocketing and vendor overcharging. Exercise extra caution with belongings and avoid carrying visible valuables."
+    },
+    {
+      "name": "Chinatown",
+      "score": 6.5,
+      "class": "safe",
+      "description": "Cultural quarter with temples, shops and restaurants. Generally safe during daytime with regular foot traffic. Some petty crime risk in less busy side streets, especially after dark."
+    },
+    {
+      "name": "Business District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern commercial area with offices, banks and hotels. Well-policed during business hours with good security presence. Quieter evenings but generally safe for tourists."
+    },
+    {
+      "name": "Roche Bois",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Residential area with higher crime rates and social issues. Not recommended for tourists, especially after dark. Limited tourist infrastructure and potential safety concerns."
+    },
+    {
+      "name": "Vallée Pitot",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Local residential neighborhood with elevated crime levels. Visitors should avoid this area as it lacks tourist facilities and has reported safety issues, particularly at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers avoiding meters and taking longer routes, sometimes charging triple the fair rate. May also take you to commission-earning shops.",
+      "howToAvoid": "Always negotiate fare before starting journey. Use reputable taxi companies or apps like Yugo. Ask your hotel for estimated fare ranges."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unauthorized individuals approaching tourists offering tours at attractive prices but providing poor service or taking you to unwanted shops for commissions.",
+      "howToAvoid": "Only book tours through licensed operators with proper tourism authority certificates. Verify credentials and check reviews before booking."
+    },
+    {
+      "name": "Street Vendor Overpricing",
+      "risk": "medium",
+      "description": "Market vendors and beach sellers inflating prices for tourists, especially in Central Market and popular tourist spots.",
+      "howToAvoid": "Research typical prices beforehand. Don't appear unfamiliar with local costs. Be prepared to bargain and walk away if prices seem excessive."
+    },
+    {
+      "name": "Currency Exchange Ripoffs",
+      "risk": "medium",
+      "description": "Unofficial exchange counters offering poor rates or providing counterfeit bills to unsuspecting tourists.",
+      "howToAvoid": "Use official banks, hotels, or authorized exchange bureaus. Count money carefully and check for authentic currency features."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Port Louis is relatively safe for solo female travelers, though recent crime increases warrant extra caution. Street harassment exists but is less prevalent than in many destinations. Women should avoid isolated areas after dark and be particularly cautious in busy market areas where bag snatching occurs.",
+    "tips": [
+      "Avoid walking alone at night, especially in poorly lit areas and beaches",
+      "Dress modestly when visiting religious sites and conservative areas",
+      "Use registered accommodation and reputable transport services",
+      "Stay alert in crowded markets and tourist areas where pickpocketing occurs",
+      "Keep emergency contacts readily available and inform someone of your plans"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Port Louis requires increased caution due to higher crime rates after dark. While violent crime against tourists remains relatively rare, petty crime and opportunistic theft increase significantly. Well-lit tourist areas like Caudan Waterfront are generally safer, but isolated areas should be avoided.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid walking alone after dark",
+      "Use reputable taxi services rather than walking, especially from Central Market",
+      "Avoid displaying expensive jewelry, watches, or electronics",
+      "Stay in groups when possible and inform others of your whereabouts",
+      "Be extra cautious near ATMs and when withdrawing money"
+    ]
+  },
+  "transport": {
+    "metro": "The Metro Express operates from 6:00 AM to 7:00 PM between Port Louis and Curepipe. Modern, reliable, and generally safe system popular with locals and tourists. Requires MECard for payment.",
+    "rideshare": "No Uber or international rideshare apps. Local app Yugo connects to registered taxis with automatic fare calculation and real-time tracking for enhanced safety.",
+    "taxis": "Taxi meters exist but drivers often avoid using them. Always negotiate fare before starting. Use registered taxis with yellow signs and official markings. Airport taxi scams reported - use only licensed services.",
+    "tips": "Public buses are cheap and generally safe but crowded. Metro Express is most reliable. For taxis, pre-book through reputable companies or use Yugo app. Avoid unmarked vehicles at airport."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some religious sites",
+    "Dress modestly when visiting temples, mosques, and churches - cover shoulders and knees",
+    "Show respect during religious festivals and ceremonies which are frequent due to diverse population",
+    "Mauritians are generally friendly but appreciate polite, respectful behavior",
+    "Tipping is not mandatory but 10% is appreciated in restaurants and for good service"
+  ],
+  "health": {
+    "overview": "Port Louis has good healthcare with both free public hospitals and quality private clinics. The main public hospital is A.G. Jeetoo Hospital, while private options include City Clinic and Clinique Darné. Medical evacuation insurance recommended for complex cases.",
+    "water": "Tap water is technically safe but bottled water recommended for sensitive stomachs due to potential pipe issues. Most hotels provide bottled water which is widely available and affordable.",
+    "vaccinations": "No specific vaccines required for most travelers. Yellow fever vaccination needed only if arriving from endemic areas. Hepatitis A and B recommended for extended stays.",
+    "altitude": "Sea level location with tropical climate year-round. Cyclone season November-April with January-March peak. High humidity moderated by trade winds. Dengue and chikungunya risk - use insect repellent."
+  },
+  "emergency": {
+    "general": "112 or 999",
+    "police": "999",
+    "ambulance": "114",
+    "fire": "115 or 995",
+    "touristPolice": "213 1740",
+    "usEmbassy": "US Embassy Port Louis: +230 202 4400, 4th Floor Rogers House, John Kennedy Street. Provides consular services to US citizens including emergency assistance and document replacement."
+  },
+  "faq": [
+    {
+      "q": "Is Port Louis safe for tourists?",
+      "a": "Port Louis is generally safe but requires increased caution due to recent rises in petty crime. Most visits are trouble-free, though tourists should be vigilant in markets and crowded areas where pickpocketing occurs."
+    },
+    {
+      "q": "Is Port Louis safe at night?",
+      "a": "Night safety requires extra caution. Stick to well-lit, populated areas like Caudan Waterfront and avoid walking alone after dark. Use registered taxis instead of walking, especially in market areas."
+    },
+    {
+      "q": "Is Port Louis safe for solo female travelers?",
+      "a": "Relatively safe with basic precautions. Avoid isolated areas after dark, dress modestly near religious sites, and be extra alert in crowded markets. Street harassment exists but is less common than many destinations."
+    },
+    {
+      "q": "What areas should I avoid in Port Louis?",
+      "a": "Avoid Roche Bois and Vallée Pitot neighborhoods, especially after dark. Exercise extra caution in Central Market area and be vigilant around ATMs and less touristy areas at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Port Louis?",
+      "a": "Yes, generally safe. The Metro Express is modern and reliable. Public buses are affordable but can be crowded. For taxis, use registered services or the Yugo app, and always agree on fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "cape-town",
+    "nairobi",
+    "antananarivo",
+    "victoria-seychelles",
+    "casablanca",
+    "tunis"
+  ],
+  "_city_id": "port-louis-mauritius",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Port_Louis_Skyline.JPG"
+}

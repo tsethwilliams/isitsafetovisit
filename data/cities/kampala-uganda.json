@@ -1,0 +1,166 @@
+{
+  "slug": "kampala",
+  "name": "Kampala",
+  "country": "Uganda",
+  "countryCode": "UG",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 5.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 6.0,
+    "scamRisk": 4.0,
+    "womensSafety": 5.5,
+    "nightSafety": 5.0,
+    "transport": 6.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "Kampala requires moderate caution due to petty crime, romance scams, and political tensions. The city has reasonable infrastructure and friendly locals, but travelers should remain vigilant, especially at night and in crowded areas.",
+  "quickVerdict": "Kampala is Uganda's bustling capital with vibrant nightlife and friendly people, but visitors should exercise moderate caution. While violent crime against tourists is relatively uncommon, petty theft, pickpocketing, and romance scams are frequent concerns. The recent elections in January 2026 have heightened political tensions, and the US maintains a Level 3 Travel Advisory. With proper precautions - avoiding demonstrations, securing belongings, using reputable transport, and staying aware at night - most travelers can safely enjoy Kampala's cultural offerings and urban attractions.",
+  "neighborhoods": [
+    {
+      "name": "Kololo",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale diplomatic area with embassies, high-end restaurants, and good security. Popular for nightlife with well-patrolled streets and quality accommodations."
+    },
+    {
+      "name": "Nakasero",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central business district with hotels, government offices, and shopping. Generally safe during day with police presence, though caution needed at night."
+    },
+    {
+      "name": "Central Business District",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy commercial heart with markets and transport hubs. High foot traffic increases pickpocket risk, especially around taxi parks and Owino Market."
+    },
+    {
+      "name": "Kampala Old Town",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic area with mosques and traditional markets. Generally safe but crowded streets require vigilance against petty theft, especially for tourists."
+    },
+    {
+      "name": "Kabalagala",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Known nightlife district with bars and clubs. Higher crime rates at night, incidents of robbery and harassment reported, especially targeting intoxicated visitors."
+    },
+    {
+      "name": "Bwaise/Kawempe",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Densely populated suburbs with limited infrastructure. High poverty levels contribute to crime including robbery and theft. Avoid after dark and exercise extreme caution."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Romance Scams",
+      "risk": "very high",
+      "description": "Fake romantic relationships initiated online or through dating apps, leading to requests for money after building trust over weeks or months.",
+      "howToAvoid": "Never send money to someone you haven't met in person. Be suspicious of quick declarations of love and requests for financial help."
+    },
+    {
+      "name": "Fake Police Extortion",
+      "risk": "high",
+      "description": "Individuals posing as police officers demanding bribes or claiming documents are invalid, threatening arrest unless immediate payment is made.",
+      "howToAvoid": "Always ask for proper identification and insist on going to an official police station. Real police rarely demand on-spot payments."
+    },
+    {
+      "name": "Overcharging Scams",
+      "risk": "high",
+      "description": "Tourists charged inflated prices for transport, food, or goods, especially by boda-boda drivers and in markets without clear pricing.",
+      "howToAvoid": "Negotiate prices beforehand, use metered taxis or ride-hailing apps, and ask locals for fair price estimates before purchasing."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Card details stolen through devices attached to ATMs, leading to unauthorized withdrawals and identity theft.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN, and check for unusual devices attached to card slots."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Kampala is possible with extra precautions. Many women report positive experiences, but harassment and safety concerns at night are common. The city has improving gender equality but traditional attitudes persist in some areas.",
+    "tips": [
+      "Dress modestly, especially outside central Kampala - cover knees and shoulders",
+      "Avoid walking alone at night, use registered taxis or rideshare apps instead",
+      "Stay in well-reviewed accommodations in safer areas like Kololo or Bugolobi",
+      "Be cautious with boda-bodas, prefer SafeBoda or other regulated services",
+      "Trust your instincts and avoid isolated areas or overly friendly strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kampala's nightlife is vibrant but requires careful navigation. Most venues have security, but street crime increases after dark. Popular areas like Kololo and Kabalagala have active nightlife but varying safety levels.",
+    "tips": [
+      "Stick to well-established venues with visible security in Kololo or Bugolobi",
+      "Use registered taxis or rideshare apps - avoid boda-bodas after 10 PM",
+      "Travel in groups when possible and inform others of your plans",
+      "Keep valuables secure and avoid displaying expensive items openly",
+      "Stay alert to your surroundings and trust your instincts about situations"
+    ]
+  },
+  "transport": {
+    "metro": "Kampala has no metro system. Public transport consists mainly of matatu minibuses which can be crowded and less safe for tourists.",
+    "rideshare": "Uber, Bolt, and SafeBoda apps are available and generally safe. SafeBoda for motorcycles provides helmets and trained drivers.",
+    "taxis": "Official taxis are available but negotiate prices upfront. Airport taxis and hotel taxis are typically more reliable than street hails.",
+    "tips": "Boda-bodas (motorcycle taxis) are popular but risky - use SafeBoda app for better safety standards. Avoid unlicensed operators and always wear a helmet."
+  },
+  "customs": [
+    "Greet people warmly with handshakes - asking 'How are you?' before business is important",
+    "Dress modestly, especially in religious sites and rural areas - cover shoulders and knees",
+    "Use your right hand for eating, greeting, and passing items - left hand is considered unclean",
+    "Show respect to elders by greeting them first and using titles like Mr./Mrs.",
+    "Remove shoes before entering mosques and dress conservatively at all religious sites"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies significantly in Kampala. Private facilities offer better care but are expensive. Public hospitals are overcrowded with limited resources.",
+    "water": "Tap water is not safe to drink. Use bottled or purified water at all times, including for brushing teeth and ice in drinks.",
+    "vaccinations": "Required: Yellow fever certificate from endemic countries. Recommended: Hepatitis A & B, Typhoid, Meningitis. Consider malaria prophylaxis as Kampala is in a malaria zone.",
+    "altitude": "Kampala sits at 1,200m elevation with a tropical climate. High humidity and pollution can affect some visitors. Air quality is often poor due to traffic and limited environmental controls."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 or 0800-199-699",
+    "ambulance": "999 or +256-782-556-878",
+    "fire": "999 or +256-714-667-752",
+    "touristPolice": "0800-122-291 (CPS Kampala)",
+    "usEmbassy": "US Embassy Kampala: 1577 Ggaba Road, +256-312-306-001. Available 24/7 for American citizen emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Kampala safe for tourists?",
+      "a": "Kampala is moderately safe with proper precautions. Petty crime is common but violent crime against tourists is less frequent. Stay vigilant, avoid demonstrations, and use reputable transport."
+    },
+    {
+      "q": "Is Kampala safe at night?",
+      "a": "Nightlife areas like Kololo have security but street crime increases after dark. Use registered taxis, travel in groups, and avoid walking alone. Popular venues generally have good security."
+    },
+    {
+      "q": "Is Kampala safe for solo female travelers?",
+      "a": "Solo female travel is possible with extra caution. Dress modestly, avoid walking alone at night, stay in safe areas, and use registered transport. Many women report positive experiences with proper precautions."
+    },
+    {
+      "q": "What areas should I avoid in Kampala?",
+      "a": "Avoid Bwaise, Kawempe, and outer suburbs after dark. Be cautious in Kabalagala at night despite its nightlife. Stay away from political demonstrations and crowded transport hubs."
+    },
+    {
+      "q": "Is it safe to use public transport in Kampala?",
+      "a": "Matatu minibuses are less safe for tourists - crowded and prone to theft. Prefer registered taxis, Uber, Bolt, or SafeBoda. Avoid unlicensed boda-bodas, especially at night."
+    }
+  ],
+  "relatedCities": [
+    "nairobi",
+    "dar-es-salaam",
+    "kigali",
+    "addis-ababa",
+    "juba"
+  ],
+  "_city_id": "kampala-uganda",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Urban_Rising%2C_KAMPALA%2C_Uganda.jpg/1280px-Urban_Rising%2C_KAMPALA%2C_Uganda.jpg"
+}

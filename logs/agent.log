@@ -1790,3 +1790,47 @@
 2026-03-17 08:06:46,683 [WARNING]   [medium] hoi_an: Vietnam listed in CDC global dengue outbreak advisory as of March 2026. Ongoing year-round dengue risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
 2026-03-17 08:06:46,687 [WARNING]   [low] kuala_lumpur: Malaysia experiences year-round dengue risk as part of global dengue surveillance. Outbreaks commonly occur every 2-5 years. Standard mosquito bite prevention advised.
 2026-03-17 08:06:46,689 [WARNING]   [low] penang: Malaysia experiences year-round dengue risk as part of global dengue surveillance. Outbreaks commonly occur every 2-5 years. Standard mosquito bite prevention advised.
+2026-03-17 11:58:48,427 [INFO] Agent starting — mode: add
+2026-03-17 11:58:48,467 [INFO] Queue has 295 cities, adding 8
+2026-03-17 11:58:48,467 [INFO] Generating new city profile: Zanzibar, Tanzania
+2026-03-17 12:00:27,580 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:00:27,806 [INFO] Found Wikipedia image for Zanzibar
+2026-03-17 12:00:27,807 [INFO] Saved city data: zanzibar-tanzania
+2026-03-17 12:00:27,810 [INFO] Generating new city profile: Arusha, Tanzania
+2026-03-17 12:01:53,900 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:01:54,017 [INFO] Found Wikipedia image for Arusha
+2026-03-17 12:01:54,018 [INFO] Saved city data: arusha-tanzania
+2026-03-17 12:01:54,021 [INFO] Generating new city profile: Kampala, Uganda
+2026-03-17 12:03:24,359 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:03:24,476 [INFO] Found Wikipedia image for Kampala
+2026-03-17 12:03:24,477 [INFO] Saved city data: kampala-uganda
+2026-03-17 12:03:24,480 [INFO] Generating new city profile: Lalibela, Ethiopia
+2026-03-17 12:04:55,379 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:04:55,546 [INFO] Found Wikipedia image for Lalibela
+2026-03-17 12:04:55,547 [INFO] Saved city data: lalibela-ethiopia
+2026-03-17 12:04:55,550 [INFO] Generating new city profile: Antananarivo, Madagascar
+2026-03-17 12:06:36,969 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:06:37,078 [INFO] Found Wikipedia image for Antananarivo
+2026-03-17 12:06:37,079 [INFO] Saved city data: antananarivo-madagascar
+2026-03-17 12:06:37,082 [INFO] Generating new city profile: Victoria, Seychelles
+2026-03-17 12:07:57,954 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:07:58,569 [INFO] Found Wikipedia image for Victoria
+2026-03-17 12:07:58,570 [INFO] Saved city data: victoria-seychelles
+2026-03-17 12:07:58,573 [INFO] Generating new city profile: Port Louis, Mauritius
+2026-03-17 12:09:34,054 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:09:34,163 [INFO] Found Wikipedia image for Port Louis
+2026-03-17 12:09:34,164 [INFO] Saved city data: port-louis-mauritius
+2026-03-17 12:09:34,166 [INFO] Generating new city profile: Durban, South Africa
+2026-03-17 12:10:53,157 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 12:10:53,288 [INFO] Found Wikipedia image for Durban
+2026-03-17 12:10:53,289 [INFO] Saved city data: durban-south-africa
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Zanzibar
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Arusha
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Kampala
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Lalibela
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Antananarivo
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Victoria
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Port Louis
+2026-03-17 12:10:53,323 [INFO] Merged into site data: Durban
+2026-03-17 12:10:53,380 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-17 12:10:53,410 [INFO] Rebuilt sitemap with 392 URLs (278 cities, 108 countries, 6 static)

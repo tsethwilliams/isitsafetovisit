@@ -1,0 +1,164 @@
+{
+  "slug": "antananarivo",
+  "name": "Antananarivo",
+  "country": "Madagascar",
+  "countryCode": "MG",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 4.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 5.5,
+    "scamRisk": 4.5,
+    "womensSafety": 5.0,
+    "nightSafety": 4.0,
+    "transport": 5.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Antananarivo presents moderate safety challenges typical of a developing nation's capital. Petty crime like pickpocketing and mugging is common in tourist areas, with particular concerns after dark and in crowded markets.",
+  "quickVerdict": "While Madagascar's capital offers rich cultural experiences, tourists should exercise heightened awareness due to elevated crime risks. Recent political transitions and economic hardship have increased security concerns, though the city remains accessible to prepared travelers who take appropriate precautions. Street crime is the primary concern rather than violent crime targeting tourists specifically.",
+  "neighborhoods": [
+    {
+      "name": "Haute Ville (Upper Town)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic hilltop district with better security but challenging terrain. Home to the Queen's Palace ruins and colonial architecture, relatively safer during daylight hours."
+    },
+    {
+      "name": "Ankorondrano",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern diplomatic quarter with embassies, upscale hotels, and restaurants. Generally well-maintained with better police presence and lighting."
+    },
+    {
+      "name": "Isoraka",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Popular nightlife district with bars and restaurants. Relatively safe in main areas but requires caution after dark when crowds disperse."
+    },
+    {
+      "name": "Analakely Market Area",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Central market district with high pickpocketing risk. Extremely crowded with poor lighting in some areas. Exercise extreme caution with belongings."
+    },
+    {
+      "name": "Lake Anosy Area",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Scenic lake area popular for photos but suffers from petty crime even during daylight. Beautiful jacaranda trees in season but not safe for solo walking."
+    },
+    {
+      "name": "Andranoro",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Area near the US Embassy with diplomatic presence. Better infrastructure and security but still requires normal urban precautions."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Prison Fine Scam",
+      "risk": "high",
+      "description": "Scammers claim they need money to be released from prison or pay a fine, often starting through online contacts or emails.",
+      "howToAvoid": "Never send money to unknown individuals. Verify any claims through official channels and be suspicious of urgent money requests."
+    },
+    {
+      "name": "Shell Game Pickpocketing",
+      "risk": "medium",
+      "description": "Street performers with three boxes and a ball attract crowds while accomplices pickpocket distracted spectators.",
+      "howToAvoid": "Avoid street gambling games and keep belongings secured. Don't get drawn into crowds around street performers."
+    },
+    {
+      "name": "Helpful Cleaner Scam",
+      "risk": "medium",
+      "description": "Someone throws substance on you then offers to help clean while pickpocketing. May claim it's bird droppings.",
+      "howToAvoid": "Politely decline help from strangers. Move to a safe location to clean yourself and check your belongings immediately."
+    },
+    {
+      "name": "Overpriced Taxi Setup",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers or hotel touts charge excessive fixed rates, especially targeting airport arrivals.",
+      "howToAvoid": "Always negotiate fares before getting in taxis. Use reputable ride-share apps like Piqla or pre-arrange transportation through hotels."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Antananarivo requires extra caution, particularly after dark. Women may face unwanted attention and should dress conservatively in line with local customs. The city has conservative cultural expectations, and foreign women traveling alone may attract attention.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Ankorondrano",
+      "Avoid walking alone after dark and use trusted transportation",
+      "Dress modestly respecting local customs - cover shoulders and avoid revealing clothing",
+      "Join group tours for cultural sites rather than exploring alone",
+      "Keep emergency contacts readily available and inform someone of your whereabouts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Antananarivo becomes significantly less safe after dark, with most areas experiencing increased crime risk. The city tends to shutter early with dark, deserted streets. Even well-traveled areas see reduced foot traffic after 9 PM, and robbery risks increase substantially.",
+    "tips": [
+      "Avoid walking alone at night - use reliable taxi services or ride-sharing apps",
+      "Stay in the immediate vicinity of your hotel after dark",
+      "If going out, travel in groups and stick to well-lit main areas like Isoraka nightlife district",
+      "Pre-arrange transportation back to accommodation rather than searching for taxis late at night",
+      "Keep valuable items and excess cash secured in hotel safes"
+    ]
+  },
+  "transport": {
+    "metro": "Antananarivo has no metro, tram, or rail system. The main public transport consists of taxi-be (shared minibuses) which are overcrowded, poorly maintained, and pose pickpocketing risks.",
+    "rideshare": "Modern ride-sharing apps are emerging including Piqla (electric vehicles), e-VTC by Esanandro, and HOP Andao. These provide safer, more reliable transportation than traditional taxis with GPS tracking and set pricing.",
+    "taxis": "Traditional cream-colored taxis are common but have no meters, requiring fare negotiation. Avoid multi-passenger taxis due to robbery risks. Official taxis can be found at hotels and airports but may overcharge tourists.",
+    "tips": "Use reputable ride-share apps when available, negotiate taxi fares before getting in, and avoid taxi-brousse (bush taxis) which have poor safety records and high accident rates."
+  },
+  "customs": [
+    "Respect 'fady' (local taboos) which vary by location - always ask guides about specific prohibitions",
+    "Greet elders first and use both hands when offering or receiving items as a sign of respect",
+    "Remove shoes when entering homes or sacred sites, and ask permission before photographing people",
+    "Dress modestly, especially near religious sites - avoid pointing at tombs or sacred objects",
+    "Learn basic Malagasy greetings like 'Salama' (hello) to show respect for local culture"
+  ],
+  "health": {
+    "overview": "Medical infrastructure is very limited in Antananarivo and extremely poor in rural areas. Private facilities offer better care than public hospitals but still fall short of international standards. Serious medical emergencies require evacuation.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice in drinks and be cautious with raw foods washed in local water.",
+    "vaccinations": "Recommended vaccinations include Hepatitis A and B, Typhoid, Yellow Fever, routine vaccinations, and malaria prophylaxis. Antananarivo has low malaria risk but prophylaxis recommended for travel outside the city.",
+    "altitude": "Located at 1,200-1,400m elevation which generally doesn't cause altitude issues. Climate is subtropical highland with cyclone season December-April bringing heavy rains and flooding risks."
+  },
+  "emergency": {
+    "general": "117",
+    "police": "117",
+    "ambulance": "22-200-40",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Antananarivo: +261 33 44 320 00. Located at Lot 207 A Andranoro, Antehiroka 105. For US citizen emergencies: AntanACS@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Antananarivo safe for tourists?",
+      "a": "Antananarivo requires moderate caution due to petty crime risks, particularly pickpocketing and mugging in tourist areas. While not extremely dangerous, visitors should remain vigilant and take standard urban safety precautions."
+    },
+    {
+      "q": "Is Antananarivo safe at night?",
+      "a": "No, Antananarivo is not safe for walking at night. The city becomes dark and largely deserted after 9 PM, with significantly increased robbery risks. Use trusted transportation and avoid walking alone after dark."
+    },
+    {
+      "q": "Is Antananarivo safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extra caution in Antananarivo. While possible to visit safely, women face additional risks of unwanted attention and should dress modestly, avoid walking alone at night, and stay in reputable accommodations."
+    },
+    {
+      "q": "What areas should I avoid in Antananarivo?",
+      "a": "Avoid the Analakely market area due to high pickpocketing risks, Lake Anosy area despite its beauty, and any area after dark. The steps to the Rova and certain streets in Chinatown also pose elevated risks."
+    },
+    {
+      "q": "Is it safe to use public transport in Antananarivo?",
+      "a": "Traditional public transport (taxi-be) poses safety and comfort concerns. Better options include ride-sharing apps like Piqla and e-VTC, or negotiated taxi fares. Avoid overcrowded minibuses and multi-passenger taxis."
+    }
+  ],
+  "relatedCities": [
+    "cape-town",
+    "nairobi",
+    "addis-ababa"
+  ],
+  "_city_id": "antananarivo-madagascar",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg"
+}

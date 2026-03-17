@@ -1,0 +1,166 @@
+{
+  "slug": "durban",
+  "name": "Durban",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 4.6,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.0,
+    "violentCrime": 3.5,
+    "scamRisk": 4.0,
+    "womensSafety": 4.5,
+    "nightSafety": 3.0,
+    "transport": 5.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Durban ranks among South Africa's most crime-affected cities with a high crime index of 80.6 and was ranked 6th globally for crime in 2026. While tourist areas like Umhlanga and the Golden Mile have visible security measures, significant safety precautions are necessary, especially avoiding walking alone at night and staying away from certain neighborhoods.",
+  "quickVerdict": "Durban requires careful planning and constant vigilance for tourist safety. The city experiences high rates of violent crime, armed robberies, and petty theft, particularly in the CBD after business hours and certain townships. However, tourists who stay in secure accommodations like Umhlanga, use rideshare services instead of public transport, avoid walking alone at night, and remain in well-populated tourist areas can visit relatively safely. The beachfront areas are generally safe during daylight hours with lifeguards present.",
+  "neighborhoods": [
+    {
+      "name": "Umhlanga",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale northern suburb with gated hotels, private security patrols, well-lit streets and controlled beach access. Recommended as the safest base for tourists."
+    },
+    {
+      "name": "Golden Mile Beachfront",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Popular tourist area with beaches and hotels. Generally safe during daylight with security presence, but requires extra caution at dusk and evening hours."
+    },
+    {
+      "name": "Berea",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with some tourist accommodations. Safe during day but avoid walking alone at night."
+    },
+    {
+      "name": "City Centre/CBD",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Business district that feels normal during day but becomes risky after business hours. Avoid walking here at night and stay alert during daytime visits."
+    },
+    {
+      "name": "Warwick Junction",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Busy market area with higher crime rates. Visit only during peak daytime hours with a guide, and leave before sunset."
+    },
+    {
+      "name": "Cato Crest/Chatsworth",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Township areas with high crime rates. Not recommended for tourists without experienced local guides and proper security arrangements."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "high",
+      "description": "Unauthorized individuals approach tourists offering unofficial tours or assistance at tourist sites.",
+      "howToAvoid": "Only book tours through established companies and hotels. Ask to see official credentials and avoid unsolicited offers."
+    },
+    {
+      "name": "ATM Distraction Theft",
+      "risk": "high",
+      "description": "Criminals create distractions while you use ATMs to steal cash or card details through skimming devices.",
+      "howToAvoid": "Use ATMs inside banks or shopping malls only. Cover your PIN and be aware of anyone standing too close."
+    },
+    {
+      "name": "Overcharging Taxi Scams",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers or metered taxis quote inflated fares to tourists, especially from the airport.",
+      "howToAvoid": "Use rideshare apps like Uber or Bolt, or book taxis through your hotel. Always confirm fare before starting journey."
+    },
+    {
+      "name": "Street Vendor Pressure",
+      "risk": "medium",
+      "description": "Persistent vendors offer unsolicited help or overpriced goods, sometimes working with pickpockets.",
+      "howToAvoid": "Politely decline help from strangers. Keep valuables secure and don't engage in long conversations with street vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Durban requires significant extra precautions and is not recommended for first-time solo travelers. Women face harassment risks, especially in nightlife areas and less busy streets. The city has intermediate levels of street harassment including unwanted attention and stares, though situations rarely escalate beyond verbal confrontations with confident responses.",
+    "tips": [
+      "Stay in upscale accommodations in Umhlanga with visible security rather than budget inner city options",
+      "Never walk alone at night anywhere in the city - use rideshare services exclusively after dark",
+      "Avoid accepting drinks from strangers as drink spiking incidents have been reported",
+      "Join organized tours rather than exploring independently, especially for township visits",
+      "Consider travel insurance and inform trusted contacts of your daily itinerary"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Durban becomes significantly more dangerous after dark with opportunistic crime increasing substantially. The CBD transforms from busy to risky as shops close and foot traffic drops. Even popular areas like the Golden Mile require extra caution at dusk.",
+    "tips": [
+      "Avoid all walking after sunset - use Uber or Bolt exclusively for transportation",
+      "Stay in well-lit areas near your hotel and avoid venturing into quiet side streets",
+      "Don't visit bars or nightclubs alone - always go with others and stay together",
+      "Pre-arrange transportation back to your accommodation before going out",
+      "Keep valuable items and excess cash locked in hotel safes"
+    ]
+  },
+  "transport": {
+    "metro": "Durban lacks a comprehensive metro system. Limited public bus services exist but are not recommended for tourists due to safety concerns and unreliable scheduling.",
+    "rideshare": "Uber and Bolt operate reliably and are the safest transport options. Both offer GPS tracking and transparent pricing. Use UberBLACK for professional drivers when available.",
+    "taxis": "Avoid street-hailed taxis and minibus taxis which can be unsafe and overcharge tourists. Licensed taxi companies like Rikki Cabs can be pre-booked through hotels.",
+    "tips": "Always verify driver and vehicle details in rideshare apps before entering. Sit in back seats and avoid sharing rides with strangers."
+  },
+  "customs": [
+    "Remove shoes when entering homes and greet with firm handshakes and eye contact",
+    "Respect the diverse cultures - avoid making assumptions based on race or ethnicity",
+    "Tipping is customary at 10-15% in restaurants and small amounts for parking attendants and hotel staff",
+    "Ubuntu philosophy of community support is important - locals often look out for each other and tourists",
+    "Avoid sensitive topics like politics and apartheid history unless invited to discuss them"
+  ],
+  "health": {
+    "overview": "Durban has modern medical facilities including private hospitals and clinics. The subtropical climate requires sun protection and insect precautions. Some beaches may have water quality issues.",
+    "water": "Tap water is generally safe to drink in urban areas but bottled water is recommended. Avoid swimming in areas with pollution warnings.",
+    "vaccinations": "No special vaccinations required unless arriving from yellow fever areas. Consider malaria prophylaxis if traveling to rural KwaZulu-Natal.",
+    "altitude": "Durban is at sea level. Subtropical climate with high humidity. Use sunscreen and stay hydrated in hot weather."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "10111",
+    "ambulance": "10177",
+    "fire": "10111",
+    "touristPolice": "031 361 0000",
+    "usEmbassy": "US Consulate General Durban: +27-31-305-7600, located in Durban Bay House, 333 Smith Street"
+  },
+  "faq": [
+    {
+      "q": "Is Durban safe for tourists?",
+      "a": "Durban requires significant safety precautions but can be visited safely with proper planning. Stay in secure areas like Umhlanga, use rideshare transport, avoid walking at night, and remain vigilant in tourist areas during the day."
+    },
+    {
+      "q": "Is Durban safe at night?",
+      "a": "No, Durban is not safe for walking at night. Even tourist areas become risky after dark. Always use Uber or Bolt for transportation and avoid venturing out alone after sunset."
+    },
+    {
+      "q": "Is Durban safe for solo female travelers?",
+      "a": "Solo female travel in Durban is challenging and not recommended for inexperienced travelers. Women who visit should take extra precautions, stay in upscale accommodations, never walk alone at night, and consider joining organized tours."
+    },
+    {
+      "q": "What areas should I avoid in Durban?",
+      "a": "Avoid the CBD after business hours, townships like Cato Crest and Chatsworth without guides, and any isolated areas. Stick to tourist zones like Umhlanga and the Golden Mile during daylight hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Durban?",
+      "a": "Public transport is not recommended for tourists. Minibus taxis are unsafe and overcrowded. Use Uber or Bolt rideshare services, or book taxis through reputable companies recommended by your hotel."
+    }
+  ],
+  "relatedCities": [
+    "cape-town",
+    "johannesburg",
+    "port-elizabeth",
+    "bloemfontein",
+    "pretoria"
+  ],
+  "_city_id": "durban-south-africa",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/1280px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg"
+}
