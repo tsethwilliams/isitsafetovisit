@@ -1,0 +1,160 @@
+{
+  "slug": "seattle",
+  "name": "Seattle",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.8,
+    "scamRisk": 6.0,
+    "womensSafety": 6.5,
+    "nightSafety": 5.8,
+    "transport": 7.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Seattle is a generally safe city for tourists with excellent public transit and well-patrolled tourist areas, though property crime rates are higher than the national average. Crime has been decreasing in 2026 with significant drops in violent crime and homicides compared to previous years.",
+  "quickVerdict": "Seattle is moderately safe for tourists with proper precautions. While the city has higher property crime rates than average and visible homelessness issues in some areas, tourist zones like Pike Place Market, Seattle Center, and the Space Needle are well-maintained and regularly patrolled. The city has invested heavily in public safety in 2026, with crime declining 18% overall. Most visitors report feeling secure during the day and in busy areas at night, though caution is advised on certain downtown streets after dark.",
+  "neighborhoods": [
+    {
+      "name": "Pike Place Market/Waterfront",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-lit tourist area with heavy foot traffic, regular security presence, and proximity to police patrols. Generally very safe day and night with lots of people around."
+    },
+    {
+      "name": "Capitol Hill",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Vibrant neighborhood with active nightlife scene. Well-lit streets with good foot traffic, though some property crime occurs. Safe for walking during evening hours on main corridors."
+    },
+    {
+      "name": "Fremont",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Quiet residential area north of downtown with low crime rates, family-friendly atmosphere, and strong community presence. Very walkable with local businesses."
+    },
+    {
+      "name": "Belltown",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Dense urban area with active nightlife but higher property crime rates including car break-ins and theft. Exercise caution after dark and avoid isolated areas."
+    },
+    {
+      "name": "Pioneer Square",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Historic district that can be problematic at night with higher crime rates and homeless encampments. Avoid after dark and stick to well-lit main areas during the day."
+    },
+    {
+      "name": "International District",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Culturally rich area that has some safety concerns, particularly around transit stations in the evening. Be cautious walking alone at night and stay aware of surroundings."
+    }
+  ],
+  "scams": [
+    {
+      "name": "CD/Mixtape Handout",
+      "risk": "low",
+      "description": "Someone approaches offering a free CD or mixtape, then demands payment once you accept it.",
+      "howToAvoid": "Simply walk away without engaging or accepting anything. Don't feel obligated to pay for unsolicited items."
+    },
+    {
+      "name": "Fake Monk Donation",
+      "risk": "low",
+      "description": "Person dressed as a monk offers religious items like bracelets or pamphlets, then expects a donation.",
+      "howToAvoid": "Politely decline any items offered by strangers claiming religious affiliation. Legitimate monks don't solicit tourists."
+    },
+    {
+      "name": "Travel Booking Scams",
+      "risk": "high",
+      "description": "AI-enhanced fake travel websites that clone legitimate booking sites with realistic photos and branding to steal payment information.",
+      "howToAvoid": "Always verify website URLs carefully, book directly through official sites or verified travel agents, and check reviews before making payments."
+    },
+    {
+      "name": "Vacation Prize Phone Scams",
+      "risk": "medium",
+      "description": "Calls claiming you've won a free vacation but requiring upfront fees or credit card information to claim the prize.",
+      "howToAvoid": "Hang up immediately on unsolicited prize calls. Legitimate contests don't require payment to claim winnings."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Seattle is relatively safe for solo female travelers with good infrastructure, progressive attitudes, and acceptance of women traveling alone. Most areas feel secure during the day, though some downtown areas require extra caution at night. Public transit is generally reliable and safe when using standard precautions.",
+    "tips": [
+      "Stay in well-lit areas after dark and avoid isolated streets",
+      "Use rideshare apps or taxis rather than walking alone late at night in unfamiliar areas",
+      "Sit near the driver on buses and avoid empty train cars during late hours"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Seattle's night safety varies significantly by neighborhood and time. Tourist areas like Pike Place and the waterfront remain active and relatively safe, while some downtown corridors become more problematic after business hours. The city has good lighting in most central areas and active nightlife keeps many streets populated.",
+    "tips": [
+      "Avoid 3rd Avenue downtown between Pike and Pine after dark",
+      "Stick to busy, well-lit streets when walking at night",
+      "Use official rideshare apps rather than accepting rides from strangers"
+    ]
+  },
+  "transport": {
+    "metro": "King County Metro bus system is extensive and generally safe, with security cameras and emergency buttons. Buses run frequently during day hours with reduced service at night.",
+    "rideshare": "Uber and Lyft are widely available and popular, especially for late-night travel. Apps provide safety features including driver verification and trip tracking.",
+    "taxis": "Licensed taxi services like Yellow Cab are regulated and safe. Airport taxis are more expensive than light rail but provide door-to-door service.",
+    "tips": "Link Light Rail is excellent for airport transfers and major destinations, costing just $3.25 compared to $50+ for rideshares from the airport."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is standard and expected by service staff",
+    "Seattle has a casual dress code - jeans and comfortable layers are appropriate for most occasions",
+    "Public transit etiquette includes offering priority seats to elderly and disabled passengers"
+  ],
+  "health": {
+    "overview": "Seattle has excellent healthcare facilities including major hospitals like University of Washington Medical Center and Swedish Medical Center. The city meets high US health standards with good emergency services.",
+    "water": "Tap water is safe to drink and meets EPA standards, sourced from protected watershed areas in the Cascade Mountains.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare recommendations apply.",
+    "altitude": "Sea level location with temperate oceanic climate. Frequent light rain requires waterproof clothing, and summer wildfire smoke can affect air quality."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "(206) 625-5011",
+    "ambulance": "911",
+    "fire": "(206) 386-1400",
+    "touristPolice": "N/A",
+    "usEmbassy": "Seattle is a US city - for foreign nationals, contact your country's consulate. Major consulates are located downtown."
+  },
+  "faq": [
+    {
+      "q": "Is Seattle safe for tourists?",
+      "a": "Yes, Seattle is generally safe for tourists who take normal precautions. Tourist areas are well-patrolled and most visitors report feeling secure, especially during daylight hours."
+    },
+    {
+      "q": "Is Seattle safe at night?",
+      "a": "Night safety in Seattle depends on the area. Well-lit tourist zones and busy neighborhoods like Capitol Hill are relatively safe, but avoid certain downtown streets like 3rd Avenue after dark."
+    },
+    {
+      "q": "Is Seattle safe for solo female travelers?",
+      "a": "Seattle is relatively safe for solo female travelers with good public transit and progressive attitudes. Use standard precautions like staying in well-lit areas and using rideshares late at night."
+    },
+    {
+      "q": "What areas should I avoid in Seattle?",
+      "a": "Exercise caution in Pioneer Square after dark, parts of the International District late at night, and 3rd Avenue downtown between Pike and Pine. These areas have higher crime rates."
+    },
+    {
+      "q": "Is it safe to use public transport in Seattle?",
+      "a": "Yes, Seattle's public transit is generally safe and reliable. The Link Light Rail and Metro buses have security measures, though be cautious at certain stations late at night."
+    }
+  ],
+  "relatedCities": [
+    "vancouver",
+    "portland",
+    "san-francisco",
+    "denver",
+    "chicago"
+  ],
+  "_city_id": "seattle-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Seattle_Center_as_night_falls.jpg/1280px-Seattle_Center_as_night_falls.jpg"
+}

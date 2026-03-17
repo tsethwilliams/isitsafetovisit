@@ -1,0 +1,164 @@
+{
+  "slug": "boston",
+  "name": "Boston",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 6.8,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.2,
+    "naturalHazards": 8.0
+  },
+  "summary": "Boston is one of America's safest major cities with historically low crime rates, excellent healthcare, and strong infrastructure. While homicides increased modestly in 2025 to 31 cases, this remains well below the five-year average and maintains Boston's position as significantly safer than most metropolitan areas of similar size.",
+  "quickVerdict": "Boston consistently ranks among America's safest large cities, with violent crime rates 35% lower than Philadelphia and property crime rates nearly half that of similar urban centers. The city's 2025 statistics show a total crime rate of just 26.19 per 1,000 residents, meaning only about 2.6% of the population faces potential crime exposure annually. Public transportation reported a 13% reduction in major crimes, and the city's world-class healthcare system includes five hospitals in Newsweek's global top rankings. Tourist areas like Back Bay, Beacon Hill, and Downtown are particularly safe, though visitors should remain alert for pickpockets and retail theft in busy shopping areas.",
+  "neighborhoods": [
+    {
+      "name": "Back Bay & Beacon Hill",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic upscale neighborhoods with excellent foot traffic, active community policing, and violent crime rates 25-35% below city average. Home to luxury shopping, fine dining, and well-maintained Victorian architecture."
+    },
+    {
+      "name": "Downtown & Financial District",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Business district with strong police presence, well-lit streets, and heavy daytime foot traffic. Crime rates below citywide average, though tourists should watch for pickpockets near Faneuil Hall and Quincy Market."
+    },
+    {
+      "name": "North End & Charlestown",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic waterfront neighborhoods with moderate property crime mainly involving bike theft and car break-ins. Well-lit streets and neighborhood watches keep violent crime well under city median."
+    },
+    {
+      "name": "South Boston (Southie)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Gentrified waterfront area with violent crime 32% below city average. Some bar-related incidents around Andrew Square and Broadway after dark, but generally safe with active police patrols."
+    },
+    {
+      "name": "East Boston",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Mixed safety profile with Logan Airport and growing immigrant communities. Seaport area is low-crime, while Maverick Square and Eagle Hill see higher incidents. Overall crime rate 45% below US average."
+    },
+    {
+      "name": "Dorchester & Roxbury",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Higher crime neighborhoods with violent crime rates well above city mean. Visitors should stick to main streets, avoid walking alone at night, and use rideshare services for transportation."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing & Distraction Scams",
+      "risk": "medium",
+      "description": "Coordinated teams operate in tourist areas, with one person spilling something on you while accomplices steal bags or pickpocket wallets. Common near Faneuil Hall, Boston Common, and retail districts.",
+      "howToAvoid": "Don't keep valuables in back pockets, secure bags with zippers, stay alert in crowds, and politely refuse help from strangers who approach you."
+    },
+    {
+      "name": "Fake Ticket & Transportation Scams",
+      "risk": "medium",
+      "description": "Fraudsters sell fake MBTA tickets or overpriced legitimate tickets outside stations. Some unlicensed drivers approach tourists at airport offering rides at inflated prices.",
+      "howToAvoid": "Only buy transit tickets from official machines or authorized vendors. Use official taxi stands or ride-hailing apps, never accept rides from strangers in terminals."
+    },
+    {
+      "name": "Rental & Housing Fraud",
+      "risk": "high",
+      "description": "Fake vacation rental listings using real property photos, demanding wire transfers for deposits. Particularly targets visitors seeking short-term accommodations near universities or downtown.",
+      "howToAvoid": "Book through established platforms with secure payment methods. Never wire money for deposits. Verify landlord rental permits and meet in person when possible."
+    },
+    {
+      "name": "Charity & Street Gift Scams",
+      "risk": "low",
+      "description": "Individuals offer free bracelets, flowers, or petition signatures, then aggressively demand payment. May become confrontational or use accomplices to pressure victims.",
+      "howToAvoid": "Politely but firmly decline all unsolicited offers. Keep walking and avoid engaging in conversation. Don't accept anything marked as free from strangers on the street."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Boston ranks among the top American cities for solo female travel safety, with a 4.3 out of 5 safety rating. The city's compact, walkable layout, strong police presence, and university atmosphere create a generally welcoming environment. Most neighborhoods are well-lit with good foot traffic, and public transportation is considered safe and reliable.",
+    "tips": [
+      "Stay in well-populated areas like Back Bay, Beacon Hill, or Cambridge near universities",
+      "Use the MBTA during daylight hours when possible; if traveling at night, sit near other passengers",
+      "Keep emergency contacts and local numbers easily accessible on your phone",
+      "Trust your instincts - if an area feels uncomfortable, leave immediately and find well-lit public spaces",
+      "Consider staying in neighborhoods with 24/7 activity like downtown or near medical centers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Boston is generally safe at night in tourist and residential areas, with active nightlife districts well-patrolled and monitored. The city's Office of Nightlife Economy distributes safety resources including 100,000 drink spiking prevention covers to bars and clubs. However, some neighborhoods like Dorchester, Roxbury, and Mattapan require extra caution after dark.",
+    "tips": [
+      "Stick to well-lit main streets in popular areas like Back Bay, Downtown, and the North End",
+      "Use rideshare services or taxis for late-night transportation rather than walking alone",
+      "Avoid Boston Common and Public Garden late at night unless attending organized events",
+      "Stay alert around bars in South Boston, particularly near Andrew Square and Broadway",
+      "Download safety apps and keep emergency numbers programmed in your phone"
+    ]
+  },
+  "transport": {
+    "metro": "The MBTA (The T) reported a 13% reduction in major crimes in 2025, with 712 incidents down from 823 in 2024. The system is generally safe with Transit Police patrols, though some stations like Massachusetts Avenue on the Orange Line can feel uncomfortable. Ridership is recovering post-pandemic with nearly 944,000 average weekday riders.",
+    "rideshare": "Uber and Lyft are widely available and considered safe options throughout Boston. Particularly recommended for late-night travel and trips to unfamiliar neighborhoods. Surge pricing common during peak times and events.",
+    "taxis": "Licensed taxis are available at official stands and can be hailed on streets. All legitimate taxis have functioning meters and proper identification. Avoid unlicensed drivers who approach you in terminals or tourist areas.",
+    "tips": "Public transport is safest during daylight hours with more passengers around. For night travel, use rideshare services to avoid waiting alone at stops. The T has its own police department and emergency call boxes at stations."
+  },
+  "customs": [
+    "Americans are generally direct and informal in communication style",
+    "Tipping 18-20% is expected at restaurants and bars",
+    "Boston has strong sports culture - avoid wearing rival team jerseys, especially Yankees gear",
+    "Walking pace is typically fast and purposeful in business areas",
+    "Public transportation etiquette includes giving priority seating to elderly and disabled passengers"
+  ],
+  "health": {
+    "overview": "Boston boasts world-class healthcare with Massachusetts General Hospital ranking 5th globally and multiple hospitals in international top rankings. The city hosts over 14 hospitals recognized by Newsweek's Best Hospitals list, including specialized facilities for virtually every medical need.",
+    "water": "Tap water is safe to drink throughout Boston and meets all federal safety standards. The city's water supply comes from protected reservoirs west of the city.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance recommended due to high US healthcare costs.",
+    "altitude": "Boston is at sea level with no altitude concerns. Weather can be extreme in winter with heavy snow and in summer with heat waves reaching 100°F. Dress appropriately for season."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "(617) 343-4911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens can contact the State Department's 24/7 assistance line at 1-888-407-4747 (from US/Canada) or +1-202-501-4444 (international). Boston Police non-emergency: (617) 343-4200. Mayor's 24-hour hotline: (617) 635-4500."
+  },
+  "faq": [
+    {
+      "q": "Is Boston safe for tourists?",
+      "a": "Yes, Boston is one of America's safest major cities with crime rates well below national averages. Tourist areas like Back Bay, Downtown, and Beacon Hill are particularly safe with strong police presence and good lighting."
+    },
+    {
+      "q": "Is Boston safe at night?",
+      "a": "Generally yes in main tourist and residential areas. Stick to well-lit streets in popular neighborhoods, use rideshare for late-night transport, and avoid isolated areas like empty parts of Boston Common after dark."
+    },
+    {
+      "q": "Is Boston safe for solo female travelers?",
+      "a": "Boston ranks highly for solo female travel safety with a 4.3/5 rating. The compact, walkable city with university atmosphere is welcoming to solo travelers. Stay in popular neighborhoods and trust your instincts."
+    },
+    {
+      "q": "What areas should I avoid in Boston?",
+      "a": "Exercise caution in Dorchester, Roxbury, and Mattapan, especially at night. These neighborhoods have higher crime rates, though most tourist activities don't require visiting these areas. Stick to main tourist districts."
+    },
+    {
+      "q": "Is it safe to use public transport in Boston?",
+      "a": "Yes, the MBTA is generally safe with its own police force and security measures. Crime decreased 13% in 2025. Use common sense, stay alert, and consider rideshare for late-night travel when trains are less crowded."
+    }
+  ],
+  "relatedCities": [
+    "new-york",
+    "philadelphia",
+    "washington-dc"
+  ],
+  "_city_id": "boston-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/1280px-ISH_WC_Boston4.jpg"
+}

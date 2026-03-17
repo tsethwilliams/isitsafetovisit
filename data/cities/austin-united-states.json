@@ -1,0 +1,166 @@
+{
+  "slug": "austin",
+  "name": "Austin",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 7.2,
+    "transport": 8.5,
+    "naturalHazards": 9.3
+  },
+  "summary": "Austin is a welcoming and generally safe destination for tourists, known for its friendly atmosphere and vibrant culture. While property crime exists in certain areas, violent crime rates are below the national average and extensive safety measures are in place downtown.",
+  "quickVerdict": "Austin ranks among the top U.S. cities for solo female travelers and offers a safe environment for most visitors. The city has robust public safety infrastructure, well-lit entertainment districts, and extensive rideshare coverage. Downtown areas and tourist zones are well-patrolled and generally safe, though visitors should exercise normal urban precautions, especially regarding property crime prevention.",
+  "neighborhoods": [
+    {
+      "name": "Downtown / West 6th Street",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Well-patrolled entertainment district with strong police presence, good lighting, and heavy foot traffic. Popular for dining and upscale nightlife with enhanced safety measures."
+    },
+    {
+      "name": "South Congress / SoCo",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Tourist-friendly area with shops, restaurants, and hotels. Well-maintained with good visibility and regular foot traffic during day and evening hours."
+    },
+    {
+      "name": "Mueller / East Austin",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Gentrified neighborhood with modern amenities, parks, and good infrastructure. Popular with young professionals and generally considered safe for walking."
+    },
+    {
+      "name": "University of Texas Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Campus area with university security, student housing, and regular police patrols. Busy during academic year with good lighting and emergency call boxes."
+    },
+    {
+      "name": "East 6th Street / Dirty 6th",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Party district with bars and clubs. Heavy police presence but can get rowdy late at night. Petty crime and public intoxication issues are more common here."
+    },
+    {
+      "name": "East Riverside / Pleasant Valley",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed area with some higher crime rates, particularly property crime. Avoid poorly lit areas at night and stay aware of surroundings when visiting."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Booking Websites",
+      "risk": "high",
+      "description": "AI-generated travel booking sites that appear legitimate but steal payment information or create non-existent reservations.",
+      "howToAvoid": "Book directly through official airline and hotel websites, verify website URLs carefully, and never trust deals that seem too good to be true."
+    },
+    {
+      "name": "Rideshare Imposters",
+      "risk": "medium",
+      "description": "Fake drivers offering rides at airport or popular venues, claiming to be Uber or Lyft drivers without using the app.",
+      "howToAvoid": "Always use official rideshare apps, verify license plates and driver names, never accept unsolicited ride offers from strangers."
+    },
+    {
+      "name": "Concert/Event Ticket Scams",
+      "risk": "medium",
+      "description": "Fraudulent ticket sales for popular Austin events like SXSW or Austin City Limits, especially on social media or unofficial platforms.",
+      "howToAvoid": "Purchase tickets only from official venues or verified resellers like StubHub, avoid cash transactions, and be wary of last-minute social media offers."
+    },
+    {
+      "name": "Overcharged Tourist Services",
+      "risk": "low",
+      "description": "Some restaurants or services near tourist areas may add unexpected fees or inflate prices for visitors unfamiliar with local rates.",
+      "howToAvoid": "Check menus and prices clearly before ordering, ask about service charges upfront, and research typical local pricing for activities."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Austin is consistently rated as one of the best U.S. cities for solo female travelers. The city has friendly locals, well-lit streets, excellent rideshare coverage, and a welcoming culture. Solo women report feeling comfortable walking downtown during the day and early evening, with numerous solo-friendly activities like food tours, live music venues, and outdoor spaces.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Downtown, South Congress, or East Austin areas",
+      "Use rideshare apps rather than walking alone late at night, especially after 10 PM",
+      "Join group activities like food tours or live music events to meet people safely",
+      "Keep your phone charged and share your location with trusted contacts when out",
+      "Trust your instincts and leave situations that feel uncomfortable immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Austin's nightlife areas are generally well-patrolled and safe, particularly West 6th Street and downtown entertainment districts. The city has enhanced safety measures including increased police presence, better lighting, and emergency response systems. However, East 6th Street can get rowdy with heavy drinking crowds, and solo travelers should exercise more caution after midnight.",
+    "tips": [
+      "Stick to well-lit, populated areas like West 6th or downtown when out at night",
+      "Use rideshare services rather than walking long distances after dark",
+      "Keep an eye on your drinks and don't accept drinks from strangers",
+      "Stay with your group and designate a meeting point in case you get separated",
+      "Be extra cautious on East 6th Street late at night due to rowdy crowds"
+    ]
+  },
+  "transport": {
+    "metro": "CapMetro bus system and MetroRail provide good coverage with $1.25 fares. The system is generally safe and reliable, with new electric buses and enhanced security measures including transit police officers introduced in 2025.",
+    "rideshare": "Uber and Lyft are widely available and considered very safe options. The city has designated rideshare pickup zones and both services operate 24/7 with good coverage throughout Austin and surrounding areas.",
+    "taxis": "Traditional taxis are available but less common than rideshare. Licensed taxi companies operate from the airport and major hotels. Rates are regulated and vehicles are generally well-maintained and safe.",
+    "tips": "Public transport and rideshare are both safe and reliable. Use CapMetro for budget-friendly travel during the day, and rideshare for convenience and late-night transportation."
+  },
+  "customs": [
+    "Tipping is expected in restaurants (18-20%), bars, and for services like rideshares and hotel staff",
+    "Personal space is valued - maintain arm's length distance in conversations and avoid standing too close",
+    "Casual, friendly conversation is common - Austinites are known for being approachable and talkative",
+    "Punctuality is respected for scheduled meetings or reservations",
+    "Direct but polite communication is preferred over indirect approaches"
+  ],
+  "health": {
+    "overview": "Austin has excellent healthcare facilities including nationally-ranked hospitals like St. David's Medical Center and Dell Seton Medical Center. The city's healthcare infrastructure is robust with multiple world-class medical facilities and emergency services.",
+    "water": "Tap water is safe to drink throughout Austin and meets all federal safety standards. The city regularly tests and treats its water supply.",
+    "vaccinations": "No special vaccinations required for Austin. Standard U.S. travel vaccinations are sufficient. COVID-19 vaccination recommendations follow current CDC guidelines.",
+    "altitude": "Austin sits at low elevation (approximately 500 feet) so altitude is not a concern. The climate is humid subtropical with hot summers - stay hydrated and use sun protection during peak heat."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (512) 974-5000 for non-emergency",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - Austin is in the United States. For international visitors, contact your country's consulate in Houston (2 hours away) or embassy in Washington, D.C."
+  },
+  "faq": [
+    {
+      "q": "Is Austin safe for tourists?",
+      "a": "Yes, Austin is generally very safe for tourists. It ranks as one of the safest major cities in Texas with good infrastructure, friendly locals, and strong public safety measures in tourist areas."
+    },
+    {
+      "q": "Is Austin safe at night?",
+      "a": "Downtown and West 6th Street are well-patrolled and generally safe at night. East 6th Street requires more caution due to heavy drinking crowds. Use rideshare services for late-night transportation."
+    },
+    {
+      "q": "Is Austin safe for solo female travelers?",
+      "a": "Austin is consistently rated as one of the best U.S. cities for solo female travelers. The city has a welcoming culture, good safety infrastructure, and numerous solo-friendly activities and accommodations."
+    },
+    {
+      "q": "What areas should I avoid in Austin?",
+      "a": "Exercise caution in parts of East Riverside and Pleasant Valley, especially at night. While not dangerous, some areas have higher property crime rates. Stay in well-lit, populated areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Austin?",
+      "a": "Yes, CapMetro buses and rail are generally safe and reliable. The system has transit police and security measures. Rideshare services like Uber and Lyft are also widely available and safe."
+    }
+  ],
+  "relatedCities": [
+    "houston",
+    "dallas",
+    "san-antonio",
+    "fort-worth",
+    "new-orleans"
+  ],
+  "_city_id": "austin-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Austin_Downtown_2024.jpg/1280px-Austin_Downtown_2024.jpg"
+}

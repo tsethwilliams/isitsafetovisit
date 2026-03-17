@@ -1,0 +1,162 @@
+{
+  "slug": "new-orleans",
+  "name": "New Orleans",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.8,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 5.8,
+    "transport": 7.5,
+    "naturalHazards": 5.8
+  },
+  "summary": "New Orleans has experienced significant improvements in safety, with violent crime dropping 55% since 2022 and reaching historic lows. While petty crime and tourist scams remain concerns in busy areas, enhanced security measures and strong police presence in tourist districts have increased overall safety for visitors.",
+  "quickVerdict": "New Orleans is experiencing a safety renaissance, with murders at their lowest levels since the 1970s and continued crime reductions through 2025. The French Quarter and main tourist areas benefit from increased security, especially after the January 2025 incident led to enhanced safety protocols. While visitors should remain aware of pickpockets, scams, and avoid isolated areas at night, the city is significantly safer than its reputation suggests. The famous nightlife and cultural attractions can be enjoyed responsibly with basic precautions.",
+  "neighborhoods": [
+    {
+      "name": "French Quarter",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic heart of New Orleans with heavy police presence, enhanced security measures, and regular patrols. Tourist-friendly with well-lit streets, though crowded areas may attract pickpockets."
+    },
+    {
+      "name": "Garden District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area with beautiful mansions and tree-lined streets. Generally very safe for tourists during day and evening, popular for walking tours and sightseeing."
+    },
+    {
+      "name": "Central Business District",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Downtown business area near hotels and convention center. Safe during business hours but can empty out at night. Well-patrolled and good for tourists staying in area hotels."
+    },
+    {
+      "name": "Marigny/Frenchmen Street",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Trendy nightlife area with live music venues. Generally safe for tourists but use caution late at night. Stick to well-lit main streets and avoid empty side streets."
+    },
+    {
+      "name": "Central City",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Residential area with higher crime rates. Not recommended for tourists, especially at night. Limited attractions and poor lighting make this area best avoided."
+    },
+    {
+      "name": "Desire/Upper Ninth Ward",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Area still recovering from Hurricane Katrina with high crime rates. Tourists should avoid this neighborhood entirely, particularly after dark. No major tourist attractions to warrant visits."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Shoe Scam",
+      "risk": "high",
+      "description": "Someone approaches complimenting your shoes, bets they can tell you where you got them, then demands payment after saying 'on your feet in New Orleans.'",
+      "howToAvoid": "Don't engage with strangers who comment on your appearance. Keep walking and avoid eye contact with persistent street hustlers."
+    },
+    {
+      "name": "Fake Street Performers",
+      "risk": "medium",
+      "description": "People offer to take your photo then demand payment, or approach with 'free' drinks that come with surprise charges up to $20.",
+      "howToAvoid": "Only ask clearly identified business staff to take photos. Never accept items from strangers on the street, even if they claim it's free."
+    },
+    {
+      "name": "Parking Lot Scam",
+      "risk": "medium",
+      "description": "Unofficial 'attendants' collect parking fees in lots they don't own, then disappear, leaving your car vulnerable to tickets or towing.",
+      "howToAvoid": "Only park in official lots with clear signage and receipts. Be suspicious of handwritten signs and cash-only operations with lawn chairs."
+    },
+    {
+      "name": "Fortune Teller Hustle",
+      "risk": "medium",
+      "description": "Street fortune tellers offer readings then demand high payments or claim you need expensive spiritual cleansing to remove curses.",
+      "howToAvoid": "Visit established, licensed fortune tellers in proper businesses. Avoid anyone who approaches you on the street offering readings or spiritual services."
+    }
+  ],
+  "soloFemale": {
+    "overview": "New Orleans can be safely enjoyed by solo female travelers with proper precautions. Many women report positive experiences, especially during daytime hours and in well-populated tourist areas. The city has improved significantly in recent years, though standard urban safety practices remain essential.",
+    "tips": [
+      "Stay in well-lit, populated areas, especially the French Quarter and Garden District",
+      "Use rideshare apps like Uber or Lyft instead of walking alone at night",
+      "Join group tours or bar crawls to meet other travelers and explore safely",
+      "Keep alcohol consumption moderate to stay alert and aware of surroundings",
+      "Book accommodation near main tourist areas to minimize late-night travel"
+    ]
+  },
+  "nightSafety": {
+    "overview": "New Orleans nightlife is generally safe in tourist areas with enhanced security measures, but requires extra caution. Bourbon Street and the French Quarter have significant police presence, while Frenchmen Street offers a more authentic music scene. The January 2025 incident led to improved security protocols.",
+    "tips": [
+      "Stay on main, well-lit streets like Bourbon Street and Frenchmen Street",
+      "Travel in groups when possible and avoid isolated side streets or alleys",
+      "Use rideshare services instead of walking long distances at night",
+      "Keep valuables secure and be aware of pickpockets in crowded areas",
+      "Don't accept drinks from strangers and keep an eye on your beverages"
+    ]
+  },
+  "transport": {
+    "metro": "New Orleans does not have a metro system. The city relies on buses, streetcars, and rideshare for public transportation.",
+    "rideshare": "Uber and Lyft operate throughout the city and are considered safe, reliable options. Particularly recommended for late-night travel. Always verify driver identity and vehicle details before getting in.",
+    "taxis": "Licensed taxis are available but can be expensive. Airport rates are around $36 to downtown. Generally safe but rideshare apps offer more convenience and transparency.",
+    "tips": "The historic streetcar system is charming and safe for daytime travel. RTA buses are reliable for getting around the city. For airport transfers, official shuttles cost $24 per person or use rideshare services."
+  },
+  "customs": [
+    "Embrace Southern hospitality - expect friendly greetings with 'ma'am' and 'sir' and engage in polite small talk",
+    "Learn po-boy etiquette - decide if you want it 'dressed' (with lettuce, tomato, mayo) and be ready for friendly food debates",
+    "Respect the 'laissez les bons temps rouler' culture - participate in local traditions and don't rush the relaxed pace of life"
+  ],
+  "health": {
+    "overview": "New Orleans has good healthcare facilities including several major hospitals. The subtropical climate can be challenging with high humidity and heat. Water quality is generally good but can be affected by flooding.",
+    "water": "Tap water is safe to drink under normal conditions. During flooding events, follow local advisories. The 2021 Water Quality Report showed compliance with safety standards.",
+    "vaccinations": "No special vaccinations required. Standard US healthcare recommendations apply. Consider flu shots during winter months.",
+    "altitude": "Sea level location with subtropical climate. Summers are very hot and humid (80-95°F), winters mild (50-70°F). Hurricane season runs June-November requiring weather monitoring."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 504-821-2222 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US destination. For international visitors, contact your home country's consulate. Major consulates located in nearby Houston, Texas."
+  },
+  "faq": [
+    {
+      "q": "Is New Orleans safe for tourists?",
+      "a": "Yes, New Orleans is significantly safer than its reputation suggests. Violent crime has dropped 55% since 2022, reaching historic lows. Tourist areas like the French Quarter have enhanced security and regular police patrols, making them generally safe for visitors who take basic precautions."
+    },
+    {
+      "q": "Is New Orleans safe at night?",
+      "a": "New Orleans nightlife areas are generally safe with proper precautions. Bourbon Street and the French Quarter have heavy security presence, especially after enhanced measures implemented in 2025. Stay on well-lit main streets, travel in groups when possible, and use rideshare services instead of walking alone."
+    },
+    {
+      "q": "Is New Orleans safe for solo female travelers?",
+      "a": "Many solo female travelers visit New Orleans safely. Stay in tourist areas, use rideshare apps at night, join group tours, and keep alcohol consumption moderate. The French Quarter and Garden District are particularly safe during the day and evening hours."
+    },
+    {
+      "q": "What areas should I avoid in New Orleans?",
+      "a": "Avoid Central City, Desire District, and the Upper Ninth Ward, especially at night. These areas have higher crime rates and few tourist attractions. Even in safe areas, avoid empty side streets, alleys, and isolated areas after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in New Orleans?",
+      "a": "Yes, public transport is generally safe. The historic streetcars are charming and safe for daytime travel. RTA buses are reliable city-wide. For late-night travel, Uber and Lyft are recommended as safer alternatives to walking or public transport."
+    }
+  ],
+  "relatedCities": [
+    "miami",
+    "atlanta",
+    "nashville"
+  ],
+  "_city_id": "new-orleans-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg/1280px-New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg"
+}

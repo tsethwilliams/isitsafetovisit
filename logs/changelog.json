@@ -2728,5 +2728,53 @@
     "action": "alert",
     "city_id": "miami_united_states",
     "details": "{\"city_id\": \"miami_united_states\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"TSA experiencing severe staffing shortages due to partial government shutdown. Wait times up to 3 hours at major airports causing missed flights and delays. Spring break travel heavily impacted.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-17T23:07:29.967450+00:00",
+    "action": "add",
+    "city_id": "abidjan-ivory-coast",
+    "details": "New city added with score 5.6"
+  },
+  {
+    "timestamp": "2026-03-17T23:09:16.335922+00:00",
+    "action": "add",
+    "city_id": "new-orleans-united-states",
+    "details": "New city added with score 6.1"
+  },
+  {
+    "timestamp": "2026-03-17T23:10:51.797279+00:00",
+    "action": "add",
+    "city_id": "washington-dc-united-states",
+    "details": "New city added with score 7.2"
+  },
+  {
+    "timestamp": "2026-03-17T23:12:42.554523+00:00",
+    "action": "add",
+    "city_id": "boston-united-states",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-17T23:14:10.600402+00:00",
+    "action": "add",
+    "city_id": "nashville-united-states",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-17T23:15:37.988387+00:00",
+    "action": "add",
+    "city_id": "austin-united-states",
+    "details": "New city added with score 7.8"
+  },
+  {
+    "timestamp": "2026-03-17T23:16:54.019465+00:00",
+    "action": "add",
+    "city_id": "seattle-united-states",
+    "details": "New city added with score 6.3"
+  },
+  {
+    "timestamp": "2026-03-17T23:18:30.677202+00:00",
+    "action": "add",
+    "city_id": "portland-united-states",
+    "details": "New city added with score 6.9"
   }
 ]

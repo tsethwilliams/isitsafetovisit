@@ -1,0 +1,163 @@
+{
+  "slug": "portland",
+  "name": "Portland",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 7.0,
+    "womensSafety": 6.8,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Portland is experiencing mixed safety conditions in 2026, with property crime remaining elevated but violent crime showing significant improvement after recent declines. The city offers excellent public transportation and infrastructure but requires standard urban precautions, especially regarding vehicle and bicycle security.",
+  "quickVerdict": "Portland presents a complex safety picture for tourists in 2026. While violent crime has dramatically decreased from pandemic-era peaks, with homicides dropping 51% in 2025, property crime remains a concern with frequent vehicle break-ins and bike theft. The city's excellent MAX light rail system and walkable neighborhoods make it accessible, but visitors should secure belongings and avoid leaving items visible in cars. Downtown can be unpredictable after dark, though most tourist areas remain generally safe with proper awareness.",
+  "neighborhoods": [
+    {
+      "name": "Pearl District",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale neighborhood with good lighting, regular security patrols, and well-maintained streets. Popular with tourists and locals, offering excellent walkability and proximity to restaurants and shopping."
+    },
+    {
+      "name": "Hawthorne District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Trendy area with active street life, numerous cafes and shops. Well-populated during day and evening hours with good pedestrian traffic providing natural surveillance."
+    },
+    {
+      "name": "Alberta Arts District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Vibrant cultural area that has gentrified significantly. Generally safe during daytime and early evening, with good foot traffic around restaurants and galleries."
+    },
+    {
+      "name": "Downtown Portland",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Mixed safety conditions with higher concentration of property crimes and occasional aggressive panhandling. Well-patrolled during business hours but requires extra caution after dark."
+    },
+    {
+      "name": "Old Town Chinatown",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Nightlife district with active bar scene but higher crime rates. Can become unpredictable late at night, though generally safe for evening dining and entertainment with awareness."
+    },
+    {
+      "name": "Powellhurst-Gilbert",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Outer southeast area with higher property crime rates and occasional violent incidents. Less tourist infrastructure and limited evening lighting make navigation challenging after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Parking Enforcement",
+      "risk": "medium",
+      "description": "Individuals claiming to be parking officers demanding immediate cash payment for supposed violations.",
+      "howToAvoid": "Real parking enforcement only accepts payments through official city systems, never cash on the spot. Ask for official identification and verify through Portland city services."
+    },
+    {
+      "name": "Vehicle Break-in Targeting",
+      "risk": "high",
+      "description": "Thieves systematically target vehicles with visible electronics, bags, or tourist items, especially near popular attractions and hotels.",
+      "howToAvoid": "Never leave items visible in your car, even for short periods. Use hotel parking or secure lots when possible, and remove all belongings before parking."
+    },
+    {
+      "name": "Bicycle Theft Operations",
+      "risk": "high",
+      "description": "Organized groups using power tools to quickly cut locks, particularly targeting expensive bikes near transit stations and popular areas.",
+      "howToAvoid": "Use high-quality U-locks plus cable locks together, secure both frame and wheels, and park in well-lit areas with good visibility."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Groups working together to create distractions while accomplices pickpocket wallets or phones, especially on crowded MAX trains and at tourist sites.",
+      "howToAvoid": "Keep valuables in front pockets or secure bags, stay aware during crowded boarding, and be cautious of overly friendly strangers creating diversions."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Portland is generally welcoming for solo female travelers with a progressive atmosphere, though standard urban precautions apply. Women report occasional harassment in nightlife areas and on late-night public transportation. The city's walkable neighborhoods and active street life provide good natural surveillance during daytime hours.",
+    "tips": [
+      "Stick to well-lit, populated areas when walking alone after dark",
+      "Use rideshare or taxi services for late-night transportation rather than walking",
+      "Stay aware on public transit, especially during off-peak hours and sit near the operator when possible",
+      "Trust your instincts and avoid isolated areas in parks or industrial zones",
+      "Consider staying in neighborhoods like Pearl District or Hawthorne for better walkability and safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Portland's nightlife safety varies significantly by neighborhood and time. Downtown and entertainment districts have regular security presence but can become unpredictable after midnight. Well-traveled areas near restaurants and bars maintain reasonable safety, while residential streets may lack adequate lighting.",
+    "tips": [
+      "Travel in groups when possible and stick to main streets with good lighting",
+      "Use official rideshare apps or licensed taxis rather than walking long distances at night",
+      "Avoid displaying expensive electronics or large amounts of cash in entertainment districts",
+      "Stay alert to your surroundings and trust your instincts if situations feel uncomfortable",
+      "Plan your route home in advance and inform others of your expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "Portland's MAX Light Rail system is generally safe and efficient, operating from 4 AM to midnight with trains every 15 minutes. Security cameras are present on all vehicles, and transit police patrol regularly. Watch for pickpockets during rush hours and boarding.",
+    "rideshare": "Uber and Lyft operate extensively throughout Portland with good availability and safety features. Both companies require background checks for drivers and offer in-app tracking. Portland Bureau of Transportation regulates these services with additional safety standards.",
+    "taxis": "Licensed taxis are regulated by the city with set rates and safety requirements. Traditional taxi companies like Radio Cab operate 24/7 with established safety protocols, though availability may be limited compared to rideshare options.",
+    "tips": "Public transportation is your safest bet for getting around Portland. The MAX system connects major attractions and neighborhoods efficiently. Always validate your ticket to avoid fines, and keep belongings secure during peak hours."
+  },
+  "customs": [
+    "Tipping 15-20% at restaurants is expected, as service workers rely on gratuities for income",
+    "Americans value personal space - maintain arm's length distance during conversations unless invited closer",
+    "Direct eye contact and firm handshakes are standard professional greetings, even in casual settings"
+  ],
+  "health": {
+    "overview": "Portland offers excellent healthcare facilities including OHSU Hospital, Legacy Emanuel, and Providence systems, though the healthcare system faces financial pressures. Emergency services respond quickly with well-equipped ambulances stationed throughout the city.",
+    "water": "Tap water is safe to drink and comes from the high-quality Bull Run Watershed. Portland's water meets federal standards and is regularly tested, with many locals and visitors preferring it over bottled water.",
+    "vaccinations": "No special vaccinations required for visiting Portland. Standard travel health precautions apply, and comprehensive medical facilities are readily available for any health concerns.",
+    "altitude": "Portland sits at sea level with a mild oceanic climate. Summers are warm and dry while winters bring frequent rain. Air quality can be affected by wildfire smoke during summer months, so check conditions if you have respiratory sensitivities."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 for emergencies, 503-823-3333 for non-emergency",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Portland is a US city - no embassy needed. For international visitors, contact your home country's consulate in San Francisco or Seattle for assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Portland safe for tourists?",
+      "a": "Portland is moderately safe for tourists with excellent infrastructure and services. While violent crime has decreased significantly, property crime remains elevated. Standard urban precautions are sufficient for most visitors, particularly securing vehicles and belongings."
+    },
+    {
+      "q": "Is Portland safe at night?",
+      "a": "Portland's nighttime safety varies by area. Well-lit entertainment districts and main streets are generally safe with good foot traffic, but some downtown areas can be unpredictable after midnight. Using rideshare services or walking in groups is recommended."
+    },
+    {
+      "q": "Is Portland safe for solo female travelers?",
+      "a": "Portland is generally welcoming for solo female travelers with a progressive atmosphere. Some harassment may occur in nightlife areas and on late-night public transit, so standard precautions like staying in well-lit areas and using rideshare for late-night transport are advised."
+    },
+    {
+      "q": "What areas should I avoid in Portland?",
+      "a": "Exercise extra caution in outer southeast areas like Powellhurst-Gilbert, and be aware that downtown can be unpredictable after midnight. Most tourist areas including Pearl District, Hawthorne, and Alberta are generally safe with normal precautions."
+    },
+    {
+      "q": "Is it safe to use public transport in Portland?",
+      "a": "Yes, Portland's MAX Light Rail and bus system are generally safe with regular security patrols and cameras on vehicles. Watch for pickpockets during rush hours and consider rideshare options for late-night travel when public transit frequency decreases."
+    }
+  ],
+  "relatedCities": [
+    "seattle",
+    "vancouver",
+    "san-francisco",
+    "denver",
+    "austin"
+  ],
+  "_city_id": "portland-united-states"
+}

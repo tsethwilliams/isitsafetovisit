@@ -1,0 +1,160 @@
+{
+  "slug": "washington-dc",
+  "name": "Washington DC",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.8,
+    "scamRisk": 6.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.6
+  },
+  "summary": "Washington DC has experienced dramatic improvements in safety throughout 2025, with violent crime dropping 28% year-over-year and homicides reaching historic lows. While property crime remains elevated and certain areas require caution, tourist zones like the National Mall and major museums are well-secured. The city combines federal-level security infrastructure with strong public transportation and improving neighborhood safety trends.",
+  "quickVerdict": "Washington DC is generally safe for tourists in 2026, particularly in major tourist areas which benefit from extensive federal security measures. The dramatic improvement in crime statistics throughout 2025 has created the strongest safety foundation the city has seen in years. While visitors should exercise standard urban caution regarding property crime and avoid certain neighborhoods at night, the overall safety trajectory is positive and tourist-focused areas remain highly secure.",
+  "neighborhoods": [
+    {
+      "name": "National Mall & Downtown",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Heavily patrolled federal area with multiple layers of security. Home to major monuments, museums, and government buildings with constant police presence and surveillance."
+    },
+    {
+      "name": "Georgetown",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic upscale neighborhood with low crime rates, well-lit streets, and active foot traffic. Popular waterfront area with good restaurant and shopping safety."
+    },
+    {
+      "name": "Dupont Circle",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Vibrant area with embassies, galleries, and nightlife. Well-maintained with good lighting and regular police patrols. Safe for solo travelers day and night."
+    },
+    {
+      "name": "Capitol Hill",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Mixed safety profile with tourist areas around the Capitol being secure, but some blocks experiencing petty theft and burglaries. Enhanced security near government buildings."
+    },
+    {
+      "name": "Shaw & U Street Corridor",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Gentrifying area with vibrant nightlife but ongoing safety concerns. Some blocks still struggle with theft, car break-ins, and assaults, especially around nightlife areas."
+    },
+    {
+      "name": "Southeast DC (Anacostia)",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Higher crime rates including violent offenses. Limited tourist attractions and infrastructure. Visitors should exercise extreme caution and avoid after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Metro Change Scam",
+      "risk": "high",
+      "description": "Scammers approach tourists asking to exchange bills (like 2 tens for a twenty), then quickly switch out real bills for fake ones or short-change victims during the transaction.",
+      "howToAvoid": "Never exchange money with strangers. Use official currency exchange services or bank ATMs. If approached, politely decline and walk away immediately."
+    },
+    {
+      "name": "Fake Booking Websites",
+      "risk": "high",
+      "description": "Fraudulent travel websites that mimic legitimate hotel or tour booking sites, stealing credit card information and personal data while providing no actual services.",
+      "howToAvoid": "Book directly through official hotel websites or verified platforms. Check URLs carefully for spelling errors. Verify bookings by calling hotels directly."
+    },
+    {
+      "name": "Street Item Sales",
+      "risk": "medium",
+      "description": "Individuals approaching tourists with items like jewelry, electronics, or artwork, often claiming special deals or emergency situations requiring quick cash.",
+      "howToAvoid": "Never purchase items from street sellers approaching you. Legitimate vendors operate from established locations with proper permits. Just say no and keep walking."
+    },
+    {
+      "name": "Phone/Charity Solicitation",
+      "risk": "medium",
+      "description": "Scammers asking to use your phone for emergency calls or requesting donations for fake charities, potentially installing malware or gathering personal information.",
+      "howToAvoid": "Never let strangers use your phone. Direct people needing help to nearby businesses or police officers. Research charities before donating."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Washington DC is considered quite safe for solo female travelers, especially in tourist areas and well-populated neighborhoods. The significant crime reductions in 2025 have improved the overall environment for women traveling alone. Most female travelers report feeling comfortable during the day and in evening hours when staying in recommended neighborhoods with good lighting and foot traffic.",
+    "tips": [
+      "Stick to well-lit, populated areas especially after dark - Georgetown, Dupont Circle, and the National Mall area are ideal",
+      "Use Metro or rideshare services rather than walking alone at night, particularly when traveling between neighborhoods",
+      "Stay alert in crowded tourist areas where pickpocketing can occur, and keep valuables secured in anti-theft bags"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Washington DC varies significantly by location. Tourist areas like the National Mall remain relatively safe with illuminated monuments attracting visitors, while some neighborhoods require extra caution after dark. The improvement in violent crime rates throughout 2025 has made evening hours generally safer, but property crime remains a concern.",
+    "tips": [
+      "Avoid isolated areas and stick to main streets with good lighting and regular foot traffic",
+      "Use rideshare or taxi services rather than walking alone, especially between different neighborhoods",
+      "Be aware that nightlife areas like Adams Morgan can get rowdy late at night, though they generally remain safe with proper precautions"
+    ]
+  },
+  "transport": {
+    "metro": "The Washington Metro system has significantly improved safety in 2025, with crime on rail dropping 34% and new fare gates preventing evasion. The system is generally safe day and night, with increased police presence and better enforcement. Sit in the first car near the operator during late-night hours for added security.",
+    "rideshare": "Uber and Lyft operate extensively throughout DC with good safety records. Drivers must pass background checks and vehicles are tracked in real-time. Rideshare is often safer than walking alone at night and more reliable than traditional taxis, though surge pricing can apply during peak times.",
+    "taxis": "Traditional DC taxis are regulated and generally safe, though less convenient than rideshare apps. Official DC Taxi app available for smartphone booking. Ensure the taxi is licensed and use the meter. Taxis are readily available in tourist areas and at hotels.",
+    "tips": "The Metro is your best bet for safe, affordable transport. For late-night travel, rideshare services offer door-to-door convenience with tracking. Always verify your rideshare driver and vehicle details before getting in."
+  },
+  "customs": [
+    "Tipping is expected in restaurants (15-20%), for taxi drivers, hotel staff, and tour guides - it's considered part of service workers' income",
+    "Personal space norms include maintaining arm's length during conversations and firm handshakes for greetings in business contexts",
+    "Punctuality is highly valued - arrive on time for meetings, tours, and social gatherings as a sign of respect"
+  ],
+  "health": {
+    "overview": "Washington DC has excellent healthcare infrastructure with multiple world-class hospitals including George Washington University Hospital, MedStar facilities, and Howard University Hospital. The city faces some health challenges including recent West Nile virus detections and higher STI rates, but medical care is readily accessible.",
+    "water": "Tap water is safe to drink throughout Washington DC. The city maintains high water quality standards and regular testing. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for DC visits. Standard travel health precautions apply. Be aware of seasonal health advisories like West Nile virus during warmer months.",
+    "altitude": "DC is at sea level with humid subtropical climate. Summers can be hot and humid, winters mild. Air conditioning is widely used. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 202-727-9099 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "202-962-2121 (Metro Transit Police)",
+    "usEmbassy": "N/A - Washington DC is the capital, but US citizens can contact State Department at 1-888-407-4747 from US/Canada or 1-202-501-4444 from abroad"
+  },
+  "faq": [
+    {
+      "q": "Is Washington DC safe for tourists?",
+      "a": "Yes, Washington DC is generally safe for tourists, especially in major tourist areas like the National Mall, museums, and monuments which have extensive security. Crime has dropped significantly in 2025, with violent crime down 28% year-over-year."
+    },
+    {
+      "q": "Is Washington DC safe at night?",
+      "a": "Night safety varies by area. Tourist zones and well-lit neighborhoods like Georgetown and Dupont Circle are generally safe. Avoid isolated areas and consider using rideshare or Metro rather than walking alone between neighborhoods after dark."
+    },
+    {
+      "q": "Is Washington DC safe for solo female travelers?",
+      "a": "Yes, DC is quite safe for solo female travelers. Stick to tourist areas and well-populated neighborhoods, use common sense precautions, and utilize safe transportation options like Metro or rideshare services, especially at night."
+    },
+    {
+      "q": "What areas should I avoid in Washington DC?",
+      "a": "Avoid Southeast DC areas like Anacostia, especially at night. Some parts of Northeast DC also have higher crime rates. Tourist areas and Northwest neighborhoods like Georgetown are much safer."
+    },
+    {
+      "q": "Is it safe to use public transport in Washington DC?",
+      "a": "Yes, the Metro system is generally safe and has improved significantly in 2025 with crime down 34% on rail and 37% on buses. New fare gates and increased police presence have enhanced security throughout the system."
+    }
+  ],
+  "relatedCities": [
+    "new-york-city",
+    "philadelphia",
+    "baltimore",
+    "boston",
+    "chicago"
+  ],
+  "_city_id": "washington-dc-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/1280px-12-07-13-washington-by-RalfR-08.jpg"
+}

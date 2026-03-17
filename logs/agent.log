@@ -1893,3 +1893,46 @@
 2026-03-17 20:01:39,727 [WARNING]   [high] antalya_turkey: US ordered departure of non-emergency personnel from southeast Turkey on March 9, 2026. Travel restrictions implemented due to armed conflict risks and terrorism threats. US Consulate Adana suspended all services.
 2026-03-17 20:01:39,730 [WARNING]   [high] playa_del_carmen_mexico: Widespread cartel violence following El Mencho killing on Feb 23. Retaliatory attacks, roadblocks, and arson across 20+ Mexican states. Tourist areas affected with flight cancellations and shelter-in-place orders. Over 70 casualties reported.
 2026-03-17 20:01:39,733 [WARNING]   [medium] miami_united_states: TSA experiencing severe staffing shortages due to partial government shutdown. Wait times up to 3 hours at major airports causing missed flights and delays. Spring break travel heavily impacted.
+2026-03-17 23:05:20,692 [INFO] Agent starting — mode: add
+2026-03-17 23:05:20,733 [INFO] Queue has 279 cities, adding 8
+2026-03-17 23:05:20,733 [INFO] Generating new city profile: Abidjan, Ivory Coast
+2026-03-17 23:07:29,780 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:07:29,965 [INFO] Found Wikipedia image for Abidjan
+2026-03-17 23:07:29,966 [INFO] Saved city data: abidjan-ivory-coast
+2026-03-17 23:07:29,969 [INFO] Generating new city profile: New Orleans, United States
+2026-03-17 23:09:16,205 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:09:16,334 [INFO] Found Wikipedia image for New Orleans
+2026-03-17 23:09:16,335 [INFO] Saved city data: new-orleans-united-states
+2026-03-17 23:09:16,338 [INFO] Generating new city profile: Washington DC, United States
+2026-03-17 23:10:51,643 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:10:51,795 [INFO] Found Wikipedia image for Washington DC
+2026-03-17 23:10:51,796 [INFO] Saved city data: washington-dc-united-states
+2026-03-17 23:10:51,799 [INFO] Generating new city profile: Boston, United States
+2026-03-17 23:12:42,482 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:12:42,553 [INFO] Found Wikipedia image for Boston
+2026-03-17 23:12:42,553 [INFO] Saved city data: boston-united-states
+2026-03-17 23:12:42,556 [INFO] Generating new city profile: Nashville, United States
+2026-03-17 23:14:10,512 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:14:10,598 [INFO] Found Wikipedia image for Nashville
+2026-03-17 23:14:10,599 [INFO] Saved city data: nashville-united-states
+2026-03-17 23:14:10,602 [INFO] Generating new city profile: Austin, United States
+2026-03-17 23:15:37,914 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:15:37,986 [INFO] Found Wikipedia image for Austin
+2026-03-17 23:15:37,987 [INFO] Saved city data: austin-united-states
+2026-03-17 23:15:37,990 [INFO] Generating new city profile: Seattle, United States
+2026-03-17 23:16:53,938 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:16:54,018 [INFO] Found Wikipedia image for Seattle
+2026-03-17 23:16:54,018 [INFO] Saved city data: seattle-united-states
+2026-03-17 23:16:54,021 [INFO] Generating new city profile: Portland, United States
+2026-03-17 23:18:30,532 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 23:18:30,676 [INFO] Saved city data: portland-united-states
+2026-03-17 23:18:30,711 [INFO] Merged into site data: Abidjan
+2026-03-17 23:18:30,711 [INFO] Merged into site data: New Orleans
+2026-03-17 23:18:30,711 [INFO] Merged into site data: Washington DC
+2026-03-17 23:18:30,711 [INFO] Merged into site data: Boston
+2026-03-17 23:18:30,711 [INFO] Merged into site data: Nashville
+2026-03-17 23:18:30,711 [INFO] Merged into site data: Austin
+2026-03-17 23:18:30,712 [INFO] Merged into site data: Seattle
+2026-03-17 23:18:30,712 [INFO] Merged into site data: Portland
+2026-03-17 23:18:30,772 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-17 23:18:30,804 [INFO] Rebuilt sitemap with 414 URLs (294 cities, 114 countries, 6 static)

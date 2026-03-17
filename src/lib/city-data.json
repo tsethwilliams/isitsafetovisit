@@ -46853,6 +46853,1305 @@
         "bamako"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dakar-place-de-l%27Ind%C3%A9pendance.jpg/1280px-Dakar-place-de-l%27Ind%C3%A9pendance.jpg"
+    },
+    {
+      "slug": "abidjan",
+      "name": "Abidjan",
+      "country": "Ivory Coast",
+      "countryCode": "CI",
+      "region": "Africa",
+      "regionSlug": "africa",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 5.6,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 5.0,
+        "scamRisk": 4.0,
+        "womensSafety": 5.5,
+        "nightSafety": 4.5,
+        "transport": 6.5,
+        "naturalHazards": 9.0
+      },
+      "summary": "Abidjan is West Africa's economic hub with a vibrant cultural scene, but visitors need to exercise caution due to moderate crime rates and security challenges. The city offers rich experiences for prepared travelers who stay alert and follow safety guidelines.",
+      "quickVerdict": "Abidjan presents a mixed safety picture for tourists. While violent crime against foreigners is not extremely common, petty crime including theft, pickpocketing, and scams occurs regularly, particularly in crowded areas and tourist zones. The US State Department maintains a Level 2 advisory for Ivory Coast, citing concerns about crime, terrorism, and unrest. However, millions visit safely each year by staying vigilant, avoiding high-risk areas, and using reliable transportation. The city's central neighborhoods like Plateau and Zone 4 are generally safer than outlying areas.",
+      "neighborhoods": [
+        {
+          "name": "Plateau",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The business district with hotels, embassies, and restaurants. Well-patrolled during the day with good infrastructure, though quieter at night."
+        },
+        {
+          "name": "Zone 4",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Popular nightlife and entertainment area with restaurants, bars, and clubs. Generally safe but requires caution during late hours."
+        },
+        {
+          "name": "Cocody",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Upscale residential area with shopping centers and the university. Relatively safe but visitors should remain aware of surroundings."
+        },
+        {
+          "name": "Marcory",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Mixed commercial and residential area with some nightlife venues. Exercise increased caution, especially after dark."
+        },
+        {
+          "name": "Treichville",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Dense urban area with markets and local businesses. Higher crime rates reported, particularly for petty theft and pickpocketing."
+        },
+        {
+          "name": "Yopougon",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Large residential commune with limited tourist infrastructure. Avoid unnecessary visits, especially at night due to elevated crime risks."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Official Scam",
+          "risk": "high",
+          "description": "Criminals pose as police officers or government officials demanding bribes or document fees from tourists.",
+          "howToAvoid": "Always ask for proper identification, insist on going to an official police station, and never pay money on the spot."
+        },
+        {
+          "name": "Overcharging Taxi Scam",
+          "risk": "high",
+          "description": "Taxi drivers quote inflated fares to tourists, especially from the airport or to popular destinations.",
+          "howToAvoid": "Use metered orange taxis, agree on fare before departure, or use ride-hailing apps like Yango for transparent pricing."
+        },
+        {
+          "name": "ATM and Money Exchange Fraud",
+          "risk": "medium",
+          "description": "Criminals target tourists at ATMs or offer unofficial currency exchange at inflated rates with counterfeit bills.",
+          "howToAvoid": "Use ATMs inside banks or hotels, avoid street money changers, and exchange money only at official locations."
+        },
+        {
+          "name": "Distraction Theft",
+          "risk": "medium",
+          "description": "Groups work together to distract tourists while accomplices steal bags, phones, or valuables in markets and busy areas.",
+          "howToAvoid": "Keep valuables secure, be wary of overly friendly strangers, and avoid displaying expensive items like jewelry or electronics."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travelers can visit Abidjan but need to take extra precautions. Sexual harassment and unwanted attention are concerns, particularly in crowded areas and at night. The local culture is generally respectful but conservative dress is recommended. Many women travel solo successfully by staying in safer neighborhoods, using reliable transportation, and connecting with other travelers or expatriate communities.",
+        "tips": [
+          "Dress conservatively covering shoulders and knees, especially when visiting religious sites or local neighborhoods",
+          "Avoid walking alone at night and use trusted transportation like hotel-recommended taxis or ride-hailing apps",
+          "Stay in well-reviewed accommodations in safer areas like Plateau or Cocody rather than budget options in outlying areas",
+          "Trust your instincts if a situation feels uncomfortable and don't hesitate to seek help from hotel staff or other travelers",
+          "Keep emergency contacts readily available and inform someone of your daily plans when exploring the city"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Abidjan's nightlife can be enjoyable but requires careful planning and awareness. Crime rates increase after dark, and the US embassy restricts its employees from driving outside major cities at night. Popular nightlife areas like Zone 4 and Plateau are relatively safer but still require vigilance. Avoid outlying neighborhoods after dark and always use reliable transportation.",
+        "tips": [
+          "Stick to well-known nightlife areas like Zone 4, Plateau, and parts of Cocody with good lighting and security presence",
+          "Always use trusted transportation - never walk between venues at night, even short distances",
+          "Go out in groups when possible and keep track of your companions throughout the evening",
+          "Avoid displaying expensive items like jewelry, watches, or large amounts of cash when out at night",
+          "Plan your return transportation in advance and avoid waiting alone on streets for taxis or rides"
+        ]
+      },
+      "transport": {
+        "metro": "Abidjan lacks a complete metro system. Public transport relies mainly on shared taxis (woro-woros) and minibuses (gbakas) which can be confusing for tourists and are not recommended for first-time visitors due to unmarked routes and informal stops.",
+        "rideshare": "Uber recently exited the market in 2025, but Yango (Russian-owned) is the dominant ride-hailing app, offering upfront pricing and GPS tracking. Other options include inDrive and Heetch. These apps are generally safer and more reliable than street taxis for tourists.",
+        "taxis": "Orange metered taxis are the official option and generally safer for tourists, though meters are rarely used so negotiate fares upfront. Shared taxis (woro-woros) are color-coded by route but difficult for visitors to navigate. Airport taxis charge premium rates.",
+        "tips": "Download Yango app before arrival for reliable rides. For airport transfers, use official taxis or pre-book through your hotel. Avoid motorcycle taxis and unmarked vehicles. Always negotiate taxi fares before departure or insist on the meter."
+      },
+      "customs": [
+        "Greet people with a handshake; close friends may exchange cheek kisses",
+        "Dress modestly, especially in religious areas - cover shoulders and knees",
+        "Remove shoes when entering someone's home",
+        "Use your right hand for eating, greeting, and giving/receiving items",
+        "Show respect for elders and traditional authorities",
+        "Avoid public displays of affection",
+        "Ask permission before photographing people, especially in traditional settings"
+      ],
+      "health": {
+        "overview": "Health risks in Abidjan include malaria, yellow fever, and waterborne diseases. The city has decent medical facilities compared to rural areas, but standards may not meet those of developed countries. Private clinics generally offer better care than public hospitals.",
+        "water": "Tap water is technically potable but bottled water is strongly recommended for tourists. Ice may be made from tap water, so request drinks without ice or ensure it's from bottled water.",
+        "vaccinations": "Yellow fever vaccination is mandatory for entry and must be administered at least 10 days before arrival. Malaria prophylaxis is essential as the risk is high year-round. Consider hepatitis A/B, typhoid, and meningitis vaccines.",
+        "altitude": "Abidjan is at sea level with a hot, humid tropical climate. The rainy season (May-November) brings heavy rains and flooding risks. Air conditioning and mosquito protection are essential year-round."
+      },
+      "emergency": {
+        "general": "112",
+        "police": "180",
+        "ambulance": "185",
+        "fire": "180",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Abidjan: +225-27-22-49-40-00 (24hr emergency: +225-27-22-49-44-50). Located at Cocody Riviera Golf, 01 BP 1712 Abidjan 01"
+      },
+      "faq": [
+        {
+          "q": "Is Abidjan safe for tourists?",
+          "a": "Abidjan can be safe for tourists who exercise appropriate caution. The US State Department has a Level 2 advisory citing crime and security concerns, but many visitors have safe trips by staying alert, avoiding high-risk areas, and using reliable transportation."
+        },
+        {
+          "q": "Is Abidjan safe at night?",
+          "a": "Nighttime safety requires extra caution in Abidjan. Stick to well-lit, popular areas like Zone 4 and Plateau, always use trusted transportation, and avoid walking alone. Crime rates increase after dark, so plan your evening activities carefully."
+        },
+        {
+          "q": "Is Abidjan safe for solo female travelers?",
+          "a": "Solo female travelers can visit Abidjan but need additional precautions. Dress conservatively, stay in safer neighborhoods, use reliable transportation, and be prepared for potential harassment. Many women travel solo successfully with proper planning."
+        },
+        {
+          "q": "What areas should I avoid in Abidjan?",
+          "a": "Avoid Treichville and Yopougon, especially at night, due to higher crime rates. Also avoid the northern border regions of Ivory Coast entirely due to terrorism risks. Stick to central areas like Plateau, Zone 4, and Cocody."
+        },
+        {
+          "q": "Is it safe to use public transport in Abidjan?",
+          "a": "Public minibuses (gbakas) and shared taxis can be challenging for tourists due to unmarked routes and crowding. Orange metered taxis and ride-hailing apps like Yango are safer options. Avoid motorcycle taxis which are officially banned."
+        }
+      ],
+      "relatedCities": [
+        "accra",
+        "lagos",
+        "dakar",
+        "bamako",
+        "ouagadougou"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abidjan_View_of_the_plateau_district.jpg/1280px-Abidjan_View_of_the_plateau_district.jpg"
+    },
+    {
+      "slug": "new-orleans",
+      "name": "New Orleans",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.1,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.8,
+        "scamRisk": 5.0,
+        "womensSafety": 6.5,
+        "nightSafety": 5.8,
+        "transport": 7.5,
+        "naturalHazards": 5.8
+      },
+      "summary": "New Orleans has experienced significant improvements in safety, with violent crime dropping 55% since 2022 and reaching historic lows. While petty crime and tourist scams remain concerns in busy areas, enhanced security measures and strong police presence in tourist districts have increased overall safety for visitors.",
+      "quickVerdict": "New Orleans is experiencing a safety renaissance, with murders at their lowest levels since the 1970s and continued crime reductions through 2025. The French Quarter and main tourist areas benefit from increased security, especially after the January 2025 incident led to enhanced safety protocols. While visitors should remain aware of pickpockets, scams, and avoid isolated areas at night, the city is significantly safer than its reputation suggests. The famous nightlife and cultural attractions can be enjoyed responsibly with basic precautions.",
+      "neighborhoods": [
+        {
+          "name": "French Quarter",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The historic heart of New Orleans with heavy police presence, enhanced security measures, and regular patrols. Tourist-friendly with well-lit streets, though crowded areas may attract pickpockets."
+        },
+        {
+          "name": "Garden District",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale residential area with beautiful mansions and tree-lined streets. Generally very safe for tourists during day and evening, popular for walking tours and sightseeing."
+        },
+        {
+          "name": "Central Business District",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Downtown business area near hotels and convention center. Safe during business hours but can empty out at night. Well-patrolled and good for tourists staying in area hotels."
+        },
+        {
+          "name": "Marigny/Frenchmen Street",
+          "score": 6.8,
+          "class": "safe",
+          "description": "Trendy nightlife area with live music venues. Generally safe for tourists but use caution late at night. Stick to well-lit main streets and avoid empty side streets."
+        },
+        {
+          "name": "Central City",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Residential area with higher crime rates. Not recommended for tourists, especially at night. Limited attractions and poor lighting make this area best avoided."
+        },
+        {
+          "name": "Desire/Upper Ninth Ward",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Area still recovering from Hurricane Katrina with high crime rates. Tourists should avoid this neighborhood entirely, particularly after dark. No major tourist attractions to warrant visits."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Shoe Scam",
+          "risk": "high",
+          "description": "Someone approaches complimenting your shoes, bets they can tell you where you got them, then demands payment after saying 'on your feet in New Orleans.'",
+          "howToAvoid": "Don't engage with strangers who comment on your appearance. Keep walking and avoid eye contact with persistent street hustlers."
+        },
+        {
+          "name": "Fake Street Performers",
+          "risk": "medium",
+          "description": "People offer to take your photo then demand payment, or approach with 'free' drinks that come with surprise charges up to $20.",
+          "howToAvoid": "Only ask clearly identified business staff to take photos. Never accept items from strangers on the street, even if they claim it's free."
+        },
+        {
+          "name": "Parking Lot Scam",
+          "risk": "medium",
+          "description": "Unofficial 'attendants' collect parking fees in lots they don't own, then disappear, leaving your car vulnerable to tickets or towing.",
+          "howToAvoid": "Only park in official lots with clear signage and receipts. Be suspicious of handwritten signs and cash-only operations with lawn chairs."
+        },
+        {
+          "name": "Fortune Teller Hustle",
+          "risk": "medium",
+          "description": "Street fortune tellers offer readings then demand high payments or claim you need expensive spiritual cleansing to remove curses.",
+          "howToAvoid": "Visit established, licensed fortune tellers in proper businesses. Avoid anyone who approaches you on the street offering readings or spiritual services."
+        }
+      ],
+      "soloFemale": {
+        "overview": "New Orleans can be safely enjoyed by solo female travelers with proper precautions. Many women report positive experiences, especially during daytime hours and in well-populated tourist areas. The city has improved significantly in recent years, though standard urban safety practices remain essential.",
+        "tips": [
+          "Stay in well-lit, populated areas, especially the French Quarter and Garden District",
+          "Use rideshare apps like Uber or Lyft instead of walking alone at night",
+          "Join group tours or bar crawls to meet other travelers and explore safely",
+          "Keep alcohol consumption moderate to stay alert and aware of surroundings",
+          "Book accommodation near main tourist areas to minimize late-night travel"
+        ]
+      },
+      "nightSafety": {
+        "overview": "New Orleans nightlife is generally safe in tourist areas with enhanced security measures, but requires extra caution. Bourbon Street and the French Quarter have significant police presence, while Frenchmen Street offers a more authentic music scene. The January 2025 incident led to improved security protocols.",
+        "tips": [
+          "Stay on main, well-lit streets like Bourbon Street and Frenchmen Street",
+          "Travel in groups when possible and avoid isolated side streets or alleys",
+          "Use rideshare services instead of walking long distances at night",
+          "Keep valuables secure and be aware of pickpockets in crowded areas",
+          "Don't accept drinks from strangers and keep an eye on your beverages"
+        ]
+      },
+      "transport": {
+        "metro": "New Orleans does not have a metro system. The city relies on buses, streetcars, and rideshare for public transportation.",
+        "rideshare": "Uber and Lyft operate throughout the city and are considered safe, reliable options. Particularly recommended for late-night travel. Always verify driver identity and vehicle details before getting in.",
+        "taxis": "Licensed taxis are available but can be expensive. Airport rates are around $36 to downtown. Generally safe but rideshare apps offer more convenience and transparency.",
+        "tips": "The historic streetcar system is charming and safe for daytime travel. RTA buses are reliable for getting around the city. For airport transfers, official shuttles cost $24 per person or use rideshare services."
+      },
+      "customs": [
+        "Embrace Southern hospitality - expect friendly greetings with 'ma'am' and 'sir' and engage in polite small talk",
+        "Learn po-boy etiquette - decide if you want it 'dressed' (with lettuce, tomato, mayo) and be ready for friendly food debates",
+        "Respect the 'laissez les bons temps rouler' culture - participate in local traditions and don't rush the relaxed pace of life"
+      ],
+      "health": {
+        "overview": "New Orleans has good healthcare facilities including several major hospitals. The subtropical climate can be challenging with high humidity and heat. Water quality is generally good but can be affected by flooding.",
+        "water": "Tap water is safe to drink under normal conditions. During flooding events, follow local advisories. The 2021 Water Quality Report showed compliance with safety standards.",
+        "vaccinations": "No special vaccinations required. Standard US healthcare recommendations apply. Consider flu shots during winter months.",
+        "altitude": "Sea level location with subtropical climate. Summers are very hot and humid (80-95°F), winters mild (50-70°F). Hurricane season runs June-November requiring weather monitoring."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) / 504-821-2222 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "N/A - Domestic US destination. For international visitors, contact your home country's consulate. Major consulates located in nearby Houston, Texas."
+      },
+      "faq": [
+        {
+          "q": "Is New Orleans safe for tourists?",
+          "a": "Yes, New Orleans is significantly safer than its reputation suggests. Violent crime has dropped 55% since 2022, reaching historic lows. Tourist areas like the French Quarter have enhanced security and regular police patrols, making them generally safe for visitors who take basic precautions."
+        },
+        {
+          "q": "Is New Orleans safe at night?",
+          "a": "New Orleans nightlife areas are generally safe with proper precautions. Bourbon Street and the French Quarter have heavy security presence, especially after enhanced measures implemented in 2025. Stay on well-lit main streets, travel in groups when possible, and use rideshare services instead of walking alone."
+        },
+        {
+          "q": "Is New Orleans safe for solo female travelers?",
+          "a": "Many solo female travelers visit New Orleans safely. Stay in tourist areas, use rideshare apps at night, join group tours, and keep alcohol consumption moderate. The French Quarter and Garden District are particularly safe during the day and evening hours."
+        },
+        {
+          "q": "What areas should I avoid in New Orleans?",
+          "a": "Avoid Central City, Desire District, and the Upper Ninth Ward, especially at night. These areas have higher crime rates and few tourist attractions. Even in safe areas, avoid empty side streets, alleys, and isolated areas after dark."
+        },
+        {
+          "q": "Is it safe to use public transport in New Orleans?",
+          "a": "Yes, public transport is generally safe. The historic streetcars are charming and safe for daytime travel. RTA buses are reliable city-wide. For late-night travel, Uber and Lyft are recommended as safer alternatives to walking or public transport."
+        }
+      ],
+      "relatedCities": [
+        "miami",
+        "atlanta",
+        "nashville"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg/1280px-New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg"
+    },
+    {
+      "slug": "washington-dc",
+      "name": "Washington DC",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 7.2,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 7.8,
+        "scamRisk": 6.5,
+        "womensSafety": 7.2,
+        "nightSafety": 6.5,
+        "transport": 7.5,
+        "naturalHazards": 8.6
+      },
+      "summary": "Washington DC has experienced dramatic improvements in safety throughout 2025, with violent crime dropping 28% year-over-year and homicides reaching historic lows. While property crime remains elevated and certain areas require caution, tourist zones like the National Mall and major museums are well-secured. The city combines federal-level security infrastructure with strong public transportation and improving neighborhood safety trends.",
+      "quickVerdict": "Washington DC is generally safe for tourists in 2026, particularly in major tourist areas which benefit from extensive federal security measures. The dramatic improvement in crime statistics throughout 2025 has created the strongest safety foundation the city has seen in years. While visitors should exercise standard urban caution regarding property crime and avoid certain neighborhoods at night, the overall safety trajectory is positive and tourist-focused areas remain highly secure.",
+      "neighborhoods": [
+        {
+          "name": "National Mall & Downtown",
+          "score": 9.0,
+          "class": "safe",
+          "description": "Heavily patrolled federal area with multiple layers of security. Home to major monuments, museums, and government buildings with constant police presence and surveillance."
+        },
+        {
+          "name": "Georgetown",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic upscale neighborhood with low crime rates, well-lit streets, and active foot traffic. Popular waterfront area with good restaurant and shopping safety."
+        },
+        {
+          "name": "Dupont Circle",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Vibrant area with embassies, galleries, and nightlife. Well-maintained with good lighting and regular police patrols. Safe for solo travelers day and night."
+        },
+        {
+          "name": "Capitol Hill",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Mixed safety profile with tourist areas around the Capitol being secure, but some blocks experiencing petty theft and burglaries. Enhanced security near government buildings."
+        },
+        {
+          "name": "Shaw & U Street Corridor",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Gentrifying area with vibrant nightlife but ongoing safety concerns. Some blocks still struggle with theft, car break-ins, and assaults, especially around nightlife areas."
+        },
+        {
+          "name": "Southeast DC (Anacostia)",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Higher crime rates including violent offenses. Limited tourist attractions and infrastructure. Visitors should exercise extreme caution and avoid after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Metro Change Scam",
+          "risk": "high",
+          "description": "Scammers approach tourists asking to exchange bills (like 2 tens for a twenty), then quickly switch out real bills for fake ones or short-change victims during the transaction.",
+          "howToAvoid": "Never exchange money with strangers. Use official currency exchange services or bank ATMs. If approached, politely decline and walk away immediately."
+        },
+        {
+          "name": "Fake Booking Websites",
+          "risk": "high",
+          "description": "Fraudulent travel websites that mimic legitimate hotel or tour booking sites, stealing credit card information and personal data while providing no actual services.",
+          "howToAvoid": "Book directly through official hotel websites or verified platforms. Check URLs carefully for spelling errors. Verify bookings by calling hotels directly."
+        },
+        {
+          "name": "Street Item Sales",
+          "risk": "medium",
+          "description": "Individuals approaching tourists with items like jewelry, electronics, or artwork, often claiming special deals or emergency situations requiring quick cash.",
+          "howToAvoid": "Never purchase items from street sellers approaching you. Legitimate vendors operate from established locations with proper permits. Just say no and keep walking."
+        },
+        {
+          "name": "Phone/Charity Solicitation",
+          "risk": "medium",
+          "description": "Scammers asking to use your phone for emergency calls or requesting donations for fake charities, potentially installing malware or gathering personal information.",
+          "howToAvoid": "Never let strangers use your phone. Direct people needing help to nearby businesses or police officers. Research charities before donating."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Washington DC is considered quite safe for solo female travelers, especially in tourist areas and well-populated neighborhoods. The significant crime reductions in 2025 have improved the overall environment for women traveling alone. Most female travelers report feeling comfortable during the day and in evening hours when staying in recommended neighborhoods with good lighting and foot traffic.",
+        "tips": [
+          "Stick to well-lit, populated areas especially after dark - Georgetown, Dupont Circle, and the National Mall area are ideal",
+          "Use Metro or rideshare services rather than walking alone at night, particularly when traveling between neighborhoods",
+          "Stay alert in crowded tourist areas where pickpocketing can occur, and keep valuables secured in anti-theft bags"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Night safety in Washington DC varies significantly by location. Tourist areas like the National Mall remain relatively safe with illuminated monuments attracting visitors, while some neighborhoods require extra caution after dark. The improvement in violent crime rates throughout 2025 has made evening hours generally safer, but property crime remains a concern.",
+        "tips": [
+          "Avoid isolated areas and stick to main streets with good lighting and regular foot traffic",
+          "Use rideshare or taxi services rather than walking alone, especially between different neighborhoods",
+          "Be aware that nightlife areas like Adams Morgan can get rowdy late at night, though they generally remain safe with proper precautions"
+        ]
+      },
+      "transport": {
+        "metro": "The Washington Metro system has significantly improved safety in 2025, with crime on rail dropping 34% and new fare gates preventing evasion. The system is generally safe day and night, with increased police presence and better enforcement. Sit in the first car near the operator during late-night hours for added security.",
+        "rideshare": "Uber and Lyft operate extensively throughout DC with good safety records. Drivers must pass background checks and vehicles are tracked in real-time. Rideshare is often safer than walking alone at night and more reliable than traditional taxis, though surge pricing can apply during peak times.",
+        "taxis": "Traditional DC taxis are regulated and generally safe, though less convenient than rideshare apps. Official DC Taxi app available for smartphone booking. Ensure the taxi is licensed and use the meter. Taxis are readily available in tourist areas and at hotels.",
+        "tips": "The Metro is your best bet for safe, affordable transport. For late-night travel, rideshare services offer door-to-door convenience with tracking. Always verify your rideshare driver and vehicle details before getting in."
+      },
+      "customs": [
+        "Tipping is expected in restaurants (15-20%), for taxi drivers, hotel staff, and tour guides - it's considered part of service workers' income",
+        "Personal space norms include maintaining arm's length during conversations and firm handshakes for greetings in business contexts",
+        "Punctuality is highly valued - arrive on time for meetings, tours, and social gatherings as a sign of respect"
+      ],
+      "health": {
+        "overview": "Washington DC has excellent healthcare infrastructure with multiple world-class hospitals including George Washington University Hospital, MedStar facilities, and Howard University Hospital. The city faces some health challenges including recent West Nile virus detections and higher STI rates, but medical care is readily accessible.",
+        "water": "Tap water is safe to drink throughout Washington DC. The city maintains high water quality standards and regular testing. Bottled water is widely available but unnecessary for health reasons.",
+        "vaccinations": "No special vaccinations required for DC visits. Standard travel health precautions apply. Be aware of seasonal health advisories like West Nile virus during warmer months.",
+        "altitude": "DC is at sea level with humid subtropical climate. Summers can be hot and humid, winters mild. Air conditioning is widely used. No altitude-related health concerns."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) / 202-727-9099 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "202-962-2121 (Metro Transit Police)",
+        "usEmbassy": "N/A - Washington DC is the capital, but US citizens can contact State Department at 1-888-407-4747 from US/Canada or 1-202-501-4444 from abroad"
+      },
+      "faq": [
+        {
+          "q": "Is Washington DC safe for tourists?",
+          "a": "Yes, Washington DC is generally safe for tourists, especially in major tourist areas like the National Mall, museums, and monuments which have extensive security. Crime has dropped significantly in 2025, with violent crime down 28% year-over-year."
+        },
+        {
+          "q": "Is Washington DC safe at night?",
+          "a": "Night safety varies by area. Tourist zones and well-lit neighborhoods like Georgetown and Dupont Circle are generally safe. Avoid isolated areas and consider using rideshare or Metro rather than walking alone between neighborhoods after dark."
+        },
+        {
+          "q": "Is Washington DC safe for solo female travelers?",
+          "a": "Yes, DC is quite safe for solo female travelers. Stick to tourist areas and well-populated neighborhoods, use common sense precautions, and utilize safe transportation options like Metro or rideshare services, especially at night."
+        },
+        {
+          "q": "What areas should I avoid in Washington DC?",
+          "a": "Avoid Southeast DC areas like Anacostia, especially at night. Some parts of Northeast DC also have higher crime rates. Tourist areas and Northwest neighborhoods like Georgetown are much safer."
+        },
+        {
+          "q": "Is it safe to use public transport in Washington DC?",
+          "a": "Yes, the Metro system is generally safe and has improved significantly in 2025 with crime down 34% on rail and 37% on buses. New fare gates and increased police presence have enhanced security throughout the system."
+        }
+      ],
+      "relatedCities": [
+        "new-york-city",
+        "philadelphia",
+        "baltimore",
+        "boston",
+        "chicago"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/12-07-13-washington-by-RalfR-08.jpg/1280px-12-07-13-washington-by-RalfR-08.jpg"
+    },
+    {
+      "slug": "boston",
+      "name": "Boston",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 7.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.8,
+        "scamRisk": 6.8,
+        "womensSafety": 7.5,
+        "nightSafety": 7.0,
+        "transport": 7.2,
+        "naturalHazards": 8.0
+      },
+      "summary": "Boston is one of America's safest major cities with historically low crime rates, excellent healthcare, and strong infrastructure. While homicides increased modestly in 2025 to 31 cases, this remains well below the five-year average and maintains Boston's position as significantly safer than most metropolitan areas of similar size.",
+      "quickVerdict": "Boston consistently ranks among America's safest large cities, with violent crime rates 35% lower than Philadelphia and property crime rates nearly half that of similar urban centers. The city's 2025 statistics show a total crime rate of just 26.19 per 1,000 residents, meaning only about 2.6% of the population faces potential crime exposure annually. Public transportation reported a 13% reduction in major crimes, and the city's world-class healthcare system includes five hospitals in Newsweek's global top rankings. Tourist areas like Back Bay, Beacon Hill, and Downtown are particularly safe, though visitors should remain alert for pickpockets and retail theft in busy shopping areas.",
+      "neighborhoods": [
+        {
+          "name": "Back Bay & Beacon Hill",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Historic upscale neighborhoods with excellent foot traffic, active community policing, and violent crime rates 25-35% below city average. Home to luxury shopping, fine dining, and well-maintained Victorian architecture."
+        },
+        {
+          "name": "Downtown & Financial District",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Business district with strong police presence, well-lit streets, and heavy daytime foot traffic. Crime rates below citywide average, though tourists should watch for pickpockets near Faneuil Hall and Quincy Market."
+        },
+        {
+          "name": "North End & Charlestown",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Historic waterfront neighborhoods with moderate property crime mainly involving bike theft and car break-ins. Well-lit streets and neighborhood watches keep violent crime well under city median."
+        },
+        {
+          "name": "South Boston (Southie)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Gentrified waterfront area with violent crime 32% below city average. Some bar-related incidents around Andrew Square and Broadway after dark, but generally safe with active police patrols."
+        },
+        {
+          "name": "East Boston",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Mixed safety profile with Logan Airport and growing immigrant communities. Seaport area is low-crime, while Maverick Square and Eagle Hill see higher incidents. Overall crime rate 45% below US average."
+        },
+        {
+          "name": "Dorchester & Roxbury",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Higher crime neighborhoods with violent crime rates well above city mean. Visitors should stick to main streets, avoid walking alone at night, and use rideshare services for transportation."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Pickpocketing & Distraction Scams",
+          "risk": "medium",
+          "description": "Coordinated teams operate in tourist areas, with one person spilling something on you while accomplices steal bags or pickpocket wallets. Common near Faneuil Hall, Boston Common, and retail districts.",
+          "howToAvoid": "Don't keep valuables in back pockets, secure bags with zippers, stay alert in crowds, and politely refuse help from strangers who approach you."
+        },
+        {
+          "name": "Fake Ticket & Transportation Scams",
+          "risk": "medium",
+          "description": "Fraudsters sell fake MBTA tickets or overpriced legitimate tickets outside stations. Some unlicensed drivers approach tourists at airport offering rides at inflated prices.",
+          "howToAvoid": "Only buy transit tickets from official machines or authorized vendors. Use official taxi stands or ride-hailing apps, never accept rides from strangers in terminals."
+        },
+        {
+          "name": "Rental & Housing Fraud",
+          "risk": "high",
+          "description": "Fake vacation rental listings using real property photos, demanding wire transfers for deposits. Particularly targets visitors seeking short-term accommodations near universities or downtown.",
+          "howToAvoid": "Book through established platforms with secure payment methods. Never wire money for deposits. Verify landlord rental permits and meet in person when possible."
+        },
+        {
+          "name": "Charity & Street Gift Scams",
+          "risk": "low",
+          "description": "Individuals offer free bracelets, flowers, or petition signatures, then aggressively demand payment. May become confrontational or use accomplices to pressure victims.",
+          "howToAvoid": "Politely but firmly decline all unsolicited offers. Keep walking and avoid engaging in conversation. Don't accept anything marked as free from strangers on the street."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Boston ranks among the top American cities for solo female travel safety, with a 4.3 out of 5 safety rating. The city's compact, walkable layout, strong police presence, and university atmosphere create a generally welcoming environment. Most neighborhoods are well-lit with good foot traffic, and public transportation is considered safe and reliable.",
+        "tips": [
+          "Stay in well-populated areas like Back Bay, Beacon Hill, or Cambridge near universities",
+          "Use the MBTA during daylight hours when possible; if traveling at night, sit near other passengers",
+          "Keep emergency contacts and local numbers easily accessible on your phone",
+          "Trust your instincts - if an area feels uncomfortable, leave immediately and find well-lit public spaces",
+          "Consider staying in neighborhoods with 24/7 activity like downtown or near medical centers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Boston is generally safe at night in tourist and residential areas, with active nightlife districts well-patrolled and monitored. The city's Office of Nightlife Economy distributes safety resources including 100,000 drink spiking prevention covers to bars and clubs. However, some neighborhoods like Dorchester, Roxbury, and Mattapan require extra caution after dark.",
+        "tips": [
+          "Stick to well-lit main streets in popular areas like Back Bay, Downtown, and the North End",
+          "Use rideshare services or taxis for late-night transportation rather than walking alone",
+          "Avoid Boston Common and Public Garden late at night unless attending organized events",
+          "Stay alert around bars in South Boston, particularly near Andrew Square and Broadway",
+          "Download safety apps and keep emergency numbers programmed in your phone"
+        ]
+      },
+      "transport": {
+        "metro": "The MBTA (The T) reported a 13% reduction in major crimes in 2025, with 712 incidents down from 823 in 2024. The system is generally safe with Transit Police patrols, though some stations like Massachusetts Avenue on the Orange Line can feel uncomfortable. Ridership is recovering post-pandemic with nearly 944,000 average weekday riders.",
+        "rideshare": "Uber and Lyft are widely available and considered safe options throughout Boston. Particularly recommended for late-night travel and trips to unfamiliar neighborhoods. Surge pricing common during peak times and events.",
+        "taxis": "Licensed taxis are available at official stands and can be hailed on streets. All legitimate taxis have functioning meters and proper identification. Avoid unlicensed drivers who approach you in terminals or tourist areas.",
+        "tips": "Public transport is safest during daylight hours with more passengers around. For night travel, use rideshare services to avoid waiting alone at stops. The T has its own police department and emergency call boxes at stations."
+      },
+      "customs": [
+        "Americans are generally direct and informal in communication style",
+        "Tipping 18-20% is expected at restaurants and bars",
+        "Boston has strong sports culture - avoid wearing rival team jerseys, especially Yankees gear",
+        "Walking pace is typically fast and purposeful in business areas",
+        "Public transportation etiquette includes giving priority seating to elderly and disabled passengers"
+      ],
+      "health": {
+        "overview": "Boston boasts world-class healthcare with Massachusetts General Hospital ranking 5th globally and multiple hospitals in international top rankings. The city hosts over 14 hospitals recognized by Newsweek's Best Hospitals list, including specialized facilities for virtually every medical need.",
+        "water": "Tap water is safe to drink throughout Boston and meets all federal safety standards. The city's water supply comes from protected reservoirs west of the city.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel insurance recommended due to high US healthcare costs.",
+        "altitude": "Boston is at sea level with no altitude concerns. Weather can be extreme in winter with heavy snow and in summer with heat waves reaching 100°F. Dress appropriately for season."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "(617) 343-4911",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US citizens can contact the State Department's 24/7 assistance line at 1-888-407-4747 (from US/Canada) or +1-202-501-4444 (international). Boston Police non-emergency: (617) 343-4200. Mayor's 24-hour hotline: (617) 635-4500."
+      },
+      "faq": [
+        {
+          "q": "Is Boston safe for tourists?",
+          "a": "Yes, Boston is one of America's safest major cities with crime rates well below national averages. Tourist areas like Back Bay, Downtown, and Beacon Hill are particularly safe with strong police presence and good lighting."
+        },
+        {
+          "q": "Is Boston safe at night?",
+          "a": "Generally yes in main tourist and residential areas. Stick to well-lit streets in popular neighborhoods, use rideshare for late-night transport, and avoid isolated areas like empty parts of Boston Common after dark."
+        },
+        {
+          "q": "Is Boston safe for solo female travelers?",
+          "a": "Boston ranks highly for solo female travel safety with a 4.3/5 rating. The compact, walkable city with university atmosphere is welcoming to solo travelers. Stay in popular neighborhoods and trust your instincts."
+        },
+        {
+          "q": "What areas should I avoid in Boston?",
+          "a": "Exercise caution in Dorchester, Roxbury, and Mattapan, especially at night. These neighborhoods have higher crime rates, though most tourist activities don't require visiting these areas. Stick to main tourist districts."
+        },
+        {
+          "q": "Is it safe to use public transport in Boston?",
+          "a": "Yes, the MBTA is generally safe with its own police force and security measures. Crime decreased 13% in 2025. Use common sense, stay alert, and consider rideshare for late-night travel when trains are less crowded."
+        }
+      ],
+      "relatedCities": [
+        "new-york",
+        "philadelphia",
+        "washington-dc"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ISH_WC_Boston4.jpg/1280px-ISH_WC_Boston4.jpg"
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.5,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.0,
+        "violentCrime": 6.8,
+        "scamRisk": 5.5,
+        "womensSafety": 6.5,
+        "nightSafety": 6.0,
+        "transport": 7.5,
+        "naturalHazards": 7.2
+      },
+      "summary": "Nashville is a relatively safe destination for tourists, with improving crime rates in 2025 and strong police presence in tourist areas. While violent crime has decreased nearly 14% year-over-year and property crime by 12%, visitors should remain aware of pickpockets and scams in crowded entertainment districts like Broadway.",
+      "quickVerdict": "Nashville offers a reasonably safe experience for tourists, particularly in the main entertainment districts of Downtown, Broadway, The Gulch, and Midtown. Recent 2025 crime data shows significant improvements with violent offenses down 14% and property crime down 12% from 2024. Tourist areas benefit from heavy foot traffic, visible police presence, and active security at venues. The biggest risks for visitors are petty crimes like pickpocketing on Broadway, vehicle break-ins, and tourist-targeted scams. Most safety concerns are concentrated in specific neighborhoods away from tourist zones.",
+      "neighborhoods": [
+        {
+          "name": "Downtown/Broadway",
+          "score": 7.0,
+          "class": "safe",
+          "description": "The main entertainment district with heavy police presence, active security, and constant foot traffic. Safe for nightlife but watch for pickpockets and drunk crowds."
+        },
+        {
+          "name": "The Gulch",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale urban neighborhood with high-end hotels and restaurants. Well-lit streets, good security, and generally considered one of the safest areas in Nashville."
+        },
+        {
+          "name": "Music Row/Midtown",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic music industry district that's relatively calm during the day. Mixed safety signals at night but generally safe for tourists visiting studios and attractions."
+        },
+        {
+          "name": "East Nashville",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Gentrified area with pockets of safety like Lockeland Springs and East End, but crime rates vary significantly by specific location and time of day."
+        },
+        {
+          "name": "North Nashville",
+          "score": 4.0,
+          "class": "danger",
+          "description": "Higher violent crime rates than city average. Areas like Osage, North Fisk, and Vista Heights are not recommended for tourists, especially at night."
+        },
+        {
+          "name": "South Nashville/Antioch",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Some areas near Bell Road and Napier carry elevated crime rates. Visitors should avoid walking alone after dark and stick to main roads."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Concert Tickets",
+          "risk": "high",
+          "description": "Scammers sell counterfeit tickets to popular venues near Broadway and music attractions, especially around major concerts and events.",
+          "howToAvoid": "Only buy tickets from official venues, verified websites, or authorized resellers. Avoid street vendors and unusually cheap offers."
+        },
+        {
+          "name": "Overpriced Street Vendors",
+          "risk": "moderate",
+          "description": "Street vendors near tourist attractions may charge inflated prices for merchandise or sell counterfeit goods, particularly around Country Music Hall of Fame.",
+          "howToAvoid": "Compare prices at multiple vendors, inspect items carefully, and shop at established stores for authentic merchandise."
+        },
+        {
+          "name": "Broadway Bar Scams",
+          "risk": "moderate",
+          "description": "Some venues may overcharge tourists, add unexpected fees, or target intoxicated visitors with inflated bills or drink spiking attempts.",
+          "howToAvoid": "Keep track of your drinks, never leave beverages unattended, check bills carefully, and drink responsibly in groups."
+        },
+        {
+          "name": "Taxi/Transportation Overcharging",
+          "risk": "moderate",
+          "description": "Unlicensed drivers may deliberately overcharge tourists by taking longer routes or claiming broken meters, especially near the airport.",
+          "howToAvoid": "Use licensed taxis with visible permits and working meters, or stick to rideshare apps like Uber and Lyft for transparent pricing."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Nashville is generally safe for solo female travelers, especially in tourist areas during the day. The city is known for Southern hospitality and friendly locals. However, women should exercise extra caution in nightlife districts, particularly on Broadway where drink spiking has been reported. Most solo female travelers report positive experiences when using common sense precautions.",
+        "tips": [
+          "Stay in groups when possible in nightlife areas and never leave drinks unattended",
+          "Book accommodations in safer neighborhoods like The Gulch, Midtown, or downtown near tourist areas",
+          "Use rideshare services rather than walking alone at night, especially outside the main entertainment district",
+          "Trust your instincts - if a situation feels uncomfortable, leave immediately",
+          "Keep emergency contacts handy and let someone know your plans when going out"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Nashville at night is relatively safe in the main tourist areas of Broadway and downtown, which maintain heavy foot traffic, police presence, and venue security until the early morning hours. The entertainment district operates with visible law enforcement and private security through 3 AM. However, safety decreases significantly outside these core areas, particularly in North and South Nashville neighborhoods.",
+        "tips": [
+          "Stay within the well-lit Broadway corridor and main downtown streets after dark",
+          "Use rideshare services for travel between venues rather than walking unfamiliar routes",
+          "Keep valuables in front pockets or inside bags to avoid pickpockets in crowded areas",
+          "Travel in groups when possible and avoid isolated streets even in downtown",
+          "Be aware that weekend nights bring larger crowds and more intoxicated individuals"
+        ]
+      },
+      "transport": {
+        "metro": "Nashville's WeGo Public Transit system operates 26 bus routes with new buses added in 2026. Service has expanded with more frequent trips and better Sunday coverage. All buses have free Wi-Fi and are generally safe, though service can be limited compared to other major cities. Route 18 connects downtown to the airport.",
+        "rideshare": "Uber and Lyft are widely available and considered very safe options. Airport pickups are from Garage 2 only. Rideshare services are recommended over walking for late-night travel and provide transparent pricing compared to traditional taxis.",
+        "taxis": "Licensed taxis are available but passengers should verify proper permits, working meters, and rate cards are displayed. Flat rate of $25-35 to downtown from airport. Beware of unlicensed fake taxis that may overcharge tourists.",
+        "tips": "Public transportation is safe but limited. Rideshare apps are the most reliable option for tourists. Always verify official taxi credentials and avoid unlicensed drivers who approach at the airport."
+      },
+      "customs": [
+        "Southern hospitality is deeply ingrained - expect warm greetings, friendly conversation, and people addressing you as 'sir' or 'ma'am'",
+        "Tipping is expected at restaurants (15-20%), bars, and for services like taxis and hotel staff",
+        "Music is central to Nashville culture - don't be surprised by spontaneous conversations about music, and it's customary to tip street musicians and venue performers"
+      ],
+      "health": {
+        "overview": "Nashville has excellent healthcare facilities including Vanderbilt University Medical Center and several major hospital systems. The city is a healthcare hub with world-class medical facilities. No special health precautions are needed beyond standard travel preparation.",
+        "water": "Tap water in Nashville is completely safe to drink and meets strict U.S. quality standards. The water is sourced from the Cumberland River and regularly monitored.",
+        "vaccinations": "No special vaccinations required. Standard travel vaccinations (flu, COVID-19) recommended as for any domestic U.S. travel.",
+        "altitude": "Nashville sits at low elevation (around 550 feet) so altitude is not a concern. The climate is humid subtropical with hot summers and mild winters."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "615-862-8600 (non-emergency)",
+        "ambulance": "911",
+        "fire": "615-862-5421",
+        "touristPolice": "N/A",
+        "usEmbassy": "Not applicable - domestic U.S. destination. For international visitors: contact your country's consulate in nearby Atlanta or Washington D.C."
+      },
+      "faq": [
+        {
+          "q": "Is Nashville safe for tourists?",
+          "a": "Yes, Nashville is generally safe for tourists, especially in main areas like Downtown, Broadway, and The Gulch. Recent crime data shows improvements with violent crime down 14% in 2025. Tourist areas have strong police presence and security."
+        },
+        {
+          "q": "Is Nashville safe at night?",
+          "a": "Nashville's main entertainment district is safe at night with heavy foot traffic and police presence until 3 AM. However, avoid walking alone in areas outside the Broadway corridor and use rideshare services for transportation between venues."
+        },
+        {
+          "q": "Is Nashville safe for solo female travelers?",
+          "a": "Nashville is reasonably safe for solo female travelers who take standard precautions. The main risks are drink spiking on Broadway and harassment in nightlife areas. Stay in groups when possible, don't leave drinks unattended, and use rideshare services at night."
+        },
+        {
+          "q": "What areas should I avoid in Nashville?",
+          "a": "Avoid North Nashville neighborhoods like Osage, North Fisk, and Vista Heights, especially at night. Parts of South Nashville near Bell Road also have elevated crime rates. Stick to tourist areas and main roads in unfamiliar neighborhoods."
+        },
+        {
+          "q": "Is it safe to use public transport in Nashville?",
+          "a": "Yes, Nashville's WeGo bus system is safe and has been expanded with new buses in 2026. However, rideshare services like Uber and Lyft are more convenient for tourists and recommended for late-night travel or trips to areas outside downtown."
+        }
+      ],
+      "relatedCities": [
+        "atlanta",
+        "memphis",
+        "new-orleans",
+        "charleston",
+        "miami"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/1280px-Nashville%2C_TN_skyline.jpg"
+    },
+    {
+      "slug": "austin",
+      "name": "Austin",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 7.8,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.5,
+        "scamRisk": 7.0,
+        "womensSafety": 8.5,
+        "nightSafety": 7.2,
+        "transport": 8.5,
+        "naturalHazards": 9.3
+      },
+      "summary": "Austin is a welcoming and generally safe destination for tourists, known for its friendly atmosphere and vibrant culture. While property crime exists in certain areas, violent crime rates are below the national average and extensive safety measures are in place downtown.",
+      "quickVerdict": "Austin ranks among the top U.S. cities for solo female travelers and offers a safe environment for most visitors. The city has robust public safety infrastructure, well-lit entertainment districts, and extensive rideshare coverage. Downtown areas and tourist zones are well-patrolled and generally safe, though visitors should exercise normal urban precautions, especially regarding property crime prevention.",
+      "neighborhoods": [
+        {
+          "name": "Downtown / West 6th Street",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Well-patrolled entertainment district with strong police presence, good lighting, and heavy foot traffic. Popular for dining and upscale nightlife with enhanced safety measures."
+        },
+        {
+          "name": "South Congress / SoCo",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Tourist-friendly area with shops, restaurants, and hotels. Well-maintained with good visibility and regular foot traffic during day and evening hours."
+        },
+        {
+          "name": "Mueller / East Austin",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Gentrified neighborhood with modern amenities, parks, and good infrastructure. Popular with young professionals and generally considered safe for walking."
+        },
+        {
+          "name": "University of Texas Area",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Campus area with university security, student housing, and regular police patrols. Busy during academic year with good lighting and emergency call boxes."
+        },
+        {
+          "name": "East 6th Street / Dirty 6th",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Party district with bars and clubs. Heavy police presence but can get rowdy late at night. Petty crime and public intoxication issues are more common here."
+        },
+        {
+          "name": "East Riverside / Pleasant Valley",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Mixed area with some higher crime rates, particularly property crime. Avoid poorly lit areas at night and stay aware of surroundings when visiting."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Booking Websites",
+          "risk": "high",
+          "description": "AI-generated travel booking sites that appear legitimate but steal payment information or create non-existent reservations.",
+          "howToAvoid": "Book directly through official airline and hotel websites, verify website URLs carefully, and never trust deals that seem too good to be true."
+        },
+        {
+          "name": "Rideshare Imposters",
+          "risk": "medium",
+          "description": "Fake drivers offering rides at airport or popular venues, claiming to be Uber or Lyft drivers without using the app.",
+          "howToAvoid": "Always use official rideshare apps, verify license plates and driver names, never accept unsolicited ride offers from strangers."
+        },
+        {
+          "name": "Concert/Event Ticket Scams",
+          "risk": "medium",
+          "description": "Fraudulent ticket sales for popular Austin events like SXSW or Austin City Limits, especially on social media or unofficial platforms.",
+          "howToAvoid": "Purchase tickets only from official venues or verified resellers like StubHub, avoid cash transactions, and be wary of last-minute social media offers."
+        },
+        {
+          "name": "Overcharged Tourist Services",
+          "risk": "low",
+          "description": "Some restaurants or services near tourist areas may add unexpected fees or inflate prices for visitors unfamiliar with local rates.",
+          "howToAvoid": "Check menus and prices clearly before ordering, ask about service charges upfront, and research typical local pricing for activities."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Austin is consistently rated as one of the best U.S. cities for solo female travelers. The city has friendly locals, well-lit streets, excellent rideshare coverage, and a welcoming culture. Solo women report feeling comfortable walking downtown during the day and early evening, with numerous solo-friendly activities like food tours, live music venues, and outdoor spaces.",
+        "tips": [
+          "Stay in well-reviewed accommodations in Downtown, South Congress, or East Austin areas",
+          "Use rideshare apps rather than walking alone late at night, especially after 10 PM",
+          "Join group activities like food tours or live music events to meet people safely",
+          "Keep your phone charged and share your location with trusted contacts when out",
+          "Trust your instincts and leave situations that feel uncomfortable immediately"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Austin's nightlife areas are generally well-patrolled and safe, particularly West 6th Street and downtown entertainment districts. The city has enhanced safety measures including increased police presence, better lighting, and emergency response systems. However, East 6th Street can get rowdy with heavy drinking crowds, and solo travelers should exercise more caution after midnight.",
+        "tips": [
+          "Stick to well-lit, populated areas like West 6th or downtown when out at night",
+          "Use rideshare services rather than walking long distances after dark",
+          "Keep an eye on your drinks and don't accept drinks from strangers",
+          "Stay with your group and designate a meeting point in case you get separated",
+          "Be extra cautious on East 6th Street late at night due to rowdy crowds"
+        ]
+      },
+      "transport": {
+        "metro": "CapMetro bus system and MetroRail provide good coverage with $1.25 fares. The system is generally safe and reliable, with new electric buses and enhanced security measures including transit police officers introduced in 2025.",
+        "rideshare": "Uber and Lyft are widely available and considered very safe options. The city has designated rideshare pickup zones and both services operate 24/7 with good coverage throughout Austin and surrounding areas.",
+        "taxis": "Traditional taxis are available but less common than rideshare. Licensed taxi companies operate from the airport and major hotels. Rates are regulated and vehicles are generally well-maintained and safe.",
+        "tips": "Public transport and rideshare are both safe and reliable. Use CapMetro for budget-friendly travel during the day, and rideshare for convenience and late-night transportation."
+      },
+      "customs": [
+        "Tipping is expected in restaurants (18-20%), bars, and for services like rideshares and hotel staff",
+        "Personal space is valued - maintain arm's length distance in conversations and avoid standing too close",
+        "Casual, friendly conversation is common - Austinites are known for being approachable and talkative",
+        "Punctuality is respected for scheduled meetings or reservations",
+        "Direct but polite communication is preferred over indirect approaches"
+      ],
+      "health": {
+        "overview": "Austin has excellent healthcare facilities including nationally-ranked hospitals like St. David's Medical Center and Dell Seton Medical Center. The city's healthcare infrastructure is robust with multiple world-class medical facilities and emergency services.",
+        "water": "Tap water is safe to drink throughout Austin and meets all federal safety standards. The city regularly tests and treats its water supply.",
+        "vaccinations": "No special vaccinations required for Austin. Standard U.S. travel vaccinations are sufficient. COVID-19 vaccination recommendations follow current CDC guidelines.",
+        "altitude": "Austin sits at low elevation (approximately 500 feet) so altitude is not a concern. The climate is humid subtropical with hot summers - stay hydrated and use sun protection during peak heat."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or (512) 974-5000 for non-emergency",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "Not applicable - Austin is in the United States. For international visitors, contact your country's consulate in Houston (2 hours away) or embassy in Washington, D.C."
+      },
+      "faq": [
+        {
+          "q": "Is Austin safe for tourists?",
+          "a": "Yes, Austin is generally very safe for tourists. It ranks as one of the safest major cities in Texas with good infrastructure, friendly locals, and strong public safety measures in tourist areas."
+        },
+        {
+          "q": "Is Austin safe at night?",
+          "a": "Downtown and West 6th Street are well-patrolled and generally safe at night. East 6th Street requires more caution due to heavy drinking crowds. Use rideshare services for late-night transportation."
+        },
+        {
+          "q": "Is Austin safe for solo female travelers?",
+          "a": "Austin is consistently rated as one of the best U.S. cities for solo female travelers. The city has a welcoming culture, good safety infrastructure, and numerous solo-friendly activities and accommodations."
+        },
+        {
+          "q": "What areas should I avoid in Austin?",
+          "a": "Exercise caution in parts of East Riverside and Pleasant Valley, especially at night. While not dangerous, some areas have higher property crime rates. Stay in well-lit, populated areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Austin?",
+          "a": "Yes, CapMetro buses and rail are generally safe and reliable. The system has transit police and security measures. Rideshare services like Uber and Lyft are also widely available and safe."
+        }
+      ],
+      "relatedCities": [
+        "houston",
+        "dallas",
+        "san-antonio",
+        "fort-worth",
+        "new-orleans"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Austin_Downtown_2024.jpg/1280px-Austin_Downtown_2024.jpg"
+    },
+    {
+      "slug": "seattle",
+      "name": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.3,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.8,
+        "scamRisk": 6.0,
+        "womensSafety": 6.5,
+        "nightSafety": 5.8,
+        "transport": 7.5,
+        "naturalHazards": 6.0
+      },
+      "summary": "Seattle is a generally safe city for tourists with excellent public transit and well-patrolled tourist areas, though property crime rates are higher than the national average. Crime has been decreasing in 2026 with significant drops in violent crime and homicides compared to previous years.",
+      "quickVerdict": "Seattle is moderately safe for tourists with proper precautions. While the city has higher property crime rates than average and visible homelessness issues in some areas, tourist zones like Pike Place Market, Seattle Center, and the Space Needle are well-maintained and regularly patrolled. The city has invested heavily in public safety in 2026, with crime declining 18% overall. Most visitors report feeling secure during the day and in busy areas at night, though caution is advised on certain downtown streets after dark.",
+      "neighborhoods": [
+        {
+          "name": "Pike Place Market/Waterfront",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Well-lit tourist area with heavy foot traffic, regular security presence, and proximity to police patrols. Generally very safe day and night with lots of people around."
+        },
+        {
+          "name": "Capitol Hill",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Vibrant neighborhood with active nightlife scene. Well-lit streets with good foot traffic, though some property crime occurs. Safe for walking during evening hours on main corridors."
+        },
+        {
+          "name": "Fremont",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Quiet residential area north of downtown with low crime rates, family-friendly atmosphere, and strong community presence. Very walkable with local businesses."
+        },
+        {
+          "name": "Belltown",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Dense urban area with active nightlife but higher property crime rates including car break-ins and theft. Exercise caution after dark and avoid isolated areas."
+        },
+        {
+          "name": "Pioneer Square",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Historic district that can be problematic at night with higher crime rates and homeless encampments. Avoid after dark and stick to well-lit main areas during the day."
+        },
+        {
+          "name": "International District",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Culturally rich area that has some safety concerns, particularly around transit stations in the evening. Be cautious walking alone at night and stay aware of surroundings."
+        }
+      ],
+      "scams": [
+        {
+          "name": "CD/Mixtape Handout",
+          "risk": "low",
+          "description": "Someone approaches offering a free CD or mixtape, then demands payment once you accept it.",
+          "howToAvoid": "Simply walk away without engaging or accepting anything. Don't feel obligated to pay for unsolicited items."
+        },
+        {
+          "name": "Fake Monk Donation",
+          "risk": "low",
+          "description": "Person dressed as a monk offers religious items like bracelets or pamphlets, then expects a donation.",
+          "howToAvoid": "Politely decline any items offered by strangers claiming religious affiliation. Legitimate monks don't solicit tourists."
+        },
+        {
+          "name": "Travel Booking Scams",
+          "risk": "high",
+          "description": "AI-enhanced fake travel websites that clone legitimate booking sites with realistic photos and branding to steal payment information.",
+          "howToAvoid": "Always verify website URLs carefully, book directly through official sites or verified travel agents, and check reviews before making payments."
+        },
+        {
+          "name": "Vacation Prize Phone Scams",
+          "risk": "medium",
+          "description": "Calls claiming you've won a free vacation but requiring upfront fees or credit card information to claim the prize.",
+          "howToAvoid": "Hang up immediately on unsolicited prize calls. Legitimate contests don't require payment to claim winnings."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Seattle is relatively safe for solo female travelers with good infrastructure, progressive attitudes, and acceptance of women traveling alone. Most areas feel secure during the day, though some downtown areas require extra caution at night. Public transit is generally reliable and safe when using standard precautions.",
+        "tips": [
+          "Stay in well-lit areas after dark and avoid isolated streets",
+          "Use rideshare apps or taxis rather than walking alone late at night in unfamiliar areas",
+          "Sit near the driver on buses and avoid empty train cars during late hours"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Seattle's night safety varies significantly by neighborhood and time. Tourist areas like Pike Place and the waterfront remain active and relatively safe, while some downtown corridors become more problematic after business hours. The city has good lighting in most central areas and active nightlife keeps many streets populated.",
+        "tips": [
+          "Avoid 3rd Avenue downtown between Pike and Pine after dark",
+          "Stick to busy, well-lit streets when walking at night",
+          "Use official rideshare apps rather than accepting rides from strangers"
+        ]
+      },
+      "transport": {
+        "metro": "King County Metro bus system is extensive and generally safe, with security cameras and emergency buttons. Buses run frequently during day hours with reduced service at night.",
+        "rideshare": "Uber and Lyft are widely available and popular, especially for late-night travel. Apps provide safety features including driver verification and trip tracking.",
+        "taxis": "Licensed taxi services like Yellow Cab are regulated and safe. Airport taxis are more expensive than light rail but provide door-to-door service.",
+        "tips": "Link Light Rail is excellent for airport transfers and major destinations, costing just $3.25 compared to $50+ for rideshares from the airport."
+      },
+      "customs": [
+        "Tipping 18-20% at restaurants is standard and expected by service staff",
+        "Seattle has a casual dress code - jeans and comfortable layers are appropriate for most occasions",
+        "Public transit etiquette includes offering priority seats to elderly and disabled passengers"
+      ],
+      "health": {
+        "overview": "Seattle has excellent healthcare facilities including major hospitals like University of Washington Medical Center and Swedish Medical Center. The city meets high US health standards with good emergency services.",
+        "water": "Tap water is safe to drink and meets EPA standards, sourced from protected watershed areas in the Cascade Mountains.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare recommendations apply.",
+        "altitude": "Sea level location with temperate oceanic climate. Frequent light rain requires waterproof clothing, and summer wildfire smoke can affect air quality."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "(206) 625-5011",
+        "ambulance": "911",
+        "fire": "(206) 386-1400",
+        "touristPolice": "N/A",
+        "usEmbassy": "Seattle is a US city - for foreign nationals, contact your country's consulate. Major consulates are located downtown."
+      },
+      "faq": [
+        {
+          "q": "Is Seattle safe for tourists?",
+          "a": "Yes, Seattle is generally safe for tourists who take normal precautions. Tourist areas are well-patrolled and most visitors report feeling secure, especially during daylight hours."
+        },
+        {
+          "q": "Is Seattle safe at night?",
+          "a": "Night safety in Seattle depends on the area. Well-lit tourist zones and busy neighborhoods like Capitol Hill are relatively safe, but avoid certain downtown streets like 3rd Avenue after dark."
+        },
+        {
+          "q": "Is Seattle safe for solo female travelers?",
+          "a": "Seattle is relatively safe for solo female travelers with good public transit and progressive attitudes. Use standard precautions like staying in well-lit areas and using rideshares late at night."
+        },
+        {
+          "q": "What areas should I avoid in Seattle?",
+          "a": "Exercise caution in Pioneer Square after dark, parts of the International District late at night, and 3rd Avenue downtown between Pike and Pine. These areas have higher crime rates."
+        },
+        {
+          "q": "Is it safe to use public transport in Seattle?",
+          "a": "Yes, Seattle's public transit is generally safe and reliable. The Link Light Rail and Metro buses have security measures, though be cautious at certain stations late at night."
+        }
+      ],
+      "relatedCities": [
+        "vancouver",
+        "portland",
+        "san-francisco",
+        "denver",
+        "chicago"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Seattle_Center_as_night_falls.jpg/1280px-Seattle_Center_as_night_falls.jpg"
+    },
+    {
+      "slug": "portland",
+      "name": "Portland",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-17",
+      "overallScore": 6.9,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 7.2,
+        "scamRisk": 7.0,
+        "womensSafety": 6.8,
+        "nightSafety": 6.5,
+        "transport": 7.5,
+        "naturalHazards": 7.5
+      },
+      "summary": "Portland is experiencing mixed safety conditions in 2026, with property crime remaining elevated but violent crime showing significant improvement after recent declines. The city offers excellent public transportation and infrastructure but requires standard urban precautions, especially regarding vehicle and bicycle security.",
+      "quickVerdict": "Portland presents a complex safety picture for tourists in 2026. While violent crime has dramatically decreased from pandemic-era peaks, with homicides dropping 51% in 2025, property crime remains a concern with frequent vehicle break-ins and bike theft. The city's excellent MAX light rail system and walkable neighborhoods make it accessible, but visitors should secure belongings and avoid leaving items visible in cars. Downtown can be unpredictable after dark, though most tourist areas remain generally safe with proper awareness.",
+      "neighborhoods": [
+        {
+          "name": "Pearl District",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale neighborhood with good lighting, regular security patrols, and well-maintained streets. Popular with tourists and locals, offering excellent walkability and proximity to restaurants and shopping."
+        },
+        {
+          "name": "Hawthorne District",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Trendy area with active street life, numerous cafes and shops. Well-populated during day and evening hours with good pedestrian traffic providing natural surveillance."
+        },
+        {
+          "name": "Alberta Arts District",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Vibrant cultural area that has gentrified significantly. Generally safe during daytime and early evening, with good foot traffic around restaurants and galleries."
+        },
+        {
+          "name": "Downtown Portland",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Mixed safety conditions with higher concentration of property crimes and occasional aggressive panhandling. Well-patrolled during business hours but requires extra caution after dark."
+        },
+        {
+          "name": "Old Town Chinatown",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Nightlife district with active bar scene but higher crime rates. Can become unpredictable late at night, though generally safe for evening dining and entertainment with awareness."
+        },
+        {
+          "name": "Powellhurst-Gilbert",
+          "score": 4.5,
+          "class": "danger",
+          "description": "Outer southeast area with higher property crime rates and occasional violent incidents. Less tourist infrastructure and limited evening lighting make navigation challenging after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Parking Enforcement",
+          "risk": "medium",
+          "description": "Individuals claiming to be parking officers demanding immediate cash payment for supposed violations.",
+          "howToAvoid": "Real parking enforcement only accepts payments through official city systems, never cash on the spot. Ask for official identification and verify through Portland city services."
+        },
+        {
+          "name": "Vehicle Break-in Targeting",
+          "risk": "high",
+          "description": "Thieves systematically target vehicles with visible electronics, bags, or tourist items, especially near popular attractions and hotels.",
+          "howToAvoid": "Never leave items visible in your car, even for short periods. Use hotel parking or secure lots when possible, and remove all belongings before parking."
+        },
+        {
+          "name": "Bicycle Theft Operations",
+          "risk": "high",
+          "description": "Organized groups using power tools to quickly cut locks, particularly targeting expensive bikes near transit stations and popular areas.",
+          "howToAvoid": "Use high-quality U-locks plus cable locks together, secure both frame and wheels, and park in well-lit areas with good visibility."
+        },
+        {
+          "name": "Distraction Pickpocketing",
+          "risk": "medium",
+          "description": "Groups working together to create distractions while accomplices pickpocket wallets or phones, especially on crowded MAX trains and at tourist sites.",
+          "howToAvoid": "Keep valuables in front pockets or secure bags, stay aware during crowded boarding, and be cautious of overly friendly strangers creating diversions."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Portland is generally welcoming for solo female travelers with a progressive atmosphere, though standard urban precautions apply. Women report occasional harassment in nightlife areas and on late-night public transportation. The city's walkable neighborhoods and active street life provide good natural surveillance during daytime hours.",
+        "tips": [
+          "Stick to well-lit, populated areas when walking alone after dark",
+          "Use rideshare or taxi services for late-night transportation rather than walking",
+          "Stay aware on public transit, especially during off-peak hours and sit near the operator when possible",
+          "Trust your instincts and avoid isolated areas in parks or industrial zones",
+          "Consider staying in neighborhoods like Pearl District or Hawthorne for better walkability and safety"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Portland's nightlife safety varies significantly by neighborhood and time. Downtown and entertainment districts have regular security presence but can become unpredictable after midnight. Well-traveled areas near restaurants and bars maintain reasonable safety, while residential streets may lack adequate lighting.",
+        "tips": [
+          "Travel in groups when possible and stick to main streets with good lighting",
+          "Use official rideshare apps or licensed taxis rather than walking long distances at night",
+          "Avoid displaying expensive electronics or large amounts of cash in entertainment districts",
+          "Stay alert to your surroundings and trust your instincts if situations feel uncomfortable",
+          "Plan your route home in advance and inform others of your expected return time"
+        ]
+      },
+      "transport": {
+        "metro": "Portland's MAX Light Rail system is generally safe and efficient, operating from 4 AM to midnight with trains every 15 minutes. Security cameras are present on all vehicles, and transit police patrol regularly. Watch for pickpockets during rush hours and boarding.",
+        "rideshare": "Uber and Lyft operate extensively throughout Portland with good availability and safety features. Both companies require background checks for drivers and offer in-app tracking. Portland Bureau of Transportation regulates these services with additional safety standards.",
+        "taxis": "Licensed taxis are regulated by the city with set rates and safety requirements. Traditional taxi companies like Radio Cab operate 24/7 with established safety protocols, though availability may be limited compared to rideshare options.",
+        "tips": "Public transportation is your safest bet for getting around Portland. The MAX system connects major attractions and neighborhoods efficiently. Always validate your ticket to avoid fines, and keep belongings secure during peak hours."
+      },
+      "customs": [
+        "Tipping 15-20% at restaurants is expected, as service workers rely on gratuities for income",
+        "Americans value personal space - maintain arm's length distance during conversations unless invited closer",
+        "Direct eye contact and firm handshakes are standard professional greetings, even in casual settings"
+      ],
+      "health": {
+        "overview": "Portland offers excellent healthcare facilities including OHSU Hospital, Legacy Emanuel, and Providence systems, though the healthcare system faces financial pressures. Emergency services respond quickly with well-equipped ambulances stationed throughout the city.",
+        "water": "Tap water is safe to drink and comes from the high-quality Bull Run Watershed. Portland's water meets federal standards and is regularly tested, with many locals and visitors preferring it over bottled water.",
+        "vaccinations": "No special vaccinations required for visiting Portland. Standard travel health precautions apply, and comprehensive medical facilities are readily available for any health concerns.",
+        "altitude": "Portland sits at sea level with a mild oceanic climate. Summers are warm and dry while winters bring frequent rain. Air quality can be affected by wildfire smoke during summer months, so check conditions if you have respiratory sensitivities."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 for emergencies, 503-823-3333 for non-emergency",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "Portland is a US city - no embassy needed. For international visitors, contact your home country's consulate in San Francisco or Seattle for assistance."
+      },
+      "faq": [
+        {
+          "q": "Is Portland safe for tourists?",
+          "a": "Portland is moderately safe for tourists with excellent infrastructure and services. While violent crime has decreased significantly, property crime remains elevated. Standard urban precautions are sufficient for most visitors, particularly securing vehicles and belongings."
+        },
+        {
+          "q": "Is Portland safe at night?",
+          "a": "Portland's nighttime safety varies by area. Well-lit entertainment districts and main streets are generally safe with good foot traffic, but some downtown areas can be unpredictable after midnight. Using rideshare services or walking in groups is recommended."
+        },
+        {
+          "q": "Is Portland safe for solo female travelers?",
+          "a": "Portland is generally welcoming for solo female travelers with a progressive atmosphere. Some harassment may occur in nightlife areas and on late-night public transit, so standard precautions like staying in well-lit areas and using rideshare for late-night transport are advised."
+        },
+        {
+          "q": "What areas should I avoid in Portland?",
+          "a": "Exercise extra caution in outer southeast areas like Powellhurst-Gilbert, and be aware that downtown can be unpredictable after midnight. Most tourist areas including Pearl District, Hawthorne, and Alberta are generally safe with normal precautions."
+        },
+        {
+          "q": "Is it safe to use public transport in Portland?",
+          "a": "Yes, Portland's MAX Light Rail and bus system are generally safe with regular security patrols and cameras on vehicles. Watch for pickpockets during rush hours and consider rideshare options for late-night travel when public transit frequency decreases."
+        }
+      ],
+      "relatedCities": [
+        "seattle",
+        "vancouver",
+        "san-francisco",
+        "denver",
+        "austin"
+      ]
     }
   ]
 }

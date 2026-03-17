@@ -1,0 +1,164 @@
+{
+  "slug": "nashville",
+  "name": "Nashville",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 6.8,
+    "scamRisk": 5.5,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.5,
+    "naturalHazards": 7.2
+  },
+  "summary": "Nashville is a relatively safe destination for tourists, with improving crime rates in 2025 and strong police presence in tourist areas. While violent crime has decreased nearly 14% year-over-year and property crime by 12%, visitors should remain aware of pickpockets and scams in crowded entertainment districts like Broadway.",
+  "quickVerdict": "Nashville offers a reasonably safe experience for tourists, particularly in the main entertainment districts of Downtown, Broadway, The Gulch, and Midtown. Recent 2025 crime data shows significant improvements with violent offenses down 14% and property crime down 12% from 2024. Tourist areas benefit from heavy foot traffic, visible police presence, and active security at venues. The biggest risks for visitors are petty crimes like pickpocketing on Broadway, vehicle break-ins, and tourist-targeted scams. Most safety concerns are concentrated in specific neighborhoods away from tourist zones.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Broadway",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The main entertainment district with heavy police presence, active security, and constant foot traffic. Safe for nightlife but watch for pickpockets and drunk crowds."
+    },
+    {
+      "name": "The Gulch",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale urban neighborhood with high-end hotels and restaurants. Well-lit streets, good security, and generally considered one of the safest areas in Nashville."
+    },
+    {
+      "name": "Music Row/Midtown",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic music industry district that's relatively calm during the day. Mixed safety signals at night but generally safe for tourists visiting studios and attractions."
+    },
+    {
+      "name": "East Nashville",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Gentrified area with pockets of safety like Lockeland Springs and East End, but crime rates vary significantly by specific location and time of day."
+    },
+    {
+      "name": "North Nashville",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Higher violent crime rates than city average. Areas like Osage, North Fisk, and Vista Heights are not recommended for tourists, especially at night."
+    },
+    {
+      "name": "South Nashville/Antioch",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Some areas near Bell Road and Napier carry elevated crime rates. Visitors should avoid walking alone after dark and stick to main roads."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Concert Tickets",
+      "risk": "high",
+      "description": "Scammers sell counterfeit tickets to popular venues near Broadway and music attractions, especially around major concerts and events.",
+      "howToAvoid": "Only buy tickets from official venues, verified websites, or authorized resellers. Avoid street vendors and unusually cheap offers."
+    },
+    {
+      "name": "Overpriced Street Vendors",
+      "risk": "moderate",
+      "description": "Street vendors near tourist attractions may charge inflated prices for merchandise or sell counterfeit goods, particularly around Country Music Hall of Fame.",
+      "howToAvoid": "Compare prices at multiple vendors, inspect items carefully, and shop at established stores for authentic merchandise."
+    },
+    {
+      "name": "Broadway Bar Scams",
+      "risk": "moderate",
+      "description": "Some venues may overcharge tourists, add unexpected fees, or target intoxicated visitors with inflated bills or drink spiking attempts.",
+      "howToAvoid": "Keep track of your drinks, never leave beverages unattended, check bills carefully, and drink responsibly in groups."
+    },
+    {
+      "name": "Taxi/Transportation Overcharging",
+      "risk": "moderate",
+      "description": "Unlicensed drivers may deliberately overcharge tourists by taking longer routes or claiming broken meters, especially near the airport.",
+      "howToAvoid": "Use licensed taxis with visible permits and working meters, or stick to rideshare apps like Uber and Lyft for transparent pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nashville is generally safe for solo female travelers, especially in tourist areas during the day. The city is known for Southern hospitality and friendly locals. However, women should exercise extra caution in nightlife districts, particularly on Broadway where drink spiking has been reported. Most solo female travelers report positive experiences when using common sense precautions.",
+    "tips": [
+      "Stay in groups when possible in nightlife areas and never leave drinks unattended",
+      "Book accommodations in safer neighborhoods like The Gulch, Midtown, or downtown near tourist areas",
+      "Use rideshare services rather than walking alone at night, especially outside the main entertainment district",
+      "Trust your instincts - if a situation feels uncomfortable, leave immediately",
+      "Keep emergency contacts handy and let someone know your plans when going out"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nashville at night is relatively safe in the main tourist areas of Broadway and downtown, which maintain heavy foot traffic, police presence, and venue security until the early morning hours. The entertainment district operates with visible law enforcement and private security through 3 AM. However, safety decreases significantly outside these core areas, particularly in North and South Nashville neighborhoods.",
+    "tips": [
+      "Stay within the well-lit Broadway corridor and main downtown streets after dark",
+      "Use rideshare services for travel between venues rather than walking unfamiliar routes",
+      "Keep valuables in front pockets or inside bags to avoid pickpockets in crowded areas",
+      "Travel in groups when possible and avoid isolated streets even in downtown",
+      "Be aware that weekend nights bring larger crowds and more intoxicated individuals"
+    ]
+  },
+  "transport": {
+    "metro": "Nashville's WeGo Public Transit system operates 26 bus routes with new buses added in 2026. Service has expanded with more frequent trips and better Sunday coverage. All buses have free Wi-Fi and are generally safe, though service can be limited compared to other major cities. Route 18 connects downtown to the airport.",
+    "rideshare": "Uber and Lyft are widely available and considered very safe options. Airport pickups are from Garage 2 only. Rideshare services are recommended over walking for late-night travel and provide transparent pricing compared to traditional taxis.",
+    "taxis": "Licensed taxis are available but passengers should verify proper permits, working meters, and rate cards are displayed. Flat rate of $25-35 to downtown from airport. Beware of unlicensed fake taxis that may overcharge tourists.",
+    "tips": "Public transportation is safe but limited. Rideshare apps are the most reliable option for tourists. Always verify official taxi credentials and avoid unlicensed drivers who approach at the airport."
+  },
+  "customs": [
+    "Southern hospitality is deeply ingrained - expect warm greetings, friendly conversation, and people addressing you as 'sir' or 'ma'am'",
+    "Tipping is expected at restaurants (15-20%), bars, and for services like taxis and hotel staff",
+    "Music is central to Nashville culture - don't be surprised by spontaneous conversations about music, and it's customary to tip street musicians and venue performers"
+  ],
+  "health": {
+    "overview": "Nashville has excellent healthcare facilities including Vanderbilt University Medical Center and several major hospital systems. The city is a healthcare hub with world-class medical facilities. No special health precautions are needed beyond standard travel preparation.",
+    "water": "Tap water in Nashville is completely safe to drink and meets strict U.S. quality standards. The water is sourced from the Cumberland River and regularly monitored.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations (flu, COVID-19) recommended as for any domestic U.S. travel.",
+    "altitude": "Nashville sits at low elevation (around 550 feet) so altitude is not a concern. The climate is humid subtropical with hot summers and mild winters."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "615-862-8600 (non-emergency)",
+    "ambulance": "911",
+    "fire": "615-862-5421",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - domestic U.S. destination. For international visitors: contact your country's consulate in nearby Atlanta or Washington D.C."
+  },
+  "faq": [
+    {
+      "q": "Is Nashville safe for tourists?",
+      "a": "Yes, Nashville is generally safe for tourists, especially in main areas like Downtown, Broadway, and The Gulch. Recent crime data shows improvements with violent crime down 14% in 2025. Tourist areas have strong police presence and security."
+    },
+    {
+      "q": "Is Nashville safe at night?",
+      "a": "Nashville's main entertainment district is safe at night with heavy foot traffic and police presence until 3 AM. However, avoid walking alone in areas outside the Broadway corridor and use rideshare services for transportation between venues."
+    },
+    {
+      "q": "Is Nashville safe for solo female travelers?",
+      "a": "Nashville is reasonably safe for solo female travelers who take standard precautions. The main risks are drink spiking on Broadway and harassment in nightlife areas. Stay in groups when possible, don't leave drinks unattended, and use rideshare services at night."
+    },
+    {
+      "q": "What areas should I avoid in Nashville?",
+      "a": "Avoid North Nashville neighborhoods like Osage, North Fisk, and Vista Heights, especially at night. Parts of South Nashville near Bell Road also have elevated crime rates. Stick to tourist areas and main roads in unfamiliar neighborhoods."
+    },
+    {
+      "q": "Is it safe to use public transport in Nashville?",
+      "a": "Yes, Nashville's WeGo bus system is safe and has been expanded with new buses in 2026. However, rideshare services like Uber and Lyft are more convenient for tourists and recommended for late-night travel or trips to areas outside downtown."
+    }
+  ],
+  "relatedCities": [
+    "atlanta",
+    "memphis",
+    "new-orleans",
+    "charleston",
+    "miami"
+  ],
+  "_city_id": "nashville-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nashville%2C_TN_skyline.jpg/1280px-Nashville%2C_TN_skyline.jpg"
+}
