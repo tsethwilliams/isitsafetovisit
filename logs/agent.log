@@ -1721,3 +1721,13 @@
 2026-03-16 23:13:41,676 [INFO] Merged into site data: Chefchaouen
 2026-03-16 23:13:41,729 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-16 23:13:41,757 [INFO] Rebuilt sitemap with 371 URLs (262 cities, 103 countries, 6 static)
+2026-03-17 05:13:22,297 [INFO] Agent starting — mode: alert
+2026-03-17 05:13:22,376 [INFO] Checking alerts for 259 cities
+2026-03-17 05:13:58,622 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 05:13:58,668 [WARNING] ALERTS DETECTED: 6
+2026-03-17 05:13:58,668 [WARNING]   [critical] tel_aviv_israel: US-Israeli war with Iran ongoing since February 28, 2026. Iranian missile strikes have directly hit Tel Aviv area, including Ramat Gan, killing at least 10 civilians. Multiple missile attacks recorded with residential areas targeted.
+2026-03-17 05:13:58,671 [WARNING]   [medium] antalya_turkey: US State Department updated Turkey travel advisory on March 9, 2026, ordering departure of non-emergency US government employees from southeast Turkey due to hostilities with Iran. Antalya and other tourist areas remain safe, but increased caution advised.
+2026-03-17 05:13:58,673 [WARNING]   [medium] hanoi_vietnam: Flooding in parts of Hanoi from Typhoon Matmo in recent days killed at least 8 people and displaced thousands. Heavy rainfall and flooding reported across northern Vietnam.
+2026-03-17 05:13:58,676 [WARNING]   [medium] palawan_philippines: Philippines has faced multiple typhoons in recent weeks with Tropical Storm Nuri forming northeast of Yap on March 10, 2026. Region experiencing early-season tropical cyclone activity with potential impact on travel.
+2026-03-17 05:13:58,679 [WARNING]   [low] corfu_greece: Cyprus (regional concern) experienced suspected drone strike at RAF Akrotiri on March 2, 2026. Greece has strengthened defense cooperation with Cyprus amid regional Middle East tensions. No direct impact on Greek islands.
+2026-03-17 05:13:58,681 [WARNING]   [low] cape_town_south_africa: WHO maintaining ongoing monitoring of multiple health emergencies globally including cholera and mpox outbreaks. No specific incidents reported for South Africa, but regional health surveillance continues.

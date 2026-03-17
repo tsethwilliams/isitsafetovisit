@@ -2464,5 +2464,41 @@
     "action": "add",
     "city_id": "chefchaouen-morocco",
     "details": "New city added with score 7.5"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.669021+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv_israel",
+    "details": "{\"city_id\": \"tel_aviv_israel\", \"alert_type\": \"active_conflict\", \"severity\": \"critical\", \"summary\": \"US-Israeli war with Iran ongoing since February 28, 2026. Iranian missile strikes have directly hit Tel Aviv area, including Ramat Gan, killing at least 10 civilians. Multiple missile attacks recorded with residential areas targeted.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.671867+00:00",
+    "action": "alert",
+    "city_id": "antalya_turkey",
+    "details": "{\"city_id\": \"antalya_turkey\", \"alert_type\": \"travel_advisory_update\", \"severity\": \"medium\", \"summary\": \"US State Department updated Turkey travel advisory on March 9, 2026, ordering departure of non-emergency US government employees from southeast Turkey due to hostilities with Iran. Antalya and other tourist areas remain safe, but increased caution advised.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.674528+00:00",
+    "action": "alert",
+    "city_id": "hanoi_vietnam",
+    "details": "{\"city_id\": \"hanoi_vietnam\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Flooding in parts of Hanoi from Typhoon Matmo in recent days killed at least 8 people and displaced thousands. Heavy rainfall and flooding reported across northern Vietnam.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.677150+00:00",
+    "action": "alert",
+    "city_id": "palawan_philippines",
+    "details": "{\"city_id\": \"palawan_philippines\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Philippines has faced multiple typhoons in recent weeks with Tropical Storm Nuri forming northeast of Yap on March 10, 2026. Region experiencing early-season tropical cyclone activity with potential impact on travel.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.679811+00:00",
+    "action": "alert",
+    "city_id": "corfu_greece",
+    "details": "{\"city_id\": \"corfu_greece\", \"alert_type\": \"security_incident\", \"severity\": \"low\", \"summary\": \"Cyprus (regional concern) experienced suspected drone strike at RAF Akrotiri on March 2, 2026. Greece has strengthened defense cooperation with Cyprus amid regional Middle East tensions. No direct impact on Greek islands.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-17T05:13:58.682445+00:00",
+    "action": "alert",
+    "city_id": "cape_town_south_africa",
+    "details": "{\"city_id\": \"cape_town_south_africa\", \"alert_type\": \"health_emergency\", \"severity\": \"low\", \"summary\": \"WHO maintaining ongoing monitoring of multiple health emergencies globally including cholera and mpox outbreaks. No specific incidents reported for South Africa, but regional health surveillance continues.\", \"action\": \"update_score\"}"
   }
 ]
