@@ -1834,3 +1834,7 @@
 2026-03-17 12:10:53,323 [INFO] Merged into site data: Durban
 2026-03-17 12:10:53,380 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-17 12:10:53,410 [INFO] Rebuilt sitemap with 392 URLs (278 cities, 108 countries, 6 static)
+2026-03-17 15:43:35,699 [INFO] Agent starting — mode: alert
+2026-03-17 15:43:35,784 [INFO] Checking alerts for 275 cities
+2026-03-17 15:43:44,587 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 15:43:44,611 [INFO] No safety alerts detected
