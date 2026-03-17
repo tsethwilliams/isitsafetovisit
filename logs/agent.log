@@ -1777,3 +1777,16 @@
 2026-03-17 07:51:08,823 [INFO] Merged into site data: Mombasa
 2026-03-17 07:51:08,877 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-17 07:51:08,908 [INFO] Rebuilt sitemap with 380 URLs (270 cities, 104 countries, 6 static)
+2026-03-17 08:05:57,510 [INFO] Agent starting — mode: alert
+2026-03-17 08:05:57,601 [INFO] Checking alerts for 267 cities
+2026-03-17 08:06:46,579 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-17 08:06:46,666 [WARNING] ALERTS DETECTED: 9
+2026-03-17 08:06:46,666 [WARNING]   [critical] tel_aviv: US State Department authorized departure of non-emergency personnel from Israel on Feb 27, 2026. US Embassy suspended routine consular services through March 20. Ongoing rocket/drone attacks, embassy offering bus evacuation to Egyptian border. Ben Gurion Airport operating limited Israeli carriers only.
+2026-03-17 08:06:46,670 [WARNING]   [high] jeddah: US ordered departure of non-emergency personnel from Saudi Arabia on March 8, 2026 due to Iranian drone/missile targeting risks. Level 3 Reconsider Travel advisory. FAA issued aviation warnings for Persian Gulf region.
+2026-03-17 08:06:46,672 [WARNING]   [high] playa_del_carmen: Cartel violence erupted Feb 22-23 after killing of CJNG leader 'El Mencho'. Vehicle fires, business attacks reported in Playa del Carmen, Cancun, Tulum. US Embassy issued shelter-in-place warnings. Violence has calmed but heightened cartel presence continues in tourist areas.
+2026-03-17 08:06:46,675 [WARNING]   [medium] mexico_city: Nationwide cartel violence following El Mencho killing affected multiple states. US State Department shelter-in-place warnings lifted for most areas but Mexico City experienced some incidents. Tourist areas less affected than western Mexico.
+2026-03-17 08:06:46,678 [WARNING]   [medium] hanoi: Vietnam listed in CDC global dengue outbreak advisory as of March 2026. Ongoing year-round dengue risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
+2026-03-17 08:06:46,681 [WARNING]   [medium] sapa: Vietnam listed in CDC global dengue outbreak advisory as of March 2026. Ongoing year-round dengue risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
+2026-03-17 08:06:46,683 [WARNING]   [medium] hoi_an: Vietnam listed in CDC global dengue outbreak advisory as of March 2026. Ongoing year-round dengue risk with outbreaks occurring every 2-5 years. Travelers should prevent mosquito bites.
+2026-03-17 08:06:46,687 [WARNING]   [low] kuala_lumpur: Malaysia experiences year-round dengue risk as part of global dengue surveillance. Outbreaks commonly occur every 2-5 years. Standard mosquito bite prevention advised.
+2026-03-17 08:06:46,689 [WARNING]   [low] penang: Malaysia experiences year-round dengue risk as part of global dengue surveillance. Outbreaks commonly occur every 2-5 years. Standard mosquito bite prevention advised.
