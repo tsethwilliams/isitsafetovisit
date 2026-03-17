@@ -1,0 +1,164 @@
+{
+  "slug": "sharm-el-sheikh",
+  "name": "Sharm El Sheikh",
+  "country": "Egypt",
+  "countryCode": "EG",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.0,
+    "nightSafety": 7.2,
+    "transport": 6.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Sharm El Sheikh is a purpose-built Red Sea resort destination considered one of Egypt's safest cities for tourists. The city operates within a heavily secured tourism bubble with visible security checkpoints, hotel patrols, and dedicated tourism police.",
+  "quickVerdict": "Sharm El Sheikh is generally safe for tourists, particularly within the established resort areas of Naama Bay, Nabq Bay, and Sharks Bay. The city benefits from heavy security infrastructure designed specifically to protect international visitors, with tourism representing the cornerstone of the local economy. While petty crime and tourist-targeted scams exist, violent crime against visitors is rare. Solo female travelers regularly report feeling comfortable in resort environments, though conservative dress and cultural awareness are important outside hotel zones. The main safety concerns involve overcharging, aggressive vendors, and the need to stay within designated tourist areas.",
+  "neighborhoods": [
+    {
+      "name": "Naama Bay",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist hub with pedestrian-friendly streets, constant security patrols, abundant hotels, restaurants, and dive shops. Highly monitored and considered very safe day and night."
+    },
+    {
+      "name": "Nabq Bay",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern upscale resort area offering luxury accommodations and tranquility. Well-secured with private resort security and regular patrols."
+    },
+    {
+      "name": "Sharks Bay",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular beach and diving area with numerous resorts and restaurants. Good security presence and safe for tourists at all hours."
+    },
+    {
+      "name": "SOHO Square",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Entertainment district with restaurants, bars, and nightlife. Well-patrolled tourist area with good lighting and security, though can be crowded."
+    },
+    {
+      "name": "Old Market (Sharm El Maya)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Traditional bazaar area with higher concentration of aggressive vendors and potential for overcharging. Requires more vigilance but generally safe with basic precautions."
+    },
+    {
+      "name": "Desert Areas Outside Resort Zone",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Remote desert regions beyond tourist zones should only be visited with licensed operators. Poor infrastructure, navigation challenges, and security risks make independent exploration dangerous."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers quote inflated fares or claim broken meters, sometimes switching currency mid-trip from Egyptian pounds to dollars.",
+      "howToAvoid": "Always agree on exact price and currency before entering. Use hotel-arranged taxis or the SharmTaxi app for fixed pricing. Have small bills ready."
+    },
+    {
+      "name": "Fake Currency Exchange",
+      "risk": "medium",
+      "description": "Shopkeepers give fake foreign coins in change or quickly switch denominations when giving change.",
+      "howToAvoid": "Check all change carefully before leaving shops. Use ATMs or official exchange services. Count money twice and verify denominations."
+    },
+    {
+      "name": "Overpriced Excursions",
+      "risk": "high",
+      "description": "Tour operators offer cheap trips that deliver poor quality service, unsafe equipment, or don't match advertised descriptions.",
+      "howToAvoid": "Book through reputable hotels or established operators. Check reviews online before booking. Verify safety certifications for diving and water activities."
+    },
+    {
+      "name": "Photography Scam",
+      "risk": "medium",
+      "description": "Men in traditional dress deliberately enter photo frames at tourist sites then demand payment for being photographed.",
+      "howToAvoid": "Be aware of surroundings when taking photos. Firmly refuse payment demands. Report persistent harassment to nearby tourist police."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sharm El Sheikh is considered one of Egypt's safest destinations for solo female travelers, particularly within resort areas where the atmosphere is international and relaxed. The city's tourism-focused infrastructure provides better security and more progressive attitudes than other parts of Egypt. However, cultural awareness remains important when venturing outside hotels.",
+    "tips": [
+      "Stay within resort zones where security is visible and attitudes more liberal",
+      "Dress modestly when leaving hotel areas - cover shoulders and knees",
+      "Use hotel-arranged taxis rather than street taxis for added security",
+      "Be prepared for some stares and comments but serious harassment is uncommon in tourist areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Sharm El Sheikh is generally good within the main tourist areas, with well-lit streets, security patrols, and active nightlife districts. The tourism-focused economy means authorities maintain visible security presence after dark. Most hotels and resorts operate 24-hour security.",
+    "tips": [
+      "Stay within well-lit tourist areas like Naama Bay and SOHO Square after dark",
+      "Use official hotel taxis or the SharmTaxi app rather than walking long distances",
+      "Keep to main tourist strips where other visitors and security are present",
+      "Avoid isolated beach areas or desert regions after sunset"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Sharm El Sheikh. The city relies on taxis, hotel shuttles, and minibuses for public transport.",
+    "rideshare": "Uber and Careem have limited availability. SharmTaxi is the main local ride-hailing app offering GPS tracking and fixed pricing for tourists.",
+    "taxis": "Traditional taxis often lack meters and drivers frequently overcharge tourists. Always negotiate fixed prices before departure and confirm currency. Hotel-arranged taxis are safer but more expensive.",
+    "tips": "Use SharmTaxi app or hotel transfers for reliable pricing. Public minibuses exist but are difficult for tourists to use and drivers often overcharge foreigners."
+  },
+  "customs": [
+    "Dress modestly when outside resort areas - cover shoulders, chest, and knees",
+    "Use right hand when giving or receiving items as left hand is considered unclean",
+    "Remove shoes before entering mosques and some traditional establishments",
+    "Avoid public displays of affection as they are culturally inappropriate",
+    "Tipping (baksheesh) is expected for most services including restaurants and assistance"
+  ],
+  "health": {
+    "overview": "Healthcare quality in Sharm El Sheikh is adequate for a resort destination, with several private hospitals and clinics serving the tourist population. However, medical facilities are limited compared to major cities.",
+    "water": "Tap water should be avoided - drink only sealed bottled water for safety. Even use bottled water for brushing teeth if you have a sensitive stomach.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Hepatitis A and B vaccines recommended by some health authorities.",
+    "altitude": "Desert climate with intense heat and sun exposure. Temperatures regularly exceed 35°C. Stay hydrated, use high SPF sunscreen, and limit sun exposure during peak hours."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "122",
+    "ambulance": "123",
+    "fire": "180",
+    "touristPolice": "126",
+    "usEmbassy": "US Embassy Cairo: +20-2-2797-3300. For emergencies, US citizens can contact 24/7 at +1-202-501-4444 from abroad or +1-888-407-4747 from US/Canada."
+  },
+  "faq": [
+    {
+      "q": "Is Sharm El Sheikh safe for tourists?",
+      "a": "Yes, Sharm El Sheikh is considered one of Egypt's safest destinations for tourists. The city operates as a secure tourism bubble with dedicated security infrastructure, visible patrols, and checkpoints. Violent crime against tourists is rare, though visitors should remain aware of scams and overcharging."
+    },
+    {
+      "q": "Is Sharm El Sheikh safe at night?",
+      "a": "Sharm El Sheikh is generally safe at night within the main tourist areas like Naama Bay and SOHO Square. These areas are well-lit with security presence and active nightlife. However, avoid isolated areas and stick to established tourist zones after dark."
+    },
+    {
+      "q": "Is Sharm El Sheikh safe for solo female travelers?",
+      "a": "Yes, solo female travelers regularly report feeling comfortable in Sharm El Sheikh, particularly within resort areas. The international tourism atmosphere is more liberal than other parts of Egypt. Dress modestly outside hotels and use common sense precautions."
+    },
+    {
+      "q": "What areas should I avoid in Sharm El Sheikh?",
+      "a": "Avoid remote desert areas outside the tourism zone unless with licensed tour operators. Be cautious in the Old Market area due to aggressive vendors. Stay within designated tourist zones and avoid isolated beaches or desert regions, especially after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Sharm El Sheikh?",
+      "a": "Traditional taxis can be problematic due to overcharging and no meters. Use the SharmTaxi app, hotel-arranged transport, or reputable transfer services for safer, fixed-price travel. Public minibuses exist but are challenging for tourists to navigate safely."
+    }
+  ],
+  "relatedCities": [
+    "cairo",
+    "hurghada",
+    "dahab",
+    "dubai",
+    "tel-aviv"
+  ],
+  "_city_id": "sharm-el-sheikh-egypt",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharm_El_Sheikh_Panoramic.jpg/1280px-Sharm_El_Sheikh_Panoramic.jpg"
+}

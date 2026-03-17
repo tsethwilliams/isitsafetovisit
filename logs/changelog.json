@@ -2500,5 +2500,53 @@
     "action": "alert",
     "city_id": "cape_town_south_africa",
     "details": "{\"city_id\": \"cape_town_south_africa\", \"alert_type\": \"health_emergency\", \"severity\": \"low\", \"summary\": \"WHO maintaining ongoing monitoring of multiple health emergencies globally including cholera and mpox outbreaks. No specific incidents reported for South Africa, but regional health surveillance continues.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-17T07:40:04.972775+00:00",
+    "action": "add",
+    "city_id": "tangier-morocco",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-17T07:41:57.105553+00:00",
+    "action": "add",
+    "city_id": "essaouira-morocco",
+    "details": "New city added with score 7.8"
+  },
+  {
+    "timestamp": "2026-03-17T07:43:28.576483+00:00",
+    "action": "add",
+    "city_id": "luxor-egypt",
+    "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-17T07:44:56.997084+00:00",
+    "action": "add",
+    "city_id": "aswan-egypt",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-17T07:46:14.404784+00:00",
+    "action": "add",
+    "city_id": "sharm-el-sheikh-egypt",
+    "details": "New city added with score 7.2"
+  },
+  {
+    "timestamp": "2026-03-17T07:47:37.431267+00:00",
+    "action": "add",
+    "city_id": "hurghada-egypt",
+    "details": "New city added with score 7.3"
+  },
+  {
+    "timestamp": "2026-03-17T07:49:34.991586+00:00",
+    "action": "add",
+    "city_id": "tunis-tunisia",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-17T07:51:08.789635+00:00",
+    "action": "add",
+    "city_id": "mombasa-kenya",
+    "details": "New city added with score 5.6"
   }
 ]

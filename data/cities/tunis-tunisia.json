@@ -1,0 +1,166 @@
+{
+  "slug": "tunis",
+  "name": "Tunis",
+  "country": "Tunisia",
+  "countryCode": "TN",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-17",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 5.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 6.8,
+    "naturalHazards": 8.2
+  },
+  "summary": "Tunis is relatively safe for tourists with moderate crime levels and good infrastructure, though visitors should exercise normal precautions. The US State Department maintains a Level 2 advisory due to terrorism concerns, while everyday crime consists mainly of petty theft and tourist scams.",
+  "quickVerdict": "Tunis offers a generally safe travel experience for cautious visitors, with violent crime being relatively low and the city benefiting from increased security measures since 2015. While the terrorism threat remains a concern requiring vigilance, most tourists visit without incident. Petty crime like pickpocketing and tourist-targeted scams are the primary concerns, particularly in crowded markets and tourist areas. Solo female travelers report positive experiences when following basic safety precautions, and the city's transport system is functional though requires awareness of potential overcharging.",
+  "neighborhoods": [
+    {
+      "name": "La Marsa & Sidi Bou Said",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale coastal suburbs popular with tourists and expats. Well-maintained areas with good security, scenic clifftop cafes, and generally safe for day and evening visits."
+    },
+    {
+      "name": "Ville Nouvelle (New City)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern central district with Avenue Habib Bourguiba, hotels, and government buildings. Well-patrolled area with good lighting and regular police presence."
+    },
+    {
+      "name": "Carthage & Gammarth",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Archaeological sites and upscale residential areas. Popular with tourists for historical sites and beaches, with good security infrastructure and hotel zones."
+    },
+    {
+      "name": "Tunis Medina",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Historic old city with narrow alleyways and souks. Generally safe during daylight but can be confusing to navigate. Watch for pickpockets and aggressive vendors in crowded areas."
+    },
+    {
+      "name": "Bab El Bhar & Central Medina",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Busy commercial area connecting old and new city. Can be crowded and hectic with persistent vendors. Exercise caution with belongings and be aware of surroundings."
+    },
+    {
+      "name": "Outer Suburbs & Industrial Areas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Less developed areas on city outskirts with limited tourist infrastructure. Higher crime rates and poor lighting make these areas best avoided, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Hotel Employee",
+      "risk": "high",
+      "description": "Con artists approach tourists claiming to work at their hotel, offering tours or shopping recommendations. They guide victims to overpriced shops where they receive commissions.",
+      "howToAvoid": "Never follow strangers claiming to know you. Verify hotel staff with official name tags and confirm through your hotel reception."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "high",
+      "description": "Taxi drivers, especially near airports and tourist sites, may refuse to use meters or quote inflated fixed prices to foreigners.",
+      "howToAvoid": "Always insist on using the meter before starting your journey. Learn basic fare expectations and use ride-sharing apps like Bolt when available."
+    },
+    {
+      "name": "Medina Shopping Pressure",
+      "risk": "medium",
+      "description": "Aggressive vendors in souks invite tourists for 'free' tea then pressure them into buying overpriced carpets, pottery, or crafts with guilt tactics about family stories.",
+      "howToAvoid": "Politely decline invitations from strangers. Research fair prices beforehand and set a firm budget. Walk away confidently if pressured."
+    },
+    {
+      "name": "Romance & Money Requests",
+      "risk": "medium",
+      "description": "Online or in-person romantic approaches that eventually lead to requests for money for fake emergencies, visas, or family medical needs.",
+      "howToAvoid": "Never send money to people you've just met. Be skeptical of rapid romantic advances and emotional manipulation tactics."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Tunis is generally safe with proper precautions, as Tunisia has progressive women's rights laws by regional standards. Most female travelers report positive experiences, though some harassment can occur. Dress modestly in traditional areas and religious sites, but normal clothing is acceptable in tourist zones and coastal areas.",
+    "tips": [
+      "Dress conservatively when visiting religious sites and traditional neighborhoods - cover shoulders and knees",
+      "Use official yellow taxis or ride-sharing apps rather than accepting unsolicited transport offers",
+      "Stay in well-reviewed accommodations in tourist-friendly areas like La Marsa or Ville Nouvelle",
+      "Avoid walking alone in poorly lit areas after dark and stick to main streets in the evening",
+      "Trust your instincts if approached by overly friendly strangers and maintain confident body language"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tunis has a moderate nightlife scene concentrated in upscale areas like La Marsa, Gammarth, and central tourist districts. While violent crime at night is relatively uncommon, petty theft increases after dark. Most bars and clubs are located in hotels or coastal areas, with good security. The medina and outer residential areas should be avoided at night.",
+    "tips": [
+      "Stick to well-lit, popular areas for nighttime activities and avoid the medina after dark",
+      "Use official taxis or ride-sharing apps for transport - night taxi rates are higher but safer than walking",
+      "Travel in groups when possible and let someone know your planned itinerary",
+      "Keep valuables secure and avoid displaying expensive items like jewelry or large amounts of cash",
+      "Be aware that alcohol is available but consumption should be discreet outside of hotels and designated venues"
+    ]
+  },
+  "transport": {
+    "metro": "The Tunis Metro and TGM light rail system is affordable and connects major areas including the city center to Sidi Bou Said and Carthage. While generally safe, watch for pickpockets during crowded rush hours. Services run regularly but can be slow and crowded.",
+    "rideshare": "Bolt and inDrive are available in Greater Tunis and offer convenient, app-based rides with upfront pricing. These are often safer and more transparent than street taxis, especially for tourists. Uber is not available in Tunisia.",
+    "taxis": "Official yellow taxis are plentiful and metered, but drivers may refuse to use meters with tourists. Insist on the meter or agree on fare before departure. Expect higher rates at night and from airports. Licensed taxis are generally safe but watch for overcharging scams.",
+    "tips": "Public transport is very affordable but cash-only. For maximum safety and convenience, use ride-sharing apps or negotiate taxi fares upfront. Avoid unofficial transport providers, especially near airports and tourist sites."
+  },
+  "customs": [
+    "Greet with 'As-salamuʿalaykum' (peace be upon you) or 'Ahla' (hello). Handshakes are common between same-gender individuals; wait for women to extend their hand first",
+    "Show respect for elders through formal titles like 'Monsieur' or 'Madame' and deferential behavior. Stand when they enter a room and serve them first during meals",
+    "Accept hospitality graciously - refusing offered tea, coffee, or food can be seen as disrespectful. Bringing small gifts like pastries or fruit when visiting homes is appreciated",
+    "Dress modestly when visiting religious sites - cover shoulders and knees. Headscarves are required for women entering mosques",
+    "Avoid public displays of affection and be discreet about alcohol consumption outside of hotels and tourist areas. Friday afternoon prayers are important to many locals"
+  ],
+  "health": {
+    "overview": "Tunisia has a decent healthcare system with both public and private options. Public hospitals in major cities provide emergency services, while private facilities offer higher quality care at greater cost. Travel insurance with medical evacuation coverage is strongly recommended.",
+    "water": "Tap water in Tunis is generally safe for locals but may cause stomach upset for visitors. Bottled water is widely available and recommended for drinking. Avoid ice in drinks and raw vegetables that may have been washed in tap water.",
+    "vaccinations": "No specific vaccinations required for entry, but ensure routine vaccines are up-to-date. Hepatitis A and B, typhoid, and rabies vaccines may be recommended depending on activities. Consult a travel doctor at least 4-6 weeks before departure.",
+    "altitude": "Tunis is at sea level with a Mediterranean climate. Summer temperatures can exceed 35°C (95°F), so heat-related precautions are necessary. Pack sunscreen, light clothing, and stay hydrated during hot months."
+  },
+  "emergency": {
+    "general": "197",
+    "police": "197",
+    "ambulance": "190",
+    "fire": "198",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Tunis: +216 71 107 000. Located in Berges du Lac. For after-hours emergencies involving US citizens: +216 71 107 000. From the US: 1-888-407-4747 or +1-202-501-4444."
+  },
+  "faq": [
+    {
+      "q": "Is Tunis safe for tourists?",
+      "a": "Yes, Tunis is generally safe for tourists who take normal precautions. The main risks are petty crime like pickpocketing and tourist scams rather than violent crime. The US State Department rates Tunisia as Level 2 (Exercise Increased Caution) mainly due to terrorism concerns in some border regions, not everyday crime in Tunis."
+    },
+    {
+      "q": "Is Tunis safe at night?",
+      "a": "Tunis is moderately safe at night in tourist areas and upscale neighborhoods like La Marsa and Gammarth where most nightlife is located. Avoid the medina and residential areas after dark, use official taxis or ride-sharing apps for transport, and stay in well-lit, populated areas."
+    },
+    {
+      "q": "Is Tunis safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Tunis safely. Tunisia has progressive women's rights by regional standards. Dress modestly in traditional areas, stay alert in crowded places, and use common sense precautions. Most harassment is verbal rather than physical, and local women are generally helpful if you need assistance."
+    },
+    {
+      "q": "What areas should I avoid in Tunis?",
+      "a": "Avoid outer suburban and industrial areas, especially at night. The medina can be confusing and crowded but isn't dangerous during daylight hours. Stay away from political demonstrations and avoid the border regions with Libya and Algeria that are under higher security alerts."
+    },
+    {
+      "q": "Is it safe to use public transport in Tunis?",
+      "a": "Yes, public transport is generally safe but watch for pickpockets on crowded metro trains and buses. The metro connects major tourist areas and is very affordable. Taxis are safe but insist on using the meter. Ride-sharing apps like Bolt offer the most transparent and secure transport option."
+    }
+  ],
+  "relatedCities": [
+    "casablanca",
+    "algiers",
+    "cairo",
+    "marrakech",
+    "rabat"
+  ],
+  "_city_id": "tunis-tunisia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg/1280px-Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg"
+}
