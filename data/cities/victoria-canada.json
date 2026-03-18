@@ -1,0 +1,164 @@
+{
+  "slug": "victoria",
+  "name": "Victoria",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 7.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Victoria, British Columbia's charming capital city, is one of Canada's safest urban destinations with a moderate climate and welcoming atmosphere. While the city experiences relatively low crime rates and maintains excellent infrastructure, visitors should be aware of earthquake risks and occasionally encounter homeless populations in downtown areas.",
+  "quickVerdict": "Victoria ranks as one of Canada's safest cities for tourists, earning high marks for personal safety, women's security, and public transportation. The city maintains low crime rates with violent crime being particularly rare, though petty theft can occur in tourist-heavy areas like the Inner Harbour. The biggest safety consideration is the city's location in an active earthquake zone, with a 1-in-3 chance of experiencing a damaging earthquake in the next 50 years. Despite this natural hazard risk, Victoria's excellent emergency preparedness, high-quality healthcare system, and strong police presence make it an ideal destination for solo travelers, families, and first-time visitors to Canada.",
+  "neighborhoods": [
+    {
+      "name": "Inner Harbour & Downtown",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The tourist heart of Victoria with excellent lighting, regular police patrols, and busy pedestrian traffic. Home to the Parliament Buildings and major attractions, though watch for pickpockets in crowded areas."
+    },
+    {
+      "name": "James Bay",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Quiet residential neighborhood near the Inner Harbour, popular with families and retirees. Well-lit streets and low crime rates make it ideal for accommodation, though can be quieter at night."
+    },
+    {
+      "name": "Oak Bay",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Upscale residential area known for exceptionally low crime rates and peaceful atmosphere. Popular with tourists visiting Butchart Gardens, this area offers excellent safety but limited nightlife."
+    },
+    {
+      "name": "Esquimalt",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mix of residential and industrial areas with naval base presence. Generally safe during the day but some areas can feel isolated at night. Less tourist-oriented with fewer amenities and services."
+    },
+    {
+      "name": "North Park/Quadra Village",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Transitioning neighborhood with growing arts scene but higher concentration of homeless individuals and drug-related activity. Avoid walking alone at night, particularly near Pandora Avenue."
+    },
+    {
+      "name": "Vic West",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Industrial waterfront area undergoing gentrification. Some sections remain poorly lit and isolated, especially near the rail yards. Exercise caution when walking alone after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "medium",
+      "description": "Individuals approaching tourists claiming to collect donations for local causes or charities, using emotional stories to convince visitors to give money.",
+      "howToAvoid": "Only donate to established, recognizable charities. Ask for proper identification and charity registration numbers. Be wary of high-pressure tactics or emotional manipulation."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Devices installed on ATM machines to steal card details, sometimes with overly helpful locals offering assistance while secretly observing PIN codes.",
+      "howToAvoid": "Use ATMs inside banks or hotels when possible. Cover your PIN when entering it. Check for loose parts or unusual attachments on card readers. Decline unsolicited help from strangers."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "low",
+      "description": "Some taxi drivers may overcharge tourists by not using meters, taking longer routes, or claiming flat-rate fares that exceed normal metered costs, particularly from ferry terminals.",
+      "howToAvoid": "Always insist on using the meter or agree on fare upfront. Use ride-sharing apps like Uber or Lyft when available. Ask hotel staff about typical fare costs to your destination."
+    },
+    {
+      "name": "Tourist Pricing Scams",
+      "risk": "low",
+      "description": "Restaurants, shops, or tour operators inflating prices for tourists or providing incorrect change, particularly in heavily touristed areas around the Inner Harbour.",
+      "howToAvoid": "Research typical prices beforehand. Always check your change and receipts. Read menu prices carefully before ordering. Use contactless payment when possible to avoid cash handling issues."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Victoria is exceptionally safe for solo female travelers, ranking among the top destinations in Canada. The city has low crime rates, well-lit streets, reliable public transportation, and a culture that normalizes solo dining and exploration. Women regularly walk alone day and night in most areas, and locals are generally helpful and respectful. The main precautions involve avoiding certain downtown streets with homeless populations after dark and staying aware of surroundings in tourist areas.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night, especially around Pandora Avenue and Johnson Street",
+      "Victoria's public transit is safe and reliable - BC Transit buses run until late evening with good lighting at most stops",
+      "Solo dining is completely normal in Victoria - restaurants welcome single diners without any awkwardness",
+      "Keep emergency contacts handy including Victoria Police non-emergency line at 250-995-7654",
+      "Consider staying in James Bay or Oak Bay neighborhoods for quieter, residential feel with excellent safety records"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Victoria maintains good nighttime safety with well-lit streets, active nightlife areas, and regular police patrols. The downtown core remains busy with tourists and locals until late, providing natural security through foot traffic. However, some areas have higher concentrations of homeless individuals, and the industrial Vic West area can feel isolated after dark. Most violent crime occurs between known parties, making random attacks on tourists extremely rare.",
+    "tips": [
+      "Stay in well-traveled areas like Government Street and the Inner Harbour where foot traffic remains steady",
+      "Avoid walking alone in North Park area, particularly near Pandora Avenue where homeless camps are more common",
+      "Use rideshare services or taxis for late-night transportation rather than walking through industrial areas",
+      "Victoria's nightlife is generally low-key - bars and pubs close by 2 AM with little post-closing disturbances",
+      "Emergency services respond quickly - don't hesitate to call 911 for immediate threats or 250-995-7654 for non-emergency police assistance"
+    ]
+  },
+  "transport": {
+    "metro": "Victoria does not have a metro system, but BC Transit provides comprehensive bus service throughout the Greater Victoria area with routes running from early morning until late evening. Buses are clean, safe, and equipped with security cameras.",
+    "rideshare": "Uber, Lyft, and local ride-sharing services operate reliably throughout Victoria. These are particularly recommended for airport transfers and late-night transportation, with drivers generally professional and vehicles well-maintained.",
+    "taxis": "Licensed taxi companies provide safe service, though ensure the meter is running or agree on fares upfront. Taxi stands are available at ferry terminals, downtown hotels, and tourist attractions. Some unlicensed operators exist at ferry terminals - use official taxi companies only.",
+    "tips": "Public transportation is the most economical option with day passes available for $5. Download the BC Transit app for real-time schedules and route planning. For groups or late-night travel, rideshare services offer convenience and safety at reasonable rates."
+  },
+  "customs": [
+    "Canadians are generally polite and apologetic - saying 'sorry' frequently is normal social behavior, even for minor inconveniences",
+    "Tipping culture expects 15-20% at restaurants, 10-15% for taxis, and $1-2 per drink at bars - similar to US standards but slightly lower",
+    "Victoria has a relaxed 'island time' culture where things move at a slower pace - don't expect rushed service but do expect quality and friendliness"
+  ],
+  "health": {
+    "overview": "Victoria offers excellent healthcare with two major hospitals and numerous clinics, though accessing family physicians can be challenging for short-term visitors. Emergency medical care is world-class with ambulance services responding quickly throughout the region.",
+    "water": "Tap water is completely safe to drink throughout Victoria and meets strict Canadian federal standards. The water comes from protected reservoirs and is regularly tested for quality and safety.",
+    "vaccinations": "No special vaccinations required for Victoria. Routine vaccinations like measles, mumps, rubella, and seasonal flu are recommended. Health Canada recommends travelers have current tetanus vaccination.",
+    "altitude": "Victoria sits at sea level with a mild oceanic climate. Temperatures rarely exceed 25°C (77°F) in summer or drop below 0°C (32°F) in winter. The main health consideration is seasonal allergies from spring pollen and potential respiratory issues from wildfire smoke during summer months."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 250-995-7654 (non-emergency)",
+    "ambulance": "911 (emergency) / 250-953-0911 (non-emergency)",
+    "fire": "911 (emergency) / 250-920-3350 (non-emergency)",
+    "touristPolice": "N/A - Regular VicPD handles all tourist-related issues",
+    "usEmbassy": "US Consulate General Vancouver: 604-685-4311 (located at 1075 West Pender Street, Vancouver - serves all of BC including Victoria). 24/7 emergency assistance for US citizens: 604-685-4311."
+  },
+  "faq": [
+    {
+      "q": "Is Victoria safe for tourists?",
+      "a": "Yes, Victoria is one of Canada's safest cities with low crime rates, excellent emergency services, and tourist-friendly infrastructure. Violent crime against tourists is extremely rare, and the city actively promotes tourism safety."
+    },
+    {
+      "q": "Is Victoria safe at night?",
+      "a": "Generally yes, especially in downtown areas and tourist zones which remain well-lit and patrolled. Avoid certain streets in North Park area and industrial Vic West after dark, but the Inner Harbour and Government Street areas are safe for evening strolls."
+    },
+    {
+      "q": "Is Victoria safe for solo female travelers?",
+      "a": "Absolutely. Victoria ranks among the top Canadian cities for solo female travel safety. Women commonly walk alone, dine solo, and explore independently. Basic precautions like staying in well-lit areas and avoiding isolated spots at night are sufficient."
+    },
+    {
+      "q": "What areas should I avoid in Victoria?",
+      "a": "Avoid the North Park area, particularly around Pandora Avenue and Johnson Street at night due to higher homeless populations and drug activity. Some parts of Vic West can feel isolated after dark. During the day, all areas are generally safe for tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Victoria?",
+      "a": "Yes, BC Transit buses are very safe with security cameras, professional drivers, and regular service. Bus stops are generally well-lit and located in safe areas. The system is reliable and used by locals and tourists alike without safety concerns."
+    }
+  ],
+  "relatedCities": [
+    "vancouver",
+    "seattle",
+    "portland",
+    "calgary",
+    "toronto"
+  ],
+  "_city_id": "victoria-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Victoria_Montage_2020.jpg/1280px-Victoria_Montage_2020.jpg"
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "ottawa",
+  "name": "Ottawa",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 8.2,
+    "nightSafety": 7.8,
+    "transport": 7.9,
+    "naturalHazards": 7.8
+  },
+  "summary": "Ottawa stands out as one of Canada's safest cities and was recently ranked as the safest major city in Canada for violent crime. As the national capital, it maintains excellent security infrastructure and benefits from low crime rates typical of Canadian urban centers. The city offers a particularly welcoming environment for solo female travelers and maintains good safety standards both day and night.",
+  "quickVerdict": "Ottawa presents an excellent safety profile for tourists, ranking as Canada's safest major city. While overall crime rates have increased slightly in recent years, violent crime remains very low and the city maintains strong safety infrastructure. Visitors can expect a generally secure environment with friendly locals, reliable public transportation, and well-lit, walkable neighborhoods. Standard urban precautions apply, particularly regarding petty crime in busy areas, but Ottawa's reputation for politeness and orderliness extends to its approach to public safety.",
+  "neighborhoods": [
+    {
+      "name": "Parliament Hill/Downtown Core",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Canada's government with heavy security presence, well-lit streets, and constant foot traffic. Tourist police patrol regularly and the area is monitored extensively. Safe during both day and night hours."
+    },
+    {
+      "name": "ByWard Market",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic market district with vibrant nightlife and dining scene. Well-patrolled and busy area with good lighting. Some late-night activity means occasional minor incidents but generally very safe for tourists exploring restaurants and bars."
+    },
+    {
+      "name": "The Glebe",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential neighborhood popular with locals and visitors. Excellent walkability, low crime rates, and family-friendly atmosphere. Bank Street offers shopping and dining with strong safety record."
+    },
+    {
+      "name": "Westboro",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Trendy, affluent area along the Ottawa River with excellent safety ratings. Popular for its restaurants, shops, and riverside paths. Very low crime rates and well-maintained public spaces make it ideal for all travelers."
+    },
+    {
+      "name": "Hintonburg",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Gentrifying neighborhood with growing arts and food scene. Generally safe with improving infrastructure and increasing foot traffic. Some areas still developing but overall secure for visitors during normal hours."
+    },
+    {
+      "name": "Vanier",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Working-class area east of downtown with higher crime rates than other Ottawa neighborhoods. While not dangerous, visitors should exercise normal urban caution, particularly at night. Some social issues present but improvements ongoing."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Government Agency Calls",
+      "risk": "medium",
+      "description": "Scammers impersonate Revenue Canada, immigration officials, or Service Canada claiming urgent issues requiring immediate payment or personal information. Particularly targets newcomers and tourists.",
+      "howToAvoid": "Government agencies never demand immediate payment over phone. Hang up and call official numbers directly. Be especially wary of threats of arrest or deportation."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "medium",
+      "description": "Devices installed on ATMs and payment terminals to steal card information, particularly at tourist areas, gas stations, and busy locations around the city.",
+      "howToAvoid": "Use ATMs inside banks when possible. Check for anything unusual on card readers. Cover your PIN when entering. Monitor bank statements regularly."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "low",
+      "description": "Some taxi drivers may take longer routes or claim meters are broken to charge higher fares, especially from airports or to tourists unfamiliar with the city.",
+      "howToAvoid": "Use ride-sharing apps like Uber or Lyft for transparent pricing. Ask for estimated fare upfront. Request the meter be used and know approximate distances to your destination."
+    },
+    {
+      "name": "Fake Event Tickets",
+      "risk": "low",
+      "description": "Counterfeit tickets sold for Ottawa events, particularly during festivals, hockey games, or Parliament tours, often through unofficial sellers or too-good-to-be-true online deals.",
+      "howToAvoid": "Buy tickets only from official venues, authorized sellers, or reputable platforms. Be suspicious of significantly discounted prices or last-minute deals from strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Ottawa is exceptionally safe for solo female travelers, ranking among the world's best destinations for women traveling alone. The city consistently scores high on safety indices and maintains a culture of respect and politeness. Public transportation is reliable and safe, streets are well-lit, and locals are generally helpful. The downtown core and tourist areas have good security presence, while the ByWard Market offers vibrant nightlife that remains accessible to solo women.",
+    "tips": [
+      "Take advantage of Ottawa's excellent public transit system including the O-Train which runs late and has CCTV monitoring",
+      "ByWard Market nightlife is generally safe but stick to well-lit, busy streets when walking alone at night",
+      "Canadian culture emphasizes politeness and respect - don't hesitate to ask locals for directions or assistance",
+      "Winter conditions can affect walkability - ensure proper footwear and be extra cautious on icy sidewalks",
+      "The city's 'TransSecure' areas at transit stations provide well-lit safe zones with emergency phones"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Ottawa maintains good safety standards after dark, particularly in tourist and downtown areas. The city's nightlife scene is concentrated in safe, well-patrolled areas like ByWard Market and Elgin Street. Street lighting is generally excellent, and the friendly local culture extends to nighttime interactions. Public transit operates late with safety measures in place, though some caution is advised in quieter residential areas or when walking alone very late at night.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially the downtown core and ByWard Market district",
+      "Use OC Transpo's 'Night Stop' service at major transit stations which provides safer, well-lit waiting areas after 9 PM",
+      "The Rideau Canal area offers pleasant evening walks but stay on main pathways and avoid isolated sections",
+      "Canadian closing times are typically 2 AM - plan your route home in advance or use ride-sharing services",
+      "Take advantage of Ottawa's '311' service for non-emergency assistance and city information"
+    ]
+  },
+  "transport": {
+    "metro": "Ottawa's O-Train light rail system is modern, safe, and reliable with CCTV monitoring, emergency intercoms, and Special Constables patrolling 24/7. The Confederation Line connects key tourist areas and is fully accessible. However, the system has experienced some reliability issues since opening.",
+    "rideshare": "Uber and Lyft operate throughout Ottawa with good coverage and transparent pricing. These services are particularly useful for airport transfers and late-night transportation. Canadian rideshare regulations ensure driver background checks and vehicle safety standards.",
+    "taxis": "Traditional taxis are regulated and generally safe, though some visitors report longer routes or meter issues. Official taxi companies are reliable, but be sure to use licensed vehicles with proper identification and working meters.",
+    "tips": "OC Transpo buses complement the light rail system and offer extensive coverage. The Presto card works for all public transit. Winter weather can affect schedules, so check real-time updates via the Transit app or website. Special Constables patrol the transit system and can be contacted at 613-741-2478."
+  },
+  "customs": [
+    "Canadians are famously polite - saying 'please', 'thank you', 'sorry', and 'excuse me' is expected in all interactions",
+    "Remove shoes when entering someone's home unless specifically told otherwise",
+    "Tipping 15-20% is standard at restaurants and bars, 10-15% for other services like taxis and hairdressers",
+    "Respect personal space and avoid overly personal questions with people you don't know well",
+    "Punctuality is highly valued - arrive on time or slightly early for appointments and social gatherings",
+    "Canadians value queuing/lining up properly - cutting in line is considered very rude"
+  ],
+  "health": {
+    "overview": "Canada has an excellent healthcare system and Ottawa offers world-class medical facilities. Visitors have access to emergency services through hospitals and walk-in clinics, though costs can be high for non-residents without travel insurance.",
+    "water": "Tap water in Ottawa is completely safe to drink and meets high quality standards. Bottled water is unnecessary from a safety standpoint.",
+    "vaccinations": "No special vaccinations required for Ottawa. Standard travel vaccines (routine immunizations) should be up to date. COVID-19 requirements may apply depending on current regulations.",
+    "altitude": "Ottawa sits at low elevation with no altitude concerns. The city experiences a continental climate with cold winters (temperatures can drop to -10°C to -30°C) and warm summers. Visitors should prepare for seasonal weather extremes and potential for ice storms."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 613-236-1222 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Ottawa: 490 Sussex Drive, Ottawa, ON K1N 1G8. Emergency American Citizens Services: 613-688-5335. Regular consular services: 613-688-5335."
+  },
+  "faq": [
+    {
+      "q": "Is Ottawa safe for tourists?",
+      "a": "Yes, Ottawa is very safe for tourists. It's ranked as Canada's safest major city and maintains excellent safety infrastructure as the national capital. Crime rates are low, locals are friendly and helpful, and tourist areas are well-patrolled and monitored."
+    },
+    {
+      "q": "Is Ottawa safe at night?",
+      "a": "Ottawa is generally safe at night, especially in tourist areas like downtown, Parliament Hill, and ByWard Market. These areas are well-lit with good foot traffic and security presence. Use normal urban precautions and stick to main streets when walking alone late at night."
+    },
+    {
+      "q": "Is Ottawa safe for solo female travelers?",
+      "a": "Ottawa is exceptionally safe for solo female travelers and consistently ranks among the world's best destinations for women traveling alone. The city's culture of politeness and respect, combined with reliable public transport and well-lit streets, creates a very welcoming environment."
+    },
+    {
+      "q": "What areas should I avoid in Ottawa?",
+      "a": "Ottawa has very few areas to avoid, but Vanier (east of downtown) has slightly higher crime rates. Even there, it's not dangerous but requires normal urban caution. Most of Ottawa, including all major tourist areas, is very safe day and night."
+    },
+    {
+      "q": "Is it safe to use public transport in Ottawa?",
+      "a": "Yes, Ottawa's public transport is very safe. The O-Train has CCTV monitoring, emergency intercoms, and 24/7 Special Constable patrols. Buses are well-maintained and reliable. The system includes 'TransSecure' safe zones at major stations with enhanced lighting and emergency phones."
+    }
+  ],
+  "relatedCities": [
+    "toronto",
+    "montreal",
+    "vancouver",
+    "quebec-city",
+    "winnipeg"
+  ],
+  "_city_id": "ottawa-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Parliament-Ottawa.jpg"
+}

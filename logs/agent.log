@@ -2006,3 +2006,51 @@
 2026-03-18 08:03:23,124 [INFO] Checking alerts for 299 cities
 2026-03-18 08:04:04,473 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-03-18 08:04:04,623 [INFO] No safety alerts detected
+2026-03-18 12:03:14,355 [INFO] Agent starting — mode: add
+2026-03-18 12:03:14,395 [INFO] Queue has 263 cities, adding 8
+2026-03-18 12:03:14,395 [INFO] Generating new city profile: Detroit, United States
+2026-03-18 12:04:30,769 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:04:31,049 [INFO] Found Wikipedia image for Detroit
+2026-03-18 12:04:31,050 [INFO] Saved city data: detroit-united-states
+2026-03-18 12:04:31,053 [INFO] Generating new city profile: Memphis, United States
+2026-03-18 12:05:07,900 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:05:08,046 [ERROR] Claude returned empty text response
+2026-03-18 12:05:08,047 [ERROR] Failed to parse city data for Memphis (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-18 12:05:08,047 [INFO] Retry 1/2 for Memphis
+2026-03-18 12:06:43,115 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:06:43,256 [INFO] Found Wikipedia image for Memphis
+2026-03-18 12:06:43,257 [INFO] Saved city data: memphis-united-states
+2026-03-18 12:06:43,260 [INFO] Generating new city profile: Anchorage, United States
+2026-03-18 12:08:13,356 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:08:13,709 [INFO] Found Wikipedia image for Anchorage
+2026-03-18 12:08:13,709 [INFO] Saved city data: anchorage-united-states
+2026-03-18 12:08:13,712 [INFO] Generating new city profile: Montreal, Canada
+2026-03-18 12:09:37,612 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:09:37,801 [INFO] Found Wikipedia image for Montreal
+2026-03-18 12:09:37,802 [INFO] Saved city data: montreal-canada
+2026-03-18 12:09:37,805 [INFO] Generating new city profile: Quebec City, Canada
+2026-03-18 12:11:12,172 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:11:12,350 [INFO] Found Wikipedia image for Quebec City
+2026-03-18 12:11:12,350 [INFO] Saved city data: quebec-city-canada
+2026-03-18 12:11:12,353 [INFO] Generating new city profile: Banff, Canada
+2026-03-18 12:12:43,372 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:12:43,533 [INFO] Found Wikipedia image for Banff
+2026-03-18 12:12:43,533 [INFO] Saved city data: banff-canada
+2026-03-18 12:12:43,537 [INFO] Generating new city profile: Victoria, Canada
+2026-03-18 12:14:13,660 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:14:13,821 [INFO] Found Wikipedia image for Victoria
+2026-03-18 12:14:13,822 [INFO] Saved city data: victoria-canada
+2026-03-18 12:14:13,825 [INFO] Generating new city profile: Ottawa, Canada
+2026-03-18 12:15:51,209 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 12:15:51,415 [INFO] Found Wikipedia image for Ottawa
+2026-03-18 12:15:51,415 [INFO] Saved city data: ottawa-canada
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Detroit
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Memphis
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Anchorage
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Montreal
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Quebec City
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Banff
+2026-03-18 12:15:51,453 [INFO] City already exists in site data, skipping: victoria
+2026-03-18 12:15:51,453 [INFO] Merged into site data: Ottawa
+2026-03-18 12:15:51,515 [INFO] Merged 7 new cities into src/lib/city-data.json
+2026-03-18 12:15:51,550 [INFO] Rebuilt sitemap with 429 URLs (309 cities, 114 countries, 6 static)

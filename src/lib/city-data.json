@@ -49445,6 +49445,1140 @@
         "washington-dc"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/1280px-A2ATL20250614-0721_%28cropped%29.jpg"
+    },
+    {
+      "slug": "detroit",
+      "name": "Detroit",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 4.7,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Exercise Caution",
+      "badgeClass": "danger",
+      "scores": {
+        "pettyCrime": 3.5,
+        "violentCrime": 4.0,
+        "scamRisk": 5.5,
+        "womensSafety": 4.0,
+        "nightSafety": 4.0,
+        "transport": 6.5,
+        "naturalHazards": 5.5
+      },
+      "summary": "Detroit has historically high crime rates but is experiencing significant improvements, with homicides at their lowest in decades and overall violent crime declining steadily. Safety varies dramatically by neighborhood, with downtown and midtown areas being considerably safer than outlying districts.",
+      "quickVerdict": "Detroit requires caution and careful neighborhood selection for safe travel. While the city has made remarkable progress with violent crime at historic lows and major revitalization efforts downtown, it still has elevated property crime rates and significant safety disparities between neighborhoods. Downtown, midtown, and areas like Belle Isle are generally safe for tourists during the day, but visitors should avoid certain neighborhoods entirely and exercise heightened awareness at night. The city's excellent healthcare system and improving public safety initiatives are positive factors, but the overall crime rate remains 209% above the national average.",
+      "neighborhoods": [
+        {
+          "name": "Downtown Detroit",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The heart of Detroit's revitalization with major attractions, restaurants, and improved security. Well-patrolled during day with decent nightlife options. Stay near main commercial areas."
+        },
+        {
+          "name": "Midtown",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Cultural district home to museums, universities, and trendy establishments. Generally safe for tourists with good lighting and regular foot traffic, especially near Wayne State University area."
+        },
+        {
+          "name": "Belle Isle",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Detroit's island park with recreational facilities and attractions. Considered one of the city's safest areas during operating hours, popular with families and tourists for outdoor activities."
+        },
+        {
+          "name": "Corktown",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Historic neighborhood undergoing gentrification with some good restaurants and venues. Improving but still requires caution, especially at night and on side streets away from main corridors."
+        },
+        {
+          "name": "Southwest Detroit",
+          "score": 5.0,
+          "class": "caution",
+          "description": "Diverse area with authentic Mexican restaurants and culture. Mixed safety conditions - some blocks are fine while others have higher crime rates. Research specific locations beforehand."
+        },
+        {
+          "name": "East Detroit/Delray",
+          "score": 2.0,
+          "class": "danger",
+          "description": "Industrial area with significant safety concerns, high crime rates, and abandoned properties. Strongly advised to avoid, especially for tourists. Even locals recommend staying away from this area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Parking Tickets",
+          "risk": "medium",
+          "description": "Scammers place fake parking tickets on vehicles directing victims to fraudulent payment websites to steal personal and financial information.",
+          "howToAvoid": "Only pay parking tickets through official city websites. Verify any ticket by calling Detroit parking authorities directly at official numbers."
+        },
+        {
+          "name": "QR Code Phishing",
+          "risk": "high",
+          "description": "Criminals place sticker QR codes over legitimate ones at restaurants, events, and attractions, leading to fake payment sites that steal credit card information.",
+          "howToAvoid": "Never scan QR codes that appear to be stickers or look tampered with. Type website URLs directly into your browser instead."
+        },
+        {
+          "name": "Taxi Meter Scams",
+          "risk": "medium",
+          "description": "Taxi drivers claim their meter is broken after passengers get in, then charge inflated flat rates for the journey.",
+          "howToAvoid": "Never enter a taxi with a broken meter. Use official rideshare apps like Uber/Lyft or confirm meter works before starting the trip."
+        },
+        {
+          "name": "Fake Accommodation Bookings",
+          "risk": "high",
+          "description": "Sophisticated fake websites mimic legitimate booking platforms, taking payment for non-existent hotels or rentals, leaving travelers stranded upon arrival.",
+          "howToAvoid": "Book only through verified platforms, check hotel websites directly, and be wary of prices significantly below market rate. Use protected payment methods."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Detroit requires significant caution and careful planning. While downtown and midtown areas can be navigated safely during daytime hours, the city presents challenges for women traveling alone, particularly after dark. Many travel experts specifically advise against solo travel to Detroit due to elevated crime rates and safety disparities between neighborhoods.",
+        "tips": [
+          "Stay in well-reviewed hotels in downtown or midtown areas, avoiding budget accommodations in unknown neighborhoods",
+          "Use rideshare services rather than walking alone, especially at night, and avoid public transportation after dark",
+          "Research specific addresses and neighborhoods thoroughly before visiting, as safety can change dramatically within a few blocks"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Detroit's nighttime safety varies dramatically by location, with downtown entertainment districts being relatively secure while many other areas become significantly more dangerous after dark. The city has active nightlife in certain safe zones, but venturing outside these areas at night is strongly discouraged.",
+        "tips": [
+          "Stick to well-lit main streets in downtown and midtown with heavy foot traffic and visible security presence",
+          "Use rideshare services for all nighttime transportation rather than walking or using public transit",
+          "Travel in groups when possible and avoid exploring unfamiliar neighborhoods after sunset"
+        ]
+      },
+      "transport": {
+        "metro": "Detroit does not have a traditional metro system. The People Mover provides limited downtown circulation, and QLine streetcar serves a short route along Woodward Avenue. Both are generally safe during daytime hours.",
+        "rideshare": "Uber and Lyft operate extensively throughout Detroit and are considered the safest transportation option. Both services are reliable with good driver availability and standard safety features.",
+        "taxis": "Traditional taxis are available but less reliable than rideshare services. Use only official taxis from established companies and ensure meters are functioning before starting trips.",
+        "tips": "Rideshare services are strongly recommended over public transit, especially for visitors. DDOT and SMART buses serve the area but require caution regarding routes and timing."
+      },
+      "customs": [
+        "Tipping 18-20% at restaurants is standard practice",
+        "Business casual dress is appropriate for most dining and entertainment venues",
+        "Detroit residents are generally friendly and proud of their city's revival efforts"
+      ],
+      "health": {
+        "overview": "Detroit has excellent healthcare facilities with multiple top-rated hospitals and medical centers. The city is home to major health systems including Henry Ford Health, Detroit Medical Center, and Corewell Health.",
+        "water": "Tap water is safe to drink. Detroit has invested heavily in water infrastructure improvements following past issues.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations for US travel.",
+        "altitude": "Detroit sits at 600 feet above sea level. Climate features cold winters with lake-effect snow and warm, humid summers. Winter temperatures can be extreme with dangerous wind chills."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency), 313-267-4600 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "N/A - Detroit is a US city. International visitors can contact their nearest consulate in Chicago or New York."
+      },
+      "faq": [
+        {
+          "q": "Is Detroit safe for tourists?",
+          "a": "Detroit can be safe for tourists who stay in designated safe areas like downtown and midtown, but requires careful planning and awareness. The city has high crime rates overall but tourist areas are generally well-maintained and patrolled."
+        },
+        {
+          "q": "Is Detroit safe at night?",
+          "a": "Detroit's nighttime safety is limited to specific well-lit areas downtown and in midtown. Most other areas become significantly more dangerous after dark, and walking alone at night is strongly discouraged outside of main entertainment districts."
+        },
+        {
+          "q": "Is Detroit safe for solo female travelers?",
+          "a": "Solo female travel in Detroit requires extreme caution. While not impossible, many travel experts advise against it due to elevated crime rates. Women who do travel solo should stick to downtown/midtown, use rideshare services, and avoid nighttime exploration."
+        },
+        {
+          "q": "What areas should I avoid in Detroit?",
+          "a": "Avoid Delray, Brightmoor, and most areas east of downtown. Generally, areas far from the downtown core have higher crime rates. Research specific neighborhoods before visiting and stay in well-reviewed safe zones."
+        },
+        {
+          "q": "Is it safe to use public transport in Detroit?",
+          "a": "Public transportation has limited routes and variable safety depending on time and location. Rideshare services are strongly recommended over buses. The People Mover downtown is generally safe during operating hours."
+        }
+      ],
+      "relatedCities": [
+        "chicago",
+        "milwaukee",
+        "cleveland",
+        "buffalo",
+        "pittsburgh"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Detroit_Skyline_from_Windsor_2025-09-01.jpg/1280px-Detroit_Skyline_from_Windsor_2025-09-01.jpg"
+    },
+    {
+      "slug": "memphis",
+      "name": "Memphis",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 5.3,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 3.8,
+        "scamRisk": 6.2,
+        "womensSafety": 4.5,
+        "nightSafety": 4.2,
+        "transport": 6.5,
+        "naturalHazards": 7.1
+      },
+      "summary": "Memphis presents significant safety challenges with high crime rates, though the city has seen improvements since 2025 with violent crime decreasing. Tourist areas like downtown and Beale Street have increased police presence, but visitors should exercise caution, especially at night.",
+      "quickVerdict": "Memphis requires careful planning and awareness. While the city has made strides in reducing violent crime with homicides dropping from 399 in 2023 to 235 in 2025, it still ranks among US cities with elevated crime concerns. Downtown tourist areas are relatively safer with strong police presence, but avoiding certain neighborhoods and being vigilant at night is essential. The city offers excellent healthcare facilities and reasonable transportation options for visitors who take proper precautions.",
+      "neighborhoods": [
+        {
+          "name": "Downtown/Beale Street",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Main tourist area with increased police presence, safer during daytime visits to attractions but requires caution at night"
+        },
+        {
+          "name": "Midtown/Cooper-Young",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Trendy area with restaurants and nightlife, generally safer than other parts but still requires normal urban precautions"
+        },
+        {
+          "name": "Germantown",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Affluent suburb with low crime rates, well-maintained parks, and strong community policing - one of the safest areas"
+        },
+        {
+          "name": "East Memphis/Cordova",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Suburban area with lower crime rates, good for hotels and dining, considered safer for tourists"
+        },
+        {
+          "name": "South Memphis",
+          "score": 3.0,
+          "class": "danger",
+          "description": "Higher crime area that tourists should avoid, particularly after dark"
+        },
+        {
+          "name": "North Memphis/Frayser",
+          "score": 2.8,
+          "class": "danger",
+          "description": "Significantly elevated crime rates, not recommended for tourists, avoid especially at night"
+        }
+      ],
+      "scams": [
+        {
+          "name": "Ghost Booking Scams",
+          "risk": "high",
+          "description": "AI-generated fake travel websites that look identical to legitimate booking sites, taking payment for non-existent reservations",
+          "howToAvoid": "Always book directly through official hotel/airline websites or verified travel agents. Check URLs carefully for typos like 'booklng.com' instead of 'booking.com'"
+        },
+        {
+          "name": "Digital Arrest Scams",
+          "risk": "medium",
+          "description": "Scammers pose as customs or police officials using AI deepfakes claiming illegal items linked to your passport, demanding cryptocurrency payments",
+          "howToAvoid": "Real law enforcement never demands money over the phone or via cryptocurrency. Hang up and contact official agencies directly through verified numbers"
+        },
+        {
+          "name": "QR Code Quishing",
+          "risk": "medium",
+          "description": "Fake QR codes placed as stickers over real ones at tourist spots, leading to malicious websites that steal credit card information",
+          "howToAvoid": "Avoid scanning QR codes that look like stickers. Type restaurant/venue websites directly into your browser instead"
+        },
+        {
+          "name": "Overpriced Taxi Schemes",
+          "risk": "medium",
+          "description": "Unofficial taxi drivers targeting tourists with inflated rates, especially near hotels and attractions",
+          "howToAvoid": "Use official rideshare apps like Uber/Lyft or call licensed taxi companies. Avoid unmarked vehicles and always verify driver details match the app"
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Memphis requires heightened awareness and careful planning. While some travelers report positive experiences in tourist areas, the city presents elevated risks compared to other destinations. Staying in well-reviewed accommodations in safer neighborhoods like East Memphis or Germantown, avoiding isolated areas after dark, and using trusted transportation are essential precautions.",
+        "tips": [
+          "Stay in well-lit, central areas and use official rideshare services rather than walking alone at night",
+          "Book accommodations in safer neighborhoods like East Memphis, Germantown, or downtown near major hotels",
+          "Share your itinerary with trusted contacts and maintain regular check-ins",
+          "Be particularly cautious in nightlife areas and avoid excessive alcohol consumption",
+          "Trust your instincts and don't hesitate to leave situations that feel unsafe"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Memphis nighttime safety varies dramatically by location. Downtown and Beale Street have significant police presence but still require caution. The entertainment districts of Cooper-Young and Overton Square are relatively safer but close earlier than Beale Street. Many areas become significantly more dangerous after dark, with limited safe pedestrian access.",
+        "tips": [
+          "Stick to well-lit tourist areas like Beale Street where police presence is visible",
+          "Use rideshare services or taxis rather than walking between venues",
+          "Travel in groups when possible and avoid displaying valuables",
+          "Be aware that some venues in safer areas close earlier than downtown options",
+          "Consider ending nighttime activities before midnight and return to accommodations in safer neighborhoods"
+        ]
+      },
+      "transport": {
+        "metro": "MATA operates buses throughout Memphis but service can be unreliable with some routes cut due to budget issues. The trolley system serves downtown tourist areas and is generally safer than buses, though trolley service has been intermittent.",
+        "rideshare": "Uber and Lyft are widely available and generally the safest transportation option in Memphis. Always verify driver details match the app and use pickup zones at the airport. Both services have wheelchair accessible options.",
+        "taxis": "Licensed taxis are available but less common than rideshare services. Look for official yellow cabs with company logos. Taxi stands are available at Memphis International Airport.",
+        "tips": "Rideshare services are your safest bet for getting around Memphis. Avoid the bus system in unfamiliar areas and be cautious with unmarked vehicles offering rides."
+      },
+      "customs": [
+        "Tipping 18-20% at restaurants is standard, 15% minimum for acceptable service",
+        "Southern hospitality is common - polite greetings and small talk are appreciated",
+        "Dress codes may apply at upscale restaurants and some nightlife venues, casual dress acceptable most places"
+      ],
+      "health": {
+        "overview": "Memphis has excellent healthcare facilities including world-renowned institutions like St. Jude Children's Research Hospital and Methodist Le Bonheur Healthcare system. Multiple hospitals have received national recognition for quality care.",
+        "water": "Tap water is safe to drink throughout Memphis and meets all federal safety standards",
+        "vaccinations": "No special vaccinations required for domestic US travel. Standard travel insurance is recommended",
+        "altitude": "Memphis is at low elevation (300 feet) with no altitude concerns. Humid subtropical climate with hot summers and mild winters"
+      },
+      "emergency": {
+        "general": "911",
+        "police": "901-545-2677",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "Not applicable for domestic US travel - Memphis is located in Tennessee, United States"
+      },
+      "faq": [
+        {
+          "q": "Is Memphis safe for tourists?",
+          "a": "Memphis requires extra caution compared to many US destinations. Tourist areas like downtown and Beale Street have increased police presence and are relatively safer, but the city has elevated crime rates. Staying in good neighborhoods, being aware of surroundings, and avoiding certain areas after dark are important precautions."
+        },
+        {
+          "q": "Is Memphis safe at night?",
+          "a": "Nighttime safety in Memphis varies greatly by location. Beale Street and downtown have police presence but still require caution. Many areas become significantly more dangerous after dark. Using rideshare services, traveling in groups, and sticking to well-lit tourist areas are essential for nighttime activities."
+        },
+        {
+          "q": "Is Memphis safe for solo female travelers?",
+          "a": "Solo female travelers can visit Memphis safely with proper precautions. Stay in reputable accommodations in safer neighborhoods like East Memphis or Germantown, avoid isolated areas especially at night, use official transportation, and maintain situational awareness. Many solo travelers report positive experiences when following safety guidelines."
+        },
+        {
+          "q": "What areas should I avoid in Memphis?",
+          "a": "Avoid South Memphis, North Memphis, and Frayser areas, particularly after dark. These neighborhoods have significantly higher crime rates. Even in safer areas like downtown, be cautious when venturing away from main tourist zones and avoid walking alone at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Memphis?",
+          "a": "MATA buses and trolleys operate but have reliability issues. The downtown trolley serving tourist areas is generally safer than buses that travel through various neighborhoods. Rideshare services like Uber and Lyft are recommended as the safest transportation option for visitors."
+        }
+      ],
+      "relatedCities": [
+        "atlanta",
+        "nashville",
+        "new-orleans",
+        "birmingham",
+        "jackson"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skyline_of_Memphis%2C_TN.jpg/1280px-Skyline_of_Memphis%2C_TN.jpg"
+    },
+    {
+      "slug": "anchorage",
+      "name": "Anchorage",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 5.8,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.5,
+        "violentCrime": 3.5,
+        "scamRisk": 6.5,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.5,
+        "naturalHazards": 7.0
+      },
+      "summary": "Anchorage has one of the highest crime rates in America, with violent crime and property crime rates significantly above national averages. However, most tourist areas remain relatively safe with proper precautions, and the city offers excellent healthcare and reliable transportation infrastructure.",
+      "quickVerdict": "While Anchorage's crime statistics may appear alarming - ranking in the top 10% for violent crime nationally - tourists who stick to main attractions, downtown areas, and organized tours generally have safe experiences. The biggest risks are property crime and petty theft rather than violent encounters with tourists. Natural hazards like earthquakes and extreme weather pose greater concerns than street crime for most visitors.",
+      "neighborhoods": [
+        {
+          "name": "Downtown Anchorage",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Tourist-friendly area with good lighting, regular police patrols, and most major hotels and attractions. Generally safe during day and evening hours with standard urban precautions."
+        },
+        {
+          "name": "South Anchorage/Dimond",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Upscale residential area with lower crime rates and good infrastructure. Popular with families and considered one of the safest parts of the city."
+        },
+        {
+          "name": "Midtown Anchorage",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Mixed commercial and residential area with moderate crime levels. Generally safe during daylight but exercise caution at night, especially around bars and clubs."
+        },
+        {
+          "name": "Airport/Spenard",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Area near the airport with higher property crime rates. Hotels are generally secure but be cautious when walking outside in evening hours."
+        },
+        {
+          "name": "Mountain View",
+          "score": 3.2,
+          "class": "danger",
+          "description": "High-crime neighborhood with frequent reports of violent incidents and drug activity. Tourists should avoid this area entirely, especially at night."
+        },
+        {
+          "name": "Fairview",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Another high-crime area with elevated rates of assault and property crime. Not recommended for tourists and best avoided even during daytime."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fraudulent Tour Companies",
+          "risk": "high",
+          "description": "Scammers pose as legitimate tour operators, taking deposits for wildlife viewing, fishing trips, or glacier tours that never materialize. Some expired companies still advertise online.",
+          "howToAvoid": "Book only through established companies with physical locations, verify business licenses, read recent reviews on multiple platforms, and avoid deals that seem too good to be true."
+        },
+        {
+          "name": "Fake Native Art Sales",
+          "risk": "medium",
+          "description": "Street vendors and some shops sell counterfeit Alaska Native artwork and crafts, often at inflated tourist prices. This is actually illegal under federal law.",
+          "howToAvoid": "Purchase authentic items only from certified dealers, look for official authentication tags, shop at reputable galleries like the Alaska Native Heritage Center, and research fair market prices beforehand."
+        },
+        {
+          "name": "Overpriced Street Food/Souvenirs",
+          "risk": "medium",
+          "description": "Vendors near cruise ship ports and tourist areas charge excessive prices for basic items like reindeer sausage, t-shirts, and postcards targeting tourists who don't know local prices.",
+          "howToAvoid": "Compare prices at multiple locations, shop at local grocery stores for snacks, ask locals for recommendations, and don't feel pressured to buy immediately."
+        },
+        {
+          "name": "Government Impersonation Phone Scams",
+          "risk": "medium",
+          "description": "Scammers call claiming to be IRS agents, US Marshals, or other officials demanding immediate payment via cryptocurrency ATMs or gift cards to avoid arrest.",
+          "howToAvoid": "Never give personal information over unsolicited calls, hang up and call the agency directly using official numbers, government agencies don't demand immediate payment via Bitcoin or gift cards."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Anchorage is generally manageable with proper precautions, though Alaska has concerning rates of violence against women statewide. Most female travelers report feeling safe in tourist areas during daylight hours. The long summer days (up to 19 hours of daylight) work in favor of safety, while winter's extended darkness requires extra caution.",
+        "tips": [
+          "Stay in well-reviewed accommodations in downtown or south Anchorage areas",
+          "Use rideshare services or taxis rather than walking alone after dark, especially in winter",
+          "Join organized tours for wilderness activities rather than hiking alone",
+          "Keep someone informed of your daily plans and check in regularly",
+          "Avoid Spenard, Mountain View, and Fairview neighborhoods entirely",
+          "Trust your instincts and don't hesitate to leave situations that feel uncomfortable"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Anchorage nightlife centers around downtown bars and restaurants, which are generally safe with standard precautions. However, the city's high crime rates become more apparent after dark, particularly outside tourist zones. Winter's extended darkness (up to 19 hours) creates additional challenges, while summer's midnight sun provides natural safety benefits.",
+        "tips": [
+          "Stick to well-lit areas of downtown and midtown for evening entertainment",
+          "Use rideshare services or arrange transportation in advance rather than walking",
+          "Travel in groups when possible and avoid isolated areas after 10 PM",
+          "Be aware that bars serve until 3 AM and intoxicated individuals may pose risks",
+          "Avoid areas around the bus station and certain downtown parking areas late at night"
+        ]
+      },
+      "transport": {
+        "metro": "People Mover bus system covers major routes but has limited frequency (hourly for most routes) and doesn't serve major tourist attractions. Operates 6 AM to midnight weekdays, shorter weekend hours. Primarily designed for commuters rather than tourists.",
+        "rideshare": "Uber and Lyft operate throughout Anchorage with good availability in downtown and airport areas. However, service can be limited late at night, during winter storms, or in remote neighborhoods. Prices are reasonable for city travel but expensive for longer distances.",
+        "taxis": "Alaska Yellow Dispatch provides 24/7 taxi service throughout the greater Anchorage area, extending from Girdwood to Eklutna. Generally reliable but more expensive than rideshare options. Can provide specialized services like wheelchair accessibility or winter-equipped vehicles.",
+        "tips": "Rental car highly recommended for accessing attractions beyond the city center. Public transit adequate for downtown exploration but limited for tourist activities. Winter driving requires experience with snow/ice conditions or AWD/4WD vehicle."
+      },
+      "customs": [
+        "Tipping 18-20% at restaurants and bars is standard, 15-18% for other services",
+        "Dress warmly and in layers - weather can change rapidly and temperatures much colder than expected",
+        "Many locals are friendly and helpful, especially to tourists, but respect personal space",
+        "Alaska Native culture is significant - show respect when visiting cultural sites or purchasing art",
+        "Outdoor activities require serious preparation - inform others of your plans and expected return",
+        "Summer brings midnight sun with up to 19 hours of daylight, winter has extremely short days"
+      ],
+      "health": {
+        "overview": "Anchorage has excellent healthcare facilities including Alaska Regional Hospital, which ranks in the top 10% nationally for patient safety. However, healthcare costs are among the highest in the United States, about 47-50% above national averages. Emergency services are readily available throughout the city.",
+        "water": "Tap water is safe to drink throughout Anchorage and meets all federal safety standards. No special precautions needed.",
+        "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare protocols apply.",
+        "altitude": "Anchorage sits at low elevation (sea level to 200 feet) so altitude sickness is not a concern. However, the extreme northern latitude means significant seasonal variation in daylight which can affect some visitors' sleep patterns and mood."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) or 311 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US citizens should contact the nearest US Consulate if needed, or call the State Department's 24/7 emergency line at 202-501-4444 (from abroad) or 888-407-4747 (from within the US)"
+      },
+      "faq": [
+        {
+          "q": "Is Anchorage safe for tourists?",
+          "a": "Anchorage has high crime rates statistically, but tourists who stay in main tourist areas, use common sense precautions, and avoid certain neighborhoods generally have safe experiences. Most violent crime occurs between people who know each other rather than random tourist encounters."
+        },
+        {
+          "q": "Is Anchorage safe at night?",
+          "a": "Downtown Anchorage is reasonably safe at night with proper precautions, but the city's crime rates increase after dark. Use rideshare services, travel in groups, and stick to well-lit tourist areas. Summer's long daylight hours provide natural safety benefits."
+        },
+        {
+          "q": "Is Anchorage safe for solo female travelers?",
+          "a": "Solo female travelers can visit Anchorage safely with proper planning and precautions. Stay in good accommodations, use reliable transportation, join organized tours for outdoor activities, and avoid high-crime neighborhoods entirely. Many female travelers report positive experiences."
+        },
+        {
+          "q": "What areas should I avoid in Anchorage?",
+          "a": "Avoid Mountain View and Fairview neighborhoods entirely due to high violent crime rates. Exercise caution in Spenard area, especially at night. Some downtown areas near the bus station can be problematic late at night. Stick to tourist areas and well-traveled routes."
+        },
+        {
+          "q": "Is it safe to use public transport in Anchorage?",
+          "a": "The People Mover bus system is generally safe during daytime hours and serves as a basic way to get around the city. However, it has limited routes and frequency, and doesn't reach many tourist attractions. Rideshare services or rental cars are more practical for most visitors."
+        }
+      ],
+      "relatedCities": [
+        "seattle",
+        "vancouver",
+        "fairbanks",
+        "juneau"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg/1280px-Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg"
+    },
+    {
+      "slug": "montreal",
+      "name": "Montreal",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 7.2,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.5,
+        "scamRisk": 6.8,
+        "womensSafety": 7.8,
+        "nightSafety": 6.8,
+        "transport": 7.0,
+        "naturalHazards": 8.0
+      },
+      "summary": "Montreal is one of Canada's safest major cities, with low violent crime rates and excellent emergency services. While petty crime like break-ins has increased recently, most visitors enjoy a secure experience. The city's well-developed infrastructure and friendly culture make it particularly welcoming for solo travelers and women.",
+      "quickVerdict": "Montreal offers a generally safe environment for tourists, ranking among North America's safer major cities. The biggest concerns are property crimes like break-ins concentrated in specific neighborhoods, and seasonal challenges like harsh winters. The city's excellent public transport, strong police presence, and welcoming culture create a secure atmosphere for most visitors. Healthcare is top-quality, and emergency services are reliable and bilingual.",
+      "neighborhoods": [
+        {
+          "name": "Old Montreal & Old Port",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Tourist-friendly historic district with heavy security presence, well-lit streets, and constant foot traffic. Popular with visitors day and night with upscale dining and entertainment."
+        },
+        {
+          "name": "Downtown & Quartier des Spectacles",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Business and entertainment district with good lighting and regular police patrols. Safe during business hours and evening entertainment, though avoid isolated areas late at night."
+        },
+        {
+          "name": "Plateau Mont-Royal",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Trendy residential neighborhood popular with young professionals. Generally safe with active street life, though use caution in some areas late at night."
+        },
+        {
+          "name": "Westmount & Notre-Dame-de-Grace",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Upscale residential areas with low crime rates. Well-maintained streets and good lighting make these among Montreal's safest neighborhoods."
+        },
+        {
+          "name": "Ville-Marie East & Hochelaga-Maisonneuve",
+          "score": 5.5,
+          "class": "caution",
+          "description": "Areas experiencing higher rates of break-ins and property crime. Exercise additional caution, especially at night, and avoid displaying valuables."
+        },
+        {
+          "name": "Montreal-Nord",
+          "score": 4.8,
+          "class": "danger",
+          "description": "Higher crime rates including break-ins and some violent incidents. Tourists should exercise heightened caution and avoid unnecessary visits, especially after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Grandparent Phone Scam",
+          "risk": "high",
+          "description": "Scammers call claiming to be grandchildren in trouble needing money immediately. Montreal was home to a major international grandparent scam network.",
+          "howToAvoid": "Verify caller identity by asking personal questions only real family would know. Never send money without confirming the emergency through other family members."
+        },
+        {
+          "name": "ATM Card Fraud (GUICH)",
+          "risk": "medium",
+          "description": "Scammers approach young people offering quick cash in exchange for bank card access or personal information for fraudulent transactions.",
+          "howToAvoid": "Never give your bank card, PIN, or banking information to anyone. Be suspicious of get-rich-quick offers, especially on social media."
+        },
+        {
+          "name": "Phishing and Identity Theft",
+          "risk": "medium",
+          "description": "Fake emails and messages claiming to be from banks, government, or other organizations requesting personal information.",
+          "howToAvoid": "Never click links or provide personal information via email or text. Contact organizations directly using official numbers to verify requests."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "low",
+          "description": "Some taxi drivers may take longer routes, not use the meter, or overcharge tourists unfamiliar with the city.",
+          "howToAvoid": "Use official taxis or rideshare apps like Uber. Confirm the fare or request the meter be used before starting your trip."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Montreal is excellent for solo female travelers, ranking as one of Canada's safest major cities for women. The city has a strong culture of gender equality, well-lit streets, reliable public transport, and helpful locals. Most female travelers report feeling comfortable walking alone during the day and in busy areas at night.",
+        "tips": [
+          "Stay in well-populated areas like Old Montreal, Downtown, or Plateau after dark",
+          "Use the metro's text reporting service (1-888-786-1119) if you feel unsafe",
+          "Trust your instincts - locals are generally helpful if you need assistance or directions"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Montreal has a vibrant nightlife scene that's generally safe, though normal urban precautions apply. The city stays lively until 3 AM with good police presence in entertainment districts. Most nightlife areas are well-lit with regular foot traffic and security personnel.",
+        "tips": [
+          "Stick to main entertainment areas like Crescent Street, Old Montreal, or Saint-Laurent Boulevard",
+          "Use Uber or official taxis rather than walking alone late at night",
+          "Avoid isolated areas and empty metro stations after midnight"
+        ]
+      },
+      "transport": {
+        "metro": "The STM metro system is generally safe but has experienced increased safety concerns recently. Special constables and safety ambassadors patrol stations, and a text reporting service is available for non-urgent issues. Avoid traveling alone after midnight.",
+        "rideshare": "Uber and other rideshare services operate reliably throughout Montreal and are considered safe. They're recommended over walking alone late at night and provide GPS tracking for added security.",
+        "taxis": "Official taxis are safe and regulated. Look for proper licensing and use meter or confirm fare beforehand. Some drivers may attempt to overcharge tourists, so use reputable companies or rideshare apps.",
+        "tips": "The metro has assistance stations on every platform with direct communication to staff. Stay alert in the metro system and report concerns via text to 1-888-786-1119."
+      },
+      "customs": [
+        "Tip 15-20% at restaurants, 10-15% for taxis and other services - tipping is expected and part of workers' income",
+        "Canadians are famously polite - say please, thank you, and sorry frequently. Queue orderly and don't cut in line",
+        "Remove shoes when entering someone's home unless told otherwise. Punctuality is highly valued"
+      ],
+      "health": {
+        "overview": "Montreal has excellent healthcare with world-class hospitals and medical facilities. Canada's universal healthcare system provides emergency care to visitors, though travel insurance is recommended for comprehensive coverage.",
+        "water": "Tap water is safe to drink throughout Montreal and meets high Canadian standards. No need to buy bottled water.",
+        "vaccinations": "No special vaccinations required for Montreal. Standard travel vaccinations (hepatitis A/B, routine vaccines) are recommended as usual.",
+        "altitude": "Montreal is at low altitude with no altitude-related health concerns. Winters are harsh with temperatures often below -10°C, requiring proper cold-weather preparation."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or 514-280-2222 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Consulate General Montreal: 1155 Saint-Alexandre Street, Montreal, QC H2Z 1Z2. Tel: 514-398-9695. For emergencies: 1-888-407-4747"
+      },
+      "faq": [
+        {
+          "q": "Is Montreal safe for tourists?",
+          "a": "Yes, Montreal is very safe for tourists and ranks among North America's safest major cities. Exercise normal urban precautions and be aware of recent increases in property crime in certain areas."
+        },
+        {
+          "q": "Is Montreal safe at night?",
+          "a": "Montreal's nightlife areas are generally safe with good lighting and police presence. Stick to busy entertainment districts and use transportation rather than walking alone in empty areas after midnight."
+        },
+        {
+          "q": "Is Montreal safe for solo female travelers?",
+          "a": "Montreal is excellent for solo female travelers with low crime rates, gender equality culture, and helpful locals. Most women feel comfortable exploring the city independently during the day and in populated areas at night."
+        },
+        {
+          "q": "What areas should I avoid in Montreal?",
+          "a": "Avoid Montreal-Nord and be cautious in parts of Ville-Marie East and Hochelaga-Maisonneuve, especially at night. These areas have higher rates of break-ins and property crime."
+        },
+        {
+          "q": "Is it safe to use public transport in Montreal?",
+          "a": "Yes, Montreal's metro and bus system are generally safe with security personnel and safety measures. Recent concerns have led to increased police presence. Avoid traveling alone on the metro after midnight."
+        }
+      ],
+      "relatedCities": [
+        "toronto",
+        "quebec-city",
+        "ottawa",
+        "vancouver",
+        "calgary"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mtl_from_mont_royal_%28cropped%29.jpg/1280px-Mtl_from_mont_royal_%28cropped%29.jpg"
+    },
+    {
+      "slug": "quebec-city",
+      "name": "Quebec City",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 8.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.0,
+        "scamRisk": 8.0,
+        "womensSafety": 9.2,
+        "nightSafety": 8.5,
+        "transport": 8.5,
+        "naturalHazards": 7.2
+      },
+      "summary": "Quebec City consistently ranks among the safest cities in North America, with exceptionally low crime rates and a strong safety infrastructure. The historic city offers excellent security for tourists, with well-lit cobblestone streets and helpful locals creating a welcoming atmosphere.",
+      "quickVerdict": "Quebec City is remarkably safe for tourists, ranking as one of Canada's safest urban destinations with minimal violent crime and excellent emergency services. While winter weather can pose challenges and some minor tourist scams exist, the city's robust safety record makes it ideal for all types of travelers including solo women. The main precautions involve standard urban awareness and winter weather preparation.",
+      "neighborhoods": [
+        {
+          "name": "Old Quebec (Vieux-Québec)",
+          "score": 9.0,
+          "class": "safe",
+          "description": "UNESCO World Heritage site with excellent lighting, frequent police patrols, and heavy tourist presence. The cobblestone streets and historic ramparts create natural security barriers while maintaining high visibility."
+        },
+        {
+          "name": "Petit-Champlain",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Charming Lower Town district with excellent foot traffic during day and evening hours. Well-maintained tourist area with good lighting and regular security presence from local businesses."
+        },
+        {
+          "name": "Grande Allée",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Main nightlife district with active bar scene. Generally safe but can get rowdy late at night on weekends. Police presence is strong and venues have security, though increased caution advised after midnight."
+        },
+        {
+          "name": "Saint-Roch",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Hip neighborhood undergoing gentrification with trendy restaurants and galleries. Safe during day and early evening, but some quieter streets may feel isolated late at night."
+        },
+        {
+          "name": "Saint-Jean-Baptiste",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Bohemian district known for LGBTQ+ friendly atmosphere. Generally safe with good community spirit, though some areas can be quieter at night. Strong local community watch presence."
+        },
+        {
+          "name": "Limoilou",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Residential area with fewer tourists and amenities. While not dangerous, it lacks the security infrastructure of central districts and can feel isolated for visitors unfamiliar with the area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Restaurant Bills",
+          "risk": "medium",
+          "description": "Some tourist-focused restaurants may inflate prices or add unexpected charges, particularly around major attractions. Bills may include automatic gratuities not clearly disclosed.",
+          "howToAvoid": "Check menus and prices before ordering, confirm tipping policies, and ask for itemized bills. Research restaurant reviews online beforehand."
+        },
+        {
+          "name": "Fake Tour Guides",
+          "risk": "low",
+          "description": "Unofficial guides may approach tourists offering tours at inflated prices or lead visitors to overpriced shops where they receive commissions.",
+          "howToAvoid": "Book tours through official tourist offices or reputable companies. Ask for credentials and never pay large sums upfront."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "low",
+          "description": "Some taxi drivers may take longer routes or claim meters are broken to charge flat rates higher than actual fares, particularly from airport or train station.",
+          "howToAvoid": "Use official taxi companies, insist on meter usage, or use rideshare apps like Uber. Know approximate distances and costs beforehand."
+        },
+        {
+          "name": "Seasonal Accommodation Scams",
+          "risk": "medium",
+          "description": "During peak tourist seasons like Winter Carnival, fake accommodation listings or significant price gouging may occur, especially through unofficial booking sites.",
+          "howToAvoid": "Book through verified platforms, check property reviews, and avoid deals that seem too good to be true. Confirm bookings directly with hotels."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Quebec City is exceptionally safe for solo female travelers, ranking as the second safest place in Canada for women traveling alone. The city has extremely low rates of violent crime and harassment, with locals known for their politeness and helpfulness. Most women report feeling comfortable walking alone both day and night, though standard precautions apply in quieter areas after dark.",
+        "tips": [
+          "The city is very walkable with well-lit streets, making solo exploration comfortable even in the evening",
+          "Locals are generally helpful and many speak English, making it easy to ask for directions or assistance",
+          "Book accommodations in central areas like Old Quebec or near Grande Allée for best access to attractions and safety",
+          "Be aware that bars like Le Dagobert have had reports of drink tampering, so watch drinks carefully if visiting nightlife venues",
+          "Winter conditions can make walking challenging, so pack appropriate footwear and consider using public transit or taxis during harsh weather"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Quebec City maintains excellent night safety with well-lit historic streets and active nightlife areas that remain busy until late. The city's low crime rate extends into evening hours, though some residential neighborhoods outside the tourist core may feel quieter. Most visitors feel safe walking at night, particularly in central areas.",
+        "tips": [
+          "Stick to main streets and well-lit areas, especially the tourist districts which have excellent lighting and foot traffic",
+          "Grande Allée nightlife district is generally safe but can get rowdy on weekend nights after midnight",
+          "Use official taxis or rideshare apps rather than walking long distances in winter conditions",
+          "Be cautious with drinks in busy nightlife venues and never leave them unattended",
+          "Tourist areas like Old Quebec remain safe and beautiful for evening strolls, with many couples and families out until late"
+        ]
+      },
+      "transport": {
+        "metro": "Quebec City does not have a metro system but operates an efficient bus network (RTC) that covers most tourist areas and suburbs. Buses are clean, safe, and run frequently with real-time tracking available through the RTC Nomade app. A tramway system is under construction and scheduled to open in 2028.",
+        "rideshare": "Uber operates throughout Quebec City and is considered safe and reliable. Local alternatives include Eva taxi service and traditional taxi companies like Taxi Coop which can be booked via app. Rideshare services offer upfront pricing and are often preferred over traditional taxis.",
+        "taxis": "Official taxis are regulated and generally safe, though some drivers may attempt longer routes or claim broken meters. Use established companies and insist on meter usage. Taxi Coop offers an app-based booking system for easier service.",
+        "tips": "Public transit is very safe even at night, and many hotels offer free transit passes. Walking is often the best option in Old Quebec due to its compact size, but be prepared for hills and winter conditions."
+      },
+      "customs": [
+        "Canadians are extremely polite - saying please, thank you, and sorry frequently is expected and appreciated",
+        "In Quebec, making an effort to speak French is highly valued, even basic phrases like bonjour and merci will be warmly received",
+        "Tipping 15-18% at restaurants is standard, and many payment machines now offer automatic tip options"
+      ],
+      "health": {
+        "overview": "Quebec City has excellent healthcare facilities with several major hospitals and walk-in clinics. The healthcare system operates under Quebec's RAMQ program, though tourists must pay for services. Emergency care is available 24/7 and medical professionals generally speak both French and English.",
+        "water": "Tap water is completely safe to drink throughout Quebec City and meets all international safety standards. No special precautions needed.",
+        "vaccinations": "No special vaccinations required for Quebec City. Standard travel insurance is recommended to cover medical expenses as healthcare is not free for tourists.",
+        "altitude": "Quebec City is at sea level with no altitude concerns. The main health consideration is winter weather - temperatures can drop well below freezing with significant snow and ice from December through March."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (Emergency) / 418-641-2447 (Non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US citizens should contact the US Consulate General in Quebec City at 418-692-2095, or the US Embassy in Ottawa at 613-688-5335 for major emergencies. The 24/7 State Department number is 1-202-501-4444 from abroad."
+      },
+      "faq": [
+        {
+          "q": "Is Quebec City safe for tourists?",
+          "a": "Yes, Quebec City is extremely safe for tourists and ranks among the safest cities in North America. It has very low crime rates, excellent emergency services, and a strong tourist infrastructure with helpful locals and well-maintained attractions."
+        },
+        {
+          "q": "Is Quebec City safe at night?",
+          "a": "Quebec City is very safe at night, especially in tourist areas like Old Quebec and Grande Allée which remain well-lit and active until late. The historic streets are particularly beautiful for evening walks, though standard urban precautions apply in quieter residential areas."
+        },
+        {
+          "q": "Is Quebec City safe for solo female travelers?",
+          "a": "Absolutely - Quebec City ranks as the second safest destination in Canada for solo female travelers. Women report feeling very comfortable walking alone both day and night, with helpful locals and extremely low rates of harassment or violent crime."
+        },
+        {
+          "q": "What areas should I avoid in Quebec City?",
+          "a": "There are no truly dangerous areas in Quebec City, but some outer residential neighborhoods like Limoilou may feel less secure for tourists due to fewer amenities and lighting. The city center and all major tourist areas are very safe."
+        },
+        {
+          "q": "Is it safe to use public transport in Quebec City?",
+          "a": "Yes, public transportation in Quebec City is very safe, clean, and reliable. The RTC bus system operates safely even at night, and many visitors use it without any concerns. The upcoming tramway system will further improve transport safety and convenience."
+        }
+      ],
+      "relatedCities": [
+        "montreal",
+        "toronto",
+        "vancouver"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Quebec_City_Rue_St-Louis_2010.jpg/1280px-Quebec_City_Rue_St-Louis_2010.jpg"
+    },
+    {
+      "slug": "banff",
+      "name": "Banff",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 8.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 9.0,
+        "violentCrime": 9.2,
+        "scamRisk": 8.5,
+        "womensSafety": 9.1,
+        "nightSafety": 8.8,
+        "transport": 9.0,
+        "naturalHazards": 7.3
+      },
+      "summary": "Banff is an exceptionally safe mountain town with extremely low crime rates and excellent safety infrastructure. The main risks come from natural hazards like wildfires and wildlife encounters rather than crime.",
+      "quickVerdict": "Banff stands out as one of Canada's safest tourist destinations with crime rates significantly below national averages. Visitors can feel secure walking around day or night, and the town maintains excellent emergency services. The primary safety considerations involve natural hazards typical of mountain environments, including potential wildfire risks and wildlife encounters. The well-developed tourism infrastructure and active emergency planning make this an ideal destination for all types of travelers.",
+      "neighborhoods": [
+        {
+          "name": "Downtown Banff Avenue",
+          "score": 9.5,
+          "class": "safe",
+          "description": "The tourist heart of Banff with constant foot traffic, excellent lighting, and regular police patrols. Hotels, restaurants, and shops create a vibrant, secure atmosphere day and night."
+        },
+        {
+          "name": "Bow River Area",
+          "score": 8.8,
+          "class": "safe",
+          "description": "Popular walking and recreational area along the river with well-maintained trails and good visibility. Generally safe but exercise normal caution near water and during wildlife encounters."
+        },
+        {
+          "name": "Tunnel Mountain",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Residential and campground area with good access to town. Well-patrolled by Parks Canada and RCMP, though more isolated than downtown areas."
+        },
+        {
+          "name": "Banff Springs Hotel Area",
+          "score": 9.2,
+          "class": "safe",
+          "description": "Upscale hotel district with premium security and well-lit grounds. Excellent safety record with hotel security and proximity to emergency services."
+        },
+        {
+          "name": "Industrial/Railway Area",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Less tourist-oriented area with train station parking. Generally safe but less foot traffic and lighting than central areas. Suitable for parking and transit connections."
+        },
+        {
+          "name": "Sulphur Mountain Base",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Tourist area around Banff Gondola with seasonal crowds and good facilities. Safe during operating hours but can be isolated during off-season or bad weather."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Grandparent Scam",
+          "risk": "medium",
+          "description": "Scammers target elderly residents by phone, claiming to be grandchildren in legal trouble who need immediate cash. Some cases involve in-person collection at homes.",
+          "howToAvoid": "Never provide money to unexpected callers claiming family emergencies. Always verify by calling family members directly on known numbers. Government agencies never request payment over the phone."
+        },
+        {
+          "name": "Fake Government Agency Calls",
+          "risk": "medium",
+          "description": "Fraudsters pose as representatives from Service Canada, Revenue Agency, Immigration, or Border Services, demanding personal information or immediate payment for fake issues.",
+          "howToAvoid": "Government agencies never request personal information or payments via phone or email. Always hang up and call official numbers directly to verify any claims."
+        },
+        {
+          "name": "Counterfeit Currency Exchange",
+          "risk": "low",
+          "description": "Unauthorized vendors may offer better exchange rates than official sources but provide counterfeit bills or incorrect calculations.",
+          "howToAvoid": "Only exchange money at official banks, authorized exchange bureaus, or hotels. Avoid street vendors offering currency exchange services."
+        },
+        {
+          "name": "Fake Tour Services",
+          "risk": "low",
+          "description": "Unlicensed tour operators may offer bargain prices for outdoor activities but lack proper insurance, safety equipment, or permits.",
+          "howToAvoid": "Book tours only through licensed operators with proper permits. Check reviews and verify business licenses. Be wary of deals that seem too good to be true."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Banff is exceptionally safe for solo female travelers and consistently ranks as one of the world's safest destinations for women traveling alone. The town has extremely low rates of street harassment, violent crime, and theft. Solo female travelers report feeling completely comfortable walking around day and night, with many describing Banff as feeling like one of the safest places they've visited.",
+        "tips": [
+          "Join organized hiking groups or tours when exploring backcountry areas for added safety and social connection",
+          "Stay at hostels like Samesun Banff which offer female-only floors and social atmospheres for meeting other travelers",
+          "Inform others of your hiking plans and stick to popular, well-marked trails during your first visits",
+          "Take advantage of Banff's excellent public transit system to avoid driving alone on mountain roads"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Banff's nightlife scene is safe and well-regulated, with venues required to follow strict noise and capacity regulations due to the national park location. The compact downtown area keeps bars and restaurants within walking distance, and streets are well-lit with regular police presence. The nightlife tends to be more laid-back than major cities, focusing on pubs, lounges, and seasonal outdoor activities.",
+        "tips": [
+          "Stick to the main Banff Avenue area where most nightlife venues are concentrated and well-patrolled",
+          "Use designated drivers or Roam public transit rather than walking long distances in winter weather",
+          "Be aware that some venues may have seasonal closures or reduced hours outside peak tourist periods",
+          "Join group activities like night skiing at Mt. Norquay or evening gondola experiences for safe nighttime entertainment"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system. Banff relies on the comprehensive Roam Public Transit bus system which connects the town, major attractions, and surrounding areas including Lake Louise and Canmore.",
+        "rideshare": "Limited rideshare options. Traditional taxis are available but may have longer wait times during peak seasons. Many hotels offer free shuttle services to major attractions.",
+        "taxis": "Licensed taxis operate throughout Banff with standard metered rates. Generally safe and reliable, though availability can be limited during busy periods. Tip 10-15% of the fare.",
+        "tips": "Roam Public Transit is the most reliable and environmentally friendly way to get around. Many attractions offer free transit with ticket purchases. Walking and cycling are popular and safe options within the compact townsite."
+      },
+      "customs": [
+        "Tipping is expected in restaurants (15-20%), bars, taxis, and personal services - it's considered rude to not tip for good service",
+        "Canadians are known for saying 'please', 'thank you', and 'sorry' frequently - politeness and humility are highly valued cultural traits",
+        "Remove shoes when entering someone's home unless specifically told otherwise, especially important in winter weather conditions"
+      ],
+      "health": {
+        "overview": "Banff has excellent healthcare facilities with the Mineral Springs Hospital providing 24/7 emergency services, specialized orthopedic and plastic surgery, and advanced life support ambulances. The hospital serves both residents and the millions of annual visitors to the national park.",
+        "water": "Tap water is completely safe to drink and meets high Canadian standards. Bottled water is unnecessary but widely available.",
+        "vaccinations": "No special vaccinations required for Canada. Routine vaccinations should be up to date. Travel insurance is recommended for non-Canadian residents.",
+        "altitude": "Banff sits at 1,383 meters (4,537 feet) elevation. Some visitors may experience mild altitude effects initially. Take first day easy to acclimatize, especially if coming from sea level."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or RCMP non-emergency: 403-762-2226",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "U.S. Consulate General Calgary: 403-266-8962. For emergencies involving U.S. citizens: 1-888-407-4747 (from U.S. and Canada) or 202-501-4444 (from abroad)."
+      },
+      "faq": [
+        {
+          "q": "Is Banff safe for tourists?",
+          "a": "Yes, Banff is extremely safe for tourists with very low crime rates and excellent emergency services. It consistently ranks as one of Canada's safest destinations with comprehensive safety infrastructure."
+        },
+        {
+          "q": "Is Banff safe at night?",
+          "a": "Banff is very safe at night with well-lit streets, regular police patrols, and a compact downtown area. The main precautions involve winter weather conditions and wildlife awareness rather than crime."
+        },
+        {
+          "q": "Is Banff safe for solo female travelers?",
+          "a": "Absolutely. Solo female travelers consistently report feeling completely safe in Banff day and night. The town has minimal street harassment and excellent support systems for independent travelers."
+        },
+        {
+          "q": "What areas should I avoid in Banff?",
+          "a": "There are no particular areas to avoid from a crime perspective. The main considerations are natural hazards - avoid unmarked trails, respect wildlife viewing distances, and check weather/wildfire conditions before outdoor activities."
+        },
+        {
+          "q": "Is it safe to use public transport in Banff?",
+          "a": "Yes, Roam Public Transit is very safe, reliable, and well-maintained. Buses connect all major attractions and are the preferred transportation method for both residents and visitors. Service operates year-round with professional drivers."
+        }
+      ],
+      "relatedCities": [
+        "calgary",
+        "vancouver",
+        "toronto",
+        "montreal"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Town_of_Banff_viewed_from_Sulphur_Mountain.jpg/1280px-Town_of_Banff_viewed_from_Sulphur_Mountain.jpg"
+    },
+    {
+      "slug": "ottawa",
+      "name": "Ottawa",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "North America",
+      "regionSlug": "north-america",
+      "lastUpdated": "2026-03-18",
+      "overallScore": 7.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.5,
+        "scamRisk": 6.5,
+        "womensSafety": 8.2,
+        "nightSafety": 7.8,
+        "transport": 7.9,
+        "naturalHazards": 7.8
+      },
+      "summary": "Ottawa stands out as one of Canada's safest cities and was recently ranked as the safest major city in Canada for violent crime. As the national capital, it maintains excellent security infrastructure and benefits from low crime rates typical of Canadian urban centers. The city offers a particularly welcoming environment for solo female travelers and maintains good safety standards both day and night.",
+      "quickVerdict": "Ottawa presents an excellent safety profile for tourists, ranking as Canada's safest major city. While overall crime rates have increased slightly in recent years, violent crime remains very low and the city maintains strong safety infrastructure. Visitors can expect a generally secure environment with friendly locals, reliable public transportation, and well-lit, walkable neighborhoods. Standard urban precautions apply, particularly regarding petty crime in busy areas, but Ottawa's reputation for politeness and orderliness extends to its approach to public safety.",
+      "neighborhoods": [
+        {
+          "name": "Parliament Hill/Downtown Core",
+          "score": 8.0,
+          "class": "safe",
+          "description": "The heart of Canada's government with heavy security presence, well-lit streets, and constant foot traffic. Tourist police patrol regularly and the area is monitored extensively. Safe during both day and night hours."
+        },
+        {
+          "name": "ByWard Market",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Historic market district with vibrant nightlife and dining scene. Well-patrolled and busy area with good lighting. Some late-night activity means occasional minor incidents but generally very safe for tourists exploring restaurants and bars."
+        },
+        {
+          "name": "The Glebe",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Upscale residential neighborhood popular with locals and visitors. Excellent walkability, low crime rates, and family-friendly atmosphere. Bank Street offers shopping and dining with strong safety record."
+        },
+        {
+          "name": "Westboro",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Trendy, affluent area along the Ottawa River with excellent safety ratings. Popular for its restaurants, shops, and riverside paths. Very low crime rates and well-maintained public spaces make it ideal for all travelers."
+        },
+        {
+          "name": "Hintonburg",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Gentrifying neighborhood with growing arts and food scene. Generally safe with improving infrastructure and increasing foot traffic. Some areas still developing but overall secure for visitors during normal hours."
+        },
+        {
+          "name": "Vanier",
+          "score": 6.2,
+          "class": "caution",
+          "description": "Working-class area east of downtown with higher crime rates than other Ottawa neighborhoods. While not dangerous, visitors should exercise normal urban caution, particularly at night. Some social issues present but improvements ongoing."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Government Agency Calls",
+          "risk": "medium",
+          "description": "Scammers impersonate Revenue Canada, immigration officials, or Service Canada claiming urgent issues requiring immediate payment or personal information. Particularly targets newcomers and tourists.",
+          "howToAvoid": "Government agencies never demand immediate payment over phone. Hang up and call official numbers directly. Be especially wary of threats of arrest or deportation."
+        },
+        {
+          "name": "Credit Card Skimming",
+          "risk": "medium",
+          "description": "Devices installed on ATMs and payment terminals to steal card information, particularly at tourist areas, gas stations, and busy locations around the city.",
+          "howToAvoid": "Use ATMs inside banks when possible. Check for anything unusual on card readers. Cover your PIN when entering. Monitor bank statements regularly."
+        },
+        {
+          "name": "Overpriced Taxi Rides",
+          "risk": "low",
+          "description": "Some taxi drivers may take longer routes or claim meters are broken to charge higher fares, especially from airports or to tourists unfamiliar with the city.",
+          "howToAvoid": "Use ride-sharing apps like Uber or Lyft for transparent pricing. Ask for estimated fare upfront. Request the meter be used and know approximate distances to your destination."
+        },
+        {
+          "name": "Fake Event Tickets",
+          "risk": "low",
+          "description": "Counterfeit tickets sold for Ottawa events, particularly during festivals, hockey games, or Parliament tours, often through unofficial sellers or too-good-to-be-true online deals.",
+          "howToAvoid": "Buy tickets only from official venues, authorized sellers, or reputable platforms. Be suspicious of significantly discounted prices or last-minute deals from strangers."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Ottawa is exceptionally safe for solo female travelers, ranking among the world's best destinations for women traveling alone. The city consistently scores high on safety indices and maintains a culture of respect and politeness. Public transportation is reliable and safe, streets are well-lit, and locals are generally helpful. The downtown core and tourist areas have good security presence, while the ByWard Market offers vibrant nightlife that remains accessible to solo women.",
+        "tips": [
+          "Take advantage of Ottawa's excellent public transit system including the O-Train which runs late and has CCTV monitoring",
+          "ByWard Market nightlife is generally safe but stick to well-lit, busy streets when walking alone at night",
+          "Canadian culture emphasizes politeness and respect - don't hesitate to ask locals for directions or assistance",
+          "Winter conditions can affect walkability - ensure proper footwear and be extra cautious on icy sidewalks",
+          "The city's 'TransSecure' areas at transit stations provide well-lit safe zones with emergency phones"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Ottawa maintains good safety standards after dark, particularly in tourist and downtown areas. The city's nightlife scene is concentrated in safe, well-patrolled areas like ByWard Market and Elgin Street. Street lighting is generally excellent, and the friendly local culture extends to nighttime interactions. Public transit operates late with safety measures in place, though some caution is advised in quieter residential areas or when walking alone very late at night.",
+        "tips": [
+          "Stick to main streets and well-lit areas, especially the downtown core and ByWard Market district",
+          "Use OC Transpo's 'Night Stop' service at major transit stations which provides safer, well-lit waiting areas after 9 PM",
+          "The Rideau Canal area offers pleasant evening walks but stay on main pathways and avoid isolated sections",
+          "Canadian closing times are typically 2 AM - plan your route home in advance or use ride-sharing services",
+          "Take advantage of Ottawa's '311' service for non-emergency assistance and city information"
+        ]
+      },
+      "transport": {
+        "metro": "Ottawa's O-Train light rail system is modern, safe, and reliable with CCTV monitoring, emergency intercoms, and Special Constables patrolling 24/7. The Confederation Line connects key tourist areas and is fully accessible. However, the system has experienced some reliability issues since opening.",
+        "rideshare": "Uber and Lyft operate throughout Ottawa with good coverage and transparent pricing. These services are particularly useful for airport transfers and late-night transportation. Canadian rideshare regulations ensure driver background checks and vehicle safety standards.",
+        "taxis": "Traditional taxis are regulated and generally safe, though some visitors report longer routes or meter issues. Official taxi companies are reliable, but be sure to use licensed vehicles with proper identification and working meters.",
+        "tips": "OC Transpo buses complement the light rail system and offer extensive coverage. The Presto card works for all public transit. Winter weather can affect schedules, so check real-time updates via the Transit app or website. Special Constables patrol the transit system and can be contacted at 613-741-2478."
+      },
+      "customs": [
+        "Canadians are famously polite - saying 'please', 'thank you', 'sorry', and 'excuse me' is expected in all interactions",
+        "Remove shoes when entering someone's home unless specifically told otherwise",
+        "Tipping 15-20% is standard at restaurants and bars, 10-15% for other services like taxis and hairdressers",
+        "Respect personal space and avoid overly personal questions with people you don't know well",
+        "Punctuality is highly valued - arrive on time or slightly early for appointments and social gatherings",
+        "Canadians value queuing/lining up properly - cutting in line is considered very rude"
+      ],
+      "health": {
+        "overview": "Canada has an excellent healthcare system and Ottawa offers world-class medical facilities. Visitors have access to emergency services through hospitals and walk-in clinics, though costs can be high for non-residents without travel insurance.",
+        "water": "Tap water in Ottawa is completely safe to drink and meets high quality standards. Bottled water is unnecessary from a safety standpoint.",
+        "vaccinations": "No special vaccinations required for Ottawa. Standard travel vaccines (routine immunizations) should be up to date. COVID-19 requirements may apply depending on current regulations.",
+        "altitude": "Ottawa sits at low elevation with no altitude concerns. The city experiences a continental climate with cold winters (temperatures can drop to -10°C to -30°C) and warm summers. Visitors should prepare for seasonal weather extremes and potential for ice storms."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 (emergency) / 613-236-1222 (non-emergency)",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Ottawa: 490 Sussex Drive, Ottawa, ON K1N 1G8. Emergency American Citizens Services: 613-688-5335. Regular consular services: 613-688-5335."
+      },
+      "faq": [
+        {
+          "q": "Is Ottawa safe for tourists?",
+          "a": "Yes, Ottawa is very safe for tourists. It's ranked as Canada's safest major city and maintains excellent safety infrastructure as the national capital. Crime rates are low, locals are friendly and helpful, and tourist areas are well-patrolled and monitored."
+        },
+        {
+          "q": "Is Ottawa safe at night?",
+          "a": "Ottawa is generally safe at night, especially in tourist areas like downtown, Parliament Hill, and ByWard Market. These areas are well-lit with good foot traffic and security presence. Use normal urban precautions and stick to main streets when walking alone late at night."
+        },
+        {
+          "q": "Is Ottawa safe for solo female travelers?",
+          "a": "Ottawa is exceptionally safe for solo female travelers and consistently ranks among the world's best destinations for women traveling alone. The city's culture of politeness and respect, combined with reliable public transport and well-lit streets, creates a very welcoming environment."
+        },
+        {
+          "q": "What areas should I avoid in Ottawa?",
+          "a": "Ottawa has very few areas to avoid, but Vanier (east of downtown) has slightly higher crime rates. Even there, it's not dangerous but requires normal urban caution. Most of Ottawa, including all major tourist areas, is very safe day and night."
+        },
+        {
+          "q": "Is it safe to use public transport in Ottawa?",
+          "a": "Yes, Ottawa's public transport is very safe. The O-Train has CCTV monitoring, emergency intercoms, and 24/7 Special Constable patrols. Buses are well-maintained and reliable. The system includes 'TransSecure' safe zones at major stations with enhanced lighting and emergency phones."
+        }
+      ],
+      "relatedCities": [
+        "toronto",
+        "montreal",
+        "vancouver",
+        "quebec-city",
+        "winnipeg"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Parliament-Ottawa.jpg"
     }
   ]
 }

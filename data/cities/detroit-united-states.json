@@ -1,0 +1,160 @@
+{
+  "slug": "detroit",
+  "name": "Detroit",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 4.7,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 4.0,
+    "scamRisk": 5.5,
+    "womensSafety": 4.0,
+    "nightSafety": 4.0,
+    "transport": 6.5,
+    "naturalHazards": 5.5
+  },
+  "summary": "Detroit has historically high crime rates but is experiencing significant improvements, with homicides at their lowest in decades and overall violent crime declining steadily. Safety varies dramatically by neighborhood, with downtown and midtown areas being considerably safer than outlying districts.",
+  "quickVerdict": "Detroit requires caution and careful neighborhood selection for safe travel. While the city has made remarkable progress with violent crime at historic lows and major revitalization efforts downtown, it still has elevated property crime rates and significant safety disparities between neighborhoods. Downtown, midtown, and areas like Belle Isle are generally safe for tourists during the day, but visitors should avoid certain neighborhoods entirely and exercise heightened awareness at night. The city's excellent healthcare system and improving public safety initiatives are positive factors, but the overall crime rate remains 209% above the national average.",
+  "neighborhoods": [
+    {
+      "name": "Downtown Detroit",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The heart of Detroit's revitalization with major attractions, restaurants, and improved security. Well-patrolled during day with decent nightlife options. Stay near main commercial areas."
+    },
+    {
+      "name": "Midtown",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Cultural district home to museums, universities, and trendy establishments. Generally safe for tourists with good lighting and regular foot traffic, especially near Wayne State University area."
+    },
+    {
+      "name": "Belle Isle",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Detroit's island park with recreational facilities and attractions. Considered one of the city's safest areas during operating hours, popular with families and tourists for outdoor activities."
+    },
+    {
+      "name": "Corktown",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic neighborhood undergoing gentrification with some good restaurants and venues. Improving but still requires caution, especially at night and on side streets away from main corridors."
+    },
+    {
+      "name": "Southwest Detroit",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Diverse area with authentic Mexican restaurants and culture. Mixed safety conditions - some blocks are fine while others have higher crime rates. Research specific locations beforehand."
+    },
+    {
+      "name": "East Detroit/Delray",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Industrial area with significant safety concerns, high crime rates, and abandoned properties. Strongly advised to avoid, especially for tourists. Even locals recommend staying away from this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Parking Tickets",
+      "risk": "medium",
+      "description": "Scammers place fake parking tickets on vehicles directing victims to fraudulent payment websites to steal personal and financial information.",
+      "howToAvoid": "Only pay parking tickets through official city websites. Verify any ticket by calling Detroit parking authorities directly at official numbers."
+    },
+    {
+      "name": "QR Code Phishing",
+      "risk": "high",
+      "description": "Criminals place sticker QR codes over legitimate ones at restaurants, events, and attractions, leading to fake payment sites that steal credit card information.",
+      "howToAvoid": "Never scan QR codes that appear to be stickers or look tampered with. Type website URLs directly into your browser instead."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "medium",
+      "description": "Taxi drivers claim their meter is broken after passengers get in, then charge inflated flat rates for the journey.",
+      "howToAvoid": "Never enter a taxi with a broken meter. Use official rideshare apps like Uber/Lyft or confirm meter works before starting the trip."
+    },
+    {
+      "name": "Fake Accommodation Bookings",
+      "risk": "high",
+      "description": "Sophisticated fake websites mimic legitimate booking platforms, taking payment for non-existent hotels or rentals, leaving travelers stranded upon arrival.",
+      "howToAvoid": "Book only through verified platforms, check hotel websites directly, and be wary of prices significantly below market rate. Use protected payment methods."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Detroit requires significant caution and careful planning. While downtown and midtown areas can be navigated safely during daytime hours, the city presents challenges for women traveling alone, particularly after dark. Many travel experts specifically advise against solo travel to Detroit due to elevated crime rates and safety disparities between neighborhoods.",
+    "tips": [
+      "Stay in well-reviewed hotels in downtown or midtown areas, avoiding budget accommodations in unknown neighborhoods",
+      "Use rideshare services rather than walking alone, especially at night, and avoid public transportation after dark",
+      "Research specific addresses and neighborhoods thoroughly before visiting, as safety can change dramatically within a few blocks"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Detroit's nighttime safety varies dramatically by location, with downtown entertainment districts being relatively secure while many other areas become significantly more dangerous after dark. The city has active nightlife in certain safe zones, but venturing outside these areas at night is strongly discouraged.",
+    "tips": [
+      "Stick to well-lit main streets in downtown and midtown with heavy foot traffic and visible security presence",
+      "Use rideshare services for all nighttime transportation rather than walking or using public transit",
+      "Travel in groups when possible and avoid exploring unfamiliar neighborhoods after sunset"
+    ]
+  },
+  "transport": {
+    "metro": "Detroit does not have a traditional metro system. The People Mover provides limited downtown circulation, and QLine streetcar serves a short route along Woodward Avenue. Both are generally safe during daytime hours.",
+    "rideshare": "Uber and Lyft operate extensively throughout Detroit and are considered the safest transportation option. Both services are reliable with good driver availability and standard safety features.",
+    "taxis": "Traditional taxis are available but less reliable than rideshare services. Use only official taxis from established companies and ensure meters are functioning before starting trips.",
+    "tips": "Rideshare services are strongly recommended over public transit, especially for visitors. DDOT and SMART buses serve the area but require caution regarding routes and timing."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is standard practice",
+    "Business casual dress is appropriate for most dining and entertainment venues",
+    "Detroit residents are generally friendly and proud of their city's revival efforts"
+  ],
+  "health": {
+    "overview": "Detroit has excellent healthcare facilities with multiple top-rated hospitals and medical centers. The city is home to major health systems including Henry Ford Health, Detroit Medical Center, and Corewell Health.",
+    "water": "Tap water is safe to drink. Detroit has invested heavily in water infrastructure improvements following past issues.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations for US travel.",
+    "altitude": "Detroit sits at 600 feet above sea level. Climate features cold winters with lake-effect snow and warm, humid summers. Winter temperatures can be extreme with dangerous wind chills."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency), 313-267-4600 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Detroit is a US city. International visitors can contact their nearest consulate in Chicago or New York."
+  },
+  "faq": [
+    {
+      "q": "Is Detroit safe for tourists?",
+      "a": "Detroit can be safe for tourists who stay in designated safe areas like downtown and midtown, but requires careful planning and awareness. The city has high crime rates overall but tourist areas are generally well-maintained and patrolled."
+    },
+    {
+      "q": "Is Detroit safe at night?",
+      "a": "Detroit's nighttime safety is limited to specific well-lit areas downtown and in midtown. Most other areas become significantly more dangerous after dark, and walking alone at night is strongly discouraged outside of main entertainment districts."
+    },
+    {
+      "q": "Is Detroit safe for solo female travelers?",
+      "a": "Solo female travel in Detroit requires extreme caution. While not impossible, many travel experts advise against it due to elevated crime rates. Women who do travel solo should stick to downtown/midtown, use rideshare services, and avoid nighttime exploration."
+    },
+    {
+      "q": "What areas should I avoid in Detroit?",
+      "a": "Avoid Delray, Brightmoor, and most areas east of downtown. Generally, areas far from the downtown core have higher crime rates. Research specific neighborhoods before visiting and stay in well-reviewed safe zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Detroit?",
+      "a": "Public transportation has limited routes and variable safety depending on time and location. Rideshare services are strongly recommended over buses. The People Mover downtown is generally safe during operating hours."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "milwaukee",
+    "cleveland",
+    "buffalo",
+    "pittsburgh"
+  ],
+  "_city_id": "detroit-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Detroit_Skyline_from_Windsor_2025-09-01.jpg/1280px-Detroit_Skyline_from_Windsor_2025-09-01.jpg"
+}

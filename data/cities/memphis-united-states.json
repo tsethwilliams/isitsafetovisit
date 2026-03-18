@@ -1,0 +1,164 @@
+{
+  "slug": "memphis",
+  "name": "Memphis",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 5.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 3.8,
+    "scamRisk": 6.2,
+    "womensSafety": 4.5,
+    "nightSafety": 4.2,
+    "transport": 6.5,
+    "naturalHazards": 7.1
+  },
+  "summary": "Memphis presents significant safety challenges with high crime rates, though the city has seen improvements since 2025 with violent crime decreasing. Tourist areas like downtown and Beale Street have increased police presence, but visitors should exercise caution, especially at night.",
+  "quickVerdict": "Memphis requires careful planning and awareness. While the city has made strides in reducing violent crime with homicides dropping from 399 in 2023 to 235 in 2025, it still ranks among US cities with elevated crime concerns. Downtown tourist areas are relatively safer with strong police presence, but avoiding certain neighborhoods and being vigilant at night is essential. The city offers excellent healthcare facilities and reasonable transportation options for visitors who take proper precautions.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Beale Street",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Main tourist area with increased police presence, safer during daytime visits to attractions but requires caution at night"
+    },
+    {
+      "name": "Midtown/Cooper-Young",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Trendy area with restaurants and nightlife, generally safer than other parts but still requires normal urban precautions"
+    },
+    {
+      "name": "Germantown",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Affluent suburb with low crime rates, well-maintained parks, and strong community policing - one of the safest areas"
+    },
+    {
+      "name": "East Memphis/Cordova",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Suburban area with lower crime rates, good for hotels and dining, considered safer for tourists"
+    },
+    {
+      "name": "South Memphis",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Higher crime area that tourists should avoid, particularly after dark"
+    },
+    {
+      "name": "North Memphis/Frayser",
+      "score": 2.8,
+      "class": "danger",
+      "description": "Significantly elevated crime rates, not recommended for tourists, avoid especially at night"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Ghost Booking Scams",
+      "risk": "high",
+      "description": "AI-generated fake travel websites that look identical to legitimate booking sites, taking payment for non-existent reservations",
+      "howToAvoid": "Always book directly through official hotel/airline websites or verified travel agents. Check URLs carefully for typos like 'booklng.com' instead of 'booking.com'"
+    },
+    {
+      "name": "Digital Arrest Scams",
+      "risk": "medium",
+      "description": "Scammers pose as customs or police officials using AI deepfakes claiming illegal items linked to your passport, demanding cryptocurrency payments",
+      "howToAvoid": "Real law enforcement never demands money over the phone or via cryptocurrency. Hang up and contact official agencies directly through verified numbers"
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "medium",
+      "description": "Fake QR codes placed as stickers over real ones at tourist spots, leading to malicious websites that steal credit card information",
+      "howToAvoid": "Avoid scanning QR codes that look like stickers. Type restaurant/venue websites directly into your browser instead"
+    },
+    {
+      "name": "Overpriced Taxi Schemes",
+      "risk": "medium",
+      "description": "Unofficial taxi drivers targeting tourists with inflated rates, especially near hotels and attractions",
+      "howToAvoid": "Use official rideshare apps like Uber/Lyft or call licensed taxi companies. Avoid unmarked vehicles and always verify driver details match the app"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Memphis requires heightened awareness and careful planning. While some travelers report positive experiences in tourist areas, the city presents elevated risks compared to other destinations. Staying in well-reviewed accommodations in safer neighborhoods like East Memphis or Germantown, avoiding isolated areas after dark, and using trusted transportation are essential precautions.",
+    "tips": [
+      "Stay in well-lit, central areas and use official rideshare services rather than walking alone at night",
+      "Book accommodations in safer neighborhoods like East Memphis, Germantown, or downtown near major hotels",
+      "Share your itinerary with trusted contacts and maintain regular check-ins",
+      "Be particularly cautious in nightlife areas and avoid excessive alcohol consumption",
+      "Trust your instincts and don't hesitate to leave situations that feel unsafe"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Memphis nighttime safety varies dramatically by location. Downtown and Beale Street have significant police presence but still require caution. The entertainment districts of Cooper-Young and Overton Square are relatively safer but close earlier than Beale Street. Many areas become significantly more dangerous after dark, with limited safe pedestrian access.",
+    "tips": [
+      "Stick to well-lit tourist areas like Beale Street where police presence is visible",
+      "Use rideshare services or taxis rather than walking between venues",
+      "Travel in groups when possible and avoid displaying valuables",
+      "Be aware that some venues in safer areas close earlier than downtown options",
+      "Consider ending nighttime activities before midnight and return to accommodations in safer neighborhoods"
+    ]
+  },
+  "transport": {
+    "metro": "MATA operates buses throughout Memphis but service can be unreliable with some routes cut due to budget issues. The trolley system serves downtown tourist areas and is generally safer than buses, though trolley service has been intermittent.",
+    "rideshare": "Uber and Lyft are widely available and generally the safest transportation option in Memphis. Always verify driver details match the app and use pickup zones at the airport. Both services have wheelchair accessible options.",
+    "taxis": "Licensed taxis are available but less common than rideshare services. Look for official yellow cabs with company logos. Taxi stands are available at Memphis International Airport.",
+    "tips": "Rideshare services are your safest bet for getting around Memphis. Avoid the bus system in unfamiliar areas and be cautious with unmarked vehicles offering rides."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is standard, 15% minimum for acceptable service",
+    "Southern hospitality is common - polite greetings and small talk are appreciated",
+    "Dress codes may apply at upscale restaurants and some nightlife venues, casual dress acceptable most places"
+  ],
+  "health": {
+    "overview": "Memphis has excellent healthcare facilities including world-renowned institutions like St. Jude Children's Research Hospital and Methodist Le Bonheur Healthcare system. Multiple hospitals have received national recognition for quality care.",
+    "water": "Tap water is safe to drink throughout Memphis and meets all federal safety standards",
+    "vaccinations": "No special vaccinations required for domestic US travel. Standard travel insurance is recommended",
+    "altitude": "Memphis is at low elevation (300 feet) with no altitude concerns. Humid subtropical climate with hot summers and mild winters"
+  },
+  "emergency": {
+    "general": "911",
+    "police": "901-545-2677",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable for domestic US travel - Memphis is located in Tennessee, United States"
+  },
+  "faq": [
+    {
+      "q": "Is Memphis safe for tourists?",
+      "a": "Memphis requires extra caution compared to many US destinations. Tourist areas like downtown and Beale Street have increased police presence and are relatively safer, but the city has elevated crime rates. Staying in good neighborhoods, being aware of surroundings, and avoiding certain areas after dark are important precautions."
+    },
+    {
+      "q": "Is Memphis safe at night?",
+      "a": "Nighttime safety in Memphis varies greatly by location. Beale Street and downtown have police presence but still require caution. Many areas become significantly more dangerous after dark. Using rideshare services, traveling in groups, and sticking to well-lit tourist areas are essential for nighttime activities."
+    },
+    {
+      "q": "Is Memphis safe for solo female travelers?",
+      "a": "Solo female travelers can visit Memphis safely with proper precautions. Stay in reputable accommodations in safer neighborhoods like East Memphis or Germantown, avoid isolated areas especially at night, use official transportation, and maintain situational awareness. Many solo travelers report positive experiences when following safety guidelines."
+    },
+    {
+      "q": "What areas should I avoid in Memphis?",
+      "a": "Avoid South Memphis, North Memphis, and Frayser areas, particularly after dark. These neighborhoods have significantly higher crime rates. Even in safer areas like downtown, be cautious when venturing away from main tourist zones and avoid walking alone at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Memphis?",
+      "a": "MATA buses and trolleys operate but have reliability issues. The downtown trolley serving tourist areas is generally safer than buses that travel through various neighborhoods. Rideshare services like Uber and Lyft are recommended as the safest transportation option for visitors."
+    }
+  ],
+  "relatedCities": [
+    "atlanta",
+    "nashville",
+    "new-orleans",
+    "birmingham",
+    "jackson"
+  ],
+  "_city_id": "memphis-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skyline_of_Memphis%2C_TN.jpg/1280px-Skyline_of_Memphis%2C_TN.jpg"
+}

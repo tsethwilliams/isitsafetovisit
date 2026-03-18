@@ -1,0 +1,162 @@
+{
+  "slug": "quebec-city",
+  "name": "Quebec City",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.0,
+    "scamRisk": 8.0,
+    "womensSafety": 9.2,
+    "nightSafety": 8.5,
+    "transport": 8.5,
+    "naturalHazards": 7.2
+  },
+  "summary": "Quebec City consistently ranks among the safest cities in North America, with exceptionally low crime rates and a strong safety infrastructure. The historic city offers excellent security for tourists, with well-lit cobblestone streets and helpful locals creating a welcoming atmosphere.",
+  "quickVerdict": "Quebec City is remarkably safe for tourists, ranking as one of Canada's safest urban destinations with minimal violent crime and excellent emergency services. While winter weather can pose challenges and some minor tourist scams exist, the city's robust safety record makes it ideal for all types of travelers including solo women. The main precautions involve standard urban awareness and winter weather preparation.",
+  "neighborhoods": [
+    {
+      "name": "Old Quebec (Vieux-Québec)",
+      "score": 9.0,
+      "class": "safe",
+      "description": "UNESCO World Heritage site with excellent lighting, frequent police patrols, and heavy tourist presence. The cobblestone streets and historic ramparts create natural security barriers while maintaining high visibility."
+    },
+    {
+      "name": "Petit-Champlain",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Charming Lower Town district with excellent foot traffic during day and evening hours. Well-maintained tourist area with good lighting and regular security presence from local businesses."
+    },
+    {
+      "name": "Grande Allée",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Main nightlife district with active bar scene. Generally safe but can get rowdy late at night on weekends. Police presence is strong and venues have security, though increased caution advised after midnight."
+    },
+    {
+      "name": "Saint-Roch",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Hip neighborhood undergoing gentrification with trendy restaurants and galleries. Safe during day and early evening, but some quieter streets may feel isolated late at night."
+    },
+    {
+      "name": "Saint-Jean-Baptiste",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Bohemian district known for LGBTQ+ friendly atmosphere. Generally safe with good community spirit, though some areas can be quieter at night. Strong local community watch presence."
+    },
+    {
+      "name": "Limoilou",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Residential area with fewer tourists and amenities. While not dangerous, it lacks the security infrastructure of central districts and can feel isolated for visitors unfamiliar with the area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "medium",
+      "description": "Some tourist-focused restaurants may inflate prices or add unexpected charges, particularly around major attractions. Bills may include automatic gratuities not clearly disclosed.",
+      "howToAvoid": "Check menus and prices before ordering, confirm tipping policies, and ask for itemized bills. Research restaurant reviews online beforehand."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "low",
+      "description": "Unofficial guides may approach tourists offering tours at inflated prices or lead visitors to overpriced shops where they receive commissions.",
+      "howToAvoid": "Book tours through official tourist offices or reputable companies. Ask for credentials and never pay large sums upfront."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "low",
+      "description": "Some taxi drivers may take longer routes or claim meters are broken to charge flat rates higher than actual fares, particularly from airport or train station.",
+      "howToAvoid": "Use official taxi companies, insist on meter usage, or use rideshare apps like Uber. Know approximate distances and costs beforehand."
+    },
+    {
+      "name": "Seasonal Accommodation Scams",
+      "risk": "medium",
+      "description": "During peak tourist seasons like Winter Carnival, fake accommodation listings or significant price gouging may occur, especially through unofficial booking sites.",
+      "howToAvoid": "Book through verified platforms, check property reviews, and avoid deals that seem too good to be true. Confirm bookings directly with hotels."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Quebec City is exceptionally safe for solo female travelers, ranking as the second safest place in Canada for women traveling alone. The city has extremely low rates of violent crime and harassment, with locals known for their politeness and helpfulness. Most women report feeling comfortable walking alone both day and night, though standard precautions apply in quieter areas after dark.",
+    "tips": [
+      "The city is very walkable with well-lit streets, making solo exploration comfortable even in the evening",
+      "Locals are generally helpful and many speak English, making it easy to ask for directions or assistance",
+      "Book accommodations in central areas like Old Quebec or near Grande Allée for best access to attractions and safety",
+      "Be aware that bars like Le Dagobert have had reports of drink tampering, so watch drinks carefully if visiting nightlife venues",
+      "Winter conditions can make walking challenging, so pack appropriate footwear and consider using public transit or taxis during harsh weather"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Quebec City maintains excellent night safety with well-lit historic streets and active nightlife areas that remain busy until late. The city's low crime rate extends into evening hours, though some residential neighborhoods outside the tourist core may feel quieter. Most visitors feel safe walking at night, particularly in central areas.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially the tourist districts which have excellent lighting and foot traffic",
+      "Grande Allée nightlife district is generally safe but can get rowdy on weekend nights after midnight",
+      "Use official taxis or rideshare apps rather than walking long distances in winter conditions",
+      "Be cautious with drinks in busy nightlife venues and never leave them unattended",
+      "Tourist areas like Old Quebec remain safe and beautiful for evening strolls, with many couples and families out until late"
+    ]
+  },
+  "transport": {
+    "metro": "Quebec City does not have a metro system but operates an efficient bus network (RTC) that covers most tourist areas and suburbs. Buses are clean, safe, and run frequently with real-time tracking available through the RTC Nomade app. A tramway system is under construction and scheduled to open in 2028.",
+    "rideshare": "Uber operates throughout Quebec City and is considered safe and reliable. Local alternatives include Eva taxi service and traditional taxi companies like Taxi Coop which can be booked via app. Rideshare services offer upfront pricing and are often preferred over traditional taxis.",
+    "taxis": "Official taxis are regulated and generally safe, though some drivers may attempt longer routes or claim broken meters. Use established companies and insist on meter usage. Taxi Coop offers an app-based booking system for easier service.",
+    "tips": "Public transit is very safe even at night, and many hotels offer free transit passes. Walking is often the best option in Old Quebec due to its compact size, but be prepared for hills and winter conditions."
+  },
+  "customs": [
+    "Canadians are extremely polite - saying please, thank you, and sorry frequently is expected and appreciated",
+    "In Quebec, making an effort to speak French is highly valued, even basic phrases like bonjour and merci will be warmly received",
+    "Tipping 15-18% at restaurants is standard, and many payment machines now offer automatic tip options"
+  ],
+  "health": {
+    "overview": "Quebec City has excellent healthcare facilities with several major hospitals and walk-in clinics. The healthcare system operates under Quebec's RAMQ program, though tourists must pay for services. Emergency care is available 24/7 and medical professionals generally speak both French and English.",
+    "water": "Tap water is completely safe to drink throughout Quebec City and meets all international safety standards. No special precautions needed.",
+    "vaccinations": "No special vaccinations required for Quebec City. Standard travel insurance is recommended to cover medical expenses as healthcare is not free for tourists.",
+    "altitude": "Quebec City is at sea level with no altitude concerns. The main health consideration is winter weather - temperatures can drop well below freezing with significant snow and ice from December through March."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (Emergency) / 418-641-2447 (Non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens should contact the US Consulate General in Quebec City at 418-692-2095, or the US Embassy in Ottawa at 613-688-5335 for major emergencies. The 24/7 State Department number is 1-202-501-4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Quebec City safe for tourists?",
+      "a": "Yes, Quebec City is extremely safe for tourists and ranks among the safest cities in North America. It has very low crime rates, excellent emergency services, and a strong tourist infrastructure with helpful locals and well-maintained attractions."
+    },
+    {
+      "q": "Is Quebec City safe at night?",
+      "a": "Quebec City is very safe at night, especially in tourist areas like Old Quebec and Grande Allée which remain well-lit and active until late. The historic streets are particularly beautiful for evening walks, though standard urban precautions apply in quieter residential areas."
+    },
+    {
+      "q": "Is Quebec City safe for solo female travelers?",
+      "a": "Absolutely - Quebec City ranks as the second safest destination in Canada for solo female travelers. Women report feeling very comfortable walking alone both day and night, with helpful locals and extremely low rates of harassment or violent crime."
+    },
+    {
+      "q": "What areas should I avoid in Quebec City?",
+      "a": "There are no truly dangerous areas in Quebec City, but some outer residential neighborhoods like Limoilou may feel less secure for tourists due to fewer amenities and lighting. The city center and all major tourist areas are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Quebec City?",
+      "a": "Yes, public transportation in Quebec City is very safe, clean, and reliable. The RTC bus system operates safely even at night, and many visitors use it without any concerns. The upcoming tramway system will further improve transport safety and convenience."
+    }
+  ],
+  "relatedCities": [
+    "montreal",
+    "toronto",
+    "vancouver"
+  ],
+  "_city_id": "quebec-city-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Quebec_City_Rue_St-Louis_2010.jpg/1280px-Quebec_City_Rue_St-Louis_2010.jpg"
+}
