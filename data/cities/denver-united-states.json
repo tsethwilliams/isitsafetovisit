@@ -1,0 +1,160 @@
+{
+  "slug": "denver",
+  "name": "Denver",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 7.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.0,
+    "transport": 7.5,
+    "naturalHazards": 8.4
+  },
+  "summary": "Denver is generally safe for tourists but requires standard urban precautions due to elevated crime rates. The city has made significant improvements since 2024, with violent crime declining and strong emergency services, though property crime remains above national averages.",
+  "quickVerdict": "Denver offers a relatively safe travel experience for visitors who stay alert and follow basic safety guidelines. While the city has higher crime rates than the national average, most tourist areas are well-patrolled and incidents involving visitors are uncommon. The greatest risks come from property crimes like vehicle theft and petty theft. Solo travelers, including women, generally report feeling safe during daytime hours and in popular neighborhoods. Exercise extra caution at night, particularly around Colfax Avenue and certain downtown areas after dark.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/LoDo",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Business district with good police presence during day, busy with tourists and office workers. Safe for dining and entertainment but requires caution after midnight when crowds thin out."
+    },
+    {
+      "name": "Capitol Hill",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Vibrant arts and nightlife district with eclectic mix of venues. Generally safe but can be unpredictable, especially late at night. Stay aware of surroundings and stick to main streets."
+    },
+    {
+      "name": "Cherry Creek",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale shopping and dining area with excellent safety record. Well-maintained with good lighting and regular security patrols. One of Denver's safest neighborhoods for tourists."
+    },
+    {
+      "name": "Colfax Avenue",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Historic strip with diverse venues but higher crime rates. Exercise significant caution, especially at night. Avoid walking alone after dark and stay in well-lit areas near popular establishments."
+    },
+    {
+      "name": "RiNo Arts District",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy warehouse district with galleries, breweries, and nightlife. Generally improving but can have isolated areas. Stick to main streets and travel in groups at night."
+    },
+    {
+      "name": "Highlands/LoHi",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential and dining area with low crime rates. Popular with young professionals, well-maintained streets, and good restaurant scene. Safe for evening activities and walking."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vehicle Break-ins",
+      "risk": "high",
+      "description": "Rental cars and vehicles with visible items are frequently targeted, especially near tourist attractions and hotels. Denver has one of the highest auto theft rates nationally.",
+      "howToAvoid": "Never leave bags, electronics, or charging cables visible in your car. Park in well-lit areas and use secure parking when available. Don't leave your car running to warm up - it's illegal and the top cause of winter theft."
+    },
+    {
+      "name": "Fake Cannabis Dispensary Tours",
+      "risk": "medium",
+      "description": "Unlicensed operators offer 'VIP cannabis tours' at inflated prices, sometimes with unsafe transport or products not from licensed dispensaries.",
+      "howToAvoid": "Only book tours through licensed operators, verify dispensary licenses on Colorado's state website, and be wary of street approaches or deals that seem too good to be true."
+    },
+    {
+      "name": "Altitude Sickness Exploitation",
+      "risk": "medium",
+      "description": "Some vendors overcharge tourists for basic remedies or emergency services related to altitude adjustment, taking advantage of visitors unfamiliar with elevation effects.",
+      "howToAvoid": "Research altitude sickness prevention before arrival, stay hydrated, limit alcohol initially, and seek medical help through legitimate channels like hotels or urgent care if needed."
+    },
+    {
+      "name": "Street Performance Aggressive Tipping",
+      "risk": "low",
+      "description": "Street performers, particularly around 16th Street Mall, may aggressively demand tips after unsolicited performances or photo opportunities.",
+      "howToAvoid": "Politely decline unsolicited performances, don't accept 'free' items like bracelets or flowers, and walk away confidently if pressured for money."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Denver is generally considered safe for solo female travelers, with most women reporting positive experiences. The city has friendly locals, reliable public transport, and good emergency services. Exercise normal urban precautions and trust your instincts, particularly at night or in less crowded areas.",
+    "tips": [
+      "Stick to well-lit, populated areas after dark, especially avoiding Colfax Avenue and areas around the Capitol building at night",
+      "The RTD light rail is generally safe, but sit near the operator and avoid the W and E lines late at night which have higher incident reports",
+      "Denver has an active outdoor culture - join group activities like brewery tours or hiking groups to meet people safely",
+      "Stay hydrated and pace alcohol consumption as altitude amplifies effects - one beer at 5,280 feet feels like three at sea level"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Denver's nightlife scene is vibrant but requires awareness of your surroundings. Popular entertainment districts like LoDo and RiNo are generally safe with good foot traffic, but some areas become more unpredictable after 2 AM when bars close. The city has made improvements to lighting and security in main areas.",
+    "tips": [
+      "Use rideshare services rather than walking long distances at night, especially after midnight",
+      "Stay in groups when bar-hopping and designate someone to remain relatively sober",
+      "Areas around Union Station have improved significantly but still exercise caution late at night",
+      "Most bars close at 2 AM - plan your return journey in advance and avoid lingering in empty areas"
+    ]
+  },
+  "transport": {
+    "metro": "RTD light rail system is generally safe and efficient, connecting major areas including the airport. Security has been increased with over 100 sworn officers patrolling trains and platforms. The A-Line to/from the airport is considered the safest route. Avoid E and W lines late at night.",
+    "rideshare": "Uber and Lyft operate widely throughout Denver and are generally safe and reliable. Surge pricing during peak times and major events is common. Pickup/drop-off locations are well-established at major venues and the airport.",
+    "taxis": "Traditional taxis are available but less common than rideshare. Always ensure the meter is working before starting your journey. Denver taxi services are regulated and generally trustworthy for airport and hotel transportation.",
+    "tips": "Public transport runs until approximately midnight with weekend extensions. The free 16th Street Mall shuttle is convenient for downtown areas. RTD offers a night stop service on buses for safety."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is expected, 15-20% for taxi/rideshare drivers, and $1-2 per drink at bars",
+    "Denver has a relaxed, outdoor-focused culture - casual dress is widely acceptable except at upscale venues",
+    "Cannabis is legal for adults over 21 but cannot be consumed in public places, hotels, or vehicles - use only in private residences or designated areas"
+  ],
+  "health": {
+    "overview": "Denver has excellent healthcare facilities including Denver Health Medical Center, a Level I trauma center. The main health concern for visitors is altitude adjustment as the city sits at 5,280 feet above sea level.",
+    "water": "Tap water is safe to drink citywide. Denver has high-quality municipal water systems that meet all federal standards.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel health precautions apply.",
+    "altitude": "Altitude sickness affects many visitors. Symptoms include headaches, nausea, and fatigue. Stay hydrated, limit alcohol initially, and allow time to adjust. Seek medical attention if symptoms worsen."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 720-913-2000 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911 (emergency) / 720-913-1311 (non-emergency)",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US city. For international visitors, contact your country's consulate in Denver or nearest major consulate office."
+  },
+  "faq": [
+    {
+      "q": "Is Denver safe for tourists?",
+      "a": "Yes, Denver is generally safe for tourists who take standard urban precautions. The city has above-average crime rates but most incidents don't involve visitors. Stay alert, avoid leaving items visible in cars, and exercise extra caution at night."
+    },
+    {
+      "q": "Is Denver safe at night?",
+      "a": "Denver's main tourist areas are reasonably safe at night with good lighting and police presence. However, exercise increased caution after midnight, use rideshare for transportation, and avoid walking alone in less populated areas or along Colfax Avenue."
+    },
+    {
+      "q": "Is Denver safe for solo female travelers?",
+      "a": "Yes, Denver is considered safe for solo female travelers. The city has friendly locals and good public services. Use normal precautions like staying in well-lit areas at night, trusting your instincts, and being aware of altitude effects on alcohol tolerance."
+    },
+    {
+      "q": "What areas should I avoid in Denver?",
+      "a": "Exercise extra caution along Colfax Avenue, especially at night. Some areas around the Capitol building and certain parts of downtown can be unpredictable after dark. Generally avoid isolated areas late at night and always stay aware of your surroundings."
+    },
+    {
+      "q": "Is it safe to use public transport in Denver?",
+      "a": "Yes, RTD's buses and light rail are generally safe with increased security presence. The A-Line to the airport is particularly well-patrolled. Avoid the W and E lines late at night, sit near operators when possible, and stay alert during evening hours."
+    }
+  ],
+  "relatedCities": [
+    "seattle",
+    "portland",
+    "salt-lake-city"
+  ],
+  "_city_id": "denver-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Denver_Downtown_Aerial%2C_December_2025.jpg/1280px-Denver_Downtown_Aerial%2C_December_2025.jpg"
+}

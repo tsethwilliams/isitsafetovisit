@@ -1,0 +1,160 @@
+{
+  "slug": "san-diego",
+  "name": "San Diego",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.2,
+    "womensSafety": 8.0,
+    "nightSafety": 7.8,
+    "transport": 8.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "San Diego consistently ranks as one of the safest major cities in the United States, with violent crime rates below the national average at 4.1 per 1,000 residents. The city has experienced a fourth consecutive year of crime reduction through 2025, with decreases across most major crime categories including murders down 25% and motor vehicle thefts at their lowest levels since 1972.",
+  "quickVerdict": "San Diego is genuinely safe for tourists, living up to its reputation as one of America's safest large cities. With strong police presence, excellent healthcare infrastructure, and well-maintained public spaces, most visitors can explore confidently during both day and night. While standard urban precautions apply—particularly regarding car break-ins at beach parking lots and staying alert in downtown areas after midnight—the city's overall safety profile makes it an ideal destination for travelers of all types, including solo female visitors.",
+  "neighborhoods": [
+    {
+      "name": "La Jolla",
+      "score": 9.2,
+      "class": "safe",
+      "description": "Upscale coastal community with luxury hotels, fine dining, and beautiful beaches. Property crime is mostly limited to high-end retail theft, with very low violent crime rates. Excellent for tourists seeking premium experiences."
+    },
+    {
+      "name": "Little Italy",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Vibrant downtown neighborhood with excellent restaurants, farmers markets, and walkable streets. Well-lit at night with consistent foot traffic. Ideal base for solo travelers with easy access to waterfront and public transit."
+    },
+    {
+      "name": "Gaslamp Quarter",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Historic downtown nightlife district with heavy police presence and security. Generally safe but can get crowded on weekends. Pickpocketing risk increases with crowds, especially around bars and clubs after 10 PM."
+    },
+    {
+      "name": "Balboa Park",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Large cultural park with museums, gardens, and the famous San Diego Zoo. Safe during daylight hours with park rangers and regular patrols. Some isolated areas should be avoided after dark, but main pathways remain well-patrolled."
+    },
+    {
+      "name": "Pacific Beach",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Popular beach community with young, party-oriented crowd. Generally safe but alcohol-related incidents increase on weekends. Car break-ins common in beach parking areas. Exercise standard beach safety and avoid leaving valuables visible."
+    },
+    {
+      "name": "East Village",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Rapidly developing downtown area near Petco Park with ongoing gentrification. Higher homeless population and some street crime, particularly at night. Stick to main streets and well-lit areas, especially near transit stops."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scam",
+      "risk": "medium",
+      "description": "Taxi drivers claim the meter is broken and demand flat rates, often 3-5 times the normal fare. Some drivers also take unnecessarily long routes to inflate costs.",
+      "howToAvoid": "Use rideshare apps like Uber or Lyft instead. If using taxis, insist the meter be turned on or negotiate the fare upfront. Know approximate costs to your destination."
+    },
+    {
+      "name": "Car Break-in Scams",
+      "risk": "high",
+      "description": "Opportunistic thieves target rental cars and tourist vehicles, especially in beach parking lots and trailheads. They look for any valuables visible inside, including luggage or electronics.",
+      "howToAvoid": "Never leave anything valuable visible in your car, even in the trunk if others can see you putting it there. Use hotel safes and take everything with you or leave it at your accommodation."
+    },
+    {
+      "name": "Photo Fee Demands",
+      "risk": "low",
+      "description": "Street performers or costumed characters offer to take photos with tourists, then demand payment afterward. Some become aggressive if refused.",
+      "howToAvoid": "Politely decline photo requests from strangers. Ask other tourists to take your photos, or use selfie sticks. If approached, walk away quickly and find nearby security or police."
+    },
+    {
+      "name": "Fake Travel Deals",
+      "risk": "medium",
+      "description": "Online scammers advertise heavily discounted San Diego attraction tickets, tours, or accommodations that either don't exist or are significantly different from advertised.",
+      "howToAvoid": "Book through official attraction websites, reputable tour companies, or verified hotel booking platforms. Be suspicious of deals that seem too good to be true, especially requiring full prepayment."
+    }
+  ],
+  "soloFemale": {
+    "overview": "San Diego is exceptionally safe for solo female travelers, ranking among the top US cities for women traveling alone. The city's relaxed Southern California vibe, well-lit areas, reliable public transportation, and strong police presence create a welcoming environment. Most neighborhoods are walkable during the day, and many areas like Little Italy and La Jolla remain comfortable for evening exploration. While standard precautions apply, women consistently report feeling secure throughout their visits.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like Little Italy, La Jolla, or near Balboa Park for easy access to attractions and dining",
+      "Use rideshare services at night rather than waiting for public transportation, especially when traveling alone from bars or restaurants",
+      "Trust your instincts if any situation feels uncomfortable - locals and businesses are generally helpful if you need assistance or directions"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Diego's nightlife areas are generally safe with visible police presence and active security in entertainment districts. The Gaslamp Quarter, Pacific Beach, and other popular nightlife zones have good lighting and regular foot traffic until late hours. However, like any major city, awareness increases after midnight when crowds thin out and alcohol-related incidents become more common.",
+    "tips": [
+      "Stick to well-lit main streets like 5th Avenue in the Gaslamp Quarter and avoid wandering into side alleys or empty parking areas",
+      "Travel in groups when possible and arrange transportation before leaving venues rather than waiting outside alone",
+      "Be extra cautious around public transit stops late at night, as these areas can attract individuals you'd prefer to avoid"
+    ]
+  },
+  "transport": {
+    "metro": "The San Diego Trolley system is modern, clean, and generally safe with four main lines serving major attractions. Security presence has increased significantly, though some stations in downtown areas can feel less comfortable late at night due to homeless individuals. The system operates from 5 AM to 11:30 PM with frequent service.",
+    "rideshare": "Uber and Lyft are widely available and considered very safe options. Pickup can be challenging in the Gaslamp Quarter on weekend nights due to traffic restrictions. Costs are reasonable during normal hours but surge pricing applies during peak times and events.",
+    "taxis": "Traditional taxis are available but less convenient than rideshares. Generally safe and regulated by the city. Some tourist-oriented taxi scams exist (broken meters, long routes), so confirm the meter works or negotiate fare upfront.",
+    "tips": "The trolley is your best bet for reaching major attractions during the day, but consider rideshare for evening transportation or when carrying valuables. The airport shuttle (Route 992) is reliable and much cheaper than taxis or rideshares for airport transfers."
+  },
+  "customs": [
+    "San Diego has a relaxed, casual atmosphere - beachwear is acceptable near coastal areas but dress slightly more upscale for downtown dining and nightlife",
+    "Tipping 18-20% is standard at restaurants and bars, 10-15% for taxi drivers, and $1-2 per drink for bartenders",
+    "California has strict smoking laws - no smoking in restaurants, bars, or most public spaces; look for designated smoking areas or step well away from building entrances"
+  ],
+  "health": {
+    "overview": "San Diego has world-class healthcare with multiple top-rated hospitals including UC San Diego Health, Sharp HealthCare, and Scripps Health systems. The city received recognition for healthcare quality, with several facilities earning 5-star ratings and safety awards. Emergency services are excellent with quick response times throughout the metropolitan area.",
+    "water": "Tap water is completely safe to drink and meets all EPA standards. The city regularly tests water quality and publishes results. Bottled water is unnecessary but widely available if preferred.",
+    "vaccinations": "No special vaccinations required for travel to San Diego. Standard US vaccinations are recommended. The city experienced a measles outbreak guidance in 2025, so ensure routine vaccinations are current.",
+    "altitude": "San Diego is at sea level with a Mediterranean climate featuring mild, dry summers and moderate winters. Air quality is generally good, though occasional wildfire smoke from surrounding areas can affect sensitive individuals during fire season."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (619) 531-2000",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A - Regular police handle tourist issues",
+    "usEmbassy": "No US Embassy (domestic). For international visitors: contact your country's consulate in Los Angeles or San Francisco. US State Department 24/7 assistance: +1-202-501-4444 (from abroad) or +1-888-407-4747 (from US/Canada)"
+  },
+  "faq": [
+    {
+      "q": "Is San Diego safe for tourists?",
+      "a": "Yes, San Diego is very safe for tourists and consistently ranks as one of America's safest major cities. With violent crime rates at 4.1 per 1,000 residents - well below national averages - and a strong police presence in tourist areas, most visitors can explore confidently. Standard urban precautions apply, but serious incidents involving tourists are rare."
+    },
+    {
+      "q": "Is San Diego safe at night?",
+      "a": "Yes, San Diego is generally safe at night, especially in well-traveled areas like the Gaslamp Quarter, Little Italy, and major beach communities. These areas have good lighting, security presence, and active nightlife. However, avoid isolated areas and use rideshare services rather than walking alone through unfamiliar neighborhoods after midnight."
+    },
+    {
+      "q": "Is San Diego safe for solo female travelers?",
+      "a": "Absolutely. San Diego is one of the best US cities for solo female travel, with many women reporting feeling comfortable exploring alone both day and night. The city's relaxed culture, helpful locals, and reliable infrastructure make it particularly welcoming. Basic precautions like staying aware of surroundings and avoiding isolated areas apply."
+    },
+    {
+      "q": "What areas should I avoid in San Diego?",
+      "a": "Most of San Diego is safe for tourists. Exercise slightly more caution in parts of downtown East Village late at night, certain areas of Pacific Beach during heavy party weekends, and isolated sections of large parks like Balboa Park after dark. The key is staying in well-lit, populated areas and trusting your instincts."
+    },
+    {
+      "q": "Is it safe to use public transport in San Diego?",
+      "a": "Yes, San Diego's public transport is safe and efficient. The trolley system is modern and well-maintained with increased security presence. Buses are reliable during daytime hours. Some downtown trolley stops can feel less comfortable late at night due to homeless individuals, but incidents involving tourists are uncommon."
+    }
+  ],
+  "relatedCities": [
+    "los-angeles",
+    "san-francisco",
+    "seattle",
+    "phoenix",
+    "denver"
+  ],
+  "_city_id": "san-diego-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/1280px-La_Jolla_Shores_view_%28cropped%29.jpg"
+}

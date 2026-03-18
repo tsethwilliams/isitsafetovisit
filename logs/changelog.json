@@ -2854,5 +2854,53 @@
     "action": "alert",
     "city_id": "kuala_lumpur",
     "details": "{\"city_id\": \"kuala_lumpur\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T07:39:49.973984+00:00",
+    "action": "add",
+    "city_id": "denver-united-states",
+    "details": "New city added with score 6.8"
+  },
+  {
+    "timestamp": "2026-03-18T07:41:29.079295+00:00",
+    "action": "add",
+    "city_id": "san-diego-united-states",
+    "details": "New city added with score 7.9"
+  },
+  {
+    "timestamp": "2026-03-18T07:43:37.811492+00:00",
+    "action": "add",
+    "city_id": "savannah-united-states",
+    "details": "New city added with score 6.5"
+  },
+  {
+    "timestamp": "2026-03-18T07:45:15.420262+00:00",
+    "action": "add",
+    "city_id": "charleston-united-states",
+    "details": "New city added with score 7.0"
+  },
+  {
+    "timestamp": "2026-03-18T07:46:50.439425+00:00",
+    "action": "add",
+    "city_id": "philadelphia-united-states",
+    "details": "New city added with score 7.1"
+  },
+  {
+    "timestamp": "2026-03-18T07:48:16.394555+00:00",
+    "action": "add",
+    "city_id": "dallas-united-states",
+    "details": "New city added with score 6.3"
+  },
+  {
+    "timestamp": "2026-03-18T07:49:49.043278+00:00",
+    "action": "add",
+    "city_id": "houston-united-states",
+    "details": "New city added with score 6.1"
+  },
+  {
+    "timestamp": "2026-03-18T07:51:16.521500+00:00",
+    "action": "add",
+    "city_id": "atlanta-united-states",
+    "details": "New city added with score 6.7"
   }
 ]

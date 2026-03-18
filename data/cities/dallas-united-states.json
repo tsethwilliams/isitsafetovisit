@@ -1,0 +1,160 @@
+{
+  "slug": "dallas",
+  "name": "Dallas",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 5.8,
+    "womensSafety": 6.8,
+    "nightSafety": 6.0,
+    "transport": 6.7,
+    "naturalHazards": 7.0
+  },
+  "summary": "Dallas is generally safe for tourists in main areas but requires standard urban precautions. Crime rates are moderate for a major US city, with ongoing police initiatives improving safety. The 2026 World Cup will bring enhanced security measures.",
+  "quickVerdict": "Dallas offers a typical American urban travel experience with moderate safety considerations. Tourist-friendly areas like Downtown, Arts District, and Uptown are well-patrolled and relatively secure during daytime. Exercise normal urban precautions, avoid isolated areas at night, and stick to main thoroughfares. The city's extensive police presence and upcoming World Cup security enhancements make it reasonably safe for visitors who remain aware of their surroundings.",
+  "neighborhoods": [
+    {
+      "name": "Arts District & Downtown",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-lit, heavily patrolled tourist core with security presence. Safe during day and early evening with good foot traffic."
+    },
+    {
+      "name": "Uptown & Victory Park",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Upscale dining and entertainment district with active nightlife. Good security but requires awareness during late hours."
+    },
+    {
+      "name": "Bishop Arts District",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy area with galleries and cafes. Generally safe but exercise caution walking alone after dark."
+    },
+    {
+      "name": "Deep Ellum",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Vibrant nightlife zone with live music venues. Enhanced security planned for 2026 but requires street awareness."
+    },
+    {
+      "name": "East & South Dallas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Higher crime rates in residential areas. Avoid unless visiting specific destinations with local guidance."
+    },
+    {
+      "name": "Fair Park Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Safe during events and daytime but isolated areas can be risky. Stick to main venues and use transportation."
+    }
+  ],
+  "scams": [
+    {
+      "name": "AI-Enhanced Travel Booking Fraud",
+      "risk": "high",
+      "description": "Sophisticated fake booking websites and voice cloning scams targeting Dallas-Fort Worth airport travelers. Scammers create convincing hotel/flight sites with AI-generated reviews.",
+      "howToAvoid": "Book only through official websites or verified travel agents. Double-check URLs for typos and call hotels directly to confirm reservations."
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "medium",
+      "description": "Fake QR codes placed over legitimate ones at restaurants and tourist attractions to steal payment information or install malware.",
+      "howToAvoid": "Avoid scanning QR codes that look like stickers. Type restaurant websites directly into your browser instead."
+    },
+    {
+      "name": "Attraction Ticket Overselling",
+      "risk": "medium",
+      "description": "Street vendors selling overpriced or fake tickets to Dallas attractions, sports events, and tours at inflated prices.",
+      "howToAvoid": "Buy tickets only from official venues, authorized sellers, or reputable online platforms. Verify prices beforehand."
+    },
+    {
+      "name": "Ride-Share Impersonation",
+      "risk": "medium",
+      "description": "Fake drivers using cloned rideshare apps or posing as legitimate Uber/Lyft drivers to overcharge or potentially harm passengers.",
+      "howToAvoid": "Always verify the driver's name, license plate, and car details match the app before getting in. Use only official rideshare apps."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Dallas is quite safe for solo female travelers with reasonable precautions. The city is tourist-friendly and most areas are generally safe to explore alone during daylight hours. Public transportation is reliable and used by many locals and tourists. Crime rates are relatively low compared to other US cities of comparable size, though specific neighborhoods may be less safe, particularly at night.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark and trust your intuition about situations",
+      "Use rideshare apps or official taxis rather than walking alone late at night in unfamiliar areas",
+      "Keep belongings secure and avoid displaying expensive items like jewelry or electronics openly"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Dallas nightlife areas like Uptown, Deep Ellum, and the Arts District have active security and police presence, but standard urban night safety applies. Enhanced safety measures are being implemented ahead of the 2026 World Cup, including improved ID scanning systems in entertainment districts. Most venues have security staff, but awareness of surroundings remains important.",
+    "tips": [
+      "Stick to main entertainment districts with good lighting and regular security patrols",
+      "Travel in groups when possible and arrange transportation in advance rather than walking",
+      "Pace alcohol consumption and never leave drinks unattended or accept them from strangers"
+    ]
+  },
+  "transport": {
+    "metro": "DART light rail system is undergoing a $16 million security overhaul in 2026 with new cameras and uniform presence on every train car. Generally safe but requires awareness of surroundings. Some mixed reviews on cleanliness and reliability.",
+    "rideshare": "Uber and Lyft operate widely throughout Dallas and are generally safe options. Always verify driver details match the app before entering. Tipping through the app is customary at 15-20% of fare.",
+    "taxis": "Official taxis are regulated and safe, though less common than rideshare. Agree on fares beforehand if the meter isn't running. Airport taxis are legitimate and regulated.",
+    "tips": "Use official transportation apps, avoid unmarked vehicles, and keep some cash for tips. DART is improving safety but rideshare may be more reliable for tourists."
+  },
+  "customs": [
+    "Tipping is expected - 18-20% at restaurants, 15-20% for rideshare and taxis, $1-2 per bag for hotel bellhops",
+    "Americans are generally friendly and may engage in small talk - brief weather or travel conversations are normal",
+    "Wait to be seated at restaurants unless there's a clear sign indicating self-seating is allowed"
+  ],
+  "health": {
+    "overview": "Dallas has excellent healthcare facilities including major hospitals like William P. Clements Jr. University Hospital offering 24/7 emergency care. Healthcare costs are high, so comprehensive travel insurance is strongly recommended.",
+    "water": "Tap water is safe to drink throughout Dallas and free at all restaurants. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations (routine) should be up to date. COVID-19 protocols may vary by venue.",
+    "altitude": "Dallas sits at low elevation with hot, humid summers and mild winters. Spring brings severe weather including tornadoes. Air quality is generally good but can be affected by seasonal allergens."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (214) 671-4268",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Domestic travel - contact local authorities or call State Department 24/7 at +1-202-501-4444 for assistance. Text 911 now available in Dallas for emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Dallas safe for tourists?",
+      "a": "Yes, Dallas is generally safe for tourists who stay in main areas like Downtown, Arts District, and Uptown. Exercise normal urban precautions and avoid isolated areas at night."
+    },
+    {
+      "q": "Is Dallas safe at night?",
+      "a": "Downtown and main entertainment districts have good security and police presence. Stick to well-lit areas with foot traffic and use rideshare services rather than walking alone late at night."
+    },
+    {
+      "q": "Is Dallas safe for solo female travelers?",
+      "a": "Dallas is quite safe for solo female travelers with reasonable precautions. Most tourist areas are well-patrolled, public transport is reliable, and crime rates are moderate for a major US city."
+    },
+    {
+      "q": "What areas should I avoid in Dallas?",
+      "a": "Avoid East and South Dallas residential areas unless visiting specific destinations with local guidance. These areas have higher crime rates and fewer tourist amenities."
+    },
+    {
+      "q": "Is it safe to use public transport in Dallas?",
+      "a": "DART rail and buses are generally safe and undergoing security improvements in 2026. However, some routes may have reliability issues, so rideshare might be more convenient for tourists."
+    }
+  ],
+  "relatedCities": [
+    "austin",
+    "houston",
+    "san-antonio",
+    "fort-worth",
+    "oklahoma-city"
+  ],
+  "_city_id": "dallas-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dallas_Skyline_%2816780190385%29.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "atlanta",
+  "name": "Atlanta",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Atlanta is a major metropolitan city with crime rates 22% higher than the national average, though recent years have shown improvement with overall crime down 10% and violent crime declining significantly. The city offers world-class healthcare, excellent transportation options, and vibrant cultural attractions, but visitors should remain aware of their surroundings and stick to well-traveled areas.",
+  "quickVerdict": "Atlanta presents a mixed safety picture for tourists. While the city has made notable progress in reducing crime rates recently, with violent crime down 30% and property crime down 13% in 2025, it still faces challenges with petty crime and vehicle break-ins. The safest areas include Buckhead, Midtown, and Virginia Highland, while certain neighborhoods require extra caution. The city's excellent healthcare system, reliable public transportation, and strong tourism infrastructure help offset security concerns. Visitors who exercise normal urban precautions and stay in recommended areas can enjoy Atlanta's rich culture, dining, and attractions safely.",
+  "neighborhoods": [
+    {
+      "name": "Buckhead",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale district with low crime rates, excellent shopping, fine dining, and strong police presence. Popular with business travelers and families seeking luxury accommodations."
+    },
+    {
+      "name": "Virginia Highland",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Walkable neighborhood with charming shops, restaurants, and strong community engagement. Well-lit streets and active nightlife make it popular with young professionals."
+    },
+    {
+      "name": "Midtown",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Cultural hub with museums, theaters, and Piedmont Park. Dense with hotels and attractions, generally safe during day and early evening with good lighting and foot traffic."
+    },
+    {
+      "name": "Downtown",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Business district with major attractions but higher crime rates after dark. Stay on well-lit main streets and avoid isolated areas, especially near Five Points MARTA station."
+    },
+    {
+      "name": "Old Fourth Ward",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Rapidly gentrifying area with trendy spots along the BeltLine, but crime rates remain elevated. Exercise extra caution at night and stick to busy, well-lit areas."
+    },
+    {
+      "name": "College Park",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Area near the airport with the highest crime rates in Georgia. Violent crime rate of 1,559 per 100,000 residents makes this neighborhood unsuitable for tourists."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Booking Websites",
+      "risk": "high",
+      "description": "AI-generated websites that look identical to legitimate travel sites, taking payment for non-existent accommodations or tickets",
+      "howToAvoid": "Book only through official websites, verify URLs carefully, and use secure payment methods with fraud protection"
+    },
+    {
+      "name": "Digital Arrest Scam",
+      "risk": "high",
+      "description": "Fraudsters pose as customs officials or police using deepfake technology, claiming illegal items linked to your passport and demanding cryptocurrency payments",
+      "howToAvoid": "Real law enforcement never demands money over the phone or video call. Hang up immediately and contact official agencies directly through verified numbers"
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "medium",
+      "description": "Fake QR codes placed over legitimate ones at restaurants and tourist spots, leading to malicious websites that steal credit card information",
+      "howToAvoid": "Avoid scanning QR codes that look like stickers. Type restaurant websites directly into your browser instead of scanning codes"
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers at the airport refuse to use meters and attempt to charge inflated flat rates",
+      "howToAvoid": "Insist the meter be used, know approximate costs in advance, or use official rideshare apps like Uber or Lyft instead"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Atlanta can be navigated safely by solo female travelers with proper precautions. Areas like Midtown, Buckhead, and Virginia Highland are generally welcoming, with good lighting and regular foot traffic. The MARTA system is relatively safe during daytime hours, though evening use requires extra caution. Many female travelers report positive experiences when staying aware of surroundings and avoiding isolated areas after dark.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like Buckhead or Midtown",
+      "Use rideshare services or taxis instead of walking alone late at night",
+      "Avoid certain MARTA stations like College Park and Five Points during evening hours",
+      "Keep valuables secure and avoid displaying expensive jewelry or electronics",
+      "Trust your instincts and move to busier, well-lit areas if feeling uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Atlanta's nightlife can be enjoyed safely with appropriate precautions. The city has invested significantly in nightlife safety through its dedicated Nightlife Division, which works to reduce crime through non-policing community outreach. Areas like Buckhead, Midtown, and parts of Downtown offer vibrant nightlife with good security presence. However, crime rates do increase after dark, particularly in less populated areas.",
+    "tips": [
+      "Stick to busy, well-lit entertainment districts like Buckhead and Midtown",
+      "Travel in groups when possible and use the buddy system",
+      "Use rideshare services or taxis instead of walking long distances at night",
+      "Avoid carrying large amounts of cash and keep phones charged for emergencies",
+      "Stay aware of your drink and never leave it unattended in bars or clubs"
+    ]
+  },
+  "transport": {
+    "metro": "MARTA provides efficient rail and bus service connecting major destinations including the airport. Generally safe during daytime with dedicated MARTA police force and low crime rates compared to other major transit systems. Exercise caution at certain stations like College Park and Five Points, especially during evening hours.",
+    "rideshare": "Uber and Lyft are widely available and generally considered safer than traditional taxis. Pickup zones are clearly marked at major venues. Drivers undergo background checks and trips can be tracked via apps. Standard tipping is 15-20% of fare.",
+    "taxis": "Traditional taxis are available but less reliable than rideshare services. Fixed rates to downtown from airport ($36-48). Some drivers attempt scams by not using meters, so insist on meter use or exit vehicle if refused.",
+    "tips": "Public transportation is most reliable during business hours. For late night travel, rideshare services are recommended over public transit or walking. Airport connections via MARTA are convenient and cost-effective at $2.50 per ride."
+  },
+  "customs": [
+    "Tipping 15-20% is expected at restaurants, bars, and for services like taxis and hotel staff",
+    "Friendly customer service with frequent check-ins from servers and staff is normal, not intrusive",
+    "Direct communication is valued, though Americans often soften requests with polite phrases like 'could you please'"
+  ],
+  "health": {
+    "overview": "Atlanta offers world-class healthcare with multiple nationally-ranked hospitals. Emory University Hospital ranks #1 in Georgia for the 14th consecutive year, with excellent trauma care and specialized services.",
+    "water": "Tap water is safe to drink throughout Atlanta and meets all federal safety standards.",
+    "vaccinations": "No special vaccinations required for domestic travelers. Standard travel health precautions apply.",
+    "altitude": "Atlanta sits at 1,050 feet elevation with a humid subtropical climate. Summers are hot and humid, winters are mild. No altitude-related health concerns for most visitors."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or (404) 658-6666 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A (domestic travel). For international visitors: Atlanta is a major US city with full emergency services available through 911 system."
+  },
+  "faq": [
+    {
+      "q": "Is Atlanta safe for tourists?",
+      "a": "Atlanta is reasonably safe for tourists who take normal urban precautions. Crime has decreased significantly in recent years, and popular tourist areas like Buckhead, Midtown, and major attractions have good security. Stay aware of your surroundings and avoid isolated areas, especially after dark."
+    },
+    {
+      "q": "Is Atlanta safe at night?",
+      "a": "Atlanta's nightlife areas like Buckhead and Midtown are generally safe with good lighting and security presence. However, crime rates do increase after dark. Travel in groups when possible, use rideshare services for transportation, and stick to busy, well-lit areas."
+    },
+    {
+      "q": "Is Atlanta safe for solo female travelers?",
+      "a": "Solo female travelers can visit Atlanta safely with proper precautions. Stay in well-reviewed accommodations in safe neighborhoods, use rideshare services for evening transportation, and remain aware of surroundings. Areas like Virginia Highland and Buckhead are particularly female-friendly."
+    },
+    {
+      "q": "What areas should I avoid in Atlanta?",
+      "a": "Avoid College Park (highest crime rates in Georgia), parts of East Point, and isolated areas around certain MARTA stations like Five Points after dark. Research specific neighborhoods before visiting and trust local advice about areas to avoid."
+    },
+    {
+      "q": "Is it safe to use public transport in Atlanta?",
+      "a": "MARTA is generally safe during daytime hours with dedicated police force and good safety record. However, avoid certain stations like College Park and Five Points during evening hours. For late night travel, rideshare services are recommended over public transit."
+    }
+  ],
+  "relatedCities": [
+    "nashville",
+    "charlotte",
+    "miami",
+    "new-orleans",
+    "washington-dc"
+  ],
+  "_city_id": "atlanta-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/1280px-A2ATL20250614-0721_%28cropped%29.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "philadelphia",
+  "name": "Philadelphia",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.2,
+    "scamRisk": 6.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Philadelphia has dramatically improved its safety profile in 2025-2026, recording the fewest homicides in nearly 60 years and significant drops in violent and property crime. While certain neighborhoods require more caution, the city's walkable downtown, strong public transportation system, and active nightlife safety initiatives make it increasingly tourist-friendly.",
+  "quickVerdict": "Philadelphia is experiencing a remarkable safety turnaround, with 2025 marking historic lows in violent crime and homicides dropping to levels not seen since 1966. The city's walkable Center City, comprehensive SEPTA transit system, and new nightlife safety certifications create a generally safe environment for tourists. While some neighborhoods still require caution and petty crime persists, Philadelphia's improving crime statistics, strong healthcare infrastructure, and minimal natural disaster risks make it a reasonably safe destination for visitors who take standard urban precautions.",
+  "neighborhoods": [
+    {
+      "name": "Center City/Rittenhouse Square",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The heart of Philadelphia's tourist zone with well-lit streets, active business districts, and regular police presence. Rittenhouse Square offers upscale dining and shopping with good walkability during day and evening hours."
+    },
+    {
+      "name": "Old City/Independence Hall Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic district with major tourist attractions including Independence Hall and Liberty Bell. Heavy tourist traffic and security presence make this area generally safe, though stay alert for pickpocketing in crowded areas."
+    },
+    {
+      "name": "University City",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Home to University of Pennsylvania and Drexel with enhanced campus security, blue-light emergency phones, and good lighting. Safety decreases beyond 40th Street where density drops."
+    },
+    {
+      "name": "Fishtown/Northern Liberties",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy neighborhoods with active nightlife and dining scenes. Generally safe but exercise caution late at night, especially around bar areas where crowd dynamics can change quickly."
+    },
+    {
+      "name": "South Philadelphia",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tight-knit community with good block watch programs and local engagement. Tourist areas like the Italian Market are generally safe, but avoid walking alone after midnight near entertainment districts."
+    },
+    {
+      "name": "North Philadelphia/Kensington",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Areas with higher crime rates and ongoing substance abuse issues. Visitors should avoid these neighborhoods, especially after dark, and use rideshare or taxi services if travel is necessary."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Online Travel Bookings",
+      "risk": "high",
+      "description": "AI-generated fake hotel and tour websites that look legitimate but result in no actual reservations when you arrive. Ghost bookings are increasingly sophisticated with realistic confirmation emails.",
+      "howToAvoid": "Book only through verified hotel websites or established booking platforms. Call the hotel directly to confirm reservations. Avoid deals that seem too good to be true."
+    },
+    {
+      "name": "Overcharging by Unlicensed Transport",
+      "risk": "medium",
+      "description": "Unlicensed taxis at airports and train stations charging inflated fares, or fake rideshare drivers using cloned apps. Some may not use meters or quote excessive flat rates to tourists.",
+      "howToAvoid": "Use official rideshare apps like Uber or Lyft and verify driver details match the app. For taxis, ensure they use meters and know standard rates ($2.70 base + $3/mile, $32 flat rate from airport to Center City)."
+    },
+    {
+      "name": "Street Distraction Schemes",
+      "risk": "medium",
+      "description": "Groups offering 'free' items like bracelets or flowers, then demanding aggressive payment. Pickpocket gangs create distractions with staged arguments, petitions, or sudden commotions while accomplices steal.",
+      "howToAvoid": "Politely decline all 'free' items from strangers. Keep valuables secure and stay aware of your surroundings in crowded tourist areas. Don't engage with aggressive solicitors."
+    },
+    {
+      "name": "Rental Car Damage Claims",
+      "risk": "low",
+      "description": "False claims of pre-existing damage to rental cars or equipment you didn't cause, often targeting tourists unfamiliar with local practices and pressuring for immediate cash payment.",
+      "howToAvoid": "Photograph all rental vehicles thoroughly before and after use. Get written contracts and receipts. Refuse verbal-only agreements and document any existing damage with rental company representatives."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Philadelphia is increasingly recognized as a welcoming city for solo female travelers, with women-centered tours, female-owned establishments, and improving safety statistics. The city's walkable downtown, good public transportation, and active daytime culture make it manageable for women traveling alone, though standard urban precautions apply.",
+    "tips": [
+      "Stay in well-lit, central areas like Center City or Rittenhouse Square with good foot traffic",
+      "Use rideshare apps or official taxis rather than walking alone late at night",
+      "Take advantage of women's history tours and female-owned restaurants and bars throughout the city",
+      "Keep to main streets and avoid shortcuts through parks or less populated areas after dark",
+      "Trust your instincts and don't hesitate to enter a business or call for help if you feel unsafe"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Philadelphia's nightlife safety has improved significantly with the new Liberty Bell Safe Certification Program for bars and venues. Center City and popular nightlife districts have good lighting and activity, but safety varies greatly by specific location and time. The city's 1 AM last call helps prevent extremely late-night issues.",
+    "tips": [
+      "Stick to certified safe venues and well-established nightlife areas in Center City",
+      "Use rideshare services or official taxis rather than walking long distances at night",
+      "Stay in groups when possible and avoid isolated areas or shortcuts through parks",
+      "Plan your route back to accommodation in advance and avoid subway service after midnight when it becomes limited",
+      "Be extra cautious around bar closing times (1 AM) when crowds and conflicts are more likely"
+    ]
+  },
+  "transport": {
+    "metro": "SEPTA operates one of the most comprehensive transit systems in the US with buses, subway lines (Market-Frankford and Broad Street), and regional rail. Service typically runs 5 AM to 1 AM with some routes operating 24/7. Current fares are $2.90, though potential service cuts are planned for 2026 due to budget issues.",
+    "rideshare": "Uber and Lyft are widely available and convenient throughout Philadelphia. Generally safe and reliable option for tourists, especially late at night when public transit is limited. Always verify driver and vehicle details before entering.",
+    "taxis": "Professional medallioned taxis available at transportation hubs and can be hailed on busy streets. Standard rates are $2.70 base fare plus $3 per mile, with a flat $32 rate between airport and Center City. Accessible taxi services available from most providers.",
+    "tips": "SEPTA Key cards offer the most convenient way to use public transit. For late-night travel, rideshare is safest option. Walking is excellent in Center City during daylight hours - the city was voted most walkable for visitors three years running."
+  },
+  "customs": [
+    "Americans are generally direct but polite in communication - don't be offended by straightforward responses",
+    "Tipping is expected: 18-20% at restaurants, $1-2 per drink at bars, 15-20% for taxi/rideshare drivers",
+    "Smoking is prohibited in all indoor public spaces including restaurants, bars, and public buildings"
+  ],
+  "health": {
+    "overview": "Philadelphia has excellent healthcare infrastructure with major medical centers and comprehensive public health services. The city faces ongoing health equity challenges, with some communities having limited access to care, but tourists can access high-quality medical services throughout the metropolitan area.",
+    "water": "Tap water is safe to drink throughout Philadelphia and meets all federal safety standards. The city maintains extensive water quality monitoring systems.",
+    "vaccinations": "No special vaccinations required for visiting Philadelphia. Routine vaccinations (MMR, flu, COVID-19 boosters) are recommended as for any urban destination.",
+    "altitude": "Philadelphia is at sea level with a humid subtropical climate. Summers can be hot and humid with temperatures reaching 85-90°F. Winters are mild to cold with occasional snow. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 311 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Philadelphia is within the United States - US citizens should contact local authorities for emergencies. International visitors can contact their respective embassies in Washington DC or local consulates."
+  },
+  "faq": [
+    {
+      "q": "Is Philadelphia safe for tourists?",
+      "a": "Yes, Philadelphia has dramatically improved its safety profile with 2025 recording historic lows in violent crime. Tourist areas like Center City, Old City, and major attractions are generally safe with proper precautions. Avoid certain neighborhoods like North Philadelphia and Kensington, especially at night."
+    },
+    {
+      "q": "Is Philadelphia safe at night?",
+      "a": "Nightlife areas in Center City and established districts are reasonably safe, especially with the new Liberty Bell Safe Certification program for venues. However, safety varies greatly by location. Use rideshare services for transportation and stick to well-lit, busy areas. Avoid walking alone in unfamiliar neighborhoods after dark."
+    },
+    {
+      "q": "Is Philadelphia safe for solo female travelers?",
+      "a": "Philadelphia is increasingly female-friendly with women-centered tours, female-owned businesses, and good walkability in tourist areas. Stay in central neighborhoods, use rideshare at night, and take standard urban precautions. The city has active women's travel communities and resources."
+    },
+    {
+      "q": "What areas should I avoid in Philadelphia?",
+      "a": "Avoid North Philadelphia, Kensington, and parts of West Philadelphia, especially after dark. Even in safer neighborhoods like Rittenhouse Square, be cautious in poorly lit areas. Some sections of South Philadelphia require more caution late at night, particularly around bar districts."
+    },
+    {
+      "q": "Is it safe to use public transport in Philadelphia?",
+      "a": "SEPTA public transportation is generally safe and comprehensive, with buses, subway, and regional rail serving most tourist areas. Exercise normal urban transit precautions, stay aware of surroundings, and consider rideshare for late-night travel when service is limited. The system faces potential service cuts in 2026 due to budget constraints."
+    }
+  ],
+  "relatedCities": [
+    "new-york",
+    "washington-dc",
+    "boston",
+    "baltimore",
+    "pittsburgh"
+  ],
+  "_city_id": "philadelphia-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg/1280px-Philadelphia_skyline_20240528_%28cropped_2-1%29.jpg"
+}

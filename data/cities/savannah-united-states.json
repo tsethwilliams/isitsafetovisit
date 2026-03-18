@@ -1,0 +1,166 @@
+{
+  "slug": "savannah",
+  "name": "Savannah",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.0,
+    "nightSafety": 6.0,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Savannah is a popular historic tourist destination in Georgia with charming architecture and Southern hospitality. While generally safe for visitors who stay in well-traveled areas, the city has moderate crime rates that require basic safety awareness, particularly at night.",
+  "quickVerdict": "Savannah offers a relatively safe experience for tourists who exercise common sense and stay in well-patrolled areas like the Historic District. Crime rates have been declining since 2022, with 2024 showing significant improvements across most categories. The city's tourism-focused infrastructure provides good safety resources, though visitors should remain vigilant in certain areas and avoid poorly lit zones at night.",
+  "neighborhoods": [
+    {
+      "name": "Historic District - Central",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Savannah's tourism with active foot traffic, good lighting, and frequent police patrols. Safest during daylight hours with many attractions and restaurants."
+    },
+    {
+      "name": "Forsyth Park Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-maintained area around the iconic park with good daytime safety. Popular with tourists and joggers, though caution advised in the park after dark."
+    },
+    {
+      "name": "Isle of Hope",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Peaceful waterfront neighborhood with low crime rates and a tight-knit community. One of the safest residential areas in Savannah."
+    },
+    {
+      "name": "Ardsley Park",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic neighborhood with well-established community and low crime rates. Family-friendly area with beautiful architecture."
+    },
+    {
+      "name": "West Savannah",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Higher poverty and crime rates make this area challenging for visitors. Avoid especially after dark and exercise extreme caution during day visits."
+    },
+    {
+      "name": "Areas North of Victory Drive",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Includes parts of Cloverdale and Carver Heights with elevated crime risks. Not recommended for tourists, particularly solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Company Scams",
+      "risk": "medium",
+      "description": "Fraudulent walking tour companies take payment but fail to show up or provide services advertised.",
+      "howToAvoid": "Book tours only through verified companies with strong online reviews and physical addresses. Avoid deals that seem too good to be true."
+    },
+    {
+      "name": "Front Desk Phone Scam",
+      "risk": "medium",
+      "description": "Scammers call hotel rooms claiming to be front desk and request credit card information for supposed billing errors.",
+      "howToAvoid": "Never give credit card information over the phone. Hang up and call the front desk directly using the hotel's verified number."
+    },
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "high",
+      "description": "Fake rental listings posted at low prices to collect upfront payments for properties that don't exist or aren't actually for rent.",
+      "howToAvoid": "Use reputable platforms, verify property ownership, avoid wire transfers, and be suspicious of prices significantly below market rate."
+    },
+    {
+      "name": "Pickpocketing in Tourist Areas",
+      "risk": "medium",
+      "description": "Professional pickpockets target tourists in crowded areas like City Market and during events or festivals.",
+      "howToAvoid": "Keep valuables secure in front pockets or hidden pouches, stay aware in crowds, and avoid displaying expensive items or large amounts of cash."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Savannah is generally considered safe for solo female travelers, particularly in the Historic District where there's consistent foot traffic and good lighting. The city's tourism infrastructure and Southern hospitality create a welcoming environment. However, standard solo travel precautions are essential, especially regarding nighttime activities and alcohol consumption.",
+    "tips": [
+      "Stay in well-lit, busy areas of the Historic District, particularly the northern sections",
+      "Limit alcohol consumption and never accept drinks from strangers or leave drinks unattended",
+      "Use rideshare services like Uber or Lyft instead of walking alone after dark",
+      "Trust your instincts and don't feel obligated to be polite if someone makes you uncomfortable",
+      "Inform someone of your plans and check in regularly during your visit"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Savannah varies significantly by location. The Historic District maintains reasonable safety with good lighting and police presence, but caution is advised after 9 PM. Areas outside the main tourist zones become considerably more dangerous after dark, and even in safe areas, staying alert and avoiding isolated spots is crucial.",
+    "tips": [
+      "Stick to well-lit main streets like Bull Street and Broughton Street after dark",
+      "Avoid walking alone in Forsyth Park or other green spaces at night",
+      "Use the free Downtowner shuttle service available from 5 PM to 5 AM in downtown areas",
+      "Stay in groups when possible and avoid displaying valuables or appearing intoxicated",
+      "Be extra cautious during major events when crowds and alcohol consumption increase"
+    ]
+  },
+  "transport": {
+    "metro": "Savannah does not have a metro system. Public transportation is provided by Chatham Area Transit (CAT) buses with basic routes throughout the city at $1.50 per ride.",
+    "rideshare": "Uber and Lyft operate reliably throughout Savannah with good availability in tourist areas. Both services include safety features and are generally the safest transportation option for visitors.",
+    "taxis": "Traditional taxis are available but less convenient than rideshare services. Fares are higher than Uber/Lyft, though they can be more reliable for scheduled pickups.",
+    "tips": "Use rideshare apps for maximum safety and convenience. The city also offers free Downtowner shuttle service in the Historic District from 5 PM to 5 AM. Avoid unlicensed taxi services and always verify your ride before getting in."
+  },
+  "customs": [
+    "Southern hospitality is genuine - locals are generally friendly and helpful to visitors",
+    "Tipping 18-20% is expected at restaurants and bars, with additional tips for tour guides",
+    "Savannah has a relaxed, slower pace - don't rush through interactions with locals",
+    "The city has a strong drinking culture, especially around the Historic District squares",
+    "Respect historic sites and architecture - many buildings are centuries old and protected"
+  ],
+  "health": {
+    "overview": "Savannah has adequate medical facilities with Memorial Health University Medical Center being the main hospital. The city's coastal location means high humidity and heat in summer months can affect some visitors.",
+    "water": "Tap water is generally safe to drink and meets federal standards, though some residents prefer filtered water due to taste from treatment processes. Water quality reports show compliance with safety regulations.",
+    "vaccinations": "No special vaccinations are required for visiting Savannah. Standard US travel health precautions apply, including ensuring routine vaccinations are up to date.",
+    "altitude": "Savannah is at sea level with a humid subtropical climate. Summer temperatures can reach 90°F+ with very high humidity. Stay hydrated and use sun protection when outdoors."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "912-651-6675",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consular services available through Atlanta office: (404) 815-2000 for non-emergency assistance"
+  },
+  "faq": [
+    {
+      "q": "Is Savannah safe for tourists?",
+      "a": "Yes, Savannah is generally safe for tourists who stay in well-traveled areas like the Historic District and exercise normal safety precautions. Crime rates have been improving, and the city has good tourism infrastructure."
+    },
+    {
+      "q": "Is Savannah safe at night?",
+      "a": "The Historic District is reasonably safe at night with good lighting and foot traffic, but caution is advised after 9 PM. Avoid isolated areas, parks after dark, and neighborhoods outside the main tourist zones."
+    },
+    {
+      "q": "Is Savannah safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Savannah safely. Stay in busy, well-lit areas, limit alcohol consumption, use rideshare services at night, and trust your instincts about uncomfortable situations."
+    },
+    {
+      "q": "What areas should I avoid in Savannah?",
+      "a": "Avoid West Savannah, areas north of Victory Drive including parts of Cloverdale and Carver Heights, and any neighborhood outside the main tourist areas after dark. Even Forsyth Park should be avoided at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Savannah?",
+      "a": "Uber and Lyft are the safest transportation options. CAT buses are generally safe during daytime but have limited routes. The free Downtowner shuttle in the Historic District is a good option for evening transport."
+    }
+  ],
+  "relatedCities": [
+    "charleston",
+    "atlanta",
+    "new-orleans",
+    "jacksonville",
+    "richmond"
+  ],
+  "_city_id": "savannah-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarangire-Natpark800600.jpg/1280px-Tarangire-Natpark800600.jpg"
+}

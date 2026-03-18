@@ -1,0 +1,164 @@
+{
+  "slug": "houston",
+  "name": "Houston",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.8,
+    "scamRisk": 6.2,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.2,
+    "naturalHazards": 5.3
+  },
+  "summary": "Houston is a sprawling metropolitan city where safety varies significantly by neighborhood, with downtown and tourist areas generally well-patrolled during the day. The city faces challenges with flooding, hurricanes, and higher crime rates than national averages, but millions visit safely each year.",
+  "quickVerdict": "Houston requires awareness but shouldn't deter visitors who stay informed. Crime rates have declined in recent years, and tourist areas like Downtown, Museum District, and the Heights offer good safety when using common sense. The biggest risks come from natural disasters like hurricanes and flooding, plus property crime in certain neighborhoods. Solo female travelers should stick to well-lit areas and use rideshare after dark.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Discovery Green",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-patrolled business district with good police presence, hotels, restaurants and attractions. Generally safe during day and early evening with regular foot traffic and security."
+    },
+    {
+      "name": "Museum District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Cultural hub with world-class museums, Rice University nearby, and regular police patrols. Well-maintained area popular with tourists and families during daytime hours."
+    },
+    {
+      "name": "The Heights",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Trendy neighborhood with restaurants, shops and nightlife. Generally safe but use caution walking alone at night. Popular with young professionals and visitors."
+    },
+    {
+      "name": "Third Ward",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic African American neighborhood with cultural attractions but higher crime rates. Exercise caution, especially at night, though daytime visits to established venues are generally fine."
+    },
+    {
+      "name": "Gulfton/Sharpstown",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Southwest Houston area with higher property and violent crime rates. Avoid walking alone, especially after dark. Consider alternative accommodations and transportation."
+    },
+    {
+      "name": "Sunnyside/South Park",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Southeast Houston neighborhoods with elevated crime statistics. High rates of violent crime make these areas unsuitable for tourists, particularly solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Travel Booking Websites",
+      "risk": "high",
+      "description": "AI-generated travel sites that mimic legitimate booking platforms like Expedia or Airbnb, taking payment for non-existent accommodations or flights.",
+      "howToAvoid": "Book directly with hotels or airlines, check URLs carefully for typos, verify company reviews, and use secure payment methods. Be suspicious of deals that seem too good to be true."
+    },
+    {
+      "name": "Airport Transportation Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed drivers at IAH and Hobby airports offering rides at inflated prices, or taxi drivers taking longer routes to increase fares.",
+      "howToAvoid": "Use official airport shuttles, pre-booked rideshares like Uber/Lyft, or the new METRO 500 Downtown Direct service. Agree on taxi fares beforehand and use the meter."
+    },
+    {
+      "name": "QR Code Phishing (Quishing)",
+      "risk": "medium",
+      "description": "Fake QR codes placed over legitimate ones at restaurants, tourist attractions, or parking meters to steal credit card information or install malware.",
+      "howToAvoid": "Don't scan QR codes that appear to be stickers. Type website URLs directly into your browser instead. Check payment screens carefully before entering card details."
+    },
+    {
+      "name": "Street Vendor Overcharging",
+      "risk": "low",
+      "description": "Vendors in tourist areas like Downtown or near NRG Stadium charging excessive prices for souvenirs, food, or drinks, especially during events.",
+      "howToAvoid": "Compare prices at multiple vendors, negotiate politely, carry small bills, and know that you can walk away. Research typical prices beforehand."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Houston can be navigated safely by solo female travelers with proper precautions. The city has active social scenes for women, particularly in areas like the Museum District and Heights. Downtown areas are generally safe during daylight hours with good police presence, though evening activities should be planned carefully with reliable transportation.",
+    "tips": [
+      "Stay in well-reviewed hotels in Downtown, Museum District, or Heights neighborhoods with 24/7 front desk service",
+      "Use rideshare apps like Uber/Lyft after dark rather than walking, and share your location with someone you trust",
+      "Consider joining Houston Solo Female Travel groups on social media to connect with other women travelers and get current safety updates",
+      "Avoid isolated areas and trust your instincts - if something feels off, leave the situation immediately",
+      "Keep emergency contacts saved and know how to contact local police (911) and non-emergency services (713-884-3131)"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Houston's nightlife safety varies dramatically by location. Downtown areas near hotels and entertainment venues maintain better security, while suburban and outlying areas can become isolated after dark. The city's car-centric nature means many areas lack foot traffic at night, requiring careful transportation planning.",
+    "tips": [
+      "Stick to well-lit areas with active nightlife like Downtown, Midtown, or the Heights for evening activities",
+      "Always use rideshare or taxis rather than walking alone at night, even for short distances",
+      "Travel in groups when possible and establish meeting points before splitting up",
+      "Avoid displaying expensive items like jewelry or electronics conspicuously",
+      "Research venues beforehand and inform someone of your planned location and expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "METRO operates light rail connecting Downtown to NRG Stadium, Museum District, and University of Houston. Generally safe during day with security cameras and regular patrols, but exercise caution during late evening hours. The new 500 Downtown Direct provides airport connections.",
+    "rideshare": "Uber and Lyft are widely available and considered the safest transportation option, especially for visitors. Always verify driver identity and license plate before entering. Both apps have safety features including GPS tracking and emergency buttons.",
+    "taxis": "Licensed taxis are available but less common than rideshare. Use official taxi companies and ensure the meter is running. The Curb app connects to Lone Star Cab for reliable service. Avoid unlicensed vehicles at airports.",
+    "tips": "Houston is very car-dependent with limited public transit coverage. Plan transportation in advance, especially for areas outside downtown. The new METRONow electric shuttles serve specific neighborhoods but have limited coverage."
+  },
+  "customs": [
+    "Americans value punctuality - arrive on time for reservations and appointments",
+    "Tipping is mandatory in restaurants (15-20%), for taxi drivers, and service staff who rely on tips for income",
+    "Personal space is important - maintain arm's length distance in conversations and avoid physical contact with strangers"
+  ],
+  "health": {
+    "overview": "Houston has excellent medical facilities including the world-renowned Texas Medical Center. Air quality can be poor due to petrochemical industry, and the hot, humid climate requires precautions. No special vaccinations required for US domestic travel.",
+    "water": "Tap water is safe to drink throughout Houston and meets federal safety standards. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No specific vaccinations required for domestic US travel. Standard travel vaccines like flu shots are recommended. COVID-19 guidelines follow federal recommendations.",
+    "altitude": "Houston sits at sea level with hot, humid subtropical climate. Summer temperatures often exceed 90°F (32°C) with high humidity. Stay hydrated and limit outdoor activity during peak heat hours (11am-4pm)."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "713-884-3131 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Houston does not have a US Embassy (domestic city). For international visitors: nearest consulates are in Houston's consular district. Contact US State Department at 1-888-407-4747 for citizen services."
+  },
+  "faq": [
+    {
+      "q": "Is Houston safe for tourists?",
+      "a": "Yes, when staying in tourist-friendly areas like Downtown, Museum District, and Heights while exercising normal urban precautions. Crime has decreased in recent years, and millions visit safely annually."
+    },
+    {
+      "q": "Is Houston safe at night?",
+      "a": "Downtown and well-lit entertainment districts are relatively safe with regular police patrols. However, many areas become isolated after dark due to Houston's sprawling nature. Use rideshare services and stay in groups when possible."
+    },
+    {
+      "q": "Is Houston safe for solo female travelers?",
+      "a": "Yes, with proper precautions. Stay in recommended neighborhoods, use rideshare after dark, trust your instincts, and consider connecting with other female travelers through local groups. Many women travel Houston solo successfully."
+    },
+    {
+      "q": "What areas should I avoid in Houston?",
+      "a": "Avoid Sunnyside, South Park, parts of Gulfton, and areas around Hobby Airport after dark. Research specific neighborhoods before visiting and stick to well-reviewed areas for accommodations and activities."
+    },
+    {
+      "q": "Is it safe to use public transport in Houston?",
+      "a": "METRO rail and buses are generally safe during daytime with security cameras and patrols. However, Houston's public transit is limited, so rideshare services like Uber/Lyft are often more practical and safer, especially at night."
+    }
+  ],
+  "relatedCities": [
+    "dallas",
+    "austin",
+    "san-antonio",
+    "new-orleans",
+    "atlanta"
+  ],
+  "_city_id": "houston-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/1280px-Texas_medical_center.jpg"
+}

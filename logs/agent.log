@@ -1955,3 +1955,50 @@
 2026-03-18 05:20:32,289 [WARNING]   [low] kuala_lumpur: Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.
 2026-03-18 06:42:51,956 [INFO] Agent starting — mode: refresh
 2026-03-18 06:42:52,036 [INFO] Found 0 stale cities, refreshing 0
+2026-03-18 07:38:09,426 [INFO] Agent starting — mode: add
+2026-03-18 07:38:09,463 [INFO] Queue has 271 cities, adding 8
+2026-03-18 07:38:09,463 [INFO] Generating new city profile: Denver, United States
+2026-03-18 07:39:49,630 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:39:49,972 [INFO] Found Wikipedia image for Denver
+2026-03-18 07:39:49,972 [INFO] Saved city data: denver-united-states
+2026-03-18 07:39:49,976 [INFO] Generating new city profile: San Diego, United States
+2026-03-18 07:41:28,787 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:41:29,077 [INFO] Found Wikipedia image for San Diego
+2026-03-18 07:41:29,078 [INFO] Saved city data: san-diego-united-states
+2026-03-18 07:41:29,081 [INFO] Generating new city profile: Savannah, United States
+2026-03-18 07:42:07,842 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:42:07,976 [ERROR] Claude returned empty text response
+2026-03-18 07:42:07,976 [ERROR] Failed to parse city data for Savannah (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-18 07:42:07,976 [INFO] Retry 1/2 for Savannah
+2026-03-18 07:43:37,428 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:43:37,810 [INFO] Found Wikipedia image for Savannah
+2026-03-18 07:43:37,810 [INFO] Saved city data: savannah-united-states
+2026-03-18 07:43:37,813 [INFO] Generating new city profile: Charleston, United States
+2026-03-18 07:45:14,419 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:45:15,419 [INFO] Saved city data: charleston-united-states
+2026-03-18 07:45:15,422 [INFO] Generating new city profile: Philadelphia, United States
+2026-03-18 07:46:50,247 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:46:50,438 [INFO] Found Wikipedia image for Philadelphia
+2026-03-18 07:46:50,438 [INFO] Saved city data: philadelphia-united-states
+2026-03-18 07:46:50,441 [INFO] Generating new city profile: Dallas, United States
+2026-03-18 07:48:16,035 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:48:16,393 [INFO] Found Wikipedia image for Dallas
+2026-03-18 07:48:16,393 [INFO] Saved city data: dallas-united-states
+2026-03-18 07:48:16,396 [INFO] Generating new city profile: Houston, United States
+2026-03-18 07:49:48,869 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:49:49,041 [INFO] Found Wikipedia image for Houston
+2026-03-18 07:49:49,042 [INFO] Saved city data: houston-united-states
+2026-03-18 07:49:49,045 [INFO] Generating new city profile: Atlanta, United States
+2026-03-18 07:51:16,263 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 07:51:16,519 [INFO] Found Wikipedia image for Atlanta
+2026-03-18 07:51:16,520 [INFO] Saved city data: atlanta-united-states
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Denver
+2026-03-18 07:51:16,557 [INFO] Merged into site data: San Diego
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Savannah
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Charleston
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Philadelphia
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Dallas
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Houston
+2026-03-18 07:51:16,557 [INFO] Merged into site data: Atlanta
+2026-03-18 07:51:16,613 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-18 07:51:16,645 [INFO] Rebuilt sitemap with 422 URLs (302 cities, 114 countries, 6 static)
