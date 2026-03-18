@@ -1,0 +1,159 @@
+{
+  "slug": "monteverde",
+  "name": "Monteverde",
+  "country": "Costa Rica",
+  "countryCode": "CR",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 7.4
+  },
+  "summary": "Monteverde is one of Costa Rica's safest destinations, offering low crime rates and well-established tourist infrastructure in a peaceful cloud forest setting. While petty crime like pickpocketing can occur, violent crime is rare, and the area benefits from strong conservation efforts that naturally deter criminal activity.",
+  "quickVerdict": "Monteverde stands out as an exceptionally safe destination for travelers visiting Costa Rica. The cloud forest town maintains significantly lower crime rates compared to urban areas like San José, with violent crimes being extremely rare and most incidents limited to minor petty theft. The well-developed ecotourism infrastructure, combined with the area's remote mountain location and conservation focus, creates a naturally secure environment where visitors can explore with confidence.",
+  "neighborhoods": [
+    {
+      "name": "Santa Elena Town Center",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The main hub with shops, restaurants, and accommodations. Well-lit and frequently patrolled, making it very safe for tourists day and night."
+    },
+    {
+      "name": "Monteverde Cloud Forest Area",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The protected reserve area with established trails and guided tours. Extremely safe with professional guides and well-maintained facilities."
+    },
+    {
+      "name": "Cerro Plano",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential area between Santa Elena and Monteverde with many hotels and restaurants. Safe walking area with good lighting on main roads."
+    },
+    {
+      "name": "Adventure Parks Zone",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Area with zip-line canopy tours and adventure activities. Well-managed commercial zones with good security and transportation services."
+    },
+    {
+      "name": "Coffee Farm Areas",
+      "score": 7.3,
+      "class": "safe",
+      "description": "Rural areas with coffee plantations and farm tours. Generally safe but more isolated, best visited with organized tours or guides."
+    },
+    {
+      "name": "Remote Forest Trails",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Less traveled hiking paths and wilderness areas. Safe from crime but poses natural risks; always use guides and inform others of plans."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Companies",
+      "risk": "medium",
+      "description": "Illegitimate tour operators offering discounted rates but providing substandard service or requesting upfront deposits without proper credentials.",
+      "howToAvoid": "Book tours through established companies with physical offices and check Google reviews. Verify credentials and avoid paying large deposits upfront."
+    },
+    {
+      "name": "Car Rental Insurance Scams",
+      "risk": "high",
+      "description": "Rental companies quote low prices but add mandatory insurance fees not included in initial quotes, sometimes doubling the cost.",
+      "howToAvoid": "Research rental companies thoroughly, ask for total costs including all insurance, and book with reputable international chains when possible."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "low",
+      "description": "Some taxi drivers may quote inflated rates to tourists unfamiliar with local prices, especially for longer distances.",
+      "howToAvoid": "Ask your hotel to call a reputable taxi service, agree on price beforehand, and learn approximate rates for common destinations."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Unscrupulous restaurants may add extra charges or inflate tips on credit card receipts after payment.",
+      "howToAvoid": "Review bills carefully, take photos of receipts, specify cash tips separately, and dine at established restaurants with good reviews."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Monteverde is excellent for solo female travelers, with very low crime rates and a welcoming tourism infrastructure. The cloud forest town is considered one of Costa Rica's safest destinations, with established trails, professional guides, and a strong expat community that contributes to overall safety.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Santa Elena town center for easy access to restaurants and services",
+      "Join group tours for forest activities - it's safer and provides better wildlife viewing opportunities",
+      "Avoid walking alone on poorly lit roads at night, especially between towns - take taxis instead"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Monteverde is relatively safe at night, but the mountain location means many roads are unlit and can be challenging to navigate. Most nighttime activities center around guided night tours in the forest or dining in Santa Elena, both of which are generally secure.",
+    "tips": [
+      "Take taxis between towns at night rather than walking on dark, winding roads",
+      "Join organized night tours in the cloud forest - they're safer and more rewarding than exploring alone",
+      "Stay in well-lit areas of Santa Elena town center where most nightlife and dining options are located"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Monteverde",
+    "rideshare": "No Uber or ride-sharing services available in this rural mountain area",
+    "taxis": "Local taxis are the primary transport option, operating on fixed rates rather than meters. Generally safe and reliable, but agree on prices beforehand and use hotel-recommended services",
+    "tips": "Most areas are walkable within Santa Elena, but taxis are essential for reaching attractions. Shuttle services to other cities are reliable and safer than public buses."
+  },
+  "customs": [
+    "Greet people with 'Buenos días' and embrace the 'Pura Vida' philosophy of relaxed, positive living",
+    "Family is extremely important in Costa Rican culture - show respect for family values and extended family connections",
+    "Punctuality is flexible - being 15-30 minutes late to social gatherings is normal and accepted"
+  ],
+  "health": {
+    "overview": "Monteverde has adequate medical facilities for basic needs, with private clinics available. The mountain climate is cool and healthy, reducing tropical disease risks significantly.",
+    "water": "Tap water in Monteverde is generally safe to drink, meeting Costa Rican standards, though some visitors prefer bottled water",
+    "vaccinations": "No special vaccinations required beyond routine ones. Malaria risk is minimal at this elevation",
+    "altitude": "At 1,400 meters elevation with cool, misty climate. Temperatures range from 60-75°F year-round, requiring light jackets"
+  },
+  "emergency": {
+    "general": "911",
+    "police": "117",
+    "ambulance": "128",
+    "fire": "118",
+    "touristPolice": "2258-1008",
+    "usEmbassy": "US Embassy San José: +506 2519-2000. After hours emergency: +506 8863-4895"
+  },
+  "faq": [
+    {
+      "q": "Is Monteverde safe for tourists?",
+      "a": "Yes, Monteverde is one of Costa Rica's safest tourist destinations with very low crime rates, well-established tourism infrastructure, and natural protection from its remote mountain location and conservation focus."
+    },
+    {
+      "q": "Is Monteverde safe at night?",
+      "a": "Monteverde is relatively safe at night, but roads between towns are dark and winding. Stick to well-lit areas in Santa Elena town center and use taxis for transportation rather than walking between areas after dark."
+    },
+    {
+      "q": "Is Monteverde safe for solo female travelers?",
+      "a": "Absolutely. Monteverde is excellent for solo female travelers, offering low crime rates, established tour groups to join, and a welcoming community. Most solo female visitors report feeling very safe throughout their stay."
+    },
+    {
+      "q": "What areas should I avoid in Monteverde?",
+      "a": "There are no truly dangerous areas in Monteverde, but use caution on remote forest trails - always go with guides. Avoid walking alone at night on the dark roads between Santa Elena and Monteverde proper."
+    },
+    {
+      "q": "Is it safe to use transportation in Monteverde?",
+      "a": "Local taxis are safe and reliable, operating on fixed rates. Shuttle services to other destinations are well-regulated. There's no public transport, but walking within Santa Elena town center is safe and easy."
+    }
+  ],
+  "relatedCities": [
+    "la-fortuna",
+    "manuel-antonio",
+    "san-jose-costa-rica",
+    "tamarindo"
+  ],
+  "_city_id": "monteverde-costa-rica",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Monteverdeskyline01.jpg/1280px-Monteverdeskyline01.jpg"
+}

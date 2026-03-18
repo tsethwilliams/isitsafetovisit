@@ -2098,3 +2098,47 @@
 2026-03-18 19:43:38,253 [INFO] Merged into site data: Cabo San Lucas
 2026-03-18 19:43:38,317 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-18 19:43:38,352 [INFO] Rebuilt sitemap with 437 URLs (317 cities, 114 countries, 6 static)
+2026-03-18 23:02:31,353 [INFO] Agent starting — mode: add
+2026-03-18 23:02:31,396 [INFO] Queue has 247 cities, adding 8
+2026-03-18 23:02:31,396 [INFO] Generating new city profile: Monteverde, Costa Rica
+2026-03-18 23:03:46,439 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:03:46,986 [INFO] Found Wikipedia image for Monteverde
+2026-03-18 23:03:46,987 [INFO] Saved city data: monteverde-costa-rica
+2026-03-18 23:03:46,990 [INFO] Generating new city profile: Tamarindo, Costa Rica
+2026-03-18 23:05:19,589 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:05:19,812 [INFO] Found Wikipedia image for Tamarindo
+2026-03-18 23:05:19,813 [INFO] Saved city data: tamarindo-costa-rica
+2026-03-18 23:05:19,816 [INFO] Generating new city profile: Bocas del Toro, Panama
+2026-03-18 23:06:48,707 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:06:48,961 [INFO] Found Wikipedia image for Bocas del Toro
+2026-03-18 23:06:48,962 [INFO] Saved city data: bocas-del-toro-panama
+2026-03-18 23:06:48,965 [INFO] Generating new city profile: Belize City, Belize
+2026-03-18 23:08:18,722 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:08:18,989 [INFO] Found Wikipedia image for Belize City
+2026-03-18 23:08:18,990 [INFO] Saved city data: belize-city-belize
+2026-03-18 23:08:18,993 [INFO] Generating new city profile: San Pedro, Belize
+2026-03-18 23:09:29,183 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:09:29,389 [INFO] Found Wikipedia image for San Pedro
+2026-03-18 23:09:29,390 [INFO] Saved city data: san-pedro-belize
+2026-03-18 23:09:29,393 [INFO] Generating new city profile: Antigua Guatemala, Guatemala
+2026-03-18 23:11:05,763 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:11:06,064 [INFO] Found Wikipedia image for Antigua Guatemala
+2026-03-18 23:11:06,065 [INFO] Saved city data: antigua-guatemala-guatemala
+2026-03-18 23:11:06,068 [INFO] Generating new city profile: Lake Atitlan, Guatemala
+2026-03-18 23:12:22,905 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:12:23,145 [INFO] Found Wikipedia image for Lake Atitlan
+2026-03-18 23:12:23,146 [INFO] Saved city data: lake-atitlan-guatemala
+2026-03-18 23:12:23,149 [INFO] Generating new city profile: San Salvador, El Salvador
+2026-03-18 23:14:16,860 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 23:14:17,147 [INFO] Found Wikipedia image for San Salvador
+2026-03-18 23:14:17,147 [INFO] Saved city data: san-salvador-el-salvador
+2026-03-18 23:14:17,186 [INFO] Merged into site data: Monteverde
+2026-03-18 23:14:17,187 [INFO] Merged into site data: Tamarindo
+2026-03-18 23:14:17,187 [INFO] Merged into site data: Bocas del Toro
+2026-03-18 23:14:17,187 [INFO] Merged into site data: Belize City
+2026-03-18 23:14:17,187 [INFO] Merged into site data: San Pedro
+2026-03-18 23:14:17,187 [INFO] Merged into site data: Antigua Guatemala
+2026-03-18 23:14:17,187 [INFO] Merged into site data: Lake Atitlan
+2026-03-18 23:14:17,187 [INFO] Merged into site data: San Salvador
+2026-03-18 23:14:17,253 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-18 23:14:17,290 [INFO] Rebuilt sitemap with 447 URLs (325 cities, 116 countries, 6 static)

@@ -1,0 +1,165 @@
+{
+  "slug": "san-pedro",
+  "name": "San Pedro",
+  "country": "Belize",
+  "countryCode": "BZ",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 7.6
+  },
+  "summary": "San Pedro, located on Ambergris Caye, is considered one of Belize's safest tourist destinations with excellent tourism police presence and strong community oversight. While petty theft and scams targeting tourists occur, violent crime against visitors is uncommon in this beach town known for diving and water sports.",
+  "quickVerdict": "San Pedro stands out as Belize's premier safe tourist destination. The town benefits from dedicated tourism police, a tight-knit community that looks out for visitors, and infrastructure geared toward international travelers. Most safety concerns involve opportunistic theft and tourist scams rather than violent crime. The island setting provides natural security barriers, and the tourism-dependent economy ensures strong incentives to maintain visitor safety. With basic precautions, travelers can enjoy this Caribbean paradise with confidence.",
+  "neighborhoods": [
+    {
+      "name": "San Pedro Town Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist hub with heavy foot traffic, numerous shops, restaurants, and regular police patrols. Well-lit streets and constant activity make this the safest area for visitors day and night."
+    },
+    {
+      "name": "North Ambergris Caye",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Resort areas and upscale accommodations with private security and controlled access. Popular for luxury resorts and vacation rentals with good infrastructure and emergency response."
+    },
+    {
+      "name": "South Ambergris Caye",
+      "score": 7.5,
+      "class": "safe",
+      "description": "More residential area with local communities and some tourist accommodations. Generally safe but requires more awareness of surroundings, especially at night."
+    },
+    {
+      "name": "Beachfront Areas",
+      "score": 6.9,
+      "class": "caution",
+      "description": "Popular during day but can be isolated at night. Risk of opportunistic theft increases after dark. Stay in groups and avoid leaving valuables unattended on beaches."
+    },
+    {
+      "name": "Back Streets/Residential",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Local residential areas away from main tourist zones. Generally safe during day but avoid wandering alone at night. Less police presence and fewer tourists."
+    },
+    {
+      "name": "Remote Island Areas",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Undeveloped areas of the island with limited access and no infrastructure. Exercise caution when exploring alone. Emergency response may be delayed in these areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Credit Card Skimming",
+      "risk": "high",
+      "description": "ATM skimming devices and card fraud rings are active in San Pedro, particularly targeting tourists. Fraudulent charges often appear after using certain ATMs or establishments.",
+      "howToAvoid": "Use ATMs inside banks with 24/7 cameras when possible. Cover your PIN entry and check for suspicious devices on card readers. Monitor your accounts closely."
+    },
+    {
+      "name": "Overpriced Tours",
+      "risk": "medium",
+      "description": "Unlicensed operators offer cheap tours that may not materialize or provide substandard service. Some operators lack proper insurance or safety equipment for activities.",
+      "howToAvoid": "Book with licensed operators listed with the Belize Tourism Board. Verify tour company credentials and read recent reviews. Avoid deals that seem too good to be true."
+    },
+    {
+      "name": "Golf Cart Rental Damage Claims",
+      "risk": "medium",
+      "description": "Unscrupulous rental companies may blame tourists for pre-existing damage to golf carts when vehicles are returned, demanding expensive repair fees.",
+      "howToAvoid": "Take photos and videos of the entire vehicle before and after rental. Do a thorough inspection with the rental agent present and document everything."
+    },
+    {
+      "name": "Inflated Taxi Fares",
+      "risk": "low",
+      "description": "Some taxi drivers quote higher rates to tourists, especially for airport transfers or longer trips around the island.",
+      "howToAvoid": "Ask your hotel about standard taxi rates beforehand. Agree on the price before getting in the taxi. Consider using recommended drivers from your accommodation."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in San Pedro is relatively safe with proper precautions. The tourist-focused environment and strong community presence provide good security for women travelers. However, harassment from local men can occur, and extra caution is needed at night.",
+    "tips": [
+      "Stay in well-reviewed accommodations in the town center with good lighting and security",
+      "Avoid walking alone on beaches or quiet areas after dark",
+      "Join group activities and tours to meet other travelers and enhance safety",
+      "Trust your instincts and politely but firmly decline unwanted attention",
+      "Keep in touch with someone about your whereabouts and planned activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in San Pedro is generally good in the main tourist areas where bars and restaurants create natural foot traffic and lighting. However, beaches and residential areas can become isolated after dark, and petty crime risk increases.",
+    "tips": [
+      "Stick to well-lit main streets and avoid dark alleys or empty areas",
+      "Travel in groups when possible, especially when bar-hopping",
+      "Use reputable taxi services rather than walking long distances at night",
+      "Keep valuables secure and avoid displaying expensive items",
+      "Let someone know your plans if you're staying out late"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Ambergris Caye.",
+    "rideshare": "No formal rideshare services operate in San Pedro.",
+    "taxis": "Taxis are available but unmetered. Golf cart taxis are the primary form of transport on the island. Generally safe but agree on fares upfront to avoid disputes.",
+    "tips": "Golf carts and bicycles are the main transport on Ambergris Caye. Water taxis connect to Belize City and Caye Caulker - use established operators with safety equipment."
+  },
+  "customs": [
+    "Tip 10-15% at restaurants and bars as foreigners are expected to tip unlike locals",
+    "Dress modestly when away from beach areas - revealing clothing may attract unwanted attention",
+    "Greet people with a friendly hello or good morning as this is valued in Belizean culture",
+    "Be patient with 'Belize time' - punctuality is more relaxed than Western standards",
+    "Ask permission before photographing people, especially children or in residential areas"
+  ],
+  "health": {
+    "overview": "San Pedro has basic medical facilities including the Dr. Otto Rodriguez Polyclinic II and private clinics. Serious medical emergencies may require evacuation to Belize City or internationally. The island has improved healthcare infrastructure in recent years.",
+    "water": "Tap water is not recommended for drinking. Stick to bottled water and avoid ice in drinks. Most resorts provide filtered water that is safe to consume.",
+    "vaccinations": "No special vaccinations required for Belize entry. Routine vaccines should be up to date. Consider hepatitis A/B and typhoid for extended stays.",
+    "altitude": "Sea level location with tropical climate. High humidity and temperatures year-round. Hurricane season runs June-November with peak risk August-October."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "206-2022",
+    "ambulance": "226-2536",
+    "fire": "206-0353",
+    "touristPolice": "206-2022",
+    "usEmbassy": "US Embassy Belize City: +501-822-4011. Consular services available by appointment. Register with STEP program for emergency alerts."
+  },
+  "faq": [
+    {
+      "q": "Is San Pedro safe for tourists?",
+      "a": "Yes, San Pedro is considered one of Belize's safest destinations for tourists. It has dedicated tourism police, strong community oversight, and infrastructure designed for international visitors. Most incidents involve petty theft rather than violent crime."
+    },
+    {
+      "q": "Is San Pedro safe at night?",
+      "a": "San Pedro's main tourist areas are generally safe at night with good lighting and foot traffic from restaurants and bars. However, avoid beaches and residential areas after dark, and always travel in groups when possible."
+    },
+    {
+      "q": "Is San Pedro safe for solo female travelers?",
+      "a": "Solo female travelers can visit San Pedro safely with proper precautions. Stay in the main town center, avoid isolated areas at night, and be prepared to politely but firmly decline unwanted male attention."
+    },
+    {
+      "q": "What areas should I avoid in San Pedro?",
+      "a": "Avoid remote undeveloped areas of Ambergris Caye, back streets at night, and isolated beaches after dark. Stick to the well-patrolled main town center and established tourist areas for the best safety."
+    },
+    {
+      "q": "Is it safe to use golf carts in San Pedro?",
+      "a": "Golf carts are the main transport in San Pedro and are generally safe to use. Take photos before renting to avoid damage disputes, drive carefully on sandy roads, and secure carts when parked as theft can occur."
+    }
+  ],
+  "relatedCities": [
+    "caye-caulker",
+    "placencia",
+    "san-ignacio",
+    "belize-city"
+  ],
+  "_city_id": "san-pedro-belize",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/San_Pedro%2C_Belize_-_Collage.png/1280px-San_Pedro%2C_Belize_-_Collage.png"
+}

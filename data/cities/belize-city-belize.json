@@ -1,0 +1,166 @@
+{
+  "slug": "belize-city",
+  "name": "Belize City",
+  "country": "Belize",
+  "countryCode": "BZ",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 4.7,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 3.0,
+    "scamRisk": 5.5,
+    "womensSafety": 4.5,
+    "nightSafety": 4.0,
+    "transport": 6.0,
+    "naturalHazards": 6.4
+  },
+  "summary": "Belize City is the former capital of Belize with significant crime challenges, particularly in Southside areas. While tourist areas and the city center are generally safer with proper precautions, visitors should exercise caution and avoid certain neighborhoods.",
+  "quickVerdict": "Belize City presents real safety challenges for travelers, with high crime rates concentrated in specific areas south of Haulover Creek. The city accounts for a disproportionate share of Belize's crime statistics, but most incidents occur away from tourist areas. With proper planning, avoiding dangerous neighborhoods, and taking standard urban precautions, short transit stops can be managed safely. Many visitors pass through briefly en route to other destinations without incident.",
+  "neighborhoods": [
+    {
+      "name": "Fort Street Tourism Village",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist-focused area with good security, shops, and restaurants. Well-patrolled and generally safe for visitors during the day."
+    },
+    {
+      "name": "City Center & Business District",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Downtown core with government buildings, banks, and hotels. Safe during business hours but exercise caution after dark."
+    },
+    {
+      "name": "Marine Terminal Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Water taxi hub for island transfers. Busy during the day with tourist traffic but stay alert for petty crime."
+    },
+    {
+      "name": "North Belize City",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Mixed residential and commercial area. Generally safer than the south but still requires vigilance, especially at night."
+    },
+    {
+      "name": "Ladyville Airport Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Area around the international airport is well-maintained and patrolled. Safer option for overnight stays near the airport."
+    },
+    {
+      "name": "Southside Belize City",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Area south of Haulover Creek with high gang violence and crime rates. US State Department advises against travel to this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Operators",
+      "risk": "medium",
+      "description": "Street vendors pose as legitimate tour guides or operators, take payment but never provide services or pickup tourists.",
+      "howToAvoid": "Only book tours through licensed operators recommended by your hotel or established tourism businesses. Verify credentials and get written confirmation."
+    },
+    {
+      "name": "Price Manipulation",
+      "risk": "medium",
+      "description": "Vendors quote one price then claim it was per person or just a deposit, demanding additional payment mid-service.",
+      "howToAvoid": "Always confirm the total price upfront and say clearly 'This is the total price, right?' Get the agreement in writing for larger purchases."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "high",
+      "description": "Fraudsters install skimming devices on ATMs, particularly in tourist areas like San Pedro, to clone cards.",
+      "howToAvoid": "Use ATMs inside banks when possible, check for any unusual devices on card readers, and monitor your accounts closely."
+    },
+    {
+      "name": "Real Estate Investment Fraud",
+      "risk": "high",
+      "description": "Scammers promise luxury amenities and developments that don't exist to lure property buyers with false advertising.",
+      "howToAvoid": "Thoroughly research any property investment, use reputable legal representation, and visit properties in person before making commitments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers can visit Belize City safely with proper precautions, though extra vigilance is required compared to other parts of Belize. Street harassment can occur, particularly on islands and tourist areas, but most women report feeling safe when following basic safety protocols. The key is limiting time in Belize City and sticking to well-traveled areas during brief transit stops.",
+    "tips": [
+      "Avoid walking alone at night and use registered taxis with green license plates",
+      "Stay in well-reviewed accommodations near the Fort Street area or Marine Terminal",
+      "Dress modestly and avoid displaying expensive jewelry or electronics",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately",
+      "Consider joining group tours or activities for added safety and social interaction"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Belize City becomes significantly more dangerous after dark, with violent crime rates increasing substantially. Most tourist areas have limited nightlife, and visitors are strongly advised to avoid walking alone or venturing into unfamiliar neighborhoods at night. The safest approach is to remain at your accommodation or in well-lit, busy areas near major hotels.",
+    "tips": [
+      "Use registered taxis for all nighttime transportation rather than walking",
+      "Stay in well-lit areas with other tourists and locals present",
+      "Avoid the Southside area completely, especially after dark",
+      "Keep night activities brief and return to secure accommodation early",
+      "Coordinate with your hotel for safe transportation arrangements"
+    ]
+  },
+  "transport": {
+    "metro": "Belize City has no metro system. Public transport consists mainly of 'chicken buses' (converted school buses) that run on various routes but are not tourist-friendly due to unclear routing and safety concerns.",
+    "rideshare": "Uber and Lyft are not available in Belize. Ride-sharing apps are not operational in the country.",
+    "taxis": "Licensed taxis are identified by green license plates and are the safest transport option. Fares should be agreed upon in advance as there are no meters. Typical city rides cost BZD 8-10. Ask your hotel to call a trusted taxi rather than hailing random vehicles.",
+    "tips": "Stick to licensed taxis with green plates, avoid public buses as a tourist, and arrange airport transfers through your accommodation when possible. Walking is not recommended, especially after dark or with luggage."
+  },
+  "customs": [
+    "Greet people politely with 'Good morning' or 'Good afternoon' - this is highly valued",
+    "Dress modestly in town; beachwear is only acceptable at coastal resorts",
+    "Ask permission before photographing people, especially indigenous individuals",
+    "Tip service staff 10-15% in restaurants and for tour guides",
+    "Arrive late to social gatherings - punctuality is not expected and arriving exactly on time may be considered rude"
+  ],
+  "health": {
+    "overview": "Medical facilities in Belize City are limited with basic services available but serious conditions require evacuation. The Karl Heusner Memorial Hospital provides emergency care but advanced treatment is often not available.",
+    "water": "Do not drink tap water. Use only bottled or purified water. Ice may not be safe in some establishments.",
+    "vaccinations": "No special vaccinations required for entry, but routine vaccinations should be up to date. Consider hepatitis A, hepatitis B, and typhoid vaccines.",
+    "altitude": "Belize City is at sea level with tropical climate. High humidity and heat require sun protection and hydration. Mosquito-borne diseases like dengue and Zika are present - use repellent."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 227-2222",
+    "ambulance": "90 or 223-0078",
+    "fire": "90",
+    "touristPolice": "227-2222",
+    "usEmbassy": "US Embassy Belmopan: 822-4011. Located in Belmopan, about 1 hour from Belize City. Provides consular services for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Belize City safe for tourists?",
+      "a": "Belize City has significant safety challenges but can be visited safely with proper precautions. Most tourists pass through briefly without incident by staying in tourist areas, avoiding Southside neighborhoods, and not venturing out after dark. Consider it a transit hub rather than a destination."
+    },
+    {
+      "q": "Is Belize City safe at night?",
+      "a": "Belize City is not safe for tourists at night. Crime rates increase significantly after dark, and visitors should avoid walking anywhere at night. Use registered taxis for any necessary travel and stay in secure accommodations or well-lit hotel areas only."
+    },
+    {
+      "q": "Is Belize City safe for solo female travelers?",
+      "a": "Solo female travelers can transit through Belize City safely with extra precautions. Stay in recommended accommodations near tourist areas, use registered taxis, dress modestly, and limit time in the city. Many solo women report feeling safe with proper planning and situational awareness."
+    },
+    {
+      "q": "What areas should I avoid in Belize City?",
+      "a": "Avoid all areas south of Haulover Creek (Southside), including areas around George Street, Kraal Road, and the old cemetery. These neighborhoods have high gang activity and violent crime. Stick to the Fort Street Tourism Village, Marine Terminal area, and main business district only."
+    },
+    {
+      "q": "Is it safe to use public transport in Belize City?",
+      "a": "Public buses (chicken buses) are not recommended for tourists due to unclear routes, potential safety issues, and lack of accessibility features. Licensed taxis with green plates are the safest option for getting around the city."
+    }
+  ],
+  "relatedCities": [
+    "san-pedro-belize",
+    "caye-caulker",
+    "san-ignacio-belize",
+    "placencia-belize",
+    "guatemala-city"
+  ],
+  "_city_id": "belize-city-belize",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belize_City_Montage.jpeg/1280px-Belize_City_Montage.jpeg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "san-salvador",
+  "name": "San Salvador",
+  "country": "El Salvador",
+  "countryCode": "SV",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 8.5,
+    "scamRisk": 4.5,
+    "womensSafety": 6.0,
+    "nightSafety": 6.5,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "San Salvador has undergone a dramatic safety transformation since 2022, with violent crime dropping to historic lows due to the government's anti-gang crackdown. While the city is now safer than many US cities statistically, travelers should remain cautious of petty crime and natural disaster risks.",
+  "quickVerdict": "San Salvador in 2026 is remarkably safer than its reputation suggests, thanks to El Salvador's State of Exception policy that dismantled gang activity and reduced homicides by 98% since 2015. The capital now welcomes tourists to previously no-go areas like the Historic Center, while neighborhoods like San Benito and Escalon offer Western-style safety. However, visitors should stay vigilant against opportunistic scams, avoid displaying valuables, and be prepared for strict policing where carrying ID is mandatory. Natural hazards including earthquakes and floods remain moderate concerns.",
+  "neighborhoods": [
+    {
+      "name": "San Benito & Zona Rosa",
+      "score": 8.5,
+      "class": "safe",
+      "description": "San Salvador's upscale financial and entertainment district featuring malls, high-end hotels, restaurants, and vibrant nightlife. Heavily patrolled with strong security presence and excellent infrastructure. Considered the safest area for tourists with cosmopolitan atmosphere."
+    },
+    {
+      "name": "Escalon",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Affluent residential and commercial neighborhood with trendy bars, restaurants, and shopping areas. Well-maintained streets, good lighting, and regular police patrols make it very safe for tourists day and night."
+    },
+    {
+      "name": "Historic Center (Centro Historico)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Once a no-go zone now revitalized with new libraries, lit-up squares, and cultural attractions. Safe during the day with increasing nighttime activity, though visitors should remain alert and stick to main squares and well-lit areas."
+    },
+    {
+      "name": "Santa Elena",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern suburban area near the airport with shopping centers, restaurants, and business districts. Generally safe with good infrastructure and security, popular with business travelers and those seeking quieter accommodations."
+    },
+    {
+      "name": "Cuscatancingo",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Working-class area that has improved significantly but still requires caution. Better during daytime, avoid isolated areas at night. Some tourist services available but not as developed as central zones."
+    },
+    {
+      "name": "Soyapango",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Traditionally dangerous area that, while improved, still poses risks for tourists. Avoid unless with a local guide who knows the area well. Limited tourist infrastructure and ongoing social challenges despite overall security improvements."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Gringo Pricing & Taxi Overcharging",
+      "risk": "high",
+      "description": "Vendors, restaurants, and taxi drivers quote inflated prices to foreign tourists. A typical lunch should cost $6-10 USD, and taxi fares should be negotiated upfront. Some drivers claim broken meters or take longer routes.",
+      "howToAvoid": "Always agree on prices before purchasing services. Use ride-sharing apps like Uber when available for transparent pricing. Learn basic Spanish numbers and typical local prices for common items."
+    },
+    {
+      "name": "Bitcoin Helper Scam",
+      "risk": "medium",
+      "description": "Friendly locals offer to help tourists set up Chivo Wallet or fix Bitcoin transactions, then transfer funds to themselves. El Salvador uses Bitcoin as legal tender alongside USD.",
+      "howToAvoid": "Never hand your phone to strangers, especially for financial apps. Handle your own Bitcoin transactions or ask official bank staff for assistance. Always verify transactions carefully before confirming."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "One person creates a distraction by spilling liquid, asking directions, or bumping into you while an accomplice steals valuables from pockets or bags. Common in crowded areas like Mercado Central and bus terminals.",
+      "howToAvoid": "Keep valuables in secure, hard-to-access pockets. Be suspicious of sudden spills or overly helpful strangers. Maintain awareness in crowded areas and keep bags zipped and in front of your body."
+    },
+    {
+      "name": "Fake Guide Demands",
+      "risk": "medium",
+      "description": "Unofficial guides at hiking spots like Seven Waterfalls or volcano trails demand exorbitant fees halfway through the hike or claim special access to restricted areas at inflated prices.",
+      "howToAvoid": "Only use official guides recommended by hotels or tourist police POLITUR. Agree on all fees upfront before starting any activity. Research legitimate guide services and prices in advance."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers can generally visit San Salvador safely, though cultural factors require attention. The elimination of gang violence has removed the most serious threats, but machismo culture persists with catcalling and street harassment being common but usually harmless. Tourist areas like San Benito and Escalon are well-patrolled and female-friendly, while the State of Exception provides additional security through heavy police presence.",
+    "tips": [
+      "Stay in upscale neighborhoods like San Benito, Escalon, or Santa Elena for maximum safety and comfort",
+      "Expect catcalling and piropos (compliments) on the street - usually harmless but can be persistent",
+      "Avoid walking alone at night outside of main tourist zones, use Uber or registered taxis instead",
+      "Dress modestly when visiting religious sites or rural areas to show cultural respect",
+      "Carry a photocopy of your passport - ID checks are common under the State of Exception"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Salvador's nightlife has dramatically improved with the elimination of gang territories and violent crime. Areas like Zona Rosa, San Benito, and Escalon now offer vibrant and relatively safe nightlife scenes. However, standard precautions remain important, and some areas outside the tourist zones should still be avoided after dark. The city's police and military presence is highly visible, providing security but also requiring respectful interaction with authorities.",
+    "tips": [
+      "Stick to established nightlife areas like Zona Rosa, San Benito, and the Historic Center's main squares",
+      "Use Uber or registered taxis rather than walking alone late at night",
+      "Always carry official ID as police checks are common under the State of Exception",
+      "Avoid the red zones (Zonas Rojas) like Soyapango and Apopa unless with a trusted local guide",
+      "Don't flash expensive items or large amounts of cash in bars and restaurants"
+    ]
+  },
+  "transport": {
+    "metro": "San Salvador does not have a metro system. Public transportation consists mainly of colorful 'chicken buses' that operate from 5am-7pm daily. While affordable, buses can be crowded and have safety concerns including pickpocketing and occasional harassment.",
+    "rideshare": "Uber operates throughout San Salvador and tourist areas, offering the safest transportation option with GPS tracking, fixed prices, and driver identification. Generally very reliable and affordable compared to Western standards, with 24/7 availability in the capital.",
+    "taxis": "Traditional taxis are available but less recommended due to inconsistent pricing and safety concerns. If using taxis, only use licensed vehicles from official stands or hotel-arranged services. Always negotiate fares upfront and ensure meters are working.",
+    "tips": "Uber is your best bet for safe, reliable transportation in San Salvador. Avoid public buses at night and in isolated areas. For airport transfers, book through your hotel or use official airport taxi services with clear identification badges."
+  },
+  "customs": [
+    "Greet people formally with 'Buenos días/tardes' and use titles like 'Señor/Señora' until invited to be informal",
+    "Personal space is smaller than in North America - expect closer conversations and friendly physical contact like hugs and cheek kisses among friends",
+    "Always carry official ID - police checks are routine under the State of Exception and compliance is mandatory",
+    "Dress modestly when visiting churches, rural areas, or meeting older generations - shorts and revealing clothing can be seen as disrespectful",
+    "Tipping is becoming more common but isn't traditional - 10% is appropriate at upscale restaurants where it may be included in the bill"
+  ],
+  "health": {
+    "overview": "Healthcare in San Salvador is mixed, with excellent private facilities but limited public services. Private hospitals like Hospital de Diagnóstico meet international standards, while public healthcare faces resource constraints. Medical evacuation insurance is strongly recommended as complex procedures may require treatment in the US.",
+    "water": "Tap water is not safe to drink. Use only bottled water or UV-purified water. A 1.5L bottle costs $1.00-1.50 USD. Be cautious with ice in drinks and raw vegetables washed with tap water.",
+    "vaccinations": "CDC recommends being current on Hepatitis A, Typhoid, and Tetanus vaccinations. Yellow fever vaccination required if arriving from affected areas. Consider Hepatitis B for longer stays.",
+    "altitude": "San Salvador sits at 658m elevation with tropical savanna climate. Dengue fever is present year-round - use high-quality insect repellent. Malaria risk is very low. Rainy season runs May-October with higher mosquito activity."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911 or 2133-0000 (Comandos de Salvamento)",
+    "fire": "913 or 2527-7300",
+    "touristPolice": "Available in 19 tourist zones through POLITUR",
+    "usEmbassy": "U.S. Embassy San Salvador: Final Boulevard Santa Elena Sur, Urbanización Santa Elena, Antiguo Cuscatlán. Emergency: (301) 985-8840 x -2999 (from outside El Salvador). Office: +1-503-2501-2999"
+  },
+  "faq": [
+    {
+      "q": "Is San Salvador safe for tourists?",
+      "a": "Yes, San Salvador is now significantly safer than its reputation suggests. Since 2022's State of Exception policy dismantled gang activity, violent crime has dropped to historic lows. The city is statistically safer than many US cities, though visitors should remain aware of petty crime and carry proper identification at all times."
+    },
+    {
+      "q": "Is San Salvador safe at night?",
+      "a": "San Salvador's nightlife areas like Zona Rosa, San Benito, and Escalon are generally safe at night with heavy police presence. However, avoid walking alone in unfamiliar areas and use Uber or registered taxis for transportation. The Historic Center is improving but stick to main, well-lit areas after dark."
+    },
+    {
+      "q": "Is San Salvador safe for solo female travelers?",
+      "a": "Solo female travelers can visit San Salvador with reasonable precautions. While violent crime against tourists is rare, expect catcalling and street harassment due to machismo culture. Stay in upscale neighborhoods, use rideshare apps, dress modestly in conservative areas, and avoid walking alone at night."
+    },
+    {
+      "q": "What areas should I avoid in San Salvador?",
+      "a": "Avoid areas like Soyapango and Apopa (known as 'red zones') unless with a trusted local guide. While improved, these working-class neighborhoods still have limited tourist infrastructure. Even in safe areas, don't display expensive items or walk alone in isolated areas at night."
+    },
+    {
+      "q": "Is it safe to use public transport in San Salvador?",
+      "a": "Public buses (chicken buses) are cheap but can involve pickpocketing and harassment. Uber is the safest option with GPS tracking and fixed prices. Traditional taxis are less reliable - use only licensed vehicles from official stands or hotel arrangements. Avoid all public transport late at night."
+    }
+  ],
+  "relatedCities": [
+    "guatemala-city",
+    "tegucigalpa",
+    "managua"
+  ],
+  "_city_id": "san-salvador-el-salvador",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monumento_al_Salvador_del_Mundo_1.jpg/1280px-Monumento_al_Salvador_del_Mundo_1.jpg"
+}
