@@ -2054,3 +2054,47 @@
 2026-03-18 12:15:51,453 [INFO] Merged into site data: Ottawa
 2026-03-18 12:15:51,515 [INFO] Merged 7 new cities into src/lib/city-data.json
 2026-03-18 12:15:51,550 [INFO] Rebuilt sitemap with 429 URLs (309 cities, 114 countries, 6 static)
+2026-03-18 19:30:50,508 [INFO] Agent starting — mode: add
+2026-03-18 19:30:50,548 [INFO] Queue has 255 cities, adding 8
+2026-03-18 19:30:50,548 [INFO] Generating new city profile: Calgary, Canada
+2026-03-18 19:32:43,073 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:32:43,336 [INFO] Found Wikipedia image for Calgary
+2026-03-18 19:32:43,337 [INFO] Saved city data: calgary-canada
+2026-03-18 19:32:43,340 [INFO] Generating new city profile: Tulum, Mexico
+2026-03-18 19:34:09,920 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:34:10,115 [INFO] Found Wikipedia image for Tulum
+2026-03-18 19:34:10,115 [INFO] Saved city data: tulum-mexico
+2026-03-18 19:34:10,118 [INFO] Generating new city profile: Oaxaca, Mexico
+2026-03-18 19:35:38,868 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:35:39,225 [INFO] Found Wikipedia image for Oaxaca
+2026-03-18 19:35:39,226 [INFO] Saved city data: oaxaca-mexico
+2026-03-18 19:35:39,229 [INFO] Generating new city profile: Puerto Vallarta, Mexico
+2026-03-18 19:37:06,098 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:37:06,352 [INFO] Found Wikipedia image for Puerto Vallarta
+2026-03-18 19:37:06,353 [INFO] Saved city data: puerto-vallarta-mexico
+2026-03-18 19:37:06,356 [INFO] Generating new city profile: San Miguel de Allende, Mexico
+2026-03-18 19:38:38,692 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:38:38,765 [INFO] Found Wikipedia image for San Miguel de Allende
+2026-03-18 19:38:38,765 [INFO] Saved city data: san-miguel-de-allende-mexico
+2026-03-18 19:38:38,768 [INFO] Generating new city profile: Guadalajara, Mexico
+2026-03-18 19:40:15,804 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:40:16,045 [INFO] Found Wikipedia image for Guadalajara
+2026-03-18 19:40:16,046 [INFO] Saved city data: guadalajara-mexico
+2026-03-18 19:40:16,049 [INFO] Generating new city profile: Merida, Mexico
+2026-03-18 19:42:03,117 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:42:03,316 [INFO] Found Wikipedia image for Merida
+2026-03-18 19:42:03,316 [INFO] Saved city data: merida-mexico
+2026-03-18 19:42:03,320 [INFO] Generating new city profile: Cabo San Lucas, Mexico
+2026-03-18 19:43:38,053 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 19:43:38,214 [INFO] Found Wikipedia image for Cabo San Lucas
+2026-03-18 19:43:38,214 [INFO] Saved city data: cabo-san-lucas-mexico
+2026-03-18 19:43:38,252 [INFO] Merged into site data: Calgary
+2026-03-18 19:43:38,252 [INFO] Merged into site data: Tulum
+2026-03-18 19:43:38,252 [INFO] Merged into site data: Oaxaca
+2026-03-18 19:43:38,253 [INFO] Merged into site data: Puerto Vallarta
+2026-03-18 19:43:38,253 [INFO] Merged into site data: San Miguel de Allende
+2026-03-18 19:43:38,253 [INFO] Merged into site data: Guadalajara
+2026-03-18 19:43:38,253 [INFO] Merged into site data: Mérida
+2026-03-18 19:43:38,253 [INFO] Merged into site data: Cabo San Lucas
+2026-03-18 19:43:38,317 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-18 19:43:38,352 [INFO] Rebuilt sitemap with 437 URLs (317 cities, 114 countries, 6 static)

@@ -1,0 +1,162 @@
+{
+  "slug": "tulum",
+  "name": "Tulum",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-18",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 7.5,
+    "scamRisk": 4.8,
+    "womensSafety": 7.0,
+    "nightSafety": 5.5,
+    "transport": 6.5,
+    "naturalHazards": 8.7
+  },
+  "summary": "Tulum is generally safe for tourists with normal precautions, featuring improved security infrastructure and relatively low violent crime rates affecting visitors. However, petty theft, taxi scams, and increasing drug-related activity in party zones require heightened awareness, especially at night.",
+  "quickVerdict": "Tulum remains a manageable destination for cautious travelers, with the US State Department rating Quintana Roo as Level 2 (Exercise Increased Caution) - the same level as France and Italy. While violent crime rarely targets tourists, petty theft and overcharging are common. The city has invested significantly in security with 24/7 monitoring and hundreds of HD cameras. Most safety issues stem from opportunistic crimes, inflated taxi fares, and drug-related incidents in nightlife areas. Staying in established tourist zones, avoiding late-night solo activities, and using common travel sense will ensure a safe experience.",
+  "neighborhoods": [
+    {
+      "name": "Aldea Zama",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Gated community with 24/7 security, modern infrastructure, and strong safety record. Popular with expats and families, featuring well-lit streets and reliable security patrols."
+    },
+    {
+      "name": "Tulum Pueblo (Centro)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The town center is generally safe during daytime with good foot traffic and local police presence. Evening activities should stick to main streets and well-lit areas."
+    },
+    {
+      "name": "Beach Zone (Hotel Zone)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Tourist-focused area with regular security patrols and hotel staff presence. Higher-end establishments maintain their own security, though isolated stretches can be risky after dark."
+    },
+    {
+      "name": "La Veleta",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Rapidly developing neighborhood with good safety record but requires normal urban precautions. Mix of locals and tourists with growing restaurant and nightlife scene."
+    },
+    {
+      "name": "Region 15",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Remote area with dirt roads and limited infrastructure. Lacks tourist amenities and has higher risk due to isolation and limited emergency response access."
+    },
+    {
+      "name": "Isolated Beach Areas",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Secluded beach stretches away from hotels and main tourist areas pose risks, especially for solo travelers. Limited security presence and potential for opportunistic crime."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Drivers quote inflated prices to tourists, often charging $25+ for short rides that should cost $10. No meters used, creating opportunity for price manipulation.",
+      "howToAvoid": "Always negotiate fare before getting in. Know standard rates: within Centro ($5-6), Centro to Beach ($15-20), Hotel Zone ($25-35). Get taxi contacts through your hotel and carry small peso bills."
+    },
+    {
+      "name": "Gas Station Bill Swap",
+      "risk": "medium",
+      "description": "Attendants switch large peso bills (200 peso) for smaller ones (20 peso) while you're distracted, claiming you gave wrong amount. Classic sleight-of-hand trick.",
+      "howToAvoid": "Watch the attendant carefully during payment. State the bill denomination out loud when handing over money. Always check that gas meter resets to zero before filling."
+    },
+    {
+      "name": "Change Shortchanging",
+      "risk": "medium",
+      "description": "Cashiers at shops and restaurants give incorrect change, often substituting smaller bills or simply giving less than owed, counting on tourists not noticing.",
+      "howToAvoid": "Count your change carefully before leaving. Know peso denominations well. Pay with smaller bills when possible to minimize change needed."
+    },
+    {
+      "name": "Fake Tour Cenotes",
+      "risk": "medium",
+      "description": "Street vendors claim exclusive access to secret cenotes and charge premium prices for basic cenotes that have standard entry fees. Some lead to unsafe or closed sites.",
+      "howToAvoid": "Book cenote tours through established companies. Research cenote locations beforehand. Standard cenote entry fees are $10-25 USD, anything much higher is suspicious."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tulum is generally safe for solo female travelers who take standard precautions. Most areas are well-traveled with good tourism infrastructure, and many women visit without incident. However, extra awareness is needed for nighttime activities, and staying in secure accommodations like Aldea Zama provides added peace of mind.",
+    "tips": [
+      "Avoid walking alone at night, especially in poorly lit areas or isolated beach sections",
+      "Don't accept drinks from strangers in bars and clubs, and never leave drinks unattended",
+      "Share your itinerary with someone at home and check in regularly via messaging apps",
+      "Stay in well-reviewed accommodations with 24/7 security when possible",
+      "Use hotel-recommended taxi drivers rather than hailing random cabs on the street"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tulum's nighttime safety varies significantly by location and activity. While tourist areas remain relatively safe with security presence, isolated areas and some party zones have seen increased incidents. The main risks include inflated taxi fares, drink spiking at clubs, and opportunistic crime in poorly lit areas.",
+    "tips": [
+      "Stick to well-lit main streets and avoid walking alone after 11 PM",
+      "Use trusted taxi services or hotel transportation for nighttime travel",
+      "Stay alert in crowded bars and clubs, especially regarding drink safety",
+      "Travel in groups when possible and avoid isolated beach areas after dark",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local transport consists of colectivos (shared white vans) that cost 15-25 pesos and run between downtown and beach areas. They're safe but can be crowded and don't always stop for tourists.",
+    "rideshare": "Uber does not operate in Tulum due to local taxi union pressure. No major rideshare apps are available. Some attempts to use Uber have resulted in confrontations between taxi and rideshare drivers.",
+    "taxis": "Taxis are widely available but expensive and unmetered. Expect to pay $5-6 USD within Centro, $15-20 Centro to Beach, and $25-35 to Hotel Zone. Always negotiate fare before getting in. Get trusted driver contacts through hotels when possible.",
+    "tips": "Bicycles ($8-10/day) offer the best value and flexibility for short distances. Private shuttles work well for airport transfers. ADO buses connect to other cities reliably and safely for longer trips."
+  },
+  "customs": [
+    "Greet people with 'Hola' or 'Buenos días' even in brief encounters - friendliness is highly valued",
+    "Tipping 10-15% is expected at restaurants, and small tips appreciated for taxi drivers and service staff",
+    "When visiting cenotes or archaeological sites, dress modestly and respect environmental guidelines using biodegradable sunscreen"
+  ],
+  "health": {
+    "overview": "Healthcare in Tulum is adequate for basic needs but limited for serious emergencies. CostaMed Tulum provides private care while the public Centro de Salud offers basic services. For major medical issues, patients typically go to Cancun or Merida.",
+    "water": "Never drink tap water or use it for brushing teeth. Bottled water is widely available and ice at upscale restaurants is usually safe, but exercise caution at street stalls.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines (Hepatitis A/B, typhoid) recommended. Dengue risk exists - use mosquito repellent especially dawn/dusk.",
+    "altitude": "Sea level location with tropical climate. Hurricane season June-November brings heavy rains and potential storms. Strong sun requires high SPF sunscreen and protective clothing."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "+52 984 871 2055",
+    "ambulance": "911",
+    "fire": "+52 984 871 3732",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Mexico City: +52 55 5080 2000. Consular services available in Cancun and Merida for passport/emergency assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Tulum safe for tourists?",
+      "a": "Yes, Tulum is generally safe for tourists who follow standard travel precautions. The US State Department rates it Level 2 (same as France/Italy). Main risks are petty theft, taxi scams, and overpricing rather than violent crime. Staying in tourist zones and using common sense ensures a safe visit."
+    },
+    {
+      "q": "Is Tulum safe at night?",
+      "a": "Nighttime safety in Tulum requires extra caution. Well-lit tourist areas with security are generally safe, but avoid isolated areas, walking alone after 11 PM, and be careful with drinks at bars. Use hotel transportation or trusted taxis for nighttime travel."
+    },
+    {
+      "q": "Is Tulum safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Tulum safely. Key precautions include staying in secure accommodations, avoiding solo nighttime activities, not accepting drinks from strangers, and sharing your itinerary with someone at home. Aldea Zama offers particularly good security for solo travelers."
+    },
+    {
+      "q": "What areas should I avoid in Tulum?",
+      "a": "Avoid isolated beach areas after dark, Region 15 (remote area with dirt roads), and party zones late at night where drug activity occurs. Stay away from offers to purchase drugs and be cautious in areas without good lighting or security presence."
+    },
+    {
+      "q": "Is it safe to use public transport in Tulum?",
+      "a": "Colectivos (shared vans) are generally safe and cost 15-25 pesos, though they can be crowded. Taxis are safe but overpriced - always negotiate fares beforehand. Uber doesn't operate due to local restrictions. Bicycles are the safest, cheapest option for getting around locally."
+    }
+  ],
+  "relatedCities": [
+    "playa-del-carmen",
+    "cancun",
+    "cozumel"
+  ],
+  "_city_id": "tulum-mexico",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tulum_Big_Street%2C_Quintana_Roo_Mexico_January_2021.jpg/1280px-Tulum_Big_Street%2C_Quintana_Roo_Mexico_January_2021.jpg"
+}
