@@ -1936,3 +1936,20 @@
 2026-03-17 23:18:30,712 [INFO] Merged into site data: Portland
 2026-03-17 23:18:30,772 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-17 23:18:30,804 [INFO] Rebuilt sitemap with 414 URLs (294 cities, 114 countries, 6 static)
+2026-03-18 05:19:52,913 [INFO] Agent starting — mode: alert
+2026-03-18 05:19:52,992 [INFO] Checking alerts for 291 cities
+2026-03-18 05:20:32,093 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 05:20:32,250 [WARNING] ALERTS DETECTED: 13
+2026-03-18 05:20:32,251 [WARNING]   [critical] tel_aviv: U.S. authorized departure of non-emergency government personnel from Israel on Feb 27, 2026 due to ongoing conflict with Iran. U.S. Embassy closed March 3 and shelter-in-place orders issued. Ben Gurion Airport closed with no commercial flights operating.
+2026-03-18 05:20:32,254 [WARNING]   [high] jeddah: U.S. ordered departure of non-emergency government personnel from Saudi Arabia on March 8, 2026 due to Iranian drone and missile targeting risks. Level 3 travel advisory (Reconsider Travel) in effect.
+2026-03-18 05:20:32,257 [WARNING]   [high] antalya: U.S. ordered departure of non-emergency personnel from Consulate General Adana on March 9, 2026. Southeast Turkey provinces face increased terrorism and armed conflict risks. Iranian ballistic missile intercepted by NATO over Turkish airspace March 4.
+2026-03-18 05:20:32,260 [WARNING]   [medium] victoria: CDC reports chikungunya outbreak in Seychelles as of February 5, 2026. Travelers advised to prevent mosquito bites.
+2026-03-18 05:20:32,263 [WARNING]   [medium] hanoi: Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.
+2026-03-18 05:20:32,266 [WARNING]   [medium] sapa: Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.
+2026-03-18 05:20:32,269 [WARNING]   [medium] hoi_an: Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.
+2026-03-18 05:20:32,272 [WARNING]   [medium] miami: U.K. issued travel advisory March 13, 2026 warning of longer airport queues due to U.S. partial government shutdown affecting TSA operations since February 14.
+2026-03-18 05:20:32,275 [WARNING]   [medium] palawan: ASEAN region experiencing floods, landslides, and storms March 9-15, 2026. Philippines affected by shear line and easterlies with 18 fatalities and 84,000 people affected across Southeast Asia.
+2026-03-18 05:20:32,278 [WARNING]   [medium] siargao: ASEAN region experiencing floods, landslides, and storms March 9-15, 2026. Philippines affected by shear line and easterlies with 18 fatalities and 84,000 people affected across Southeast Asia.
+2026-03-18 05:20:32,280 [WARNING]   [medium] bali: Indonesia reporting multiple natural disasters March 2-15, 2026 including floods, landslides and storms affecting Java and Bali. 18 fatalities reported across ASEAN region.
+2026-03-18 05:20:32,283 [WARNING]   [low] penang: Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.
+2026-03-18 05:20:32,289 [WARNING]   [low] kuala_lumpur: Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.

@@ -2776,5 +2776,83 @@
     "action": "add",
     "city_id": "portland-united-states",
     "details": "New city added with score 6.9"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.251925+00:00",
+    "action": "alert",
+    "city_id": "tel_aviv",
+    "details": "{\"city_id\": \"tel_aviv\", \"alert_type\": \"armed_conflict\", \"severity\": \"critical\", \"summary\": \"U.S. authorized departure of non-emergency government personnel from Israel on Feb 27, 2026 due to ongoing conflict with Iran. U.S. Embassy closed March 3 and shelter-in-place orders issued. Ben Gurion Airport closed with no commercial flights operating.\", \"action\": \"emergency_content\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.255097+00:00",
+    "action": "alert",
+    "city_id": "jeddah",
+    "details": "{\"city_id\": \"jeddah\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"U.S. ordered departure of non-emergency government personnel from Saudi Arabia on March 8, 2026 due to Iranian drone and missile targeting risks. Level 3 travel advisory (Reconsider Travel) in effect.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.258060+00:00",
+    "action": "alert",
+    "city_id": "antalya",
+    "details": "{\"city_id\": \"antalya\", \"alert_type\": \"travel_advisory\", \"severity\": \"high\", \"summary\": \"U.S. ordered departure of non-emergency personnel from Consulate General Adana on March 9, 2026. Southeast Turkey provinces face increased terrorism and armed conflict risks. Iranian ballistic missile intercepted by NATO over Turkish airspace March 4.\", \"action\": \"update_score\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.260991+00:00",
+    "action": "alert",
+    "city_id": "victoria",
+    "details": "{\"city_id\": \"victoria\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"CDC reports chikungunya outbreak in Seychelles as of February 5, 2026. Travelers advised to prevent mosquito bites.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.263947+00:00",
+    "action": "alert",
+    "city_id": "hanoi",
+    "details": "{\"city_id\": \"hanoi\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.266922+00:00",
+    "action": "alert",
+    "city_id": "sapa",
+    "details": "{\"city_id\": \"sapa\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.269849+00:00",
+    "action": "alert",
+    "city_id": "hoi_an",
+    "details": "{\"city_id\": \"hoi_an\", \"alert_type\": \"disease_outbreak\", \"severity\": \"medium\", \"summary\": \"Vietnam listed in CDC global dengue outbreak advisory updated February 17, 2026. Year-round risk with periodic outbreaks.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.272785+00:00",
+    "action": "alert",
+    "city_id": "miami",
+    "details": "{\"city_id\": \"miami\", \"alert_type\": \"transport_disruption\", \"severity\": \"medium\", \"summary\": \"U.K. issued travel advisory March 13, 2026 warning of longer airport queues due to U.S. partial government shutdown affecting TSA operations since February 14.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.275712+00:00",
+    "action": "alert",
+    "city_id": "palawan",
+    "details": "{\"city_id\": \"palawan\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"ASEAN region experiencing floods, landslides, and storms March 9-15, 2026. Philippines affected by shear line and easterlies with 18 fatalities and 84,000 people affected across Southeast Asia.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.278659+00:00",
+    "action": "alert",
+    "city_id": "siargao",
+    "details": "{\"city_id\": \"siargao\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"ASEAN region experiencing floods, landslides, and storms March 9-15, 2026. Philippines affected by shear line and easterlies with 18 fatalities and 84,000 people affected across Southeast Asia.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.281608+00:00",
+    "action": "alert",
+    "city_id": "bali",
+    "details": "{\"city_id\": \"bali\", \"alert_type\": \"natural_disaster\", \"severity\": \"medium\", \"summary\": \"Indonesia reporting multiple natural disasters March 2-15, 2026 including floods, landslides and storms affecting Java and Bali. 18 fatalities reported across ASEAN region.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.284588+00:00",
+    "action": "alert",
+    "city_id": "penang",
+    "details": "{\"city_id\": \"penang\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.\", \"action\": \"add_incident\"}"
+  },
+  {
+    "timestamp": "2026-03-18T05:20:32.290305+00:00",
+    "action": "alert",
+    "city_id": "kuala_lumpur",
+    "details": "{\"city_id\": \"kuala_lumpur\", \"alert_type\": \"natural_disaster\", \"severity\": \"low\", \"summary\": \"Malaysia experienced flooding in Sabah continuing into early March 2026 as part of regional weather pattern affecting Southeast Asia.\", \"action\": \"add_incident\"}"
   }
 ]
