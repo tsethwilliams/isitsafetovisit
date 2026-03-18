@@ -2002,3 +2002,7 @@
 2026-03-18 07:51:16,557 [INFO] Merged into site data: Atlanta
 2026-03-18 07:51:16,613 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-18 07:51:16,645 [INFO] Rebuilt sitemap with 422 URLs (302 cities, 114 countries, 6 static)
+2026-03-18 08:03:23,043 [INFO] Agent starting — mode: alert
+2026-03-18 08:03:23,124 [INFO] Checking alerts for 299 cities
+2026-03-18 08:04:04,473 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-18 08:04:04,623 [INFO] No safety alerts detected
