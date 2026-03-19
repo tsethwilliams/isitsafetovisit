@@ -1,0 +1,164 @@
+{
+  "slug": "el-tunco",
+  "name": "El Tunco",
+  "country": "El Salvador",
+  "countryCode": "SV",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.8,
+    "womensSafety": 7.6,
+    "nightSafety": 7.8,
+    "transport": 7.2,
+    "naturalHazards": 7.2
+  },
+  "summary": "El Tunco is a small surf town on El Salvador's Pacific coast that has transformed into one of Central America's safest beach destinations following the government's successful gang crackdown since 2022. The town offers a relaxed, backpacker-friendly atmosphere with excellent security and a strong tourism police presence.",
+  "quickVerdict": "El Tunco is remarkably safe for tourists, including solo female travelers. The tiny two-street town benefits from El Salvador's dramatic security improvements, with violent crime virtually eliminated and petty crime rare. While the country maintains a State of Exception that requires carrying ID at all times, this actually enhances tourist safety through increased security presence. The main risks are ocean-related (strong currents and rip tides) rather than crime-related.",
+  "neighborhoods": [
+    {
+      "name": "Main Beach Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of El Tunco around the famous pig-shaped rock. Bustling with tourists, restaurants, and bars with excellent security. Very walkable and well-lit at night."
+    },
+    {
+      "name": "El Tunco Village Center",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The small town center with hostels, surf shops, and local businesses. Heavy tourist police presence and constant foot traffic make it very secure."
+    },
+    {
+      "name": "Eastern Beach Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "More secluded area past the second river with sea caves and fewer crowds. Still safe but requires more caution when alone."
+    },
+    {
+      "name": "Highway Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Where buses stop and some accommodations are located. Generally safe but busier with traffic and less tourist-focused."
+    },
+    {
+      "name": "El Sunzal Beach",
+      "score": 7.9,
+      "class": "safe",
+      "description": "Adjacent surf spot easily walkable from El Tunco. Popular with surfers and well-patrolled, though slightly less developed."
+    },
+    {
+      "name": "Surrounding Countryside",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Rural areas beyond the immediate beach zone. While much safer than before 2022, requires more local knowledge and daytime travel."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bitcoin Wallet Helper",
+      "risk": "medium",
+      "description": "Friendly locals offering to help set up Chivo Wallet or fix Bitcoin transactions, then transferring funds to themselves.",
+      "howToAvoid": "Never hand your phone to strangers. If you need help with Bitcoin payments, ask at your hotel or established businesses."
+    },
+    {
+      "name": "Unofficial Surf Guide",
+      "risk": "low",
+      "description": "Fake guides demanding exorbitant fees halfway through surf lessons or beach activities.",
+      "howToAvoid": "Always agree on prices upfront and use established surf schools. Ask for recommendations from your accommodation."
+    },
+    {
+      "name": "Gringo Pricing",
+      "risk": "medium",
+      "description": "Being charged significantly higher prices than locals, especially for food, drinks, and transport.",
+      "howToAvoid": "Learn basic Spanish numbers, ask locals for typical prices, and don't be afraid to walk away if prices seem too high."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Card skimming devices on standalone ATMs, though rare in the tourist areas.",
+      "howToAvoid": "Use ATMs inside banks or shopping centers. Cover your PIN and inspect the card slot for suspicious devices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "El Tunco is excellent for solo female travelers and is considered one of the safest beach towns in Central America. The transformation following El Salvador's gang crackdown has eliminated most serious safety concerns. However, traditional machismo culture still exists, meaning catcalling can occur, though it's rarely aggressive. The small size of the town, constant presence of other travelers, and strong security make it very manageable for women traveling alone.",
+    "tips": [
+      "El Tunco feels safest to walk around at night compared to other Central American beach towns, but still travel in groups when possible",
+      "Choose accommodations in the main beach area rather than isolated locations for better security and social opportunities",
+      "Use reputable shuttle services like Tunco Life rather than chicken buses, especially when traveling alone with luggage",
+      "Dress modestly outside of beach areas to avoid unwanted attention, though bikinis are perfectly acceptable on the beach",
+      "Take advantage of the social hostel scene - it's easy to meet other travelers and form groups for activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "El Tunco has vibrant, safe nightlife concentrated along two main streets. The town transforms at night with beach bars, live music, and dancing, particularly on weekends when locals from San Salvador visit. The small size means everything is within walking distance, and the constant presence of people makes it feel secure. However, avoid walking on isolated beaches alone at night due to strong ocean currents and lack of lighting.",
+    "tips": [
+      "Nightlife is safest Thursday through Sunday when the town is most active with locals and tourists",
+      "Stay in the main bar area between Monkey Lala and La Boca Restaurant for the safest nighttime experience",
+      "Never walk alone on the beach at night - stick to well-lit streets and populated areas",
+      "Watch your drinks and don't get excessively intoxicated, especially during ladies' nights",
+      "Use the buddy system when bar hopping, even though the town is small and generally safe"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. El Tunco is a small coastal town without urban rail transport.",
+    "rideshare": "Uber operates from San Salvador to El Tunco ($25-35) but is unreliable within the town itself. You usually need to wait for a driver dropping someone off to get a ride out of town.",
+    "taxis": "Licensed taxis are available but not abundant. Private drivers arranged through hotels are more common and safer. Airport transfers cost $35-40. Always use official operators.",
+    "tips": "The town is entirely walkable. For longer distances, rent a scooter for $25/day or use the local bus system during daylight hours. Buses run frequently between El Tunco, La Libertad, and San Salvador."
+  },
+  "customs": [
+    "Always carry a physical or digital copy of your passport due to the ongoing State of Exception - police checkpoints are common",
+    "Greet people warmly with handshakes and maintain eye contact - Salvadorans are very friendly and hospitable",
+    "Learn basic Spanish phrases as English is not widely spoken outside of tourist establishments",
+    "Tipping is not expected at most restaurants (10% is often included) but small tips for hotel porters are appreciated",
+    "Show respect during cultural events and festivals - El Tunco celebrates several patron saints' festivals throughout the year"
+  ],
+  "health": {
+    "overview": "El Tunco is generally healthy with good access to basic medical care. The main health risks are sun exposure, dehydration, and ocean-related injuries from surfing or strong currents.",
+    "water": "Never drink tap water. Stick to bottled water which costs $1-1.50 for 1.5L. Most restaurants use bottled water for ice and food preparation but always confirm.",
+    "vaccinations": "CDC recommends being up-to-date on Hepatitis A, Typhoid, and Tetanus. Dengue fever is present so use insect repellent, especially during rainy season (May-October).",
+    "altitude": "Sea level location with tropical climate. High sun exposure risk year-round. Use strong sunscreen and stay hydrated in the heat and humidity."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "132",
+    "fire": "913",
+    "touristPolice": "+503 2224-2705",
+    "usEmbassy": "US Embassy San Salvador: +503 2501-2999 (emergency after hours). Located at Final Boulevard Santa Elena Sur, Urbanización Santa Elena, Antiguo Cuscatlán, La Libertad."
+  },
+  "faq": [
+    {
+      "q": "Is El Tunco safe for tourists?",
+      "a": "Yes, El Tunco is very safe for tourists. Following El Salvador's gang crackdown since 2022, violent crime has virtually disappeared. The town has strong security presence and is full of international travelers. Petty crime is rare but standard precautions apply."
+    },
+    {
+      "q": "Is El Tunco safe at night?",
+      "a": "El Tunco is remarkably safe at night for a Central American beach town. The nightlife area is well-lit and constantly busy with people. However, avoid walking alone on isolated beaches at night and stick to the main streets and bar areas."
+    },
+    {
+      "q": "Is El Tunco safe for solo female travelers?",
+      "a": "Yes, El Tunco is excellent for solo female travelers and considered one of the safest beach destinations in Central America. While some catcalling may occur due to machismo culture, it's rarely aggressive. The small town size and active backpacker scene make it easy to meet other travelers."
+    },
+    {
+      "q": "What areas should I avoid in El Tunco?",
+      "a": "El Tunco itself has no dangerous areas, but avoid isolated beaches at night and be cautious in surrounding rural areas. The ocean poses more risk than crime - stay aware of strong currents and rip tides when swimming or surfing."
+    },
+    {
+      "q": "Is it safe to use public transport to El Tunco?",
+      "a": "Yes, but with precautions. Direct buses from San Salvador are safe during daylight hours. Local buses between coastal towns are frequent and generally secure. Avoid displaying valuables and travel during daytime. Uber or private shuttles offer more comfort and security."
+    }
+  ],
+  "relatedCities": [
+    "san-salvador",
+    "antigua-guatemala",
+    "manuel-antonio",
+    "leon-nicaragua"
+  ],
+  "_city_id": "el-tunco-el-salvador"
+}

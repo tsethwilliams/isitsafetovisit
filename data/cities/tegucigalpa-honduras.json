@@ -1,0 +1,168 @@
+{
+  "slug": "tegucigalpa",
+  "name": "Tegucigalpa",
+  "country": "Honduras",
+  "countryCode": "HN",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 3.4,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 2.5,
+    "violentCrime": 3.0,
+    "scamRisk": 3.5,
+    "womensSafety": 2.8,
+    "nightSafety": 2.0,
+    "transport": 4.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "Tegucigalpa is the capital of Honduras with significant safety challenges including high crime rates, though recent government measures have reduced violence by nearly 50% since 2022. The city requires careful navigation between safe embassy neighborhoods and dangerous areas that should be avoided entirely.",
+  "quickVerdict": "Tegucigalpa demands extreme caution from visitors. While violence has decreased significantly under the current state of emergency, the capital still faces serious security challenges with armed robbery, extortion, and gang activity. Tourist areas around embassies and upscale neighborhoods like Lomas del Guijarro offer relative safety, but much of the city remains dangerous, especially at night. Travelers should stick to guided tours, use hotel-arranged transportation, and avoid public buses and street taxis completely. The city can be visited safely with proper precautions, but independent exploration is not recommended.",
+  "neighborhoods": [
+    {
+      "name": "Lomas del Guijarro",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Upscale embassy district with private security, embassies, and diplomatic residences. Better policed with restaurants and hotels catering to international visitors, but still requires caution after dark."
+    },
+    {
+      "name": "Colonia Palmira",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Middle-class neighborhood near the embassy area with some international businesses and hotels. Relatively safer during daytime hours but avoid walking alone at night."
+    },
+    {
+      "name": "Historic Center",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Colonial downtown area with museums and government buildings. Can be visited during mid-day hours with tours, but empties out by 4 PM and becomes dangerous. Avoid after dark completely."
+    },
+    {
+      "name": "Comayaguela",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Poorer sister city across the river with high crime rates, gang presence, and frequent violence. Strongly recommended to avoid entirely, especially the bus terminal area."
+    },
+    {
+      "name": "Villa Nueva",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Residential area with significant security issues including armed robbery and gang activity. Not suitable for tourists and should be avoided."
+    },
+    {
+      "name": "Kennedy",
+      "score": 2.0,
+      "class": "danger",
+      "description": "High-crime neighborhood with frequent violence, extortion, and gang control. Extremely dangerous for visitors and locals alike. Avoid completely."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scam",
+      "risk": "high",
+      "description": "Drivers claim their meter is broken and charge inflated fixed rates, sometimes 5-10 times the normal fare. Some unofficial taxis may be involved in express kidnappings.",
+      "howToAvoid": "Never use street taxis or unofficial vehicles. Have your hotel call a trusted radio taxi service or use app-based rides. Always agree on price before starting the journey and carry exact change."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "high",
+      "description": "Card skimming devices placed on ATM machines, especially standalone units. Criminals may also offer 'help' at ATMs to steal your card information and PIN.",
+      "howToAvoid": "Only use ATMs inside banks or upscale hotels. Check for loose parts or devices on the machine. Cover your PIN entry and never accept help from strangers. Notify your bank immediately if your card is retained."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams of criminals create distractions such as spilling something on you, asking for directions, or staging arguments while accomplices steal belongings or pickpocket victims.",
+      "howToAvoid": "Stay alert to your surroundings and be suspicious of unexpected interactions. Keep valuables in front pockets or hidden pouches. If approached by strangers, move to a busy public area or shop immediately."
+    },
+    {
+      "name": "Fake Police/Official Scam",
+      "risk": "medium",
+      "description": "Criminals pose as police officers or officials demanding to see documents, search bags, or collect fines on the spot. Some may be actual corrupt officials seeking bribes.",
+      "howToAvoid": "Ask for proper identification and badge numbers. Real police will take you to a station for legitimate issues. Never pay fines on the spot or hand over your passport. Contact your embassy if detained improperly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Tegucigalpa requires exceptional caution and is generally not recommended for inexperienced travelers. Women face additional risks including harassment, sexual assault, and being targeted for robbery. The combination of high crime rates and cultural machismo creates a challenging environment. However, with proper precautions, staying in embassy areas, using guided tours, and never traveling alone at night, experienced female travelers can visit safely.",
+    "tips": [
+      "Never walk alone, especially after dark, even in safer neighborhoods like Lomas del Guijarro",
+      "Dress conservatively and avoid displaying jewelry, electronics, or signs of wealth",
+      "Stay only in hotels in the embassy district and always use hotel-arranged transportation",
+      "Join organized tours for sightseeing and avoid independent exploration of the city",
+      "Keep important documents and extra money in hotel safe, carry only copies and daily cash",
+      "Have embassy contact information readily available and consider registering with your consulate"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tegucigalpa becomes extremely dangerous after dark with significantly increased risks of violent crime, robbery, and assault. Even the safer embassy neighborhoods require caution at night. The US State Department advises against walking or driving at night. Most locals avoid being out after sunset unless absolutely necessary. Street lighting is poor in many areas and police presence is limited.",
+    "tips": [
+      "Never walk anywhere at night, even short distances between buildings",
+      "Use only hotel-arranged transportation or trusted radio taxi services after dark",
+      "Stay in your hotel after sunset unless participating in organized group activities",
+      "If you must go out, travel in groups with a local guide or security",
+      "Avoid bars, nightclubs, and entertainment venues frequented by locals rather than tourists",
+      "Keep hotel room number and emergency contacts easily accessible at all times"
+    ]
+  },
+  "transport": {
+    "metro": "Tegucigalpa has no metro or light rail system. Public transportation consists only of buses, which are extremely dangerous and should be avoided completely by tourists.",
+    "rideshare": "Uber and other rideshare apps operate in limited areas, primarily the embassy district and upscale neighborhoods. Service can be unreliable and drivers may cancel if the destination is in a dangerous area. Use with caution and verify vehicle details carefully.",
+    "taxis": "Street taxis are dangerous and often involved in robberies or express kidnappings. Radio taxis called by hotels or restaurants are safer but still require caution. Licensed taxis are white with red license plates, but this doesn't guarantee safety.",
+    "tips": "Never use public buses or street taxis. Have your hotel arrange all transportation. For airport transfers, use the official shuttle services or pre-arranged private transfers. Keep emergency contacts handy and inform someone of your travel plans and expected arrival times."
+  },
+  "customs": [
+    "Greet people with 'Buenos días' (good morning) or 'Buenas tardes' (good afternoon) - this courtesy is highly valued",
+    "Family is extremely important - asking about family shows respect and builds rapport with locals",
+    "Personal space is smaller than in North America - expect closer physical proximity during conversations",
+    "Punctuality is flexible - being 15-30 minutes late is normal and not considered rude",
+    "Dress modestly and conservatively, especially when visiting religious sites or government buildings",
+    "Avoid public displays of affection and LGBTQ+ visibility due to traditional conservative values"
+  ],
+  "health": {
+    "overview": "Healthcare in Tegucigalpa is limited with significant challenges in quality and accessibility. Private hospitals offer better care than public facilities but may not meet international standards. Medical evacuation insurance is highly recommended.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking, brushing teeth, and ice. Be cautious with fresh fruits and salads that may have been washed with tap water.",
+    "vaccinations": "Yellow fever vaccination required if arriving from endemic countries. Hepatitis A, Hepatitis B, and Typhoid recommended. Malaria prophylaxis generally not needed for Tegucigalpa due to elevation, but dengue risk exists year-round.",
+    "altitude": "Tegucigalpa sits at 3,200 feet elevation, which is generally not problematic. Climate is tropical with dry season December-April and rainy season May-November. Dengue fever is a significant risk, especially during rainy season."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "199",
+    "ambulance": "195",
+    "fire": "198",
+    "touristPolice": "Available in some areas - call 911",
+    "usEmbassy": "US Embassy Tegucigalpa: Boulevard Los Próceres, Tegucigalpa - Tel: +504 2236-9320 or +504 2238-5114 (24-hour emergency line)"
+  },
+  "faq": [
+    {
+      "q": "Is Tegucigalpa safe for tourists?",
+      "a": "Tegucigalpa requires extreme caution. While violence has decreased significantly since 2022 due to government state of emergency measures, serious risks remain including armed robbery, extortion, and gang activity. Tourists can visit safely by staying in embassy areas, using guided tours, and never traveling alone at night, but independent exploration is not recommended."
+    },
+    {
+      "q": "Is Tegucigalpa safe at night?",
+      "a": "No, Tegucigalpa is extremely dangerous at night. The US State Department advises against walking or driving after dark, even in safer neighborhoods. Crime rates spike dramatically after sunset. If you must go out, use hotel-arranged transportation and travel only to organized tourist activities with security."
+    },
+    {
+      "q": "Is Tegucigalpa safe for solo female travelers?",
+      "a": "Solo female travel to Tegucigalpa is challenging and requires exceptional precautions. Women face additional risks including harassment and being targeted for crimes. While possible for experienced travelers using proper safety measures, it's generally not recommended for first-time visitors to Central America."
+    },
+    {
+      "q": "What areas should I avoid in Tegucigalpa?",
+      "a": "Avoid Comayaguela entirely, especially the bus terminal area. Stay away from neighborhoods like Kennedy and Villa Nueva. Even in safer areas like the Historic Center, only visit during mid-day hours with tours and leave before 4 PM. Stick to the embassy district and upscale neighborhoods like Lomas del Guijarro."
+    },
+    {
+      "q": "Is it safe to use public transport in Tegucigalpa?",
+      "a": "No, public buses are extremely dangerous and strongly discouraged even for locals. Never use street taxis which may be involved in robberies or kidnappings. Only use radio taxis called by your hotel or rideshare apps in the embassy district. The US State Department prohibits its personnel from using public transportation."
+    }
+  ],
+  "relatedCities": [
+    "san-pedro-sula",
+    "guatemala-city",
+    "san-salvador",
+    "managua"
+  ],
+  "_city_id": "tegucigalpa-honduras",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teatro_Manuel_Bonilla_Tegucigalpa.jpg/1280px-Teatro_Manuel_Bonilla_Tegucigalpa.jpg"
+}

@@ -2142,3 +2142,54 @@
 2026-03-18 23:14:17,187 [INFO] Merged into site data: San Salvador
 2026-03-18 23:14:17,253 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-18 23:14:17,290 [INFO] Rebuilt sitemap with 447 URLs (325 cities, 116 countries, 6 static)
+2026-03-19 07:32:15,762 [INFO] Agent starting — mode: add
+2026-03-19 07:32:15,803 [INFO] Queue has 239 cities, adding 8
+2026-03-19 07:32:15,803 [INFO] Generating new city profile: El Tunco, El Salvador
+2026-03-19 07:33:53,905 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:33:54,287 [INFO] Saved city data: el-tunco-el-salvador
+2026-03-19 07:33:54,291 [INFO] Generating new city profile: Tegucigalpa, Honduras
+2026-03-19 07:34:35,709 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:34:35,754 [ERROR] Claude returned empty text response
+2026-03-19 07:34:35,754 [ERROR] Failed to parse city data for Tegucigalpa (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-19 07:34:35,754 [INFO] Retry 1/2 for Tegucigalpa
+2026-03-19 07:36:20,087 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:36:20,341 [INFO] Found Wikipedia image for Tegucigalpa
+2026-03-19 07:36:20,342 [INFO] Saved city data: tegucigalpa-honduras
+2026-03-19 07:36:20,345 [INFO] Generating new city profile: Roatan, Honduras
+2026-03-19 07:37:54,320 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:37:54,771 [INFO] Found Wikipedia image for Roatan
+2026-03-19 07:37:54,771 [INFO] Saved city data: roatan-honduras
+2026-03-19 07:37:54,775 [INFO] Generating new city profile: Managua, Nicaragua
+2026-03-19 07:39:41,188 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:39:41,396 [INFO] Found Wikipedia image for Managua
+2026-03-19 07:39:41,397 [INFO] Saved city data: managua-nicaragua
+2026-03-19 07:39:41,400 [INFO] Generating new city profile: Granada, Nicaragua
+2026-03-19 07:41:20,281 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:41:20,429 [INFO] Found Wikipedia image for Granada
+2026-03-19 07:41:20,429 [INFO] Saved city data: granada-nicaragua
+2026-03-19 07:41:20,433 [INFO] Generating new city profile: Trinidad, Cuba
+2026-03-19 07:42:00,469 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:42:00,555 [ERROR] Claude returned empty text response
+2026-03-19 07:42:00,555 [ERROR] Failed to parse city data for Trinidad (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-19 07:42:00,555 [INFO] Retry 1/2 for Trinidad
+2026-03-19 07:43:29,510 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:43:29,690 [INFO] Found Wikipedia image for Trinidad
+2026-03-19 07:43:29,690 [INFO] Saved city data: trinidad-cuba
+2026-03-19 07:43:29,694 [INFO] Generating new city profile: Montego Bay, Jamaica
+2026-03-19 07:45:04,399 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:45:04,629 [INFO] Found Wikipedia image for Montego Bay
+2026-03-19 07:45:04,630 [INFO] Saved city data: montego-bay-jamaica
+2026-03-19 07:45:04,633 [INFO] Generating new city profile: Bridgetown, Barbados
+2026-03-19 07:46:48,036 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 07:46:48,217 [INFO] Found Wikipedia image for Bridgetown
+2026-03-19 07:46:48,218 [INFO] Saved city data: bridgetown-barbados
+2026-03-19 07:46:48,258 [INFO] Merged into site data: El Tunco
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Tegucigalpa
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Roatan
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Managua
+2026-03-19 07:46:48,258 [INFO] City already exists in site data, skipping: granada
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Trinidad
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Montego Bay
+2026-03-19 07:46:48,258 [INFO] Merged into site data: Bridgetown
+2026-03-19 07:46:48,325 [INFO] Merged 7 new cities into src/lib/city-data.json
+2026-03-19 07:46:48,362 [INFO] Rebuilt sitemap with 457 URLs (332 cities, 119 countries, 6 static)

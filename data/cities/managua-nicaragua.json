@@ -1,0 +1,164 @@
+{
+  "slug": "managua",
+  "name": "Managua",
+  "country": "Nicaragua",
+  "countryCode": "NI",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 4.6,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 5.5,
+    "scamRisk": 4.5,
+    "womensSafety": 4.2,
+    "nightSafety": 3.8,
+    "transport": 4.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Managua presents moderate to significant safety challenges for tourists, with the US State Department maintaining a Level 3 advisory due to arbitrary law enforcement, wrongful detention risks, and crime. While violent crime is less common than neighboring countries, petty theft and robbery are frequent concerns, particularly in certain neighborhoods and at night.",
+  "quickVerdict": "Managua requires heightened awareness and precautions from visitors. The capital faces crime issues including robbery and theft, especially in specific neighborhoods like Mercado Oriental and around bus terminals. Political tensions add complexity, with risks of arbitrary detention for US citizens. However, many travelers visit safely by staying in tourist areas, avoiding night walking, using hotel-arranged transportation, and maintaining low profiles. The city is manageable for cautious, well-prepared travelers.",
+  "neighborhoods": [
+    {
+      "name": "Zona Viva & Galerias Santo Domingo",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale mall area with restaurants, bars and good security. Well-lit and patrolled, making it the safest nightlife district in the city."
+    },
+    {
+      "name": "Los Robles & Zona Hippos",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Tourist-friendly area with hotels and restaurants. Generally safe during the day but requires caution at night and awareness of surroundings."
+    },
+    {
+      "name": "Puerto Salvador Allende",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Lakefront area with bars and restaurants. Popular with families and tourists, has security presence but still requires standard urban precautions."
+    },
+    {
+      "name": "Central Managua",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Damaged by 1972 earthquake, this area is spread out and poorly lit. Safe for transit during day but avoid walking alone, especially at night."
+    },
+    {
+      "name": "Mercado Oriental",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Large market area notorious for pickpocketing and theft. High crime zone that tourists should avoid or visit only with extreme caution and local guides."
+    },
+    {
+      "name": "Jorge Dimitrov & Ciudad Belen",
+      "score": 2.8,
+      "class": "danger",
+      "description": "High-crime neighborhoods with gang activity and frequent robberies. Tourists should completely avoid these areas, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Checkpoints",
+      "risk": "high",
+      "description": "Criminals posing as police officers stopping vehicles for inspections on highways like Tipitapa-Masaya and Managua-Leon, demanding bribes or directing victims to ATMs.",
+      "howToAvoid": "Always ask for proper credentials, avoid driving at night on these routes, and report suspicious stops to authorities."
+    },
+    {
+      "name": "Taxi Overcharging & Express Kidnapping",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers overcharging tourists or, in worst cases, forcing passengers to withdraw money from ATMs. Some unauthorized taxis involved in express kidnappings.",
+      "howToAvoid": "Use only licensed taxis with red plates, hotel-arranged transport, or ride-hailing apps like Ray. Agree on fares beforehand."
+    },
+    {
+      "name": "Market Distraction Theft",
+      "risk": "medium",
+      "description": "Pickpockets using distraction techniques in crowded markets and bus stations, often working in teams to steal phones, wallets, and valuables.",
+      "howToAvoid": "Keep valuables secure and out of sight, use money belts, and stay alert in crowded areas. Don't carry unnecessary items to markets."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "medium",
+      "description": "Street money changers offering poor exchange rates or counterfeit bills, particularly targeting tourists unfamiliar with local currency.",
+      "howToAvoid": "Only exchange money at banks or official exchange houses. Avoid street vendors offering currency exchange services."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Managua requires extra caution due to frequent catcalling, machista attitudes, and higher vulnerability to crime. Many female travelers report feeling uncomfortable, particularly when walking alone. The culture includes prevalent street harassment that affects both locals and tourists, making navigation challenging.",
+    "tips": [
+      "Stay in well-regarded accommodations in safer areas like Los Robles",
+      "Avoid walking alone, especially at night",
+      "Dress modestly to reduce unwanted attention",
+      "Use hotel-arranged transportation rather than public transit",
+      "Join other travelers when exploring markets or nightlife areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Managua becomes significantly more dangerous after dark, with increased robbery and violent crime risks. The city is not pedestrian-friendly at night, lacking proper lighting and having scattered layouts that increase vulnerability. Even relatively safe areas become riskier after sunset.",
+    "tips": [
+      "Avoid walking at night entirely",
+      "Use hotel taxis or ride-hailing apps for transportation",
+      "Stay in well-lit, populated areas if going out",
+      "Travel in groups when visiting nightlife areas",
+      "End activities early to avoid late-night travel"
+    ]
+  },
+  "transport": {
+    "metro": "Managua has no metro system. Public buses exist but are crowded, confusing for visitors, and frequent targets for petty theft.",
+    "rideshare": "Ray App and Aventon work in Managua as Uber alternatives. InDriver also available. Prices increase 30% during peak hours and 50-60% after 9pm.",
+    "taxis": "Licensed taxis have red license plates. Many are shared taxis (colectivos) picking up multiple passengers. Always agree on fare beforehand as meters are rare.",
+    "tips": "Use hotel-arranged transport when possible, especially for airport transfers. Avoid public buses due to theft risk. Stick to licensed taxis and ride-hailing apps for safety."
+  },
+  "customs": [
+    "Address strangers formally with 'Usted' rather than 'Tu' - Nicaraguans appreciate courtesy and formality",
+    "Expect warm greetings including hugs and cheek kisses from locals even when first meeting",
+    "Be patient with 'Nicaraguan time' - punctuality is more relaxed except for formal business meetings",
+    "Show respect for strong Catholic traditions and religious holidays",
+    "Don't discuss politics openly as it's a sensitive topic that can make locals uncomfortable"
+  ],
+  "health": {
+    "overview": "Healthcare in Managua is limited with basic services available but serious conditions may require evacuation. Public hospitals are poorly equipped while private facilities offer better care but are expensive.",
+    "water": "Tap water is not safe to drink. Use only bottled or purified water for drinking and teeth brushing.",
+    "vaccinations": "Ensure routine vaccinations are current. Typhoid and Hepatitis A recommended. Malaria risk is low in Managua but protect against mosquito-borne diseases.",
+    "altitude": "Managua is at low altitude but has tropical climate. Hot year-round with rainy season May-November. Pack lightweight clothes, sunscreen, and rain gear."
+  },
+  "emergency": {
+    "general": "911 or 118",
+    "police": "118",
+    "ambulance": "128",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Managua: +505-2252-7100, located at Km 5½ Carretera Sur. Emergency after-hours: same number, ask for Embassy Duty Officer."
+  },
+  "faq": [
+    {
+      "q": "Is Managua safe for tourists?",
+      "a": "Managua requires caution but can be visited safely. Stay in tourist areas like Los Robles, avoid walking at night, use official transport, and keep a low profile. The US maintains a Level 3 advisory due to various risks."
+    },
+    {
+      "q": "Is Managua safe at night?",
+      "a": "No, Managua is not safe for walking at night. The city lacks proper lighting, is spread out, and crime increases after dark. Use hotel taxis or ride-hailing apps for evening transportation."
+    },
+    {
+      "q": "Is Managua safe for solo female travelers?",
+      "a": "Solo female travel requires extra precautions due to frequent catcalling and machista attitudes. Stay in good accommodations, avoid walking alone, use proper transport, and consider joining other travelers for activities."
+    },
+    {
+      "q": "What areas should I avoid in Managua?",
+      "a": "Avoid Mercado Oriental, Jorge Dimitrov, Ciudad Belen, and areas around Ticabus terminal. These neighborhoods have high crime rates. Also avoid walking anywhere at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Managua?",
+      "a": "Public buses are not recommended due to crowding, confusion, and frequent theft. Use licensed taxis with red plates, hotel transport, or ride-hailing apps like Ray for safer travel."
+    }
+  ],
+  "relatedCities": [
+    "guatemala-city",
+    "san-salvador",
+    "tegucigalpa"
+  ],
+  "_city_id": "managua-nicaragua",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%B2_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D1%83%D0%B0_%28cropped%29.jpg"
+}
