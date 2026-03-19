@@ -2237,3 +2237,51 @@
 2026-03-19 12:04:41,205 [INFO] Merged into site data: Salta
 2026-03-19 12:04:41,277 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-19 12:04:41,319 [INFO] Rebuilt sitemap with 469 URLs (340 cities, 123 countries, 6 static)
+2026-03-19 18:10:31,028 [INFO] Agent starting — mode: add
+2026-03-19 18:10:31,069 [INFO] Queue has 223 cities, adding 8
+2026-03-19 18:10:31,069 [INFO] Generating new city profile: Salvador, Brazil
+2026-03-19 18:12:46,982 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:12:47,121 [INFO] Found Wikipedia image for Salvador
+2026-03-19 18:12:47,122 [INFO] Saved city data: salvador-brazil
+2026-03-19 18:12:47,125 [INFO] Generating new city profile: Florianopolis, Brazil
+2026-03-19 18:13:23,947 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:13:23,974 [ERROR] Claude returned empty text response
+2026-03-19 18:13:23,974 [ERROR] Failed to parse city data for Florianopolis (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-19 18:13:23,974 [INFO] Retry 1/2 for Florianopolis
+2026-03-19 18:15:05,956 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:15:06,042 [INFO] Found Wikipedia image for Florianopolis
+2026-03-19 18:15:06,042 [INFO] Saved city data: florianopolis-brazil
+2026-03-19 18:15:06,045 [INFO] Generating new city profile: Iguazu Falls, Brazil
+2026-03-19 18:16:31,154 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:16:31,289 [INFO] Found Wikipedia image for Iguazu Falls
+2026-03-19 18:16:31,290 [INFO] Saved city data: iguazu-falls-brazil
+2026-03-19 18:16:31,293 [INFO] Generating new city profile: Recife, Brazil
+2026-03-19 18:18:06,447 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:18:06,536 [INFO] Found Wikipedia image for Recife
+2026-03-19 18:18:06,536 [INFO] Saved city data: recife-brazil
+2026-03-19 18:18:06,539 [INFO] Generating new city profile: Fortaleza, Brazil
+2026-03-19 18:19:47,339 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:19:47,425 [INFO] Found Wikipedia image for Fortaleza
+2026-03-19 18:19:47,425 [INFO] Saved city data: fortaleza-brazil
+2026-03-19 18:19:47,429 [INFO] Generating new city profile: Valparaiso, Chile
+2026-03-19 18:21:14,307 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:21:14,386 [INFO] Found Wikipedia image for Valparaiso
+2026-03-19 18:21:14,387 [INFO] Saved city data: valparaiso-chile
+2026-03-19 18:21:14,390 [INFO] Generating new city profile: San Pedro de Atacama, Chile
+2026-03-19 18:22:54,633 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:22:54,735 [INFO] Found Wikipedia image for San Pedro de Atacama
+2026-03-19 18:22:54,736 [INFO] Saved city data: san-pedro-de-atacama-chile
+2026-03-19 18:22:54,739 [INFO] Generating new city profile: Patagonia, Chile
+2026-03-19 18:24:15,141 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 18:24:15,260 [INFO] Found Wikipedia image for Patagonia
+2026-03-19 18:24:15,260 [INFO] Saved city data: patagonia-chile
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Salvador
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Florianopolis
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Iguazu Falls
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Recife
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Fortaleza
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Valparaíso
+2026-03-19 18:24:15,301 [INFO] Merged into site data: San Pedro de Atacama
+2026-03-19 18:24:15,301 [INFO] Merged into site data: Patagonia
+2026-03-19 18:24:15,373 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-19 18:24:15,409 [INFO] Rebuilt sitemap with 477 URLs (348 cities, 123 countries, 6 static)

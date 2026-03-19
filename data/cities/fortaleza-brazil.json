@@ -1,0 +1,166 @@
+{
+  "slug": "fortaleza",
+  "name": "Fortaleza",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 4.8,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.0,
+    "violentCrime": 3.5,
+    "scamRisk": 4.0,
+    "womensSafety": 4.5,
+    "nightSafety": 3.2,
+    "transport": 6.5,
+    "naturalHazards": 8.8
+  },
+  "summary": "Fortaleza is a major coastal city in northeastern Brazil with beautiful beaches and vibrant culture, but faces significant safety challenges with high crime rates, particularly violent crime and armed robbery. While tourist areas are more heavily policed, visitors need to exercise considerable caution, especially at night and when displaying valuables.",
+  "quickVerdict": "Fortaleza ranks as one of Brazil's more dangerous cities with the 7th highest global homicide rate and significant issues with violent crime, armed robbery, and scams targeting tourists. While many visitors enjoy the city safely, it requires more vigilance than southern Brazilian destinations. Tourist zones like Meireles and Aldeota are safer, but petty crime including phone snatching and motorcycle theft remains common. The city is best suited for travelers with street smarts who can stick to well-policed areas and avoid risky behaviors like walking alone at night or displaying expensive items.",
+  "neighborhoods": [
+    {
+      "name": "Meireles",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The safest and most tourist-friendly neighborhood with beachfront hotels, restaurants, police presence, and the Beira Mar avenue. Well-maintained with steady foot traffic and better lighting at night."
+    },
+    {
+      "name": "Aldeota",
+      "score": 6.5,
+      "class": "caution",
+      "description": "An upscale residential area near shopping centers and hospitals with good infrastructure. Generally safe during the day but requires caution at night, especially in quieter sections."
+    },
+    {
+      "name": "Praia de Iracema",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Cultural hub with nightlife, bars, and the Dragao do Mar Center. Popular but has higher petty crime reports, especially after dark. Good during day but avoid isolated beach areas at night."
+    },
+    {
+      "name": "Centro Downtown",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Historic center that's manageable during business hours around banks and commercial areas but becomes poorly lit and risky once shops close. Avoid after dark."
+    },
+    {
+      "name": "Bom Jardim",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Peripheral inland neighborhood with ongoing gang-related violence and high homicide rates. No tourist infrastructure and no practical reason for visitors to go there."
+    },
+    {
+      "name": "Conjunto Palmeiras",
+      "score": 2.0,
+      "class": "danger",
+      "description": "High-crime residential area far from tourist zones with frequent appearances in local crime reports. Gang activity and violence make this area unsuitable for visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Motorcycle Phone Snatching",
+      "risk": "high",
+      "description": "Thieves on motorcycles grab phones and valuables from pedestrians walking near curbs, especially along busy streets and beachfronts.",
+      "howToAvoid": "Never stand at the edge of streets while using your phone. Step inside shops, hotel lobbies, or restaurants to check maps or messages. Keep devices out of sight when walking."
+    },
+    {
+      "name": "Fake Taxi and Transport Overcharging",
+      "risk": "high",
+      "description": "Unofficial taxi drivers approach tourists with unmarked vehicles, charging excessive rates or taking longer routes. Some pose as legitimate drivers.",
+      "howToAvoid": "Only use official taxis with red license plates or ride-sharing apps like Uber. Ask hotels to call registered taxi companies. Verify driver identity and vehicle details before getting in."
+    },
+    {
+      "name": "Beach Vendor and Tour Scams",
+      "risk": "medium",
+      "description": "Beach vendors offer overpriced items or fake tour packages, while unofficial parking attendants demand payment. Some offer 'free' items then demand payment.",
+      "howToAvoid": "Book tours through reputable agencies and confirm prices upfront. Nothing is truly free from street vendors. Research and use established tour companies with good reviews."
+    },
+    {
+      "name": "ATM Skimming and Card Fraud",
+      "risk": "medium",
+      "description": "Criminals install skimming devices on ATMs, especially at gas stations, to steal card information and PINs from unsuspecting victims.",
+      "howToAvoid": "Only use ATMs inside banks, shopping malls, or airports with security cameras. Cover your PIN entry and inspect card slots for suspicious devices. Avoid isolated street ATMs."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Fortaleza requires significant caution due to harassment, catcalling, and higher crime risks. While many women visit safely, the city demands more awareness than other Brazilian destinations. Harassment can occur in nightlife and beach settings, and walking alone at night is strongly discouraged.",
+    "tips": [
+      "Stay in well-policed areas like Meireles or Aldeota",
+      "Use rideshare services like Uber for transportation after dark",
+      "Avoid isolated beach areas especially at night",
+      "Dress conservatively to minimize unwanted attention",
+      "Always inform someone of your whereabouts and plans"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Fortaleza is a major concern with only 13 out of 100 people feeling secure after dark. Even tourist areas become riskier once the sun sets, with long stretches of beachfront promenades becoming isolated. Crime rates spike at night with armed robberies and assaults more common.",
+    "tips": [
+      "Never walk alone on beaches or empty streets after dark",
+      "Use rideshare apps or hotel-arranged transportation for nighttime travel",
+      "Stay in groups when enjoying nightlife areas like Centro Dragao do Mar",
+      "Plan return transportation before going out",
+      "Avoid excessive alcohol consumption that impairs awareness"
+    ]
+  },
+  "transport": {
+    "metro": "Fortaleza has a limited metro system (Metrofor) with one main line serving 40 stations. While generally safe, the metro primarily serves commuters and has limited tourist coverage. Service runs with 27-minute headways on the main line.",
+    "rideshare": "Uber and local app 99 are widely available and considered the safest transport option, especially at night. Generally reliable with driver verification features. New services like TopBus+ offer shared rides in Mercedes-Benz Sprinter vans.",
+    "taxis": "Official taxis have red license plates and are regulated, but quality varies. Call reputable companies or use hotel services. Avoid unmarked vehicles and always verify official registration before entering.",
+    "tips": "Public buses are targets for theft and robbery, especially at night. Stick to rideshare apps for maximum safety, particularly after dark. The new metro line to the airport (Line 5) opened in February 2026, providing safer airport access."
+  },
+  "customs": [
+    "Greet with handshakes or kisses on the cheek",
+    "Dress modestly when visiting religious sites",
+    "Tipping 10% is standard at restaurants",
+    "Brazilians are generally warm and friendly but respect personal space",
+    "Portuguese is the main language, though some English is spoken in tourist areas"
+  ],
+  "health": {
+    "overview": "Fortaleza has both public and private healthcare options. Private hospitals like Hospital Antonio Prudente and Hospital Sao Mateus provide good care with some English-speaking staff. Public healthcare through SUS is available but often overcrowded.",
+    "water": "Tap water is treated but may cause stomach sensitivity for short-term visitors. Bottled water is widely available and recommended for tourists to avoid potential digestive issues.",
+    "vaccinations": "No special vaccinations required for most travelers. Yellow fever vaccination may be recommended if traveling from endemic areas. Standard travel vaccines like Hepatitis A and B are advisable.",
+    "altitude": "Fortaleza is at sea level with a tropical climate and temperatures between 25-32°C year-round. Rainy season runs February to May. High sun exposure requires strong sunscreen and protective clothing."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "Available but contact local authorities for current number",
+    "usEmbassy": "U.S. Consular Agency Fortaleza: Avenida Santos Dumont 2828, Suite 708, Aldeota. Phone: (85) 3223-4902. For after-hours emergencies: (81) 3416-3050 (via Recife Consulate). Embassy Brasilia: +55 (61) 3312-7400"
+  },
+  "faq": [
+    {
+      "q": "Is Fortaleza safe for tourists?",
+      "a": "Fortaleza requires significant caution as it has high crime rates and ranks among Brazil's more dangerous cities. While many tourists visit safely, it demands more vigilance than southern Brazilian destinations. Stick to well-policed tourist areas like Meireles and avoid displaying valuables."
+    },
+    {
+      "q": "Is Fortaleza safe at night?",
+      "a": "Nighttime safety is a major concern in Fortaleza with high crime rates after dark. Even tourist zones become riskier, and walking alone is strongly discouraged. Use rideshare services for transportation and stay in groups when going out. Plan return trips in advance."
+    },
+    {
+      "q": "Is Fortaleza safe for solo female travelers?",
+      "a": "Solo female travelers should exercise significant caution in Fortaleza due to harassment risks and higher crime rates. While possible, it requires staying in safe neighborhoods, using rideshares at night, and being very aware of surroundings. Many women visit safely with proper precautions."
+    },
+    {
+      "q": "What areas should I avoid in Fortaleza?",
+      "a": "Avoid peripheral inland neighborhoods like Bom Jardim, Jangurussu, and Conjunto Palmeiras which have high crime rates. Centro downtown becomes risky after dark. Be cautious on isolated stretches of beaches, especially Praia do Futuro at night, and avoid all favelas."
+    },
+    {
+      "q": "Is it safe to use public transport in Fortaleza?",
+      "a": "Public buses can be targets for theft and are not recommended, especially at night. The metro system is safer but has limited coverage. Rideshare apps like Uber are the safest option. Official taxis with red license plates are acceptable but verify registration first."
+    }
+  ],
+  "relatedCities": [
+    "recife",
+    "salvador",
+    "rio-de-janeiro",
+    "sao-paulo",
+    "belem"
+  ],
+  "_city_id": "fortaleza-brazil",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fortaleza%2C_Brazil_%284%29_%28cropped%29.jpg"
+}

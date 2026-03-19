@@ -1,0 +1,166 @@
+{
+  "slug": "iguazu-falls",
+  "name": "Iguazu Falls",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 7.8,
+    "scamRisk": 5.8,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.2,
+    "naturalHazards": 7.4
+  },
+  "summary": "Iguazu Falls is generally safe for tourists but requires standard precautions, particularly regarding petty crime and border crossings. The area has increased police presence due to tourism, though visitors should be aware of occasional flooding and mosquito-borne illnesses.",
+  "quickVerdict": "Iguazu Falls is considered one of the safer destinations in Brazil for tourists, with well-developed infrastructure and strong police presence around the falls themselves. While petty crime can occur in surrounding towns, violent crime against tourists is rare. The main safety concerns involve natural hazards like flooding during heavy rains, aggressive coatis, and mosquito-borne diseases. Solo female travelers generally feel safe, especially within the national park boundaries.",
+  "neighborhoods": [
+    {
+      "name": "Iguazu National Park",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The national park itself is very secure with regular patrols, well-maintained trails, and strong tourist police presence. Most safety concerns here involve wildlife and natural hazards."
+    },
+    {
+      "name": "Foz do Iguacu Centro",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Downtown Foz is well-policed and generally safe for tourists, with good infrastructure and regular foot patrols. Stay on main avenues at night for extra security."
+    },
+    {
+      "name": "Vila Yolanda",
+      "score": 7.3,
+      "class": "safe",
+      "description": "Close to tourist attractions with good hotel security and frequent police patrols. Popular with visitors and considered one of the safer residential areas."
+    },
+    {
+      "name": "Jardim Festival",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Known for being one of the safest neighborhoods in Foz do Iguacu with good lighting, security presence, and low crime rates."
+    },
+    {
+      "name": "Porto Meira",
+      "score": 5.5,
+      "class": "caution",
+      "description": "More residential area with less tourist infrastructure. Exercise additional caution at night and avoid displaying valuables openly."
+    },
+    {
+      "name": "Vila Portes",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Higher crime rates and less police presence. Not recommended for tourists, especially after dark. Stick to main roads if transit is necessary."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Driver Border Scams",
+      "risk": "high",
+      "description": "Taxi drivers claiming Americans need visas to enter Brazil and offering to help for $20-40 per person, then taking tourists to duty-free shops instead of the border.",
+      "howToAvoid": "Use official border crossings, verify visa requirements independently, and use reputable transport companies or official taxi ranks."
+    },
+    {
+      "name": "Overpriced Photo Sales",
+      "risk": "medium",
+      "description": "Vendors at the falls selling inflated-price photos or pressuring tourists to buy expensive souvenirs through aggressive sales tactics.",
+      "howToAvoid": "Politely decline photo offers, research fair prices beforehand, and buy souvenirs from established shops rather than street vendors."
+    },
+    {
+      "name": "Fake Tour Operator Scams",
+      "risk": "medium",
+      "description": "Street vendors selling overpriced or fake tour packages, sometimes not delivering promised services or using unlicensed operators.",
+      "howToAvoid": "Book tours online through reputable companies, verify licenses, and avoid purchasing from street vendors or unofficial tour operators."
+    },
+    {
+      "name": "ATM and Credit Card Fraud",
+      "risk": "high",
+      "description": "Compromised ATMs or handheld credit card readers used to steal card information, particularly at locations outside hotels or banks.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN, monitor card transactions closely, and consider using contactless payments when possible."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Iguazu Falls is considered safe for solo female travelers, with many women reporting positive experiences. The increased tourism has led to strong police presence, especially around the falls and main tourist areas. Basic precautions are advised, particularly at night in more secluded areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations near tourist areas",
+      "Use reputable transport services rather than unlicensed taxis",
+      "Join group tours if feeling uncertain about solo exploration",
+      "Keep hotel contact information and carry a charged phone",
+      "Be alert at night but walking alone is generally safe in main areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety varies by area, with tourist zones being well-patrolled and generally secure. The falls area itself closes at sunset, but surrounding towns offer various nightlife options. Main avenues in Foz do Iguacu are well-lit and safe, though more secluded areas require extra caution.",
+    "tips": [
+      "Stay on main avenues and well-lit streets when walking at night",
+      "Use official taxis or ride-sharing apps rather than walking long distances",
+      "Participate in organized night activities like dinner shows or casino visits",
+      "Return to accommodation before late hours, especially if unfamiliar with the area",
+      "Travel in groups when exploring nightlife options"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local transport relies on buses, taxis, and ride-sharing services.",
+    "rideshare": "Uber operates in both Foz do Iguacu and Puerto Iguazu but service across the international border can be inconsistent. Generally reliable for in-town transport.",
+    "taxis": "Taxis are safe and dependable with metered rates within cities. For cross-border trips or to the falls, confirm prices beforehand. Official taxi ranks at airports and hotels are recommended.",
+    "tips": "Public buses to the falls run every 20-30 minutes and are economical and safe. Avoid unlicensed taxis and always use official transport services."
+  },
+  "customs": [
+    "Greet with handshakes or cheek kisses depending on formality level",
+    "Punctuality is relaxed in social settings but punctual for business",
+    "Tipping 10% in restaurants is customary and tips must be paid in cash",
+    "Dress modestly when visiting religious sites",
+    "Portuguese is the main language, basic phrases are appreciated"
+  ],
+  "health": {
+    "overview": "Health infrastructure around Iguazu Falls is adequate for tourists with both public and private healthcare options available. The main health concerns involve mosquito-borne diseases, foodborne illnesses, and heat-related conditions.",
+    "water": "Municipal water is treated but not recommended for drinking. Bottled water is advised for all travelers to avoid stomach discomfort.",
+    "vaccinations": "Yellow fever vaccination recommended, especially if traveling between countries. Hepatitis A and typhoid vaccines advised. Routine vaccinations should be current.",
+    "altitude": "Subtropical climate with high humidity and temperatures up to 95°F. Heavy rainfall periods can cause flooding. Strong sun protection needed year-round."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "Contact local police stations",
+    "usEmbassy": "U.S. Consulate General in Rio de Janeiro: +55 21 3823-2000. No U.S. consular services in Iguazu area - contact Brasilia embassy for emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Iguazu Falls safe for tourists?",
+      "a": "Yes, Iguazu Falls is generally safe for tourists with strong police presence around the national park and main tourist areas. Exercise standard travel precautions and stay aware of your surroundings."
+    },
+    {
+      "q": "Is Iguazu Falls safe at night?",
+      "a": "Tourist areas and main avenues in Foz do Iguacu are well-lit and patrolled, making them relatively safe at night. However, the falls themselves close at sunset, and more secluded areas require extra caution."
+    },
+    {
+      "q": "Is Iguazu Falls safe for solo female travelers?",
+      "a": "Solo female travelers generally report feeling safe at Iguazu Falls, especially within the national park and tourist zones. Basic precautions are advised, and many women successfully visit alone without incidents."
+    },
+    {
+      "q": "What areas should I avoid in Iguazu Falls?",
+      "a": "Avoid informal housing developments (favelas), stay away from the outer residential areas of Foz do Iguacu at night, and be cautious in areas beyond the main tourist zones. The falls and central areas are safest."
+    },
+    {
+      "q": "Is it safe to use public transport in Iguazu Falls?",
+      "a": "Public buses to and within the national park are safe and regularly used by tourists. City buses are generally reliable, though pay attention to belongings during crowded periods and use official transport services."
+    }
+  ],
+  "relatedCities": [
+    "rio-de-janeiro",
+    "sao-paulo",
+    "salvador",
+    "brasilia",
+    "porto-alegre"
+  ],
+  "_city_id": "iguazu-falls-brazil",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Iguazu_Cataratas2.jpg/1280px-Iguazu_Cataratas2.jpg"
+}

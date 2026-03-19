@@ -1,0 +1,164 @@
+{
+  "slug": "salvador",
+  "name": "Salvador",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 4.7,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 3.0,
+    "scamRisk": 4.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.0,
+    "transport": 5.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Salvador, Brazil's vibrant cultural capital, presents significant safety challenges with high crime rates including violent crime, robbery, and drug-related violence. While its rich Afro-Brazilian heritage and cultural attractions are unmatched, visitors must exercise extreme caution, particularly in certain neighborhoods and after dark.",
+  "quickVerdict": "Salvador is one of Brazil's most culturally significant but challenging destinations from a safety perspective. The city has some of the highest violent crime rates in Brazil, with organized crime groups controlling parts of the city and frequent incidents of robbery, assault, and drug-related violence. However, with proper precautions, staying in safer tourist areas like Pelourinho and Barra during the day, using trusted transportation, and avoiding risky behaviors, visitors can experience the city's incredible music, food, and cultural heritage. The key is being extremely vigilant and well-informed about which areas to avoid.",
+  "neighborhoods": [
+    {
+      "name": "Pelourinho",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic center with heavy police presence during the day, featuring UNESCO World Heritage sites, colonial architecture, and cultural attractions. Generally safe for tourists during daylight hours but requires caution at night."
+    },
+    {
+      "name": "Barra",
+      "score": 6.5,
+      "class": "safe",
+      "description": "Popular tourist beach area with hotels, restaurants, and the lighthouse. Relatively safe during the day with good infrastructure, but petty theft and beach crime can occur. Avoid isolated areas at night."
+    },
+    {
+      "name": "Rio Vermelho",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Bohemian neighborhood known for nightlife, bars, and Jorge Amado's former residence. Moderate safety concerns with increased crime at night, particularly around bars and clubs. Exercise caution after dark."
+    },
+    {
+      "name": "Itaigara",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Middle-class residential and commercial area with shopping centers. Generally safer than other areas but still requires normal urban precautions, especially when using public transport or walking alone."
+    },
+    {
+      "name": "Suburbio",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Lower-income area with high crime rates and gang activity. Dangerous for tourists with frequent violent incidents. Should be avoided entirely, especially by visitors unfamiliar with the city."
+    },
+    {
+      "name": "Favelas/Informal settlements",
+      "score": 1.5,
+      "class": "danger",
+      "description": "Informal housing areas with extremely high crime rates and active drug trafficking. Completely off-limits to tourists as neither police nor tour operators can guarantee safety. Avoid at all times."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Broken Card Machine Scam",
+      "risk": "high",
+      "description": "Vendors use card machines with damaged or obscured displays to charge 10-100 times the actual price, especially common during Carnival and at tourist areas.",
+      "howToAvoid": "Always verify the amount on the card reader display before confirming payment, use cash for small purchases, or use PIX payments when possible."
+    },
+    {
+      "name": "Fake Police/Authority Scam",
+      "risk": "high",
+      "description": "Criminals posing as police or city officials demand to see documents or payment of fake fines, particularly targeting foreign tourists in public areas.",
+      "howToAvoid": "Always ask for official identification, never hand over documents to strangers, and insist on going to a police station if approached by someone claiming to be police."
+    },
+    {
+      "name": "Beach Distraction Theft",
+      "risk": "medium",
+      "description": "Groups work together to distract tourists on beaches - one person engages in conversation while accomplices steal belongings, or fake accidents/spills create diversions.",
+      "howToAvoid": "Keep valuables in a money belt, never leave belongings unattended on the beach, and be wary of unsolicited help or conversations from strangers."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxis or drivers taking advantage of tourists by not using meters, taking longer routes, or claiming broken meters to charge excessive fares.",
+      "howToAvoid": "Use only registered taxis or ride-sharing apps like Uber or 99, confirm the fare before starting the journey, and have your destination written in Portuguese."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Salvador requires extra vigilance due to high crime rates and specific risks targeting women. The city has particular challenges with gender-based violence and harassment, though many women do visit successfully by taking proper precautions. Tourist areas like Pelourinho and Barra are safer during the day, but women should avoid walking alone at night anywhere in the city.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Barra or near Pelourinho",
+      "Use Uber or 99 instead of walking, especially after dark, and always share trip details",
+      "Dress conservatively and avoid displaying expensive jewelry or electronics",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately",
+      "Connect with other travelers at hostels and consider joining group activities during the day"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Salvador becomes significantly more dangerous after dark, with increased risk of violent crime, robbery, and assault. Even tourist areas that are relatively safe during the day become risky at night. The combination of gang activity, drug trafficking, and opportunistic crime creates a challenging environment for nighttime activities.",
+    "tips": [
+      "Use only trusted transportation like Uber or registered taxis - never walk alone at night",
+      "Stay in well-lit, populated tourist areas if going out, preferably in groups",
+      "Avoid carrying valuables, large amounts of cash, or expensive electronics when going out",
+      "Don't accept drinks from strangers and keep an eye on your drink at all times",
+      "Plan your route back to accommodation in advance and have backup transportation options"
+    ]
+  },
+  "transport": {
+    "metro": "Salvador has a limited metro system connecting the airport to some parts of the city. It's generally safe during the day but stations can be crowded with pickpockets present. Service is limited and doesn't reach all tourist areas directly, often requiring connections to other transport.",
+    "rideshare": "Uber and 99 are widely available and considered the safest transport option. They're affordable, trackable, and drivers are vetted. Essential for night transportation and highly recommended over other options. Payment through the app reduces cash handling risks.",
+    "taxis": "Licensed taxis are available but less recommended than ride-sharing apps. Official airport taxis and hotel-arranged taxis are safer options. Always use metered rides or agree on fare beforehand. Avoid unlicensed vehicles and those without proper identification.",
+    "tips": "Ride-sharing apps are your best bet for safety and convenience. Public buses should be avoided, especially at night, due to high robbery risk. Always have transportation arranged before going out, and avoid walking long distances even during the day."
+  },
+  "customs": [
+    "Brazilians are very warm and physical - expect cheek kisses and hugs even with new acquaintances",
+    "Personal hygiene is extremely important - shower daily and dress cleanly as Brazilians will notice poor hygiene",
+    "Punctuality is relaxed for social events - arriving 1-2 hours late is normal, but be on time for business",
+    "Family is central to Brazilian culture - always ask about family members when making conversation",
+    "Football (soccer) is a safe conversation topic, but don't assume all Brazilians are obsessed with it"
+  ],
+  "health": {
+    "overview": "Salvador has both public and private healthcare systems. Public hospitals can be overcrowded with long wait times, while private facilities offer better quality care. The city has modern medical facilities but visitors should have comprehensive travel insurance.",
+    "water": "Tap water is not recommended for drinking. Stick to bottled water or water purified with UV filters. Ice in restaurants is usually safe but be cautious with street vendors.",
+    "vaccinations": "Yellow fever vaccination is recommended for travelers over 9 months old visiting Bahia state. Ensure routine vaccines are up to date including Hepatitis A, Typhoid, and Tetanus. Dengue fever risk is present year-round.",
+    "altitude": "Salvador is at sea level so altitude is not a concern. The tropical climate is hot and humid year-round with temperatures typically 25-30°C. High humidity can be challenging - stay hydrated and use sun protection."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consular Agency Salvador: (71) 3113-2090 during hours (8AM-12PM), (21) 3823-2029 after hours. Address: Contact via Rio de Janeiro Consulate General for full services."
+  },
+  "faq": [
+    {
+      "q": "Is Salvador safe for tourists?",
+      "a": "Salvador has significant safety challenges with high crime rates, but tourists can visit safely with proper precautions. Stick to tourist areas during the day, use trusted transportation, avoid displaying valuables, and never walk alone at night. The key is being well-informed and extremely cautious."
+    },
+    {
+      "q": "Is Salvador safe at night?",
+      "a": "No, Salvador is not safe at night, even in tourist areas. Violent crime, robbery, and assault rates increase dramatically after dark. If you must go out, stay in well-lit, populated areas, travel in groups, use ride-sharing apps, and have a planned route back to your accommodation."
+    },
+    {
+      "q": "Is Salvador safe for solo female travelers?",
+      "a": "Solo female travelers face additional risks in Salvador due to high rates of gender-based violence and harassment. While possible with extreme caution, it requires staying in safe accommodations, using trusted transport, dressing conservatively, and avoiding solo activities after dark."
+    },
+    {
+      "q": "What areas should I avoid in Salvador?",
+      "a": "Completely avoid favelas and informal settlements, the Suburbio area, and any peripheral neighborhoods. Even in safer areas like Pelourinho and Barra, be cautious at night. Avoid walking between upper and lower city areas and stay away from deserted streets at any time."
+    },
+    {
+      "q": "Is it safe to use public transport in Salvador?",
+      "a": "Public buses are not recommended, especially at night, due to high robbery and assault rates. The metro is safer during the day but has limited coverage. Stick to Uber, 99, or registered taxis for the safest transportation options."
+    }
+  ],
+  "relatedCities": [
+    "rio-de-janeiro",
+    "sao-paulo",
+    "recife"
+  ],
+  "_city_id": "salvador-brazil",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Salvador_BA_%28cropped%29_2.jpg/1280px-Salvador_BA_%28cropped%29_2.jpg"
+}

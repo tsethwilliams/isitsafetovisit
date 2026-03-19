@@ -1,0 +1,162 @@
+{
+  "slug": "valparaiso",
+  "name": "Valparaíso",
+  "country": "Chile",
+  "countryCode": "CL",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 5.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 5.0,
+    "scamRisk": 4.8,
+    "womensSafety": 5.5,
+    "nightSafety": 4.2,
+    "transport": 6.5,
+    "naturalHazards": 6.1
+  },
+  "summary": "Valparaíso, Chile's colorful UNESCO World Heritage port city, faces increasing safety challenges with rising petty crime and violent incidents, particularly at night and in areas beyond tourist zones. While the historic hills of Cerro Concepción and Cerro Alegre remain relatively safe during daylight hours, travelers should exercise heightened caution.",
+  "quickVerdict": "Valparaíso offers stunning street art, historic funiculars, and bohemian culture, but safety concerns have escalated significantly since 2019. Crime rates now exceed national averages, with particular risks in El Plan area and non-tourist neighborhoods after dark. Tourist areas like Cerro Concepción and Cerro Alegre remain safer during daytime, but caution is advised. The city is best visited on day trips or with local guides, avoiding solo exploration at night.",
+  "neighborhoods": [
+    {
+      "name": "Cerro Concepción",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The safest tourist area with art galleries, cafes, and the iconic Hotel Brighton. Well-patrolled during day but avoid after dark."
+    },
+    {
+      "name": "Cerro Alegre",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Another relatively secure hill neighborhood with street art and restaurants. Popular with tourists and locals during daylight hours."
+    },
+    {
+      "name": "Plaza Sotomayor",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Central square area that's busy during day but can become unsafe at night. Exercise normal precautions and stay aware of surroundings."
+    },
+    {
+      "name": "El Plan (Port Area)",
+      "score": 4.2,
+      "class": "danger",
+      "description": "The flat port area has high crime rates, especially after dark. Multiple reports of muggings and theft. Avoid walking alone here at night."
+    },
+    {
+      "name": "Muelle Prat",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Harbor area that becomes sketchy after sunset with increased criminal activity. Daytime visits for boat tours are safer."
+    },
+    {
+      "name": "Lower Hill Areas",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Non-tourist residential areas on lower hills have elevated crime rates. Locals advise avoiding these areas entirely, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Ketchup/Mustard Scam",
+      "risk": "high",
+      "description": "Someone squirts condiment on you and offers help cleaning while accomplice steals your belongings",
+      "howToAvoid": "Keep walking, refuse napkins, check belongings later in a safe location"
+    },
+    {
+      "name": "Fake Taxi Meters",
+      "risk": "medium",
+      "description": "Unlicensed taxis or drivers who tamper with meters to overcharge tourists",
+      "howToAvoid": "Use official taxis, Uber, or pre-book transport through your accommodation"
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Groups create distractions while accomplices pick pockets or grab bags in crowded areas",
+      "howToAvoid": "Stay alert in crowds, secure valuables, avoid getting involved in street situations"
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Credit card information stolen from compromised ATMs or card readers",
+      "howToAvoid": "Use ATMs inside banks, cover PIN entry, monitor bank statements regularly"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Valparaíso requires significant caution due to increased crime rates. While many women visit safely during daylight hours in tourist areas, solo exploration at night is not recommended. The city has a bohemian, artistic vibe but underlying safety concerns have grown considerably.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Cerro Concepción or Cerro Alegre",
+      "Use Uber or official taxis at night rather than walking",
+      "Dress modestly to avoid unwanted attention"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Valparaíso has deteriorated significantly, with multiple areas becoming dangerous after dark. The flat port areas and lower hills should be completely avoided at night, while even tourist zones require extra caution. Nightlife venues close earlier than in the past due to safety concerns.",
+    "tips": [
+      "Stick to busy, well-lit tourist areas after dark",
+      "Use official transport - never walk alone at night",
+      "Plan to return to accommodation before 1 AM when crime rates triple"
+    ]
+  },
+  "transport": {
+    "metro": "Valparaíso is connected to Santiago via Metro Valparaíso (Merval) commuter train, which is generally safe during operating hours. The system connects to Viña del Mar and is reliable for daytime travel.",
+    "rideshare": "Uber, Didi, and Cabify operate in Valparaíso and are considered safer than street taxis. However, some areas may have limited pickup availability, and drivers may ask passengers to sit in front to avoid detection by taxi drivers.",
+    "taxis": "Official taxis (black cars with yellow roofs) are safer than unlicensed vehicles. Colectivos (shared taxis) operate on fixed routes but can be unreliable at night. Always verify taxi credentials.",
+    "tips": "The historic Ascensores (funiculars) are unique transport but check operating hours as they close around 10-11 PM. Public buses serve all areas but exercise caution with belongings."
+  },
+  "customs": [
+    "Greet people with a handshake and maintain eye contact",
+    "Use formal address 'usted' until invited to use informal 'tú'",
+    "Chileans appreciate politeness and may arrive 10-15 minutes late to social events",
+    "Meals are social affairs - don't rush and enjoy the conversation",
+    "Tipping 10% at restaurants is customary"
+  ],
+  "health": {
+    "overview": "Chile has good healthcare standards with modern facilities in major cities. No special vaccinations required for entry, but routine immunizations should be up to date.",
+    "water": "Tap water in Valparaíso is generally safe to drink. Bottled water is widely available if preferred.",
+    "vaccinations": "Recommended: Hepatitis A and B, Typhoid, routine vaccines (MMR, Tetanus, etc.). Yellow fever not required unless arriving from affected areas.",
+    "altitude": "Valparaíso is at sea level so no altitude concerns. Weather can be changeable with ocean influence - pack layers."
+  },
+  "emergency": {
+    "general": "133 (Police), 131 (Ambulance), 132 (Fire)",
+    "police": "133 (Carabineros)",
+    "ambulance": "131",
+    "fire": "132",
+    "touristPolice": "Not available - use regular police 133",
+    "usEmbassy": "U.S. Embassy Santiago: +56 2 2330-3000, Av. Andrés Bello 2800, Las Condes, Santiago (emergency after-hours same number)"
+  },
+  "faq": [
+    {
+      "q": "Is Valparaíso safe for tourists?",
+      "a": "Valparaíso has experienced rising crime rates since 2019. Tourist areas like Cerro Concepción and Cerro Alegre are relatively safe during daylight hours, but caution is advised throughout the city, especially at night."
+    },
+    {
+      "q": "Is Valparaíso safe at night?",
+      "a": "No, Valparaíso is not considered safe at night. Crime rates triple after 1 AM, and many areas including the port zone should be completely avoided. Use official transport and return to accommodation early."
+    },
+    {
+      "q": "Is Valparaíso safe for solo female travelers?",
+      "a": "Solo female travel requires significant caution in Valparaíso. Daytime visits to tourist areas can be safe, but solo exploration at night is not recommended. Stay in well-reviewed accommodations and use official transport."
+    },
+    {
+      "q": "What areas should I avoid in Valparaíso?",
+      "a": "Avoid El Plan port area at night, lower hill residential areas, and anywhere beyond tourist zones after dark. Even during day, be cautious around Muelle Prat harbor area and non-tourist neighborhoods."
+    },
+    {
+      "q": "Is it safe to use public transport in Valparaíso?",
+      "a": "Public transport including buses and Ascensores (funiculars) are generally safe during operating hours. Merval train to Santiago is reliable. Uber and official taxis are safer than street transport, especially at night."
+    }
+  ],
+  "relatedCities": [
+    "santiago",
+    "vina-del-mar",
+    "concepcion",
+    "la-serena",
+    "punta-arenas"
+  ],
+  "_city_id": "valparaiso-chile",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg"
+}
