@@ -1,0 +1,164 @@
+{
+  "slug": "aruba",
+  "name": "Aruba",
+  "country": "Aruba",
+  "countryCode": "AW",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 8.2,
+    "naturalHazards": 8.7
+  },
+  "summary": "Aruba is widely regarded as one of the safest islands in the Caribbean with a Level 1 US State Department travel advisory. The island has very low violent crime rates, excellent tourist infrastructure, and is located outside the hurricane belt making it safe from major natural disasters.",
+  "quickVerdict": "Aruba consistently ranks as one of the safest Caribbean destinations for tourists, earning the US State Department's lowest risk Level 1 advisory. With violent crime against tourists being extremely rare and petty theft being the primary concern, visitors can explore confidently. The island's location outside the hurricane belt, reliable healthcare system, and well-regulated transportation make it an excellent choice for solo travelers, families, and couples alike. While tourist-targeted scams like timeshare presentations exist, the overall safety profile is outstanding.",
+  "neighborhoods": [
+    {
+      "name": "Palm Beach & Eagle Beach",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The main hotel strip with luxury resorts, restaurants, and nightlife. Heavy security presence and well-lit areas make this extremely safe for tourists."
+    },
+    {
+      "name": "Oranjestad (Downtown)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The capital city with shopping, dining, and cultural attractions. Safe during day and evening with good police presence and tourist infrastructure."
+    },
+    {
+      "name": "Noord",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Residential area with hotels and restaurants. Generally very safe but stick to main roads and avoid isolated areas at night."
+    },
+    {
+      "name": "Malmok & Arashi",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Beautiful beach areas that are safe during the day. Less crowded than main beaches but exercise normal precautions after dark."
+    },
+    {
+      "name": "San Nicolas",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The island's second city with local bars and restaurants. Safe during daytime but requires extra vigilance at night, especially in entertainment district."
+    },
+    {
+      "name": "Arikok National Park",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Natural wilderness area that's safe for hiking during daylight hours. Remote locations require caution and it's best to visit with tour groups."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Timeshare Presentations",
+      "risk": "high",
+      "description": "Aggressive street promoters offer scratch-off tickets promising prizes to lure tourists into high-pressure timeshare sales presentations lasting hours.",
+      "howToAvoid": "Politely decline all scratch-off tickets and promotional offers. Never attend presentations even for promised gifts. Companies change names frequently to avoid reputation damage."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some unlicensed drivers quote inflated rates or claim meters are broken to charge excessive fares, especially targeting airport arrivals.",
+      "howToAvoid": "Only use taxis with TX license plates. Ask for the fixed government rate before getting in. Use hotel concierge to call official taxis when possible."
+    },
+    {
+      "name": "Counterfeit Goods",
+      "risk": "medium",
+      "description": "Street vendors sell fake jewelry, watches, and souvenirs at tourist areas, particularly in Oranjestad, claiming they are authentic local crafts.",
+      "howToAvoid": "Research fair market prices beforehand. Shop at established stores rather than street vendors. Be wary of deals that seem too good to be true."
+    },
+    {
+      "name": "Beach Vendor Overcharging",
+      "risk": "low",
+      "description": "Beach vendors may overcharge tourists for basic amenities like chairs, umbrellas, or refreshments, especially those who appear unfamiliar with local prices.",
+      "howToAvoid": "Ask prices upfront and compare with nearby vendors. Don't feel pressured to buy immediately. Resort guests can use hotel facilities instead."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Aruba is considered one of the safest Caribbean destinations for solo female travelers, ranking in the top 25 globally for women's safety. The island has very low rates of violent crime, friendly locals, and excellent tourist infrastructure. Women report feeling comfortable walking alone during the day and in tourist areas at night.",
+    "tips": [
+      "Stay in well-populated, well-lit areas especially after dark and stick to main tourist zones",
+      "Use hotel concierge or restaurants to call official taxis rather than flagging down random vehicles",
+      "Join group tours or activities to meet other travelers and explore safely while socializing",
+      "Trust your instincts and don't hesitate to leave situations that feel uncomfortable",
+      "Keep emergency contacts saved and inform someone of your daily plans"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Aruba's nightlife is generally very safe with most incidents being petty theft rather than violent crime. The main hotel areas of Palm Beach and Eagle Beach have good lighting and security. Oranjestad's entertainment district is busy and relatively safe but requires normal urban precautions.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid wandering off main streets after dark",
+      "Use official taxis or hotel transportation rather than walking long distances at night",
+      "Don't leave drinks unattended and watch alcohol consumption to stay alert",
+      "Travel in groups when possible and let someone know your evening plans",
+      "Avoid carrying large amounts of cash or wearing expensive jewelry when going out"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on the island.",
+    "rideshare": "Uber and Lyft are not available in Aruba due to government regulations protecting the licensed taxi industry.",
+    "taxis": "Taxis are completely safe and government-regulated with fixed rates. All licensed taxis have TX on license plates. Available 24/7 with rates starting around $7. Cash only (USD accepted).",
+    "tips": "Rent a car for maximum flexibility as public buses have limited routes. Official taxis are safe but expensive for multiple trips. Hotel shuttles are reliable when available."
+  },
+  "customs": [
+    "Greeting with handshakes is common; close friends may hug or kiss on cheeks",
+    "Dress modestly when visiting religious sites and avoid beachwear in towns",
+    "Tipping 15-20% at restaurants is expected; 10-15% for taxi drivers is appreciated",
+    "English, Dutch, Spanish, and Papiamento are widely spoken by locals",
+    "Photography of people requires permission; avoid taking photos of government buildings"
+  ],
+  "health": {
+    "overview": "Aruba has good medical facilities with the Dr. Horacio Oduber Hospital providing care comparable to US standards. Medical evacuation may be needed for complex cases.",
+    "water": "Tap water is completely safe to drink and meets WHO standards. Aruba produces some of the world's purest water through desalination.",
+    "vaccinations": "No special vaccinations required. Routine vaccines (MMR, hepatitis A/B) recommended. Yellow fever vaccination required if arriving from affected countries.",
+    "altitude": "Sea level location with hot tropical climate year-round (82-88°F). Strong solar radiation requires constant sun protection. Hurricane season has minimal impact due to location outside hurricane belt."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "100",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Curacao: +599-9-461-3066 (covers Aruba). Emergency after hours: +599-9-843-3066 or +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Aruba safe for tourists?",
+      "a": "Yes, Aruba is one of the safest Caribbean islands with a US State Department Level 1 advisory. Violent crime against tourists is extremely rare, and the island has excellent safety infrastructure and friendly locals."
+    },
+    {
+      "q": "Is Aruba safe at night?",
+      "a": "Aruba is generally very safe at night, especially in tourist areas like Palm Beach and Eagle Beach. Stay in well-lit, populated areas and use official taxis for transportation after dark."
+    },
+    {
+      "q": "Is Aruba safe for solo female travelers?",
+      "a": "Absolutely. Aruba ranks in the top 25 globally for solo female travel safety. Women report feeling very comfortable exploring alone, though normal travel precautions should always be followed."
+    },
+    {
+      "q": "What areas should I avoid in Aruba?",
+      "a": "Aruba has no truly dangerous areas, but exercise extra caution in San Nicolas entertainment district at night and avoid isolated beaches or areas after dark. Stick to main tourist zones for maximum safety."
+    },
+    {
+      "q": "Is it safe to use public transport in Aruba?",
+      "a": "Yes, Arubus public transportation is safe and affordable. Official taxis with TX license plates are completely safe. Avoid unlicensed drivers and always confirm government-fixed rates before riding."
+    }
+  ],
+  "relatedCities": [
+    "barbados",
+    "curacao",
+    "trinidad-and-tobago"
+  ],
+  "_city_id": "aruba-aruba",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/1280px-Flag_of_Aruba.svg.png"
+}

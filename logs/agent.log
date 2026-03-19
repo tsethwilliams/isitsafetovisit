@@ -2193,3 +2193,47 @@
 2026-03-19 07:46:48,258 [INFO] Merged into site data: Bridgetown
 2026-03-19 07:46:48,325 [INFO] Merged 7 new cities into src/lib/city-data.json
 2026-03-19 07:46:48,362 [INFO] Rebuilt sitemap with 457 URLs (332 cities, 119 countries, 6 static)
+2026-03-19 11:52:43,030 [INFO] Agent starting — mode: add
+2026-03-19 11:52:43,069 [INFO] Queue has 231 cities, adding 8
+2026-03-19 11:52:43,069 [INFO] Generating new city profile: Aruba, Aruba
+2026-03-19 11:54:13,671 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 11:54:13,854 [INFO] Found Wikipedia image for Aruba
+2026-03-19 11:54:13,854 [INFO] Saved city data: aruba-aruba
+2026-03-19 11:54:13,858 [INFO] Generating new city profile: Curacao, Curacao
+2026-03-19 11:55:43,872 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 11:55:44,203 [INFO] Found Wikipedia image for Curacao
+2026-03-19 11:55:44,203 [INFO] Saved city data: curacao-curacao
+2026-03-19 11:55:44,207 [INFO] Generating new city profile: St. Lucia, Saint Lucia
+2026-03-19 11:57:10,019 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 11:57:10,246 [INFO] Found Wikipedia image for St. Lucia
+2026-03-19 11:57:10,247 [INFO] Saved city data: st.-lucia-saint-lucia
+2026-03-19 11:57:10,250 [INFO] Generating new city profile: Turks and Caicos, Turks and Caicos
+2026-03-19 11:58:45,175 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 11:58:45,503 [INFO] Found Wikipedia image for Turks and Caicos
+2026-03-19 11:58:45,503 [INFO] Saved city data: turks-and-caicos-turks-and-caicos
+2026-03-19 11:58:45,507 [INFO] Generating new city profile: Mendoza, Argentina
+2026-03-19 12:00:17,618 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 12:00:17,759 [INFO] Found Wikipedia image for Mendoza
+2026-03-19 12:00:17,760 [INFO] Saved city data: mendoza-argentina
+2026-03-19 12:00:17,763 [INFO] Generating new city profile: Bariloche, Argentina
+2026-03-19 12:01:44,626 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 12:01:44,765 [INFO] Found Wikipedia image for Bariloche
+2026-03-19 12:01:44,766 [INFO] Saved city data: bariloche-argentina
+2026-03-19 12:01:44,769 [INFO] Generating new city profile: Ushuaia, Argentina
+2026-03-19 12:03:11,425 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 12:03:11,600 [INFO] Found Wikipedia image for Ushuaia
+2026-03-19 12:03:11,600 [INFO] Saved city data: ushuaia-argentina
+2026-03-19 12:03:11,604 [INFO] Generating new city profile: Salta, Argentina
+2026-03-19 12:04:41,022 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 12:04:41,160 [INFO] Found Wikipedia image for Salta
+2026-03-19 12:04:41,160 [INFO] Saved city data: salta-argentina
+2026-03-19 12:04:41,204 [INFO] Merged into site data: Aruba
+2026-03-19 12:04:41,204 [INFO] Merged into site data: Curaçao
+2026-03-19 12:04:41,204 [INFO] Merged into site data: St. Lucia
+2026-03-19 12:04:41,205 [INFO] Merged into site data: Turks and Caicos
+2026-03-19 12:04:41,205 [INFO] Merged into site data: Mendoza
+2026-03-19 12:04:41,205 [INFO] Merged into site data: Bariloche
+2026-03-19 12:04:41,205 [INFO] Merged into site data: Ushuaia
+2026-03-19 12:04:41,205 [INFO] Merged into site data: Salta
+2026-03-19 12:04:41,277 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-19 12:04:41,319 [INFO] Rebuilt sitemap with 469 URLs (340 cities, 123 countries, 6 static)

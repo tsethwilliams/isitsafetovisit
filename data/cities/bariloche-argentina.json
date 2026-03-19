@@ -1,0 +1,162 @@
+{
+  "slug": "bariloche",
+  "name": "Bariloche",
+  "country": "Argentina",
+  "countryCode": "AR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Bariloche is considered one of Argentina's safest tourist destinations, with low violent crime rates and a well-established tourism infrastructure. The main risks include petty theft and minor tourist scams, while the stunning Patagonian setting offers outdoor adventures with manageable natural hazards.",
+  "quickVerdict": "Bariloche consistently ranks as one of the safest cities in South America for tourists, with local residents reporting feeling secure during the day and reasonably safe at night. While petty crime like phone theft and bag snatching does occur, violent crime rates are low compared to other Argentine cities. The city's tourism-focused economy means there's generally good infrastructure for visitors, though travelers should remain vigilant about their belongings and be prepared for outdoor risks when hiking or skiing in the surrounding mountains.",
+  "neighborhoods": [
+    {
+      "name": "Centro Civico",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Bariloche's tourism district with shops, restaurants, and chocolate stores. Well-patrolled and busy during the day with good lighting at night. Tourist police are active in this area."
+    },
+    {
+      "name": "Costanera",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The beautiful lakefront area along Nahuel Huapi Lake. Popular with tourists and locals for walks and outdoor activities. Generally very safe but watch for bike thieves along the path."
+    },
+    {
+      "name": "Llao Llao Area",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Upscale hotel and resort district about 25km from downtown. Very safe and well-maintained with excellent security, popular with wealthy tourists and featuring luxury accommodations."
+    },
+    {
+      "name": "Villa neighborhoods",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Lower-income residential areas on the outskirts of town. Higher crime rates and occasional reports of break-ins and robbery. Tourists should avoid these areas, especially at night."
+    },
+    {
+      "name": "Bus Terminal area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "The transportation hub can be busy with pickpockets targeting travelers with luggage. Exercise extra caution with belongings and use official taxi services rather than unmarked vehicles."
+    },
+    {
+      "name": "Cerro Catedral",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The ski resort area 20km from downtown. Generally safe but isolated during off-season. Weather conditions can change rapidly, and rescue services may be limited in remote areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Currency Exchange Street Scam",
+      "risk": "medium",
+      "description": "Strangers offer better exchange rates on the street but provide counterfeit bills or shortchange tourists.",
+      "howToAvoid": "Only exchange money at banks, official casas de cambio, or reputable hotels. Never accept street offers for currency exchange."
+    },
+    {
+      "name": "ATM Helper Scam",
+      "risk": "medium",
+      "description": "Friendly locals offer help at ATMs to avoid fees but secretly skim card information and watch PIN entry.",
+      "howToAvoid": "Always cover your PIN entry, decline help from strangers at ATMs, and use machines inside banks when possible."
+    },
+    {
+      "name": "Fake Camera Damage",
+      "risk": "low",
+      "description": "Someone asks tourists to take their photo, then drops their camera and demands payment for alleged damage.",
+      "howToAvoid": "Be cautious when strangers ask you to handle their electronics. If pressured for payment, remain calm and suggest involving police."
+    },
+    {
+      "name": "Restaurant Overbilling",
+      "risk": "medium",
+      "description": "Tourist-focused restaurants add extra items to bills or charge higher prices than listed on menus.",
+      "howToAvoid": "Always check bills carefully, ask for itemized receipts, and negotiate prices beforehand at informal establishments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bariloche is considered relatively safe for solo female travelers, ranking among Argentina's most female-friendly destinations. The tourism infrastructure is well-developed with female-only hostel dorms available. However, basic precautions should still be taken, especially regarding nighttime activities and transportation.",
+    "tips": [
+      "Stay in well-reviewed hostels in the Centro Civico area with female-only dorms and good security",
+      "Avoid walking alone late at night in poorly lit areas, especially away from the main tourist zones",
+      "Use official taxis or rideshare apps rather than hailing cabs on the street, particularly at night",
+      "Trust your instincts and remove yourself from uncomfortable situations quickly",
+      "Connect with other travelers through hostel activities or join group tours for hiking and outdoor activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bariloche's nightlife is generally safer than many Argentine cities, though caution is still advised. The city has an active nightlife scene popular with young Argentine tourists, with clubs and bars staying open until early morning. Most violence is rare, but petty crime increases during busy tourist seasons.",
+    "tips": [
+      "Stick to the main Centro Civico area where there's better lighting and more people around",
+      "Travel in groups when possible and arrange transportation home before going out",
+      "Keep valuables secure and don't flash expensive items like phones or jewelry",
+      "Be extra cautious during peak tourist seasons in July-August and December-February when crime rates increase",
+      "Consider ending nights out before 3am when venues empty and streets become more isolated"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local buses operated by Mi Bus serve the city and require SUBE cards for payment.",
+    "rideshare": "Uber operates in Bariloche with safety features but isn't authorized at the airport. Generally reliable within the city limits.",
+    "taxis": "Official taxis are white and light blue. Use taxi stands or call remise companies rather than hailing on streets. Airport taxis cost $15-20 USD to downtown.",
+    "tips": "Public buses are safe but infrequent - expect delays. For airport transfers, pre-book private shuttles or use official taxi services with fixed rates to avoid scams."
+  },
+  "customs": [
+    "Greet everyone with a kiss on the right cheek, even strangers in social settings - it's expected Argentine etiquette",
+    "Arrive 30-45 minutes late to social gatherings as punctuality can actually be seen as rude or presumptuous",
+    "Share mate tea when offered using the communal metal straw - refusing can distance you socially from locals"
+  ],
+  "health": {
+    "overview": "Bariloche has decent healthcare facilities for a mid-sized city but medical resources become limited outside the urban area. Private clinics offer better care than public hospitals.",
+    "water": "Tap water is generally safe to drink in Bariloche, though some travelers prefer bottled water to avoid stomach upset during adjustment.",
+    "vaccinations": "No special vaccines required for Bariloche specifically. Standard travel vaccines like Hepatitis A/B and typhoid are recommended for Argentina generally.",
+    "altitude": "Bariloche sits at low altitude so altitude sickness isn't a concern. Weather can change rapidly in Patagonia - pack layers and waterproof gear for outdoor activities."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 101",
+    "ambulance": "911 or 107",
+    "fire": "911 or 100",
+    "touristPolice": "0800-999-5000",
+    "usEmbassy": "US Embassy Buenos Aires: +54-11-5777-4533 (24hr emergency line for US citizens)"
+  },
+  "faq": [
+    {
+      "q": "Is Bariloche safe for tourists?",
+      "a": "Yes, Bariloche is considered one of the safest tourist destinations in South America. It has low violent crime rates and good tourism infrastructure, though basic precautions against petty crime should still be taken."
+    },
+    {
+      "q": "Is Bariloche safe at night?",
+      "a": "The main Centro Civico area is reasonably safe at night with good lighting and foot traffic, but avoid isolated areas and the villa neighborhoods. Most nightlife venues operate safely until early morning hours."
+    },
+    {
+      "q": "Is Bariloche safe for solo female travelers?",
+      "a": "Yes, Bariloche ranks as one of Argentina's safest cities for solo women travelers. Female-friendly hostels are available and harassment is less common than in larger cities, though normal precautions should be maintained."
+    },
+    {
+      "q": "What areas should I avoid in Bariloche?",
+      "a": "Avoid the villa neighborhoods on the outskirts of town, especially at night. The bus terminal area requires extra caution for pickpockets. Remote hiking areas should only be visited with guides or in groups."
+    },
+    {
+      "q": "Is it safe to use public transport in Bariloche?",
+      "a": "Yes, the Mi Bus public transport system is generally safe though infrequent. Taxis and remises are reliable options. Uber operates in the city but isn't authorized at the airport where official taxis should be used."
+    }
+  ],
+  "relatedCities": [
+    "mendoza",
+    "buenos-aires",
+    "ushuaia"
+  ],
+  "_city_id": "bariloche-argentina",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catedral_desde_el_Lago_Nahuel_Huapi_-_panoramio.jpg/1280px-Catedral_desde_el_Lago_Nahuel_Huapi_-_panoramio.jpg"
+}
