@@ -1,0 +1,168 @@
+{
+  "slug": "la-paz",
+  "name": "La Paz",
+  "country": "Bolivia",
+  "countryCode": "BO",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.8,
+    "violentCrime": 6.5,
+    "scamRisk": 4.8,
+    "womensSafety": 5.9,
+    "nightSafety": 5.5,
+    "transport": 6.8,
+    "naturalHazards": 8.1
+  },
+  "summary": "La Paz, Bolivia's de facto capital at 12,000+ feet elevation, presents moderate safety concerns with petty crime and altitude-related health risks being primary challenges. While the city has lower violent crime rates than regional neighbors like Lima, tourists face risks from pickpocketing, fake police scams, and altitude sickness.",
+  "quickVerdict": "La Paz is moderately safe for tourists who take proper precautions, particularly regarding altitude acclimatization and petty crime prevention. The city ranks safer than many South American capitals, but visitors must remain vigilant against pickpocketing, bag snatching, and fake police scams. The extreme altitude poses serious health risks that require gradual acclimatization. Healthcare quality is limited, especially outside the city center, making comprehensive travel insurance essential.",
+  "neighborhoods": [
+    {
+      "name": "Zona Sur",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Affluent residential area with upscale hotels, restaurants, and shopping. Well-patrolled with good lighting and infrastructure."
+    },
+    {
+      "name": "Witches Market/San Francisco",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular tourist area with cultural attractions but high pickpocketing risk. Busy during day but requires caution with belongings."
+    },
+    {
+      "name": "Centro Histórico",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Government district around Plaza Murillo with historical sites. Generally safe during day but watch for demonstrations and crowds."
+    },
+    {
+      "name": "Sopocachi",
+      "score": 6.9,
+      "class": "caution",
+      "description": "Bohemian district with cafes and nightlife. Some reports of express kidnappings, exercise caution especially at night."
+    },
+    {
+      "name": "El Alto",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Adjacent city at even higher altitude with significant poverty and crime issues. Avoid unless with trusted local guide."
+    },
+    {
+      "name": "Cemetery District",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Area near Cementerio General with high crime rates including express kidnappings. Strongly recommended to avoid, especially arriving after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police",
+      "risk": "high",
+      "description": "Criminals impersonate police officers with fake IDs, uniforms, and even false station fronts to rob tourists. Often work with accomplices posing as fellow tourists.",
+      "howToAvoid": "Real police cannot stop you without written orders. Ask to go to a nearby shop for verification, carry passport copies, and never get in unmarked vehicles."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Someone spills mustard or sauce on you while accomplices offer to help clean up, stealing belongings during the distraction. Common at markets.",
+      "howToAvoid": "Handle cleanup yourself if something is spilled on you. Keep belongings secure and be suspicious of overly helpful strangers."
+    },
+    {
+      "name": "Express Kidnapping",
+      "risk": "medium",
+      "description": "Short-term abductions where victims are forced to withdraw money from ATMs. Often involves taxi drivers and fake police.",
+      "howToAvoid": "Use only radio taxis with company names visible. Avoid traveling alone at night. Never get into vehicles with existing passengers."
+    },
+    {
+      "name": "Overcharging Scams",
+      "risk": "medium",
+      "description": "Taxi drivers claim no change for large bills or quote inflated prices to tourists, especially late at night.",
+      "howToAvoid": "Confirm taxi driver has change before getting in. Agree on fare beforehand or use apps like Uber when available."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in La Paz requires extra caution but is manageable with proper precautions. Bolivia has one of South America's highest domestic violence rates, and women face additional risks including catcalling and harassment. However, many solo female travelers visit successfully by staying alert and following safety guidelines.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer areas like Zona Sur",
+      "Avoid walking alone after dark, especially in peripheral neighborhoods",
+      "Book taxis through your hotel or use registered radio taxis instead of hailing on street",
+      "Dress modestly in conservative highland areas to blend in better",
+      "Join group tours for sightseeing rather than exploring alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "La Paz becomes significantly more dangerous after dark, with increased risks of muggings, express kidnappings, and taxi-related crimes. The combination of high altitude, steep terrain, and limited lighting makes navigation challenging. Most crimes against tourists occur during evening hours.",
+    "tips": [
+      "Use registered radio taxis or rideshare apps instead of walking",
+      "Stay in well-lit, populated areas near hotels and main streets",
+      "Avoid the Cemetery District and peripheral neighborhoods entirely",
+      "Travel in groups when possible and inform someone of your plans",
+      "Keep minimal cash and leave valuables in hotel safe"
+    ]
+  },
+  "transport": {
+    "metro": "La Paz has Mi Teleferico, an extensive cable car network connecting the city to El Alto. It's safe, affordable at 3 Bolivianos per ride, and offers spectacular views. The system is wheelchair accessible and well-maintained.",
+    "rideshare": "Uber operates in La Paz but with limited availability and frequent cancellations due to taxi union pressure. Local apps like InDrive and Yango are alternatives. Service can be unreliable but generally safer than street taxis.",
+    "taxis": "Radio taxis with visible company names are safest option. Avoid unmarked taxis and those with existing passengers. Express kidnappings have occurred with unlicensed drivers. Always confirm the driver has change and agree on fare beforehand.",
+    "tips": "The teleferico cable car system is your safest transport option. For taxis, use hotel arrangements or radio companies. Avoid public minibuses (trufis) due to theft risks and poor safety standards."
+  },
+  "customs": [
+    "Greet everyone with formal buenos dias/tardes before starting conversations",
+    "Use please (por favor) and thank you (gracias) consistently - politeness is highly valued",
+    "Ask permission before photographing people, especially indigenous individuals who may expect payment",
+    "Remove hats and dress modestly when entering churches",
+    "Stand close during conversations as personal space is smaller than Western norms",
+    "Show respect to authority figures and use titles like señor/señora or doctor"
+  ],
+  "health": {
+    "overview": "Healthcare in La Paz is adequate in private facilities but limited in public hospitals. The extreme altitude poses serious risks including altitude sickness, which can be life-threatening. Emergency care outside the city center is very limited.",
+    "water": "Tap water is not safe to drink. Use bottled or properly filtered water for drinking and teeth brushing. Avoid ice and raw foods washed in tap water to prevent gastrointestinal illness.",
+    "vaccinations": "Yellow fever vaccination required if arriving from endemic areas, recommended for jungle travel. Hepatitis A, typhoid, and routine immunizations should be current. Consult doctor about altitude sickness medication.",
+    "altitude": "La Paz sits at 10,600-13,000+ feet elevation. Altitude sickness is common and can be severe. Ascend slowly, avoid alcohol initially, stay hydrated, and seek medical attention for severe symptoms like confusion or difficulty breathing."
+  },
+  "emergency": {
+    "general": "911 or 110",
+    "police": "110 or 120",
+    "ambulance": "118 or 165 (La Paz specific)",
+    "fire": "119",
+    "touristPolice": "+591-2-222-5016",
+    "usEmbassy": "US Embassy La Paz: +591-2-216-8000, Avenida Arce 2780. 24-hour emergency assistance available. Limited consular services during certain hours."
+  },
+  "faq": [
+    {
+      "q": "Is La Paz safe for tourists?",
+      "a": "La Paz is moderately safe compared to other South American capitals, but requires caution. The main risks are petty crime, fake police scams, and altitude sickness. Most tourists have no serious problems when taking basic precautions."
+    },
+    {
+      "q": "Is La Paz safe at night?",
+      "a": "No, La Paz becomes significantly more dangerous after dark. Avoid walking alone, use registered taxis only, and stay in well-lit tourist areas. The Cemetery District should be avoided entirely at night."
+    },
+    {
+      "q": "Is La Paz safe for solo female travelers?",
+      "a": "Solo female travel is possible but requires extra precaution. Bolivia has high domestic violence rates, and women may face harassment. Stay in good accommodations, use recommended transport, and avoid isolated areas."
+    },
+    {
+      "q": "What areas should I avoid in La Paz?",
+      "a": "Avoid the Cemetery District, El Alto (especially at night), and peripheral neighborhoods. Be cautious in crowded markets and around bus terminals where pickpocketing is common."
+    },
+    {
+      "q": "Is it safe to use public transport in La Paz?",
+      "a": "The Mi Teleferico cable car system is very safe and recommended. Avoid minibuses (trufis) due to theft risks. Use only registered radio taxis with visible company identification, never unmarked vehicles."
+    }
+  ],
+  "relatedCities": [
+    "sucre",
+    "cochabamba",
+    "santa-cruz",
+    "cusco",
+    "quito",
+    "bogota"
+  ],
+  "_city_id": "la-paz-bolivia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/1280px-Vista_del_centro_de_La_Paz.jpg"
+}

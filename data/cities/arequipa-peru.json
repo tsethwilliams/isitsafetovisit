@@ -1,0 +1,168 @@
+{
+  "slug": "arequipa",
+  "name": "Arequipa",
+  "country": "Peru",
+  "countryCode": "PE",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 6.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.5,
+    "scamRisk": 6.2,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.2,
+    "naturalHazards": 5.5
+  },
+  "summary": "Arequipa, Peru's 'White City', is generally safe for tourists and ranks among the safer destinations in Peru. While petty crime and altitude considerations require basic precautions, the city offers a secure environment for exploring its colonial architecture and serving as a gateway to Colca Canyon.",
+  "quickVerdict": "Arequipa is considered one of Peru's safest major cities, with significantly lower crime rates than Lima and a strong tourist police presence in the historic center. The main concerns are petty theft in crowded areas, choosing reputable tour operators for Colca Canyon excursions, and adjusting to the 2,335-meter altitude. The city's tourist infrastructure is well-developed, and visitors who follow standard urban safety practices and acclimatize properly will find it an excellent base for exploring southern Peru.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center (Cercado)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic center around Plaza de Armas is well-patrolled by tourist police and generally very safe during both day and night. Beautiful sillar architecture and excellent restaurant scene."
+    },
+    {
+      "name": "Yanahuara",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential area with excellent views of El Misti volcano. Very safe for walking and popular with tourists for its mirador and traditional architecture."
+    },
+    {
+      "name": "Selva Alegre",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Residential district with good hotels and restaurants. Safe for tourists but less walkable than the historic center. Use taxis at night."
+    },
+    {
+      "name": "Cayma",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Traditional district with colonial churches and local markets. Generally safe but exercise normal precautions in crowded market areas."
+    },
+    {
+      "name": "Terminal Areas",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Areas around the main bus terminals can be hectic with taxi touts and petty crime. Stay alert, keep bags close, and use pre-arranged transportation when possible."
+    },
+    {
+      "name": "Alto Selva Alegre",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Outlying residential area with fewer tourist amenities. Avoid after dark and use taxis for transportation. Limited police presence compared to central areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Colca Canyon Tours",
+      "risk": "high",
+      "description": "Street vendors and unofficial agencies offer suspiciously cheap tours to Colca Canyon with poor quality transport, no oxygen equipment, or unreliable guides.",
+      "howToAvoid": "Book through established agencies with good TripAdvisor reviews. Be wary of prices under $40 for two-day tours. Verify the company has proper permits and insurance."
+    },
+    {
+      "name": "Terminal Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unofficial taxi drivers at bus terminals quote inflated prices to tourists, especially those arriving with luggage at night.",
+      "howToAvoid": "Ask your hotel to arrange airport/terminal pickup. Use official taxi ranks or apps like Uber. Agree on fare before getting in and have small bills ready."
+    },
+    {
+      "name": "Fake Money Exchange",
+      "risk": "medium",
+      "description": "Street money changers offer attractive rates but may give counterfeit bills or use sleight of hand to shortchange tourists.",
+      "howToAvoid": "Use official exchange houses, banks, or ATMs. Avoid street money changers entirely. Learn to identify genuine Peruvian sol notes before traveling."
+    },
+    {
+      "name": "Overpriced Crafts",
+      "risk": "low",
+      "description": "Vendors in tourist areas quote heavily inflated prices for alpaca products and local crafts, especially near Santa Catalina Monastery.",
+      "howToAvoid": "Compare prices at multiple shops. Polite bargaining is expected. Consider shopping at San Camilo Market for more authentic local prices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Arequipa is generally considered safe for solo female travelers, with many women traveling independently without significant issues. The historic center is well-patrolled, locals are typically respectful, and the city has good tourist infrastructure. However, standard precautions regarding street harassment, nighttime activities, and accommodation choices should be observed.",
+    "tips": [
+      "Stay in well-reviewed accommodations in the historic center or Yanahuara areas",
+      "Be aware that street harassment (catcalling) can occur but is typically not aggressive",
+      "Avoid walking alone late at night, especially in peripheral areas or empty streets",
+      "Use official taxis or rideshare apps, particularly after dark",
+      "Keep valuables secure and avoid displaying expensive items openly",
+      "Join group tours for Colca Canyon rather than traveling solo to remote areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Arequipa's nightlife is relatively calm compared to larger cities, with the historic center remaining fairly safe in the evening hours. The city has a good selection of restaurants and bars around Plaza de Armas, and tourist police patrol key areas. However, some neighborhoods become quite quiet after dark, and standard urban nighttime precautions should be observed.",
+    "tips": [
+      "Stay in well-lit, busy areas around the historic center for evening activities",
+      "Use official taxis or arrange rides through your hotel for late-night transportation",
+      "Avoid excessive alcohol consumption due to the altitude effects",
+      "Travel in groups when possible and inform others of your plans",
+      "Be aware that some side streets can become very quiet after 10 PM",
+      "Keep drinks covered and don't accept drinks from strangers"
+    ]
+  },
+  "transport": {
+    "metro": "Arequipa does not have a metro system. Public transportation consists mainly of buses and combis (minivans) that can be crowded and confusing for tourists.",
+    "rideshare": "Uber and other rideshare apps are available in Arequipa and provide safe, reliable transportation. Apps are especially recommended for airport transfers and evening travel.",
+    "taxis": "Official taxis are widely available but negotiate fares beforehand or use meter-equipped vehicles. Hotel-arranged taxis are safer than street hails. Beware of unlicensed operators near terminals.",
+    "tips": "Use reputable bus companies like Cruz del Sur for intercity travel. For getting around the city, rideshare apps are safest, especially at night. Walking is pleasant in the historic center during daylight hours."
+  },
+  "customs": [
+    "Greet people with 'Buenos días/tardes' and use formal titles (Señor/Señora) until invited to be informal",
+    "Punctuality expectations are relaxed - arriving 15-30 minutes late to social events is normal",
+    "Remove hats and sunglasses when entering churches and dress modestly at religious sites",
+    "Tipping 10% is expected at restaurants if service charge isn't included",
+    "Avoid pointing directly at people or making loud gestures in public spaces"
+  ],
+  "health": {
+    "overview": "Arequipa has good private healthcare facilities for a city of its size, with several clinics capable of handling routine medical needs. The altitude of 2,335 meters can cause mild symptoms for some visitors.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice cubes in drinks and raw vegetables that may have been washed in tap water.",
+    "vaccinations": "Routine vaccinations should be current. Consider hepatitis A, typhoid, and altitude sickness medication. Yellow fever not required unless traveling to jungle areas.",
+    "altitude": "At 2,335 meters, most travelers experience little to no altitude effects, but some may feel mild fatigue or headaches. Drink plenty of water, avoid alcohol initially, and ascend gradually if coming from sea level."
+  },
+  "emergency": {
+    "general": "105",
+    "police": "105",
+    "ambulance": "106",
+    "fire": "116",
+    "touristPolice": "(054) 201-258",
+    "usEmbassy": "US Embassy Lima: +51-1-618-2000. No US consulate in Arequipa - nearest full services in Lima. Limited consular services available through local contacts."
+  },
+  "faq": [
+    {
+      "q": "Is Arequipa safe for tourists?",
+      "a": "Yes, Arequipa is generally very safe for tourists and is considered one of Peru's safest major cities. The historic center is well-patrolled by tourist police, violent crime against tourists is rare, and most visitors have trouble-free experiences."
+    },
+    {
+      "q": "Is Arequipa safe at night?",
+      "a": "The historic center around Plaza de Armas is relatively safe at night with good lighting and some police presence. However, avoid walking alone in peripheral areas after dark and use taxis or rideshare apps for evening transportation."
+    },
+    {
+      "q": "Is Arequipa safe for solo female travelers?",
+      "a": "Yes, many solo female travelers visit Arequipa safely. Stay in the historic center or Yanahuara areas, be aware of potential catcalling, avoid walking alone late at night, and use official transportation. The city has good tourist infrastructure and helpful locals."
+    },
+    {
+      "q": "What areas should I avoid in Arequipa?",
+      "a": "Avoid the immediate areas around bus terminals late at night, peripheral neighborhoods like outer Alto Selva Alegre after dark, and empty side streets away from the main tourist areas. The historic center and Yanahuara are the safest areas to explore."
+    },
+    {
+      "q": "Is it safe to use public transport in Arequipa?",
+      "a": "Public buses and combis are generally safe but can be crowded and confusing for tourists. Rideshare apps like Uber are recommended as safer and more convenient options, especially for airport transfers and evening travel. Official taxis are acceptable if you negotiate fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "cusco",
+    "lima",
+    "puno",
+    "la-paz",
+    "santiago"
+  ],
+  "_city_id": "arequipa-peru",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/In_Aerquipa_Peru%2C%E2%80%A6Plaza_de_Armas_%288443293545%29.jpg/1280px-In_Aerquipa_Peru%2C%E2%80%A6Plaza_de_Armas_%288443293545%29.jpg"
+}

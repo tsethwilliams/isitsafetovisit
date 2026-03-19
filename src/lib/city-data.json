@@ -56942,6 +56942,1308 @@
         "buenos-aires"
       ],
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pat_map.PNG"
+    },
+    {
+      "slug": "cali",
+      "name": "Cali",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 5.2,
+      "verdict": "Exercise Caution",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 4.0,
+        "violentCrime": 4.5,
+        "scamRisk": 5.0,
+        "womensSafety": 5.5,
+        "nightSafety": 4.0,
+        "transport": 6.5,
+        "naturalHazards": 7.0
+      },
+      "summary": "Cali, Colombia's salsa capital, faces significant safety challenges with high crime rates including homicides, kidnapping, and robbery. While tourist areas are relatively safer with proper precautions, the city requires heightened awareness and careful planning to visit safely.",
+      "quickVerdict": "Cali is one of Colombia's most dangerous cities with a murder rate of 45.9 per 100,000 inhabitants and ranking as the 29th most dangerous city globally. However, crime is largely concentrated in specific low-income neighborhoods that tourists don't typically visit. Tourist areas like San Antonio, San Fernando, and Granada are generally safer with proper precautions. The city saw improvements in 2024 with a new administration restoring order, but caution is still strongly advised, especially at night.",
+      "neighborhoods": [
+        {
+          "name": "San Antonio",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Bohemian colonial neighborhood with vibrant street art, cafes, and cultural attractions. Generally safe during the day with moderate police presence, but avoid walking alone at night. Popular with expats and tourists for its walkable historic charm."
+        },
+        {
+          "name": "Granada (Zona Rosa)",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Upscale area with boutiques, restaurants, and nightlife. Well-patrolled and considered one of the safest areas in Cali. Good for shopping and dining, though petty crime can occur in crowded areas."
+        },
+        {
+          "name": "San Fernando",
+          "score": 6.0,
+          "class": "caution",
+          "description": "Popular area around Parque del Perro with restaurants, bars, and student-friendly venues. Reasonably safe but requires standard precautions. Lively nightlife scene attracts both locals and tourists."
+        },
+        {
+          "name": "Aguablanca District (Comunas 13-15)",
+          "score": 2.5,
+          "class": "danger",
+          "description": "Low-income area with extremely high crime rates including violent crime and drug activity. Strongly advised to avoid completely. Contains some of the most dangerous neighborhoods in the city with frequent armed robberies and homicides."
+        },
+        {
+          "name": "Siloe",
+          "score": 3.0,
+          "class": "danger",
+          "description": "Hillside slum area with severe safety issues including gang activity and drug trafficking. Not safe for tourists and should be avoided entirely. High risk of violent crime throughout the day and night."
+        },
+        {
+          "name": "El Rodeo",
+          "score": 3.5,
+          "class": "danger",
+          "description": "Dangerous neighborhood in Comuna 12 with high crime rates. Not recommended for tourists due to robbery, assault, and other criminal activity. Local authorities advise against visiting this area."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Scopolamine Drugging",
+          "risk": "high",
+          "description": "Criminals use scopolamine (devil's breath) to drug victims through drinks, food, or even paper flyers, leaving them compliant and memory-less while being robbed or worse.",
+          "howToAvoid": "Never accept drinks from strangers, don't leave drinks unattended, avoid dating apps with unknown locals, and be wary of overly friendly strangers offering help or gifts."
+        },
+        {
+          "name": "Express Kidnapping",
+          "risk": "medium",
+          "description": "Criminals force victims to withdraw money from ATMs or max out credit cards. Often happens in fake taxis or when criminals enter legitimate taxis with passengers.",
+          "howToAvoid": "Use official taxis or ride-sharing apps, avoid street taxis, carry a low-limit credit card, and don't withdraw large amounts from ATMs especially at night."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Taxi drivers demand card payment claiming broken machines, take long detours, or swap large bills for smaller ones claiming no change available.",
+          "howToAvoid": "Use ride-sharing apps like Uber or Cabify, agree on fares beforehand, carry small bills, and always verify returned change. Avoid street taxis when possible."
+        },
+        {
+          "name": "Tourist Price Inflation",
+          "risk": "medium",
+          "description": "Vendors, restaurants, and service providers charge significantly higher 'gringo rates' to foreign tourists, especially in tourist areas and markets.",
+          "howToAvoid": "Ask locals about fair prices, negotiate beforehand, confirm prices in writing for tours or services, and learn basic Spanish numbers to understand quoted prices better."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in Cali requires extra caution and safety awareness. While experienced female travelers visit successfully, the city poses higher risks than other Colombian destinations. Women may experience frequent catcalling, especially on the coast, and should avoid walking alone at night. The salsa scene and nightlife are major attractions but require group accompaniment for safety.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safe neighborhoods like Granada or San Antonio",
+          "Always use official transportation (Uber, registered taxis) especially at night",
+          "Join group salsa classes or tours rather than exploring nightlife alone",
+          "Dress conservatively and avoid flashy jewelry or expensive items",
+          "Learn basic Spanish phrases and have local emergency contacts saved",
+          "Never walk alone after dark, even short distances - take transportation",
+          "Be extremely cautious with dating apps and meeting strangers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Cali becomes significantly more dangerous at night, with most violent crimes occurring after dark. The city's famous salsa scene and nightlife are major draws, but require careful planning and safety measures. Even in safer neighborhoods, walking at night is strongly discouraged. Crime increases substantially in areas with low foot traffic.",
+        "tips": [
+          "Never walk alone at night, even in tourist areas - always use transportation",
+          "Stick to well-lit, crowded areas with police presence when going out",
+          "Use Uber or registered taxis to travel between venues after dark",
+          "Go out in groups and stay together throughout the evening",
+          "Avoid excessive drinking and never leave drinks unattended",
+          "Stay in main nightlife zones like Zona Rosa and avoid wandering to unfamiliar areas",
+          "Keep accommodation address and emergency contacts easily accessible"
+        ]
+      },
+      "transport": {
+        "metro": "Cali does not have a metro system. The city uses the MIO (Masivo Integrado de Occidente) bus rapid transit system with articulated buses running on dedicated lanes covering 95% of the city. The MIO system is generally safe during daylight hours but requires caution during peak times and at night.",
+        "rideshare": "Uber, DiDi, and Cabify operate in Cali and are strongly recommended over street taxis for safety. These apps provide GPS tracking, driver verification, and predetermined fares. Uber was legalized in Colombia in 2023, making it a reliable option for tourists.",
+        "taxis": "Official yellow taxis are available but carry higher risks including overcharging and potential criminal collaboration. Some fake taxis operate illegally. If using taxis, only use those called by hotels or official stands, verify the taxi number, and avoid those with existing passengers.",
+        "tips": "Public transportation is generally safe during day but avoid during peak hours when pickpocketing increases. Use MIO cards for bus system. For airport transfers, use official taxi stands or pre-booked transportation. Motorcycles are common but not recommended for tourists due to safety concerns."
+      },
+      "customs": [
+        "Greeting with a handshake is standard; cheek kissing is only for people you know well",
+        "Punctuality is relaxed for social events - arriving 30 minutes late is normal, but be on time for business",
+        "Dress well and pay attention to appearance - Colombians notice shoes, grooming, and overall presentation",
+        "Use formal 'usted' rather than 'tú' when first meeting someone or in respectful contexts",
+        "Say 'buen provecho' before eating and keep hands visible during meals",
+        "Bring small gifts like flowers or chocolates when invited to someone's home",
+        "Avoid discussing politics, drugs, or US foreign policy as these are sensitive topics"
+      ],
+      "health": {
+        "overview": "Cali has good healthcare facilities with quality private clinics and hospitals. The city is not in a yellow fever risk zone, so vaccination is generally not required for urban visits. Standard travel health precautions apply with attention to mosquito-borne diseases like dengue.",
+        "water": "Tap water in Cali is generally safe to drink as it's treated and comes from the Cali River through clean pipes. However, some travelers prefer bottled water as a precaution. Ice in restaurants and hotels is typically safe.",
+        "vaccinations": "Routine vaccinations should be up to date including hepatitis A and B, typhoid, and routine shots like MMR and DPT. Yellow fever vaccination is not usually recommended for Cali city visits but may be required if traveling to surrounding rural areas.",
+        "altitude": "Cali sits at 1,000 meters (3,280 feet) above sea level, so altitude sickness is not a concern. The climate is warm year-round with temperatures averaging 24-25°C (75-77°F). Rainy season runs April-May and September-November with increased risk of flooding."
+      },
+      "emergency": {
+        "general": "123",
+        "police": "123",
+        "ambulance": "123",
+        "fire": "123",
+        "touristPolice": "N/A",
+        "usEmbassy": "US Embassy Bogota: +57-601-275-2000 (24-hour line for US citizens). Local consular agents may be available in Cali for basic services, but major issues are handled through the main embassy in Bogota."
+      },
+      "faq": [
+        {
+          "q": "Is Cali safe for tourists?",
+          "a": "Cali requires significant caution as it's one of Colombia's most dangerous cities. Tourist areas like Granada and San Antonio are relatively safer with proper precautions, but the overall crime rate is high with frequent robberies, kidnappings, and violent crime."
+        },
+        {
+          "q": "Is Cali safe at night?",
+          "a": "No, Cali is quite dangerous at night. Most violent crimes occur after dark, and walking alone is strongly discouraged even in tourist areas. Always use official transportation like Uber after dark and stay in well-lit, crowded areas when going out."
+        },
+        {
+          "q": "Is Cali safe for solo female travelers?",
+          "a": "Solo female travel in Cali requires extreme caution and is not recommended for inexperienced travelers. Women face additional risks including harassment and are frequent targets for crimes. Those who visit should stay in groups, use official transport, and avoid walking alone especially at night."
+        },
+        {
+          "q": "What areas should I avoid in Cali?",
+          "a": "Completely avoid Aguablanca district (comunas 13-15), Siloe, and El Rodeo neighborhood. These areas have extremely high violent crime rates. Even in safer areas like San Antonio and Granada, be cautious at night and avoid displaying valuables."
+        },
+        {
+          "q": "Is it safe to use public transport in Cali?",
+          "a": "The MIO bus system is relatively safe during daylight hours but avoid peak times when pickpocketing increases. Ride-sharing apps like Uber are much safer than street taxis. Never use unofficial taxis or those with existing passengers as these pose kidnapping risks."
+        }
+      ],
+      "relatedCities": [
+        "bogota",
+        "medellin",
+        "cartagena"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Santiago_de_Cali.jpg/1280px-Santiago_de_Cali.jpg"
+    },
+    {
+      "slug": "santa-marta",
+      "name": "Santa Marta",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 6.2,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.5,
+        "violentCrime": 6.8,
+        "scamRisk": 4.5,
+        "womensSafety": 6.0,
+        "nightSafety": 5.5,
+        "transport": 7.0,
+        "naturalHazards": 8.1
+      },
+      "summary": "Santa Marta is considered one of Colombia's safer coastal cities for tourists, with a crime index of 55.5 and designated as a safe travel area by security advisories. While petty crime like pickpocketing is the main concern, especially in tourist areas, violent crime is relatively uncommon compared to other Colombian cities.",
+      "quickVerdict": "Santa Marta offers a moderate level of safety for travelers who exercise standard precautions. As Colombia's oldest city and gateway to Tayrona National Park, it attracts many tourists and maintains better security infrastructure than some other Colombian destinations. The main risks are petty theft, pickpocketing, and tourist-targeted scams, particularly around markets, beaches, and public transport. Night safety drops significantly with only 39% feeling secure after dark. Seasoned travelers generally navigate the city without major issues, though first-time visitors to Colombia may find it challenging. Staying in well-reviewed accommodations in safer neighborhoods like El Rodadero or the Historic Center, using registered transportation, and avoiding displays of wealth will enhance your safety considerably.",
+      "neighborhoods": [
+        {
+          "name": "Historic Center (Centro Histórico)",
+          "score": 7.5,
+          "class": "safe",
+          "description": "The colonial heart of Santa Marta with cobblestone streets, museums, and restaurants. Generally well-patrolled by police and tourist police, making it relatively safe during the day. Good infrastructure and established tourism services."
+        },
+        {
+          "name": "El Rodadero",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Popular beachside tourist district with hotels, restaurants, and nightlife. Benefits from heavy tourist traffic and security presence. One of the safest areas in Santa Marta with good lighting and regular police patrols."
+        },
+        {
+          "name": "Taganga",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Bohemian fishing village popular with backpackers and divers. Generally safe but requires normal precautions. Can be isolated at night and has less formal security than main tourist areas."
+        },
+        {
+          "name": "Pozos Colorados",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Upscale residential area with pristine beaches and quality accommodations. Low crime rates and good security due to affluent nature of the neighborhood. Popular with families and higher-end tourists."
+        },
+        {
+          "name": "La Lucha",
+          "score": 3.5,
+          "class": "danger",
+          "description": "High-crime neighborhood with elevated risks of petty theft and drug-related activity. Local authorities and travel guides consistently advise tourists to avoid this area, especially at night."
+        },
+        {
+          "name": "Los Trupillos",
+          "score": 3.2,
+          "class": "danger",
+          "description": "Poor residential area with high crime rates including theft and drug-related violence. Not recommended for tourists and should be avoided entirely. Limited police presence and poor infrastructure."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police Document Check",
+          "risk": "high",
+          "description": "Individuals claiming to be police officers or security officials approach tourists demanding to check documents or money for counterfeit bills. They may request to take you to a police station or examine your cash.",
+          "howToAvoid": "Never hand over documents or money to people in the street. Ask to do any checks at an actual police station. Real officers will provide proper identification and typically won't approach tourists randomly about document checks."
+        },
+        {
+          "name": "Distraction Theft (Bird Poop Scam)",
+          "risk": "medium",
+          "description": "Someone squirts white paste on you making it look like bird poop, then a friendly local offers to help clean it up while an accomplice pickpockets your belongings during the distraction.",
+          "howToAvoid": "If something falls on you, refuse help from strangers and walk to a safe public place to clean up yourself. Keep valuables secure and be aware of everyone around you during the incident."
+        },
+        {
+          "name": "Overcharging and Bill Switching",
+          "risk": "medium",
+          "description": "Taxi drivers, vendors, and restaurants charge inflated 'gringo prices' to foreigners. Some use sleight of hand to switch larger bills with smaller ones when receiving payment.",
+          "howToAvoid": "Always ask for prices upfront and negotiate before agreeing to services. Learn basic Spanish numbers. Pay attention when handing over money and count change carefully. Use established businesses with posted prices when possible."
+        },
+        {
+          "name": "Bar Scam with Accomplices",
+          "risk": "high",
+          "description": "Friendly locals, often attractive women or men, invite tourists for drinks at a specific bar where they're overcharged 5-10 times normal prices. Accomplices may escort victims to ATMs if they can't pay the inflated bill.",
+          "howToAvoid": "Suggest your own venue choice. Always check drink prices and ask for a menu before ordering. Be suspicious of overly friendly strangers who insist on specific bars. Travel with trusted companions when possible."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Santa Marta can be safe for experienced solo female travelers who take proper precautions, though it's not recommended for first-time solo travelers. The city has a moderate safety score and women report feeling relatively secure in tourist areas during the day. However, persistent advances from locals can be an issue, and extra caution is needed at night. Many solo female travelers successfully visit by staying in safe neighborhoods, using trusted transportation, and connecting with other travelers.",
+        "tips": [
+          "Stay in well-reviewed accommodations in El Rodadero or Historic Center with good security",
+          "Use official transportation like hotel-arranged taxis or registered services rather than street taxis",
+          "Avoid walking alone at night - take short taxi rides even for nearby destinations",
+          "Learn basic Spanish phrases as most locals don't speak English and this helps with safety",
+          "Connect with other travelers at hostels and join group activities when possible",
+          "Dress modestly and avoid displaying expensive jewelry, phones, or large amounts of cash"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Night safety in Santa Marta drops significantly with only 39% of people feeling secure after dark compared to 66% during the day. Walking alone at night is particularly dangerous with a safety rating of just 33.33. Criminal activity increases after sunset, with higher risks of robbery, pickpocketing, and opportunistic crimes. However, staying in well-lit tourist areas with good foot traffic and using reliable transportation can mitigate many risks.",
+        "tips": [
+          "Use registered taxis or hotel-arranged transportation for all nighttime travel, even short distances",
+          "Stay in well-lit, populated tourist areas like El Rodadero beach strip or main Historic Center streets",
+          "Travel in groups when exploring nightlife and never leave drinks unattended",
+          "Avoid isolated beaches, empty streets, and areas away from the main tourist zones after dark",
+          "Keep valuables at your hotel and only carry small amounts of cash for the evening",
+          "Let someone know your plans and expected return time when going out at night"
+        ]
+      },
+      "transport": {
+        "metro": "Santa Marta does not have a metro or tram system. The main public transport consists of buses (busetas) and colectivos that operate on fixed routes throughout the city.",
+        "rideshare": "Uber, DiDi, and Cabify are available but operate in a legal grey area. Drivers may ask passengers to sit in front to appear as friends rather than customers. These services provide upfront pricing and journey records.",
+        "taxis": "Yellow licensed taxis are widely available and generally safe. Most don't use meters so negotiate the price before starting your journey. Official taxi ranks are available at the airport and major hotels. Always use marked, official taxis.",
+        "tips": "Public transport is affordable but watch for pickpockets on crowded buses. For safety, use registered taxis from official stands or reputable ride-sharing apps rather than hailing random vehicles. Verify driver and vehicle details match the booking before getting in."
+      },
+      "customs": [
+        "Greet with a handshake for first meetings; close friends exchange a kiss on the right cheek",
+        "Punctuality is relaxed for social events (Colombian time allows 15-30 minutes late) but be on time for business",
+        "Say 'buen provecho' before eating and try everything offered by your host",
+        "Dress neatly even for casual outings - Colombians value good presentation",
+        "Avoid jokes about drugs, Pablo Escobar, or drug trafficking - these are serious, sensitive topics",
+        "Keep hands visible during meals, don't put elbows on the table, and wait for the host to invite you to start eating"
+      ],
+      "health": {
+        "overview": "Santa Marta has adequate healthcare facilities but travelers should have comprehensive insurance. The city experiences tropical diseases like dengue and has some malaria risk in surrounding jungle areas, though not in the city itself.",
+        "water": "Tap water is generally potable in the city but travelers should stick to bottled water to avoid stomach issues from different bacteria. Avoid ice in drinks and raw vegetables washed with tap water.",
+        "vaccinations": "Routine vaccinations should be up to date. Yellow fever vaccination is recommended for travel to surrounding national parks like Tayrona and Sierra Nevada. Hepatitis A and B, typhoid, and routine vaccines are advised. Consult a travel medicine clinic 4-8 weeks before travel.",
+        "altitude": "Santa Marta is at sea level so no altitude concerns. The tropical climate is hot and humid year-round with temperatures averaging 87°F (30°C). Stay hydrated and use strong sunscreen as UV exposure is intense near the equator."
+      },
+      "emergency": {
+        "general": "123",
+        "police": "112",
+        "ambulance": "123",
+        "fire": "119",
+        "touristPolice": "+57 601 337-4413",
+        "usEmbassy": "U.S. Embassy Bogotá: +57 601 275-2000 (24-hour emergency line). The embassy can assist with crime reporting, lost passports, and emergency services coordination."
+      },
+      "faq": [
+        {
+          "q": "Is Santa Marta safe for tourists?",
+          "a": "Santa Marta is moderately safe for tourists who take standard precautions. It's designated as a safe travel area by security advisories and is considered one of Colombia's safer coastal cities. The main risks are petty crime like pickpocketing and tourist scams, while violent crime against tourists is relatively uncommon. Staying in safe neighborhoods, using registered transportation, and not displaying valuables will significantly enhance your safety."
+        },
+        {
+          "q": "Is Santa Marta safe at night?",
+          "a": "Night safety drops significantly in Santa Marta with only 39% feeling secure after dark. Walking alone at night is particularly risky. However, staying in well-lit tourist areas like El Rodadero or the main Historic Center streets, traveling in groups, and using registered taxis for transportation can make nighttime activities much safer. Avoid isolated areas and beaches after sunset."
+        },
+        {
+          "q": "Is Santa Marta safe for solo female travelers?",
+          "a": "Santa Marta can be safe for experienced solo female travelers who take proper precautions, though it's not ideal for first-time solo travelers. Many women visit successfully by staying in safe accommodations, using trusted transportation, learning basic Spanish, and connecting with other travelers. Extra caution is needed at night and when dealing with persistent advances from locals."
+        },
+        {
+          "q": "What areas should I avoid in Santa Marta?",
+          "a": "Avoid high-crime neighborhoods like La Lucha and Los Trupillos where petty theft and drug-related crimes are common. Also stay away from isolated areas, empty beaches at night, and any location far from the main tourist zones after dark. Parque Bolívar has been noted as a rougher area where drug offers may occur. Stick to El Rodadero, Historic Center, and other established tourist areas."
+        },
+        {
+          "q": "Is it safe to use public transport in Santa Marta?",
+          "a": "Public buses are generally safe during the day but watch for pickpockets in crowded vehicles. Taxis are safer - use official yellow taxis from designated stands or reputable ride-sharing apps like Uber. Always confirm the fare before starting your journey as most taxis don't use meters. Avoid unmarked vehicles or randomly hailing transportation on the street."
+        }
+      ],
+      "relatedCities": [
+        "cartagena",
+        "bogota",
+        "medellin"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bah%C3%ADa_de_Santa_Marta.jpg/1280px-Bah%C3%ADa_de_Santa_Marta.jpg"
+    },
+    {
+      "slug": "machu-picchu",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "countryCode": "PE",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 7.4,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.2,
+        "violentCrime": 8.1,
+        "scamRisk": 6.5,
+        "womensSafety": 7.8,
+        "nightSafety": 7.2,
+        "transport": 7.6,
+        "naturalHazards": 7.6
+      },
+      "summary": "Machu Picchu is one of Peru's safest tourist destinations with excellent security measures, low crime rates, and strong tourist police presence. While petty crime exists in surrounding areas like Cusco, the ancient citadel itself maintains strict safety protocols for its 1.5 million annual visitors.",
+      "quickVerdict": "Machu Picchu stands as Peru's premier tourist destination with exceptional safety standards. The site benefits from dedicated tourist police, controlled access, and comprehensive security measures. Main concerns include altitude sickness, weather-related challenges during rainy season, and typical tourist-targeted scams in gateway cities. The US State Department specifically notes that Machu Picchu and Sacred Valley are not located in areas of concern, making it safer than many other Peruvian destinations.",
+      "neighborhoods": [
+        {
+          "name": "Machu Picchu Citadel",
+          "score": 9.1,
+          "class": "safe",
+          "description": "The ancient citadel itself is extremely safe with constant surveillance, mandatory guides, controlled entry points, and immediate medical assistance available. Tourist police patrol regularly and strict regulations protect visitors."
+        },
+        {
+          "name": "Aguas Calientes/Machu Picchu Pueblo",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The gateway town is tourist-focused with good security, decent lighting, and regular police presence. Generally safe for walking around, though visitors should watch belongings in crowded areas and markets."
+        },
+        {
+          "name": "Sacred Valley Towns",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Ollantaytambo, Pisac, and other Sacred Valley communities are well-policed tourist areas with low crime rates. Mostly safe during day and evening hours with basic precautions."
+        },
+        {
+          "name": "Cusco Historic Center",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Central Plaza de Armas area is generally safe during daylight with heavy tourist police presence, but pickpocketing increases in crowded markets and after dark. Altitude effects can impair judgment."
+        },
+        {
+          "name": "Cusco San Blas Neighborhood",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Artisan quarter with narrow cobblestone streets can be poorly lit at night. Generally safe during day but requires extra caution after sunset, especially for solo travelers."
+        },
+        {
+          "name": "Outer Lima Districts",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Areas like Villa El Salvador and peripheral districts have higher crime rates with limited tourist infrastructure. Visitors transiting to Machu Picchu should avoid these areas entirely."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Machu Picchu Tickets",
+          "risk": "high",
+          "description": "Unlicensed agencies and street vendors sell counterfeit tickets or overpriced tours that never materialize. Online scammers advertise impossible deals on social media platforms.",
+          "howToAvoid": "Only purchase tickets through official Ministry of Culture website or authorized agencies with physical Cusco offices. Verify company registration and never pay full amount upfront to street vendors."
+        },
+        {
+          "name": "Overpriced Tourist Transportation",
+          "risk": "medium",
+          "description": "Taxi drivers quote inflated prices or claim broken meters, especially at airports and train stations. Unlicensed drivers approach tourists with unofficial transport offers.",
+          "howToAvoid": "Use official taxi companies, rideshare apps like Uber, or pre-arranged hotel transfers. Always agree on fare before getting in vehicle and ask for receipt."
+        },
+        {
+          "name": "Distraction Theft Teams",
+          "risk": "medium",
+          "description": "Groups work together using spilled food, fake accidents, or asking for directions while accomplices steal bags or valuables from distracted tourists in crowded areas.",
+          "howToAvoid": "Keep bags secured in front of body in crowds, be suspicious of overly helpful strangers, and maintain awareness in busy tourist areas like markets and train stations."
+        },
+        {
+          "name": "Photo Scams with Traditional Dress",
+          "risk": "low",
+          "description": "People in colorful traditional clothing, sometimes with baby animals, pose for photos then demand excessive payment ranging from $20-50 per picture taken.",
+          "howToAvoid": "Ask about costs upfront before photos, negotiate reasonable price (1-2 soles is normal), or politely decline and walk away if pressured for unreasonable amounts."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel to Machu Picchu is very safe and increasingly popular, with thousands of women successfully visiting annually. Tourist areas maintain higher security standards, and female-friendly infrastructure includes women-only hostel dorms and supportive traveler networks. Main concerns are street harassment in urban areas and altitude effects, but these are manageable with proper preparation.",
+        "tips": [
+          "Stay in well-reviewed hostels with good security and female-only dorms when available",
+          "Connect with other travelers through hostel common areas and join group tours to Sacred Valley sites",
+          "Prepare for altitude sickness with 2-3 day acclimatization in Cusco before visiting Machu Picchu",
+          "Use official transportation like registered taxis or rideshare apps rather than street hails",
+          "Carry whistle and keep emergency contacts readily available, including tourist police numbers"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Night safety varies significantly by location. Machu Picchu itself closes at 5 PM, but Aguas Calientes has a reasonable nightlife scene for such a small town. Cusco offers vibrant nightlife in tourist zones with good police presence, though altitude effects can impair judgment. Lima requires more caution after dark.",
+        "tips": [
+          "Stick to well-lit tourist areas and avoid walking alone in quieter neighborhoods after 10 PM",
+          "Use official taxis or rideshare services for transportation between venues rather than walking",
+          "Be extra cautious with alcohol consumption due to altitude effects reducing tolerance",
+          "Stay in groups when possible and let accommodation staff know your plans",
+          "Keep valuables secured and avoid displaying expensive items like jewelry or cameras"
+        ]
+      },
+      "transport": {
+        "metro": "Peru does not have metro systems. Lima has the Metropolitan bus rapid transit system, but most Machu Picchu visitors use other transportation methods.",
+        "rideshare": "Uber operates in Lima and Cusco with good safety records. Cabify and local apps like Beat also available. Rideshare services offer safer, more transparent pricing than street taxis.",
+        "taxis": "Use only registered taxi companies or those arranged by hotels. Official airport taxis and radio-dispatched services are safest. Always agree on fare beforehand or insist on meter usage.",
+        "tips": "Train travel to Machu Picchu via Peru Rail or Inca Rail is safe and scenic. Bus travel between cities is generally secure with reputable companies like Cruz del Sur, though mountain roads require careful weather monitoring during rainy season."
+      },
+      "customs": [
+        "Greet people with handshake for first meetings, kiss on one cheek for friends and family members",
+        "Dress modestly in religious sites and rural communities - avoid shorts and revealing clothing",
+        "Always ask permission before photographing locals, especially those in traditional dress, and offer small tip",
+        "Say 'buen provecho' before eating and leave small amount of food on plate when finished",
+        "Respect sacred sites like Machu Picchu by staying on marked trails and not touching ruins or walls"
+      ],
+      "health": {
+        "overview": "Altitude sickness is the primary health concern, affecting up to 30% of visitors to Cusco and surrounding areas. Machu Picchu sits at 7,970 feet while Cusco is at 11,152 feet. Healthcare in tourist areas is adequate with private clinics offering English-speaking staff.",
+        "water": "Drink only bottled water and avoid ice cubes in drinks. Tap water is not safe for consumption. Boiled water is acceptable but takes longer at high altitude due to atmospheric pressure.",
+        "vaccinations": "Routine vaccines should be current. Hepatitis A and typhoid recommended for all travelers. Yellow fever required only for Amazon regions, not needed for Machu Picchu. Consult travel medicine specialist 6-8 weeks before departure.",
+        "altitude": "Acclimatize gradually by spending 2-3 days in Cusco before visiting Machu Picchu. Stay hydrated, avoid alcohol initially, consider altitude medication if recommended by doctor. Symptoms include headache, nausea, and fatigue - seek medical attention if severe."
+      },
+      "emergency": {
+        "general": "105",
+        "police": "105",
+        "ambulance": "106",
+        "fire": "116",
+        "touristPolice": "(084) 235-123",
+        "usEmbassy": "US Embassy Lima: Avenida La Encalada cdra. 17 s/n, Surco, Lima 33. Phone: +51-1-618-2000. Emergency after-hours: +51-1-618-2397."
+      },
+      "faq": [
+        {
+          "q": "Is Machu Picchu safe for tourists?",
+          "a": "Yes, Machu Picchu is one of Peru's safest tourist destinations with excellent security measures, dedicated tourist police, and controlled access. The site maintains strict safety protocols for its 1.5 million annual visitors, though visitors should prepare for altitude effects and weather conditions."
+        },
+        {
+          "q": "Is Machu Picchu safe at night?",
+          "a": "Machu Picchu itself closes at 5 PM, so overnight visits are prohibited. The nearby town of Aguas Calientes is generally safe for evening activities with good lighting and police presence, though visitors should use normal precautions and avoid excessive alcohol due to altitude."
+        },
+        {
+          "q": "Is Machu Picchu safe for solo female travelers?",
+          "a": "Yes, thousands of solo women visit Machu Picchu safely each year. Tourist areas have good security infrastructure, female-friendly accommodations are available, and the strong traveler community makes it easy to connect with others. Main precautions involve altitude preparation and standard urban safety awareness."
+        },
+        {
+          "q": "What areas should I avoid near Machu Picchu?",
+          "a": "Machu Picchu itself and the Sacred Valley are very safe. Exercise more caution in outer Lima districts and avoid the VRAEM region entirely. In Cusco, be extra careful in markets and poorly lit areas after dark, but central tourist zones are generally secure."
+        },
+        {
+          "q": "Is it safe to use public transport to reach Machu Picchu?",
+          "a": "Yes, the train to Machu Picchu via Peru Rail or Inca Rail is safe and the preferred method. Buses between cities with reputable companies like Cruz del Sur are also secure. Use official taxis or rideshare apps rather than street hails, and arrange airport transfers through hotels when possible."
+        }
+      ],
+      "relatedCities": [
+        "cusco",
+        "lima",
+        "arequipa",
+        "quito",
+        "la-paz"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/1280px-Machu_Picchu%2C_2023_%28012%29.jpg"
+    },
+    {
+      "slug": "arequipa",
+      "name": "Arequipa",
+      "country": "Peru",
+      "countryCode": "PE",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 6.7,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.8,
+        "violentCrime": 7.5,
+        "scamRisk": 6.2,
+        "womensSafety": 7.0,
+        "nightSafety": 6.5,
+        "transport": 7.2,
+        "naturalHazards": 5.5
+      },
+      "summary": "Arequipa, Peru's 'White City', is generally safe for tourists and ranks among the safer destinations in Peru. While petty crime and altitude considerations require basic precautions, the city offers a secure environment for exploring its colonial architecture and serving as a gateway to Colca Canyon.",
+      "quickVerdict": "Arequipa is considered one of Peru's safest major cities, with significantly lower crime rates than Lima and a strong tourist police presence in the historic center. The main concerns are petty theft in crowded areas, choosing reputable tour operators for Colca Canyon excursions, and adjusting to the 2,335-meter altitude. The city's tourist infrastructure is well-developed, and visitors who follow standard urban safety practices and acclimatize properly will find it an excellent base for exploring southern Peru.",
+      "neighborhoods": [
+        {
+          "name": "Historic Center (Cercado)",
+          "score": 8.2,
+          "class": "safe",
+          "description": "The historic center around Plaza de Armas is well-patrolled by tourist police and generally very safe during both day and night. Beautiful sillar architecture and excellent restaurant scene."
+        },
+        {
+          "name": "Yanahuara",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Upscale residential area with excellent views of El Misti volcano. Very safe for walking and popular with tourists for its mirador and traditional architecture."
+        },
+        {
+          "name": "Selva Alegre",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Residential district with good hotels and restaurants. Safe for tourists but less walkable than the historic center. Use taxis at night."
+        },
+        {
+          "name": "Cayma",
+          "score": 7.0,
+          "class": "safe",
+          "description": "Traditional district with colonial churches and local markets. Generally safe but exercise normal precautions in crowded market areas."
+        },
+        {
+          "name": "Terminal Areas",
+          "score": 5.8,
+          "class": "caution",
+          "description": "Areas around the main bus terminals can be hectic with taxi touts and petty crime. Stay alert, keep bags close, and use pre-arranged transportation when possible."
+        },
+        {
+          "name": "Alto Selva Alegre",
+          "score": 5.2,
+          "class": "caution",
+          "description": "Outlying residential area with fewer tourist amenities. Avoid after dark and use taxis for transportation. Limited police presence compared to central areas."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Colca Canyon Tours",
+          "risk": "high",
+          "description": "Street vendors and unofficial agencies offer suspiciously cheap tours to Colca Canyon with poor quality transport, no oxygen equipment, or unreliable guides.",
+          "howToAvoid": "Book through established agencies with good TripAdvisor reviews. Be wary of prices under $40 for two-day tours. Verify the company has proper permits and insurance."
+        },
+        {
+          "name": "Terminal Taxi Overcharging",
+          "risk": "medium",
+          "description": "Unofficial taxi drivers at bus terminals quote inflated prices to tourists, especially those arriving with luggage at night.",
+          "howToAvoid": "Ask your hotel to arrange airport/terminal pickup. Use official taxi ranks or apps like Uber. Agree on fare before getting in and have small bills ready."
+        },
+        {
+          "name": "Fake Money Exchange",
+          "risk": "medium",
+          "description": "Street money changers offer attractive rates but may give counterfeit bills or use sleight of hand to shortchange tourists.",
+          "howToAvoid": "Use official exchange houses, banks, or ATMs. Avoid street money changers entirely. Learn to identify genuine Peruvian sol notes before traveling."
+        },
+        {
+          "name": "Overpriced Crafts",
+          "risk": "low",
+          "description": "Vendors in tourist areas quote heavily inflated prices for alpaca products and local crafts, especially near Santa Catalina Monastery.",
+          "howToAvoid": "Compare prices at multiple shops. Polite bargaining is expected. Consider shopping at San Camilo Market for more authentic local prices."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Arequipa is generally considered safe for solo female travelers, with many women traveling independently without significant issues. The historic center is well-patrolled, locals are typically respectful, and the city has good tourist infrastructure. However, standard precautions regarding street harassment, nighttime activities, and accommodation choices should be observed.",
+        "tips": [
+          "Stay in well-reviewed accommodations in the historic center or Yanahuara areas",
+          "Be aware that street harassment (catcalling) can occur but is typically not aggressive",
+          "Avoid walking alone late at night, especially in peripheral areas or empty streets",
+          "Use official taxis or rideshare apps, particularly after dark",
+          "Keep valuables secure and avoid displaying expensive items openly",
+          "Join group tours for Colca Canyon rather than traveling solo to remote areas"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Arequipa's nightlife is relatively calm compared to larger cities, with the historic center remaining fairly safe in the evening hours. The city has a good selection of restaurants and bars around Plaza de Armas, and tourist police patrol key areas. However, some neighborhoods become quite quiet after dark, and standard urban nighttime precautions should be observed.",
+        "tips": [
+          "Stay in well-lit, busy areas around the historic center for evening activities",
+          "Use official taxis or arrange rides through your hotel for late-night transportation",
+          "Avoid excessive alcohol consumption due to the altitude effects",
+          "Travel in groups when possible and inform others of your plans",
+          "Be aware that some side streets can become very quiet after 10 PM",
+          "Keep drinks covered and don't accept drinks from strangers"
+        ]
+      },
+      "transport": {
+        "metro": "Arequipa does not have a metro system. Public transportation consists mainly of buses and combis (minivans) that can be crowded and confusing for tourists.",
+        "rideshare": "Uber and other rideshare apps are available in Arequipa and provide safe, reliable transportation. Apps are especially recommended for airport transfers and evening travel.",
+        "taxis": "Official taxis are widely available but negotiate fares beforehand or use meter-equipped vehicles. Hotel-arranged taxis are safer than street hails. Beware of unlicensed operators near terminals.",
+        "tips": "Use reputable bus companies like Cruz del Sur for intercity travel. For getting around the city, rideshare apps are safest, especially at night. Walking is pleasant in the historic center during daylight hours."
+      },
+      "customs": [
+        "Greet people with 'Buenos días/tardes' and use formal titles (Señor/Señora) until invited to be informal",
+        "Punctuality expectations are relaxed - arriving 15-30 minutes late to social events is normal",
+        "Remove hats and sunglasses when entering churches and dress modestly at religious sites",
+        "Tipping 10% is expected at restaurants if service charge isn't included",
+        "Avoid pointing directly at people or making loud gestures in public spaces"
+      ],
+      "health": {
+        "overview": "Arequipa has good private healthcare facilities for a city of its size, with several clinics capable of handling routine medical needs. The altitude of 2,335 meters can cause mild symptoms for some visitors.",
+        "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice cubes in drinks and raw vegetables that may have been washed in tap water.",
+        "vaccinations": "Routine vaccinations should be current. Consider hepatitis A, typhoid, and altitude sickness medication. Yellow fever not required unless traveling to jungle areas.",
+        "altitude": "At 2,335 meters, most travelers experience little to no altitude effects, but some may feel mild fatigue or headaches. Drink plenty of water, avoid alcohol initially, and ascend gradually if coming from sea level."
+      },
+      "emergency": {
+        "general": "105",
+        "police": "105",
+        "ambulance": "106",
+        "fire": "116",
+        "touristPolice": "(054) 201-258",
+        "usEmbassy": "US Embassy Lima: +51-1-618-2000. No US consulate in Arequipa - nearest full services in Lima. Limited consular services available through local contacts."
+      },
+      "faq": [
+        {
+          "q": "Is Arequipa safe for tourists?",
+          "a": "Yes, Arequipa is generally very safe for tourists and is considered one of Peru's safest major cities. The historic center is well-patrolled by tourist police, violent crime against tourists is rare, and most visitors have trouble-free experiences."
+        },
+        {
+          "q": "Is Arequipa safe at night?",
+          "a": "The historic center around Plaza de Armas is relatively safe at night with good lighting and some police presence. However, avoid walking alone in peripheral areas after dark and use taxis or rideshare apps for evening transportation."
+        },
+        {
+          "q": "Is Arequipa safe for solo female travelers?",
+          "a": "Yes, many solo female travelers visit Arequipa safely. Stay in the historic center or Yanahuara areas, be aware of potential catcalling, avoid walking alone late at night, and use official transportation. The city has good tourist infrastructure and helpful locals."
+        },
+        {
+          "q": "What areas should I avoid in Arequipa?",
+          "a": "Avoid the immediate areas around bus terminals late at night, peripheral neighborhoods like outer Alto Selva Alegre after dark, and empty side streets away from the main tourist areas. The historic center and Yanahuara are the safest areas to explore."
+        },
+        {
+          "q": "Is it safe to use public transport in Arequipa?",
+          "a": "Public buses and combis are generally safe but can be crowded and confusing for tourists. Rideshare apps like Uber are recommended as safer and more convenient options, especially for airport transfers and evening travel. Official taxis are acceptable if you negotiate fares beforehand."
+        }
+      ],
+      "relatedCities": [
+        "cusco",
+        "lima",
+        "puno",
+        "la-paz",
+        "santiago"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/In_Aerquipa_Peru%2C%E2%80%A6Plaza_de_Armas_%288443293545%29.jpg/1280px-In_Aerquipa_Peru%2C%E2%80%A6Plaza_de_Armas_%288443293545%29.jpg"
+    },
+    {
+      "slug": "galapagos-islands",
+      "name": "Galapagos Islands",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 8.3,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 8.5,
+        "violentCrime": 9.2,
+        "scamRisk": 8.0,
+        "womensSafety": 8.8,
+        "nightSafety": 8.2,
+        "transport": 7.8,
+        "naturalHazards": 7.5
+      },
+      "summary": "The Galapagos Islands are considered one of the safest destinations in South America, with virtually non-existent violent crime and extremely low petty crime rates. While Ecuador mainland faces security challenges, the Galapagos remain isolated and heavily protected, with strict entry controls and a tourism-dependent economy that prioritizes visitor safety.",
+      "quickVerdict": "The Galapagos Islands stand out as an exceptionally safe destination, earning recognition as South America's safest tourist area. Crime is practically non-existent due to the islands' remote location 600 miles from mainland Ecuador, strict immigration controls, and small communities that depend entirely on tourism. The biggest safety concerns are natural hazards like strong ocean currents and sun exposure rather than crime. Medical facilities are limited, making travel insurance with evacuation coverage essential, but the overall security environment allows visitors to explore freely day and night.",
+      "neighborhoods": [
+        {
+          "name": "Puerto Ayora (Santa Cruz)",
+          "score": 8.8,
+          "class": "safe",
+          "description": "The largest town in Galapagos with the best infrastructure, restaurants, and accommodations. Main tourist hub with constant police presence and well-lit streets. Safe to walk at any time of day or night."
+        },
+        {
+          "name": "Puerto Baquerizo Moreno (San Cristobal)",
+          "score": 8.5,
+          "class": "safe",
+          "description": "Capital of Galapagos province with good tourist facilities and the main government offices. Safe family-friendly town with beautiful waterfront areas where sea lions often rest on benches."
+        },
+        {
+          "name": "Puerto Villamil (Isabela)",
+          "score": 8.7,
+          "class": "safe",
+          "description": "Smallest of the three main towns with a laid-back atmosphere and beautiful white sand beaches. Very safe for solo travelers and families, though facilities are more limited than other islands."
+        },
+        {
+          "name": "Remote Visitor Sites",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Uninhabited islands and visitor sites accessible only with certified guides. Extremely safe from crime but require following strict rules and staying with groups due to terrain challenges and wildlife."
+        },
+        {
+          "name": "Highland Areas",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Interior areas of inhabited islands with tortoise reserves and volcanic features. Safe but require proper footwear and sun protection due to rough terrain and high UV exposure at elevation."
+        },
+        {
+          "name": "Coastal Areas & Beaches",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Beautiful beaches and snorkeling sites around all islands. Very safe from crime but ocean conditions can be dangerous with strong currents, so swimming skills and caution are essential."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Tour Operator Fraud",
+          "risk": "medium",
+          "description": "Unscrupulous individuals like Carlos Palacios have been known to pose as legitimate tour agents, taking money for tours that don't exist or providing substandard services.",
+          "howToAvoid": "Book only with licensed, established operators. Ask for official receipts and company registration details. Avoid paying cash to individuals without proper credentials."
+        },
+        {
+          "name": "Overcharging for Services",
+          "risk": "low",
+          "description": "Some taxi drivers or tour operators may attempt to charge tourists inflated prices, especially for airport transfers or last-minute tours.",
+          "howToAvoid": "Confirm prices upfront and ask locals about standard rates. Use official taxis and pre-arranged transfers when possible. Hotel staff can recommend fair pricing."
+        },
+        {
+          "name": "Fake Emergency Evacuation Insurance",
+          "risk": "low",
+          "description": "Occasional reports of individuals selling fake or inadequate travel insurance that won't cover medical evacuation from the islands.",
+          "howToAvoid": "Purchase travel insurance only from reputable international companies before traveling. Verify coverage includes medical evacuation and check policy details carefully."
+        }
+      ],
+      "soloFemale": {
+        "overview": "The Galapagos Islands are exceptionally safe for solo female travelers and consistently rank as the safest destination in Ecuador for women traveling alone. The small island communities are welcoming, crime rates are virtually non-existent, and the tourism infrastructure is well-developed. While catcalling can occur in mainland Ecuador, this is rare in the Galapagos due to the professional tourism environment and strong community focus on visitor safety.",
+        "tips": [
+          "Book accommodations in central areas of Puerto Ayora, Puerto Baquerizo Moreno, or Puerto Villamil for easy access to restaurants and services",
+          "Join group tours for snorkeling and diving activities, which enhances both safety and the social experience",
+          "Carry a waterproof phone case and inform your accommodation about your daily plans when doing independent activities"
+        ]
+      },
+      "nightSafety": {
+        "overview": "The Galapagos Islands are remarkably safe at night, with locals and tourists alike comfortable walking around the main towns after dark. The small community atmosphere, lack of violent crime, and well-lit central areas in Puerto Ayora and Puerto Baquerizo Moreno create a secure environment. However, nightlife is limited and low-key, focusing more on beachfront bars and restaurants than late-night clubs.",
+        "tips": [
+          "Stick to the main town centers and well-lit areas after dark, avoiding remote beaches or hiking trails at night",
+          "The limited nightlife scene centers around a few bars and restaurants that close relatively early compared to mainland cities",
+          "Use hotel-recommended transportation for late evening activities and inform staff of your plans"
+        ]
+      },
+      "transport": {
+        "metro": "No metro system exists in the Galapagos Islands",
+        "rideshare": "No rideshare apps like Uber or Lyft operate in the Galapagos Islands",
+        "taxis": "Taxis are pickup trucks that are safe and reasonably priced. Fares are generally predetermined: $1-2 within towns, $5-15 for longer distances. Water taxis between islands and to visitor sites cost $1-3. All taxi drivers are locals known to the community.",
+        "tips": "Inter-island transport uses public speedboats ($25-30, 2-3 hours) or small aircraft ($160-200, 30-40 minutes). Speedboats can be rough - take motion sickness medication if prone to seasickness. Always carry cash as card payments are not widely accepted for transport."
+      },
+      "customs": [
+        "Remove hats and speak quietly when entering churches or religious sites",
+        "Always ask permission before photographing people, especially children and indigenous individuals - a small tip may be requested",
+        "Follow strict environmental rules: stay on marked trails, maintain 2 meters distance from wildlife, and never feed or touch animals"
+      ],
+      "health": {
+        "overview": "Medical facilities in the Galapagos are limited to basic clinics and two small hospitals on Santa Cruz and San Cristobal islands. Serious medical emergencies require evacuation to mainland Ecuador or the United States, which can cost $60,000+ and take up to 48 hours to arrange. Travel insurance with medical evacuation coverage is essential.",
+        "water": "Tap water quality varies by island and has contamination issues, particularly on San Cristobal. Drink bottled water or use purification tablets. Be cautious with fruits and vegetables washed in tap water.",
+        "vaccinations": "No special vaccinations are required for the Galapagos beyond routine vaccines. Hepatitis A and typhoid are recommended for mainland Ecuador travel. No malaria risk in the Galapagos.",
+        "altitude": "The Galapagos are at sea level but have intense equatorial sun. UV exposure is extreme - use high SPF sunscreen, wear hats and protective clothing. Dehydration is a common issue due to heat and sun exposure."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911",
+        "ambulance": "911",
+        "fire": "911",
+        "touristPolice": "Available in Puerto Ayora",
+        "usEmbassy": "US Embassy Quito: +593-2-398-5000 (24/7 emergency line). US Consulate Guayaquil: +593-4-371-7000"
+      },
+      "faq": [
+        {
+          "q": "Are the Galapagos Islands safe for tourists?",
+          "a": "Yes, the Galapagos Islands are considered one of the safest destinations in South America. Crime is virtually non-existent due to the remote location, small communities, and heavy reliance on tourism. The biggest risks are natural hazards like strong sun exposure and ocean currents rather than crime."
+        },
+        {
+          "q": "Are the Galapagos Islands safe at night?",
+          "a": "Yes, the main towns in the Galapagos are very safe at night. Locals and tourists regularly walk around Puerto Ayora and Puerto Baquerizo Moreno after dark. However, nightlife is limited and low-key, with most establishments closing earlier than in mainland cities."
+        },
+        {
+          "q": "Are the Galapagos Islands safe for solo female travelers?",
+          "a": "Absolutely. The Galapagos are ranked as the safest destination in Ecuador for solo female travelers. The tourism-focused economy, small community atmosphere, and professional guides create a very secure environment for women traveling alone."
+        },
+        {
+          "q": "What areas should I avoid in the Galapagos Islands?",
+          "a": "There are no dangerous neighborhoods or areas to avoid from a crime perspective. However, stay on marked trails, avoid swimming in areas with strong currents without guides, and don't venture to uninhabited islands without certified naturalist guides as required by park regulations."
+        },
+        {
+          "q": "Is it safe to use public transport in the Galapagos Islands?",
+          "a": "Yes, all transport options are safe. Local pickup truck taxis are reliable with predetermined fares. Inter-island speedboats and small aircraft are operated by licensed companies, though boats can be rough in choppy seas. All transport is regulated due to the protected nature of the islands."
+        }
+      ],
+      "relatedCities": [
+        "quito",
+        "lima",
+        "cusco",
+        "cartagena",
+        "bogota"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/1280px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG"
+    },
+    {
+      "slug": "cuenca",
+      "name": "Cuenca",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 6.9,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 6.5,
+        "violentCrime": 7.5,
+        "scamRisk": 6.0,
+        "womensSafety": 7.2,
+        "nightSafety": 6.8,
+        "transport": 7.5,
+        "naturalHazards": 6.8
+      },
+      "summary": "Cuenca stands out as Ecuador's safest major city and the most secure destination in South America for tourists, with a safety index of 54.05. While petty crime like pickpocketing remains a concern in tourist areas, violent crime is relatively low.",
+      "quickVerdict": "Cuenca offers a relatively safe environment for tourists, earning recognition as South America's safest city with over 500,000 inhabitants. The colonial city benefits from strong police presence, particularly tourist police, and maintains lower crime rates compared to Ecuador's coastal regions. However, visitors should remain vigilant against pickpocketing and scams in popular areas like Parque Calderon and local markets. The recent March 2026 incidents involving drug-related violence highlight the importance of staying informed about current conditions, though these events primarily affected neighborhoods outside typical tourist zones.",
+      "neighborhoods": [
+        {
+          "name": "El Centro Historico",
+          "score": 7.8,
+          "class": "safe",
+          "description": "The UNESCO World Heritage historic center features constant police presence and is generally safe during daylight hours. High foot traffic means increased pickpocket risk but better overall security."
+        },
+        {
+          "name": "La Zona Rosa",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Upscale residential area popular with expats, featuring controlled access buildings, good lighting, and proximity to quality healthcare facilities."
+        },
+        {
+          "name": "Tomebamba Riverfront",
+          "score": 7.2,
+          "class": "safe",
+          "description": "Scenic area along the river with walking paths and cafes. Generally safe during day but avoid after dark due to poor lighting in some sections."
+        },
+        {
+          "name": "El Vecino",
+          "score": 4.8,
+          "class": "caution",
+          "description": "Mixed residential area with higher crime rates than central districts. Exercise caution especially at night and avoid displaying valuables."
+        },
+        {
+          "name": "Las Orquideas",
+          "score": 4.2,
+          "class": "caution",
+          "description": "Peripheral neighborhood that experienced recent violent incidents in March 2026. Avoid unnecessary visits and stay alert if in the area."
+        },
+        {
+          "name": "Garcia Moreno Street area",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Higher crime area with frequent reports of theft and drug activity. Avoid walking alone and consider alternative routes when possible."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Sob Story Scam",
+          "risk": "high",
+          "description": "Scammers approach with well-rehearsed stories of personal hardship, robbery, or family emergencies to extract money. Often performed by foreigners speaking the victim's language.",
+          "howToAvoid": "Politely decline any requests for money from strangers. Never accompany someone to an ATM. Verify stories independently if you feel compelled to help."
+        },
+        {
+          "name": "Fake Petition Scam",
+          "risk": "medium",
+          "description": "Criminals use fake petitions or charity requests to distract tourists while accomplices pickpocket belongings or steal phones.",
+          "howToAvoid": "Ask for official identification and receipts before signing anything. Keep belongings secure and be aware of your surroundings when approached on the street."
+        },
+        {
+          "name": "Rigged Taxi Meter",
+          "risk": "medium",
+          "description": "Taxi drivers claim broken meters and charge inflated fixed rates, or manipulate meters to overcharge passengers.",
+          "howToAvoid": "Always insist on using the meter before getting in. Use registered taxis with proper identification. Consider using rideshare apps when available."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "medium",
+          "description": "Card skimming devices placed on ATMs to steal credit card information, particularly targeting tourist areas and standalone machines.",
+          "howToAvoid": "Use ATMs inside banks or secure locations. Cover your PIN when entering. Check for any unusual attachments or loose parts before using."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Cuenca ranks as one of Ecuador's safest cities for solo female travelers, with many women reporting feeling secure walking during daylight hours. The strong expat community and European-style atmosphere contribute to a welcoming environment. However, cultural conservatism means modest dress is recommended, and catcalling can occur.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safe neighborhoods like El Centro or near the Tomebamba River",
+          "Dress modestly to respect local culture and avoid unwanted attention",
+          "Avoid walking alone at night and use registered taxis or rideshare apps after dark"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Cuenca's nightlife is generally safer than other major Ecuadorian cities, but caution is still essential. The historic center remains relatively active in the evenings, though some areas become poorly lit. Violence is rare but petty crime increases after dark.",
+        "tips": [
+          "Travel in groups when possible and stick to well-lit, busy areas",
+          "Use registered taxis or hotel-arranged transportation rather than walking",
+          "Inform someone of your plans and expected return time when going out"
+        ]
+      },
+      "transport": {
+        "metro": "Cuenca features an efficient tram system connecting major parts of the city. Generally safe and reliable during operating hours, though keep belongings secure during peak times.",
+        "rideshare": "Limited rideshare options available. When using apps, verify driver details and vehicle information before getting in.",
+        "taxis": "Use only registered yellow taxis with orange license plates and municipal registration stickers. Always insist on meter use or agree on fare beforehand. Avoid unmarked vehicles.",
+        "tips": "Public transport is generally safe during daylight hours. Keep valuables secure and be aware of pickpockets on buses and at terminals."
+      },
+      "customs": [
+        "Greet with a handshake or air kisses among friends",
+        "Dress conservatively, especially when visiting religious sites",
+        "Tip 10% at restaurants if service charge not included"
+      ],
+      "health": {
+        "overview": "Cuenca offers excellent healthcare with both public and private facilities. The city hosts several quality hospitals and many English-speaking medical professionals serving the large expat population.",
+        "water": "Municipal water is generally treated and safe for consumption, though many expats prefer bottled water initially until accustomed to local water.",
+        "vaccinations": "No special vaccinations required beyond routine shots. Altitude sickness precautions recommended due to 2,560-meter elevation.",
+        "altitude": "Cuenca sits at 8,400 feet elevation. Take time to acclimatize, stay hydrated, avoid alcohol initially, and ascend gradually to higher elevations."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "911 or 101",
+        "ambulance": "911 or 102",
+        "fire": "911 or 102",
+        "touristPolice": "911 (request transfer)",
+        "usEmbassy": "US Embassy Quito: +593-2-398-5000 (24/7 emergency routing available)"
+      },
+      "faq": [
+        {
+          "q": "Is Cuenca safe for tourists?",
+          "a": "Yes, Cuenca is considered Ecuador's safest major city and ranks as the safest city in South America with over 500,000 inhabitants. Most visitors experience no serious safety issues when following basic precautions."
+        },
+        {
+          "q": "Is Cuenca safe at night?",
+          "a": "Cuenca is relatively safe at night compared to other major cities in the region, but caution is advised. Stick to well-lit areas, travel in groups, and use registered taxis rather than walking alone after dark."
+        },
+        {
+          "q": "Is Cuenca safe for solo female travelers?",
+          "a": "Cuenca is one of Ecuador's best destinations for solo female travelers. The city has a strong expat community and European atmosphere. Exercise normal precautions, dress modestly, and avoid isolated areas at night."
+        },
+        {
+          "q": "What areas should I avoid in Cuenca?",
+          "a": "Avoid the Garcia Moreno Street area, Las Orquideas neighborhood, and parts of El Vecino district, especially at night. Recent violence in March 2026 affected some peripheral areas, so stay informed about current conditions."
+        },
+        {
+          "q": "Is it safe to use public transport in Cuenca?",
+          "a": "Yes, Cuenca's public transport including the tram system is generally safe and efficient. Keep belongings secure, be aware of pickpockets during peak hours, and avoid displaying valuables."
+        }
+      ],
+      "relatedCities": [
+        "quito",
+        "bogota",
+        "lima",
+        "la-paz"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Collage_Cuenca.png/1280px-Collage_Cuenca.png"
+    },
+    {
+      "slug": "punta-del-este",
+      "name": "Punta del Este",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 7.6,
+      "verdict": "Generally Safe",
+      "badgeLabel": "Generally Safe",
+      "badgeClass": "safe",
+      "scores": {
+        "pettyCrime": 7.0,
+        "violentCrime": 8.5,
+        "scamRisk": 7.5,
+        "womensSafety": 8.0,
+        "nightSafety": 7.0,
+        "transport": 7.0,
+        "naturalHazards": 8.2
+      },
+      "summary": "Punta del Este is one of South America's safest resort cities, offering excellent security for tourists with minimal violent crime. While petty theft increases during summer high season, the city maintains strong tourist police presence and well-developed infrastructure.",
+      "quickVerdict": "Known as the Hamptons of South America, Punta del Este maintains exceptional safety standards with virtually no violent crime against tourists. The main concerns are seasonal pickpocketing and bag snatching during crowded summer months, when the population swells with vacationers. The city benefits from modern healthcare facilities, reliable emergency services, and a professional tourist police force that patrols key areas year-round.",
+      "neighborhoods": [
+        {
+          "name": "Peninsula",
+          "score": 8.5,
+          "class": "safe",
+          "description": "The historic center with constant foot traffic, well-lit streets, and regular police patrols. Home to restaurants, shops, and the main port area with excellent walkability and safety day and night."
+        },
+        {
+          "name": "Playa Brava",
+          "score": 7.8,
+          "class": "safe",
+          "description": "Famous beach area with the iconic hand sculpture. Well-patrolled tourist zone with good lighting and frequent security presence, though watch belongings during crowded summer days."
+        },
+        {
+          "name": "Playa Mansa",
+          "score": 8.0,
+          "class": "safe",
+          "description": "Calmer bay-side beach with families and upscale accommodations. Generally very safe with good lighting and regular patrols, though isolated areas should be avoided after dark."
+        },
+        {
+          "name": "La Barra",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Trendy nightlife district that gets very crowded during summer. Safe but requires extra vigilance with belongings due to heavy foot traffic and party atmosphere late at night."
+        },
+        {
+          "name": "José Ignacio",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Upscale village known for exclusive restaurants and boutique hotels. Very safe with low crime rates, though limited public transport means you'll need private transportation."
+        },
+        {
+          "name": "Manantiales",
+          "score": 7.5,
+          "class": "safe",
+          "description": "Quieter residential beach area popular with locals. Generally safe but less tourist infrastructure means fewer patrols and services compared to central areas."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Overpriced Beach Services",
+          "risk": "medium",
+          "description": "Beach vendors and umbrella rental services may quote inflated prices to tourists, especially during high season when beaches are crowded.",
+          "howToAvoid": "Ask locals about standard prices beforehand and don't be afraid to negotiate. Walk away if prices seem excessive - there are always alternatives."
+        },
+        {
+          "name": "Taxi Overcharging",
+          "risk": "medium",
+          "description": "Some taxi drivers may not use meters or quote fixed prices that are higher than normal, particularly for airport transfers or late-night rides.",
+          "howToAvoid": "Insist the meter is turned on, ask for an estimate before starting, and use reputable taxi companies or ride-sharing apps when available."
+        },
+        {
+          "name": "Fake Tour Operators",
+          "risk": "low",
+          "description": "Unlicensed individuals may approach tourists offering cheap boat trips or excursions without proper insurance or safety equipment.",
+          "howToAvoid": "Only book tours through established companies with proper licenses. Verify credentials and insurance coverage before paying for any activities."
+        },
+        {
+          "name": "ATM Skimming",
+          "risk": "low",
+          "description": "Card skimming devices occasionally target tourist areas, though this is rare in Punta del Este compared to larger cities.",
+          "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN, and check for unusual devices on card readers before use."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Punta del Este is considered one of the safest destinations in South America for solo female travelers. The city has low violent crime rates, professional tourist police, and a welcoming atmosphere. Most solo female travelers report feeling completely safe during the day and generally secure at night in tourist areas.",
+        "tips": [
+          "Stay in well-reviewed accommodations in central areas like Peninsula or near Playa Brava for easy access to restaurants and nightlife",
+          "Use official taxi services or reputable ride-sharing apps rather than unmarked vehicles, especially late at night",
+          "While the city is very safe, avoid isolated beach areas after dark and stick to well-lit, populated streets when walking alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "Punta del Este maintains good nighttime safety with well-lit main streets and active nightlife districts. Tourist police patrol key areas regularly, and violent crime is extremely rare. However, like any tourist destination, basic precautions should be taken during late hours.",
+        "tips": [
+          "Stick to main streets and popular areas like Peninsula, Playa Brava, and La Barra where there's good lighting and foot traffic",
+          "Avoid walking alone on isolated beaches or empty streets late at night, even though serious crime is rare",
+          "Keep valuables secure and be aware of your surroundings in crowded nightlife areas where pickpocketing can occur"
+        ]
+      },
+      "transport": {
+        "metro": "Punta del Este does not have a metro system. The city relies on buses, taxis, and private vehicles for transportation.",
+        "rideshare": "Limited ride-sharing options available. Uber operates in the area but with fewer drivers than major cities. Best to book in advance during peak season.",
+        "taxis": "Taxis are generally safe and reliable, though can be expensive compared to other Uruguayan cities. Ensure meters are used or agree on price beforehand. Airport taxis charge fixed rates around USD 60-80 from Montevideo airport.",
+        "tips": "Renting a car is recommended for exploring the broader region. Local buses run infrequently and mainly serve residential areas. During summer high season, book transportation in advance as demand increases significantly."
+      },
+      "customs": [
+        "Greet people with a handshake or single kiss on the cheek - Uruguayans are warm and tactile in their interactions",
+        "Mate tea sharing is sacred - if offered mate, accept graciously as refusing can be seen as impolite",
+        "Dinner is served late, typically around 9-10 PM, so adjust your schedule accordingly when dining out"
+      ],
+      "health": {
+        "overview": "Punta del Este offers excellent healthcare with modern private hospitals and well-trained medical professionals. The Sanatorio Cantegril and SEMM Mautone are top-tier facilities with English-speaking staff.",
+        "water": "Tap water is generally safe to drink in Punta del Este, though many visitors prefer bottled water. Ice in reputable establishments is typically made from treated water.",
+        "vaccinations": "No special vaccinations required for Uruguay. Routine vaccines like MMR, DPT, and influenza should be up to date. Yellow fever not required unless coming from an endemic area.",
+        "altitude": "Punta del Este is at sea level with a temperate coastal climate. Sun protection is essential - UV levels can be high year-round, especially during summer months."
+      },
+      "emergency": {
+        "general": "911",
+        "police": "109 or 911",
+        "ambulance": "105 or 911",
+        "fire": "104 or 911",
+        "touristPolice": "Contact local police at 109 for tourist-related issues",
+        "usEmbassy": "US Embassy Montevideo: +598 1770-2000, located at Lauro Muller 1776, Montevideo. For after-hours emergencies call +598 1770-2000."
+      },
+      "faq": [
+        {
+          "q": "Is Punta del Este safe for tourists?",
+          "a": "Yes, Punta del Este is one of the safest tourist destinations in South America. Violent crime against tourists is extremely rare, and the city maintains professional tourist police and modern infrastructure. The main concerns are minor pickpocketing during busy summer months."
+        },
+        {
+          "q": "Is Punta del Este safe at night?",
+          "a": "Punta del Este is generally safe at night in tourist areas with good lighting and regular patrols. Stick to main streets and popular districts like Peninsula and La Barra. While serious crime is rare, avoid isolated beaches and empty streets late at night."
+        },
+        {
+          "q": "Is Punta del Este safe for solo female travelers?",
+          "a": "Absolutely. Punta del Este ranks as the 3rd safest place in Uruguay for solo female travelers. The city has low crime rates, professional services, and a welcoming atmosphere. Most solo female visitors report feeling completely secure throughout their stay."
+        },
+        {
+          "q": "What areas should I avoid in Punta del Este?",
+          "a": "Punta del Este has no truly dangerous areas for tourists. During summer high season, be extra vigilant in crowded areas like La Barra's nightlife district and busy beaches where pickpocketing can occur. Avoid isolated beach areas late at night."
+        },
+        {
+          "q": "Is it safe to use public transport in Punta del Este?",
+          "a": "Yes, public transport is safe but limited. Buses run infrequently and mainly serve local routes. Taxis are safe but expensive - ensure meters are used. For flexibility, consider renting a car, especially if exploring areas outside the city center."
+        }
+      ],
+      "relatedCities": [
+        "montevideo",
+        "buenos-aires",
+        "rio-de-janeiro"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg"
+    },
+    {
+      "slug": "la-paz",
+      "name": "La Paz",
+      "country": "Bolivia",
+      "countryCode": "BO",
+      "region": "South America",
+      "regionSlug": "south-america",
+      "lastUpdated": "2026-03-19",
+      "overallScore": 6.2,
+      "verdict": "Moderate Caution Advised",
+      "badgeLabel": "Moderate Caution",
+      "badgeClass": "caution",
+      "scores": {
+        "pettyCrime": 5.8,
+        "violentCrime": 6.5,
+        "scamRisk": 4.8,
+        "womensSafety": 5.9,
+        "nightSafety": 5.5,
+        "transport": 6.8,
+        "naturalHazards": 8.1
+      },
+      "summary": "La Paz, Bolivia's de facto capital at 12,000+ feet elevation, presents moderate safety concerns with petty crime and altitude-related health risks being primary challenges. While the city has lower violent crime rates than regional neighbors like Lima, tourists face risks from pickpocketing, fake police scams, and altitude sickness.",
+      "quickVerdict": "La Paz is moderately safe for tourists who take proper precautions, particularly regarding altitude acclimatization and petty crime prevention. The city ranks safer than many South American capitals, but visitors must remain vigilant against pickpocketing, bag snatching, and fake police scams. The extreme altitude poses serious health risks that require gradual acclimatization. Healthcare quality is limited, especially outside the city center, making comprehensive travel insurance essential.",
+      "neighborhoods": [
+        {
+          "name": "Zona Sur",
+          "score": 8.2,
+          "class": "safe",
+          "description": "Affluent residential area with upscale hotels, restaurants, and shopping. Well-patrolled with good lighting and infrastructure."
+        },
+        {
+          "name": "Witches Market/San Francisco",
+          "score": 6.5,
+          "class": "caution",
+          "description": "Popular tourist area with cultural attractions but high pickpocketing risk. Busy during day but requires caution with belongings."
+        },
+        {
+          "name": "Centro Histórico",
+          "score": 6.8,
+          "class": "caution",
+          "description": "Government district around Plaza Murillo with historical sites. Generally safe during day but watch for demonstrations and crowds."
+        },
+        {
+          "name": "Sopocachi",
+          "score": 6.9,
+          "class": "caution",
+          "description": "Bohemian district with cafes and nightlife. Some reports of express kidnappings, exercise caution especially at night."
+        },
+        {
+          "name": "El Alto",
+          "score": 4.2,
+          "class": "danger",
+          "description": "Adjacent city at even higher altitude with significant poverty and crime issues. Avoid unless with trusted local guide."
+        },
+        {
+          "name": "Cemetery District",
+          "score": 3.8,
+          "class": "danger",
+          "description": "Area near Cementerio General with high crime rates including express kidnappings. Strongly recommended to avoid, especially arriving after dark."
+        }
+      ],
+      "scams": [
+        {
+          "name": "Fake Police",
+          "risk": "high",
+          "description": "Criminals impersonate police officers with fake IDs, uniforms, and even false station fronts to rob tourists. Often work with accomplices posing as fellow tourists.",
+          "howToAvoid": "Real police cannot stop you without written orders. Ask to go to a nearby shop for verification, carry passport copies, and never get in unmarked vehicles."
+        },
+        {
+          "name": "Distraction Theft",
+          "risk": "medium",
+          "description": "Someone spills mustard or sauce on you while accomplices offer to help clean up, stealing belongings during the distraction. Common at markets.",
+          "howToAvoid": "Handle cleanup yourself if something is spilled on you. Keep belongings secure and be suspicious of overly helpful strangers."
+        },
+        {
+          "name": "Express Kidnapping",
+          "risk": "medium",
+          "description": "Short-term abductions where victims are forced to withdraw money from ATMs. Often involves taxi drivers and fake police.",
+          "howToAvoid": "Use only radio taxis with company names visible. Avoid traveling alone at night. Never get into vehicles with existing passengers."
+        },
+        {
+          "name": "Overcharging Scams",
+          "risk": "medium",
+          "description": "Taxi drivers claim no change for large bills or quote inflated prices to tourists, especially late at night.",
+          "howToAvoid": "Confirm taxi driver has change before getting in. Agree on fare beforehand or use apps like Uber when available."
+        }
+      ],
+      "soloFemale": {
+        "overview": "Solo female travel in La Paz requires extra caution but is manageable with proper precautions. Bolivia has one of South America's highest domestic violence rates, and women face additional risks including catcalling and harassment. However, many solo female travelers visit successfully by staying alert and following safety guidelines.",
+        "tips": [
+          "Stay in well-reviewed accommodations in safer areas like Zona Sur",
+          "Avoid walking alone after dark, especially in peripheral neighborhoods",
+          "Book taxis through your hotel or use registered radio taxis instead of hailing on street",
+          "Dress modestly in conservative highland areas to blend in better",
+          "Join group tours for sightseeing rather than exploring alone"
+        ]
+      },
+      "nightSafety": {
+        "overview": "La Paz becomes significantly more dangerous after dark, with increased risks of muggings, express kidnappings, and taxi-related crimes. The combination of high altitude, steep terrain, and limited lighting makes navigation challenging. Most crimes against tourists occur during evening hours.",
+        "tips": [
+          "Use registered radio taxis or rideshare apps instead of walking",
+          "Stay in well-lit, populated areas near hotels and main streets",
+          "Avoid the Cemetery District and peripheral neighborhoods entirely",
+          "Travel in groups when possible and inform someone of your plans",
+          "Keep minimal cash and leave valuables in hotel safe"
+        ]
+      },
+      "transport": {
+        "metro": "La Paz has Mi Teleferico, an extensive cable car network connecting the city to El Alto. It's safe, affordable at 3 Bolivianos per ride, and offers spectacular views. The system is wheelchair accessible and well-maintained.",
+        "rideshare": "Uber operates in La Paz but with limited availability and frequent cancellations due to taxi union pressure. Local apps like InDrive and Yango are alternatives. Service can be unreliable but generally safer than street taxis.",
+        "taxis": "Radio taxis with visible company names are safest option. Avoid unmarked taxis and those with existing passengers. Express kidnappings have occurred with unlicensed drivers. Always confirm the driver has change and agree on fare beforehand.",
+        "tips": "The teleferico cable car system is your safest transport option. For taxis, use hotel arrangements or radio companies. Avoid public minibuses (trufis) due to theft risks and poor safety standards."
+      },
+      "customs": [
+        "Greet everyone with formal buenos dias/tardes before starting conversations",
+        "Use please (por favor) and thank you (gracias) consistently - politeness is highly valued",
+        "Ask permission before photographing people, especially indigenous individuals who may expect payment",
+        "Remove hats and dress modestly when entering churches",
+        "Stand close during conversations as personal space is smaller than Western norms",
+        "Show respect to authority figures and use titles like señor/señora or doctor"
+      ],
+      "health": {
+        "overview": "Healthcare in La Paz is adequate in private facilities but limited in public hospitals. The extreme altitude poses serious risks including altitude sickness, which can be life-threatening. Emergency care outside the city center is very limited.",
+        "water": "Tap water is not safe to drink. Use bottled or properly filtered water for drinking and teeth brushing. Avoid ice and raw foods washed in tap water to prevent gastrointestinal illness.",
+        "vaccinations": "Yellow fever vaccination required if arriving from endemic areas, recommended for jungle travel. Hepatitis A, typhoid, and routine immunizations should be current. Consult doctor about altitude sickness medication.",
+        "altitude": "La Paz sits at 10,600-13,000+ feet elevation. Altitude sickness is common and can be severe. Ascend slowly, avoid alcohol initially, stay hydrated, and seek medical attention for severe symptoms like confusion or difficulty breathing."
+      },
+      "emergency": {
+        "general": "911 or 110",
+        "police": "110 or 120",
+        "ambulance": "118 or 165 (La Paz specific)",
+        "fire": "119",
+        "touristPolice": "+591-2-222-5016",
+        "usEmbassy": "US Embassy La Paz: +591-2-216-8000, Avenida Arce 2780. 24-hour emergency assistance available. Limited consular services during certain hours."
+      },
+      "faq": [
+        {
+          "q": "Is La Paz safe for tourists?",
+          "a": "La Paz is moderately safe compared to other South American capitals, but requires caution. The main risks are petty crime, fake police scams, and altitude sickness. Most tourists have no serious problems when taking basic precautions."
+        },
+        {
+          "q": "Is La Paz safe at night?",
+          "a": "No, La Paz becomes significantly more dangerous after dark. Avoid walking alone, use registered taxis only, and stay in well-lit tourist areas. The Cemetery District should be avoided entirely at night."
+        },
+        {
+          "q": "Is La Paz safe for solo female travelers?",
+          "a": "Solo female travel is possible but requires extra precaution. Bolivia has high domestic violence rates, and women may face harassment. Stay in good accommodations, use recommended transport, and avoid isolated areas."
+        },
+        {
+          "q": "What areas should I avoid in La Paz?",
+          "a": "Avoid the Cemetery District, El Alto (especially at night), and peripheral neighborhoods. Be cautious in crowded markets and around bus terminals where pickpocketing is common."
+        },
+        {
+          "q": "Is it safe to use public transport in La Paz?",
+          "a": "The Mi Teleferico cable car system is very safe and recommended. Avoid minibuses (trufis) due to theft risks. Use only registered radio taxis with visible company identification, never unmarked vehicles."
+        }
+      ],
+      "relatedCities": [
+        "sucre",
+        "cochabamba",
+        "santa-cruz",
+        "cusco",
+        "quito",
+        "bogota"
+      ],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/1280px-Vista_del_centro_de_La_Paz.jpg"
     }
   ]
 }

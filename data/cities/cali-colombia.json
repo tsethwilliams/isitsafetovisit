@@ -1,0 +1,170 @@
+{
+  "slug": "cali",
+  "name": "Cali",
+  "country": "Colombia",
+  "countryCode": "CO",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 5.2,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 4.5,
+    "scamRisk": 5.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.0,
+    "transport": 6.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Cali, Colombia's salsa capital, faces significant safety challenges with high crime rates including homicides, kidnapping, and robbery. While tourist areas are relatively safer with proper precautions, the city requires heightened awareness and careful planning to visit safely.",
+  "quickVerdict": "Cali is one of Colombia's most dangerous cities with a murder rate of 45.9 per 100,000 inhabitants and ranking as the 29th most dangerous city globally. However, crime is largely concentrated in specific low-income neighborhoods that tourists don't typically visit. Tourist areas like San Antonio, San Fernando, and Granada are generally safer with proper precautions. The city saw improvements in 2024 with a new administration restoring order, but caution is still strongly advised, especially at night.",
+  "neighborhoods": [
+    {
+      "name": "San Antonio",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Bohemian colonial neighborhood with vibrant street art, cafes, and cultural attractions. Generally safe during the day with moderate police presence, but avoid walking alone at night. Popular with expats and tourists for its walkable historic charm."
+    },
+    {
+      "name": "Granada (Zona Rosa)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Upscale area with boutiques, restaurants, and nightlife. Well-patrolled and considered one of the safest areas in Cali. Good for shopping and dining, though petty crime can occur in crowded areas."
+    },
+    {
+      "name": "San Fernando",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Popular area around Parque del Perro with restaurants, bars, and student-friendly venues. Reasonably safe but requires standard precautions. Lively nightlife scene attracts both locals and tourists."
+    },
+    {
+      "name": "Aguablanca District (Comunas 13-15)",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Low-income area with extremely high crime rates including violent crime and drug activity. Strongly advised to avoid completely. Contains some of the most dangerous neighborhoods in the city with frequent armed robberies and homicides."
+    },
+    {
+      "name": "Siloe",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Hillside slum area with severe safety issues including gang activity and drug trafficking. Not safe for tourists and should be avoided entirely. High risk of violent crime throughout the day and night."
+    },
+    {
+      "name": "El Rodeo",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Dangerous neighborhood in Comuna 12 with high crime rates. Not recommended for tourists due to robbery, assault, and other criminal activity. Local authorities advise against visiting this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Scopolamine Drugging",
+      "risk": "high",
+      "description": "Criminals use scopolamine (devil's breath) to drug victims through drinks, food, or even paper flyers, leaving them compliant and memory-less while being robbed or worse.",
+      "howToAvoid": "Never accept drinks from strangers, don't leave drinks unattended, avoid dating apps with unknown locals, and be wary of overly friendly strangers offering help or gifts."
+    },
+    {
+      "name": "Express Kidnapping",
+      "risk": "medium",
+      "description": "Criminals force victims to withdraw money from ATMs or max out credit cards. Often happens in fake taxis or when criminals enter legitimate taxis with passengers.",
+      "howToAvoid": "Use official taxis or ride-sharing apps, avoid street taxis, carry a low-limit credit card, and don't withdraw large amounts from ATMs especially at night."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Taxi drivers demand card payment claiming broken machines, take long detours, or swap large bills for smaller ones claiming no change available.",
+      "howToAvoid": "Use ride-sharing apps like Uber or Cabify, agree on fares beforehand, carry small bills, and always verify returned change. Avoid street taxis when possible."
+    },
+    {
+      "name": "Tourist Price Inflation",
+      "risk": "medium",
+      "description": "Vendors, restaurants, and service providers charge significantly higher 'gringo rates' to foreign tourists, especially in tourist areas and markets.",
+      "howToAvoid": "Ask locals about fair prices, negotiate beforehand, confirm prices in writing for tours or services, and learn basic Spanish numbers to understand quoted prices better."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Cali requires extra caution and safety awareness. While experienced female travelers visit successfully, the city poses higher risks than other Colombian destinations. Women may experience frequent catcalling, especially on the coast, and should avoid walking alone at night. The salsa scene and nightlife are major attractions but require group accompaniment for safety.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like Granada or San Antonio",
+      "Always use official transportation (Uber, registered taxis) especially at night",
+      "Join group salsa classes or tours rather than exploring nightlife alone",
+      "Dress conservatively and avoid flashy jewelry or expensive items",
+      "Learn basic Spanish phrases and have local emergency contacts saved",
+      "Never walk alone after dark, even short distances - take transportation",
+      "Be extremely cautious with dating apps and meeting strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cali becomes significantly more dangerous at night, with most violent crimes occurring after dark. The city's famous salsa scene and nightlife are major draws, but require careful planning and safety measures. Even in safer neighborhoods, walking at night is strongly discouraged. Crime increases substantially in areas with low foot traffic.",
+    "tips": [
+      "Never walk alone at night, even in tourist areas - always use transportation",
+      "Stick to well-lit, crowded areas with police presence when going out",
+      "Use Uber or registered taxis to travel between venues after dark",
+      "Go out in groups and stay together throughout the evening",
+      "Avoid excessive drinking and never leave drinks unattended",
+      "Stay in main nightlife zones like Zona Rosa and avoid wandering to unfamiliar areas",
+      "Keep accommodation address and emergency contacts easily accessible"
+    ]
+  },
+  "transport": {
+    "metro": "Cali does not have a metro system. The city uses the MIO (Masivo Integrado de Occidente) bus rapid transit system with articulated buses running on dedicated lanes covering 95% of the city. The MIO system is generally safe during daylight hours but requires caution during peak times and at night.",
+    "rideshare": "Uber, DiDi, and Cabify operate in Cali and are strongly recommended over street taxis for safety. These apps provide GPS tracking, driver verification, and predetermined fares. Uber was legalized in Colombia in 2023, making it a reliable option for tourists.",
+    "taxis": "Official yellow taxis are available but carry higher risks including overcharging and potential criminal collaboration. Some fake taxis operate illegally. If using taxis, only use those called by hotels or official stands, verify the taxi number, and avoid those with existing passengers.",
+    "tips": "Public transportation is generally safe during day but avoid during peak hours when pickpocketing increases. Use MIO cards for bus system. For airport transfers, use official taxi stands or pre-booked transportation. Motorcycles are common but not recommended for tourists due to safety concerns."
+  },
+  "customs": [
+    "Greeting with a handshake is standard; cheek kissing is only for people you know well",
+    "Punctuality is relaxed for social events - arriving 30 minutes late is normal, but be on time for business",
+    "Dress well and pay attention to appearance - Colombians notice shoes, grooming, and overall presentation",
+    "Use formal 'usted' rather than 'tú' when first meeting someone or in respectful contexts",
+    "Say 'buen provecho' before eating and keep hands visible during meals",
+    "Bring small gifts like flowers or chocolates when invited to someone's home",
+    "Avoid discussing politics, drugs, or US foreign policy as these are sensitive topics"
+  ],
+  "health": {
+    "overview": "Cali has good healthcare facilities with quality private clinics and hospitals. The city is not in a yellow fever risk zone, so vaccination is generally not required for urban visits. Standard travel health precautions apply with attention to mosquito-borne diseases like dengue.",
+    "water": "Tap water in Cali is generally safe to drink as it's treated and comes from the Cali River through clean pipes. However, some travelers prefer bottled water as a precaution. Ice in restaurants and hotels is typically safe.",
+    "vaccinations": "Routine vaccinations should be up to date including hepatitis A and B, typhoid, and routine shots like MMR and DPT. Yellow fever vaccination is not usually recommended for Cali city visits but may be required if traveling to surrounding rural areas.",
+    "altitude": "Cali sits at 1,000 meters (3,280 feet) above sea level, so altitude sickness is not a concern. The climate is warm year-round with temperatures averaging 24-25°C (75-77°F). Rainy season runs April-May and September-November with increased risk of flooding."
+  },
+  "emergency": {
+    "general": "123",
+    "police": "123",
+    "ambulance": "123",
+    "fire": "123",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Bogota: +57-601-275-2000 (24-hour line for US citizens). Local consular agents may be available in Cali for basic services, but major issues are handled through the main embassy in Bogota."
+  },
+  "faq": [
+    {
+      "q": "Is Cali safe for tourists?",
+      "a": "Cali requires significant caution as it's one of Colombia's most dangerous cities. Tourist areas like Granada and San Antonio are relatively safer with proper precautions, but the overall crime rate is high with frequent robberies, kidnappings, and violent crime."
+    },
+    {
+      "q": "Is Cali safe at night?",
+      "a": "No, Cali is quite dangerous at night. Most violent crimes occur after dark, and walking alone is strongly discouraged even in tourist areas. Always use official transportation like Uber after dark and stay in well-lit, crowded areas when going out."
+    },
+    {
+      "q": "Is Cali safe for solo female travelers?",
+      "a": "Solo female travel in Cali requires extreme caution and is not recommended for inexperienced travelers. Women face additional risks including harassment and are frequent targets for crimes. Those who visit should stay in groups, use official transport, and avoid walking alone especially at night."
+    },
+    {
+      "q": "What areas should I avoid in Cali?",
+      "a": "Completely avoid Aguablanca district (comunas 13-15), Siloe, and El Rodeo neighborhood. These areas have extremely high violent crime rates. Even in safer areas like San Antonio and Granada, be cautious at night and avoid displaying valuables."
+    },
+    {
+      "q": "Is it safe to use public transport in Cali?",
+      "a": "The MIO bus system is relatively safe during daylight hours but avoid peak times when pickpocketing increases. Ride-sharing apps like Uber are much safer than street taxis. Never use unofficial taxis or those with existing passengers as these pose kidnapping risks."
+    }
+  ],
+  "relatedCities": [
+    "bogota",
+    "medellin",
+    "cartagena"
+  ],
+  "_city_id": "cali-colombia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Santiago_de_Cali.jpg/1280px-Santiago_de_Cali.jpg"
+}

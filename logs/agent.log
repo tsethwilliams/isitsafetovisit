@@ -2285,3 +2285,47 @@
 2026-03-19 18:24:15,301 [INFO] Merged into site data: Patagonia
 2026-03-19 18:24:15,373 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-19 18:24:15,409 [INFO] Rebuilt sitemap with 477 URLs (348 cities, 123 countries, 6 static)
+2026-03-19 23:01:53,484 [INFO] Agent starting — mode: add
+2026-03-19 23:01:53,527 [INFO] Queue has 215 cities, adding 8
+2026-03-19 23:01:53,527 [INFO] Generating new city profile: Cali, Colombia
+2026-03-19 23:03:25,384 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:03:26,397 [INFO] Found Wikipedia image for Cali
+2026-03-19 23:03:26,398 [INFO] Saved city data: cali-colombia
+2026-03-19 23:03:26,402 [INFO] Generating new city profile: Santa Marta, Colombia
+2026-03-19 23:05:05,626 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:05:05,870 [INFO] Found Wikipedia image for Santa Marta
+2026-03-19 23:05:05,871 [INFO] Saved city data: santa-marta-colombia
+2026-03-19 23:05:05,874 [INFO] Generating new city profile: Machu Picchu, Peru
+2026-03-19 23:06:37,886 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:06:38,176 [INFO] Found Wikipedia image for Machu Picchu
+2026-03-19 23:06:38,177 [INFO] Saved city data: machu-picchu-peru
+2026-03-19 23:06:38,180 [INFO] Generating new city profile: Arequipa, Peru
+2026-03-19 23:08:30,589 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:08:30,831 [INFO] Found Wikipedia image for Arequipa
+2026-03-19 23:08:30,832 [INFO] Saved city data: arequipa-peru
+2026-03-19 23:08:30,835 [INFO] Generating new city profile: Galapagos Islands, Ecuador
+2026-03-19 23:09:56,919 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:09:57,438 [INFO] Found Wikipedia image for Galapagos Islands
+2026-03-19 23:09:57,439 [INFO] Saved city data: galapagos-islands-ecuador
+2026-03-19 23:09:57,442 [INFO] Generating new city profile: Cuenca, Ecuador
+2026-03-19 23:11:17,477 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:11:17,698 [INFO] Found Wikipedia image for Cuenca
+2026-03-19 23:11:17,698 [INFO] Saved city data: cuenca-ecuador
+2026-03-19 23:11:17,702 [INFO] Generating new city profile: Punta del Este, Uruguay
+2026-03-19 23:12:38,244 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:12:38,524 [INFO] Found Wikipedia image for Punta del Este
+2026-03-19 23:12:38,525 [INFO] Saved city data: punta-del-este-uruguay
+2026-03-19 23:12:38,528 [INFO] Generating new city profile: La Paz, Bolivia
+2026-03-19 23:14:00,915 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-19 23:14:01,356 [INFO] Found Wikipedia image for La Paz
+2026-03-19 23:14:01,357 [INFO] Saved city data: la-paz-bolivia
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Cali
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Santa Marta
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Machu Picchu
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Arequipa
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Galapagos Islands
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Cuenca
+2026-03-19 23:14:01,401 [INFO] Merged into site data: Punta del Este
+2026-03-19 23:14:01,401 [INFO] Merged into site data: La Paz
+2026-03-19 23:14:01,475 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-19 23:14:01,515 [INFO] Rebuilt sitemap with 486 URLs (356 cities, 124 countries, 6 static)

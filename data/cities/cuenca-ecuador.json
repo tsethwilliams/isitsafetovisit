@@ -1,0 +1,159 @@
+{
+  "slug": "cuenca",
+  "name": "Cuenca",
+  "country": "Ecuador",
+  "countryCode": "EC",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-19",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.8,
+    "transport": 7.5,
+    "naturalHazards": 6.8
+  },
+  "summary": "Cuenca stands out as Ecuador's safest major city and the most secure destination in South America for tourists, with a safety index of 54.05. While petty crime like pickpocketing remains a concern in tourist areas, violent crime is relatively low.",
+  "quickVerdict": "Cuenca offers a relatively safe environment for tourists, earning recognition as South America's safest city with over 500,000 inhabitants. The colonial city benefits from strong police presence, particularly tourist police, and maintains lower crime rates compared to Ecuador's coastal regions. However, visitors should remain vigilant against pickpocketing and scams in popular areas like Parque Calderon and local markets. The recent March 2026 incidents involving drug-related violence highlight the importance of staying informed about current conditions, though these events primarily affected neighborhoods outside typical tourist zones.",
+  "neighborhoods": [
+    {
+      "name": "El Centro Historico",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The UNESCO World Heritage historic center features constant police presence and is generally safe during daylight hours. High foot traffic means increased pickpocket risk but better overall security."
+    },
+    {
+      "name": "La Zona Rosa",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale residential area popular with expats, featuring controlled access buildings, good lighting, and proximity to quality healthcare facilities."
+    },
+    {
+      "name": "Tomebamba Riverfront",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Scenic area along the river with walking paths and cafes. Generally safe during day but avoid after dark due to poor lighting in some sections."
+    },
+    {
+      "name": "El Vecino",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Mixed residential area with higher crime rates than central districts. Exercise caution especially at night and avoid displaying valuables."
+    },
+    {
+      "name": "Las Orquideas",
+      "score": 4.2,
+      "class": "caution",
+      "description": "Peripheral neighborhood that experienced recent violent incidents in March 2026. Avoid unnecessary visits and stay alert if in the area."
+    },
+    {
+      "name": "Garcia Moreno Street area",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Higher crime area with frequent reports of theft and drug activity. Avoid walking alone and consider alternative routes when possible."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Sob Story Scam",
+      "risk": "high",
+      "description": "Scammers approach with well-rehearsed stories of personal hardship, robbery, or family emergencies to extract money. Often performed by foreigners speaking the victim's language.",
+      "howToAvoid": "Politely decline any requests for money from strangers. Never accompany someone to an ATM. Verify stories independently if you feel compelled to help."
+    },
+    {
+      "name": "Fake Petition Scam",
+      "risk": "medium",
+      "description": "Criminals use fake petitions or charity requests to distract tourists while accomplices pickpocket belongings or steal phones.",
+      "howToAvoid": "Ask for official identification and receipts before signing anything. Keep belongings secure and be aware of your surroundings when approached on the street."
+    },
+    {
+      "name": "Rigged Taxi Meter",
+      "risk": "medium",
+      "description": "Taxi drivers claim broken meters and charge inflated fixed rates, or manipulate meters to overcharge passengers.",
+      "howToAvoid": "Always insist on using the meter before getting in. Use registered taxis with proper identification. Consider using rideshare apps when available."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Card skimming devices placed on ATMs to steal credit card information, particularly targeting tourist areas and standalone machines.",
+      "howToAvoid": "Use ATMs inside banks or secure locations. Cover your PIN when entering. Check for any unusual attachments or loose parts before using."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cuenca ranks as one of Ecuador's safest cities for solo female travelers, with many women reporting feeling secure walking during daylight hours. The strong expat community and European-style atmosphere contribute to a welcoming environment. However, cultural conservatism means modest dress is recommended, and catcalling can occur.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like El Centro or near the Tomebamba River",
+      "Dress modestly to respect local culture and avoid unwanted attention",
+      "Avoid walking alone at night and use registered taxis or rideshare apps after dark"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cuenca's nightlife is generally safer than other major Ecuadorian cities, but caution is still essential. The historic center remains relatively active in the evenings, though some areas become poorly lit. Violence is rare but petty crime increases after dark.",
+    "tips": [
+      "Travel in groups when possible and stick to well-lit, busy areas",
+      "Use registered taxis or hotel-arranged transportation rather than walking",
+      "Inform someone of your plans and expected return time when going out"
+    ]
+  },
+  "transport": {
+    "metro": "Cuenca features an efficient tram system connecting major parts of the city. Generally safe and reliable during operating hours, though keep belongings secure during peak times.",
+    "rideshare": "Limited rideshare options available. When using apps, verify driver details and vehicle information before getting in.",
+    "taxis": "Use only registered yellow taxis with orange license plates and municipal registration stickers. Always insist on meter use or agree on fare beforehand. Avoid unmarked vehicles.",
+    "tips": "Public transport is generally safe during daylight hours. Keep valuables secure and be aware of pickpockets on buses and at terminals."
+  },
+  "customs": [
+    "Greet with a handshake or air kisses among friends",
+    "Dress conservatively, especially when visiting religious sites",
+    "Tip 10% at restaurants if service charge not included"
+  ],
+  "health": {
+    "overview": "Cuenca offers excellent healthcare with both public and private facilities. The city hosts several quality hospitals and many English-speaking medical professionals serving the large expat population.",
+    "water": "Municipal water is generally treated and safe for consumption, though many expats prefer bottled water initially until accustomed to local water.",
+    "vaccinations": "No special vaccinations required beyond routine shots. Altitude sickness precautions recommended due to 2,560-meter elevation.",
+    "altitude": "Cuenca sits at 8,400 feet elevation. Take time to acclimatize, stay hydrated, avoid alcohol initially, and ascend gradually to higher elevations."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 101",
+    "ambulance": "911 or 102",
+    "fire": "911 or 102",
+    "touristPolice": "911 (request transfer)",
+    "usEmbassy": "US Embassy Quito: +593-2-398-5000 (24/7 emergency routing available)"
+  },
+  "faq": [
+    {
+      "q": "Is Cuenca safe for tourists?",
+      "a": "Yes, Cuenca is considered Ecuador's safest major city and ranks as the safest city in South America with over 500,000 inhabitants. Most visitors experience no serious safety issues when following basic precautions."
+    },
+    {
+      "q": "Is Cuenca safe at night?",
+      "a": "Cuenca is relatively safe at night compared to other major cities in the region, but caution is advised. Stick to well-lit areas, travel in groups, and use registered taxis rather than walking alone after dark."
+    },
+    {
+      "q": "Is Cuenca safe for solo female travelers?",
+      "a": "Cuenca is one of Ecuador's best destinations for solo female travelers. The city has a strong expat community and European atmosphere. Exercise normal precautions, dress modestly, and avoid isolated areas at night."
+    },
+    {
+      "q": "What areas should I avoid in Cuenca?",
+      "a": "Avoid the Garcia Moreno Street area, Las Orquideas neighborhood, and parts of El Vecino district, especially at night. Recent violence in March 2026 affected some peripheral areas, so stay informed about current conditions."
+    },
+    {
+      "q": "Is it safe to use public transport in Cuenca?",
+      "a": "Yes, Cuenca's public transport including the tram system is generally safe and efficient. Keep belongings secure, be aware of pickpockets during peak hours, and avoid displaying valuables."
+    }
+  ],
+  "relatedCities": [
+    "quito",
+    "bogota",
+    "lima",
+    "la-paz"
+  ],
+  "_city_id": "cuenca-ecuador",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Collage_Cuenca.png/1280px-Collage_Cuenca.png"
+}
