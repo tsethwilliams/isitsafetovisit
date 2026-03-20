@@ -1,0 +1,165 @@
+{
+  "slug": "paramaribo",
+  "name": "Paramaribo",
+  "country": "Suriname",
+  "countryCode": "SR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.8,
+    "scamRisk": 6.0,
+    "womensSafety": 6.2,
+    "nightSafety": 5.8,
+    "transport": 6.5,
+    "naturalHazards": 7.8
+  },
+  "summary": "Paramaribo, Suriname's capital, presents moderate safety challenges with pickpocketing and petty crime common in business districts, though violent crime against tourists remains relatively low. The US State Department maintains a Level 1 'Exercise Normal Precautions' advisory for the country, while local crime statistics show concerning increases in robbery and theft in urban areas.",
+  "quickVerdict": "Paramaribo requires moderate caution as a tourist destination. While the overall risk level is manageable with proper precautions, visitors should be aware of elevated petty crime in business and shopping districts, limited police presence outside the capital, and specific areas like Palm Garden to avoid after dark. The city's historic UNESCO center is generally safe during daylight hours, but night activities require extra vigilance and preferably guided tours or hotel-arranged transport.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center (Waterkant)",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The UNESCO World Heritage historic center is the safest area for tourists, with Dutch colonial architecture, restaurants, and regular foot traffic. Well-maintained and generally secure during daylight hours with tourist police presence."
+    },
+    {
+      "name": "Central Business District",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Main shopping and business area with higher incidents of pickpocketing and purse snatching, particularly around major hotels and shopping centers. Exercise extra caution with valuables and avoid displaying expensive items."
+    },
+    {
+      "name": "Zorg en Hoop",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area popular with expats and tourists, featuring guesthouses and local restaurants. Generally safe during day and early evening, about 15 minutes walk from the historic center."
+    },
+    {
+      "name": "Palm Garden (Palmentuin)",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Known for illicit activities and complete lack of police presence, especially dangerous after dark. Multiple government advisories specifically warn tourists to avoid this area, particularly at night."
+    },
+    {
+      "name": "Commewijne District",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Riverfront area with plantation stays and eco-lodges, accessible mainly by boat. Generally safe for tourists but requires organized transport and has limited emergency services access."
+    },
+    {
+      "name": "Torarica Area",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Upscale hotel and restaurant district along the Suriname River. Well-maintained with better lighting and security presence, popular with international visitors and business travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Operators",
+      "risk": "high",
+      "description": "Unlicensed guides approach tourists offering jungle tours or plantation visits at suspiciously low prices, then provide substandard services or disappear with advance payments.",
+      "howToAvoid": "Only book through established, licensed tour operators with verified reviews. Ask hotels for recommendations and always verify credentials before making payments."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "high",
+      "description": "Unmetered taxis and unlicensed drivers charge inflated rates to tourists, especially from the airport or near hotels. Some may take longer routes to increase fares.",
+      "howToAvoid": "Use only registered taxis with white license plates, negotiate fares upfront, or book through hotels. Official airport taxis have set rates of approximately 150 SRD to the city center."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "medium",
+      "description": "Street money changers offer attractive rates but may use counterfeit bills, shortchange tourists, or use faulty calculators to manipulate exchange calculations.",
+      "howToAvoid": "Exchange money only at licensed cambios, banks, or hotels. Always count money carefully and verify bills. Avoid street exchanges even if rates appear better."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Teams of thieves work together with one creating a distraction while accomplices steal wallets, phones, or bags, particularly common in crowded markets and business areas.",
+      "howToAvoid": "Stay alert in crowded areas, secure valuables in hidden pockets, and be suspicious of overly friendly strangers or unusual incidents designed to divert attention."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Paramaribo requires moderate caution, with women generally safe in tourist areas during daylight but facing increased risks at night and in certain neighborhoods. Local men may engage in catcalling and unwanted attention, particularly toward foreign women, though serious harassment is less common.",
+    "tips": [
+      "Avoid walking alone at night, especially outside the historic center and hotel areas",
+      "Use hotel-recommended taxis or registered vehicles with white license plates",
+      "Dress modestly to blend in with local customs and reduce unwanted attention",
+      "Stay in well-reviewed accommodations in safe neighborhoods like the historic center",
+      "Carry a whistle or personal alarm and keep emergency contacts easily accessible"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Paramaribo becomes significantly less safe after dark, with increased risk of robbery, muggings, and opportunistic crime. Most areas outside the main hotel district have poor lighting and minimal police presence, making solo travel inadvisable at night.",
+    "tips": [
+      "Avoid the Palm Garden area completely after sunset due to criminal activity",
+      "Use registered taxis or hotel transport rather than walking between venues",
+      "Stay in groups when possible and remain in well-lit, populated areas",
+      "Keep hotel contact information readily available and inform someone of your plans",
+      "Consider joining organized evening tours rather than exploring independently"
+    ]
+  },
+  "transport": {
+    "metro": "No metro or subway system exists in Paramaribo. Public transportation is limited to unreliable minibuses that are not recommended for tourists due to poor maintenance and unsafe driving practices.",
+    "rideshare": "Ride, a local app similar to Uber, operates only in Paramaribo and includes both private drivers and registered taxis. Service is relatively new but growing popular among locals and tourists for added security.",
+    "taxis": "Taxis are unmetered with no standardized rates. Look for registered vehicles with white license plates and negotiate fares upfront. Hotel-arranged taxis are safer but more expensive. Airport transfers cost approximately 150 SRD.",
+    "tips": "Transportation infrastructure is limited. Budget extra time for travel, carry cash for payments, and book airport transfers through hotels or verified services. Avoid public minibuses and unregistered vehicles."
+  },
+  "customs": [
+    "Remove shoes when entering homes, a universal custom across all ethnic communities",
+    "Greet people with handshakes and inquire about their wellbeing, though detailed responses aren't expected",
+    "Dress neatly when visiting or attending social gatherings, as appearance is highly valued",
+    "Show respect when photographing people or religious sites by asking permission first",
+    "Use formal titles and polite language, as Surinamese people value courtesy and proper etiquette"
+  ],
+  "health": {
+    "overview": "Healthcare in Paramaribo is limited with only one public emergency room and facilities that don't meet international standards. The Academic Hospital is the largest with 465 beds, but specialized care may be unavailable and most services require upfront cash payment.",
+    "water": "Tap water is not potable in many areas. Bottled water is recommended for drinking, and be aware that ice and restaurant water may come from taps unless specifically requesting bottled options.",
+    "vaccinations": "Yellow fever vaccination required if arriving from countries with transmission risk. Routine vaccines recommended include MMR, hepatitis A/B, and typhoid. Malaria prophylaxis recommended for interior travel.",
+    "altitude": "Sea level location poses no altitude concerns. Tropical climate requires protection from heat, humidity, and mosquitoes. Chikungunya and dengue fever outbreaks occur regularly requiring insect protection."
+  },
+  "emergency": {
+    "general": "115",
+    "police": "115",
+    "ambulance": "113",
+    "fire": "110",
+    "touristPolice": "Tourism Police Unit available in Paramaribo",
+    "usEmbassy": "U.S. Embassy Paramaribo, Kristalstaat 165, Phone: (597) 556-700, Emergency After Hours: (597) 710-1112, Email: caparamar@state.gov"
+  },
+  "faq": [
+    {
+      "q": "Is Paramaribo safe for tourists?",
+      "a": "Paramaribo is moderately safe for tourists who take proper precautions. The historic center is generally secure during daylight, but petty crime is common in business districts and certain areas like Palm Garden should be avoided entirely."
+    },
+    {
+      "q": "Is Paramaribo safe at night?",
+      "a": "Night safety in Paramaribo requires significant caution. Most areas have poor lighting and minimal police presence, making walking inadvisable after dark. Use registered taxis or hotel transport and stay in well-lit, populated areas."
+    },
+    {
+      "q": "Is Paramaribo safe for solo female travelers?",
+      "a": "Solo female travelers can visit Paramaribo safely with proper precautions. Stay in the historic center, use registered transport, dress modestly, and avoid walking alone at night. Local men may engage in catcalling but serious harassment is uncommon."
+    },
+    {
+      "q": "What areas should I avoid in Paramaribo?",
+      "a": "Avoid Palm Garden (Palmentuin) completely, especially after dark, due to criminal activity and no police presence. Exercise extra caution in business districts, around major hotels, and any poorly lit areas at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Paramaribo?",
+      "a": "Public minibuses are not recommended due to poor maintenance and unsafe driving. Use registered taxis with white license plates, the Ride app, or hotel-arranged transport. There is no metro system in the city."
+    }
+  ],
+  "relatedCities": [
+    "georgetown-guyana",
+    "cayenne-french-guiana",
+    "ciudad-guayana-venezuela",
+    "manaus-brazil"
+  ],
+  "_city_id": "paramaribo-suriname",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paramaribo_city_collage.png/1280px-Paramaribo_city_collage.png"
+}

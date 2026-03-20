@@ -1,0 +1,166 @@
+{
+  "slug": "brisbane",
+  "name": "Brisbane",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.2,
+    "scamRisk": 7.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Brisbane is Australia's third-largest city and is generally very safe for tourists, with low violent crime rates and excellent infrastructure. While property crime and petty theft exist in tourist areas, serious safety concerns are minimal, making it an ideal destination for solo travelers and families alike.",
+  "quickVerdict": "Brisbane ranks among Australia's safest major cities with strong public safety infrastructure, reliable emergency services, and a welcoming culture. The US State Department maintains a Level 1 advisory for Australia, and violent crime against tourists is rare. Natural disasters like flooding present the main risks, but these are well-managed with comprehensive warning systems. Brisbane offers excellent healthcare, efficient public transport, and a laid-back atmosphere that makes it particularly appealing for first-time visitors to Australia.",
+  "neighborhoods": [
+    {
+      "name": "Brisbane CBD",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The central business district is very safe with heavy foot traffic, good lighting, and regular police patrols. Tourist attractions, shopping, and dining areas are well-maintained and secure."
+    },
+    {
+      "name": "South Bank",
+      "score": 8.2,
+      "class": "safe",
+      "description": "This cultural precinct along the Brisbane River is extremely popular with tourists and locals. Well-lit parklands, cultural venues, and frequent events create a vibrant, safe atmosphere."
+    },
+    {
+      "name": "New Farm",
+      "score": 7.8,
+      "class": "safe",
+      "description": "An upscale riverside suburb with trendy cafes and parks. Generally very safe with good community policing, though some minor property crime occurs around nightlife venues."
+    },
+    {
+      "name": "Fortitude Valley",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Brisbane's main nightlife district with numerous bars and clubs. Higher instances of alcohol-related incidents and petty crime, particularly late at night on weekends. Stay aware of surroundings."
+    },
+    {
+      "name": "West End",
+      "score": 7.2,
+      "class": "safe",
+      "description": "A bohemian neighborhood popular with young professionals and students. Generally safe during the day with good community feel, though some areas can be quieter at night."
+    },
+    {
+      "name": "Inala",
+      "score": 4.8,
+      "class": "danger",
+      "description": "A southwestern suburb with higher crime rates including property crime and occasional violence. Limited tourist attractions make visits unnecessary, but public transport through the area is generally safe during daylight hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Tampering",
+      "risk": "medium",
+      "description": "Some unlicensed taxi drivers may claim their meter is broken and quote inflated flat rates, especially from the airport or tourist areas.",
+      "howToAvoid": "Use official taxi companies like 13cabs or rideshare apps like Uber. Always insist the meter is turned on or check the fare estimate in advance."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Fraudsters occasionally install card skimming devices on ATMs in tourist areas to steal card details and PINs.",
+      "howToAvoid": "Use ATMs inside banks or hotels. Cover your PIN when entering it and check for any unusual attachments or loose parts on the machine."
+    },
+    {
+      "name": "Fake Police Checkpoint",
+      "risk": "very low",
+      "description": "Rare instances of people posing as police officers to demand ID or fines, typically targeting tourists unfamiliar with local law enforcement procedures.",
+      "howToAvoid": "Real Australian police carry proper identification. Ask to see their badge and warrant card. If in doubt, call 000 to verify."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Some tour operators or souvenir shops near major attractions may charge significantly inflated prices compared to standard rates.",
+      "howToAvoid": "Research average prices beforehand, shop around, and book tours through reputable operators or your accommodation. Check online reviews before purchasing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Brisbane is exceptionally safe for solo female travelers, ranking among Australia's most female-friendly cities. The culture is respectful and egalitarian, with strong safety infrastructure and low harassment rates. Public transport is safe and reliable, accommodation options are secure, and the local community is welcoming to independent female travelers.",
+    "tips": [
+      "Brisbane's public transport runs frequently and safely until late, but consider using rideshare apps after midnight on weekends",
+      "The river city has excellent lighting and CCTV coverage in tourist areas, making evening walks generally very safe",
+      "Solo dining is completely normal and welcomed - Australians are casual about dining arrangements and won't find it unusual",
+      "Hostels offer female-only dorms and most accommodations are in safe, central locations with 24-hour reception",
+      "Trust your instincts and don't hesitate to seek help - Australians are generally very helpful and approachable if you need assistance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Brisbane's nightlife is generally safe with well-lit streets, regular police patrols, and a mature drinking culture. The main entertainment districts have good security presence and CCTV coverage. Most safety issues are alcohol-related and occur in crowded nightlife areas, particularly Fortitude Valley on weekend nights.",
+    "tips": [
+      "Fortitude Valley is the main nightlife hub - stick to busy, well-lit streets and avoid quiet side alleys late at night",
+      "Public transport runs late on weekends but consider rideshare or taxis for door-to-door service after midnight",
+      "Brisbane has strict ID requirements for venues - carry proper identification and expect to be scanned at most bars and clubs",
+      "Drink responsibly and stay with friends - most incidents involve intoxicated individuals rather than targeted crime",
+      "The CBD and South Bank remain very safe at night with good lighting and security, making them ideal for evening strolls"
+    ]
+  },
+  "transport": {
+    "metro": "Brisbane has an extensive public transport network including buses, trains, ferries, and the new Brisbane Metro. The system is clean, safe, and well-maintained with CCTV coverage and regular security patrols. All modes are integrated under the TransLink system with affordable flat-rate fares of just 50 cents.",
+    "rideshare": "Uber, DiDi, Ola, and Shebah operate throughout Brisbane with good availability and competitive pricing. Services run 24/7 with generally professional drivers. Some services offer women-only options (Shebah) for added comfort and safety.",
+    "taxis": "Three main companies operate: Yellow Cabs, Black & White Cabs, and 13cabs. All are regulated, metered, and equipped with GPS tracking and EFTPOS facilities. Wheelchair accessible options available. Generally safe and reliable, though rideshare is often preferred by visitors.",
+    "tips": "Download the TransLink app for easy journey planning and real-time updates. Consider getting a go card for convenient payment across all transport modes, though contactless cards also work on most services."
+  },
+  "customs": [
+    "Tipping is not expected or required in Australia - service workers receive fair wages and won't be offended if you don't tip",
+    "Australians value punctuality and directness in communication - being late without notice is considered rude",
+    "The culture is egalitarian and informal - first names are used even in professional settings and there's a strong 'fair go' mentality",
+    "Personal space is valued - maintain appropriate distance in conversations and avoid excessive physical contact with strangers",
+    "Respect for Indigenous Australian culture is important - show appreciation for Aboriginal and Torres Strait Islander heritage and avoid inappropriate remarks"
+  ],
+  "health": {
+    "overview": "Brisbane has world-class healthcare with excellent public and private hospitals. The Royal Brisbane and Women's Hospital is a leading medical facility, and over 50 hospitals serve the greater Brisbane area. Emergency services are highly efficient and healthcare standards match those of other developed nations.",
+    "water": "Tap water is completely safe to drink throughout Brisbane and meets strict Australian quality standards. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Brisbane beyond routine immunizations. Standard travel vaccines like hepatitis A and B may be recommended depending on your home country and travel plans.",
+    "altitude": "Brisbane is at sea level with a subtropical climate. Summer temperatures can reach 30°C+ with high humidity. Stay hydrated, use sunscreen (UV levels are high), and be aware that seasonal bushfire smoke may affect air quality during summer months."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Brisbane: Level 8, 480 Queen Street, Brisbane QLD 4000. Tel: +61-7-3031-2200. For after-hours emergencies involving US citizens: +61-2-9373-9200"
+  },
+  "faq": [
+    {
+      "q": "Is Brisbane safe for tourists?",
+      "a": "Yes, Brisbane is very safe for tourists. It's one of Australia's safest major cities with low crime rates, excellent emergency services, and well-developed tourist infrastructure. Violent crime against visitors is extremely rare, and most safety concerns involve minor property crime or natural weather events."
+    },
+    {
+      "q": "Is Brisbane safe at night?",
+      "a": "Brisbane is generally very safe at night, especially in tourist areas like the CBD and South Bank which have good lighting and security. The main nightlife district, Fortitude Valley, requires more caution due to alcohol-related incidents, but serious crime remains uncommon. Use common sense and stick to busy, well-lit areas."
+    },
+    {
+      "q": "Is Brisbane safe for solo female travelers?",
+      "a": "Absolutely. Brisbane is exceptionally safe for solo female travelers with a respectful culture, reliable public transport, and low harassment rates. The city ranks among the world's most female-friendly destinations, and solo travel is common and accepted. Take normal precautions but feel confident exploring independently."
+    },
+    {
+      "q": "What areas should I avoid in Brisbane?",
+      "a": "Most of Brisbane is very safe, but exercise extra caution in outer suburbs like Inala, Woodridge, and parts of Logan which have higher crime rates. In tourist areas, be more alert in Fortitude Valley late at night on weekends. These areas aren't necessarily dangerous but require increased awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Brisbane?",
+      "a": "Yes, Brisbane's public transport is very safe and reliable. The TransLink network of buses, trains, and ferries has good security coverage, CCTV, and regular patrols. Services run frequently and are well-maintained. The system is considered one of Australia's safest with minimal incidents reported."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "melbourne",
+    "perth",
+    "auckland",
+    "adelaide"
+  ],
+  "_city_id": "brisbane-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg/1280px-Brisbane_CBD_seen_from_Kangaroo_Point%2C_2024%2C_01_%282%29.jpg"
+}

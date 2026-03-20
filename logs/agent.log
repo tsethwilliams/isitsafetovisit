@@ -2329,3 +2329,47 @@
 2026-03-19 23:14:01,401 [INFO] Merged into site data: La Paz
 2026-03-19 23:14:01,475 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-19 23:14:01,515 [INFO] Rebuilt sitemap with 486 URLs (356 cities, 124 countries, 6 static)
+2026-03-20 06:37:15,152 [INFO] Agent starting — mode: add
+2026-03-20 06:37:15,192 [INFO] Queue has 207 cities, adding 8
+2026-03-20 06:37:15,193 [INFO] Generating new city profile: Sucre, Bolivia
+2026-03-20 06:39:00,838 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:39:01,101 [INFO] Found Wikipedia image for Sucre
+2026-03-20 06:39:01,101 [INFO] Saved city data: sucre-bolivia
+2026-03-20 06:39:01,105 [INFO] Generating new city profile: Uyuni, Bolivia
+2026-03-20 06:40:28,203 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:40:28,534 [INFO] Found Wikipedia image for Uyuni
+2026-03-20 06:40:28,535 [INFO] Saved city data: uyuni-bolivia
+2026-03-20 06:40:28,538 [INFO] Generating new city profile: Asuncion, Paraguay
+2026-03-20 06:41:56,460 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:41:56,572 [INFO] Found Wikipedia image for Asuncion
+2026-03-20 06:41:56,573 [INFO] Saved city data: asuncion-paraguay
+2026-03-20 06:41:56,576 [INFO] Generating new city profile: Georgetown, Guyana
+2026-03-20 06:43:21,338 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:43:21,469 [INFO] Found Wikipedia image for Georgetown
+2026-03-20 06:43:21,469 [INFO] Saved city data: georgetown-guyana
+2026-03-20 06:43:21,473 [INFO] Generating new city profile: Paramaribo, Suriname
+2026-03-20 06:44:45,273 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:44:45,385 [INFO] Found Wikipedia image for Paramaribo
+2026-03-20 06:44:45,385 [INFO] Saved city data: paramaribo-suriname
+2026-03-20 06:44:45,389 [INFO] Generating new city profile: Brisbane, Australia
+2026-03-20 06:46:22,959 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:46:23,223 [INFO] Found Wikipedia image for Brisbane
+2026-03-20 06:46:23,224 [INFO] Saved city data: brisbane-australia
+2026-03-20 06:46:23,228 [INFO] Generating new city profile: Perth, Australia
+2026-03-20 06:47:49,588 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:47:49,735 [INFO] Found Wikipedia image for Perth
+2026-03-20 06:47:49,735 [INFO] Saved city data: perth-australia
+2026-03-20 06:47:49,739 [INFO] Generating new city profile: Gold Coast, Australia
+2026-03-20 06:49:06,103 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 06:49:06,321 [INFO] Found Wikipedia image for Gold Coast
+2026-03-20 06:49:06,322 [INFO] Saved city data: gold-coast-australia
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Sucre
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Uyuni
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Asunción
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Georgetown
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Paramaribo
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Brisbane
+2026-03-20 06:49:06,364 [INFO] Merged into site data: Perth
+2026-03-20 06:49:06,365 [INFO] Merged into site data: Gold Coast
+2026-03-20 06:49:06,440 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-20 06:49:06,480 [INFO] Rebuilt sitemap with 497 URLs (364 cities, 127 countries, 6 static)

@@ -1,0 +1,166 @@
+{
+  "slug": "perth",
+  "name": "Perth",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.0,
+    "scamRisk": 7.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Perth is considered one of Australia's safer cities, ranking among the top 10 safest Australian cities with a crime rate of 23%. The city offers a laid-back atmosphere, excellent healthcare, and reliable public transport, though some nightlife areas and specific suburbs require caution.",
+  "quickVerdict": "Perth is generally a safe destination for travelers, with Australia's Level 1 US State Department travel advisory recommending normal precautions. While the city faces moderate challenges with property crime and some drug-related issues, particularly in entertainment districts like Northbridge, it maintains strong community policing and low violent crime rates. The laid-back Australian culture, combined with good infrastructure and healthcare, makes Perth accessible for most travelers including solo females.",
+  "neighborhoods": [
+    {
+      "name": "Perth CBD",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The central business district is generally safe during business hours but requires caution at night. Well-lit areas near major hotels and shopping centers are safer, though some quiet streets should be avoided after dark."
+    },
+    {
+      "name": "Northbridge",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Perth's nightlife hub with numerous bars, clubs and restaurants. Higher crime rates due to alcohol-related incidents, especially on weekend nights. Cultural venues and restaurants are generally safe during the day."
+    },
+    {
+      "name": "Fremantle",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic port city with good tourist infrastructure. Generally safe for visitors with active street life, though some areas near the port can be quieter at night. Well-patrolled and tourist-friendly overall."
+    },
+    {
+      "name": "Subiaco",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale suburb known for shopping and dining. Low crime rates, well-maintained streets, and good lighting. Popular with families and considered one of Perth's safer areas for both day and night activities."
+    },
+    {
+      "name": "Cottesloe",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Beachside suburb popular with tourists. Excellent safety record, well-patrolled beaches, and good amenities. The beach area is supervised and safe for swimming with lifeguards present during peak times."
+    },
+    {
+      "name": "Armadale",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Outer suburb with higher crime rates including property crime and occasional violent incidents. Limited tourist attractions, and visitors should exercise extra caution, particularly at night and around transport hubs."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Event Tickets",
+      "risk": "medium",
+      "description": "Scammers sell counterfeit tickets for concerts, festivals, and sporting events through social media platforms, often advertising non-existent events or secret venues.",
+      "howToAvoid": "Only buy tickets through official vendors, authorized platforms, and established ticket agencies. Be suspicious of deals that seem too good to be true or events with vague location details."
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "medium",
+      "description": "Some taxi drivers may refuse to use meters, quote inflated flat rates, or take longer routes, especially targeting tourists from airports and popular attractions.",
+      "howToAvoid": "Always insist the meter is turned on, use established taxi ranks, verify your route on maps apps, and consider using reputable rideshare services like Uber or GoCatch."
+    },
+    {
+      "name": "Online Romance Scams",
+      "risk": "high",
+      "description": "Internet-based romance scams targeting tourists and locals through dating apps and social media, often leading to requests for money or expensive gifts.",
+      "howToAvoid": "Be cautious about online relationships, never send money to people you've never met in person, and be suspicious of urgent financial requests or elaborate stories requiring immediate assistance."
+    },
+    {
+      "name": "Fake Police Checkpoints",
+      "risk": "low",
+      "description": "Rare but reported incidents of fake police asking for documents and fines, particularly targeting tourists who may not be familiar with local law enforcement procedures.",
+      "howToAvoid": "Ask to see proper identification, suggest resolving issues at a police station if uncertain, and know that legitimate police rarely demand immediate cash payments for fines."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Perth is considered safe for solo female travelers, with Australia ranking 42nd globally for solo female travel safety. The city has low violent crime rates, and many women report feeling comfortable walking during the day and in well-populated areas at night. However, extra caution is advised in entertainment districts like Northbridge during late-night hours and in quieter suburbs.",
+    "tips": [
+      "Stay in well-lit, populated areas especially at night",
+      "Use rideshare services or taxis rather than walking alone late at night",
+      "Trust your instincts and avoid poorly lit streets or isolated areas",
+      "Consider women-only rideshare services like Shebah for added security",
+      "Keep accommodation details private and share your itinerary with someone you trust"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Perth's nightlife safety varies significantly by location. The city center and established entertainment districts like Northbridge have increased police presence during weekends, but alcohol-related incidents are more common. Coastal and upscale areas remain relatively safe, while some outer suburbs should be avoided entirely at night.",
+    "tips": [
+      "Stick to busy, well-lit areas with good foot traffic",
+      "Use taxis or rideshare services rather than walking alone",
+      "Avoid confrontations and stay away from overly intoxicated individuals",
+      "Keep valuables secure and be aware of your surroundings",
+      "Plan your route home before going out and let someone know your plans"
+    ]
+  },
+  "transport": {
+    "metro": "Transperth operates Perth's public transport including trains, buses, and ferries. The system is generally safe and reliable with CCTV coverage and regular security patrols. Use SmartRider cards for convenient payment across all services.",
+    "rideshare": "Uber, Ola, and local service GoCatch operate in Perth with generally good safety records. Female travelers can use women-only service Shebah. Always verify vehicle and driver details match your app before entering.",
+    "taxis": "Licensed taxis are regulated and generally safe. Use designated taxi ranks where possible, ensure the meter is turned on, and taxi vehicles should display proper identification and driver details on the dashboard.",
+    "tips": "Public transport is safest during daylight hours. For airport transfers, official services and rideshares are reliable. Always sit in the back seat of taxis and trust your instincts if something feels wrong."
+  },
+  "customs": [
+    "Australians are generally informal and use first names even in professional settings",
+    "Tipping is not mandatory but appreciated for exceptional service, typically 10% at restaurants",
+    "Respect personal space and queue etiquette - always wait your turn and keep left when walking",
+    "Aussies appreciate direct, honest communication but avoid controversial topics initially",
+    "When invited to someone's home, bring a small gift like wine or dessert"
+  ],
+  "health": {
+    "overview": "Australia has one of the world's best healthcare systems, with Perth offering excellent medical facilities and services. The country has high healthcare quality ratings and modern facilities readily available for tourists.",
+    "water": "Tap water in Perth is safe to drink and meets high quality standards. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for Perth. Standard travel vaccinations may be recommended depending on your home country. Consult your doctor before traveling.",
+    "altitude": "Perth is at sea level with a Mediterranean climate. The Australian sun can be harsh, so sunscreen, hats, and protective clothing are essential, especially during summer months (December-February)."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "131 444 (non-emergency)",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Perth: Level 4, 16 St Georges Terrace, Perth WA 6000. Phone: +61-8-6144-5100. For emergencies involving US citizens, call +61-8-6144-5100 during business hours or the after-hours duty officer via the main switchboard."
+  },
+  "faq": [
+    {
+      "q": "Is Perth safe for tourists?",
+      "a": "Yes, Perth is generally safe for tourists. It's considered one of Australia's safest cities with low violent crime rates, good infrastructure, and friendly locals. Standard safety precautions are sufficient for most visitors."
+    },
+    {
+      "q": "Is Perth safe at night?",
+      "a": "Perth's nighttime safety varies by area. Well-lit, populated areas like Fremantle and Subiaco are generally safe, while entertainment districts like Northbridge require extra caution due to alcohol-related incidents. Use taxis or rideshare for late-night transport."
+    },
+    {
+      "q": "Is Perth safe for solo female travelers?",
+      "a": "Perth is considered safe for solo female travelers during the day and in well-populated areas at night. Many women report feeling comfortable exploring alone, though extra caution is advised in nightlife areas and when using transport late at night."
+    },
+    {
+      "q": "What areas should I avoid in Perth?",
+      "a": "Exercise caution in Northbridge during late weekend nights due to alcohol-related incidents. Outer suburbs like Armadale have higher crime rates and fewer tourist amenities. Some CBD areas can be quiet at night, so stick to well-lit main streets."
+    },
+    {
+      "q": "Is it safe to use public transport in Perth?",
+      "a": "Yes, Perth's public transport system (Transperth) is generally safe and reliable with CCTV coverage and security patrols. Services are safest during daylight hours. Rideshare services like Uber and GoCatch are also safe alternatives."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "melbourne",
+    "brisbane",
+    "adelaide",
+    "darwin"
+  ],
+  "_city_id": "perth-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg/1280px-Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "georgetown",
+  "name": "Georgetown",
+  "country": "Guyana",
+  "countryCode": "GY",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 4.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 4.0,
+    "scamRisk": 5.5,
+    "womensSafety": 4.5,
+    "nightSafety": 3.5,
+    "transport": 5.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Georgetown requires heightened awareness due to elevated crime rates including robberies and petty theft, particularly in certain neighborhoods and after dark. While tourist areas and organized activities are generally safer, visitors should exercise standard urban precautions and avoid displaying valuables.",
+  "quickVerdict": "Georgetown presents a mixed safety profile for tourists. While thousands visit annually without incident, the capital does have elevated crime rates including armed robberies, petty theft, and pickpocketing, particularly in specific neighborhoods like Tiger Bay and Albouystown. Tourist areas, hotels, and organized tours maintain reasonable safety standards, but visitors should avoid walking alone at night, displaying expensive items, or venturing into high-crime areas. The interior regions are significantly safer than the capital when visited with reputable guides. With proper precautions and situational awareness, Georgetown can be visited safely.",
+  "neighborhoods": [
+    {
+      "name": "Promenade Gardens Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central tourist area with colonial architecture, restaurants, and hotels. Safe during daylight with good foot traffic and security presence."
+    },
+    {
+      "name": "Main Street Historic District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic downtown core with City Hall, St. George's Cathedral, and shops. Generally safe during business hours with regular police patrols."
+    },
+    {
+      "name": "Sheriff Street",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Hotel and restaurant district. Safer than many areas but requires caution at night. Well-lit with establishments providing some security."
+    },
+    {
+      "name": "Stabroek Market Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Bustling commercial zone with frequent pickpocketing and phone snatching. High activity during day but avoid after dark."
+    },
+    {
+      "name": "Tiger Bay",
+      "score": 2.5,
+      "class": "danger",
+      "description": "High-crime residential area with frequent robberies and violent incidents. Tourists should completely avoid this neighborhood."
+    },
+    {
+      "name": "Albouystown",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Impoverished area with elevated crime rates including armed robberies and assaults. No tourist attractions, best avoided entirely."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Skimming",
+      "risk": "high",
+      "description": "Scammers approach tourists at ATMs offering to help avoid local bank fees or assist with card problems, using hidden skimming devices to steal card information and PIN numbers.",
+      "howToAvoid": "Always cover your PIN entry, refuse help from strangers at ATMs, use ATMs inside banks when possible, and regularly monitor your accounts for unauthorized transactions."
+    },
+    {
+      "name": "Fake Camera Damage",
+      "risk": "medium",
+      "description": "A local asks you to take their photo, then purposely drops the camera upon return and demands payment for the broken expensive camera.",
+      "howToAvoid": "Politely decline requests to handle other peoples cameras or phones. If you must help, insist they take the photo themselves while you point them in the right direction."
+    },
+    {
+      "name": "Bar/Drink Setup",
+      "risk": "medium",
+      "description": "Friendly locals, often attractive women or men, invite tourists for drinks at partner establishments where bills are inflated 5-10 times normal prices with intimidating enforcement.",
+      "howToAvoid": "Only visit bars you research beforehand, ask for prices upfront, avoid going to venues suggested by people you just met, and maintain awareness of your drink consumption."
+    },
+    {
+      "name": "Shell Game Pickpocketing",
+      "risk": "medium",
+      "description": "Street performers running shell games with accomplices who pickpocket distracted spectators while they watch the game and guess ball locations.",
+      "howToAvoid": "Never participate in or watch street gambling games, keep valuables secured in front pockets or money belts, and avoid crowds gathered around street performers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Georgetown presents moderate challenges for solo female travelers, with street harassment being common though mostly verbal. Women can travel safely with proper precautions including avoiding night walks, using reputable accommodations, and joining organized tours for interior travel. Many solo female travelers visit successfully by staying alert and following safety guidelines.",
+    "tips": [
+      "Use reputable hotels and pre-booked transportation rather than flagging down taxis",
+      "Dress modestly to reduce unwanted attention, especially outside tourist areas",
+      "Join organized tours for interior travel rather than traveling independently",
+      "Avoid walking alone after dark anywhere in Georgetown, including the Seawall area",
+      "Keep a low profile and dont display expensive jewelry, cameras, or electronics"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Georgetown becomes significantly less safe after dark with increased risks of robberies, assaults, and other crimes. Even locals avoid certain areas at night, and visitors should exercise extreme caution. The Seawall area, popular during the day, becomes risky after sunset despite its appeal for evening strolls.",
+    "tips": [
+      "Never walk alone at night, even in tourist areas or along the Seawall",
+      "Use hotel taxis or pre-booked transportation rather than walking or hailing street taxis",
+      "Stay in well-lit areas near hotels and restaurants if you must be out after dark",
+      "Avoid the National Park, Bourda Market, and Seawall east of Vlissengen Road at night",
+      "Consider nightlife at secure venues like Duke Lodge or hotel bars rather than street-level establishments"
+    ]
+  },
+  "transport": {
+    "metro": "Georgetown has no metro system. Public transportation consists primarily of minibuses and taxis.",
+    "rideshare": "Limited rideshare options available including Book A Ride and Scoop-Ride apps, offering safer alternatives to street taxis with vetted drivers and GPS tracking.",
+    "taxis": "Yellow licensed taxis are the safest option. Always use hotel-arranged taxis or official yellow cabs, negotiate fares beforehand, and note license plates. Typical fares: $3-8 USD within central Georgetown, $25-35 USD to/from airport.",
+    "tips": "Avoid public minibuses when carrying valuables or traveling at night. Pre-book transport through hotels when possible. Taxis dont use meters so confirm prices upfront."
+  },
+  "customs": [
+    "Greet people politely with Good morning/afternoon and handshakes - social courtesy is highly valued",
+    "Dress modestly especially at religious sites - cover shoulders and knees, avoid flashy jewelry",
+    "Show respect for the multi-religious society - major festivals include Diwali, Easter, Eid, and Christmas"
+  ],
+  "health": {
+    "overview": "Georgetown has limited medical facilities with basic care available at private hospitals. Interior regions have very limited healthcare requiring medical evacuation for serious conditions.",
+    "water": "Tap water is not safe to drink. Always use bottled or filtered water, including for brushing teeth. This applies throughout the country, including in hotels.",
+    "vaccinations": "Recommended: Hepatitis A and B, typhoid, yellow fever, tetanus. Consider malaria prophylaxis if traveling beyond Georgetown. Consult travel clinic 4-6 weeks before departure.",
+    "altitude": "Georgetown is at sea level. Climate is tropical with high humidity year-round. Two rainy seasons: May-August and December-January. Dengue and Zika present mosquito-borne risks."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "913",
+    "fire": "912",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Georgetown: 100 Young & Duke Streets, Georgetown. Phone: +592-225-4900. Emergency After-Hours: +592-623-1992"
+  },
+  "faq": [
+    {
+      "q": "Is Georgetown safe for tourists?",
+      "a": "Georgetown is moderately safe for tourists who take proper precautions. While crime rates are elevated, most visitors experience no problems when staying in tourist areas, using reputable transportation, and avoiding high-crime neighborhoods like Tiger Bay and Albouystown."
+    },
+    {
+      "q": "Is Georgetown safe at night?",
+      "a": "Georgetown becomes significantly less safe after dark. Even tourist areas like the Seawall should be avoided at night. Use hotel taxis for evening transportation and stay near well-lit hotels and restaurants if you must be out after dark."
+    },
+    {
+      "q": "Is Georgetown safe for solo female travelers?",
+      "a": "Solo female travelers can visit Georgetown safely with proper precautions. Use reputable accommodations, avoid walking alone especially at night, dress modestly, and join organized tours for interior travel. Street harassment is common but mostly verbal."
+    },
+    {
+      "q": "What areas should I avoid in Georgetown?",
+      "a": "Completely avoid Tiger Bay, Albouystown, Sophia, South Georgetown, and Buxton. Exercise increased caution at Stabroek Market during the day and avoid the National Park, Bourda Market, and Seawall east of Vlissengen Road at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Georgetown?",
+      "a": "Yellow licensed taxis are the safest option. Avoid public minibuses when carrying valuables or at night. Use hotel-arranged transport or rideshare apps like Book A Ride when available. Always negotiate fares upfront as taxis dont use meters."
+    }
+  ],
+  "relatedCities": [
+    "bridgetown",
+    "port-of-spain",
+    "kingston",
+    "paramaribo"
+  ],
+  "_city_id": "georgetown-guyana",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Guyana_Parliament_Building.jpg"
+}

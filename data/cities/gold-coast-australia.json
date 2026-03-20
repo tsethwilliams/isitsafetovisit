@@ -1,0 +1,156 @@
+{
+  "slug": "gold-coast",
+  "name": "Gold Coast",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 8.2,
+    "nightSafety": 6.8,
+    "transport": 8.5,
+    "naturalHazards": 7.8
+  },
+  "summary": "Gold Coast is generally safe for tourists with effective public safety measures and well-patrolled beaches. Tourist areas like Surfers Paradise see higher petty crime and nightlife-related incidents, but violent crime remains relatively low.",
+  "quickVerdict": "Gold Coast offers a safe travel environment for tourists, ranking among Australia's moderately safe cities with a 25% crime rate. While tourist hotspots like Surfers Paradise experience higher petty theft and alcohol-related incidents, especially at night, the city maintains good infrastructure, reliable emergency services, and effective beach safety programs. Visitors should exercise standard precautions in entertainment districts after dark.",
+  "neighborhoods": [
+    {
+      "name": "Pacific Pines & Gaven",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Quiet residential suburbs with family-friendly environments, minimal crime, and good community safety programs"
+    },
+    {
+      "name": "Hope Island & Sanctuary Cove",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential areas with private security, low crime rates, and well-maintained infrastructure"
+    },
+    {
+      "name": "Currumbin & Palm Beach",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quieter southern beach suburbs with patrolled beaches, lower tourist density, and relaxed atmosphere"
+    },
+    {
+      "name": "Broadbeach Waters",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Residential area near Pacific Fair, generally safe but experiences some spillover from shopping center incidents"
+    },
+    {
+      "name": "Southport CBD",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Central business district with higher crime rates due to transit hub activity, commercial density, and nighttime foot traffic"
+    },
+    {
+      "name": "Surfers Paradise",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Tourist entertainment hub with highest crime rates, frequent alcohol-related incidents, theft, and public disorder, especially between 10 PM and 4 AM"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Currency Exchange",
+      "risk": "medium",
+      "description": "Unlicensed money changers offering poor exchange rates or counterfeit notes, particularly targeting tourists near beaches and shopping centers",
+      "howToAvoid": "Use official banks, ATMs, or licensed currency exchange services only. Research current exchange rates beforehand"
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "high",
+      "description": "Taxi drivers, tour operators, and vendors charging inflated prices or adding unexpected fees for tourists",
+      "howToAvoid": "Ask for metered taxis, research standard prices, get quotes in writing, and use ride-sharing apps like Uber"
+    },
+    {
+      "name": "Fake Precious Items",
+      "risk": "medium",
+      "description": "Street vendors approaching tourists offering assistance then trying to sell fake jewelry, gems, or souvenirs at inflated prices",
+      "howToAvoid": "Politely decline unsolicited offers, don't accept 'free' items, and buy souvenirs from established shops only"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Gold Coast is considered safe for solo female travelers, with Australia ranking highly on women's safety indexes. The city has good infrastructure, reliable public transport, and helpful locals. However, extra caution is recommended in nightlife areas like Surfers Paradise after dark.",
+    "tips": [
+      "Stay in well-lit, populated areas, especially in entertainment districts at night",
+      "Use ride-sharing apps or licensed taxis rather than walking alone after 10 PM",
+      "Book accommodations in safer suburbs like Broadbeach or Main Beach rather than central Surfers Paradise",
+      "Join organized tours or activities to meet other travelers and locals safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety varies significantly by location on the Gold Coast. While beach areas have security patrols and most residential suburbs are safe, the main entertainment districts see increased alcohol-related incidents, theft, and public disorder after 9 PM, particularly on weekends.",
+    "tips": [
+      "Avoid walking alone in Surfers Paradise between 10 PM and 4 AM, especially on weekends",
+      "Stay in groups when visiting nightlife areas and watch your drinks",
+      "Use licensed transport rather than walking late at night, even short distances",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "G:link light rail system connects major areas from Helensvale to Broadbeach South, operating frequently and considered very safe with good CCTV coverage and regular security patrols",
+    "rideshare": "Uber and local ride-sharing apps are widely available, safe, and often preferred over taxis. Vehicles must be registered and drivers licensed",
+    "taxis": "Licensed taxi services are generally safe but ensure meters are used. Book through official companies like Gold Coast Cabs (131008) rather than accepting street approaches",
+    "tips": "Public transport is excellent value at 50 cents per journey. The G:link tram is the safest and most convenient way to travel between major tourist areas."
+  },
+  "customs": [
+    "Australians value punctuality - arrive on time for appointments and social gatherings",
+    "Personal space is important - maintain appropriate distance in conversations and avoid standing too close",
+    "Tipping is not mandatory but 10% is appreciated for exceptional restaurant service"
+  ],
+  "health": {
+    "overview": "Gold Coast has excellent healthcare infrastructure with Gold Coast University Hospital and multiple private facilities. Australia's healthcare system ranks among the world's best.",
+    "water": "Tap water is safe to drink throughout the Gold Coast and meets high quality standards",
+    "vaccinations": "No special vaccinations required for most travelers. Routine vaccines should be up to date",
+    "altitude": "Sea level location with subtropical climate. Sun protection essential due to high UV levels year-round"
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Melbourne +61 3 9526 5900, or US Embassy Canberra +61 2 6214 5600"
+  },
+  "faq": [
+    {
+      "q": "Is Gold Coast safe for tourists?",
+      "a": "Yes, Gold Coast is generally safe for tourists with a crime rate of 25%, ranking 6th among Australia's safest cities. Tourist areas have increased security and patrolled beaches, though petty crime can occur in busy areas like Surfers Paradise."
+    },
+    {
+      "q": "Is Gold Coast safe at night?",
+      "a": "Nighttime safety varies by area. Beach areas and residential suburbs are generally safe, but entertainment districts like Surfers Paradise see increased alcohol-related incidents after 10 PM. Use transport and stay in groups when visiting nightlife areas."
+    },
+    {
+      "q": "Is Gold Coast safe for solo female travelers?",
+      "a": "Yes, Australia ranks highly for women's safety and Gold Coast maintains this standard. Solo female travelers should exercise normal precautions, especially in nightlife areas, and consider staying in quieter suburbs like Broadbeach rather than central Surfers Paradise."
+    },
+    {
+      "q": "What areas should I avoid in Gold Coast?",
+      "a": "Avoid Surfers Paradise late at night (10 PM-4 AM), particularly on weekends when alcohol-related incidents peak. Stapylton has the highest crime rate, while some parts of Southport CBD can be less safe after dark due to transit hub activity."
+    },
+    {
+      "q": "Is it safe to use public transport in Gold Coast?",
+      "a": "Yes, public transport is very safe and affordable at 50 cents per journey. The G:link light rail system is particularly secure with CCTV and regular patrols. Buses and trains are well-maintained and reliable throughout the day and evening."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "brisbane",
+    "melbourne",
+    "cairns",
+    "sunshine-coast"
+  ],
+  "_city_id": "gold-coast-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gold_Coast_skyline_%28Unsplash%29.jpg/1280px-Gold_Coast_skyline_%28Unsplash%29.jpg"
+}
