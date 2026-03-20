@@ -2465,3 +2465,47 @@
 2026-03-20 18:06:57,903 [INFO] Merged into site data: Yokohama
 2026-03-20 18:06:57,972 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-20 18:06:58,011 [INFO] Rebuilt sitemap with 518 URLs (380 cities, 132 countries, 6 static)
+2026-03-20 23:00:48,185 [INFO] Agent starting — mode: add
+2026-03-20 23:00:48,226 [INFO] Queue has 183 cities, adding 8
+2026-03-20 23:00:48,226 [INFO] Generating new city profile: Incheon, South Korea
+2026-03-20 23:02:17,791 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:02:18,220 [INFO] Found Wikipedia image for Incheon
+2026-03-20 23:02:18,221 [INFO] Saved city data: incheon-south-korea
+2026-03-20 23:02:18,225 [INFO] Generating new city profile: Gyeongju, South Korea
+2026-03-20 23:04:10,926 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:04:11,296 [INFO] Found Wikipedia image for Gyeongju
+2026-03-20 23:04:11,297 [INFO] Saved city data: gyeongju-south-korea
+2026-03-20 23:04:11,300 [INFO] Generating new city profile: Shenzhen, China
+2026-03-20 23:06:21,877 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:06:22,099 [INFO] Found Wikipedia image for Shenzhen
+2026-03-20 23:06:22,099 [INFO] Saved city data: shenzhen-china
+2026-03-20 23:06:22,103 [INFO] Generating new city profile: Guangzhou, China
+2026-03-20 23:08:27,638 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:08:28,007 [INFO] Found Wikipedia image for Guangzhou
+2026-03-20 23:08:28,007 [INFO] Saved city data: guangzhou-china
+2026-03-20 23:08:28,011 [INFO] Generating new city profile: Hangzhou, China
+2026-03-20 23:10:46,629 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:10:47,025 [INFO] Found Wikipedia image for Hangzhou
+2026-03-20 23:10:47,026 [INFO] Saved city data: hangzhou-china
+2026-03-20 23:10:47,029 [INFO] Generating new city profile: Kunming, China
+2026-03-20 23:12:23,353 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:12:23,727 [INFO] Found Wikipedia image for Kunming
+2026-03-20 23:12:23,727 [INFO] Saved city data: kunming-china
+2026-03-20 23:12:23,731 [INFO] Generating new city profile: Lijiang, China
+2026-03-20 23:14:21,872 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:14:22,266 [INFO] Found Wikipedia image for Lijiang
+2026-03-20 23:14:22,267 [INFO] Saved city data: lijiang-china
+2026-03-20 23:14:22,271 [INFO] Generating new city profile: Lhasa, China
+2026-03-20 23:16:47,893 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 23:16:48,499 [INFO] Found Wikipedia image for Lhasa
+2026-03-20 23:16:48,500 [INFO] Saved city data: lhasa-china
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Incheon
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Gyeongju
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Shenzhen
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Guangzhou
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Hangzhou
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Kunming
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Lijiang
+2026-03-20 23:16:48,545 [INFO] Merged into site data: Lhasa
+2026-03-20 23:16:48,622 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-20 23:16:48,667 [INFO] Rebuilt sitemap with 526 URLs (388 cities, 132 countries, 6 static)

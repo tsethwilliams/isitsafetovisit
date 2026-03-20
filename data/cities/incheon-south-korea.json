@@ -1,0 +1,166 @@
+{
+  "slug": "incheon",
+  "name": "Incheon",
+  "country": "South Korea",
+  "countryCode": "KR",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.3,
+    "transport": 8.1,
+    "naturalHazards": 7.5
+  },
+  "summary": "Incheon is generally a safe city for tourists with low crime rates typical of South Korea. The main risks involve tourist scams, particularly airport taxi overcharging, and occasional pickpocketing in busy areas. The city benefits from South Korea's overall excellent safety record and robust infrastructure.",
+  "quickVerdict": "Incheon is considered one of the safer cities in South Korea, with the US State Department maintaining a Level 1 travel advisory for the country. While petty crime exists and airport taxi scams target tourists, violent crime is rare and the city maintains strong safety infrastructure including widespread CCTV coverage and responsive emergency services. Solo female travelers consistently rate Incheon highly for safety.",
+  "neighborhoods": [
+    {
+      "name": "Songdo International Business District",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Ultra-modern planned district with excellent security, well-lit streets, and minimal crime. Popular for business travelers and tourists visiting Central Park and shopping centers."
+    },
+    {
+      "name": "Bupyeong",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Busy commercial and entertainment district. Generally safe but can get crowded, especially around nightlife areas. Exercise normal precautions in bar districts after midnight."
+    },
+    {
+      "name": "Chinatown/Jung-gu",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic tourist area near Incheon Station. Well-patrolled and tourist-friendly with good lighting. Popular restaurants and cultural sites make it busy but safe during day and evening."
+    },
+    {
+      "name": "Incheon Airport Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "High tourist traffic makes this a hotspot for taxi scams and overcharging. Airport itself is very secure, but be cautious with unofficial transportation offers and verify taxi meters."
+    },
+    {
+      "name": "Wolmido Island",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular recreational area with amusement parks and seafood restaurants. Well-maintained with good tourist infrastructure. Safe for families and solo travelers during operating hours."
+    },
+    {
+      "name": "Namdong-gu",
+      "score": 7.4,
+      "class": "safe",
+      "description": "Residential and commercial area with Incheon Munhak Stadium. Generally safe but less tourist infrastructure than central areas. Standard urban precautions recommended after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Airport Taxi Overcharging",
+      "risk": "high",
+      "description": "Taxi drivers at Incheon Airport often quote inflated flat rates or take longer routes to increase fares, particularly targeting foreign tourists arriving at the airport.",
+      "howToAvoid": "Use official taxi stands, ensure the meter is running, download Naver Maps to track your route, or book pre-arranged airport transfers. International taxis with fixed rates are more expensive but transparent."
+    },
+    {
+      "name": "Shopping Price Manipulation",
+      "risk": "medium",
+      "description": "Some shops, particularly cosmetics stores targeting tourists, engage in overcharging, missing price tags, or aggressive sales tactics with reluctance to give refunds.",
+      "howToAvoid": "Check prices online beforehand, ask for itemized receipts, shop at established department stores, and be firm about refund policies. Learn basic Korean phrases for shopping."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "medium",
+      "description": "Online accommodation listings that don't match reality, fake addresses, or guest houses advertised as hotels. Some scammers target travelers needing last-minute lodging near the airport.",
+      "howToAvoid": "Book through reputable platforms, read recent reviews carefully, verify addresses on Google Street View, and contact accommodations directly to confirm bookings."
+    },
+    {
+      "name": "Religious Recruitment Schemes",
+      "risk": "low",
+      "description": "Friendly strangers approach tourists with invitations to dinner or cultural events that are actually fronts for cult recruitment activities.",
+      "howToAvoid": "Be polite but decline unsolicited invitations from strangers. Legitimate cultural exchanges are usually organized through official channels or established tour companies."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Incheon is highly rated for solo female travel safety, ranking as the 17th safest place in South Korea for women travelers with a 4.2/5 safety rating. The city benefits from South Korea's excellent women's safety record, extensive CCTV coverage, and cultural respect for women. Public transport includes women-only subway cars during peak hours, and emergency buttons are available in public restrooms.",
+    "tips": [
+      "Use women-only subway cars during rush hours when available",
+      "Be aware of potential hidden camera issues in accommodations - inspect rooms carefully",
+      "Take advantage of public restroom emergency buttons if you feel unsafe",
+      "Download KakaoMap and Papago translation app for navigation and communication",
+      "Avoid excessive drinking in party districts like Hongdae or Itaewon where harassment can occur"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Incheon is generally safe at night with well-lit main streets and active nightlife areas. The city has extensive CCTV coverage and regular police presence. However, standard urban precautions should be taken, especially in entertainment districts and around the airport area where scams are more common.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty side streets late at night",
+      "Use official taxis or ride-sharing apps rather than street taxis after midnight",
+      "Be extra cautious in entertainment districts where alcohol-related incidents can occur",
+      "Keep accommodation address written in Korean for taxi drivers",
+      "Stay alert around Incheon Airport area where tourist-targeting scams peak during night hours"
+    ]
+  },
+  "transport": {
+    "metro": "Incheon's subway system connects to Seoul's extensive network and is very safe and efficient. Stations have English signage, CCTV coverage, and women-only cars during peak hours. The AREX Airport Express provides direct connection to Seoul Station in 43 minutes.",
+    "rideshare": "KakaoTaxi is widely available and generally safe, with GPS tracking and driver verification. The app has English language support and eliminates negotiation over fares. Uber also operates in the area.",
+    "taxis": "Regular taxis are generally safe but airport taxis frequently overcharge tourists. Use official taxi stands, ensure meters are running, and be wary of flat-rate offers. International taxis cost 20% more but provide English-speaking drivers and transparent pricing.",
+    "tips": "Download T-Money card app for seamless public transport payment. The AREX from Incheon Airport is much cheaper and more reliable than taxis for reaching Seoul."
+  },
+  "customs": [
+    "Bow slightly when greeting and saying goodbye - deeper bows show more respect",
+    "Remove shoes when entering homes, temples, or traditional guesthouses",
+    "Use both hands when giving or receiving items, especially with elders or business cards",
+    "Don't leave chopsticks standing upright in rice bowls as it resembles funeral rituals",
+    "Respect for age hierarchy - offer subway seats to elderly and let them board first"
+  ],
+  "health": {
+    "overview": "Incheon has excellent healthcare quality as part of South Korea's world-class medical system, ranking 2nd globally for healthcare efficiency. The city has modern hospitals with English-speaking staff, though some rural areas of Incheon province have limited medical facilities.",
+    "water": "Tap water is safe to drink throughout Incheon and meets international standards. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. South Korea has high vaccination rates and excellent disease prevention systems.",
+    "altitude": "Incheon is at sea level. The climate is temperate with hot humid summers and cold winters. Air pollution from China can occasionally affect air quality, particularly fine dust particles."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "119",
+    "fire": "119",
+    "touristPolice": "1330",
+    "usEmbassy": "US Embassy Seoul: +82-2-397-4114. Located in Seoul but covers Incheon area. 24/7 emergency services available for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Incheon safe for tourists?",
+      "a": "Yes, Incheon is very safe for tourists. It has low crime rates typical of South Korea, extensive CCTV coverage, and good police presence. The main concerns are airport taxi scams and occasional pickpocketing in busy areas."
+    },
+    {
+      "q": "Is Incheon safe at night?",
+      "a": "Incheon is generally safe at night with well-lit streets and active areas. However, take normal urban precautions, especially in entertainment districts and around the airport where scams are more common after dark."
+    },
+    {
+      "q": "Is Incheon safe for solo female travelers?",
+      "a": "Absolutely. Incheon ranks as one of the safest places in South Korea for solo female travelers, with a 4.2/5 safety rating. The city has women-only subway cars, emergency buttons in restrooms, and a culture that respects women's safety."
+    },
+    {
+      "q": "What areas should I avoid in Incheon?",
+      "a": "No areas are particularly dangerous, but be extra cautious around Incheon Airport with taxi services, and exercise normal nighttime precautions in entertainment districts in Bupyeong. Always use official taxi stands and verified transportation."
+    },
+    {
+      "q": "Is it safe to use public transport in Incheon?",
+      "a": "Yes, public transport in Incheon is very safe and efficient. The subway system has CCTV, English signage, and women-only cars during peak hours. The AREX airport connection is reliable and much safer than airport taxis for reaching Seoul."
+    }
+  ],
+  "relatedCities": [
+    "seoul",
+    "busan",
+    "daegu",
+    "gwangju",
+    "daejeon"
+  ],
+  "_city_id": "incheon-south-korea",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Songdo_Central_Park_and_Posco_Tower_Songdo.jpg/1280px-Songdo_Central_Park_and_Posco_Tower_Songdo.jpg"
+}

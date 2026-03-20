@@ -1,0 +1,160 @@
+{
+  "slug": "kunming",
+  "name": "Kunming",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 7.8,
+    "naturalHazards": 7.0
+  },
+  "summary": "Kunming, known as the 'City of Eternal Spring,' is generally considered a safe destination for tourists. The city benefits from low violent crime rates and an extensive surveillance system, though visitors should remain alert for petty crimes and tourist scams.",
+  "quickVerdict": "Kunming is widely regarded as one of China's safer cities for tourists. While violent crime is rare and the extensive CCTV network provides security, travelers should be aware of common scams targeting tourists and practice standard precautions against pickpocketing in crowded areas. The city's excellent public transportation and generally respectful treatment of foreign visitors make it a welcoming destination for solo travelers and families alike.",
+  "neighborhoods": [
+    {
+      "name": "Cuihu (Green Lake) Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Kunming's tourist district with well-lit streets, plenty of police presence, and numerous hotels. Very safe for walking during day and night."
+    },
+    {
+      "name": "Dongfeng Square",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Central shopping and business district with excellent security, modern amenities, and good metro connections. Popular with both locals and tourists."
+    },
+    {
+      "name": "Kunming Railway Station Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Busy transport hub with higher instances of pickpocketing and scam attempts. Exercise extra caution with belongings and be wary of unofficial taxi drivers."
+    },
+    {
+      "name": "Nanping Pedestrian Street",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Lively shopping and dining area that's generally safe but can get crowded. Watch for pickpockets in busy periods and tourist-targeted scams."
+    },
+    {
+      "name": "Xishan (West Mountain) District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Scenic area popular with tourists. Generally safe during daylight hours but some remote trails may be less secure after dark."
+    },
+    {
+      "name": "University Town",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern district with young population, good lighting, and regular police patrols. Very safe for tourists and popular with international visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "high",
+      "description": "Individuals approaching tourists near stations and attractions offering cheap tours to Stone Forest or other sites, often leading to overpriced shopping stops.",
+      "howToAvoid": "Only book tours through reputable hotels or verified tour companies. Ignore street approaches and verify guide credentials."
+    },
+    {
+      "name": "Tea House Scam",
+      "risk": "medium",
+      "description": "Friendly English students invite tourists for tea ceremony, leading to an expensive bill at the end. Common near Green Lake Park and major attractions.",
+      "howToAvoid": "Politely decline invitations from strangers. If you want tea experiences, choose established venues and ask for prices upfront."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Drivers refusing to use meters or quoting inflated prices, especially at airport and railway stations.",
+      "howToAvoid": "Insist on meter usage, use official taxi lines, or prefer ride-sharing apps like Didi. Have destination written in Chinese."
+    },
+    {
+      "name": "Counterfeit Money Exchange",
+      "risk": "low",
+      "description": "Street money changers may give counterfeit bills or use sleight of hand to switch real notes with fakes.",
+      "howToAvoid": "Only exchange money at banks, ATMs, or official exchange counters. Check bills carefully and avoid street exchanges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Kunming is considered very safe for solo female travelers, with many women reporting feeling secure walking alone even at night. Chinese culture generally respects women travelers, and instances of harassment are rare. The extensive CCTV system and low crime rates contribute to overall safety.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central areas like Green Lake",
+      "Use official taxis or ride-sharing apps rather than accepting rides from strangers",
+      "Trust your instincts and avoid isolated areas after dark, particularly on mountain trails"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kunming's nightlife areas are generally safe with good street lighting and police presence. The city maintains active evening hours with many restaurants and shops open late. However, standard precautions should be taken, especially in less crowded areas.",
+    "tips": [
+      "Stick to well-lit main streets and avoid shortcuts through dark alleys",
+      "Use legitimate taxis or ride-sharing apps for late-night transport",
+      "Be cautious with alcohol consumption and never leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "Kunming Metro is modern, clean, and very safe with 6 operational lines. English signage is available, CCTV monitoring is extensive, and pickpocketing incidents are rare though possible during rush hours.",
+    "rideshare": "Didi ride-sharing is widely available and safe. Always verify driver details and vehicle information before getting in. Most drivers don't speak English, so have your destination written in Chinese.",
+    "taxis": "Official taxis are generally safe and reliable. Insist on meter usage, avoid black taxis at stations, and ensure the driver removes your luggage before paying. Night rates are about 20% higher.",
+    "tips": "Metro is the safest and most efficient option for tourists. Always use official transport services and avoid unlicensed vehicles, especially at transport hubs."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some traditional establishments",
+    "Avoid pointing with chopsticks and never stick them upright in rice bowls",
+    "Greet elders first and show respect to authority figures with slight bows or formal address"
+  ],
+  "health": {
+    "overview": "Kunming has good healthcare facilities with several international-standard hospitals. The city's mild climate reduces many health risks, though altitude sickness is generally not a concern at 1,892m elevation.",
+    "water": "Tap water is not safe to drink. Use bottled water or boil tap water. Most hotels provide complimentary bottled water and water dispensers are common.",
+    "vaccinations": "No special vaccinations required beyond routine ones. Consider hepatitis A/B for longer stays. Japanese encephalitis vaccination may be recommended for rural area visits.",
+    "altitude": "At 1,892m elevation, altitude effects are minimal for most visitors. The year-round mild climate earned Kunming its 'City of Eternal Spring' nickname."
+  },
+  "emergency": {
+    "general": "110",
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119",
+    "touristPolice": "Available at major attractions and transport hubs",
+    "usEmbassy": "US Consulate General Guangzhou has jurisdiction over Yunnan Province. Address: No. 43 Huajiu Road, Guangzhou. Tel: 020-3814-5775. 24/7 Emergency: +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Kunming safe for tourists?",
+      "a": "Yes, Kunming is considered one of China's safer cities with low violent crime rates, extensive CCTV surveillance, and generally respectful treatment of foreign visitors."
+    },
+    {
+      "q": "Is Kunming safe at night?",
+      "a": "Generally yes, especially in central areas with good lighting and police presence. However, avoid isolated areas and mountain trails after dark, and use official transportation."
+    },
+    {
+      "q": "Is Kunming safe for solo female travelers?",
+      "a": "Yes, many solo female travelers report feeling very safe in Kunming. Chinese culture is respectful toward women, and harassment is rare. Use standard precautions and trust your instincts."
+    },
+    {
+      "q": "What areas should I avoid in Kunming?",
+      "a": "Exercise extra caution around railway station areas where scams and pickpocketing are more common. Avoid unlicensed taxis and be wary of overly friendly strangers offering tours or tea ceremonies."
+    },
+    {
+      "q": "Is it safe to use public transport in Kunming?",
+      "a": "Yes, the metro system is modern, clean, and very safe. Official taxis are also reliable when using the meter. Avoid black taxis and always verify ride-sharing driver details."
+    }
+  ],
+  "relatedCities": [
+    "beijing",
+    "shanghai",
+    "chengdu",
+    "xian",
+    "hangzhou"
+  ],
+  "_city_id": "kunming-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg/1280px-%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg"
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "shenzhen",
+  "name": "Shenzhen",
+  "country": "China",
+  "countryCode": "CN",
+  "region": "East Asia",
+  "regionSlug": "east-asia",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Shenzhen is one of China's safest major cities with extremely low violent crime rates and excellent public transport safety. The main concerns are petty theft in crowded areas and tourist scams, particularly counterfeit money schemes.",
+  "quickVerdict": "Shenzhen offers a high level of safety for tourists with comprehensive security infrastructure including widespread CCTV coverage and visible police presence. The city's modern transport system is efficient and secure, while violent crime against foreigners is virtually non-existent. Solo female travelers report feeling very safe even at night. The primary risks involve petty crimes like pickpocketing and tourist scams, particularly in border areas and major shopping districts. Natural hazards include typhoons and flooding during monsoon season, but the city has robust flood defense systems.",
+  "neighborhoods": [
+    {
+      "name": "Futian District",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The central business district with excellent security, modern infrastructure, and heavy police presence. Safe for walking at all hours with well-lit streets and numerous shopping centers."
+    },
+    {
+      "name": "Nanshan District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "High-tech hub with universities and modern residential areas. Very safe with good lighting and regular security patrols. Popular with expats and international visitors."
+    },
+    {
+      "name": "Luohu District",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Border district with Hong Kong featuring major shopping areas and train stations. Higher pickpocket risk due to crowds and tourist traffic. Exercise extra caution around Luohu Commercial City."
+    },
+    {
+      "name": "Shekou",
+      "score": 7.5,
+      "class": "safe",
+      "description": "International community area with ferry terminals. Generally safe but watch for beggars and minor scams around transport hubs. Good nightlife safety with visible security."
+    },
+    {
+      "name": "Huaqiangbei",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Electronics market district with heavy foot traffic. Higher risk of counterfeit goods, fake money scams, and pickpocketing. Bargain carefully and verify product authenticity."
+    },
+    {
+      "name": "Dapeng",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Coastal area with beaches and nature reserves. Generally very safe with lower crime rates. Main risks are natural hazards like strong currents and weather conditions during typhoon season."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Counterfeit Money Exchange",
+      "risk": "high",
+      "description": "Taxi drivers or vendors switch real bills for fake ones, claiming your money is counterfeit and demanding replacement payment. Also occurs at some unlicensed money exchange locations.",
+      "howToAvoid": "Only exchange money at banks and official ATMs. Learn to identify real Chinese currency features. Keep bills visible during transactions and immediately check any change received."
+    },
+    {
+      "name": "Fake Goods Markets",
+      "risk": "medium",
+      "description": "Luohu Commercial City and other markets sell counterfeit branded items at seemingly discounted prices, but quality is poor and bringing large quantities through customs is illegal.",
+      "howToAvoid": "Shop at legitimate retailers for authentic goods. If buying souvenirs, understand they're replicas. Don't attempt to bring large quantities of fake goods through airport security."
+    },
+    {
+      "name": "Overcharging Scams",
+      "risk": "medium",
+      "description": "Some taxi drivers may take longer routes, refuse to use meters, or claim foreigners must pay higher rates. Unlicensed drivers at airports offer rides at inflated prices.",
+      "howToAvoid": "Always use metered official taxis or ride-hailing apps like Didi. Have destination written in Chinese characters. Use public transport when possible for transparent pricing."
+    },
+    {
+      "name": "Tea House Tourist Trap",
+      "risk": "low",
+      "description": "Friendly locals claiming to be students or tourists invite foreigners to tea houses or cultural experiences, then present extremely high bills for basic items.",
+      "howToAvoid": "Be polite but decline invitations from strangers. If interested in cultural experiences, book through official tourist channels or your hotel concierge."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Shenzhen is exceptionally safe for solo female travelers with very low harassment rates and strong cultural respect for women. The city's extensive CCTV network and visible security presence create a secure environment even for late-night activities. Most women report feeling safer in Shenzhen than in many Western cities.",
+    "tips": [
+      "Stay in well-lit areas at night, particularly in entertainment districts",
+      "Use official transport options rather than accepting rides from strangers",
+      "Keep emergency contacts saved in Chinese characters on your phone",
+      "Join WeChat groups for female expats to get local safety tips and recommendations",
+      "Trust your instincts - Chinese culture generally discourages bothering foreigners"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Shenzhen's nightlife areas are generally very safe with good lighting, security presence, and active police patrols. The city's low violent crime rate extends to nighttime hours, though basic precautions should still be observed in entertainment districts.",
+    "tips": [
+      "Stick to main streets and well-populated areas when walking at night",
+      "Use Didi or official taxis rather than walking long distances alone",
+      "Keep valuables secure in crowded bars and nightlife venues",
+      "Avoid excessive drinking and always keep track of your belongings",
+      "Save hotel address in Chinese characters for easy taxi navigation"
+    ]
+  },
+  "transport": {
+    "metro": "Shenzhen Metro is extremely safe and efficient with 16 lines covering most districts. Security checks are required at all stations, CCTV monitoring is comprehensive, and announcements are bilingual. Operates 6:30 AM to 11:30 PM with excellent safety records.",
+    "rideshare": "Didi (Chinese Uber equivalent) is widely used and safe with driver verification and GPS tracking. English interface available. Official ride-sharing platforms are regulated and monitored by authorities. Always verify license plates match the app.",
+    "taxis": "Official taxis are safe and regulated with meters, GPS tracking, and complaint systems. Look for green, blue, or red colored licensed taxis. Avoid unlicensed private cars, especially at airports. Payment via WeChat, Alipay, or cash accepted.",
+    "tips": "Public transport is the safest and most economical option. Keep small bills for exact change on buses. Download translation apps for communication with drivers. Metro is fastest for most destinations within the city."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some traditional establishments",
+    "Accept business cards and gifts with both hands as a sign of respect",
+    "Address people by their surname plus title (Mr./Ms.) unless invited to use first names",
+    "Avoid pointing with a single finger; use an open hand gesture instead",
+    "Don't tip in restaurants or taxis as it's not customary and may cause confusion",
+    "Respect photography restrictions at government buildings and military areas",
+    "Be patient with different concepts of personal space and queuing",
+    "Learn basic Mandarin greetings which are greatly appreciated by locals"
+  ],
+  "health": {
+    "overview": "Shenzhen has excellent healthcare infrastructure with modern hospitals, international medical facilities, and advanced AI-assisted medical systems. The city is a leader in healthcare technology innovation with 450 AI medical products deployed across healthcare institutions.",
+    "water": "Tap water is not recommended for drinking. Use bottled water, boiled water, or filtered water. Most hotels provide complimentary bottled water. Restaurants typically serve boiled water or tea.",
+    "vaccinations": "No special vaccinations required for Shenzhen beyond routine immunizations. Consult your doctor about hepatitis A/B, typhoid, and Japanese encephalitis if traveling during mosquito season. COVID-19 vaccination may be required for entry.",
+    "altitude": "Shenzhen is at sea level with a subtropical climate. Hot, humid summers with frequent thunderstorms. Typhoon season runs June-November. Pack lightweight, breathable clothing and rain gear."
+  },
+  "emergency": {
+    "general": "110",
+    "police": "110",
+    "ambulance": "120",
+    "fire": "119",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Guangzhou has jurisdiction over Guangdong Province. Address: No. 43 Huajiu Road, Zhujiang New Town, Tianhe District, Guangzhou. Phone: 020-3814-5775. Emergency assistance for U.S. citizens: +1-202-501-4444 (from abroad), +1-888-407-4747 (from U.S.)"
+  },
+  "faq": [
+    {
+      "q": "Is Shenzhen safe for tourists?",
+      "a": "Yes, Shenzhen is one of China's safest cities for tourists with very low violent crime rates, extensive security infrastructure, and helpful local authorities. The main concerns are petty theft and tourist scams, which are easily avoided with basic precautions."
+    },
+    {
+      "q": "Is Shenzhen safe at night?",
+      "a": "Shenzhen is very safe at night with well-lit streets, active police patrols, and comprehensive CCTV coverage. Nightlife districts are particularly secure, though travelers should still use common sense and stick to populated areas."
+    },
+    {
+      "q": "Is Shenzhen safe for solo female travelers?",
+      "a": "Absolutely. Shenzhen is exceptionally safe for solo female travelers with minimal harassment, strong cultural respect for women, and excellent security infrastructure. Many women report feeling safer here than in Western cities."
+    },
+    {
+      "q": "What areas should I avoid in Shenzhen?",
+      "a": "Generally, Shenzhen is safe throughout. Exercise extra caution in crowded areas like Luohu Commercial City and border crossings where pickpocketing occurs. Avoid unlicensed money changers and unofficial transport operators."
+    },
+    {
+      "q": "Is it safe to use public transport in Shenzhen?",
+      "a": "Yes, public transport in Shenzhen is very safe and efficient. The metro system has mandatory security checks, CCTV monitoring, and excellent safety records. Official taxis and ride-sharing apps are also safe and regulated."
+    }
+  ],
+  "relatedCities": [
+    "hong-kong",
+    "guangzhou",
+    "macau"
+  ],
+  "_city_id": "shenzhen-china",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Commercial_area_of_futian_to_east2020.jpg/1280px-Commercial_area_of_futian_to_east2020.jpg"
+}
