@@ -1,0 +1,166 @@
+{
+  "slug": "wellington",
+  "name": "Wellington",
+  "country": "New Zealand",
+  "countryCode": "NZ",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 8.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.8,
+    "womensSafety": 9.2,
+    "nightSafety": 7.8,
+    "transport": 8.5,
+    "naturalHazards": 8.4
+  },
+  "summary": "Wellington is one of the world's safest capital cities, consistently ranking in the top 5 globally for peace and security. With extremely low violent crime rates and a welcoming culture, it's particularly excellent for solo travelers and women, though petty theft can occur in tourist areas.",
+  "quickVerdict": "Wellington is exceptionally safe for tourists, ranking among the world's most peaceful capitals. The city presents minimal safety risks beyond occasional petty theft, with excellent infrastructure, reliable emergency services, and a culture that strongly values visitor safety. New Zealand's Level 1 travel advisory confirms that visitors can exercise normal precautions while enjoying this compact, walkable city.",
+  "neighborhoods": [
+    {
+      "name": "Te Aro & Waterfront",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The cultural heart of Wellington with Te Papa museum, cafes and shopping. Very safe during day and evening with good lighting and regular foot traffic."
+    },
+    {
+      "name": "Cuba Street & CBD",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Vibrant arts district with excellent walkability. Generally very safe though avoid the upper end of Cuba Mall late at night due to some antisocial behavior."
+    },
+    {
+      "name": "Thorndon & Kelburn",
+      "score": 9.2,
+      "class": "safe",
+      "description": "Upscale residential areas near Parliament. Extremely safe with well-lit streets and minimal crime. Home to Wellington Cable Car and Botanic Gardens."
+    },
+    {
+      "name": "Mount Victoria",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Trendy hillside suburb with great views. Very safe residential area though some streets are steep and poorly lit at night."
+    },
+    {
+      "name": "Courtenay Place",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Entertainment district with bars and restaurants. Safe during day but can get rowdy on weekend nights with intoxicated revelers. Use caution after midnight."
+    },
+    {
+      "name": "Newtown",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Hip multicultural suburb with good restaurants. Generally safe but some areas have higher petty crime rates. Avoid isolated areas after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Rental Car Damage Claims",
+      "risk": "medium",
+      "description": "Rental companies may claim pre-existing damage wasn't documented and demand excessive repair fees. Some hold passports until payment.",
+      "howToAvoid": "Thoroughly photograph any existing damage before accepting vehicle. Show photos to rental agent and get written confirmation of all damage."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Fraudsters approach ATMs offering help while using card skimmers to capture data and observe PIN entries for later unauthorized withdrawals.",
+      "howToAvoid": "Use ATMs inside banks or secure locations. Cover PIN entry and decline assistance from strangers. Check for unusual devices attached to card slots."
+    },
+    {
+      "name": "Fake Tourism Services",
+      "risk": "low",
+      "description": "Online marketplace fraud targeting travelers seeking cheap accommodation, campervans or tours. Payment taken but services don't exist.",
+      "howToAvoid": "Book through established platforms with review systems. Be suspicious of deals significantly below market rate. Use credit cards for payment protection."
+    },
+    {
+      "name": "Overpriced Bar Bills",
+      "risk": "low",
+      "description": "Friendly locals invite tourists to specific bars where drinks are heavily overpriced or bills are inflated through collaboration between scammer and venue.",
+      "howToAvoid": "Research typical drink prices beforehand. Check bills carefully before paying. Be cautious of unsolicited invitations from strangers to specific venues."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Wellington is exceptional for solo female travelers, ranking among the world's safest destinations for women. The city's compact size, excellent public transport, and respectful culture create an ideal environment for independent exploration. Local women regularly travel alone without concern, and harassment is extremely rare.",
+    "tips": [
+      "Take advantage of Wellington's walkability - most attractions are within easy walking distance",
+      "Use the reliable bus system and Wellington Cable Car which operate safely until late evening",
+      "Stay in Te Aro or CBD areas for best access to attractions and dining",
+      "Join walking groups or cultural tours to meet other travelers and locals",
+      "Keep emergency number 111 saved for police, fire, or ambulance services"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Wellington's nightlife areas are generally safe, with most inner city areas under security camera surveillance. The main entertainment district around Courtenay Place can become rowdy on weekend nights due to alcohol consumption, but violent crime remains rare. Most areas are well-lit with good foot traffic.",
+    "tips": [
+      "Stick to well-lit main streets and avoid isolated areas late at night",
+      "Be cautious around Courtenay Place after midnight on weekends due to intoxicated crowds",
+      "Avoid upper Cuba Mall and Manners Mall areas late at night",
+      "Use rideshare apps or taxis rather than walking alone in quiet areas after dark",
+      "Stay alert but don't be overly concerned - Wellington is much safer than most capitals"
+    ]
+  },
+  "transport": {
+    "metro": "Wellington has an excellent bus network (Metlink) covering the city and suburbs, operating 7am-11pm most routes. The Airport Flyer provides reliable connections every 15 minutes. Buses are modern with air conditioning, WiFi, and CCTV for safety.",
+    "rideshare": "Uber and local app YourRide operate reliably throughout Wellington. Prices are consistent without surge pricing on YourRide. Both services are safe and well-regulated with driver background checks and vehicle monitoring.",
+    "taxis": "Wellington Combined Taxis operates 400+ vehicles with GPS tracking, security cameras, and certified drivers. Fares run $40-60 NZD from airport to CBD. All taxis must display driver registration and have safety equipment.",
+    "tips": "Public transport is extremely safe and reliable. Airport shuttles cost from $18 NZD. Walking is often fastest in the compact CBD. All transport options are tourist-friendly with English-speaking operators."
+  },
+  "customs": [
+    "Greetings are casual - handshakes are standard, or 'Kia ora' (Maori for hello)",
+    "Tipping is not expected or required - service charges are included in bills",
+    "Respect Maori culture and never touch someone's head without permission",
+    "Dress codes are relaxed - smart casual is fine even for upscale restaurants",
+    "Keep voices down in public - loud talking especially on phones is frowned upon"
+  ],
+  "health": {
+    "overview": "Wellington has excellent healthcare standards with modern facilities and well-trained professionals. The main Wellington Hospital provides 24/7 emergency care. Ambulance services cover the region reliably though may cost non-residents.",
+    "water": "Tap water is completely safe to drink throughout Wellington and exceeds international quality standards. Bottled water is unnecessary but available.",
+    "vaccinations": "No special vaccinations required for New Zealand. Standard travel insurance recommended as healthcare costs can be significant for visitors.",
+    "altitude": "Wellington sits at sea level with a temperate oceanic climate. Weather changes rapidly due to Cook Strait winds. Pack layers for all seasons regardless of visit time."
+  },
+  "emergency": {
+    "general": "111",
+    "police": "111",
+    "ambulance": "111",
+    "fire": "111",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Auckland - Phone: +64-9-303-2724, Emergency After-Hours: +64-4-462-6000. Located at Citigroup Centre, 23 Customs Street East, Auckland"
+  },
+  "faq": [
+    {
+      "q": "Is Wellington safe for tourists?",
+      "a": "Yes, Wellington is exceptionally safe for tourists and ranks among the world's most peaceful capitals. Violent crime against tourists is extremely rare, and the city maintains a Level 1 US State Department travel advisory meaning normal precautions apply."
+    },
+    {
+      "q": "Is Wellington safe at night?",
+      "a": "Wellington is generally safe at night, especially in well-lit central areas. Exercise normal caution around Courtenay Place entertainment district after midnight on weekends due to intoxicated crowds, but violent crime remains very rare."
+    },
+    {
+      "q": "Is Wellington safe for solo female travelers?",
+      "a": "Wellington is excellent for solo female travelers, ranking among the world's safest destinations for women. The compact city size, reliable public transport, and respectful culture make it ideal for independent exploration with minimal safety concerns."
+    },
+    {
+      "q": "What areas should I avoid in Wellington?",
+      "a": "No areas require complete avoidance, but use caution in upper Cuba Mall and Manners Mall late at night. Courtenay Place can be rowdy on weekend nights but isn't dangerous. Most of Wellington is safe to explore day and night."
+    },
+    {
+      "q": "Is it safe to use public transport in Wellington?",
+      "a": "Yes, Wellington's public transport is very safe and reliable. Buses have CCTV, air conditioning, and operate until 11pm on most routes. The Airport Flyer runs every 15 minutes until 9:30pm. All transport options are well-maintained and monitored."
+    }
+  ],
+  "relatedCities": [
+    "auckland",
+    "christchurch",
+    "sydney",
+    "melbourne",
+    "queenstown"
+  ],
+  "_city_id": "wellington-new-zealand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seddon_Statue_in_Parliament_Grounds.jpg/1280px-Seddon_Statue_in_Parliament_Grounds.jpg"
+}

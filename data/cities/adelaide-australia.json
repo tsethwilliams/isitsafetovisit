@@ -1,0 +1,162 @@
+{
+  "slug": "adelaide",
+  "name": "Adelaide",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 8.0,
+    "womensSafety": 8.2,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 6.1
+  },
+  "summary": "Adelaide is consistently ranked among Australia's safest cities, with low crime rates and excellent infrastructure. The city maintains a relaxed atmosphere while providing robust safety systems and reliable public transport for visitors.",
+  "quickVerdict": "Adelaide stands out as one of Australia's safest capitals, with a violent crime rate among the lowest in the country and a well-deserved reputation for security. While petty crime exists, particularly in certain suburbs, tourists staying in central areas and following basic precautions can expect a very safe experience. The city's compact layout, free trams, excellent healthcare system, and friendly local culture make it particularly welcoming for solo travelers and families.",
+  "neighborhoods": [
+    {
+      "name": "Adelaide CBD",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The heart of Adelaide with excellent lighting, frequent police patrols, and busy pedestrian traffic. Shopping, dining, and cultural attractions are concentrated here with minimal safety concerns."
+    },
+    {
+      "name": "North Adelaide",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area with tree-lined streets, historic architecture, and low crime rates. Popular with tourists for its proximity to Adelaide Oval and parklands."
+    },
+    {
+      "name": "Glenelg",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular beachside suburb with good tourist infrastructure and regular police presence. Generally safe but can get busy during peak times with occasional minor incidents."
+    },
+    {
+      "name": "Rundle Street East",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Bohemian quarter with cafes, bars, and nightlife. Well-patrolled area with good lighting, though visitors should remain aware during late-night hours."
+    },
+    {
+      "name": "Hindley Street",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main nightlife strip with bars and clubs. Can become rowdy late at night with increased alcohol-related incidents and requires extra caution after midnight."
+    },
+    {
+      "name": "Northern Suburbs (Elizabeth, Davoren Park)",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Areas with higher unemployment and crime rates including vehicle theft and domestic incidents. Tourists are advised to avoid these suburbs, particularly after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Photography Scam",
+      "risk": "low",
+      "description": "Someone offers to take your photo then claims you broke their camera when returning it.",
+      "howToAvoid": "Politely decline photo offers from strangers or use other tourists instead. If accepting, inspect the camera first."
+    },
+    {
+      "name": "Fake Wi-Fi Hotspots",
+      "risk": "medium",
+      "description": "Scammers set up free Wi-Fi networks in tourist areas to steal personal data and passwords.",
+      "howToAvoid": "Only use official Wi-Fi networks, avoid logging into sensitive accounts on public networks, and use VPN protection."
+    },
+    {
+      "name": "Accommodation Booking Scam",
+      "risk": "medium",
+      "description": "Fake property listings and hotel confirmations used to steal payment details and personal information.",
+      "howToAvoid": "Book through reputable platforms, verify property existence independently, and be suspicious of unusually low prices."
+    },
+    {
+      "name": "Overcharging at Bars/Restaurants",
+      "risk": "low",
+      "description": "Some establishments may charge tourists higher prices or add items not ordered to bills.",
+      "howToAvoid": "Always check menus for prices, review bills carefully before paying, and ask for receipts with itemized charges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Adelaide is considered one of Australia's safest cities for solo female travelers, with low crime rates and a generally respectful culture. The city's compact size, excellent public transport, and well-lit central areas make navigation safe and straightforward. Women regularly walk alone during the day without concern, and evening activities in tourist areas are generally secure with proper precautions.",
+    "tips": [
+      "Stay in well-lit central areas like the CBD or North Adelaide when exploring at night",
+      "Use the women-only rideshare service Shebah for added security when traveling alone",
+      "Trust your instincts in nightlife areas like Hindley Street and consider leaving if you feel uncomfortable",
+      "Take advantage of Adelaide's free city trams and reliable public transport system",
+      "Keep emergency contacts handy and inform someone of your whereabouts when going out alone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Adelaide's city center and main tourist areas are generally safe at night with good lighting and regular police patrols. The CBD remains active with restaurants and bars providing natural surveillance, while areas like North Adelaide and the East End maintain their safety after dark. However, extra caution is recommended on Hindley Street late at night and in outer suburbs with higher crime rates.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night, particularly around Rundle Mall and North Terrace",
+      "Avoid isolated areas like parklands and side streets after midnight",
+      "Use rideshare services or taxis instead of walking alone after 11 PM in nightlife districts",
+      "Stay alert for intoxicated individuals, especially around late-night venues on Hindley Street",
+      "Keep valuables secure and avoid displaying expensive electronics or jewelry"
+    ]
+  },
+  "transport": {
+    "metro": "Adelaide Metro operates buses, trains, and trams with excellent safety records. The free city tram between South Terrace and Entertainment Centre is particularly convenient for tourists. Services run regularly until midnight with late-night options on weekends.",
+    "rideshare": "Uber, Ola, DiDi, and local services operate safely throughout Adelaide. Shebah offers women-only rideshare service for added security. Pickup areas are well-marked at major venues and the airport.",
+    "taxis": "Licensed taxis are reliable and regulated with meter requirements. Airport taxis charge standard rates plus a small airport fee. Access Taxis available for passengers with mobility needs.",
+    "tips": "Public transport is very safe and affordable with contactless payment options. The free City Connector bus helps navigate the CBD, and the MetroCard provides easy access to all services."
+  },
+  "customs": [
+    "Australians value the concept of 'mateship' and treat people as equals regardless of social status - address people by first names and use 'please' and 'thank you' regularly",
+    "Punctuality is important for business meetings but being 10-15 minutes late for social gatherings is acceptable and sometimes expected to give hosts preparation time",
+    "When invited to someone's home, bring a small gift like wine or chocolates, and don't expect a house tour as Australians value privacy"
+  ],
+  "health": {
+    "overview": "Adelaide has excellent healthcare standards with world-class medical facilities. The Royal Adelaide Hospital provides state-of-the-art emergency services, while numerous medical centers cater to international visitors with quality care comparable to international standards.",
+    "water": "Tap water is safe to drink throughout Adelaide and meets strict quality standards. Bottled water is available but unnecessary from a safety perspective.",
+    "vaccinations": "No special vaccinations required for Adelaide beyond routine immunizations. Travelers should ensure standard vaccines like MMR and flu shots are current.",
+    "altitude": "Adelaide sits at sea level with a Mediterranean climate. Summers can be very hot (up to 40°C) requiring sun protection and heat precautions between 11 AM and 3 PM."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000 (emergencies) / 131 444 (non-urgent)",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Melbourne covers Adelaide - +61 3 9526 5900. For emergencies involving US citizens: +1-202-501-4444 (from Australia) or 1-888-407-4747 (from US)"
+  },
+  "faq": [
+    {
+      "q": "Is Adelaide safe for tourists?",
+      "a": "Yes, Adelaide is consistently ranked among Australia's safest cities with low violent crime rates and excellent tourist infrastructure. The city center and main attractions are very safe with good lighting and police presence."
+    },
+    {
+      "q": "Is Adelaide safe at night?",
+      "a": "The Adelaide CBD and main tourist areas are generally safe at night, with good lighting and regular patrols. Exercise normal caution in nightlife areas like Hindley Street and avoid isolated areas after midnight."
+    },
+    {
+      "q": "Is Adelaide safe for solo female travelers?",
+      "a": "Adelaide is considered one of Australia's safest cities for solo female travelers, with respectful local culture and reliable infrastructure. Women regularly explore the city alone with minimal concerns when following basic safety precautions."
+    },
+    {
+      "q": "What areas should I avoid in Adelaide?",
+      "a": "Avoid northern suburbs like Elizabeth and Davoren Park, especially after dark. In the city, be cautious on Hindley Street late at night and avoid isolated parklands and side streets after midnight."
+    },
+    {
+      "q": "Is it safe to use public transport in Adelaide?",
+      "a": "Yes, Adelaide Metro is very safe and reliable with regular services, good lighting, and security measures. The free city tram is particularly convenient for tourists, and services run until midnight with weekend extensions."
+    }
+  ],
+  "relatedCities": [
+    "melbourne",
+    "perth",
+    "sydney"
+  ],
+  "_city_id": "adelaide-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Adelaide_skyline%2C_December_2022_b.jpg/1280px-Adelaide_skyline%2C_December_2022_b.jpg"
+}
