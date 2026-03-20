@@ -1,0 +1,158 @@
+{
+  "slug": "new-caledonia",
+  "name": "New Caledonia",
+  "country": "New Caledonia",
+  "countryCode": "NC",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 6.8,
+    "scamRisk": 7.0,
+    "womensSafety": 6.2,
+    "nightSafety": 5.5,
+    "transport": 7.2,
+    "naturalHazards": 4.1
+  },
+  "summary": "New Caledonia faces significant civil unrest and political tensions following riots in May 2024, with the US State Department raising its travel advisory to Level 3. While the territory has relatively low crime rates for tourists under normal circumstances, ongoing demonstrations and infrastructure disruption pose serious risks for visitors.",
+  "quickVerdict": "New Caledonia requires careful consideration due to ongoing civil unrest and political tensions. The US State Department currently advises to reconsider travel following violent riots in May 2024 related to electoral reforms. While the territory typically maintains reasonable safety standards with low violent crime against tourists, the current security situation creates unpredictable risks. Natural hazards including cyclones, earthquakes, and dengue outbreaks add additional concerns. Travelers should monitor the situation closely and consider postponing non-essential visits until stability returns.",
+  "neighborhoods": [
+    {
+      "name": "Central Noumea",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The capital's city center remains relatively stable with good infrastructure and French colonial architecture. Higher police presence provides security, though demonstrations can occur with little warning."
+    },
+    {
+      "name": "Anse Vata",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist-focused beach area with resorts and restaurants. Generally well-maintained and safer for visitors, though civil unrest has impacted some services and transport connections."
+    },
+    {
+      "name": "Baie des Citrons",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular nightlife and dining district along the bay. Usually safe for tourists but can be affected by protests and has experienced some disruption to normal activities."
+    },
+    {
+      "name": "Loyalty Islands",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Remote islands with limited infrastructure and emergency services. Beautiful but isolated, requiring careful planning and awareness of transport limitations during unrest."
+    },
+    {
+      "name": "Isle of Pines",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Scenic island destination with basic facilities. Generally peaceful but transport disruptions and limited emergency services pose risks during the current unstable period."
+    },
+    {
+      "name": "Northern Grande Terre",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Rural mining areas most affected by civil unrest and roadblocks. Several incidents of violence and property damage have occurred, making travel particularly risky for outsiders."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Counterfeit Goods Sales",
+      "risk": "medium",
+      "description": "Vendors selling fake designer items or pirated goods. Purchasing these items is illegal in New Caledonia and can result in seizure and heavy fines.",
+      "howToAvoid": "Only buy from legitimate retailers and avoid street vendors selling branded goods at suspiciously low prices."
+    },
+    {
+      "name": "Tourist Transport Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers or tour operators may inflate prices for tourists, especially during civil unrest when transport options are limited.",
+      "howToAvoid": "Agree on prices beforehand, use official taxi services with meters, and research standard rates in advance."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "low",
+      "description": "Fake accommodation listings or double-booking scams, particularly problematic during current uncertain times when legitimate options may be limited.",
+      "howToAvoid": "Book through established platforms, verify accommodations directly, and avoid paying large sums in advance to unknown operators."
+    }
+  ],
+  "soloFemale": {
+    "overview": "New Caledonia typically ranks as moderately safe for solo female travelers with a rating of 4.2 out of 5 under normal circumstances. However, current civil unrest significantly elevates risks. Women traveling alone should exercise extra caution due to unpredictable demonstrations, limited emergency services, and potential transport disruptions. The French legal system provides some protections, but the ongoing political tensions create an unstable environment.",
+    "tips": [
+      "Avoid all demonstrations and protests which can turn violent without warning",
+      "Stay in established tourist areas and avoid isolated locations",
+      "Register with your embassy and maintain communication with family/friends",
+      "Keep emergency contacts and evacuation plans ready",
+      "Use reputable accommodation and transport services only"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in New Caledonia has deteriorated due to ongoing civil unrest and curfews that may be imposed without notice. Areas like Baie des Citrons and Anse Vata normally offer vibrant nightlife but face disruptions. Fights can occur outside bars and clubs, particularly on weekends. The current security situation makes nighttime activities riskier than usual.",
+    "tips": [
+      "Check for any curfew restrictions before going out",
+      "Stay in well-lit tourist areas and avoid walking alone after dark",
+      "Use official taxis or rideshare services rather than walking",
+      "Be aware that demonstrations can occur at any time",
+      "Keep identification and emergency contacts with you at all times"
+    ]
+  },
+  "transport": {
+    "metro": "New Caledonia has no metro system. Public transport consists of buses operated by Tanéo in greater Nouméa and RAI for intercity routes. Services have been disrupted due to civil unrest with some routes suspended or irregular.",
+    "rideshare": "Traditional rideshare apps like Uber are not available. Zygo is a local alternative app for booking drivers. JB Transport offers designated driver services, particularly for nightlife. Service reliability may be affected by current instability.",
+    "taxis": "Taxis are the primary on-demand transport with official services like Radio Taxis de Nouméa. Meters are used and drivers are generally professional. However, availability may be limited during protests and some drivers may avoid certain areas.",
+    "tips": "Transport disruptions are common due to roadblocks and demonstrations. Plan alternative routes, book services in advance when possible, and avoid travel during announced protests. Airport shuttles remain relatively reliable for international departures."
+  },
+  "customs": [
+    "Respect Kanak customs including the traditional greeting of soft handshake followed by touching noses",
+    "Perform customary gestures when visiting tribes, involving gift presentation with accompanying speech",
+    "Remove shoes when entering homes and avoid pointing with fingers - use lip-puckering gesture instead",
+    "Wait for host invitation before eating and pass dishes using both hands",
+    "Avoid photographing people or sacred sites without explicit permission"
+  ],
+  "health": {
+    "overview": "New Caledonia poses several health risks including dengue fever, Zika virus, and chikungunya transmitted by mosquitoes. Medical facilities are good in Nouméa but limited on outer islands. The World Mosquito Program has reduced dengue cases significantly, but risks remain.",
+    "water": "Tap water in Nouméa and most resorts is safe to drink, but quality may vary on outer islands. During current instability, water systems could be affected. Bottled water is recommended as a precaution.",
+    "vaccinations": "Recommended vaccines include hepatitis A, typhoid, measles-mumps-rubella (MMR), and routine immunizations. No yellow fever vaccination required unless arriving from infected areas. Dengue vaccine may be considered for those previously infected.",
+    "altitude": "New Caledonia has a tropical climate with cyclone season from November to April. Heat-related illness is possible - stay hydrated, wear light clothing, and limit outdoor activities during peak temperatures."
+  },
+  "emergency": {
+    "general": "15",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens are served by the US Embassy in Suva, Fiji (+679 331 4466). In New Caledonia, contact the Australian Consulate-General in Nouméa for assistance, as there is no US diplomatic presence on the islands."
+  },
+  "faq": [
+    {
+      "q": "Is New Caledonia safe for tourists?",
+      "a": "Currently, New Caledonia has elevated risks due to ongoing civil unrest and political tensions. The US State Department advises reconsidering travel due to unpredictable demonstrations, roadblocks, and infrastructure disruptions following riots in May 2024."
+    },
+    {
+      "q": "Is New Caledonia safe at night?",
+      "a": "Night safety has been compromised by current instability. Curfews may be imposed without notice, and demonstrations can occur at any time. While tourist areas like Anse Vata normally have nightlife, current conditions make evening activities riskier."
+    },
+    {
+      "q": "Is New Caledonia safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extreme caution due to current civil unrest. While New Caledonia typically rates moderately safe for women, ongoing political tensions create unpredictable security situations that pose additional risks for solo travelers."
+    },
+    {
+      "q": "What areas should I avoid in New Caledonia?",
+      "a": "Avoid northern Grande Terre where mining areas have experienced significant unrest. Stay away from all demonstrations, protests, and roadblocks. Remote areas and outer islands have limited emergency services during the current instability."
+    },
+    {
+      "q": "Is it safe to use public transport in New Caledonia?",
+      "a": "Public transport faces disruptions due to civil unrest with routes suspended or irregular. Buses operated by Tanéo and RAI may not run normally. Taxis are generally safer but availability is limited during protests and some drivers avoid affected areas."
+    }
+  ],
+  "relatedCities": [
+    "fiji",
+    "vanuatu",
+    "tahiti"
+  ],
+  "_city_id": "new-caledonia-new-caledonia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/New_Caledonia_in_France_%28zoomed%29.svg/1280px-New_Caledonia_in_France_%28zoomed%29.svg.png"
+}

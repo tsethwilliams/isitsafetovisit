@@ -1,0 +1,162 @@
+{
+  "slug": "vanuatu",
+  "name": "Vanuatu",
+  "country": "Vanuatu",
+  "countryCode": "VU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 6.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 6.0,
+    "naturalHazards": 3.0
+  },
+  "summary": "Vanuatu is generally a safe Pacific island nation with low crime rates and friendly locals, though it faces significant natural disaster risks from earthquakes, volcanoes, and cyclones. The US State Department rates it as Level 1 (Exercise Normal Precautions) following recovery from the December 2024 earthquake.",
+  "quickVerdict": "Vanuatu is one of the safest countries in the Pacific for tourists, with violent crime being extremely rare and petty theft uncommon. The main safety concern is natural disasters - the country sits on the Pacific Ring of Fire and experiences frequent earthquakes, volcanic activity, and cyclones. While crime poses minimal risk, travelers should be prepared for potential weather disruptions and basic infrastructure limitations, especially on outer islands. Solo female travelers generally feel safe, though basic precautions are recommended.",
+  "neighborhoods": [
+    {
+      "name": "Port Vila Central",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The capital's main area with good security, police presence, restaurants and accommodations. Well-lit streets and regular foot traffic make it very safe day and night."
+    },
+    {
+      "name": "Eton Beach Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular tourist zone with resorts and beaches. Generally safe but watch belongings on the beach and use hotel safes for valuables."
+    },
+    {
+      "name": "Port Vila Markets",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Bustling market area where pickpocketing can occur. Keep bags secure and avoid displaying expensive items while shopping."
+    },
+    {
+      "name": "Luganville Santo",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Second largest town with good infrastructure. Safe during day but limited nightlife options and fewer police patrols after dark."
+    },
+    {
+      "name": "Tanna Island Villages",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Remote village areas near Mount Yasur volcano. Generally safe but infrastructure is basic, medical facilities limited, and natural hazards present."
+    },
+    {
+      "name": "Outer Islands Remote Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Isolated areas with minimal infrastructure, limited communication, and no emergency services. Adventure travelers only with proper preparation."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bus/Taxi Overcharging",
+      "risk": "medium",
+      "description": "Buses may switch to taxi rates for tourists, charging 1000 vatu instead of 150 vatu for the same journey when they see you're foreign.",
+      "howToAvoid": "Ask locals about correct bus fares, insist on standard rates, be prepared to walk away if overcharged."
+    },
+    {
+      "name": "Tour Guide Overpricing",
+      "risk": "medium",
+      "description": "Unofficial guides offer tours at inflated prices or lead tourists to overpriced shops where they receive commissions.",
+      "howToAvoid": "Book tours through official tourism office or reputable operators, verify guide credentials, agree on prices beforehand."
+    },
+    {
+      "name": "Market Price Inflation",
+      "risk": "low",
+      "description": "Vendors in Port Vila Market may quote higher prices to foreign tourists for handicrafts and souvenirs.",
+      "howToAvoid": "Research typical prices, bargain respectfully, consider shopping where locals shop for better prices."
+    },
+    {
+      "name": "ATM/Credit Card Fraud",
+      "risk": "low",
+      "description": "Occasional reports of card details being compromised after use in Vanuatu, though not widespread.",
+      "howToAvoid": "Monitor accounts closely after travel, use hotel safes, avoid using cards at isolated ATMs or small vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Vanuatu is generally very safe for solo female travelers with a welcoming culture and low crime rates. Women rarely face aggressive harassment, and locals are respectful. However, some unwanted attention can occur, particularly in urban areas after dark, and cultural norms are conservative.",
+    "tips": [
+      "Dress modestly covering shoulders and knees, especially in villages",
+      "Avoid walking alone at night in poorly lit areas",
+      "Stay in well-reviewed accommodations with good security",
+      "Connect with local women for cultural insights and safer practices"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Vanuatu is relatively safe at night, especially in Port Vila's central area. However, street lighting is limited in many areas, and public transport stops early. Some bars and nightclubs in Port Vila have had isolated incidents targeting tourists.",
+    "tips": [
+      "Stay in well-lit main areas like Lini Highway in Port Vila",
+      "Use hotel transport or arrange pickup from reliable operators",
+      "Avoid isolated beaches and unlit streets after dark",
+      "Be cautious when drinking in bars and don't leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Local buses are minivans operating on flexible routes with basic safety standards.",
+    "rideshare": "No major rideshare services available. Limited taxi options in Port Vila and Luganville.",
+    "taxis": "Licensed taxis available but should be booked through hotels. Unlicensed operators exist - verify credentials and agree on fares upfront.",
+    "tips": "Use reputable boat operators with safety certificates for inter-island travel. Domestic flights are unreliable following Air Vanuatu's receivership."
+  },
+  "customs": [
+    "Remove shoes when entering traditional nakamals and some homes",
+    "Dress modestly with covered shoulders and knees in villages",
+    "Ask permission before photographing people or entering villages",
+    "Respect kastom (traditional customs) and taboo areas marked by locals",
+    "Participate respectfully in kava ceremonies if invited - clap once before drinking, down in one go, then clap three times"
+  ],
+  "health": {
+    "overview": "Healthcare is limited with basic facilities in Port Vila and Luganville, minimal services on outer islands. Medical evacuation to Australia/New Zealand may be necessary for serious conditions.",
+    "water": "Tap water not recommended for tourists. Use bottled water or purification tablets. Water quality can worsen after storms or volcanic ash.",
+    "vaccinations": "Hepatitis A, Hepatitis B, and typhoid recommended. Routine vaccinations should be up-to-date including measles-mumps-rubella.",
+    "altitude": "Tropical climate year-round. Malaria risk exists especially in northern provinces. Dengue and Zika present throughout the country. Use mosquito protection including DEET repellent and long sleeves at dawn/dusk."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "22222 (Port Vila), 36222 (Santo)",
+    "ambulance": "22100",
+    "fire": "22333 (Port Vila), 36333 (Santo)",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy in Vanuatu - US citizens served by US Embassy Port Moresby, Papua New Guinea. Emergency assistance +1-202-501-4444 (from abroad)"
+  },
+  "faq": [
+    {
+      "q": "Is Vanuatu safe for tourists?",
+      "a": "Yes, Vanuatu is very safe for tourists with low crime rates and friendly locals. The main risks are natural disasters like earthquakes and cyclones, not crime. The US State Department rates it Level 1 - Exercise Normal Precautions."
+    },
+    {
+      "q": "Is Vanuatu safe at night?",
+      "a": "Port Vila's main areas are generally safe at night, but street lighting is limited. Avoid isolated areas after dark and use hotel transport. Some tourist-targeted incidents have occurred at nightclubs."
+    },
+    {
+      "q": "Is Vanuatu safe for solo female travelers?",
+      "a": "Yes, solo female travelers generally feel very safe in Vanuatu. Local men are respectful and don't typically objectify women. However, dress modestly and avoid walking alone at night in poorly lit areas."
+    },
+    {
+      "q": "What areas should I avoid in Vanuatu?",
+      "a": "Avoid areas marked as taboo by locals, isolated outer island regions without proper planning, and poorly lit streets at night. Some volcanic areas like Ambae Island are permanently evacuated due to ongoing activity."
+    },
+    {
+      "q": "Is it safe to use public transport in Vanuatu?",
+      "a": "Local buses (minivans) are generally safe but basic. Taxis should be booked through hotels. For inter-island travel, ensure boat operators have proper safety certificates before boarding."
+    }
+  ],
+  "relatedCities": [
+    "fiji",
+    "new-caledonia",
+    "solomon-islands"
+  ],
+  "_city_id": "vanuatu-vanuatu",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/1280px-Flag_of_Vanuatu_%28official%29.svg.png"
+}

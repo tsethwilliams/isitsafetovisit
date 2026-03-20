@@ -2421,3 +2421,47 @@
 2026-03-20 11:58:37,105 [INFO] Merged into site data: Bora Bora
 2026-03-20 11:58:37,180 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-20 11:58:37,221 [INFO] Rebuilt sitemap with 506 URLs (372 cities, 128 countries, 6 static)
+2026-03-20 17:55:29,381 [INFO] Agent starting — mode: add
+2026-03-20 17:55:29,418 [INFO] Queue has 191 cities, adding 8
+2026-03-20 17:55:29,418 [INFO] Generating new city profile: Tahiti, French Polynesia
+2026-03-20 17:56:59,046 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 17:56:59,271 [INFO] Found Wikipedia image for Tahiti
+2026-03-20 17:56:59,272 [INFO] Saved city data: tahiti-french-polynesia
+2026-03-20 17:56:59,275 [INFO] Generating new city profile: Samoa, Samoa
+2026-03-20 17:58:30,787 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 17:58:31,009 [INFO] Found Wikipedia image for Samoa
+2026-03-20 17:58:31,009 [INFO] Saved city data: samoa-samoa
+2026-03-20 17:58:31,013 [INFO] Generating new city profile: Vanuatu, Vanuatu
+2026-03-20 17:59:45,422 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 17:59:45,656 [INFO] Found Wikipedia image for Vanuatu
+2026-03-20 17:59:45,657 [INFO] Saved city data: vanuatu-vanuatu
+2026-03-20 17:59:45,660 [INFO] Generating new city profile: New Caledonia, New Caledonia
+2026-03-20 18:01:18,758 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 18:01:19,000 [INFO] Found Wikipedia image for New Caledonia
+2026-03-20 18:01:19,000 [INFO] Saved city data: new-caledonia-new-caledonia
+2026-03-20 18:01:19,004 [INFO] Generating new city profile: Nagoya, Japan
+2026-03-20 18:02:48,225 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 18:02:48,386 [INFO] Found Wikipedia image for Nagoya
+2026-03-20 18:02:48,387 [INFO] Saved city data: nagoya-japan
+2026-03-20 18:02:48,390 [INFO] Generating new city profile: Kobe, Japan
+2026-03-20 18:04:05,624 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 18:04:05,752 [INFO] Found Wikipedia image for Kobe
+2026-03-20 18:04:05,753 [INFO] Saved city data: kobe-japan
+2026-03-20 18:04:05,756 [INFO] Generating new city profile: Kanazawa, Japan
+2026-03-20 18:05:20,308 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 18:05:20,459 [INFO] Found Wikipedia image for Kanazawa
+2026-03-20 18:05:20,459 [INFO] Saved city data: kanazawa-japan
+2026-03-20 18:05:20,463 [INFO] Generating new city profile: Yokohama, Japan
+2026-03-20 18:06:57,719 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-20 18:06:57,859 [INFO] Found Wikipedia image for Yokohama
+2026-03-20 18:06:57,860 [INFO] Saved city data: yokohama-japan
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Tahiti
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Samoa
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Vanuatu
+2026-03-20 18:06:57,902 [INFO] Merged into site data: New Caledonia
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Nagoya
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Kobe
+2026-03-20 18:06:57,902 [INFO] Merged into site data: Kanazawa
+2026-03-20 18:06:57,903 [INFO] Merged into site data: Yokohama
+2026-03-20 18:06:57,972 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-20 18:06:58,011 [INFO] Rebuilt sitemap with 518 URLs (380 cities, 132 countries, 6 static)

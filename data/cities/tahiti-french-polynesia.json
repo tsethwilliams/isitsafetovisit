@@ -1,0 +1,158 @@
+{
+  "slug": "tahiti",
+  "name": "Tahiti",
+  "country": "French Polynesia",
+  "countryCode": "PF",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-20",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 8.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.5,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "Tahiti is one of the safest destinations in the Pacific, with low crime rates and a welcoming local culture. While petty theft can occur in busy areas like Papeete and occasional natural hazards like cyclones pose risks during rainy season, the islands maintain excellent safety standards for tourists.",
+  "quickVerdict": "Tahiti offers excellent safety for travelers with minimal violent crime and a peaceful, laid-back atmosphere. Exercise normal precautions against petty theft in crowded areas, stay informed about weather conditions during cyclone season (November-April), and take advantage of the island's excellent healthcare system and friendly local population.",
+  "neighborhoods": [
+    {
+      "name": "Papeete City Center",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The bustling capital offers great amenities but has the highest petty crime rates on the island. Stay alert in crowded markets and near the port area, especially after cruise ships dock."
+    },
+    {
+      "name": "West Coast Resort Areas",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Home to luxury resorts and tourist facilities with excellent security. Very safe day and night with good lighting and regular patrols. Perfect for families and solo travelers."
+    },
+    {
+      "name": "East Coast Villages",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Traditional Polynesian communities that are extremely welcoming to visitors. Low crime rates but fewer amenities. Great for cultural experiences and authentic local interactions."
+    },
+    {
+      "name": "Tahiti Iti Peninsula",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Remote and scenic area popular with surfers and adventurers. Very safe but limited infrastructure and services. Ideal for experienced travelers seeking off-the-beaten-path experiences."
+    },
+    {
+      "name": "Central Mountains",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Hiking areas with stunning waterfalls and views. Natural hazards like flash floods and difficult terrain pose the main risks. Always use guides and inform someone of your plans."
+    },
+    {
+      "name": "Tipaerui District",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Residential area north of Papeete with occasional reports of petty crime after dark. Generally safe during the day but avoid walking alone at night and stay on main roads."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Timeshare Presentations",
+      "risk": "low",
+      "description": "High-pressure sales tactics at hotels and tourist areas offering free gifts or discounted activities in exchange for attending timeshare presentations.",
+      "howToAvoid": "Politely decline unsolicited offers and never give personal financial information. Book activities through established tour operators instead."
+    },
+    {
+      "name": "Overpriced Pearl Scams",
+      "risk": "medium",
+      "description": "Vendors selling fake or overpriced black pearls to tourists, especially near markets and cruise terminals.",
+      "howToAvoid": "Only buy pearls from certified dealers with authenticity certificates. Research fair prices beforehand and don't feel pressured to buy immediately."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers may quote inflated prices to tourists or claim their meter is broken to charge arbitrary amounts.",
+      "howToAvoid": "Ask for official taxi fare rates at your hotel, agree on prices before getting in, and use licensed taxis from official stands when possible."
+    },
+    {
+      "name": "Fake Tour Operators",
+      "risk": "low",
+      "description": "Unofficial guides offering discounted excursions that may not deliver promised services or have proper safety equipment.",
+      "howToAvoid": "Book tours through reputable agencies or your hotel. Verify insurance coverage and safety equipment before participating in water activities."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tahiti is exceptionally safe for solo female travelers with friendly locals and a welcoming culture. The laid-back island atmosphere combined with low violent crime rates makes it one of the safest Pacific destinations. Some unwanted attention may occur in bars or nightlife areas, but serious incidents are extremely rare.",
+    "tips": [
+      "Stay in well-reviewed accommodations and inform staff of your plans when exploring remote areas",
+      "Use common sense in nightlife areas and politely but firmly decline unwanted advances",
+      "Take advantage of group tours and activities to meet other travelers and locals safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tahiti maintains good safety levels at night, especially in tourist areas and resort districts. Papeete's nightlife areas are generally safe but require normal urban precautions. Petty theft increases slightly after dark, particularly near bars and the waterfront.",
+    "tips": [
+      "Stick to well-lit main roads and busy areas, especially in Papeete city center",
+      "Use official taxis or hotel transportation rather than walking alone after midnight",
+      "Keep valuables secure and avoid displaying expensive items or large amounts of cash"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Tahiti.",
+    "rideshare": "No Uber or Lyft services available. Some local ride-sharing apps may operate but availability is limited.",
+    "taxis": "Official metered taxis are available but expensive. Fares increase by 20% after 8pm. Agree on prices beforehand as not all taxis use meters. Find taxis at official stands near markets and hotels.",
+    "tips": "Le Truck colorful buses offer authentic but basic public transport around the island for about $1. Rental cars provide the best flexibility and safety for exploring, with good road conditions on main routes."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some traditional buildings as a sign of respect",
+    "Greet people with 'Ia Orana' (hello) and show respect to elders who hold important positions in communities",
+    "Dress modestly when visiting villages or attending church services, covering shoulders and knees"
+  ],
+  "health": {
+    "overview": "Tahiti has excellent healthcare standards comparable to developed countries, with modern facilities concentrated in Papeete. The main hospital provides advanced care and the only decompression chamber in French Polynesia.",
+    "water": "Tap water is safe to drink in Papeete, major hotels and resorts. On remote areas or outer islands, stick to bottled water to be safe.",
+    "vaccinations": "No required vaccinations except yellow fever if arriving from infected areas. Recommended: hepatitis A/B, typhoid, MMR, and routine vaccines. Dengue fever risk exists so use mosquito protection.",
+    "altitude": "Sea-level tropical climate with high humidity. Protect against strong UV rays with sunscreen and hat. Stay hydrated and wear insect repellent to prevent mosquito-borne diseases."
+  },
+  "emergency": {
+    "general": "17",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consular Agent in Punaauia: +689-40-42-65-35. For emergencies contact US Embassy Suva, Fiji: +679-772-8049"
+  },
+  "faq": [
+    {
+      "q": "Is Tahiti safe for tourists?",
+      "a": "Yes, Tahiti is very safe for tourists with low crime rates and a welcoming culture. Exercise normal precautions against petty theft in crowded areas and stay informed about weather conditions during cyclone season."
+    },
+    {
+      "q": "Is Tahiti safe at night?",
+      "a": "Tahiti is generally safe at night, especially in resort areas and well-lit parts of Papeete. Use taxis for longer distances and stay in populated areas to avoid the rare incidents of petty crime."
+    },
+    {
+      "q": "Is Tahiti safe for solo female travelers?",
+      "a": "Absolutely. Tahiti ranks among the safest destinations worldwide for solo female travelers. The local culture is respectful and welcoming, though normal precautions should be taken in nightlife areas."
+    },
+    {
+      "q": "What areas should I avoid in Tahiti?",
+      "a": "Avoid walking alone in Tipaerui district after dark and be extra cautious around Papeete port area when cruise ships dock. Remote mountain areas require guides due to natural hazards rather than crime concerns."
+    },
+    {
+      "q": "Is it safe to use public transport in Tahiti?",
+      "a": "Yes, public transport including Le Truck buses and official taxis are safe. Buses are very affordable but have limited schedules. Taxis are reliable but expensive, especially at night when fares increase 20%."
+    }
+  ],
+  "relatedCities": [
+    "bora-bora",
+    "moorea",
+    "noumea"
+  ],
+  "_city_id": "tahiti-french-polynesia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Tahiti.svg/1280px-Flag_of_Tahiti.svg.png"
+}
