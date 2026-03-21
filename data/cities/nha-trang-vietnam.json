@@ -1,0 +1,166 @@
+{
+  "slug": "nha-trang",
+  "name": "Nha Trang",
+  "country": "Vietnam",
+  "countryCode": "VN",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 8.5,
+    "scamRisk": 5.8,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.3,
+    "naturalHazards": 7.6
+  },
+  "summary": "Nha Trang is Vietnam's premier coastal resort city with generally low crime rates and excellent tourist infrastructure. While violent crime is rare, visitors should stay alert for petty theft and tourist scams, particularly in nightlife areas and markets.",
+  "quickVerdict": "Nha Trang ranks as one of Vietnam's safest tourist destinations, with the US State Department giving Vietnam a Level 1 advisory to exercise normal precautions. The main safety concerns revolve around petty crimes like pickpocketing and bag snatching in crowded areas, tourist scams targeting foreigners, and traffic safety. The city has good emergency services, reliable transportation options, and adequate healthcare facilities. Solo female travelers generally report feeling safe, though standard precautions are recommended, especially at night.",
+  "neighborhoods": [
+    {
+      "name": "Nha Trang Beach Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Well-patrolled tourist zone with good lighting, numerous hotels, restaurants, and regular police presence. Main beach promenade is safe for walking day and night."
+    },
+    {
+      "name": "Tran Phu Street Central",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Primary tourist strip with hotels, bars, and shops. Generally safe during day but requires more caution at night due to nightlife-related incidents."
+    },
+    {
+      "name": "Po Nagar Cham Towers Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historical and cultural district with good tourist infrastructure. Well-maintained area with tour groups and guides present most of the day."
+    },
+    {
+      "name": "Cam Ranh Airport Vicinity",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern international airport area with good security and reliable transport connections to city center. Official taxi services readily available."
+    },
+    {
+      "name": "Local Markets & Backstreet Areas",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Traditional markets and residential areas where petty crime is more common. Exercise caution with belongings and avoid displaying valuables."
+    },
+    {
+      "name": "Remote Beach Areas & Islands",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Less developed coastal areas and boat trip destinations where tour scams occur. Choose reputable operators and avoid unregulated boat tours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Boat Tours",
+      "risk": "high",
+      "description": "Tour operators quote low prices then demand additional fees for fuel, food, or activities. Some use fake tickets or counterfeit tour packages.",
+      "howToAvoid": "Book tours through reputable hotels or verified operators. Get all costs in writing upfront and avoid street touts offering deals."
+    },
+    {
+      "name": "Motorbike Rental Damage Claims",
+      "risk": "high",
+      "description": "Rental shops claim expensive damage to motorcycles that you didn't cause, demanding large compensation payments or holding your passport.",
+      "howToAvoid": "Take photos before renting, inspect thoroughly, use your own lock, and never leave your original passport as security."
+    },
+    {
+      "name": "Restaurant Bill Inflation",
+      "risk": "medium",
+      "description": "Establishments add items you didn't order like complimentary nuts or wet wipes to your bill, or quote prices in USD then charge inflated VND rates.",
+      "howToAvoid": "Check prices before ordering, refuse unrequested items, verify currency being used, and always check your bill carefully."
+    },
+    {
+      "name": "Fake Taxi Meters",
+      "risk": "medium",
+      "description": "Unofficial taxis use rigged meters or claim meters are broken, then overcharge tourists, especially for airport transfers.",
+      "howToAvoid": "Use official taxi companies like Mai Linh or Vinasun, or book through Grab app. Always ensure meter is running from start."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nha Trang is generally very safe for solo female travelers, with 95% of solo women reporting feeling safe according to recent surveys. Violent crime against tourists is extremely rare, and the main concerns are petty theft and occasional harassment in nightlife areas. The city has good tourist infrastructure with English-speaking staff at hotels and tour operators.",
+    "tips": [
+      "Avoid walking alone on Tran Phu Street after 10 PM when bars get crowded",
+      "Stay in well-reviewed accommodations in central tourist areas near the beach",
+      "Keep valuables secure and wear bags in front in crowded markets and transport",
+      "Use official transportation like Grab or reputable taxi companies rather than motorbike taxis",
+      "Dress modestly when visiting temples and cultural sites to show respect"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nha Trang's nightlife areas are generally safe but require standard urban precautions. The main beach strip and Tran Phu Street have good lighting and police presence, though petty crime increases after 10 PM when alcohol consumption rises. Most venues close by 2 AM with some beach bars staying open later.",
+    "tips": [
+      "Stay in well-lit, busy areas and avoid dark side streets or empty beaches",
+      "Use Grab or official taxis rather than walking long distances at night",
+      "Never leave drinks unattended and be cautious of accepting drinks from strangers",
+      "Travel in groups when possible and let someone know your plans",
+      "Keep emergency contacts and hotel address saved in your phone"
+    ]
+  },
+  "transport": {
+    "metro": "Nha Trang does not have a metro system. Public buses operate on main routes for 4,000 VND per ride with service from early morning until around 9-10 PM.",
+    "rideshare": "Grab is the dominant rideshare app offering both cars and motorbikes with upfront pricing and GPS tracking. GrabBike costs 30-50% less than cars and is faster in traffic. Xanh SM electric taxis also operate with competitive rates.",
+    "taxis": "Reputable companies include Mai Linh (green), Vinasun (white), and Xanh SM (cyan electric vehicles). Meters start around 12,000-14,000 VND with 15,000-17,000 VND per km. Airport transfers cost approximately 300,000 VND.",
+    "tips": "Always verify taxi company logos and ensure meters are running. Avoid unmarked vehicles and motorbike taxis for safety. Keep small VND bills for easy payment and tipping."
+  },
+  "customs": [
+    "Dress modestly when visiting temples - cover shoulders and knees, remove shoes and hats before entering",
+    "Tipping is not mandatory but appreciated - 5-10% in tourist restaurants, 100,000-200,000 VND for tour guides daily",
+    "Use both hands when giving or receiving money, business cards, or gifts as a sign of respect",
+    "Avoid public displays of affection and pointing with feet, as these are considered disrespectful",
+    "Remove shoes when entering homes and avoid stepping over or walking directly in front of family altars"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies significantly between public and private facilities. International-standard private hospitals like Vinmec International Hospital offer English-speaking staff and modern equipment. Public hospitals have limited English support and basic facilities.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Avoid ice in street food and budget restaurants. Most hotels provide complimentary bottled water.",
+    "vaccinations": "Routine vaccinations should be up to date. Hepatitis A and B recommended due to higher risk, especially in rural areas. Dengue fever is present year-round, so mosquito protection is essential.",
+    "altitude": "Nha Trang is at sea level with tropical climate. Hot and sunny year-round with rainy season September-December. Use strong sunscreen and stay hydrated. Air conditioning is essential for comfort."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "115",
+    "fire": "114",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Hanoi: +84-24-3850-5000. US Consulate Ho Chi Minh City: +84-28-3520-4200. For emergencies: +84-903-438-0130"
+  },
+  "faq": [
+    {
+      "q": "Is Nha Trang safe for tourists?",
+      "a": "Yes, Nha Trang is very safe for tourists with low violent crime rates. Main risks are petty theft and tourist scams. The US State Department rates Vietnam as Level 1 - exercise normal precautions."
+    },
+    {
+      "q": "Is Nha Trang safe at night?",
+      "a": "Nha Trang is generally safe at night in tourist areas with good lighting and police presence. Avoid empty beaches, dark side streets, and exercise normal caution around nightlife areas after 10 PM."
+    },
+    {
+      "q": "Is Nha Trang safe for solo female travelers?",
+      "a": "Yes, 95% of solo female travelers report feeling safe in Nha Trang. Dress modestly at temples, avoid Tran Phu Street late at night, and use reputable transportation. Violent crime against tourists is extremely rare."
+    },
+    {
+      "q": "What areas should I avoid in Nha Trang?",
+      "a": "Avoid unregulated boat tours, dark alleys off main streets at night, and be cautious in crowded markets. Tran Phu Street requires extra vigilance after 10 PM due to increased petty crime risk."
+    },
+    {
+      "q": "Is it safe to use public transport in Nha Trang?",
+      "a": "Yes, Grab rideshare and official taxis (Mai Linh, Vinasun) are safe and reliable. Public buses are basic but safe during daytime. Avoid unmarked vehicles and verify taxi company logos before getting in."
+    }
+  ],
+  "relatedCities": [
+    "ho-chi-minh-city",
+    "hanoi",
+    "da-nang",
+    "hoi-an",
+    "phu-quoc"
+  ],
+  "_city_id": "nha-trang-vietnam",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nha_Trang%2C_Kh%C3%A1nh_H%C3%B2a.png/1280px-Nha_Trang%2C_Kh%C3%A1nh_H%C3%B2a.png"
+}

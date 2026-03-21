@@ -2509,3 +2509,50 @@
 2026-03-20 23:16:48,545 [INFO] Merged into site data: Lhasa
 2026-03-20 23:16:48,622 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-20 23:16:48,667 [INFO] Rebuilt sitemap with 526 URLs (388 cities, 132 countries, 6 static)
+2026-03-21 05:58:27,476 [INFO] Agent starting — mode: add
+2026-03-21 05:58:27,519 [INFO] Queue has 175 cities, adding 8
+2026-03-21 05:58:27,519 [INFO] Generating new city profile: Tainan, Taiwan
+2026-03-21 06:00:02,603 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:00:02,838 [INFO] Found Wikipedia image for Tainan
+2026-03-21 06:00:02,839 [INFO] Saved city data: tainan-taiwan
+2026-03-21 06:00:02,843 [INFO] Generating new city profile: Hualien, Taiwan
+2026-03-21 06:01:36,613 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:01:36,949 [INFO] Found Wikipedia image for Hualien
+2026-03-21 06:01:36,949 [INFO] Saved city data: hualien-taiwan
+2026-03-21 06:01:36,953 [INFO] Generating new city profile: Chiang Rai, Thailand
+2026-03-21 06:03:05,258 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:03:05,503 [INFO] Found Wikipedia image for Chiang Rai
+2026-03-21 06:03:05,504 [INFO] Saved city data: chiang-rai-thailand
+2026-03-21 06:03:05,507 [INFO] Generating new city profile: Ayutthaya, Thailand
+2026-03-21 06:03:39,607 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:03:39,661 [ERROR] Claude returned empty text response
+2026-03-21 06:03:39,662 [ERROR] Failed to parse city data for Ayutthaya (attempt 1): No valid JSON found in response: line 1 column 1 (char 0)
+2026-03-21 06:03:39,662 [INFO] Retry 1/2 for Ayutthaya
+2026-03-21 06:05:22,494 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:05:22,709 [INFO] Saved city data: ayutthaya-thailand
+2026-03-21 06:05:22,713 [INFO] Generating new city profile: Kota Kinabalu, Malaysia
+2026-03-21 06:06:48,631 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:06:48,774 [INFO] Found Wikipedia image for Kota Kinabalu
+2026-03-21 06:06:48,775 [INFO] Saved city data: kota-kinabalu-malaysia
+2026-03-21 06:06:48,779 [INFO] Generating new city profile: Boracay, Philippines
+2026-03-21 06:08:23,950 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:08:24,077 [INFO] Found Wikipedia image for Boracay
+2026-03-21 06:08:24,078 [INFO] Saved city data: boracay-philippines
+2026-03-21 06:08:24,081 [INFO] Generating new city profile: Nha Trang, Vietnam
+2026-03-21 06:09:59,216 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:09:59,377 [INFO] Found Wikipedia image for Nha Trang
+2026-03-21 06:09:59,378 [INFO] Saved city data: nha-trang-vietnam
+2026-03-21 06:09:59,384 [INFO] Generating new city profile: Dalat, Vietnam
+2026-03-21 06:11:37,983 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 06:11:38,110 [INFO] Found Wikipedia image for Dalat
+2026-03-21 06:11:38,111 [INFO] Saved city data: dalat-vietnam
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Tainan
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Hualien
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Chiang Rai
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Ayutthaya
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Kota Kinabalu
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Boracay
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Nha Trang
+2026-03-21 06:11:38,157 [INFO] Merged into site data: Dalat
+2026-03-21 06:11:38,237 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-21 06:11:38,279 [INFO] Rebuilt sitemap with 534 URLs (396 cities, 132 countries, 6 static)

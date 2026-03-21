@@ -1,0 +1,162 @@
+{
+  "slug": "boracay",
+  "name": "Boracay",
+  "country": "Philippines",
+  "countryCode": "PH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 7.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "Boracay is generally considered safe for tourists, ranking as one of the Philippines' most secure destinations with low violent crime rates and strong tourist infrastructure. While petty crime and tourist scams exist, the island's compact size, regular police patrols, and tourism-dependent economy contribute to overall safety.",
+  "quickVerdict": "Boracay offers a relatively safe environment for travelers, with violent crime being rare and a visible security presence throughout the tourist areas. The main concerns involve petty theft in crowded areas, tourist scams targeting foreign visitors, and occasional safety issues during nightlife activities. The island's tourism infrastructure is well-developed, though medical facilities are limited for serious emergencies. Natural hazards like typhoons during rainy season and flooding due to poor drainage present the primary environmental risks.",
+  "neighborhoods": [
+    {
+      "name": "Station 1",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Home to luxury resorts and upscale dining, Station 1 offers excellent security and well-maintained facilities. The area has frequent police patrols and private security, making it the safest part of the island."
+    },
+    {
+      "name": "Station 2 - D'Mall Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The busiest tourist area with restaurants, bars, and nightlife. Well-patrolled but crowded, requiring vigilance against pickpockets and overcharging. Good lighting and constant activity provide natural security."
+    },
+    {
+      "name": "Station 3",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Quieter and more residential area with budget accommodations. Less crowded than Station 2 with lower crime rates, though fewer amenities and lighting in some areas. Generally peaceful and safe for tourists."
+    },
+    {
+      "name": "Diniwid Beach",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Secluded northern beach area with upscale resorts. Very safe due to limited access and private security, though more isolated. Perfect for those seeking peace while maintaining safety standards."
+    },
+    {
+      "name": "Bulabog Beach",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Known for water sports and kitesurfing. Generally safe during the day but can be isolated in the evenings. Exercise caution with equipment rentals and ensure proper safety gear is provided."
+    },
+    {
+      "name": "Cagban Port Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main arrival point with heavy foot traffic and transport confusion. Higher risk of scams targeting new arrivals and overcharging for transport. Stay alert and verify official transportation options."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Resort Bookings",
+      "risk": "high",
+      "description": "Sophisticated online scams using stolen photos of legitimate resorts with bargain prices. Fraudsters create fake websites and social media profiles to appear authentic.",
+      "howToAvoid": "Only book through official resort websites or verified platforms. Use reverse image searches to check photos, verify through video calls, and avoid full payment via Western Union or cryptocurrency."
+    },
+    {
+      "name": "Transport Overcharging",
+      "risk": "medium",
+      "description": "Tricycle drivers charging excessive fares, especially to tourists at ports and airports. Some refuse to use meters or quote inflated charter rates for short distances.",
+      "howToAvoid": "Learn standard fares in advance (PHP 15-60 for most rides). Negotiate prices before getting in, share rides with other tourists, and consider using official transport apps or hotel shuttles."
+    },
+    {
+      "name": "Tourist Police Fines",
+      "risk": "medium",
+      "description": "Enforcement of unclear beach rules leading to fines for activities like eating on the beach. Rules may not be clearly posted, with officers carrying small portable signs.",
+      "howToAvoid": "Check hotel information about beach regulations, ask staff about current rules, and politely request to see official regulations if approached by authorities."
+    },
+    {
+      "name": "Rental Damage Claims",
+      "risk": "medium",
+      "description": "Motorcycle and water sports rental operators claiming pre-existing damage was caused by tourists, demanding inflated compensation payments.",
+      "howToAvoid": "Take extensive photos from all angles before renting. Inspect equipment carefully and document any existing damage. Use hotel-recommended operators and avoid deals that seem too good to be true."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Boracay is generally safe for solo female travelers with good security presence and tourism infrastructure. The island ranks among the top destinations in the Philippines for women traveling alone, though basic precautions are still necessary, especially at night and in crowded areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations in Station 1 or 2 with good lighting and security",
+      "Avoid walking alone late at night in isolated areas; stick to main beach paths and well-lit areas",
+      "Don't reveal you're traveling alone to strangers; consider saying you're meeting friends",
+      "Use reputable transportation options and avoid unmarked vehicles, especially after dark",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Boracay's nightlife areas are generally safe with visible security presence, though standard precautions apply. The main party areas around Station 2 have good lighting and foot traffic, but isolated beach areas and side streets should be avoided after dark.",
+    "tips": [
+      "Stick to main tourist areas and well-lit beach paths when moving between venues",
+      "Travel in groups when possible and keep track of your companions throughout the night",
+      "Don't leave drinks unattended and be cautious of accepting drinks from strangers",
+      "Use official transport services and avoid walking alone to distant accommodations",
+      "Be aware that some beach activities like late-night swimming can result in theft of belongings"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available. The island is small (7km north to south) and primarily relies on electric tricycles for public transport.",
+    "rideshare": "Limited options. Some electric jeepneys available with fixed routes. Grab services available in limited areas but not widely used.",
+    "taxis": "Traditional taxis not available. Electric tricycles (E-Trikes) serve as the main taxi service, accommodating 2-6 passengers with regulated fares of PHP 15-150 depending on distance.",
+    "tips": "Use electric tricycles for safety and environmental reasons. Negotiate fares beforehand, share rides to reduce costs, and keep exact change. Walking along the beach between stations is often faster during peak times."
+  },
+  "customs": [
+    "Remove shoes when entering homes and some businesses; observe local practices",
+    "Use polite language including 'po' and 'opo' when speaking to elders or in formal situations",
+    "Dress modestly outside beach areas; cover shoulders and knees in restaurants and shops"
+  ],
+  "health": {
+    "overview": "Limited medical facilities are available on Boracay with basic emergency services but no advanced care. Serious medical emergencies require evacuation to Kalibo, Iloilo, or Manila. Travel insurance with medical evacuation coverage is essential.",
+    "water": "Drink bottled water as a precaution. While many resorts have potable water, bottled water is safer for sensitive stomachs. Avoid ice from unknown sources.",
+    "vaccinations": "No special vaccinations required for Boracay. Standard travel vaccines (Hepatitis A/B, Typhoid, Japanese Encephalitis) recommended. Malaria risk is extremely low. Dengue prevention through mosquito protection is important.",
+    "altitude": "Sea level location with tropical climate. Use strong sunscreen (SPF 30+) and stay hydrated. Heat can be intense year-round. Bring insect repellent for mosquitoes."
+  },
+  "emergency": {
+    "general": "141",
+    "police": "+63 36 288 3066",
+    "ambulance": "+63 36 288 2338",
+    "fire": "194",
+    "touristPolice": "+63 36 288 3066",
+    "usEmbassy": "U.S. Embassy Manila: +63 2 5301 2000. Emergency services limited on island - serious emergencies require evacuation to mainland."
+  },
+  "faq": [
+    {
+      "q": "Is Boracay safe for tourists?",
+      "a": "Yes, Boracay is generally considered one of the Philippines' safest destinations with low violent crime rates, regular police patrols, and strong tourism infrastructure. Petty crime and scams exist but can be avoided with basic precautions."
+    },
+    {
+      "q": "Is Boracay safe at night?",
+      "a": "The main tourist areas around Stations 1-2 are generally safe at night with good lighting and security presence. However, avoid isolated beach areas, side streets, and walking alone to distant accommodations after dark."
+    },
+    {
+      "q": "Is Boracay safe for solo female travelers?",
+      "a": "Yes, Boracay ranks among the top destinations in the Philippines for solo female travelers. While generally safe, women should avoid revealing they're traveling alone, stick to well-lit areas at night, and use reputable transportation."
+    },
+    {
+      "q": "What areas should I avoid in Boracay?",
+      "a": "Avoid isolated areas after dark, poorly lit side streets away from main tourist zones, and be cautious around Cagban Port where transport scams are common. During typhoon season, avoid low-lying areas prone to flooding."
+    },
+    {
+      "q": "Is it safe to use public transport in Boracay?",
+      "a": "Yes, electric tricycles are safe and regulated with fixed fares. They're the primary transport method on the island. Agree on fares beforehand, use reputable operators, and avoid unmarked vehicles especially at night."
+    }
+  ],
+  "relatedCities": [
+    "manila",
+    "cebu",
+    "davao"
+  ],
+  "_city_id": "boracay-philippines",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Boracay_White_Beach.png/1280px-Boracay_White_Beach.png"
+}
