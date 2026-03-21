@@ -1,0 +1,168 @@
+{
+  "slug": "chennai",
+  "name": "Chennai",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.8,
+    "scamRisk": 6.2,
+    "womensSafety": 6.5,
+    "nightSafety": 6.9,
+    "transport": 7.3,
+    "naturalHazards": 6.4
+  },
+  "summary": "Chennai is considered one of India's safest metropolitan cities, ranking highest among Indian metros for women's safety according to the National Crime Records Bureau. The city has a low violent crime rate and a strong police presence, though travelers should remain vigilant against petty theft and tourist scams.",
+  "quickVerdict": "Chennai stands out as India's safest major city with a crime rate of just 211.2 per 100,000 people, significantly lower than Delhi (1,832.6) and Mumbai (367.3). While petty crime like pickpocketing occurs in crowded tourist areas, violent crime against foreigners is uncommon. The city has excellent healthcare facilities, earning its reputation as India's health capital, and a robust metro system with women-only carriages. Natural hazards include cyclones and flooding during monsoon season (October-December), but the city has improved disaster preparedness since the devastating 2015 floods.",
+  "neighborhoods": [
+    {
+      "name": "Mylapore",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historic cultural quarter with temples and traditional architecture. Well-patrolled tourist area with good lighting and frequent police presence. Safe for walking during day and early evening."
+    },
+    {
+      "name": "T. Nagar",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Major shopping district that's generally safe but crowded. Watch for pickpockets in markets and shops. Well-connected by metro and buses with good security presence."
+    },
+    {
+      "name": "Adyar",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area with good infrastructure and low crime rates. Popular with expats and professionals. Safe for solo travelers including women."
+    },
+    {
+      "name": "Marina Beach Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Popular tourist destination that's safe during daylight hours but avoid isolated areas after dark. Beach can get crowded on weekends - watch belongings carefully."
+    },
+    {
+      "name": "Central Railway Station Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Busy transport hub with higher risk of petty crime and scams targeting travelers. Many touts and unauthorized taxi drivers. Use prepaid taxi counters and stay alert."
+    },
+    {
+      "name": "Washermanpet",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Industrial area with higher crime rates, particularly after dark. Poor lighting and limited police presence. Not recommended for tourists, especially solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "high",
+      "description": "Drivers claim meters are broken, quote inflated fares, or tamper with meters to overcharge tourists. Auto-rickshaw drivers particularly known for overcharging foreigners.",
+      "howToAvoid": "Use ride-hailing apps like Uber or Ola, insist on meter usage, or negotiate fare beforehand. Use prepaid taxi counters at airports and stations."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unauthorized guides approach tourists at major attractions offering services at inflated rates, then take you to overpriced shops where they earn commissions.",
+      "howToAvoid": "Only hire government-licensed guides from official ticket counters. Verify credentials and agree on prices upfront. Avoid unsolicited guide offers."
+    },
+    {
+      "name": "Accommodation Commission Scams",
+      "risk": "medium",
+      "description": "Taxi and auto drivers claim your booked hotel is closed, full, or has problems, then take you to alternative accommodations where they receive commission.",
+      "howToAvoid": "Always insist on going to your booked accommodation first. Book through reputable platforms and keep confirmation details handy. Don't change plans based on driver suggestions."
+    },
+    {
+      "name": "Currency Switch Scams",
+      "risk": "medium",
+      "description": "Shopkeepers or service providers quickly switch genuine currency notes for smaller denominations or counterfeit notes when providing change.",
+      "howToAvoid": "Count money carefully before handing over and when receiving change. Use exact change when possible and be familiar with Indian currency security features."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Chennai is considered the safest Indian city for solo female travelers, with the lowest crime rates against women among major Indian metros. The city has women-only metro carriages, dedicated women police stations, and a generally conservative, respectful culture. However, standard precautions should still be taken, especially after dark.",
+    "tips": [
+      "Use women-only carriages on Chennai Metro and women's sections on buses when available",
+      "Dress modestly, especially when visiting temples - cover shoulders and legs",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Adyar, Mylapore, or T. Nagar",
+      "Avoid isolated areas after dark and use reliable transportation like Uber/Ola instead of walking alone",
+      "Trust your instincts - locals are generally helpful but decline overly persistent offers of assistance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Chennai has moderate night safety with improved security measures in recent years. The city is safer than most other Indian metros after dark, with people on streets even at late hours and helpful locals. However, exercise caution in less populated areas and stick to well-lit, busy streets. Most restaurants and bars close by midnight to 1 AM.",
+    "tips": [
+      "Stick to well-lit main roads and popular areas like Marina Beach promenade, T. Nagar, or Nungambakkam",
+      "Travel in groups when possible and use reputable transportation - avoid walking alone after 10 PM",
+      "Popular night spots include cultural performances, late-night eateries, and rooftop bars in upscale hotels",
+      "Keep emergency contacts handy and inform someone of your whereabouts",
+      "Avoid isolated beaches, parks, and industrial areas after dark"
+    ]
+  },
+  "transport": {
+    "metro": "Chennai Metro is modern, safe, and efficient with good security and CCTV coverage. Women-only carriages available during peak hours. Phase 2 expansion ongoing with new driverless trains featuring enhanced safety measures including platform screen doors.",
+    "rideshare": "Uber and Ola are widely available, reliable, and generally safe. Both companies conduct background checks on drivers and provide trip tracking features. Recommended for tourists as safer than traditional taxis.",
+    "taxis": "Prepaid taxi counters at airport and major stations are safest option. Avoid unmarked vehicles and negotiate fares beforehand if meter isn't working. Many drivers don't speak English, so have destination written in Tamil if possible.",
+    "tips": "Public buses are crowded but generally safe during daytime - use women's sections when available. Auto-rickshaws are convenient for short distances but confirm fare first. Traffic is chaotic so avoid driving yourself."
+  },
+  "customs": [
+    "Remove shoes before entering temples and homes - most places provide shoe storage facilities",
+    "Dress modestly when visiting religious sites - cover shoulders, arms, and legs especially at temples",
+    "Use your right hand for greetings, eating, and giving/receiving items - left hand is considered unclean",
+    "Show respect to elders and religious figures - slight bow with palms together (namaste) is appropriate greeting",
+    "Avoid pointing feet towards people or religious objects - consider feet the lowest and dirtiest part of body",
+    "Ask permission before photographing people, especially women and at religious sites"
+  ],
+  "health": {
+    "overview": "Chennai is known as India's health capital with world-class medical facilities attracting medical tourists globally. The city has excellent hospitals, qualified doctors, and modern healthcare infrastructure. However, take precautions against common travel health issues.",
+    "water": "Avoid tap water - drink only bottled or filtered water. Stick to bottled water from reputable brands and check seals are intact. Avoid ice cubes unless you're certain they're made from purified water.",
+    "vaccinations": "Consult your doctor about routine vaccinations including Hepatitis A/B, typhoid, and Japanese encephalitis. Malaria risk is low but dengue can occur during monsoon season. No special vaccinations required for entry.",
+    "climate": "Hot and humid tropical climate year-round. Temperatures range from 25-40°C (77-104°F). Monsoon season (October-December) brings heavy rainfall and flooding risk. Carry sunscreen, stay hydrated, and wear breathable cotton clothing."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101",
+    "touristPolice": "103",
+    "usEmbassy": "U.S. Consulate General Chennai: +91-44-2857-4000, located at 220 Anna Salai, Gemini Circle. Emergency after-hours: +91-44-2857-4000. Covers Tamil Nadu, Andhra Pradesh, Karnataka, and Kerala states."
+  },
+  "faq": [
+    {
+      "q": "Is Chennai safe for tourists?",
+      "a": "Yes, Chennai is considered the safest major city in India with low crime rates and good infrastructure. It consistently ranks highest on safety indices among Indian metros, though standard travel precautions should be taken."
+    },
+    {
+      "q": "Is Chennai safe at night?",
+      "a": "Chennai has moderate night safety and is safer than most other Indian cities after dark. Stick to well-lit areas, travel in groups when possible, and use reliable transportation. Most establishments close by midnight."
+    },
+    {
+      "q": "Is Chennai safe for solo female travelers?",
+      "a": "Chennai is the safest Indian city for solo female travelers according to national crime statistics. The city has women-only transport sections, respectful local culture, and good police presence, though basic precautions should still be followed."
+    },
+    {
+      "q": "What areas should I avoid in Chennai?",
+      "a": "Avoid isolated areas after dark, industrial zones like Washermanpet, and crowded places during festivals where pickpockets operate. The Central Railway Station area requires extra caution due to touts and scams."
+    },
+    {
+      "q": "Is it safe to use public transport in Chennai?",
+      "a": "Yes, Chennai's public transport is generally safe. The metro system is modern and secure with women-only carriages. Buses are crowded but safe during daytime. Use official prepaid taxis and ride-hailing apps for best safety."
+    }
+  ],
+  "relatedCities": [
+    "mumbai",
+    "bangalore",
+    "hyderabad",
+    "kolkata",
+    "kochi",
+    "pune"
+  ],
+  "_city_id": "chennai-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg"
+}

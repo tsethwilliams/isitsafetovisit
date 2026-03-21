@@ -1,0 +1,164 @@
+{
+  "slug": "mandalay",
+  "name": "Mandalay",
+  "country": "Myanmar",
+  "countryCode": "MM",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 4.3,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 4.0,
+    "scamRisk": 5.0,
+    "womensSafety": 4.5,
+    "nightSafety": 3.5,
+    "transport": 4.0,
+    "naturalHazards": 3.5
+  },
+  "summary": "Mandalay faces significant safety challenges due to Myanmar's ongoing civil unrest and military rule since 2021. While traditionally a cultural hub known for its Buddhist sites, the city now operates under heightened security conditions with active armed conflicts in surrounding regions.",
+  "quickVerdict": "While Mandalay remains part of Myanmar's limited tourist circuit, travel carries substantial risks due to political instability, arbitrary enforcement of laws, and proximity to conflict zones. The US State Department maintains a Level 4 Do Not Travel advisory for all of Myanmar. Visitors who do travel should stay within tourist areas, avoid political activities, use only domestic flights for transport, and be prepared for rapid evacuation. Basic infrastructure operates but emergency services are limited.",
+  "neighborhoods": [
+    {
+      "name": "Mandalay Hill Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Tourist zone around the famous hill with pagodas and viewpoints. Generally safer due to regular visitor presence but still subject to political restrictions."
+    },
+    {
+      "name": "Ancient City Center",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Historic palace area and downtown core with hotels and restaurants. Some tourism infrastructure remains but military checkpoints are common."
+    },
+    {
+      "name": "Mahamuni Pagoda District",
+      "score": 4.8,
+      "class": "caution",
+      "description": "Religious area centered on the famous Buddha statue. Relatively stable due to its spiritual importance but requires cultural sensitivity."
+    },
+    {
+      "name": "Jade Market Area",
+      "score": 4.0,
+      "class": "caution",
+      "description": "Commercial district known for gem trading. Higher risk of scams targeting tourists and potential for sudden restrictions."
+    },
+    {
+      "name": "Railway Station District",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Transport hub with increased security presence. Prone to sudden closures and checkpoint delays affecting movement."
+    },
+    {
+      "name": "Northern Suburbs",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Residential areas closer to potential conflict zones. Limited tourist services and higher risk of being affected by regional instability."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Temple Donations",
+      "risk": "medium",
+      "description": "Individuals posing as monks or temple staff demanding donations at religious sites like Mahamuni Pagoda, often becoming persistent if refused.",
+      "howToAvoid": "Only donate through official temple channels. Genuine monks rarely approach tourists directly for money."
+    },
+    {
+      "name": "Gem and Jade Fraud",
+      "risk": "high",
+      "description": "Vendors in Mandalay's jade markets selling fake or low-quality stones at inflated prices, claiming they're authentic Burmese jade or rubies.",
+      "howToAvoid": "Only buy from government-licensed dealers. Research current market prices and avoid high-pressure sales tactics."
+    },
+    {
+      "name": "Airport Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unofficial taxi drivers at Mandalay Airport charging 20,000-30,000 kyat for trips that should cost 12,000-15,000 kyat to the city center.",
+      "howToAvoid": "Use official airport taxi counters, agree on fares beforehand, or use Grab app where available."
+    },
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "medium",
+      "description": "Money changers giving counterfeit kyat notes or using manipulated exchange rates, particularly targeting tourists unfamiliar with local currency.",
+      "howToAvoid": "Use banks or authorized exchange counters. Check bills carefully and know current exchange rates."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Mandalay requires extra caution due to Myanmar's current political situation and conservative cultural norms. Women face additional restrictions and should dress very modestly, especially at religious sites. The unstable security environment makes solo travel particularly risky.",
+    "tips": [
+      "Dress extremely conservatively - cover shoulders, arms and legs completely",
+      "Avoid being alone after dark due to curfews and security concerns",
+      "Stay in well-established accommodations with security measures",
+      "Keep family/friends informed of your location at all times",
+      "Carry emergency contacts and embassy information"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Mandalay is severely compromised by military curfews, limited street lighting due to electricity shortages, and increased security risks. Most areas become unsafe after 10 PM with curfew typically enforced from midnight to 4 AM.",
+    "tips": [
+      "Return to accommodation well before midnight curfew",
+      "Avoid walking alone after dark due to poor lighting",
+      "Use hotel-recommended transport only for evening activities",
+      "Stay in areas with backup power generators",
+      "Keep curtains closed and maintain low profile during curfew hours"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Mandalay. Local transportation is limited to taxis, tuk-tuks, and motorcycle taxis.",
+    "rideshare": "Grab operates in Mandalay with car and tuk-tuk options called GrabThoneBane. Service can be unreliable due to political situation.",
+    "taxis": "Traditional taxis available but negotiate fares upfront. Airport taxis charge 12,000-15,000 kyat to city center. Choose vehicles in good condition.",
+    "tips": "Flying is strongly recommended for travel to/from other cities. Road travel poses security risks due to checkpoints and potential conflicts."
+  },
+  "customs": [
+    "Remove shoes and socks before entering any temple, pagoda, or home",
+    "Never touch someone's head or point feet toward people or Buddha images",
+    "Dress modestly covering shoulders and knees, especially at religious sites",
+    "Use both hands when giving or receiving items as a sign of respect",
+    "Avoid discussing politics or military government with locals"
+  ],
+  "health": {
+    "overview": "Healthcare infrastructure in Mandalay is limited with several private hospitals but medical evacuation may be necessary for serious conditions. Political instability has affected medical supplies and services.",
+    "water": "Tap water is unsafe to drink. Use bottled water for drinking and brushing teeth. Ice should be avoided unless from reputable establishments.",
+    "vaccinations": "Routine vaccines recommended plus hepatitis A/B, typhoid, and Japanese encephalitis. Consult travel medicine specialist for current recommendations.",
+    "altitude": "Mandalay sits at low elevation. Main concerns are tropical heat, humidity, and monsoon-related flooding from June to October."
+  },
+  "emergency": {
+    "general": "192",
+    "police": "199",
+    "ambulance": "192",
+    "fire": "191",
+    "touristPolice": "01-376166",
+    "usEmbassy": "US Embassy Yangon: +95-1-753-6509 (after hours emergency). No US consulate in Mandalay. Limited consular services due to political situation."
+  },
+  "faq": [
+    {
+      "q": "Is Mandalay safe for tourists?",
+      "a": "Mandalay carries significant risks due to Myanmar's political instability and civil unrest since 2021. While it remains on the limited tourist circuit, the US State Department advises against all travel to Myanmar. Those who visit should exercise extreme caution and be prepared for rapid changes in conditions."
+    },
+    {
+      "q": "Is Mandalay safe at night?",
+      "a": "Nighttime safety is severely compromised by military curfews (typically midnight-4AM), electricity shortages causing poor lighting, and increased security risks. Most visitors stay in their accommodations after 10 PM and avoid unnecessary movement during curfew hours."
+    },
+    {
+      "q": "Is Mandalay safe for solo female travelers?",
+      "a": "Solo female travel in Mandalay is particularly challenging due to Myanmar's conservative culture combined with current security instability. Women should dress very modestly, avoid being alone after dark, and maintain constant communication with family or friends about their whereabouts."
+    },
+    {
+      "q": "What areas should I avoid in Mandalay?",
+      "a": "Avoid the northern suburbs closest to conflict zones, railway areas during checkpoint operations, and any location where protests or military activities are occurring. Border areas and remote locations outside the main tourist sites should be completely avoided."
+    },
+    {
+      "q": "Is it safe to use public transport in Mandalay?",
+      "a": "Public transport options are limited and potentially unsafe due to checkpoints and sudden restrictions. Grab rideshare operates but can be unreliable. For longer distances, domestic flights are strongly recommended over road travel which poses security risks."
+    }
+  ],
+  "relatedCities": [
+    "yangon",
+    "bagan",
+    "inle-lake"
+  ],
+  "_city_id": "mandalay-myanmar",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mandalay_-_The_worship_of_Buddha.jpg/1280px-Mandalay_-_The_worship_of_Buddha.jpg"
+}

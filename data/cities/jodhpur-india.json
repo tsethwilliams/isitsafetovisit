@@ -1,0 +1,160 @@
+{
+  "slug": "jodhpur",
+  "name": "Jodhpur",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 7.8,
+    "scamRisk": 5.5,
+    "womensSafety": 5.8,
+    "nightSafety": 6.8,
+    "transport": 7.4,
+    "naturalHazards": 7.4
+  },
+  "summary": "Jodhpur is generally safe for tourists with low violent crime rates and excellent transport options. However, visitors should remain vigilant against petty theft, tourist scams, and harassment, particularly around popular attractions and markets.",
+  "quickVerdict": "Jodhpur is a moderately safe destination for tourists with proper precautions. The Blue City offers incredible cultural experiences with manageable risks. Solo female travelers should exercise additional caution, particularly after dark, while all visitors should be aware of common tourist scams around major attractions. The city's compact layout, reliable transport options, and tourist-friendly infrastructure make it accessible for most travelers.",
+  "neighborhoods": [
+    {
+      "name": "Mehrangarh Fort Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-patrolled tourist zone with good security presence and lighting. Popular with visitors during day and evening hours."
+    },
+    {
+      "name": "Clock Tower/Sardar Market",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Bustling market area that's generally safe during daylight but can be crowded with pickpockets and touts present."
+    },
+    {
+      "name": "Umaid Bhawan Palace Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale area with excellent security, well-maintained roads, and regular police patrols. Very safe for tourists."
+    },
+    {
+      "name": "Old City Blue Houses",
+      "score": 7.1,
+      "class": "safe",
+      "description": "Historic area that's safe during day with guided tours. Evening exploration should be done carefully in groups."
+    },
+    {
+      "name": "Railway Station Area",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Higher crime area with reports of theft and harassment, especially late at night. Avoid lingering here after dark."
+    },
+    {
+      "name": "Kaylana Lake Area",
+      "score": 7.6,
+      "class": "safe",
+      "description": "Peaceful area popular for evening walks and boating. Generally safe but avoid isolated spots after sunset."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourist Guide",
+      "risk": "high",
+      "description": "Unofficial guides approach tourists at major attractions claiming to be certified guides and offer overpriced services.",
+      "howToAvoid": "Only hire guides from official counters at tourist sites. Verify credentials and agree on prices beforehand."
+    },
+    {
+      "name": "Temple Donation Pressure",
+      "risk": "medium",
+      "description": "Fake priests or officials at temples demand large donations for blessings and threaten bad luck if refused.",
+      "howToAvoid": "Politely decline unsolicited blessings. Make small donations only at official temple donation boxes if desired."
+    },
+    {
+      "name": "Taxi/Auto-rickshaw Overcharging",
+      "risk": "medium",
+      "description": "Drivers quote inflated prices to tourists or claim meters are broken to avoid using standard fares.",
+      "howToAvoid": "Always insist on using the meter or agree on fare before starting. Use app-based rides like Ola/Uber when possible."
+    },
+    {
+      "name": "Gemstone/Jewelry Scam",
+      "risk": "high",
+      "description": "Friendly locals offer to take tourists to gem shops promising authentic Rajasthani jewelry at special prices for worthless items.",
+      "howToAvoid": "Avoid following strangers to shops. Only buy from established, certified jewelers and get proper certificates for valuable purchases."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Jodhpur presents moderate challenges for solo female travelers but remains manageable with proper precautions. The city has good tourist infrastructure in main areas, though cultural conservatism means modest dress and behavior are essential. Harassment can occur but is typically limited to staring and verbal comments rather than physical threats.",
+    "tips": [
+      "Dress conservatively covering shoulders and knees, especially in religious areas",
+      "Stay in well-reviewed accommodations in safer neighborhoods like near Umaid Bhawan Palace",
+      "Avoid walking alone after 10 PM and use reliable transport like pre-booked taxis"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Jodhpur is relatively safe at night in main tourist areas with adequate lighting and security presence. The city has a vibrant nightlife scene centered around rooftop restaurants and cultural shows. However, isolated areas and transportation hubs should be avoided after dark, and solo travelers should exercise extra caution.",
+    "tips": [
+      "Stick to well-lit, populated areas like the fort vicinity and main markets",
+      "Use reliable pre-booked transport rather than hailing random auto-rickshaws",
+      "Avoid the railway station area and isolated streets after 10 PM"
+    ]
+  },
+  "transport": {
+    "metro": "Jodhpur does not have a metro system. Public transport consists primarily of city buses and shared auto-rickshaws.",
+    "rideshare": "Ola and Uber operate in Jodhpur with reasonable reliability in central areas and tourist zones. Coverage may be limited in residential areas during off-peak hours.",
+    "taxis": "Licensed taxis are available through hotels and taxi stands. Pre-paid taxi services operate from the airport and railway station. Local taxi operators provide 24/7 service with GPS tracking.",
+    "tips": "App-based transport is safest option. Always agree on fares beforehand for local taxis and avoid unmarked vehicles, especially at night."
+  },
+  "customs": [
+    "Remove shoes before entering temples, mosques, and private homes",
+    "Use right hand for eating, greeting, and giving/receiving items as left hand is considered unclean",
+    "Dress modestly especially in religious sites - cover shoulders and knees"
+  ],
+  "health": {
+    "overview": "Jodhpur has adequate healthcare facilities with several private hospitals and government medical centers. AIIMS Jodhpur provides quality medical care. The city faces typical health challenges like air pollution and extreme summer heat.",
+    "water": "Tap water is not safe to drink. Use bottled or properly filtered water. Avoid ice in drinks from street vendors.",
+    "vaccinations": "Standard travel vaccines recommended: Hepatitis A/B, Typhoid, Japanese Encephalitis. Consult travel doctor 4-6 weeks before travel.",
+    "altitude": "Jodhpur is at low elevation but experiences extreme heat (up to 51°C in summer). Stay hydrated and avoid midday sun during April-June."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "102/108",
+    "fire": "101",
+    "touristPolice": "1363",
+    "usEmbassy": "US Consulate General Mumbai: +91-22-6672-4000. Emergency after-hours: +91-22-6672-4001"
+  },
+  "faq": [
+    {
+      "q": "Is Jodhpur safe for tourists?",
+      "a": "Yes, Jodhpur is generally safe for tourists with low violent crime rates. Exercise normal precautions against petty theft and scams, especially around major attractions."
+    },
+    {
+      "q": "Is Jodhpur safe at night?",
+      "a": "Jodhpur is relatively safe at night in main tourist areas with good lighting. Avoid isolated areas and the railway station after dark. Use reliable transport and stay in groups when possible."
+    },
+    {
+      "q": "Is Jodhpur safe for solo female travelers?",
+      "a": "Solo female travelers can visit Jodhpur safely with proper precautions. Dress modestly, avoid walking alone after 10 PM, and stay in reputable accommodations in safer neighborhoods."
+    },
+    {
+      "q": "What areas should I avoid in Jodhpur?",
+      "a": "Avoid the railway station area after dark, isolated streets in the old city at night, and be cautious in crowded market areas where pickpockets operate."
+    },
+    {
+      "q": "Is it safe to use public transport in Jodhpur?",
+      "a": "Public transport is generally safe during daylight hours. App-based services like Ola/Uber are recommended. Avoid shared auto-rickshaws late at night and always agree on fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "jaipur",
+    "udaipur",
+    "delhi",
+    "mumbai",
+    "varanasi"
+  ],
+  "_city_id": "jodhpur-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg"
+}

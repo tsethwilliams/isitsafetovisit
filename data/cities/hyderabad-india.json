@@ -1,0 +1,164 @@
+{
+  "slug": "hyderabad",
+  "name": "Hyderabad",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.8,
+    "violentCrime": 7.5,
+    "scamRisk": 5.2,
+    "womensSafety": 6.8,
+    "nightSafety": 6.0,
+    "transport": 7.2,
+    "naturalHazards": 6.3
+  },
+  "summary": "Hyderabad is generally considered one of India's safer major cities with strong tech infrastructure and relatively low violent crime rates. However, tourists should remain vigilant about petty theft, scams, and occasional safety concerns in certain areas.",
+  "quickVerdict": "Hyderabad ranks among India's safer metropolitan cities and is particularly welcoming to international visitors. The city has excellent infrastructure including a modern metro system, good hospitals, and generally respectful locals. While violent crime against tourists is uncommon, petty theft and tourist-targeted scams do occur. Women travelers find the city relatively safe compared to other Indian metros, though standard precautions are advised, especially at night. The tech-savvy population and cosmopolitan atmosphere make it easier for international visitors to navigate.",
+  "neighborhoods": [
+    {
+      "name": "Cyberabad/Hi-Tech City",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The IT corridor featuring major tech companies, modern infrastructure, good lighting, security presence, and upscale restaurants. Generally very safe for tourists day and night with professional crowds."
+    },
+    {
+      "name": "Banjara Hills/Jubilee Hills",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential and commercial areas with luxury hotels, restaurants, and shopping. Well-maintained with good security and police presence, popular among affluent locals and tourists."
+    },
+    {
+      "name": "Secunderabad Cantonment",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-planned area with wide roads, parks, and good infrastructure. Military presence provides additional security. Safe for walking and exploring during day and early evening."
+    },
+    {
+      "name": "Hussain Sagar/Tank Bund",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular tourist area around the lake with attractions and street food. Generally safe during day but can get crowded. Exercise caution at night, especially for solo travelers."
+    },
+    {
+      "name": "Charminar/Old City",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Historic area with narrow lanes, bustling markets, and cultural attractions. Can be crowded and chaotic. While generally safe, tourists should be alert for pickpockets and stay aware of surroundings."
+    },
+    {
+      "name": "Outskirts/Industrial Areas",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Less developed areas with poor lighting and infrastructure. Limited police presence and public transport. Not recommended for tourists, especially after dark or for solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourism Offices",
+      "risk": "high",
+      "description": "Fraudulent agencies near airports and stations claiming government approval, selling overpriced tours and fake tickets while diverting tourists from legitimate options.",
+      "howToAvoid": "Only use officially verified tourism offices, book through reputable hotels, and verify addresses on government tourism websites before visiting any agency."
+    },
+    {
+      "name": "Overpriced Taxi/Auto Scams",
+      "risk": "high",
+      "description": "Drivers refusing to use meters, quoting inflated fares, or taking longer routes to increase charges, especially targeting airport arrivals and tourists.",
+      "howToAvoid": "Use ride-hailing apps like Ola/Uber, insist on meters being used, or book prepaid taxis from airport counters. Research expected fares beforehand."
+    },
+    {
+      "name": "Online Booking Frauds",
+      "risk": "medium",
+      "description": "Fake travel websites mimicking legitimate platforms offering unbelievable deals on hotels, tours, or transportation that don't exist upon arrival.",
+      "howToAvoid": "Book only through verified platforms, check website URLs carefully for typos, and verify bookings directly with hotels. Avoid deals that seem too good to be true."
+    },
+    {
+      "name": "Friendship/Tea Shop Scams",
+      "risk": "medium",
+      "description": "Overly friendly locals approaching tourists, building trust, then leading them to overpriced shops, restaurants, or gem stores where they earn commissions.",
+      "howToAvoid": "Be polite but cautious with unsolicited friendliness, avoid going to shops/restaurants suggested by strangers, and trust your instincts if something feels orchestrated."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Hyderabad is generally considered one of India's safer cities for solo female travelers, with a relatively progressive outlook and strong IT culture. The city has women-only metro compartments, good hospital facilities, and generally respectful locals. However, standard precautions are essential, particularly regarding dress code, night travel, and awareness of surroundings. Many areas are well-lit and patrolled, but some neighborhoods should be avoided after dark.",
+    "tips": [
+      "Use women-only compartments on metro trains and buses when available",
+      "Dress modestly with shoulders and legs covered, especially in Old City areas",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Banjara Hills or Hi-Tech City",
+      "Avoid walking alone after 10 PM, especially in less crowded or poorly lit areas",
+      "Keep emergency contacts handy and inform someone of your whereabouts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Hyderabad's night safety varies significantly by area. Modern districts like Cyberabad and Banjara Hills maintain good security and lighting, with active nightlife until late hours. However, areas like Old City and outskirts become less safe after dark. The metro operates until 11 PM (extended to 1 AM on special occasions), and ride-hailing services are reliable. Women should exercise additional caution when traveling alone at night.",
+    "tips": [
+      "Stick to well-lit, populated areas and avoid shortcuts through empty lanes",
+      "Use reputable ride-hailing apps rather than walking or using random auto-rickshaws",
+      "Stay in groups when possible and inform others of your location",
+      "Avoid displaying expensive items or large amounts of cash",
+      "Keep local emergency numbers saved and easily accessible"
+    ]
+  },
+  "transport": {
+    "metro": "Hyderabad Metro is modern, clean, and generally safe with good security measures including CCTV monitoring and security checks. Women-only compartments are available. Operates 6 AM to 11 PM daily, with special extended hours during festivals.",
+    "rideshare": "Ola and Uber operate reliably throughout the city with good safety features. Both offer ride tracking and emergency buttons. Generally trustworthy with professional drivers, though verify vehicle details before boarding.",
+    "taxis": "Prepaid taxi counters at airport are recommended. Local taxis may not use meters, so negotiate fares beforehand. Auto-rickshaws are common but bargaining is necessary. Be cautious of overcharging, especially as a tourist.",
+    "tips": "Public transport is generally safe during day hours. Use official metro stations and verified ride-hailing apps. Avoid traveling alone late at night, especially in auto-rickshaws."
+  },
+  "customs": [
+    "Greet with 'Namaste' (hands pressed together with slight bow) rather than handshakes, especially with elders",
+    "Remove shoes before entering homes, temples, and some traditional establishments",
+    "Dress modestly with covered shoulders and knees, particularly in religious sites and Old City areas",
+    "Use right hand for eating, giving, and receiving items as left hand is considered unclean",
+    "Show respect to elders and avoid pointing feet toward people or religious objects"
+  ],
+  "health": {
+    "overview": "Hyderabad has excellent healthcare facilities with world-class hospitals like Apollo and Care Hospitals. Air quality can be moderate with pollution levels equivalent to smoking 1.4 cigarettes daily. The city is not in a high-risk area for major tropical diseases, though standard precautions are recommended.",
+    "water": "Tap water is not recommended for drinking. Stick to bottled or filtered water. Most hotels and restaurants use filtered water for cooking. Avoid ice from unknown sources.",
+    "vaccinations": "Standard travel vaccines recommended including Hepatitis A & B, Typhoid, and routine vaccines. Japanese Encephalitis may be considered for extended stays. Consult travel doctor 4-6 weeks before travel.",
+    "altitude": "Sea level city with hot and humid climate. Summer temperatures can reach 40°C (104°F). Monsoon season (June-September) brings heavy rains and potential flooding. Air quality varies but generally moderate."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "102/108",
+    "fire": "101",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate Hyderabad: +91-40-4033-3000. Located at Paigah Palace, 1-8-323, Chiran Fort Lane, Begumpet. Emergency American Citizens Services available."
+  },
+  "faq": [
+    {
+      "q": "Is Hyderabad safe for tourists?",
+      "a": "Yes, Hyderabad is generally safe for tourists and is considered one of India's safer major cities. It has good infrastructure, friendly locals, and lower violent crime rates compared to other metros. However, standard travel precautions should be taken, especially regarding petty theft and tourist scams."
+    },
+    {
+      "q": "Is Hyderabad safe at night?",
+      "a": "Night safety in Hyderabad varies by area. Modern districts like Banjara Hills and Hi-Tech City are relatively safe with good lighting and security. However, avoid Old City and outskirts after dark. Use ride-hailing services rather than walking, and stay in well-populated areas."
+    },
+    {
+      "q": "Is Hyderabad safe for solo female travelers?",
+      "a": "Hyderabad is among the safer Indian cities for solo female travelers, with a progressive tech culture and women-friendly infrastructure like metro women's compartments. Dress modestly, stay in good neighborhoods, avoid late-night solo travel, and exercise normal precautions."
+    },
+    {
+      "q": "What areas should I avoid in Hyderabad?",
+      "a": "Avoid poorly lit outskirts and industrial areas, especially at night. Exercise extra caution in crowded Old City lanes where pickpocketing can occur. Parts of Necklace Road can have issues with harassment. Stick to well-developed areas like Cyberabad, Banjara Hills, and Jubilee Hills."
+    },
+    {
+      "q": "Is it safe to use public transport in Hyderabad?",
+      "a": "Yes, public transport is generally safe. Hyderabad Metro is modern and secure with good safety measures. Use women's compartments when available. Ride-hailing apps like Ola and Uber are reliable and safer than random auto-rickshaws, especially for tourists."
+    }
+  ],
+  "relatedCities": [
+    "mumbai",
+    "bangalore",
+    "chennai"
+  ],
+  "_city_id": "hyderabad-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png"
+}

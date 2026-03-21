@@ -1,0 +1,166 @@
+{
+  "slug": "vang-vieng",
+  "name": "Vang Vieng",
+  "country": "Laos",
+  "countryCode": "LA",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.0,
+    "scamRisk": 4.5,
+    "womensSafety": 6.5,
+    "nightSafety": 5.0,
+    "transport": 6.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Vang Vieng is a popular backpacker destination in Laos known for its stunning karst limestone scenery and adventure activities. While generally safe for tourists, visitors should exercise caution due to common scams, recent methanol poisoning incidents, and adventure activity risks. The town has reformed from its wild party reputation to focus more on ecotourism.",
+  "quickVerdict": "Vang Vieng offers incredible natural beauty and adventure experiences but requires awareness of specific risks. Recent methanol poisoning cases (November 2024) highlight the dangers of contaminated alcohol, while motorbike rental scams and river activity accidents remain ongoing concerns. Solo female travelers generally report positive experiences with standard precautions. The nightlife scene has calmed significantly since the 2010s crackdown, though alcohol safety remains a serious issue. Most visitors enjoy trouble-free stays by avoiding unmarked alcohol, using reputable tour operators, and taking photos of rented vehicles before use.",
+  "neighborhoods": [
+    {
+      "name": "Town Center",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main tourist area with restaurants, bars, and accommodation. Generally safe with good foot traffic, though watch for motorbike traffic. Most amenities within walking distance."
+    },
+    {
+      "name": "Riverside/Nam Song Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Popular for tubing launch points and riverside restaurants. Exercise caution during monsoon season due to strong currents and flooding risks. Some isolated areas after dark."
+    },
+    {
+      "name": "Island/Bungalow District",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Quieter accommodation area across the river. About 10-minute walk from town center. Well-maintained paths but limited lighting at night."
+    },
+    {
+      "name": "Blue Lagoon Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Popular day trip destinations with natural swimming holes. Blue Lagoon 1 is overcrowded; lagoons 3-5 are safer options. Watch for unofficial entrance fees and strong currents."
+    },
+    {
+      "name": "Organic Mulberry Farm Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Peaceful rural area popular for pre/post-tubing stops. Good facilities and legitimate businesses. About 30 minutes from town center by tuk-tuk or motorbike."
+    },
+    {
+      "name": "Cave Areas (Tham Chang, etc.)",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Adventure tourism sites requiring proper equipment and guides. Some caves have steep, slippery paths. Use certified operators only and avoid during heavy rain."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Motorbike Rental Scam",
+      "risk": "high",
+      "description": "Rental shops arrange for bikes to be 'stolen' or claim false damage, then demand thousands of dollars compensation while holding passports hostage. Some shops use deliberately damaged bikes.",
+      "howToAvoid": "Never leave your passport as deposit - use driver's license or cash instead. Take detailed photos/videos of the bike before leaving. Use well-established rental companies and read contracts carefully."
+    },
+    {
+      "name": "Methanol Alcohol Poisoning",
+      "risk": "high",
+      "description": "Free shots, mixed drinks, and unmarked bottles may contain deadly methanol. Recent incidents in late 2024 resulted in multiple tourist deaths in Vang Vieng.",
+      "howToAvoid": "Only drink sealed, branded alcohol from reputable sources. Avoid free shots, bucket drinks, and anything poured from unmarked containers. Stick to Beer Lao when in doubt."
+    },
+    {
+      "name": "Happy Restaurant Drug Setup",
+      "risk": "medium",
+      "description": "Restaurants offer 'happy' food/drinks containing drugs, then corrupt police wait outside to arrest customers. Fines can reach $1000 to avoid prosecution.",
+      "howToAvoid": "Avoid any food or drinks advertised as 'happy' or 'special.' These establishments are largely abandoned now, but awareness remains important."
+    },
+    {
+      "name": "Tuk-Tuk Overcharging",
+      "risk": "low",
+      "description": "Drivers quote inflated prices for tourists, especially to Blue Lagoons or airport. Some stop mid-journey demanding additional payment.",
+      "howToAvoid": "Agree on price before starting journey. Standard rate is 10,000-15,000 kip per person within town. Ask locals or accommodation for current rates."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers generally report positive experiences in Vang Vieng with standard precautions. The town is relatively small and walkable during daylight hours. Sexual assaults have been reported but are uncommon. Most accommodation and tour operators are accustomed to solo female travelers.",
+    "tips": [
+      "Stay in well-reviewed hostels or guesthouses in the town center for better security",
+      "Avoid isolated river areas and caves alone, especially after dark",
+      "Be extra cautious with alcohol consumption and never accept drinks from strangers",
+      "Use buddy system for adventure activities like tubing, caving, or motorbike trips",
+      "Inform accommodation of your daily plans when heading to remote areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Vang Vieng's nightlife has dramatically changed since government crackdowns in the 2010s. Most bars close by 11 PM or midnight. The main safety concerns are alcohol-related incidents, particularly methanol poisoning, rather than violent crime. Streets are generally safe but poorly lit outside the main area.",
+    "tips": [
+      "Stick to sealed, branded alcoholic beverages and avoid free shots or mixed drinks",
+      "Travel in groups when bar hopping and arrange transport back to accommodation",
+      "Be aware of poor street lighting and uneven pavements when walking at night",
+      "Most venues close early (11 PM-midnight) so plan accordingly",
+      "Avoid river areas after dark due to poor visibility and current risks"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Vang Vieng is a small town best navigated on foot within the center.",
+    "rideshare": "No major rideshare apps operate here. The Xanh app works locally but has limited coverage.",
+    "taxis": "No formal taxi service. Tuk-tuks are the primary transport option, charging 10,000-15,000 kip per person for local trips. Train station transfers cost around 30,000 kip by group tuk-tuk.",
+    "tips": "Tuk-tuks are generally safe but agree prices upfront. For longer trips, rent bicycles (safer) or motorbikes (higher risk). The new train station is 4km from town center requiring tuk-tuk transfer."
+  },
+  "customs": [
+    "Greet people with 'sabaidee' and the 'nop' gesture (palms together, slight bow) especially to elders and monks",
+    "Dress modestly covering shoulders and knees, particularly in temples and rural areas",
+    "Remove shoes before entering homes, temples, and some local shops",
+    "Never touch someone's head or point feet toward people or Buddha images",
+    "Show respect to monks - women should not touch monks or hand items directly to them"
+  ],
+  "health": {
+    "overview": "Basic medical facilities are available locally but serious cases require evacuation to Thailand. The main health risks include methanol poisoning, waterborne diseases from contaminated water, and injuries from adventure activities. Dengue fever risk exists during wet season.",
+    "water": "Tap water is not safe to drink. Use bottled water for drinking and brushing teeth. Be cautious of ice in drinks unless from reputable establishments.",
+    "vaccinations": "Routine vaccinations should be up to date. Hepatitis A and typhoid recommended. Japanese encephalitis if staying long-term or visiting rural areas during rainy season.",
+    "altitude": "Vang Vieng sits at approximately 230m elevation - no altitude concerns. Climate is tropical with wet season May-October bringing higher humidity and disease vector risks."
+  },
+  "emergency": {
+    "general": "1191",
+    "police": "1191",
+    "ambulance": "1195",
+    "fire": "1190",
+    "touristPolice": "1192",
+    "usEmbassy": "U.S. Embassy Vientiane: +856 21 487-000 (emergencies) or +856 21 267-000 (main line). Located at Km 9, Ban Somvang Thai, Hatsayphong District, Vientiane."
+  },
+  "faq": [
+    {
+      "q": "Is Vang Vieng safe for tourists?",
+      "a": "Generally yes, but requires awareness of specific risks. The main dangers are methanol poisoning from contaminated alcohol, motorbike rental scams, and adventure activity accidents. Most visitors have safe, enjoyable trips by taking basic precautions and using reputable operators."
+    },
+    {
+      "q": "Is Vang Vieng safe at night?",
+      "a": "The nightlife scene is much calmer than its former party reputation, with most venues closing by midnight. Main safety concerns are alcohol quality (avoid unmarked drinks) and poor street lighting. Walking in groups is recommended, especially outside the main town center."
+    },
+    {
+      "q": "Is Vang Vieng safe for solo female travelers?",
+      "a": "Yes, with standard precautions. Solo female travelers commonly visit and report positive experiences. Stay in town center accommodation, avoid isolated areas alone, be cautious with alcohol, and use the buddy system for adventure activities."
+    },
+    {
+      "q": "What areas should I avoid in Vang Vieng?",
+      "a": "Avoid isolated river areas after dark, unlicensed adventure tour operators, and establishments offering 'happy' food or unmarked alcohol. The caves require proper guides and equipment. During monsoon season, avoid river activities due to strong currents."
+    },
+    {
+      "q": "Is it safe to use public transport in Vang Vieng?",
+      "a": "Tuk-tuks are generally safe for local transport, though agree on prices beforehand. Motorbike rentals carry higher risks due to poor road conditions and scam potential. The town is small enough to walk within the center. For longer distances, use reputable tour operators."
+    }
+  ],
+  "relatedCities": [
+    "luang-prabang",
+    "vientiane",
+    "pai",
+    "siem-reap",
+    "chiang-mai"
+  ],
+  "_city_id": "vang-vieng-laos",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/VientianeProvince_VangVieng9_tango7174.jpg"
+}

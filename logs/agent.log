@@ -2556,3 +2556,47 @@
 2026-03-21 06:11:38,157 [INFO] Merged into site data: Dalat
 2026-03-21 06:11:38,237 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-21 06:11:38,279 [INFO] Rebuilt sitemap with 534 URLs (396 cities, 132 countries, 6 static)
+2026-03-21 10:55:31,848 [INFO] Agent starting — mode: add
+2026-03-21 10:55:31,888 [INFO] Queue has 167 cities, adding 8
+2026-03-21 10:55:31,888 [INFO] Generating new city profile: Hue, Vietnam
+2026-03-21 10:57:06,138 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 10:57:06,367 [INFO] Found Wikipedia image for Hue
+2026-03-21 10:57:06,368 [INFO] Saved city data: hue-vietnam
+2026-03-21 10:57:06,372 [INFO] Generating new city profile: Vang Vieng, Laos
+2026-03-21 10:59:05,809 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 10:59:06,051 [INFO] Found Wikipedia image for Vang Vieng
+2026-03-21 10:59:06,052 [INFO] Saved city data: vang-vieng-laos
+2026-03-21 10:59:06,056 [INFO] Generating new city profile: Mandalay, Myanmar
+2026-03-21 11:00:20,847 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:00:20,969 [INFO] Found Wikipedia image for Mandalay
+2026-03-21 11:00:20,970 [INFO] Saved city data: mandalay-myanmar
+2026-03-21 11:00:20,974 [INFO] Generating new city profile: Chennai, India
+2026-03-21 11:02:31,862 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:02:32,018 [INFO] Found Wikipedia image for Chennai
+2026-03-21 11:02:32,019 [INFO] Saved city data: chennai-india
+2026-03-21 11:02:32,022 [INFO] Generating new city profile: Hyderabad, India
+2026-03-21 11:03:59,284 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:03:59,456 [INFO] Found Wikipedia image for Hyderabad
+2026-03-21 11:03:59,457 [INFO] Saved city data: hyderabad-india
+2026-03-21 11:03:59,460 [INFO] Generating new city profile: Amritsar, India
+2026-03-21 11:05:37,731 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:05:37,869 [INFO] Found Wikipedia image for Amritsar
+2026-03-21 11:05:37,869 [INFO] Saved city data: amritsar-india
+2026-03-21 11:05:37,873 [INFO] Generating new city profile: Jodhpur, India
+2026-03-21 11:07:05,440 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:07:05,592 [INFO] Found Wikipedia image for Jodhpur
+2026-03-21 11:07:05,592 [INFO] Saved city data: jodhpur-india
+2026-03-21 11:07:05,596 [INFO] Generating new city profile: Darjeeling, India
+2026-03-21 11:08:39,859 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 11:08:40,007 [INFO] Found Wikipedia image for Darjeeling
+2026-03-21 11:08:40,007 [INFO] Saved city data: darjeeling-india
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Hue
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Vang Vieng
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Mandalay
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Chennai
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Hyderabad
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Amritsar
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Jodhpur
+2026-03-21 11:08:40,054 [INFO] Merged into site data: Darjeeling
+2026-03-21 11:08:40,136 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-21 11:08:40,181 [INFO] Rebuilt sitemap with 542 URLs (404 cities, 132 countries, 6 static)

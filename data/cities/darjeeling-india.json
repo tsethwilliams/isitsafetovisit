@@ -1,0 +1,166 @@
+{
+  "slug": "darjeeling",
+  "name": "Darjeeling",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "Darjeeling is a charming hill station known for its tea gardens and colonial heritage. The Queen of the Hills enjoys relatively low crime rates and friendly locals. However, travelers should be aware of landslide risks during monsoon season and take standard precautions.",
+  "quickVerdict": "Darjeeling is generally safe for tourists with low violent crime rates and hospitable locals. The main concerns are monsoon-related landslides, petty theft in tourist areas, and taxi scams. Solo female travelers find it particularly welcoming, though modest dress is recommended. The hill station's peaceful atmosphere makes it ideal for families and couples.",
+  "neighborhoods": [
+    {
+      "name": "Mall Road & Chowrasta",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of tourist Darjeeling with good police presence, well-lit streets, and constant foot traffic. Shops, cafes, and hotels line this area making it very safe day and night."
+    },
+    {
+      "name": "Tiger Hill",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular sunrise viewing spot that's safe but requires early morning travel in shared vehicles. Well-organized tourism infrastructure with regular police patrols during peak hours."
+    },
+    {
+      "name": "Observatory Hill",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Sacred site with temples and scenic views. Generally safe with good lighting and regular visitors, though paths can be steep and require caution during monsoons."
+    },
+    {
+      "name": "Darjeeling Railway Station",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Busy transport hub with some pickpocketing risks and taxi scams targeting tourists. Exercise caution with belongings and use pre-arranged transport when possible."
+    },
+    {
+      "name": "Tea Gardens",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Peaceful rural areas around tea plantations are generally safe but can be isolated. Travel in groups and inform others of your plans when visiting remote estates."
+    },
+    {
+      "name": "Lower Town Areas",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Older residential and commercial areas with narrow streets and limited lighting. Generally safe during day but avoid wandering alone at night, especially for solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Fare Inflation",
+      "risk": "high",
+      "description": "Drivers quote inflated fares to tourists, especially from airports and railway stations. They may refuse to use meters or claim they're broken.",
+      "howToAvoid": "Research standard fares beforehand, use pre-paid taxi counters at airports, or book through reputable travel agencies. Always negotiate fare before starting journey."
+    },
+    {
+      "name": "Fake Tourist Offices",
+      "risk": "medium",
+      "description": "Scammers pose as official tourism offices offering overpriced packages and fake bookings, particularly targeting first-time visitors.",
+      "howToAvoid": "Use only government-approved tourism offices. Verify official locations online before visiting. Be suspicious of unsolicited offers from touts."
+    },
+    {
+      "name": "Hotel Booking Fraud",
+      "risk": "medium",
+      "description": "Online platforms may list fake hotels or properties that don't exist, particularly during peak tourist season when demand is high.",
+      "howToAvoid": "Book through verified platforms like official hotel websites. Read recent reviews carefully. Contact hotels directly to confirm bookings before arrival."
+    },
+    {
+      "name": "Overpriced Guide Services",
+      "risk": "medium",
+      "description": "Unauthorized guides approach tourists offering services at inflated prices, sometimes leading visitors to commission-earning shops instead of attractions.",
+      "howToAvoid": "Use only licensed guides recommended by hotels or official tourism offices. Agree on itinerary and price upfront. Avoid guides who insist on shopping stops."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Darjeeling is considered one of the safest destinations in India for solo female travelers. The locals are respectful and hospitable, with low crime rates and good tourist infrastructure. Police are generally helpful and English-speaking. The conservative hill culture means modest dress is appreciated but the atmosphere is welcoming to independent female travelers.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central areas like Mall Road with good security and 24-hour reception",
+      "Dress modestly covering shoulders and knees, especially when visiting temples or traditional areas",
+      "Use trusted transport services and avoid traveling alone to remote areas after dark",
+      "Connect with other travelers at hostels or join organized tours for company when exploring",
+      "Keep emergency contacts handy and inform someone of your daily plans"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Darjeeling nightlife is limited with most establishments closing by 9:30-10pm due to local culture and early tourism schedules. The town is generally safe at night with low crime rates, but streets can be poorly lit and hilly terrain makes navigation challenging. The peaceful, family-oriented atmosphere means violent crime is rare.",
+    "tips": [
+      "Stick to main areas like Mall Road and Chowrasta where there's better lighting and occasional foot traffic",
+      "Use hotel-arranged transport for evening activities rather than walking on steep, poorly lit roads",
+      "Enjoy early evening activities like heritage pubs and cafes that close around 9:30pm",
+      "Travel in groups when possible and inform hotel staff of your evening plans",
+      "Be extra cautious during monsoon when roads can be slippery and visibility poor"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available. Local transport consists of shared taxis, private vehicles, and the heritage Toy Train on specific routes.",
+    "rideshare": "Limited rideshare services like Uber operate in some areas, but shared taxis and pre-arranged private vehicles are more reliable options.",
+    "taxis": "Shared taxis (sumo/jeep style) are the primary transport, operating on fixed routes. Private taxis available but negotiate fare beforehand. Some operators try to overcharge tourists.",
+    "tips": "Use hotel-arranged transport for airport transfers. Shared taxis are economical but crowded. The Toy Train offers scenic routes but limited destinations. Always agree on fares upfront for private vehicles."
+  },
+  "customs": [
+    "Use 'Namaste' greeting with palms pressed together - shows cultural respect and is widely appreciated by locals",
+    "Remove shoes before entering homes, temples, and some shops - this is mandatory and deeply rooted in tradition",
+    "Use right hand for eating, greeting, and passing items - left hand is considered unclean for cultural and practical reasons",
+    "Dress modestly especially in religious sites - cover shoulders and knees, some temples require head covering",
+    "Show respect to elders and religious sites - photography may be restricted in some temples and sacred areas"
+  ],
+  "health": {
+    "overview": "Darjeeling has adequate healthcare facilities including the District Hospital and several private clinics. Air quality is generally good due to mountain location. Altitude is moderate (around 6,700 feet) and rarely causes issues for most visitors.",
+    "water": "Bottled water recommended for tourists. Tap water should be avoided. Many hotels provide filtered water. Be cautious with ice in drinks and fresh salads.",
+    "vaccinations": "Standard India vaccinations recommended: Hepatitis A/B, Typhoid, Japanese Encephalitis in some cases. Consult travel clinic 4-6 weeks before travel.",
+    "altitude": "Moderate altitude may cause mild symptoms in sensitive individuals. Cool climate year-round requiring warm clothing in winter. Monsoon season (June-September) brings heavy rainfall and landslide risks."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "102",
+    "fire": "101",
+    "touristPolice": "0354-2252057",
+    "usEmbassy": "US Consulate Kolkata: +91-33-3984-2400. For emergencies involving US citizens, contact the 24/7 hotline at +1-202-501-4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Darjeeling safe for tourists?",
+      "a": "Yes, Darjeeling is generally very safe for tourists with low crime rates and friendly locals. Main concerns are landslides during monsoon season and minor scams targeting tourists. Basic precautions are sufficient for a safe visit."
+    },
+    {
+      "q": "Is Darjeeling safe at night?",
+      "a": "Darjeeling is relatively safe at night but has limited nightlife with most places closing by 9:30pm. Stick to well-lit main areas like Mall Road and use hotel transport rather than walking on dark, steep streets."
+    },
+    {
+      "q": "Is Darjeeling safe for solo female travelers?",
+      "a": "Yes, Darjeeling is considered one of India's safest destinations for solo female travelers. Locals are respectful, crime rates are low, and tourist infrastructure is well-developed. Modest dress is recommended but the atmosphere is very welcoming."
+    },
+    {
+      "q": "What areas should I avoid in Darjeeling?",
+      "a": "Avoid remote tea garden areas alone, lower town areas at night, and steep hillside paths during monsoon. Be cautious around railway stations and bus stands where scams are more common. Stick to main tourist areas for the safest experience."
+    },
+    {
+      "q": "Is it safe to use public transport in Darjeeling?",
+      "a": "Shared taxis are generally safe and widely used by locals and tourists. The heritage Toy Train is very safe but limited routes. Private taxis are safe but negotiate fares beforehand. Avoid overloaded vehicles and unlicensed operators."
+    }
+  ],
+  "relatedCities": [
+    "gangtok",
+    "kalimpong",
+    "siliguri",
+    "kurseong",
+    "mirik"
+  ],
+  "_city_id": "darjeeling-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/DarjeelingTrainFruitshop_%282%29.jpg/1280px-DarjeelingTrainFruitshop_%282%29.jpg"
+}
