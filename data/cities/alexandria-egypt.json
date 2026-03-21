@@ -1,0 +1,167 @@
+{
+  "slug": "alexandria",
+  "name": "Alexandria",
+  "country": "Egypt",
+  "countryCode": "EG",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 6.5,
+    "transport": 7.0,
+    "naturalHazards": 6.8
+  },
+  "summary": "Alexandria is Egypt's Mediterranean port city offering a more relaxed atmosphere than Cairo but still requiring standard travel precautions. The city has moderate crime levels mostly involving petty theft and tourist scams, with good transport infrastructure and visible security presence in tourist areas.",
+  "quickVerdict": "Alexandria is generally safe for tourists with proper precautions. The city benefits from being less chaotic than Cairo while maintaining good infrastructure and security. Petty crime like pickpocketing exists but violent crime against tourists is rare. Street harassment can occur especially for women, but the Mediterranean coastal setting provides a more laid-back environment. Most visitors report positive experiences when following basic safety guidelines.",
+  "neighborhoods": [
+    {
+      "name": "Corniche",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The seafront promenade is well-patrolled and popular with families in the evening. Good lighting and regular police presence make it one of the safest areas to walk at night."
+    },
+    {
+      "name": "Stanley",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern district with upscale hotels and restaurants. Well-maintained with good security and popular with tourists. Safe for solo travelers during day and evening."
+    },
+    {
+      "name": "San Stefano",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Upscale area with luxury hotels and shopping centers. Generally safe with good lighting and security. Popular nightlife area with visible police presence."
+    },
+    {
+      "name": "Downtown Alexandria",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic city center with markets and older buildings. Can be crowded with more aggressive vendors. Exercise caution with belongings and avoid isolated streets after dark."
+    },
+    {
+      "name": "Al-Montaza",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed residential and tourist area. Generally safe during day but can be quiet at night. Some reports of harassment and petty crime, especially in less tourist-focused areas."
+    },
+    {
+      "name": "Al-Gomrok",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Port and industrial area with higher crime rates. Not recommended for tourists especially after dark. Limited police presence and potential for more serious criminal activity."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Museum Guides",
+      "risk": "medium",
+      "description": "People approach tourists claiming you need to wait for museums to open and offer tea while you wait, then demand payment.",
+      "howToAvoid": "Only use official museum guides and entrances. Politely decline unsolicited help from strangers."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "high",
+      "description": "Drivers claim meters are broken and quote inflated prices, especially targeting tourists near hotels and attractions.",
+      "howToAvoid": "Use Uber or Careem when available, agree on fare before starting trip, or insist meter is turned on."
+    },
+    {
+      "name": "Overcharging Tourists",
+      "risk": "high",
+      "description": "Vendors and service providers quote significantly higher prices for foreigners, especially at markets and tourist sites.",
+      "howToAvoid": "Research normal prices beforehand, be prepared to negotiate firmly, and don't be afraid to walk away."
+    },
+    {
+      "name": "Photo Taking Demands",
+      "risk": "medium",
+      "description": "Someone offers to take your photo then demands a tip afterward, sometimes aggressively.",
+      "howToAvoid": "Politely decline photo offers from strangers or establish no payment is expected before accepting help."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Alexandria is more relaxed than Cairo for solo female travelers but still requires cultural awareness and precautions. Street harassment in the form of staring, comments, or following can occur, particularly in crowded areas like markets. The Mediterranean atmosphere makes it somewhat easier to navigate than other Egyptian cities, but modest dress and confident behavior are essential.",
+    "tips": [
+      "Dress modestly covering shoulders, arms, and legs to minimize unwanted attention",
+      "Use Uber or Careem instead of street taxis for safer transportation",
+      "Stay in well-reviewed areas like Corniche, Stanley, or San Stefano",
+      "Avoid isolated areas after dark and stick to well-lit, populated streets",
+      "Consider joining group tours or using reputable local guides for enhanced safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Alexandria comes alive at night along the Corniche with families and couples enjoying evening walks by the sea. The main tourist areas are generally safe with good lighting and police presence, but caution is still needed in less populated areas. The Mediterranean culture allows for more evening socializing than other Egyptian cities.",
+    "tips": [
+      "Stick to well-lit areas like the Corniche and Stanley Bridge area after dark",
+      "Travel in groups when possible and avoid walking alone late at night",
+      "Use ride-sharing apps rather than street taxis for evening transportation",
+      "Be aware that some hotel nightclubs may have poor reputations",
+      "Stay alert in crowded evening entertainment areas and watch your belongings"
+    ]
+  },
+  "transport": {
+    "metro": "Alexandria does not have a metro system. Local transportation relies on buses, taxis, and ride-sharing apps.",
+    "rideshare": "Uber and Careem operate reliably in Alexandria and are the safest option for tourists. Both accept credit cards and provide GPS tracking for security.",
+    "taxis": "Local black-and-yellow taxis are available but often don't use meters. Drivers frequently overcharge tourists, and haggling is necessary. Safety and cleanliness vary significantly.",
+    "tips": "Use Uber or Careem for convenience and safety. If using regular taxis, agree on price beforehand and carry small bills. Train connections to Cairo are comfortable and secure."
+  },
+  "customs": [
+    "Dress modestly especially when visiting religious sites - cover shoulders, arms, and legs",
+    "Greet people politely with 'salaam alaykum' or good morning/afternoon, wait for women to extend hand first",
+    "Remove shoes when entering homes or mosques, and bring small gifts when invited to someone's home",
+    "Tipping (baksheesh) is expected for most services including restaurants (10-15%), hotel staff, and guides",
+    "Avoid public displays of affection, keep photography respectful especially of people and religious sites",
+    "Show respect for Islamic customs during prayer times and especially during Ramadan"
+  ],
+  "health": {
+    "overview": "Healthcare in Alexandria includes both public and private facilities, with private hospitals generally offering better quality care. English-speaking staff are more common in private healthcare settings serving expatriates and tourists.",
+    "water": "Drink bottled water to avoid stomach issues. Tap water is not recommended for tourists. Be cautious with ice in drinks and ensure fruits and vegetables are properly washed.",
+    "vaccinations": "No special vaccinations required for Egypt entry from most countries. Ensure routine vaccinations are current. Yellow fever vaccination required if arriving from infected areas.",
+    "altitude": "Alexandria is at sea level with a Mediterranean climate. Hot, humid summers and mild winters. Air pollution can be an issue in busy areas."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "122",
+    "ambulance": "123",
+    "fire": "180",
+    "touristPolice": "126",
+    "usEmbassy": "U.S. Embassy Cairo: +20-2-2797-3300 (Located in Cairo, covers Alexandria area)"
+  },
+  "faq": [
+    {
+      "q": "Is Alexandria safe for tourists?",
+      "a": "Yes, Alexandria is generally safe for tourists who take standard precautions. The city has visible police presence in tourist areas and lower crime rates than Cairo. Most visits pass without incident."
+    },
+    {
+      "q": "Is Alexandria safe at night?",
+      "a": "Alexandria is relatively safe at night along main areas like the Corniche where families gather. However, avoid isolated streets and use ride-sharing apps for transportation after dark."
+    },
+    {
+      "q": "Is Alexandria safe for solo female travelers?",
+      "a": "Alexandria is more relaxed than other Egyptian cities for solo women but requires cultural awareness. Dress modestly, use reputable transport, and stay in tourist areas to minimize harassment."
+    },
+    {
+      "q": "What areas should I avoid in Alexandria?",
+      "a": "Avoid the port area Al-Gomrok especially after dark, isolated streets away from tourist zones, and be cautious in crowded downtown markets where pickpocketing occurs."
+    },
+    {
+      "q": "Is it safe to use public transport in Alexandria?",
+      "a": "Uber and Careem are the safest transport options. Regular taxis can be used with caution - agree on prices beforehand. Trains to Cairo are comfortable and secure."
+    }
+  ],
+  "relatedCities": [
+    "cairo",
+    "sharm-el-sheikh",
+    "marrakech",
+    "istanbul",
+    "dubai"
+  ],
+  "_city_id": "alexandria-egypt",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San_Stefano_Grand_Plaza.JPG/1280px-San_Stefano_Grand_Plaza.JPG"
+}

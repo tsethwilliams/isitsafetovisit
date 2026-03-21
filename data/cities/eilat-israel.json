@@ -1,0 +1,158 @@
+{
+  "slug": "eilat",
+  "name": "Eilat",
+  "country": "Israel",
+  "countryCode": "IL",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.8,
+    "naturalHazards": 3.8
+  },
+  "summary": "Eilat is normally a safe Red Sea resort destination known for excellent nightlife and water sports. However, current regional tensions have heightened security risks throughout Israel.",
+  "quickVerdict": "Under normal circumstances, Eilat is considered one of Israel's safest cities with low crime rates and excellent tourist infrastructure. The resort town is particularly welcoming to solo female travelers and has a vibrant, well-policed nightlife scene. However, the current security environment in Israel requires heightened caution. The U.S. State Department has authorized departure of non-emergency personnel, and there are ongoing concerns about missile strikes and security incidents. While tourist areas remain generally operational, travelers should carefully monitor security alerts and have contingency plans.",
+  "neighborhoods": [
+    {
+      "name": "North Beach/Hotel District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main tourist strip along the Red Sea coastline with luxury hotels, restaurants, and attractions. Well-patrolled with good infrastructure and regular security presence."
+    },
+    {
+      "name": "Central Tourist Area/Promenade",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The heart of Eilat's entertainment district featuring shopping malls, bars, and nightclubs. Bustling with tourists and locals, well-lit, and heavily monitored."
+    },
+    {
+      "name": "Marina and Coral Beach",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Popular area for diving, snorkeling, and water sports activities. Generally safe during the day with good tourist facilities, though less crowded in the evenings."
+    },
+    {
+      "name": "Old Commercial Center",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Local shopping and residential area with markets and everyday services. Safe during daytime but can feel less touristy and secure after dark."
+    },
+    {
+      "name": "Industrial Zone/Port Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Working industrial district near the Jordanian border. Not particularly dangerous but has little tourist infrastructure and can feel isolated, especially at night."
+    },
+    {
+      "name": "Outlying Desert Areas",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Remote desert locations outside the city proper. Risk of getting lost, extreme weather conditions, and limited emergency access. Guided tours recommended."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "medium",
+      "description": "Some taxi drivers may refuse to use the meter or quote inflated fixed prices, especially from the airport or to tourist attractions.",
+      "howToAvoid": "Always insist on the meter being used or agree on a fixed price beforehand. Use apps like Gett for transparent pricing."
+    },
+    {
+      "name": "Fake Tour Operator Deals",
+      "risk": "medium",
+      "description": "Street sellers offering discounted tours to Petra or other attractions that may be unreliable or overpriced compared to legitimate operators.",
+      "howToAvoid": "Book tours through licensed operators or your hotel. Verify credentials and read reviews before paying any deposits."
+    },
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "low",
+      "description": "Some tourist-focused restaurants may switch menu items or add unexpected charges, particularly for seafood or drinks.",
+      "howToAvoid": "Check prices carefully before ordering and ask about any additional charges. Request itemized bills and verify charges match the menu."
+    },
+    {
+      "name": "Beach Equipment Rentals",
+      "risk": "low",
+      "description": "Inflated prices for snorkeling gear, umbrellas, or chairs at some beach locations, or hidden damage fees when returning equipment.",
+      "howToAvoid": "Compare prices at multiple locations and inspect equipment before renting. Take photos of condition and clarify return policies upfront."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Eilat is ranked as the safest city in Israel for solo female travelers, with a 4.4 out of 5 safety rating. The resort atmosphere means streets are busy well into the evening, locals are generally respectful, and incidents targeting female tourists are rare. Public transportation is reliable and safe, and there's minimal street harassment.",
+    "tips": [
+      "Stay in the main hotel district where there's constant activity and security presence",
+      "The nightlife scene is female-friendly but use standard precautions with drinks in crowded bars",
+      "Public beaches and water activities are generally very safe during daylight hours"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Eilat has vibrant and generally safe nightlife, with 94% of residents and visitors feeling secure during nighttime hours. The tourist areas remain busy until late with good police presence, and most bars and clubs maintain security staff. However, be aware of potential pickpocketing and drink spiking in crowded venues.",
+    "tips": [
+      "Stick to well-lit, populated areas along the main promenade and hotel district",
+      "Travel in groups when possible and watch drinks carefully in busy nightclubs",
+      "Be cautious of excessive alcohol consumption as emergency services may be limited during current tensions"
+    ]
+  },
+  "transport": {
+    "metro": "Eilat has no metro system. The city is small and walkable for most tourist areas.",
+    "rideshare": "Gett is the primary ride-hailing app in Eilat, offering reliable service and transparent pricing. Uber and Lyft are not yet operational.",
+    "taxis": "Taxis are generally safe and affordable. Always insist drivers use the meter or agree on fixed prices beforehand. 25% surcharge applies after dark and during Shabbat.",
+    "tips": "Public buses are reliable and safe for getting around locally. For longer distances, intercity buses require reservations to/from Eilat and are professionally operated."
+  },
+  "customs": [
+    "Dress modestly when visiting religious sites - cover shoulders and knees",
+    "Tipping 12% is standard at restaurants and cafes",
+    "Business hours vary with many establishments closing early on Friday for Sabbath"
+  ],
+  "health": {
+    "overview": "Israel has excellent healthcare with modern facilities and high standards. Eilat has quality medical services and the water supply is safe to drink.",
+    "water": "Tap water is safe and meets high quality standards. Water is desalinated and regularly tested, though some prefer bottled water due to mineral content differences.",
+    "vaccinations": "No special vaccinations required for most visitors. Standard travel vaccines recommended. Check current CDC guidelines for any updates.",
+    "altitude": "Eilat is at sea level. The climate is desert with hot summers and mild winters. Strong UV exposure requires sun protection year-round."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "101",
+    "fire": "102",
+    "touristPolice": "100",
+    "usEmbassy": "U.S. Embassy Jerusalem: +972-2-630-4000. Branch Office in Tel Aviv for consular services. Americans should register with STEP for security updates."
+  },
+  "faq": [
+    {
+      "q": "Is Eilat safe for tourists?",
+      "a": "Under normal circumstances, Eilat is very safe with low crime rates and excellent tourist infrastructure. However, current regional tensions require monitoring security alerts and having contingency plans. Tourist areas remain operational but heightened caution is advised."
+    },
+    {
+      "q": "Is Eilat safe at night?",
+      "a": "Yes, Eilat has vibrant and generally safe nightlife. The tourist areas stay busy late with good police presence. However, use standard precautions in crowded bars, stick to well-lit areas, and be aware of potential pickpocketing."
+    },
+    {
+      "q": "Is Eilat safe for solo female travelers?",
+      "a": "Eilat is ranked as Israel's safest city for solo female travelers. The resort atmosphere, busy streets, and respectful locals create a secure environment. Public transport is safe and reliable, with minimal street harassment reported."
+    },
+    {
+      "q": "What areas should I avoid in Eilat?",
+      "a": "Avoid remote desert areas without guides, the industrial zone near the port after dark, and be cautious in outlying areas beyond the main tourist district. The hotel zone and central promenade are the safest areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Eilat?",
+      "a": "Yes, public transport is safe and reliable. Local buses serve the city well, and taxis are generally trustworthy when using the meter. The Gett app provides transparent ride-hailing services throughout the city."
+    }
+  ],
+  "relatedCities": [
+    "jerusalem",
+    "tel-aviv",
+    "haifa"
+  ],
+  "_city_id": "eilat-israel",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Eilat_night_hotels_2016.jpg/1280px-Eilat_night_hotels_2016.jpg"
+}

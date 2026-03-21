@@ -2644,3 +2644,47 @@
 2026-03-21 17:11:31,319 [INFO] Merged into site data: Ashgabat
 2026-03-21 17:11:31,403 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-21 17:11:31,448 [INFO] Rebuilt sitemap with 553 URLs (412 cities, 135 countries, 6 static)
+2026-03-21 22:55:07,555 [INFO] Agent starting — mode: add
+2026-03-21 22:55:07,591 [INFO] Queue has 151 cities, adding 8
+2026-03-21 22:55:07,592 [INFO] Generating new city profile: Medina, Saudi Arabia
+2026-03-21 22:56:27,920 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 22:56:28,341 [INFO] Found Wikipedia image for Medina
+2026-03-21 22:56:28,342 [INFO] Saved city data: medina-saudi-arabia
+2026-03-21 22:56:28,346 [INFO] Generating new city profile: Aqaba, Jordan
+2026-03-21 22:57:49,383 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 22:57:49,705 [INFO] Found Wikipedia image for Aqaba
+2026-03-21 22:57:49,706 [INFO] Saved city data: aqaba-jordan
+2026-03-21 22:57:49,710 [INFO] Generating new city profile: Eilat, Israel
+2026-03-21 22:59:10,706 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 22:59:10,993 [INFO] Found Wikipedia image for Eilat
+2026-03-21 22:59:10,994 [INFO] Saved city data: eilat-israel
+2026-03-21 22:59:10,998 [INFO] Generating new city profile: Salalah, Oman
+2026-03-21 23:00:52,768 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 23:00:53,315 [INFO] Found Wikipedia image for Salalah
+2026-03-21 23:00:53,316 [INFO] Saved city data: salalah-oman
+2026-03-21 23:00:53,320 [INFO] Generating new city profile: Erbil, Iraq
+2026-03-21 23:02:26,791 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 23:02:27,071 [INFO] Found Wikipedia image for Erbil
+2026-03-21 23:02:27,071 [INFO] Saved city data: erbil-iraq
+2026-03-21 23:02:27,075 [INFO] Generating new city profile: Casablanca, Morocco
+2026-03-21 23:03:50,422 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 23:03:50,573 [INFO] Found Wikipedia image for Casablanca
+2026-03-21 23:03:50,573 [INFO] Saved city data: casablanca-morocco
+2026-03-21 23:03:50,577 [INFO] Generating new city profile: Alexandria, Egypt
+2026-03-21 23:05:13,371 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 23:05:13,784 [INFO] Found Wikipedia image for Alexandria
+2026-03-21 23:05:13,785 [INFO] Saved city data: alexandria-egypt
+2026-03-21 23:05:13,788 [INFO] Generating new city profile: Algiers, Algeria
+2026-03-21 23:06:49,410 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 23:06:49,753 [INFO] Found Wikipedia image for Algiers
+2026-03-21 23:06:49,753 [INFO] Saved city data: algiers-algeria
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Medina
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Aqaba
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Eilat
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Salalah
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Erbil
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Casablanca
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Alexandria
+2026-03-21 23:06:49,799 [INFO] Merged into site data: Algiers
+2026-03-21 23:06:49,877 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-21 23:06:49,921 [INFO] Rebuilt sitemap with 563 URLs (420 cities, 137 countries, 6 static)

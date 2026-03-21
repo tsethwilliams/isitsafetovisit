@@ -1,0 +1,166 @@
+{
+  "slug": "medina",
+  "name": "Medina",
+  "country": "Saudi Arabia",
+  "countryCode": "SA",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 7.8,
+    "scamRisk": 4.5,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 7.2
+  },
+  "summary": "Medina is one of Islam's holiest cities and generally maintains high security levels around religious sites with low violent crime rates. However, the current geopolitical situation with Level 3 travel advisories, terrorism concerns, and regional conflict risks require heightened caution for all visitors.",
+  "quickVerdict": "While Medina benefits from exceptional security around the Prophet's Mosque and low street crime, the current regional tensions including drone and missile threats from Iran, heightened terrorism risk, and strict local laws regarding social media and cultural conduct require visitors to exercise significant caution. Solo female travelers report feeling generally safe but must respect conservative dress codes and cultural norms.",
+  "neighborhoods": [
+    {
+      "name": "Haram Area (Prophet's Mosque vicinity)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Extremely high security presence with constant police patrols and surveillance. Safest area in the city with heavy protection for pilgrims and tourists."
+    },
+    {
+      "name": "Central Medina",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Well-patrolled commercial and residential area with good lighting and regular police presence. Generally safe for tourists during day and evening hours."
+    },
+    {
+      "name": "Al-Masjid District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Religious quarter with high security and frequent patrols. Popular with pilgrims and generally very safe, though crowded during peak seasons."
+    },
+    {
+      "name": "Industrial Areas",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Outer industrial zones with less security presence and fewer amenities. Avoid after dark and use only licensed transportation."
+    },
+    {
+      "name": "Airport Road Corridor",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Main transportation route with moderate security. Generally safe but exercise caution with unlicensed taxi operators and overcharging scams."
+    },
+    {
+      "name": "Outskirts/Rural Areas",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Remote areas with minimal security presence and potential security risks. Avoid traveling to these areas, especially alone or at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Camera Photo Scam",
+      "risk": "medium",
+      "description": "Scammers ask you to take their photo with their camera, then intentionally drop it and demand compensation claiming you broke it.",
+      "howToAvoid": "Politely decline to handle strangers' cameras or electronics. If approached, walk away immediately."
+    },
+    {
+      "name": "Pilgrim Sob Stories",
+      "risk": "high",
+      "description": "Well-dressed individuals approach tourists with fabricated stories about lost money, medical emergencies, or stolen passports, often targeting Muslims near the Prophet's Mosque.",
+      "howToAvoid": "Be skeptical of emotional appeals for money. Offer to pray for them instead of giving cash. Report persistent scammers to mosque security."
+    },
+    {
+      "name": "Accommodation Bait-and-Switch",
+      "risk": "high",
+      "description": "Travel operators promise luxury accommodations but deliver substandard or non-existent hotels upon arrival, particularly common during Umrah season.",
+      "howToAvoid": "Book accommodations directly through reputable platforms. Verify hotel details and get written confirmations. Research operators thoroughly."
+    },
+    {
+      "name": "Short-Change Money Exchange",
+      "risk": "medium",
+      "description": "Shopkeepers deliberately give incorrect change, assuming tourists won't notice or won't complain due to strict anti-theft penalties.",
+      "howToAvoid": "Count your change carefully before leaving any establishment. Insist on correct amount - most will comply due to severe legal penalties for theft."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Medina is possible but requires careful attention to local customs and dress codes. Women report feeling generally safe, especially in tourist areas and around the Prophet's Mosque, but must dress conservatively and respect cultural boundaries. The city has high security levels around religious sites, though the conservative nature requires extra cultural sensitivity.",
+    "tips": [
+      "Dress modestly with long sleeves, long pants/skirts, and head covering when visiting religious sites",
+      "Use reputable ride-sharing apps like Careem or Uber rather than flagging down taxis",
+      "Stay in well-reviewed accommodations and consider women-only hotel floors when available",
+      "Avoid walking alone in less populated areas, especially after dark",
+      "Be prepared for gender segregation in many public spaces and look for 'family' sections"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Medina's night safety is moderate with good security around major religious sites and central areas, but the current geopolitical tensions and conservative nature of the city require extra caution. The Prophet's Mosque area remains well-patrolled 24/7, but other areas may have reduced activity after evening prayers.",
+    "tips": [
+      "Stay near the Haram area where security presence is strongest after dark",
+      "Use only licensed taxis or ride-sharing apps for nighttime transportation",
+      "Avoid walking alone in industrial or outer areas after sunset",
+      "Be aware that many businesses close during prayer times, leaving some areas temporarily deserted",
+      "Keep emergency numbers readily available and inform someone of your whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Medina does not have a metro system. Public transportation is limited to buses and private vehicles.",
+    "rideshare": "Uber and Careem operate reliably throughout the city with good safety records and fixed pricing. These are recommended over traditional taxis for tourists.",
+    "taxis": "Licensed taxis are available but may attempt to overcharge tourists or claim broken meters. Always agree on fare beforehand or insist on meter usage.",
+    "tips": "Use ride-sharing apps when possible, verify driver and vehicle details, and avoid unlicensed taxi operators especially at the airport."
+  },
+  "customs": [
+    "Dress modestly covering arms and legs; women should wear hijab and abaya in religious areas",
+    "Respect prayer times when many businesses close temporarily throughout the day",
+    "Avoid public displays of affection and photography of people without permission",
+    "Do not consume alcohol or pork as both are strictly prohibited",
+    "Be extremely careful with social media posts - criticism of government or religion can result in arrest and imprisonment"
+  ],
+  "health": {
+    "overview": "Medina has adequate healthcare facilities with several hospitals and clinics, though the system faces challenges with workforce shortages and fragmented care coordination. Private healthcare is generally better than public facilities for expatriates.",
+    "water": "Tap water is generally safe but bottled water is recommended for sensitive stomachs. Stay well-hydrated in the desert climate.",
+    "vaccinations": "No specific vaccinations required beyond routine immunizations. Check with your healthcare provider for current recommendations.",
+    "altitude": "Medina sits at approximately 600 meters above sea level. The desert climate features extreme heat in summer and mild winters. Temperatures can exceed 40°C (104°F) in summer months."
+  },
+  "emergency": {
+    "general": "911 or 999",
+    "police": "999",
+    "ambulance": "997",
+    "fire": "998",
+    "touristPolice": "Contact regular police at 999",
+    "usEmbassy": "US Embassy Riyadh: +966-11-835-4000. Note: US government has ordered non-emergency personnel to leave Saudi Arabia due to security risks."
+  },
+  "faq": [
+    {
+      "q": "Is Medina safe for tourists?",
+      "a": "Medina is generally safe for tourists with high security around religious sites, but current geopolitical tensions and terrorism risks require heightened caution. The US State Department maintains a Level 3 'Reconsider Travel' advisory."
+    },
+    {
+      "q": "Is Medina safe at night?",
+      "a": "The Prophet's Mosque area is well-secured 24/7, but other areas require caution after dark. Use reliable transportation and stick to well-lit, populated areas. The conservative culture means reduced nighttime activity."
+    },
+    {
+      "q": "Is Medina safe for solo female travelers?",
+      "a": "Solo female travel is possible but requires strict adherence to dress codes and cultural norms. Women report feeling safe in tourist areas but must wear modest clothing including hijab in religious sites and be prepared for gender segregation."
+    },
+    {
+      "q": "What areas should I avoid in Medina?",
+      "a": "Avoid industrial areas and city outskirts, especially after dark. Remote areas outside the city have minimal security presence. Stay within the central tourist and religious districts where security is strongest."
+    },
+    {
+      "q": "Is it safe to use public transport in Medina?",
+      "a": "Medina lacks metro service. Use ride-sharing apps like Uber or Careem rather than flagging down taxis. Licensed taxis are available but may attempt overcharging. Avoid unlicensed taxi operators particularly at the airport."
+    }
+  ],
+  "relatedCities": [
+    "mecca",
+    "riyadh",
+    "jeddah",
+    "doha",
+    "dubai"
+  ],
+  "_city_id": "medina-saudi-arabia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/1280px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg"
+}
