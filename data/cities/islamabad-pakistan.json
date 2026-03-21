@@ -1,0 +1,168 @@
+{
+  "slug": "islamabad",
+  "name": "Islamabad",
+  "country": "Pakistan",
+  "countryCode": "PK",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.2,
+    "scamRisk": 5.8,
+    "womensSafety": 6.0,
+    "nightSafety": 6.3,
+    "transport": 6.8,
+    "naturalHazards": 5.0
+  },
+  "summary": "Islamabad is Pakistan's safest major city and ranks among the world's more secure capitals, with well-planned infrastructure and strong security presence. However, the Level 3 US travel advisory reflects ongoing regional tensions and geopolitical risks affecting the broader country.",
+  "quickVerdict": "Islamabad offers a relatively secure environment for tourists among Pakistani cities, with controlled urban planning, diplomatic security, and lower crime rates than regional peers. While violent crime against foreigners is rare and the city has improved significantly in safety rankings, visitors should remain aware of heightened regional tensions, avoid political gatherings, and exercise normal urban precautions.",
+  "neighborhoods": [
+    {
+      "name": "F-6, F-7, F-8 Sectors",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The most secure and upscale areas with embassies, international hotels, quality restaurants, and consistent security presence. These planned sectors offer excellent lighting, police patrols, and modern amenities ideal for tourists."
+    },
+    {
+      "name": "Blue Area & Diplomatic Enclave",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The central business district and diplomatic zone featuring government offices, international organizations, and high-end hotels. Heavy security makes this one of the safest areas in the city with restricted access and constant monitoring."
+    },
+    {
+      "name": "G-9, G-10, G-11 Sectors",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Mixed residential and commercial areas with adequate safety during daytime but less security infrastructure. Some areas have higher crime rates and less developed amenities compared to premium sectors."
+    },
+    {
+      "name": "Margalla Hills Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular hiking destination with scenic viewpoints like Daman-e-Koh. Generally safe during daylight hours with good tourist infrastructure, but should be avoided after dark due to wildlife and lack of lighting."
+    },
+    {
+      "name": "I-9, I-10, I-11 Industrial Areas",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Less developed industrial and lower-income residential zones with higher petty crime rates, poor infrastructure, and occasional gang activity. Not tourist-oriented and best avoided, especially at night."
+    },
+    {
+      "name": "Rawalpindi Border Areas",
+      "score": 5.2,
+      "class": "danger",
+      "description": "Neighborhoods near the Rawalpindi boundary can feel less regulated with higher crime rates compared to central Islamabad. Mixed security conditions with some areas experiencing vehicle theft and street crime."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "moderate",
+      "description": "Street taxi drivers charging tourists significantly higher fares than locals, especially from airports and tourist sites.",
+      "howToAvoid": "Use ride-hailing apps like Uber, Careem, or InDrive which show fixed rates. If using street taxis, agree on fare beforehand and ask locals for typical rates."
+    },
+    {
+      "name": "Fake Tour Guides",
+      "risk": "moderate",
+      "description": "Unauthorized individuals offering guided tours without proper credentials, leading tourists to overpriced shops or irrelevant locations.",
+      "howToAvoid": "Book tours through official agencies or hotels. Ask for credentials and avoid unsolicited offers from strangers at tourist sites."
+    },
+    {
+      "name": "Immigration Document Scams",
+      "risk": "high",
+      "description": "Fraudulent visa services and fake travel document assistance targeting foreigners, particularly in G-11 and commercial areas.",
+      "howToAvoid": "Only use official government channels or verified travel agencies. Be wary of urgent visa promises and always verify credentials through official sources."
+    },
+    {
+      "name": "Inflated Market Prices",
+      "risk": "low",
+      "description": "Vendors in bazaars and markets automatically quoting higher prices for foreign visitors, especially for souvenirs and clothing.",
+      "howToAvoid": "Learn basic bargaining skills, shop with locals when possible, or visit fixed-price stores in modern shopping centers like Centaurus Mall."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Islamabad is generally safer than other Pakistani cities, with many women reporting positive experiences when following cultural norms. The capital has more liberal attitudes in upscale areas, though conservative dress and behavior are essential throughout the city. Western women often receive protective treatment from locals.",
+    "tips": [
+      "Dress very conservatively - cover shoulders, arms, and legs completely, and carry a scarf for religious sites",
+      "Stay in reputable hotels in F-6, F-7, or F-8 sectors with good security and avoid budget accommodations",
+      "Use ride-hailing apps instead of street transport and avoid traveling alone after dark",
+      "Respect that public spaces are predominantly male - expect stares but harassment is uncommon in tourist areas",
+      "Consider joining local women's groups or forums for additional safety tips and cultural guidance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Islamabad is relatively safe at night compared to other regional capitals, with 72% of residents feeling secure during nighttime hours. The planned city structure and security presence provide better evening safety than most Pakistani cities, though standard precautions are important.",
+    "tips": [
+      "Stick to well-lit main roads and avoid isolated areas, especially in sectors I-9, I-10, and industrial zones",
+      "Use reputable transport - hotels can arrange trusted taxis or use ride-hailing apps with tracking",
+      "Avoid Margalla Hills trails and remote areas after sunset due to wildlife and lack of lighting",
+      "Stay away from political gatherings and demonstrations which can escalate quickly",
+      "Keep emergency numbers handy and inform someone of your plans when going out at night"
+    ]
+  },
+  "transport": {
+    "metro": "Islamabad has limited metro connectivity, primarily the Metro Bus system linking to Rawalpindi. However, UK travel advice recommends avoiding public transport due to security concerns and overcrowding issues.",
+    "rideshare": "Uber, Careem, and InDrive operate extensively in Islamabad and are considered the safest transport option. Apps provide driver tracking, digital payments, and are widely used by locals and tourists alike.",
+    "taxis": "Street taxis exist but pose risks of overcharging and lack of accountability. Hotel-arranged taxis are safer. Licensed taxi companies requiring advance booking are recommended over random street hailing.",
+    "tips": "Ride-hailing apps are your best bet for safe, reliable transport. Avoid public buses and street taxis. For airport transfers, use hotel services or pre-booked licensed operators."
+  },
+  "customs": [
+    "Always ask about someone's health and family when greeting, but only inquire about male family members unless you know the family well",
+    "Stand up when someone enters the room as a sign of respect, and use formal titles like 'Sir' or 'Madam' when addressing people",
+    "Dress modestly at all times - both men and women should cover shoulders and legs, with women also covering arms and carrying a scarf",
+    "Use your right hand for eating, handshakes, and giving/receiving items, as the left hand is considered unclean",
+    "Remove shoes when entering homes and mosques, and always accept hospitality graciously even if you don't want it initially",
+    "Avoid public displays of affection, alcohol consumption in public, and topics like sex, intimacy, or criticism of government/military",
+    "Show respect for Islamic practices during prayer times and Ramadan, and never photograph people (especially women) without permission"
+  ],
+  "health": {
+    "overview": "Islamabad has Pakistan's best healthcare facilities with several international-standard hospitals and English-speaking doctors. The city serves as a medical tourism hub for the region, though visitors should still take standard precautions.",
+    "water": "Never drink tap water as it contains contaminants and bacteria that can cause severe gastrointestinal issues. Always use sealed bottled water and check bottle seals before drinking. Consider bringing purification tablets for remote areas.",
+    "vaccinations": "Consult a travel clinic 4-6 weeks before travel. Consider vaccines for Hepatitis A/B, Typhoid, and Japanese Encephalitis. Ensure routine vaccinations are current. Malaria risk is low in Islamabad but exists in rural areas.",
+    "altitude": "Islamabad sits at moderate elevation with no altitude concerns. The climate is generally temperate with hot summers and mild winters. Air quality is good compared to other Pakistani cities. Monsoon season (June-September) brings flooding risks."
+  },
+  "emergency": {
+    "general": "15",
+    "police": "15 or 051-9100008",
+    "ambulance": "115 (Edhi) or 1122 (Rescue)",
+    "fire": "16",
+    "touristPolice": "051-9100008",
+    "usEmbassy": "US Embassy Islamabad: +92-51-201-4000. Located in the Diplomatic Enclave, provides full consular services. Emergency American Citizen Services available 24/7."
+  },
+  "faq": [
+    {
+      "q": "Is Islamabad safe for tourists?",
+      "a": "Yes, Islamabad is considered Pakistan's safest city and one of the more secure capitals in South Asia. While the country has a Level 3 travel advisory, the capital has strong security presence, low violent crime rates, and well-planned infrastructure that makes it relatively safe for tourists who exercise normal precautions."
+    },
+    {
+      "q": "Is Islamabad safe at night?",
+      "a": "Islamabad is relatively safe at night compared to other regional cities, with 72% of residents feeling secure during nighttime hours. However, stick to well-lit areas in central sectors (F-6 to F-8), use reliable transport, and avoid isolated areas like Margalla Hills after dark."
+    },
+    {
+      "q": "Is Islamabad safe for solo female travelers?",
+      "a": "Solo female travel is possible in Islamabad with proper precautions. Dress very conservatively, stay in reputable accommodations in safe sectors, use ride-hailing apps, and expect to attract attention as public spaces are predominantly male. Many women travel successfully by respecting local cultural norms."
+    },
+    {
+      "q": "What areas should I avoid in Islamabad?",
+      "a": "Avoid industrial areas I-9, I-10, and I-11 which have higher crime rates. Stay away from neighborhoods near the Rawalpindi border, especially at night. Avoid political gatherings around Constitution Avenue and government buildings, and don't visit Margalla Hills trails after sunset."
+    },
+    {
+      "q": "Is it safe to use public transport in Islamabad?",
+      "a": "UK and US travel advice recommends avoiding public transport including Metro Bus due to security concerns. Instead, use ride-hailing apps like Uber, Careem, or InDrive which are widely available, safe, and provide driver tracking. Hotel-arranged taxis are also a secure option."
+    }
+  ],
+  "relatedCities": [
+    "karachi",
+    "lahore",
+    "new-delhi",
+    "mumbai",
+    "dhaka"
+  ],
+  "_city_id": "islamabad-pakistan",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/1280px-Faisal_Mosque%2C_Islamabad_III.jpg"
+}

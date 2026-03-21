@@ -1,0 +1,166 @@
+{
+  "slug": "hampi",
+  "name": "Hampi",
+  "country": "India",
+  "countryCode": "IN",
+  "region": "South Asia",
+  "regionSlug": "south-asia",
+  "lastUpdated": "2026-03-21",
+  "overallScore": 5.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 3.5,
+    "scamRisk": 5.0,
+    "womensSafety": 4.5,
+    "nightSafety": 4.0,
+    "transport": 7.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "Hampi, Karnataka's UNESCO World Heritage site, faces significant safety challenges following a tragic 2025 incident involving tourist attacks. While the ancient ruins attract millions, recent violent crimes against visitors have raised serious concerns about security.",
+  "quickVerdict": "Hampi remains a stunning historical destination but requires heightened caution following the March 2025 attack near the heritage site that resulted in rape and murder. While Karnataka authorities have increased security measures, the incident reflects broader safety challenges for tourists in India, particularly women. Exercise extreme caution when traveling alone or in isolated areas, especially after dark.",
+  "neighborhoods": [
+    {
+      "name": "Hampi Bazaar/Main Ruins",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The main archaeological site with UNESCO ruins and heavy tourist presence during daylight hours. Increased security patrols since 2025 incident, but avoid after sunset."
+    },
+    {
+      "name": "Virupapura Gaddi",
+      "score": 6.5,
+      "class": "safe",
+      "description": "Popular backpacker area across the river with guesthouses and cafes. Generally safe but use caution when crossing river and walking alone at night."
+    },
+    {
+      "name": "Hospet Town",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Nearest major town with train station and hotels. Standard urban safety precautions required, especially for solo travelers."
+    },
+    {
+      "name": "Anegundi Village",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic village area with homestays. Scene of 2025 attack nearby - exercise extreme caution when staying in isolated accommodations."
+    },
+    {
+      "name": "Tungabhadra River Areas",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Remote riverside locations including Sanapur Lake area where 2025 attack occurred. Avoid completely after dark and travel in groups during day."
+    },
+    {
+      "name": "Isolated Temple Sites",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Remote temple complexes and ruins away from main tourist areas. High risk due to isolation and limited security presence. Visit only in organized groups during daylight."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "high",
+      "description": "Unlicensed guides approach tourists at ruins offering services at inflated prices or leading to overpriced shops for commission.",
+      "howToAvoid": "Use only government-certified guides available at official counters. Check for proper identification badges and agree on prices upfront."
+    },
+    {
+      "name": "Accommodation Switching",
+      "risk": "medium",
+      "description": "Transport drivers claim your pre-booked accommodation is closed or full to redirect you to properties paying them commission.",
+      "howToAvoid": "Confirm bookings directly with accommodation before arrival. Insist on going to your chosen place first and verify claims independently."
+    },
+    {
+      "name": "Overpriced Transport",
+      "risk": "medium",
+      "description": "Auto-rickshaw and taxi drivers quote inflated fares or refuse to use meters, especially for tourists unfamiliar with local rates.",
+      "howToAvoid": "Negotiate fares beforehand, use ride-hailing apps like Ola or Uber where available, or ask your hotel for standard fare estimates."
+    },
+    {
+      "name": "Fake Photography Fees",
+      "risk": "low",
+      "description": "Scammers pose as officials demanding photography fees at free sites or inflate official camera charges at paid monuments.",
+      "howToAvoid": "Check official websites for current photography policies and fees. Pay only at official counters with proper receipts."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Hampi requires extreme caution following the March 2025 attack involving rape and murder of female tourists. While the destination remains accessible, the US State Department specifically advises against women traveling alone in India. Recent incidents demonstrate serious safety risks for female visitors.",
+    "tips": [
+      "Avoid staying in isolated homestays or guesthouses - choose accommodations in populated areas",
+      "Never travel alone to remote temple sites or riverside areas, especially after dark",
+      "Join group tours or travel with other tourists when exploring archaeological sites",
+      "Inform your accommodation of your whereabouts and expected return times",
+      "Use women-only transport options where available in larger towns"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Hampi is extremely poor following the 2025 attack that occurred during evening hours near tourist areas. The incident involved tourists stargazing when attacked by local assailants. Authorities strongly advise avoiding all isolated areas after dark.",
+    "tips": [
+      "Return to your accommodation before sunset - avoid all outdoor activities after dark",
+      "Never participate in stargazing or night photography sessions in remote locations",
+      "Stay within well-lit, populated areas of Hampi Bazaar if moving around at night",
+      "Travel in groups if movement after dark is absolutely necessary",
+      "Keep accommodation contact details and emergency numbers readily available"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Hampi or nearby areas.",
+    "rideshare": "Limited ride-hailing services. Ola may be available in Hospet town but coverage is sporadic in rural Hampi area.",
+    "taxis": "Pre-paid taxis available from Hospet station. Private taxis and auto-rickshaws operate but negotiate fares in advance. Some drivers may attempt accommodation switching scams.",
+    "tips": "Book transport through your accommodation when possible. The nearest railway station is Hospet Junction. Buses connect to major Karnataka cities but can be crowded and uncomfortable."
+  },
+  "customs": [
+    "Remove shoes before entering temples and touch feet briefly if accidentally stepping on someone",
+    "Use right hand for eating, greeting, and giving/receiving items - left hand is considered unclean",
+    "Dress modestly with covered shoulders and knees, especially at religious sites",
+    "Greet locals with 'Namaste' while pressing palms together rather than handshakes",
+    "Show respect for Hindu religious practices and avoid leather items in some temples"
+  ],
+  "health": {
+    "overview": "Basic healthcare facilities exist in Hospet town but emergency medical care is limited in rural Hampi area. The nearest major hospital is in Bellary, 64km away.",
+    "water": "Drink only bottled water - avoid tap water, ice, and street vendor drinks. Check bottle seals are intact before purchasing.",
+    "vaccinations": "Routine vaccines recommended plus Hepatitis A/B, Japanese Encephalitis, and Typhoid. Malaria prophylaxis may be advised during monsoon season.",
+    "altitude": "Hampi sits at 467m elevation with hot, dry climate. Temperatures can reach 40°C in summer. Carry sun protection and stay hydrated."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101",
+    "touristPolice": "1363",
+    "usEmbassy": "US Consulate Chennai: +91-44-2857-4000. Main US Embassy in New Delhi: +91-11-2419-8000. Nearest consular services in Bangalore or Chennai."
+  },
+  "faq": [
+    {
+      "q": "Is Hampi safe for tourists?",
+      "a": "Hampi has serious safety concerns following a March 2025 attack involving rape and murder of tourists. While Karnataka government increased security, extreme caution is required, especially for solo travelers and women. Stay in populated areas and avoid isolated locations."
+    },
+    {
+      "q": "Is Hampi safe at night?",
+      "a": "No, Hampi is not safe at night. The 2025 attack occurred during evening hours near tourist areas. Avoid all outdoor activities after dark and return to accommodation before sunset. Never participate in night activities in remote locations."
+    },
+    {
+      "q": "Is Hampi safe for solo female travelers?",
+      "a": "Solo female travel to Hampi is strongly discouraged following the 2025 incident involving attacks on female tourists. If visiting, join group tours, stay in populated accommodations, and never travel alone to remote sites or after dark."
+    },
+    {
+      "q": "What areas should I avoid in Hampi?",
+      "a": "Avoid all riverside areas including Sanapur Lake (site of 2025 attack), isolated temple complexes, and any remote locations after dark. Exercise extreme caution in Anegundi village where the attackers approached tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Hampi?",
+      "a": "Local transport is relatively safe during daylight hours but negotiate fares in advance to avoid overcharging. The nearest railway station is Hospet Junction. Buses to major cities are available but can be crowded."
+    }
+  ],
+  "relatedCities": [
+    "goa",
+    "mysore",
+    "bangalore",
+    "hyderabad",
+    "kerala"
+  ],
+  "_city_id": "hampi-india",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/1280px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg"
+}

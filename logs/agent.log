@@ -2600,3 +2600,47 @@
 2026-03-21 11:08:40,054 [INFO] Merged into site data: Darjeeling
 2026-03-21 11:08:40,136 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-21 11:08:40,181 [INFO] Rebuilt sitemap with 542 URLs (404 cities, 132 countries, 6 static)
+2026-03-21 16:58:50,217 [INFO] Agent starting — mode: add
+2026-03-21 16:58:50,260 [INFO] Queue has 159 cities, adding 8
+2026-03-21 16:58:50,260 [INFO] Generating new city profile: Hampi, India
+2026-03-21 17:00:28,241 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:00:28,605 [INFO] Found Wikipedia image for Hampi
+2026-03-21 17:00:28,607 [INFO] Saved city data: hampi-india
+2026-03-21 17:00:28,612 [INFO] Generating new city profile: Kandy, Sri Lanka
+2026-03-21 17:02:43,886 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:02:44,025 [INFO] Found Wikipedia image for Kandy
+2026-03-21 17:02:44,026 [INFO] Saved city data: kandy-sri-lanka
+2026-03-21 17:02:44,029 [INFO] Generating new city profile: Paro, Bhutan
+2026-03-21 17:04:09,898 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:04:10,038 [INFO] Found Wikipedia image for Paro
+2026-03-21 17:04:10,039 [INFO] Saved city data: paro-bhutan
+2026-03-21 17:04:10,043 [INFO] Generating new city profile: Islamabad, Pakistan
+2026-03-21 17:05:37,079 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:05:37,210 [INFO] Found Wikipedia image for Islamabad
+2026-03-21 17:05:37,210 [INFO] Saved city data: islamabad-pakistan
+2026-03-21 17:05:37,214 [INFO] Generating new city profile: Lahore, Pakistan
+2026-03-21 17:07:20,372 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:07:20,524 [INFO] Found Wikipedia image for Lahore
+2026-03-21 17:07:20,524 [INFO] Saved city data: lahore-pakistan
+2026-03-21 17:07:20,528 [INFO] Generating new city profile: Astana, Kazakhstan
+2026-03-21 17:08:43,206 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:08:43,336 [INFO] Found Wikipedia image for Astana
+2026-03-21 17:08:43,337 [INFO] Saved city data: astana-kazakhstan
+2026-03-21 17:08:43,340 [INFO] Generating new city profile: Dushanbe, Tajikistan
+2026-03-21 17:10:14,406 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:10:14,552 [INFO] Found Wikipedia image for Dushanbe
+2026-03-21 17:10:14,552 [INFO] Saved city data: dushanbe-tajikistan
+2026-03-21 17:10:14,556 [INFO] Generating new city profile: Ashgabat, Turkmenistan
+2026-03-21 17:11:31,152 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-21 17:11:31,272 [INFO] Found Wikipedia image for Ashgabat
+2026-03-21 17:11:31,272 [INFO] Saved city data: ashgabat-turkmenistan
+2026-03-21 17:11:31,318 [INFO] Merged into site data: Hampi
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Kandy
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Paro
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Islamabad
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Lahore
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Astana
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Dushanbe
+2026-03-21 17:11:31,319 [INFO] Merged into site data: Ashgabat
+2026-03-21 17:11:31,403 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-21 17:11:31,448 [INFO] Rebuilt sitemap with 553 URLs (412 cities, 135 countries, 6 static)
