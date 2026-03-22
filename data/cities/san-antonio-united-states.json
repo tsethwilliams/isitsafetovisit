@@ -1,0 +1,163 @@
+{
+  "slug": "san-antonio",
+  "name": "San Antonio",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.8,
+    "naturalHazards": 6.7
+  },
+  "summary": "San Antonio is a vibrant Texas city with mixed safety conditions. While most tourist areas like the Riverwalk and downtown are generally safe with good security presence, the city has higher than average crime rates overall. Recent data shows violent crime declining but property crime remains elevated.",
+  "quickVerdict": "San Antonio offers many safe tourist experiences, particularly in well-patrolled areas like the Riverwalk, downtown, and major attractions. However, visitors should exercise moderate caution as the city has crime rates above national averages, with some neighborhoods experiencing significantly higher crime levels. Tourist areas are generally well-secured, but standard urban safety precautions are essential.",
+  "neighborhoods": [
+    {
+      "name": "Riverwalk/Downtown",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The heart of San Antonio's tourism with frequent security patrols, well-lit pathways, and bustling atmosphere. The Riverwalk area is considered one of the safest parts of the city for visitors, with good police presence and infrastructure designed for tourists."
+    },
+    {
+      "name": "Alamo Heights",
+      "score": 8.5,
+      "class": "safe",
+      "description": "An upscale neighborhood known for excellent safety records, quality schools, and proximity to downtown. This area consistently ranks among the safest in San Antonio with low crime rates and well-maintained streets."
+    },
+    {
+      "name": "Stone Oak",
+      "score": 8.2,
+      "class": "safe",
+      "description": "A master-planned community in northern San Antonio known for its family-friendly atmosphere, low crime rates, and gated sections. Popular with families and considered very safe for tourists staying in this area."
+    },
+    {
+      "name": "The Pearl",
+      "score": 7.5,
+      "class": "safe",
+      "description": "A trendy, revitalized area with upscale dining, shopping, and weekend farmers markets. Generally safe during the day and evening hours with good foot traffic and security presence."
+    },
+    {
+      "name": "Eastside",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Areas including the Arena District have significantly elevated crime rates, with violent crime rates reported 201% higher than city average. Visitors should exercise extreme caution and avoid walking alone, especially at night."
+    },
+    {
+      "name": "West End",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Neighborhoods like Los Jardines and Rainbow Hills experience high property and violent crime rates, up to 197% higher than city average. Not recommended for tourists, particularly after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Hotel Food Delivery",
+      "risk": "medium",
+      "description": "Scammers slide fake restaurant menus under hotel room doors offering delivery service that never arrives, collecting payment and personal information.",
+      "howToAvoid": "Only order from verified restaurants or hotel room service. Never provide payment information to unsolicited food delivery offers."
+    },
+    {
+      "name": "AI-Enhanced Travel Booking Sites",
+      "risk": "high",
+      "description": "Sophisticated fake travel websites using AI to clone legitimate booking sites, complete with realistic reviews and professional design. Victims lose money on non-existent bookings.",
+      "howToAvoid": "Always book through official hotel websites or verified travel agents. Check URLs carefully for typos and verify booking confirmations directly with hotels."
+    },
+    {
+      "name": "QR Code Phishing (Quishing)",
+      "risk": "medium",
+      "description": "Scammers place fake QR code stickers over legitimate ones at restaurants and tourist attractions, redirecting to fraudulent payment sites that steal credit card information.",
+      "howToAvoid": "Avoid scanning QR codes that appear to be stickers. Type restaurant websites directly into your browser instead of scanning codes."
+    },
+    {
+      "name": "Fake Tourist Attraction Tickets",
+      "risk": "medium",
+      "description": "Professionally designed fake ticketing websites targeting popular San Antonio attractions like the zoo, with scammers creating convincing replicas of official sites.",
+      "howToAvoid": "Purchase tickets only from official venue websites or authorized ticket vendors. Call attractions directly to verify ticket purchases if uncertain."
+    }
+  ],
+  "soloFemale": {
+    "overview": "San Antonio can be safe for solo female travelers when proper precautions are taken. The main tourist areas like the Riverwalk and downtown have regular security patrols and are generally well-lit. However, there has been a reported surge in sexual assaults in downtown areas, requiring increased vigilance. The city's public transportation system is considered among the safest in Texas, and most locals are polite and respectful.",
+    "tips": [
+      "Stay in well-patrolled tourist areas like the Riverwalk, Pearl District, and downtown core after dark",
+      "Use rideshare apps (Uber, Lyft) rather than walking alone at night, especially in less crowded areas",
+      "Avoid the Eastside and West End neighborhoods, particularly after dark, due to elevated crime rates",
+      "Join the San Antonio Police Department Alert Network for real-time crime notifications and safety updates",
+      "Book accommodations in safer neighborhoods like Alamo Heights, Stone Oak, or near the Pearl District"
+    ]
+  },
+  "nightSafety": {
+    "overview": "San Antonio's nightlife areas have mixed safety conditions. The Riverwalk and downtown entertainment districts maintain good security presence and lighting, making them relatively safe for evening activities. However, some areas experience higher crime rates after dark, and visitors should remain vigilant. The bustling atmosphere in tourist zones actually enhances safety through natural surveillance.",
+    "tips": [
+      "Stick to well-lit, busy areas like the Riverwalk and downtown entertainment districts",
+      "Travel in groups when possible and avoid isolated areas after 10 PM",
+      "Use rideshare services rather than walking long distances at night",
+      "Be extra cautious during major events and holidays when crowds increase pickpocket risks",
+      "Download the AlertSA app for severe weather and emergency notifications"
+    ]
+  },
+  "transport": {
+    "metro": "VIA Metropolitan Transit operates over 500 wheelchair-accessible buses on 75 routes throughout San Antonio and Bexar County. The system is ranked 6th nationally for safety and has been recognized as the best public transportation in Texas. Buses run regularly with $1.30 basic fares and offer real-time tracking through the goMobile app.",
+    "rideshare": "Uber and Lyft operate throughout San Antonio with generally good availability and safety records. A local alternative, Leep, also provides rideshare services. These services are particularly recommended for airport transfers and nighttime travel, offering safer alternatives to walking in less secure areas.",
+    "taxis": "Traditional taxis are available at hotels, the airport, and major venues, though they're less commonly used in downtown areas. Airport to downtown costs $24-29. Taxi companies have been working with the city to level the playing field with rideshare services through reduced fees and updated regulations.",
+    "tips": "Public transportation is generally safe, especially VIA buses which have excellent safety ratings. For maximum safety, use rideshare apps for late-night travel and avoid walking alone in unfamiliar areas after dark."
+  },
+  "customs": [
+    "Tipping is expected at restaurants (15-20%) and bars ($1-2 per drink), as service workers rely on tips for significant income",
+    "Americans value personal space and punctuality - arrive on time for reservations and maintain appropriate physical distance",
+    "Friendly greetings and small talk are common, especially in the South where 'Southern hospitality' includes polite interactions with 'ma'am' and 'sir'"
+  ],
+  "health": {
+    "overview": "San Antonio has excellent healthcare facilities with multiple top-rated hospitals. Methodist Hospital ranks #1 in San Antonio and #9 in Texas, while several facilities have earned 'America's 100 Best Hospitals' awards. The city's medical infrastructure is robust with specialized care available.",
+    "water": "Tap water is safe to drink throughout San Antonio and meets all federal safety standards. No special precautions needed for water consumption.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel health insurance is recommended for any medical emergencies.",
+    "altitude": "San Antonio sits at low elevation with hot summers and mild winters. Heat-related risks exist during summer months (May-September) when temperatures can exceed 100°F. Stay hydrated and limit outdoor activities during peak heat hours."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 210-207-7273 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911 / 210-207-7744 (non-emergency)",
+    "touristPolice": "N/A",
+    "usEmbassy": "As San Antonio is within the United States, contact local authorities directly. For federal matters, contact the nearest U.S. State Department office or call 1-888-407-4747."
+  },
+  "faq": [
+    {
+      "q": "Is San Antonio safe for tourists?",
+      "a": "San Antonio is moderately safe for tourists when visiting main attractions and staying in well-patrolled areas like the Riverwalk and downtown. While crime rates are above national averages, tourist areas have good security presence and most visitors have safe experiences when taking standard precautions."
+    },
+    {
+      "q": "Is San Antonio safe at night?",
+      "a": "Downtown and Riverwalk areas are relatively safe at night with good lighting and security patrols. However, avoid walking alone in less crowded areas and consider using rideshare services. Some neighborhoods have elevated crime rates after dark, so staying in tourist zones is recommended."
+    },
+    {
+      "q": "Is San Antonio safe for solo female travelers?",
+      "a": "Solo female travelers can visit San Antonio safely by staying in tourist areas, using rideshare services at night, and avoiding higher-crime neighborhoods. There has been an increase in reported sexual assaults downtown, so extra vigilance is needed, especially when alone after dark."
+    },
+    {
+      "q": "What areas should I avoid in San Antonio?",
+      "a": "Avoid the Eastside (including Arena District) and West End neighborhoods, particularly Los Jardines and Rainbow Hills, which have crime rates significantly above city averages. These areas are not recommended for tourists, especially after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in San Antonio?",
+      "a": "Yes, VIA Metropolitan Transit is considered the safest public transportation system in Texas and ranks 6th nationally for safety. The bus system is generally safe during day and evening hours, though increased vigilance is recommended for nighttime travel."
+    }
+  ],
+  "relatedCities": [
+    "austin",
+    "dallas",
+    "houston",
+    "fort-worth"
+  ],
+  "_city_id": "san-antonio-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Antonio_Botanical_Garden_Overlook_View.jpg/1280px-San_Antonio_Botanical_Garden_Overlook_View.jpg"
+}

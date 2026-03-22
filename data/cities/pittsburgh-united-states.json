@@ -1,0 +1,158 @@
+{
+  "slug": "pittsburgh",
+  "name": "Pittsburgh",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 7.0,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 7.6
+  },
+  "summary": "Pittsburgh is a mid-sized American city with moderate crime levels that vary significantly by neighborhood. While violent crime has decreased significantly in recent years and the city has excellent healthcare infrastructure, property crime remains a concern, particularly in certain districts.",
+  "quickVerdict": "Pittsburgh offers a mixed safety profile for tourists. The city has strong public transportation, world-class medical facilities, and is generally safe during daylight hours in tourist areas. However, property crime rates are above national averages, and some neighborhoods should be avoided. The city ranks well for natural disaster preparedness but visitors should remain alert to petty theft and be cautious when exploring at night.",
+  "neighborhoods": [
+    {
+      "name": "Squirrel Hill",
+      "score": 8.5,
+      "class": "safe",
+      "description": "A vibrant, diverse neighborhood near universities with strong community presence, good lighting, and low crime rates. Popular with students and families."
+    },
+    {
+      "name": "Shadyside",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale area with trendy shops, restaurants, and nightlife. Well-patrolled with good pedestrian infrastructure and minimal safety concerns."
+    },
+    {
+      "name": "Downtown/Cultural District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Business and entertainment hub with regular police presence, well-lit streets, and good public transport connections. Safe during business hours."
+    },
+    {
+      "name": "Oakland",
+      "score": 7.0,
+      "class": "safe",
+      "description": "University area with mixed safety conditions. Generally safe near campus but requires caution in surrounding residential areas, especially at night."
+    },
+    {
+      "name": "South Side Flats",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Popular nightlife district with higher crime rates, especially on weekends. Crowded bars and late-night activity create opportunities for theft and altercations."
+    },
+    {
+      "name": "Homewood/East End",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Higher crime area with elevated rates of violent crime and property theft. Not recommended for tourists, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Booking Websites",
+      "risk": "high",
+      "description": "AI-generated fake hotel and tour booking sites that look identical to legitimate platforms but steal payment information or provide non-existent reservations.",
+      "howToAvoid": "Book directly through official websites, verify URLs carefully, and use credit cards with fraud protection. Be wary of deals that seem too good to be true."
+    },
+    {
+      "name": "Ride-Share/Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed drivers at airports or tourist areas claiming taxi services, charging inflated fares or using broken meters to justify high prices.",
+      "howToAvoid": "Use official ride-sharing apps like Uber or Lyft, verify driver and vehicle details match the app, and always agree on fares beforehand for traditional taxis."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "medium",
+      "description": "Groups working together to distract tourists while accomplices steal wallets, phones, or bags in crowded areas like Strip District or sports venues.",
+      "howToAvoid": "Stay aware of surroundings, keep valuables secure, be suspicious of sudden commotions or people asking for signatures, and avoid displaying expensive items."
+    },
+    {
+      "name": "Parking Meter Scams",
+      "risk": "low",
+      "description": "Fake QR codes placed over legitimate parking meter payment systems that redirect to fraudulent payment sites to steal credit card information.",
+      "howToAvoid": "Use official parking apps, pay at the meter directly, and avoid scanning QR codes that look like stickers placed over original codes."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Pittsburgh is generally safe for solo female travelers during daylight hours and in well-traveled areas. The city has a strong university presence which creates a more welcoming environment for independent travelers. While violent crime against tourists is relatively rare, women should take standard precautions, especially when exploring nightlife areas or using public transportation after dark.",
+    "tips": [
+      "Stay in well-lit, populated areas like Squirrel Hill, Shadyside, or Downtown after dark",
+      "Use rideshare services rather than walking alone at night, especially in South Side or less familiar neighborhoods",
+      "Keep valuables secure and be aware of surroundings in crowded tourist areas like Strip District markets"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Pittsburgh's nighttime safety varies dramatically by location and activity. Downtown and popular entertainment districts have regular police presence and are generally safe until late evening. However, property crime increases after dark, and certain neighborhoods become significantly more dangerous. The South Side nightlife area sees higher incidents on weekends due to bar crowds and alcohol-related disputes.",
+    "tips": [
+      "Stick to main streets and well-lit areas when out after dark",
+      "Use official transportation options rather than walking alone late at night",
+      "Stay alert in bar districts and avoid excessive drinking that could make you a target"
+    ]
+  },
+  "transport": {
+    "metro": "Pittsburgh Regional Transit operates an extensive bus network and light rail system called the T. The system is generally safe and reliable, with regular service until midnight. Free travel is available between Downtown and North Shore.",
+    "rideshare": "Uber and Lyft operate throughout the city with good coverage and reasonable wait times. Services are reliable and generally safe, though verify driver details before entering vehicles.",
+    "taxis": "Traditional taxis are available but less common than rideshare. Stick to official taxi companies and ensure meters are working or agree on fares upfront to avoid overcharging.",
+    "tips": "Public transit is safe during daylight hours but exercise caution on late-night services. The city is walkable in safe neighborhoods, and bike-sharing is available through the POGOH system."
+  },
+  "customs": [
+    "Tipping 15-20% is expected at restaurants, bars, and for service workers",
+    "Americans value personal space and direct communication",
+    "Punctuality is important for both business and social appointments"
+  ],
+  "health": {
+    "overview": "Pittsburgh has excellent healthcare facilities including world-renowned hospitals like UPMC and Allegheny General. The city is a major medical hub with specialized care readily available.",
+    "water": "Tap water is safe to drink throughout the city with regular quality monitoring",
+    "vaccinations": "No special vaccinations required beyond routine immunizations",
+    "altitude": "Pittsburgh sits at low elevation with a humid continental climate featuring hot summers and cold winters with possible snow"
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 311 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Within United States. Contact local consulates for foreign visitors needing assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Pittsburgh safe for tourists?",
+      "a": "Yes, Pittsburgh is generally safe for tourists who stay in well-traveled areas and exercise normal precautions. The biggest concern is property crime, but violent crime against visitors is relatively rare."
+    },
+    {
+      "q": "Is Pittsburgh safe at night?",
+      "a": "Downtown and major entertainment districts are reasonably safe until late evening with police presence, but some neighborhoods become more dangerous after dark. Use rideshare services and stick to well-lit main streets."
+    },
+    {
+      "q": "Is Pittsburgh safe for solo female travelers?",
+      "a": "Yes, with normal precautions. Pittsburgh has a university town atmosphere that's generally welcoming to independent travelers. Stay in safe neighborhoods and avoid walking alone late at night."
+    },
+    {
+      "q": "What areas should I avoid in Pittsburgh?",
+      "a": "Avoid Homewood and parts of the East End, especially at night. Be cautious in South Side Flats during late-night hours on weekends due to bar crowds and higher incident rates."
+    },
+    {
+      "q": "Is it safe to use public transport in Pittsburgh?",
+      "a": "Yes, Pittsburgh Regional Transit is generally safe and reliable during normal hours. The bus and light rail systems serve tourist areas well, though exercise caution on late-night services."
+    }
+  ],
+  "relatedCities": [
+    "philadelphia",
+    "cleveland",
+    "cincinnati"
+  ],
+  "_city_id": "pittsburgh-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ascending_the_Duquesne_Incline.jpg/1280px-Ascending_the_Duquesne_Incline.jpg"
+}

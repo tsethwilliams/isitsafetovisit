@@ -2775,3 +2775,47 @@
 2026-03-22 11:08:38,676 [INFO] Merged into site data: Maui
 2026-03-22 11:08:38,764 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-22 11:08:38,811 [INFO] Rebuilt sitemap with 582 URLs (436 cities, 140 countries, 6 static)
+2026-03-22 16:59:45,914 [INFO] Agent starting — mode: add
+2026-03-22 16:59:45,956 [INFO] Queue has 127 cities, adding 8
+2026-03-22 16:59:45,956 [INFO] Generating new city profile: Napa Valley, United States
+2026-03-22 17:01:01,199 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:01:01,396 [INFO] Found Wikipedia image for Napa Valley
+2026-03-22 17:01:01,397 [INFO] Saved city data: napa-valley-united-states
+2026-03-22 17:01:01,401 [INFO] Generating new city profile: Baltimore, United States
+2026-03-22 17:02:13,385 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:02:13,458 [INFO] Found Wikipedia image for Baltimore
+2026-03-22 17:02:13,458 [INFO] Saved city data: baltimore-united-states
+2026-03-22 17:02:13,462 [INFO] Generating new city profile: Pittsburgh, United States
+2026-03-22 17:03:29,347 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:03:29,475 [INFO] Found Wikipedia image for Pittsburgh
+2026-03-22 17:03:29,476 [INFO] Saved city data: pittsburgh-united-states
+2026-03-22 17:03:29,479 [INFO] Generating new city profile: Cleveland, United States
+2026-03-22 17:04:56,647 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:04:57,035 [INFO] Found Wikipedia image for Cleveland
+2026-03-22 17:04:57,036 [INFO] Saved city data: cleveland-united-states
+2026-03-22 17:04:57,039 [INFO] Generating new city profile: Indianapolis, United States
+2026-03-22 17:06:33,240 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:06:33,431 [INFO] Found Wikipedia image for Indianapolis
+2026-03-22 17:06:33,432 [INFO] Saved city data: indianapolis-united-states
+2026-03-22 17:06:33,436 [INFO] Generating new city profile: Kansas City, United States
+2026-03-22 17:08:01,522 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:08:01,874 [INFO] Found Wikipedia image for Kansas City
+2026-03-22 17:08:01,875 [INFO] Saved city data: kansas-city-united-states
+2026-03-22 17:08:01,878 [INFO] Generating new city profile: Charlotte, United States
+2026-03-22 17:09:12,775 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:09:12,955 [INFO] Found Wikipedia image for Charlotte
+2026-03-22 17:09:12,956 [INFO] Saved city data: charlotte-united-states
+2026-03-22 17:09:12,960 [INFO] Generating new city profile: San Antonio, United States
+2026-03-22 17:10:44,835 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 17:10:45,025 [INFO] Found Wikipedia image for San Antonio
+2026-03-22 17:10:45,025 [INFO] Saved city data: san-antonio-united-states
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Napa Valley
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Baltimore
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Pittsburgh
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Cleveland
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Indianapolis
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Kansas City
+2026-03-22 17:10:45,075 [INFO] Merged into site data: Charlotte
+2026-03-22 17:10:45,075 [INFO] Merged into site data: San Antonio
+2026-03-22 17:10:45,168 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-22 17:10:45,217 [INFO] Rebuilt sitemap with 590 URLs (444 cities, 140 countries, 6 static)

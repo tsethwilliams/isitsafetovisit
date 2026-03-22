@@ -1,0 +1,166 @@
+{
+  "slug": "cleveland",
+  "name": "Cleveland",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 5.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 3.8,
+    "scamRisk": 5.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.2,
+    "transport": 7.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Cleveland has one of the highest crime rates in America, ranking among the most dangerous cities with significant violent and property crime concerns. While the city has seen recent crime decreases and offers excellent healthcare facilities, visitors should exercise heightened caution, especially at night and in certain neighborhoods.",
+  "quickVerdict": "Cleveland requires careful planning and situational awareness for visitors. While downtown, University Circle, and tourist areas are generally safer during the day, the city's crime statistics are concerning with rates well above national averages. The positive side includes world-class healthcare facilities like Cleveland Clinic, reliable public transportation, and friendly locals. Stay in well-reviewed accommodations, avoid walking alone at night, and stick to main tourist areas. The city's cultural attractions and food scene are worth experiencing with proper precautions.",
+  "neighborhoods": [
+    {
+      "name": "University Circle",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Home to Case Western Reserve University and major cultural institutions like the Cleveland Museum of Art. Well-patrolled area with good lighting and regular foot traffic during the day. University security presence adds to safety."
+    },
+    {
+      "name": "Downtown Cleveland",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Business district with major hotels, restaurants, and attractions. Generally safer during business hours and well-lit at night, but crime can occur. Stay aware of surroundings, especially after dark and on weekends."
+    },
+    {
+      "name": "Ohio City",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Trendy neighborhood with restaurants, breweries, and the West Side Market. Generally safe during the day but exercise caution at night. Some areas are more gentrified and safer than others."
+    },
+    {
+      "name": "Tremont",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Artsy neighborhood with galleries, restaurants, and the A Christmas Story House. Generally safe for visitors during the day, but be cautious walking alone after dark. Popular dining area with decent foot traffic."
+    },
+    {
+      "name": "East Cleveland",
+      "score": 2.8,
+      "class": "danger",
+      "description": "High-crime area with significant safety concerns including violent crime and property crime. Tourists should avoid this area, especially at night. Limited police presence and infrastructure challenges."
+    },
+    {
+      "name": "Hough",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Historically troubled neighborhood with ongoing crime issues. High rates of violent crime and drug activity. Not recommended for tourists. If traveling through, do not stop and keep doors locked."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Online Shopping Scams",
+      "risk": "high",
+      "description": "Fake online retailers and phishing emails offering deals, particularly during holiday seasons. Cleveland FBI reports high incidence of non-delivery scams.",
+      "howToAvoid": "Shop only from reputable websites, verify seller legitimacy, use credit cards for online purchases, and be suspicious of deals that seem too good to be true."
+    },
+    {
+      "name": "Investment and Cryptocurrency Scams",
+      "risk": "high",
+      "description": "Cleveland area sees high rates of investment fraud and crypto scams targeting residents and visitors. Scammers often use pop-ups claiming government warnings about hacked accounts.",
+      "howToAvoid": "Never invest based on unsolicited calls or emails, verify investment opportunities independently, avoid Bitcoin ATMs for transactions with unknown parties, and consult financial advisors."
+    },
+    {
+      "name": "Travel Package Scams",
+      "risk": "medium",
+      "description": "Post-holiday travel scams offering discounted vacation packages that don't match advertised amenities or don't exist at all.",
+      "howToAvoid": "Research tour operators thoroughly, read reviews from multiple sources, avoid packages significantly below market rate, and book through established travel agencies."
+    },
+    {
+      "name": "Fake Taxi and Transportation Scams",
+      "risk": "medium",
+      "description": "Unlicensed drivers posing as taxis or rideshare drivers, particularly targeting airport arrivals and tourists in downtown areas.",
+      "howToAvoid": "Use only licensed taxis from designated stands, verify rideshare driver identity and license plates before entering, book through official apps, and avoid accepting rides from people approaching you directly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers should exercise significant caution in Cleveland due to higher than average sexual assault rates and overall crime. While tourist areas like University Circle and downtown are generally safer during the day, women should avoid walking alone at night and use rideshare services instead of public transportation after dark. The friendly Midwestern culture means locals are generally helpful, but situational awareness is essential.",
+    "tips": [
+      "Stay in well-reviewed hotels in safe neighborhoods like University Circle or downtown",
+      "Use rideshare services or taxis instead of public transportation at night",
+      "Avoid walking alone after dark, especially in less populated areas",
+      "Keep emergency contacts readily available and share your itinerary with someone",
+      "Trust your instincts and remove yourself from uncomfortable situations immediately"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cleveland's night safety is concerning with higher crime rates after dark, particularly in certain neighborhoods. Downtown areas near major hotels and restaurants have better lighting and occasional police presence, but violent crime can still occur. Many locals avoid walking alone at night and visitors should follow this practice. Tourist areas empty out significantly after business hours.",
+    "tips": [
+      "Use rideshare services or taxis for all nighttime transportation",
+      "Stay in groups when possible and stick to well-lit, populated areas",
+      "Avoid walking on quiet streets or through parks after dark",
+      "Keep valuables secure and be aware of your surroundings at all times",
+      "Plan your evening activities in advance to minimize time on the street"
+    ]
+  },
+  "transport": {
+    "metro": "The Greater Cleveland Regional Transit Authority (RTA) operates buses and rail lines including the Red Line to the airport. While generally reliable during the day, the system has experienced safety incidents leading to transit ambassadors being deployed. Exercise caution on public transit, especially after dark.",
+    "rideshare": "Uber and Lyft operate throughout Cleveland and are generally safer than public transportation, especially for nighttime travel. Verify driver identity and vehicle details before entering. Pickup zones at the airport and downtown are clearly marked.",
+    "taxis": "Licensed taxis are available at designated stands and through phone dispatch. Traditional taxis cost more than rideshares but are regulated. Avoid unlicensed operators and always use official taxi services with proper identification.",
+    "tips": "Public transit is adequate during daylight hours but use rideshare services at night. The RTA Red Line connects downtown to the airport affordably. For maximum safety, especially for solo travelers and at night, rideshare services are recommended over public transportation."
+  },
+  "customs": [
+    "Tipping 15-20% at restaurants, bars, and for services is standard and expected",
+    "Americans value punctuality - arrive on time for appointments and reservations",
+    "Personal space of 2-3 feet during conversations is the norm, avoid close contact with strangers",
+    "Direct communication style is common - Americans tend to be frank and straightforward",
+    "Greetings typically involve handshakes and eye contact, with casual 'how are you' not requiring detailed responses"
+  ],
+  "health": {
+    "overview": "Cleveland offers world-class healthcare with Cleveland Clinic ranking among the top 3 hospitals globally. The city has excellent medical facilities, specialists, and emergency services. No special health precautions are needed beyond standard travel insurance recommendations.",
+    "water": "Tap water is safe to drink throughout Cleveland. The municipal water system meets all federal safety standards.",
+    "vaccinations": "No special vaccinations required. Standard travel health precautions apply. Consider travel health insurance given high healthcare costs in the US.",
+    "altitude": "Cleveland sits at approximately 650 feet above sea level with no altitude concerns. The climate is continental with cold winters and warm summers. Lake Erie influences weather patterns creating lake-effect snow in winter."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency), 216-621-1234 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Cleveland is a US city - contact local authorities or State Department at +1-202-501-4444 for US citizens abroad assistance if needed"
+  },
+  "faq": [
+    {
+      "q": "Is Cleveland safe for tourists?",
+      "a": "Cleveland requires caution due to high crime rates, but tourist areas like University Circle and downtown are generally safer during the day. Stay alert, avoid walking alone at night, and stick to well-lit, populated areas. The city has excellent medical facilities if needed."
+    },
+    {
+      "q": "Is Cleveland safe at night?",
+      "a": "Cleveland has significant safety concerns at night with higher violent crime rates. Avoid walking alone after dark, use rideshare services or taxis, and stay in well-lit areas near your accommodation. Many entertainment districts are safer but still require vigilance."
+    },
+    {
+      "q": "Is Cleveland safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extra caution in Cleveland due to above-average sexual assault rates. Stay in safe neighborhoods, use rideshare services at night, travel in groups when possible, and trust your instincts. Tourist areas are generally better but vigilance is essential."
+    },
+    {
+      "q": "What areas should I avoid in Cleveland?",
+      "a": "Avoid East Cleveland, Hough neighborhood, and other high-crime residential areas outside the tourist zones. At night, even downtown requires caution. Stick to University Circle, downtown business district, Ohio City, and Tremont while remaining alert."
+    },
+    {
+      "q": "Is it safe to use public transport in Cleveland?",
+      "a": "RTA public transportation is generally safe during daytime but has had safety incidents. Use caution on buses and trains, especially at night. The Red Line to/from the airport is popular with travelers. For maximum safety, consider rideshare services, particularly after dark."
+    }
+  ],
+  "relatedCities": [
+    "detroit",
+    "chicago",
+    "milwaukee",
+    "cincinnati",
+    "columbus"
+  ],
+  "_city_id": "cleveland-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg/1280px-Cleveland_skyline_from_Lakewood_Park%2C_January_2026.jpg"
+}

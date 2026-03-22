@@ -1,0 +1,160 @@
+{
+  "slug": "indianapolis",
+  "name": "Indianapolis",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.0,
+    "scamRisk": 6.8,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 7.2,
+    "naturalHazards": 7.3
+  },
+  "summary": "Indianapolis is a generally safe city for tourists with decent infrastructure and friendly locals, though crime rates are above national averages. Downtown areas are well-patrolled and relatively secure, while certain neighborhoods require extra caution particularly after dark.",
+  "quickVerdict": "Indianapolis offers visitors a moderately safe environment with well-maintained tourist areas and good emergency services. While violent crime has been trending downward since its 2021 peak, the city still experiences higher crime rates than many comparable destinations. Downtown areas and major tourist attractions remain relatively secure, but visitors should exercise standard urban precautions, especially in certain neighborhoods and during nighttime hours. The city's excellent healthcare facilities and responsive police presence provide reassurance for travelers.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Monument Circle",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Indianapolis with heavy police presence, tourist attractions, hotels, and well-lit streets. Generally very safe for visitors during day and evening hours."
+    },
+    {
+      "name": "Broad Ripple",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Vibrant entertainment district north of downtown with numerous bars, restaurants, and nightlife venues. Well-patrolled but can get crowded on weekends."
+    },
+    {
+      "name": "Mass Avenue",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Cultural district with theaters, galleries, and upscale dining. Generally safe with good foot traffic, though standard urban awareness is recommended."
+    },
+    {
+      "name": "Fountain Square",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic area undergoing revitalization with unique venues and art scene. Generally safe but can be variable depending on specific location and time."
+    },
+    {
+      "name": "Near Northwest/Riverside",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area with higher crime rates including property crime and some violent incidents. Tourists should exercise extra caution and avoid walking alone, especially at night."
+    },
+    {
+      "name": "Crown Hill",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Neighborhood with elevated crime statistics and limited tourist infrastructure. Not recommended for casual visitors, especially solo travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Charity/Panhandling Scams",
+      "risk": "medium",
+      "description": "Individuals approach tourists claiming to collect money for fake charities or sob stories, often near popular attractions or events.",
+      "howToAvoid": "Never give money to unsolicited requests. Verify legitimate charities independently and donate through official channels only."
+    },
+    {
+      "name": "Overpriced Event Parking",
+      "risk": "medium",
+      "description": "During major events like Indy 500 or Pacers games, unofficial parking lots charge excessive fees or may not be legitimate.",
+      "howToAvoid": "Use official venue parking or pre-book through verified sources. Be wary of cash-only lots without proper signage."
+    },
+    {
+      "name": "Rideshare Impersonation",
+      "risk": "medium",
+      "description": "Fake rideshare drivers approach tourists offering rides, especially near popular nightlife areas or after events.",
+      "howToAvoid": "Always verify the driver, vehicle, and license plate match your app. Never get in unmarked vehicles or those that approach unsolicited."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Card skimming devices placed on ATMs, particularly at gas stations or less secure locations around the city.",
+      "howToAvoid": "Use ATMs inside banks when possible, check for loose parts or unusual attachments, and cover your PIN when entering."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Indianapolis is generally safe for solo female travelers, particularly in main tourist areas and downtown districts. While the city has seen improvements in safety measures and police presence, women should exercise standard urban precautions and be especially cautious in certain neighborhoods and during nighttime hours. The local community is generally welcoming and helpful to visitors.",
+    "tips": [
+      "Stick to well-lit, populated areas especially after dark and avoid walking alone in neighborhoods outside the main tourist zones",
+      "Use reputable rideshare services rather than walking late at night, and always verify your driver and vehicle details",
+      "Downtown and main entertainment districts have good security presence, but remain aware of your surroundings and trust your instincts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Indianapolis varies significantly by location. Downtown areas and popular entertainment districts like Broad Ripple and Mass Avenue maintain better security and lighting, while certain neighborhoods become considerably less safe after dark. The city has invested in improved street lighting and police patrols in tourist areas, but standard urban nighttime precautions are essential.",
+    "tips": [
+      "Stay in well-lit, populated areas and avoid walking alone in unfamiliar neighborhoods after dark",
+      "Use rideshare services or taxis instead of walking long distances at night, and stick to main streets when possible",
+      "If going out for nightlife, plan your transportation in advance and stay with groups when possible"
+    ]
+  },
+  "transport": {
+    "metro": "IndyGo operates the city's bus system including the Red Line BRT with good safety records and regular routes. Buses have security cameras and follow established safety protocols, though service can be limited late at night.",
+    "rideshare": "Uber and Lyft operate extensively throughout Indianapolis with generally safe and reliable service. Always verify driver and vehicle details, and use the safety features in the apps including location sharing.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. Use only licensed taxi companies and ensure the meter is running or agree on fare beforehand.",
+    "tips": "Public transportation is generally safe during daytime hours. For late-night travel, rideshare services are typically the safest and most convenient option."
+  },
+  "customs": [
+    "Americans value personal space and typically maintain arm's length distance during conversations, with firm handshakes being the standard greeting",
+    "Tipping is expected in restaurants (18-20%), bars ($1-2 per drink), and for taxi/rideshare drivers, as service workers depend on tips for income",
+    "Punctuality is highly valued - arrive on time for reservations, tours, and appointments, and casual dress is acceptable in most situations except upscale restaurants"
+  ],
+  "health": {
+    "overview": "Indianapolis has excellent healthcare facilities including nationally recognized hospitals and medical centers. The city offers comprehensive medical services with Indiana University Health being a leading provider. No special health precautions are needed beyond standard travel preparations.",
+    "water": "Tap water is safe to drink throughout Indianapolis and meets all federal safety standards. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for travel to Indianapolis. Routine vaccinations should be up to date as recommended for any domestic travel.",
+    "altitude": "Indianapolis sits at approximately 715 feet above sea level with a continental climate. No altitude-related health concerns. Weather can vary significantly by season with hot, humid summers and cold winters."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 317-327-3811 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Indianapolis is within the United States. For international visitors, contact local consulates or embassies in nearby Chicago or Washington D.C."
+  },
+  "faq": [
+    {
+      "q": "Is Indianapolis safe for tourists?",
+      "a": "Indianapolis is moderately safe for tourists, especially in downtown and main entertainment districts. While crime rates are above national averages, tourist areas have good police presence and security measures. Exercise standard urban precautions and avoid certain neighborhoods particularly at night."
+    },
+    {
+      "q": "Is Indianapolis safe at night?",
+      "a": "Downtown and main entertainment areas like Broad Ripple are relatively safe at night with good lighting and security presence. However, avoid walking alone in unfamiliar neighborhoods after dark and use rideshare services for transportation. Stick to well-populated, well-lit areas."
+    },
+    {
+      "q": "Is Indianapolis safe for solo female travelers?",
+      "a": "Yes, Indianapolis can be safe for solo female travelers who take appropriate precautions. Stay in tourist areas, use rideshare services at night, and be aware of your surroundings. The downtown area and main attractions are generally welcoming and secure."
+    },
+    {
+      "q": "What areas should I avoid in Indianapolis?",
+      "a": "Avoid neighborhoods like Near Northwest/Riverside and Crown Hill, especially at night. Areas outside the downtown core and main entertainment districts may have higher crime rates. Research specific neighborhood safety before venturing beyond tourist areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Indianapolis?",
+      "a": "Yes, IndyGo buses are generally safe with security cameras and regular routes. The Red Line BRT is particularly safe and convenient. However, service is limited late at night, so plan alternative transportation for evening activities. Rideshare services are widely available and reliable."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "milwaukee",
+    "detroit",
+    "kansas-city",
+    "cleveland"
+  ],
+  "_city_id": "indianapolis-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indianapolis-1872528.jpg/1280px-Indianapolis-1872528.jpg"
+}

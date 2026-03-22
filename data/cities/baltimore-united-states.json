@@ -1,0 +1,164 @@
+{
+  "slug": "baltimore",
+  "name": "Baltimore",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 5.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 3.5,
+    "scamRisk": 5.5,
+    "womensSafety": 4.8,
+    "nightSafety": 4.0,
+    "transport": 6.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Baltimore has made significant progress in reducing crime with homicides falling 22% in 2025, but violent crime rates remain well above national averages. Tourists can visit safely by staying in well-policed areas like Inner Harbor and avoiding certain neighborhoods, especially at night.",
+  "quickVerdict": "Baltimore presents a mixed safety picture with notable improvements but ongoing challenges. While violent crime has decreased significantly with homicides dropping to their lowest level in nearly 50 years, the city still ranks among the most dangerous in America. Tourist areas like Inner Harbor, Federal Hill, and Mount Vernon are generally safe during daytime hours with good police presence. However, visitors should exercise heightened caution at night and avoid high-crime neighborhoods in West Baltimore and East Baltimore. Solo female travelers need to be particularly vigilant, especially after dark.",
+  "neighborhoods": [
+    {
+      "name": "Inner Harbor",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Tourist-friendly waterfront area with National Aquarium and restaurants, constant police presence and high foot traffic making it the safest area for visitors"
+    },
+    {
+      "name": "Mount Vernon",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic cultural district with museums and monuments, well-maintained with regular patrols and good lighting"
+    },
+    {
+      "name": "Federal Hill",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy neighborhood near Inner Harbor with good restaurants and nightlife, generally safe with active community watch"
+    },
+    {
+      "name": "Canton",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Young professional area with waterfront views, mostly safe but requires normal urban precautions especially at night"
+    },
+    {
+      "name": "West Baltimore",
+      "score": 2.5,
+      "class": "danger",
+      "description": "High-crime area with significant drug activity and gang presence, tourists should avoid this area entirely"
+    },
+    {
+      "name": "East Baltimore",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Economically disadvantaged area with elevated violent crime rates, not recommended for tourists without local guidance"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Parking Attendants",
+      "risk": "medium",
+      "description": "Someone claiming to be a parking attendant demands payment for parking in areas where no fee is required, often near tourist spots",
+      "howToAvoid": "Only pay at official meters or lots with clear signage, ignore unofficial parking attendants"
+    },
+    {
+      "name": "Phone Borrowing Scam",
+      "risk": "high",
+      "description": "Person asks to borrow your phone to text family but accesses banking apps to transfer money to their account",
+      "howToAvoid": "Never let strangers handle your phone, direct them to police or businesses if they need help"
+    },
+    {
+      "name": "Government Impersonation",
+      "risk": "medium",
+      "description": "Scammers pose as government officials demanding immediate payment or threatening arrest, targeting vulnerable populations",
+      "howToAvoid": "Government agencies don't demand immediate payment by phone, hang up and call the agency directly"
+    },
+    {
+      "name": "ATM Following",
+      "risk": "medium",
+      "description": "Criminals target people at ATMs or banks, following them to steal cash after withdrawal",
+      "howToAvoid": "Be aware of surroundings at ATMs, vary your routes after banking, avoid displaying cash"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Baltimore requires extra caution with a violent crime rate of 15.55 per 1,000 residents. While daytime exploration of tourist areas is generally manageable, night safety is a significant concern. Many areas are not safe to walk at night, and public transit is limited.",
+    "tips": [
+      "Stay in well-lit, populated areas and avoid isolated spots",
+      "Use rideshare services after dark rather than walking",
+      "Keep accommodations in tourist-friendly neighborhoods like Inner Harbor",
+      "Avoid displaying valuables and stay alert for harassment",
+      "Trust your instincts and don't feel obligated to be polite to persistent strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Baltimore at night requires significant caution as 83% of residents report feeling uncomfortable walking alone after dark. Crime rates increase substantially after sunset, particularly in areas outside the main tourist zones.",
+    "tips": [
+      "Stick to well-lit main streets with regular foot traffic",
+      "Use rideshare apps instead of walking, even short distances",
+      "Avoid public transportation at night when possible",
+      "Travel in groups when exploring nightlife areas",
+      "Stay close to hotels and main tourist districts after 10 PM"
+    ]
+  },
+  "transport": {
+    "metro": "Baltimore's Light Rail and Metro systems are generally safe during daytime with recent investments in modernization. The Maryland Transit Administration is recognized as one of the safest among major US transit agencies.",
+    "rideshare": "Uber and Lyft operate reliably throughout Baltimore and are the recommended option for night travel. Always verify the driver and vehicle details before getting in.",
+    "taxis": "Traditional taxis are available but less convenient than rideshare. Stick to licensed taxi companies and avoid unofficial cabs at airports or tourist areas.",
+    "tips": "Public transport safety varies by time and location. Use rideshare for evening travel and stay aware of surroundings on all public transport."
+  },
+  "customs": [
+    "Tipping is expected at restaurants (18-20%), bars, and for services",
+    "Baltimore is known for crab cakes - don't leave without trying them",
+    "The city takes pride in its maritime heritage and sports teams"
+  ],
+  "health": {
+    "overview": "Baltimore has good healthcare infrastructure with major hospitals and medical facilities. The city's water meets federal safety standards but has some quality concerns.",
+    "water": "Tap water is generally safe to drink and meets EPA standards, though some contaminants exceed health guidelines. Consider bottled water if you have a sensitive stomach.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel vaccines recommended for international visitors.",
+    "altitude": "Baltimore is at sea level with a humid subtropical climate. Summer can be hot and humid while winters are mild with occasional snow."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Baltimore is a US city - international visitors should contact their home country's consulate in Washington DC if needed"
+  },
+  "faq": [
+    {
+      "q": "Is Baltimore safe for tourists?",
+      "a": "Baltimore can be safe for tourists who stay in designated tourist areas like Inner Harbor and practice normal urban safety precautions. Crime has decreased significantly but remains above national averages."
+    },
+    {
+      "q": "Is Baltimore safe at night?",
+      "a": "Night safety is limited in Baltimore. Stick to well-lit tourist areas, use rideshare services, and avoid walking alone after dark. Many residents report feeling unsafe walking at night."
+    },
+    {
+      "q": "Is Baltimore safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extra caution in Baltimore. Daytime visits to tourist areas are manageable, but night travel requires careful planning and heightened awareness."
+    },
+    {
+      "q": "What areas should I avoid in Baltimore?",
+      "a": "Avoid West Baltimore, East Baltimore, Cherry Hill, Highlandtown, and other economically disadvantaged areas with high crime rates. Stick to Inner Harbor, Mount Vernon, and Federal Hill."
+    },
+    {
+      "q": "Is it safe to use public transport in Baltimore?",
+      "a": "Public transport is generally safe during daytime hours, with the transit authority being well-regarded for safety. Use rideshare services for evening travel and stay alert on all public transit."
+    }
+  ],
+  "relatedCities": [
+    "washington-dc",
+    "philadelphia",
+    "richmond",
+    "atlanta",
+    "boston"
+  ],
+  "_city_id": "baltimore-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/1280px-Fell%27s_Point_Aerial_2022.jpg"
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "napa-valley",
+  "name": "Napa Valley",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 7.8,
+    "womensSafety": 8.4,
+    "nightSafety": 7.9,
+    "transport": 8.0,
+    "naturalHazards": 8.9
+  },
+  "summary": "Napa Valley is generally a very safe destination for tourists with low crime rates and excellent infrastructure. The main concerns are typical tourist scams and the need for transportation planning when wine tasting.",
+  "quickVerdict": "Napa Valley ranks as one of California's safest tourist destinations with low crime rates, professional emergency services, and a focus on hospitality. While the region faces natural hazards like wildfires and earthquakes common to Northern California, these risks are well-managed through modern emergency preparedness systems. Visitors should primarily be aware of tourist-focused scams and plan safe transportation when wine tasting.",
+  "neighborhoods": [
+    {
+      "name": "Downtown Napa",
+      "score": 8.3,
+      "class": "safe",
+      "description": "The city center offers excellent walkability with numerous restaurants, wine bars, and entertainment venues. Well-lit streets and regular police patrols make it safe for evening activities."
+    },
+    {
+      "name": "Yountville",
+      "score": 9.1,
+      "class": "safe",
+      "description": "An upscale town known for fine dining and luxury accommodations. Extremely low crime rates and well-maintained public spaces make it ideal for all visitors."
+    },
+    {
+      "name": "St. Helena",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Charming small town atmosphere with boutique shopping and tasting rooms. Very low crime and strong community policing create a secure environment."
+    },
+    {
+      "name": "Calistoga",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Northern Napa town famous for hot springs and spas. Small-town feel with minimal crime and friendly locals create a welcoming environment for tourists."
+    },
+    {
+      "name": "American Canyon",
+      "score": 7.2,
+      "class": "safe",
+      "description": "More residential area at the southern entrance to Napa Valley. Generally safe but less tourist-focused with standard suburban crime prevention."
+    },
+    {
+      "name": "Rural Vineyard Areas",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Scattered wineries and estates throughout the valley. Very low crime rates but limited emergency services response times due to remote locations."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Winery Tours",
+      "risk": "medium",
+      "description": "Unlicensed operators offer wine tours at discounted rates but lack proper insurance, use unsafe vehicles, or fail to deliver promised services.",
+      "howToAvoid": "Only book through licensed tour companies with proper credentials. Verify insurance coverage and read recent reviews before booking."
+    },
+    {
+      "name": "Rideshare Impersonation",
+      "risk": "medium",
+      "description": "Criminals pose as rideshare drivers to pick up intoxicated tourists, particularly outside wineries and restaurants.",
+      "howToAvoid": "Always verify the license plate, driver photo, and vehicle description match your app before getting in. Never accept rides from drivers who approach you directly."
+    },
+    {
+      "name": "Overpriced Wine Sales",
+      "risk": "low",
+      "description": "Some tasting rooms or events pressure visitors into buying overpriced wine packages or club memberships with hidden fees.",
+      "howToAvoid": "Research typical wine prices beforehand. Take time to read all terms and conditions. Don't feel pressured to purchase immediately."
+    },
+    {
+      "name": "Fake Emergency Calls",
+      "risk": "low",
+      "description": "Scammers call hotel rooms claiming to be front desk staff needing to verify credit card information due to processing issues.",
+      "howToAvoid": "Never provide credit card information over the phone. Hang up and call the front desk directly using the hotel's main number."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Napa Valley is considered very safe for solo female travelers, with low crime rates and a tourist-friendly environment. The region's focus on hospitality means solo women are generally welcomed at restaurants and wine tastings without issue. Most areas are well-lit and regularly patrolled, though transportation planning is essential.",
+    "tips": [
+      "Book wine tasting appointments in advance as walk-ins are rarely accepted, reducing uncertainty about your itinerary",
+      "Use legitimate rideshare services or pre-arranged drivers rather than accepting rides from strangers at wineries",
+      "Stay in well-reviewed accommodations in downtown Napa or established wine country towns rather than isolated rural properties"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Napa Valley offers a relatively safe nightlife experience centered around wine bars, restaurants, and entertainment venues in downtown areas. Most establishments close by midnight, and the region lacks the intense party atmosphere of larger cities. Police presence is visible in tourist areas, and violent crime at night is rare.",
+    "tips": [
+      "Stick to well-lit areas in downtown Napa, Yountville, or St. Helena where most nightlife is concentrated",
+      "Arrange transportation in advance as rideshare options can be limited, especially in rural areas between wineries",
+      "Be aware that many venues close earlier than in major cities, with most bars wrapping up by 11 PM or midnight"
+    ]
+  },
+  "transport": {
+    "metro": "Napa Valley does not have a metro system. Public transportation is limited to local bus services and the seasonal Vine Transit system.",
+    "rideshare": "Uber and Lyft operate in the area but service can be unreliable, especially during peak wine season and in rural vineyard areas. Wait times can be significant.",
+    "taxis": "Traditional taxi services are limited and often require advance booking. Most visitors rely on pre-arranged private drivers or tour companies for winery visits.",
+    "tips": "Plan transportation in advance when wine tasting. Consider booking a designated driver service or joining a group tour. Never drive after drinking as DUI enforcement is strict throughout the valley."
+  },
+  "customs": [
+    "Tipping wine tasting servers $5-10 per person for good service is customary, though not mandatory",
+    "Most wineries require reservations and may have dress codes favoring smart casual attire over beachwear or athletic wear",
+    "Spitting wine during tastings is completely acceptable and encouraged for designated drivers or those visiting multiple wineries"
+  ],
+  "health": {
+    "overview": "Napa Valley has excellent healthcare facilities with Queen of the Valley Medical Center providing comprehensive services. Air quality is generally good except during wildfire season when smoke can cause respiratory issues.",
+    "water": "Tap water is safe to drink throughout the region and meets all federal standards.",
+    "vaccinations": "No special vaccinations required. Standard US travel health precautions apply.",
+    "altitude": "Napa Valley sits at sea level to low elevation with a Mediterranean climate. Summer temperatures can reach 90°F+ with low humidity. Wildfire smoke occasionally affects air quality during fire season (typically August-October)."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "707-257-9223 (Napa Police non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable for domestic travel. Contact local US authorities or consular services for international visitors if needed."
+  },
+  "faq": [
+    {
+      "q": "Is Napa Valley safe for tourists?",
+      "a": "Yes, Napa Valley is very safe for tourists with low crime rates and excellent emergency services. The region depends heavily on tourism, so there's strong motivation to maintain safety and security."
+    },
+    {
+      "q": "Is Napa Valley safe at night?",
+      "a": "Napa Valley is generally safe at night, especially in main tourist areas like downtown Napa, Yountville, and St. Helena. Most nightlife is concentrated in well-lit, patrolled areas with restaurants and wine bars."
+    },
+    {
+      "q": "Is Napa Valley safe for solo female travelers?",
+      "a": "Yes, Napa Valley is considered very safe for solo female travelers. The tourist-focused environment, low crime rates, and professional hospitality industry create a welcoming atmosphere for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Napa Valley?",
+      "a": "There are no specific areas tourists need to avoid in Napa Valley. Use standard precautions in more isolated rural areas and be aware of seasonal wildfire risks in heavily forested regions during dry months."
+    },
+    {
+      "q": "Is it safe to use public transport in Napa Valley?",
+      "a": "Public transportation options are limited in Napa Valley. While the available bus services are safe, most visitors rely on rental cars, rideshare, or private drivers. Plan transportation in advance, especially for wine tasting."
+    }
+  ],
+  "relatedCities": [
+    "san-francisco",
+    "sacramento",
+    "santa-rosa"
+  ],
+  "_city_id": "napa-valley-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/TTB_Map_Napa_Valley_AVA.png"
+}

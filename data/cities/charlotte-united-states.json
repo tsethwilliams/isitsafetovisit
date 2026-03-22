@@ -1,0 +1,160 @@
+{
+  "slug": "charlotte",
+  "name": "Charlotte",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Charlotte has above-average crime rates with property crime being the main concern for visitors. Safety varies dramatically by neighborhood, with upscale areas like Ballantyne and Myers Park being much safer than areas in West Charlotte.",
+  "quickVerdict": "Charlotte presents a mixed safety picture where neighborhood selection is crucial. While the city has crime rates 20% above the national average and ranks as safer than only 3% of U.S. cities, popular tourist areas like Uptown, South End, and affluent suburbs maintain reasonable security. Property crime, particularly theft and vehicle break-ins, is the primary concern for visitors. Solo female travelers report feeling generally safe with standard precautions, and the city's excellent public transportation system including the LYNX light rail provides secure mobility options.",
+  "neighborhoods": [
+    {
+      "name": "Myers Park",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential neighborhood with tree-lined streets, low crime rates, and excellent walkability. Popular with families and professionals, featuring boutique shopping and dining."
+    },
+    {
+      "name": "Ballantyne",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Affluent suburb in South Charlotte with modern shopping, dining, and business centers. Consistently ranks among the safest areas with minimal crime incidents."
+    },
+    {
+      "name": "Uptown",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Central business district with good security presence during day but higher crime rates at night. Entertainment and financial center with regular police patrols."
+    },
+    {
+      "name": "South End",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy neighborhood with new development, light rail access, and active nightlife. Generally safe but exercise standard urban precautions after dark."
+    },
+    {
+      "name": "West Charlotte",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Higher crime area requiring significant caution, especially after dark. Some community revitalization efforts underway but visitors should avoid unless necessary."
+    },
+    {
+      "name": "Plaza Midwood",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Hip arts district with eclectic dining and nightlife. Generally safe during day but can have isolated incidents. Stay aware of surroundings, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Jewelry Roadside Scam",
+      "risk": "medium",
+      "description": "Scammers wearing expensive jewelry fake car breakdowns and offer jewelry as collateral for cash assistance, claiming they'll return to pay back the money.",
+      "howToAvoid": "Never give cash to strangers claiming car trouble. Offer to call roadside assistance instead of providing money."
+    },
+    {
+      "name": "Fake Police/Authority Scam",
+      "risk": "medium",
+      "description": "Criminals pose as police officers or officials demanding ID checks or fines, particularly targeting tourists who appear unfamiliar with local procedures.",
+      "howToAvoid": "Always ask for official identification and badge numbers. Real police won't demand immediate cash payments. Call 911 to verify if suspicious."
+    },
+    {
+      "name": "Fake Transit Ticket Sales",
+      "risk": "low",
+      "description": "People at transportation hubs sell discounted or fake bus/transit tickets claiming to offer deals or skip lines.",
+      "howToAvoid": "Only purchase tickets from official vendors, machines, or authorized locations. Legitimate transit doesn't offer cash discounts through individuals."
+    },
+    {
+      "name": "Event Ticket Scams",
+      "risk": "medium",
+      "description": "Fraudulent ticket sales for major events like sports games or concerts, often selling screenshots or duplicated tickets that won't be accepted at venues.",
+      "howToAvoid": "Buy tickets only from official box offices or verified resellers like Ticketmaster. Avoid screenshots or suspiciously cheap prices."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Charlotte is considered relatively safe for solo female travelers with standard urban precautions. The city has good infrastructure, walkable tourist areas, and a strong public transportation system. Most visitors report feeling comfortable during daytime hours in popular neighborhoods, though nighttime awareness is recommended.",
+    "tips": [
+      "Stick to well-lit, populated areas especially at night",
+      "Use rideshare or taxi services rather than walking alone after dark",
+      "Stay in neighborhoods like Myers Park, Ballantyne, or Uptown for better safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Charlotte's nightlife is concentrated in areas like Uptown and South End which maintain reasonable security, though crime rates do increase after dark. The entertainment districts have active police presence during peak hours, but isolated areas and certain neighborhoods require extra caution.",
+    "tips": [
+      "Remain in well-populated entertainment areas with good lighting",
+      "Travel in groups when possible and avoid walking alone late at night",
+      "Use rideshare services or the light rail for nighttime transportation"
+    ]
+  },
+  "transport": {
+    "metro": "The LYNX Blue Line light rail is safe and efficient, running from University City to Pineville with 26 stations. Professional operation with security presence and mobile apps for real-time tracking.",
+    "rideshare": "Uber and Lyft operate widely throughout Charlotte and are considered safe options, especially for nighttime travel. Generally reliable with good driver ratings.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. Airport taxis are regulated and safe for travelers.",
+    "tips": "Public transit is generally secure during operating hours. Keep belongings close in crowded areas and stay alert to petty crime like pickpocketing."
+  },
+  "customs": [
+    "Southern hospitality is common - friendly greetings and politeness are appreciated",
+    "Tipping is expected: 18-20% at restaurants, $1-2 per drink at bars",
+    "Casual dress is acceptable in most places, business casual for upscale restaurants"
+  ],
+  "health": {
+    "overview": "Charlotte has excellent healthcare facilities including Atrium Health Carolinas Medical Center, the region's only Level 1 trauma center. No special health precautions needed beyond standard travel preparations.",
+    "water": "Tap water is safe to drink throughout Charlotte and meets all federal standards.",
+    "vaccinations": "No special vaccinations required for domestic travel. Routine vaccines should be up to date.",
+    "altitude": "Charlotte sits at about 750 feet elevation with a humid subtropical climate. Hot, humid summers and mild winters with occasional severe weather."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (704) 336-7600",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No embassy in Charlotte - nearest is in Washington D.C. or Atlanta consular services"
+  },
+  "faq": [
+    {
+      "q": "Is Charlotte safe for tourists?",
+      "a": "Charlotte is moderately safe for tourists who stick to main attractions and exercise normal urban precautions. Crime rates are above national average but tourist areas like Uptown and South End have good security presence."
+    },
+    {
+      "q": "Is Charlotte safe at night?",
+      "a": "Downtown entertainment areas are reasonably safe at night with police presence, but avoid isolated areas and certain neighborhoods. Use rideshare services and stick to well-lit, populated areas."
+    },
+    {
+      "q": "Is Charlotte safe for solo female travelers?",
+      "a": "Yes, with standard precautions. Solo female travelers report feeling generally comfortable, especially in tourist areas during daytime. Use common sense safety measures and trusted transportation options."
+    },
+    {
+      "q": "What areas should I avoid in Charlotte?",
+      "a": "Exercise extra caution in parts of West Charlotte, certain areas of North Tryon Street, and isolated areas after dark. Research your specific neighborhood and stick to well-reviewed, popular areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Charlotte?",
+      "a": "Yes, the LYNX light rail and CATS bus system are generally safe and well-maintained. Stay aware of belongings in crowded areas and use normal transit safety precautions."
+    }
+  ],
+  "relatedCities": [
+    "atlanta",
+    "raleigh",
+    "charleston",
+    "nashville",
+    "miami"
+  ],
+  "_city_id": "charlotte-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg/1280px-Uptown_Charlotte_2018_taking_by_DJI_Phantom_4_pro.jpg"
+}
