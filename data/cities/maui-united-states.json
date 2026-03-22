@@ -1,0 +1,166 @@
+{
+  "slug": "maui",
+  "name": "Maui",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.5,
+    "scamRisk": 6.2,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Maui is a relatively safe destination for tourists with very low violent crime rates and excellent emergency services. While property crime and tourist-targeted scams occur, the primary safety concerns stem from powerful natural forces including flash floods, high surf, and wildfire risks. Visitors should exercise ocean safety and respect local customs for an enjoyable stay.",
+  "quickVerdict": "Maui ranks among Hawaii's safest islands with violent crime rates well below national averages. The main risks visitors face are property theft (especially car break-ins), tourist scams, and natural hazards from ocean conditions and weather. Most safety issues are preventable with basic precautions. The island has good healthcare facilities and responsive emergency services, making it suitable for all types of travelers when proper safety awareness is maintained.",
+  "neighborhoods": [
+    {
+      "name": "Wailea-Makena",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Upscale resort area with excellent security, low crime rates, and well-maintained facilities. Popular with luxury travelers and families."
+    },
+    {
+      "name": "Kahana-Napili",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Quiet residential and resort area on the west coast with minimal crime and good tourist infrastructure."
+    },
+    {
+      "name": "Kaanapali",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Major resort destination with hotel security and tourist police presence. Some petty theft targeting tourists but generally very safe."
+    },
+    {
+      "name": "Kihei",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular tourist town with moderate crime levels. Car break-ins and beach theft occur but violent crime is rare."
+    },
+    {
+      "name": "Lahaina",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic town with higher property crime rates and some nightlife-related incidents. Rebuilding after 2023 wildfire impacts."
+    },
+    {
+      "name": "Paia-Haiku",
+      "score": 6.8,
+      "class": "caution",
+      "description": "North shore communities with some local tension and property crime. Remote areas require extra caution especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Car Rental Break-ins",
+      "risk": "high",
+      "description": "Thieves target rental cars at beaches and tourist attractions, breaking windows to steal visible items.",
+      "howToAvoid": "Never leave valuables in cars, even in the trunk if others can see you placing items there. Use hotel safes and bring only essentials to beach areas."
+    },
+    {
+      "name": "Fraudulent Tour Bookings",
+      "risk": "medium",
+      "description": "Scammers sell heavily discounted tours through social media platforms, then initiate chargebacks after tourists complete legitimate tours.",
+      "howToAvoid": "Book tours only through official websites, licensed operators, or reputable travel agencies. Be suspicious of deals that seem too good to be true."
+    },
+    {
+      "name": "Timeshare Presentations",
+      "risk": "medium",
+      "description": "Aggressive salespeople approach tourists offering free attractions or meals in exchange for attending high-pressure timeshare sales presentations.",
+      "howToAvoid": "Decline unsolicited offers from street vendors. Research attraction prices independently and book directly with operators."
+    },
+    {
+      "name": "Fake Pearl Oyster Operations",
+      "risk": "low",
+      "description": "Tourist shops claim you can find guaranteed pearls in oysters, but the process is rigged with planted pearls.",
+      "howToAvoid": "Understand this is entertainment, not a genuine chance to find valuable pearls. Shop at established jewelry stores for authentic purchases."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Maui is generally safe for solo female travelers with low violent crime rates and a welcoming tourist infrastructure. Most areas frequented by visitors have good lighting and security. The main concerns are property theft and being aware of ocean safety. Local culture is respectful toward women, and harassment is uncommon.",
+    "tips": [
+      "Avoid leaving drinks unattended at bars and clubs, especially in Lahaina's nightlife areas",
+      "Use well-lit, populated beaches and avoid isolated areas after sunset",
+      "Stay in reputable accommodations with good security and front desk services",
+      "Trust your instincts if approached by overly persistent vendors or tour operators",
+      "Consider joining group activities or tours to meet other travelers and enhance safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Maui's nighttime safety varies by location, with resort areas generally very secure while some local neighborhoods require more caution. Most tourist zones have adequate lighting and security presence. The main nighttime risks include property crime, ocean hazards in darkness, and occasional alcohol-related incidents in bar areas.",
+    "tips": [
+      "Stick to well-lit tourist areas and avoid walking alone on remote beaches or trails after dark",
+      "Use rideshare services or hotel shuttles rather than walking long distances at night",
+      "Be especially cautious around Front Street in Lahaina where most nightlife incidents occur",
+      "Never swim or wade in ocean waters at night due to dangerous currents and poor visibility",
+      "Keep valuables secure and avoid displaying expensive jewelry or electronics"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Maui. The Maui Bus provides basic public transportation with 12 routes serving major towns and resort areas, operating 7 days a week with fares of $2 per ride.",
+    "rideshare": "Uber and Lyft operate throughout Maui with generally safe and reliable service. A local alternative called Holoholo provides similar services. Expect higher fares during peak times and longer wait times in remote areas.",
+    "taxis": "Traditional taxis are available but expensive and sometimes unreliable. Some reports of overcharging tourists exist. Rideshare apps are generally preferred for better pricing transparency and service quality.",
+    "tips": "Rental cars offer the most flexibility and safety for exploring Maui's attractions. Public transportation is limited to main routes and doesn't reach popular destinations like Haleakala National Park or the Road to Hana. Airport shuttles provide economical transfers to major resort areas."
+  },
+  "customs": [
+    "Remove shoes before entering homes, a practice derived from Asian immigrant cultures that is now universally observed in Hawaii",
+    "Use Aloha and Mahalo sincerely - these words carry deep cultural meaning beyond simple greetings and thanks",
+    "Respect the distinction between locals and Native Hawaiians - only refer to indigenous people as Hawaiian",
+    "Don't remove natural items like lava rocks, coral, or sand as this is both illegal and considered bad luck",
+    "Accept and wear lei graciously when offered, keeping them on while in the giver's presence as a sign of respect"
+  ],
+  "health": {
+    "overview": "Maui has good healthcare facilities including Maui Memorial Medical Center, a Level III trauma center, and several clinics. The island faces ongoing healthcare challenges with physician shortages and rising costs, but emergency care is readily available.",
+    "water": "Tap water is generally safe to drink throughout Maui, with twelve different water systems monitored by the county. Some visitors prefer bottled water due to taste preferences. Recent reports show no major violations in water quality standards.",
+    "vaccinations": "No special vaccinations required for Maui beyond routine immunizations. Consider hepatitis A and B if engaging in high-risk activities. Recent health alerts have included measles detection in wastewater and occasional dengue fever cases from travelers.",
+    "altitude": "Maui's diverse elevations range from sea level to over 10,000 feet at Haleakala summit. Altitude sickness can occur at higher elevations. The tropical climate requires sun protection and awareness of UV exposure, especially on water activities."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (808) 244-6400",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy on Maui. For federal assistance, contact State Department at +1-202-501-4444 from abroad or +1-888-407-4747 from within US."
+  },
+  "faq": [
+    {
+      "q": "Is Maui safe for tourists?",
+      "a": "Yes, Maui is generally very safe for tourists with low violent crime rates. The main risks are property theft, tourist scams, and natural hazards from ocean and weather conditions. Basic precautions and awareness make it suitable for all types of travelers."
+    },
+    {
+      "q": "Is Maui safe at night?",
+      "a": "Most tourist areas are safe at night with good lighting and security. Stick to populated resort areas and well-lit streets. Avoid isolated beaches and remote areas after dark, and never enter ocean waters at night due to dangerous conditions."
+    },
+    {
+      "q": "Is Maui safe for solo female travelers?",
+      "a": "Yes, Maui is quite safe for solo women with respectful local culture and low harassment rates. Use common sense precautions like staying in well-lit areas, securing valuables, and avoiding excessive alcohol consumption in nightlife areas."
+    },
+    {
+      "q": "What areas should I avoid in Maui?",
+      "a": "No areas are completely off-limits, but exercise extra caution in some Lahaina neighborhoods at night, isolated beaches after sunset, and private property areas. The north shore can have stronger local sentiment in certain spots."
+    },
+    {
+      "q": "Is it safe to use public transport in Maui?",
+      "a": "Yes, the Maui Bus is safe and reliable for basic transportation between major towns. Service is limited compared to rental cars. Rideshare apps like Uber and Lyft are widely available and generally safe alternatives."
+    }
+  ],
+  "relatedCities": [
+    "honolulu",
+    "kona",
+    "hilo",
+    "anchorage",
+    "seattle"
+  ],
+  "_city_id": "maui-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Maui_Landsat_Photo.jpg"
+}

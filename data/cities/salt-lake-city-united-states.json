@@ -1,0 +1,160 @@
+{
+  "slug": "salt-lake-city",
+  "name": "Salt Lake City",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 7.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Salt Lake City is generally safe for tourists, with well-maintained public areas and helpful locals, though it has higher crime rates than the national average. The city benefits from excellent public transportation, quality healthcare, and strong community policing, but visitors should exercise normal urban precautions.",
+  "quickVerdict": "Salt Lake City offers a welcoming environment for tourists with its clean downtown core, reliable public transit system, and friendly local culture. While crime statistics show higher than average rates for a US city of its size, most incidents are property-related and occur in specific neighborhoods away from tourist areas. The city's excellent infrastructure, quality healthcare system, and community-oriented policing make it a relatively safe destination for travelers who take standard urban precautions.",
+  "neighborhoods": [
+    {
+      "name": "Downtown & Temple Square",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of tourist activity with heavy foot traffic, well-lit streets, and regular police patrols. Generally very safe during day and evening hours with numerous dining and entertainment options."
+    },
+    {
+      "name": "The Avenues & Capitol Hill",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area with tree-lined streets, historic homes, and low crime rates. Excellent for walking and exploring local cafes and shops with a strong sense of community."
+    },
+    {
+      "name": "Sugar House",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood south of downtown with popular restaurants, breweries, and shopping. Generally safe but can get busy during nightlife hours on weekends."
+    },
+    {
+      "name": "University Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Student-friendly area with good lighting and campus security presence. Safe during day but exercise caution late at night, especially around party areas."
+    },
+    {
+      "name": "Rose Park & Glendale",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Northwest residential areas with higher property crime rates and socioeconomic challenges. Avoid walking alone at night and keep valuables secure."
+    },
+    {
+      "name": "Westpointe & Poplar Grove",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Areas with significantly higher violent and property crime rates. Limited tourist attractions; visitors should avoid these neighborhoods, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Travel Booking Fraud",
+      "risk": "high",
+      "description": "AI-generated fake travel websites mimicking legitimate booking platforms, especially targeting ski resort and hotel reservations during peak season.",
+      "howToAvoid": "Book directly through official hotel/resort websites or verified travel agents. Check URLs carefully for typos and verify SSL certificates."
+    },
+    {
+      "name": "Vacation Rental Scams",
+      "risk": "medium",
+      "description": "Fraudulent Craigslist postings for Park City ski rentals requiring wire transfers, particularly during Sundance Film Festival and ski season.",
+      "howToAvoid": "Use reputable vacation rental platforms like Airbnb or VRBO. Never wire money and always verify property legitimacy through property management companies."
+    },
+    {
+      "name": "Phone/Police Impersonation",
+      "risk": "medium",
+      "description": "Scammers calling claiming to be Salt Lake City Police demanding immediate payment for fake warrants or violations.",
+      "howToAvoid": "Police never demand payment over the phone. Hang up and call SLCPD directly at 801-799-3000 to verify any legitimate issues."
+    },
+    {
+      "name": "QR Code Phishing",
+      "risk": "low",
+      "description": "Fake QR codes placed over legitimate ones at tourist attractions and restaurants to steal credit card information.",
+      "howToAvoid": "Be suspicious of QR code stickers. Type restaurant websites directly into your browser instead of scanning questionable codes."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Salt Lake City is considered safe for solo female travelers, ranking 24th safest among US cities for women traveling alone. The downtown area is well-lit and patrolled, with friendly locals often willing to help. Public transportation is reliable and safe, and the city has a strong community culture that looks out for visitors.",
+    "tips": [
+      "Stick to well-lit downtown areas and avoid Central, Northwest, and some South Salt Lake neighborhoods after dark",
+      "Use rideshare apps like Uber or Lyft for nighttime transportation rather than walking alone",
+      "Temple Square and main tourist areas are very safe and well-monitored throughout the day and evening"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Downtown Salt Lake City is generally safe at night with well-lit streets and active nightlife areas. The main entertainment district along Main Street has good foot traffic and security presence. However, some residential areas and the west side of the city require more caution after dark.",
+    "tips": [
+      "Stay in the downtown core and Main Street entertainment district for nightlife activities",
+      "Travel in groups when possible and use rideshare services for transportation after 10 PM",
+      "Be aware that some businesses close early on Sundays due to local religious customs"
+    ]
+  },
+  "transport": {
+    "metro": "TRAX light rail system is clean, safe, and efficient with three lines serving downtown, airport, and University of Utah. Stations are well-lit with regular security patrols and real-time arrival information.",
+    "rideshare": "Uber and Lyft operate throughout Salt Lake City with good availability and competitive pricing. Both services are considered safe and reliable for nighttime transportation.",
+    "taxis": "Traditional taxi service is available but less common than rideshare options. UTA provides comprehensive bus service throughout the valley with frequent routes and ADA accessibility.",
+    "tips": "UTA's Hive Pass at $42/month provides excellent value for tourists staying longer, covering all public transit including airport connections."
+  },
+  "customs": [
+    "Many businesses close on Sundays due to LDS (Mormon) cultural influence",
+    "Utah has unique alcohol laws - spirits only sold at state-run liquor stores, closed Sundays",
+    "Tipping 18-20% is expected at restaurants and bars throughout the city"
+  ],
+  "health": {
+    "overview": "Salt Lake City has excellent healthcare with nationally ranked hospitals including University of Utah Hospital and Intermountain Medical Center. The city has received five-star ratings from Medicare for hospital quality.",
+    "water": "Tap water is safe to drink and of high quality. The high altitude and dry climate can cause dehydration, so drink plenty of water.",
+    "vaccinations": "No special vaccinations required. Standard US healthcare protocols apply.",
+    "altitude": "Located at 4,226 feet elevation, some visitors may experience mild altitude effects. The dry desert climate requires extra hydration and sun protection."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "801-799-3000 (non-emergency)",
+    "ambulance": "911",
+    "fire": "801-799-4231 (non-emergency)",
+    "touristPolice": "N/A",
+    "usEmbassy": "For US citizens: No embassy needed. International visitors contact nearest consulate or embassy in major US cities."
+  },
+  "faq": [
+    {
+      "q": "Is Salt Lake City safe for tourists?",
+      "a": "Yes, Salt Lake City is generally safe for tourists. The downtown area and main attractions are well-maintained and patrolled. While the city has higher crime rates than the national average, most incidents are property crimes in residential areas away from tourist zones."
+    },
+    {
+      "q": "Is Salt Lake City safe at night?",
+      "a": "Downtown Salt Lake City is reasonably safe at night with good lighting and active nightlife areas along Main Street. However, it's best to stay in the downtown core, travel in groups, and use rideshare services for transportation after 10 PM."
+    },
+    {
+      "q": "Is Salt Lake City safe for solo female travelers?",
+      "a": "Salt Lake City ranks as the 24th safest US city for solo female travelers. The downtown area is well-lit and locals are generally helpful. Public transportation is safe and reliable. Avoid certain residential neighborhoods after dark and use standard urban safety precautions."
+    },
+    {
+      "q": "What areas should I avoid in Salt Lake City?",
+      "a": "Avoid Westpointe, Poplar Grove, and parts of Rose Park and Glendale, especially at night. These areas have higher crime rates and limited tourist attractions. Stick to downtown, The Avenues, and Sugar House for the safest experience."
+    },
+    {
+      "q": "Is it safe to use public transport in Salt Lake City?",
+      "a": "Yes, Salt Lake City's public transportation is very safe and efficient. The TRAX light rail system is clean with good security, and UTA buses serve the entire valley. The airport is connected directly to downtown via light rail in just 20 minutes."
+    }
+  ],
+  "relatedCities": [
+    "seattle",
+    "denver",
+    "phoenix",
+    "portland-oregon",
+    "las-vegas"
+  ],
+  "_city_id": "salt-lake-city-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg/1280px-Salt_Lake_Union_Pacific_Railroad_Station%2C_South_Temple_at_400_West%2C_Central_City_West%2C_Salt_Lake_City%2C_UT%2C_USA.jpg"
+}

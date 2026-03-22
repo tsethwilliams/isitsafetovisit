@@ -1,0 +1,166 @@
+{
+  "slug": "asheville",
+  "name": "Asheville",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 5.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 5.0,
+    "scamRisk": 6.5,
+    "womensSafety": 7.0,
+    "nightSafety": 5.5,
+    "transport": 6.5,
+    "naturalHazards": 7.0
+  },
+  "summary": "Asheville, North Carolina is a charming mountain city known for its vibrant arts scene and craft beer culture. While generally safer for tourists than national statistics might suggest, the city has experienced elevated crime rates that require visitors to remain vigilant, particularly in certain downtown areas.",
+  "quickVerdict": "Asheville offers a wonderful mix of mountain beauty, artistic culture, and outdoor adventures, but visitors should be aware that crime rates are higher than national averages. Downtown areas can experience issues with homelessness and property crime, though violent crime against tourists remains relatively uncommon. With proper precautions and awareness of your surroundings, most visitors can enjoy Asheville safely. The city's strong tourism infrastructure and excellent healthcare facilities provide good support for visitors.",
+  "neighborhoods": [
+    {
+      "name": "Biltmore Forest",
+      "score": 8.5,
+      "class": "safe",
+      "description": "One of Asheville's most desirable and safest neighborhoods, featuring stately homes and well-maintained properties. This affluent area has historically low crime rates and strong community engagement."
+    },
+    {
+      "name": "Montford Historic District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "A charming historic neighborhood just north of downtown with Victorian architecture and tree-lined streets. Well-maintained and walkable with active neighborhood associations ensuring community safety."
+    },
+    {
+      "name": "Biltmore Village",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Tourist-friendly area near the famous Biltmore Estate with Tudor-style architecture and upscale shops. Heavy visitor traffic and security presence make it relatively safe during the day."
+    },
+    {
+      "name": "Downtown Asheville",
+      "score": 5.0,
+      "class": "caution",
+      "description": "The vibrant heart of the city with restaurants, breweries, and nightlife, but also higher crime rates and visible homelessness. Requires increased awareness, especially at night and in less populated areas."
+    },
+    {
+      "name": "West Asheville",
+      "score": 4.5,
+      "class": "caution",
+      "description": "Hip neighborhood with breweries, restaurants, and nightlife that can get loud and chaotic, especially on weekends. Some areas have higher crime rates and encounters with transient populations."
+    },
+    {
+      "name": "River Arts District",
+      "score": 4.0,
+      "class": "caution",
+      "description": "Industrial area converted to artist studios and galleries that can feel isolated, particularly after dark. While generally safe during daytime gallery hours, evening visits require extra caution."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Accommodation Rentals",
+      "risk": "high",
+      "description": "Scammers create fake vacation rental listings or hijack legitimate ones, collecting payments for non-existent or unavailable properties. Particularly common around popular events.",
+      "howToAvoid": "Book only through verified platforms, avoid off-platform payments, verify host details and reviews, and be suspicious of unusually low prices for prime locations."
+    },
+    {
+      "name": "Overpriced Taxi/Rideshare Scams",
+      "risk": "medium",
+      "description": "Unlicensed drivers or scam artists may pose as legitimate taxi or rideshare operators, charging inflated fares or taking unnecessarily long routes to tourist destinations.",
+      "howToAvoid": "Use only official rideshare apps like Uber or Lyft, verify driver and vehicle details, agree on rates beforehand for taxis, and use hotel-recommended transportation services."
+    },
+    {
+      "name": "Brewery Tour/Event Ticket Fraud",
+      "risk": "medium",
+      "description": "Fake tickets or tours sold online for Asheville's popular brewery scene and outdoor events, especially during peak tourist seasons and festivals.",
+      "howToAvoid": "Purchase tickets only from official venue websites or authorized sellers, verify event authenticity with venues directly, and be wary of unusually discounted tickets from unofficial sources."
+    },
+    {
+      "name": "Charity/Donation Scams",
+      "risk": "medium",
+      "description": "Fraudsters may approach tourists with fake charity requests, particularly claiming to help with Hurricane Helene recovery efforts or local homeless populations.",
+      "howToAvoid": "Research charities before donating, ask for official identification and documentation, donate directly to verified organizations, and be cautious of high-pressure donation requests."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Asheville is generally considered a good destination for solo female travelers, with a welcoming arts community and tourist-friendly atmosphere. The city has many women-owned businesses and female-friendly spaces, though standard urban precautions should be taken, especially downtown at night.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Montford or Biltmore Village",
+      "Use rideshare services or hotel shuttles rather than walking alone downtown after dark",
+      "Join group tours or activities to meet other travelers and locals safely",
+      "Carry bear spray when hiking alone in the surrounding mountains",
+      "Share your itinerary with friends and use location-sharing features on your phone"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Asheville's nightlife scene is vibrant but requires caution, particularly in downtown areas where crime rates are elevated. The brewery and bar scene is generally welcoming, but be aware of your surroundings and avoid walking alone in less populated areas after dark.",
+    "tips": [
+      "Stick to well-lit, busy areas like the main downtown strips with heavy foot traffic",
+      "Use rideshare services or designated drivers rather than walking between venues",
+      "Stay in groups when bar hopping and keep an eye on your drinks",
+      "Be aware that some areas have visible homelessness and transient populations",
+      "Avoid isolated areas like the River Arts District after dark"
+    ]
+  },
+  "transport": {
+    "metro": "Asheville has limited public transit with the ART bus system providing basic routes throughout the city, though service is infrequent and coverage is limited. Buses are generally safe but not comprehensive enough for most tourist needs.",
+    "rideshare": "Uber and Lyft operate throughout Asheville and are considered safe and reliable options. Note that rideshare services have limited pickup at the airport due to fee disputes, but they're widely available elsewhere in the city.",
+    "taxis": "Traditional taxi services are available with companies like Yellow Cab and New Bluebird Taxi. They're generally safe but less convenient than rideshare options. Always use licensed, metered taxis.",
+    "tips": "Renting a car is recommended for exploring beyond downtown and visiting mountain attractions. Parking downtown requires payment but is generally safe in well-lit areas."
+  },
+  "customs": [
+    "Asheville has a laid-back, casual atmosphere - formal dress is rarely required even at upscale establishments",
+    "The city prides itself on being 'weird' and welcoming to diverse lifestyles and expressions",
+    "Tipping 18-20% is standard at restaurants and bars, and many establishments add automatic gratuity for groups",
+    "The craft beer scene is central to local culture - brewery hopping is a popular activity",
+    "Environmental consciousness is important to locals - recycling and sustainable practices are widely encouraged"
+  ],
+  "health": {
+    "overview": "Asheville has excellent healthcare facilities anchored by Mission Hospital, which is ranked among North Carolina's best hospitals. The city offers comprehensive medical services suitable for tourists, with multiple urgent care facilities and specialized medical centers.",
+    "water": "Tap water in Asheville is safe to drink and meets all federal quality standards. The municipal water system is regularly tested and monitored for safety.",
+    "vaccinations": "No special vaccinations are required for visiting Asheville. Standard U.S. travel health precautions apply, including ensuring routine vaccinations are current.",
+    "altitude": "Asheville sits at about 2,100 feet elevation in a temperate climate. Most visitors experience no altitude-related issues, though those with respiratory conditions should be aware of the elevation change."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / (828) 252-1110 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic travel within the United States"
+  },
+  "faq": [
+    {
+      "q": "Is Asheville safe for tourists?",
+      "a": "Asheville is generally safe for tourists who take standard precautions. While crime rates are higher than national averages, most tourist areas are well-patrolled and incidents involving visitors are relatively uncommon. Stay aware of your surroundings, especially downtown at night."
+    },
+    {
+      "q": "Is Asheville safe at night?",
+      "a": "Downtown Asheville can be less safe at night due to higher crime rates and visible homelessness. Stick to well-lit, busy areas, travel in groups when possible, and use rideshare services rather than walking alone. The main nightlife areas are generally patrolled but require caution."
+    },
+    {
+      "q": "Is Asheville safe for solo female travelers?",
+      "a": "Asheville is considered relatively safe for solo female travelers, with a welcoming arts community and many female-friendly businesses. However, standard precautions apply - avoid walking alone at night, stay in safe neighborhoods, and be aware of your surroundings downtown."
+    },
+    {
+      "q": "What areas should I avoid in Asheville?",
+      "a": "Exercise extra caution in parts of downtown Asheville, particularly late at night, and avoid isolated areas of the River Arts District after dark. While not necessarily dangerous, some visitors prefer to avoid areas with higher concentrations of homeless encampments."
+    },
+    {
+      "q": "Is it safe to use public transport in Asheville?",
+      "a": "Asheville's limited public bus system (ART) is generally safe but infrequent and not comprehensive. Rideshare services like Uber and Lyft are safer and more convenient options for getting around, though a rental car is recommended for exploring the broader region."
+    }
+  ],
+  "relatedCities": [
+    "charlotte",
+    "raleigh",
+    "charleston",
+    "atlanta",
+    "savannah"
+  ],
+  "_city_id": "asheville-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Asheville_at_dusk_%28cropped%29.jpg/1280px-Asheville_at_dusk_%28cropped%29.jpg"
+}

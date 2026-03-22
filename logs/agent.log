@@ -2732,3 +2732,46 @@
 2026-03-22 06:45:20,923 [INFO] Merged into site data: Minneapolis
 2026-03-22 06:45:21,009 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-22 06:45:21,053 [INFO] Rebuilt sitemap with 574 URLs (428 cities, 140 countries, 6 static)
+2026-03-22 10:56:46,450 [INFO] Agent starting — mode: add
+2026-03-22 10:56:46,492 [INFO] Queue has 135 cities, adding 8
+2026-03-22 10:56:46,492 [INFO] Generating new city profile: Orlando, United States
+2026-03-22 10:58:25,631 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 10:58:25,911 [INFO] Found Wikipedia image for Orlando
+2026-03-22 10:58:25,911 [INFO] Saved city data: orlando-united-states
+2026-03-22 10:58:25,915 [INFO] Generating new city profile: Tampa, United States
+2026-03-22 10:59:57,675 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 10:59:58,010 [INFO] Found Wikipedia image for Tampa
+2026-03-22 10:59:58,011 [INFO] Saved city data: tampa-united-states
+2026-03-22 10:59:58,015 [INFO] Generating new city profile: Salt Lake City, United States
+2026-03-22 11:01:49,433 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:01:50,468 [INFO] Found Wikipedia image for Salt Lake City
+2026-03-22 11:01:50,469 [INFO] Saved city data: salt-lake-city-united-states
+2026-03-22 11:01:50,473 [INFO] Generating new city profile: Asheville, United States
+2026-03-22 11:03:16,909 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:03:17,104 [INFO] Found Wikipedia image for Asheville
+2026-03-22 11:03:17,105 [INFO] Saved city data: asheville-united-states
+2026-03-22 11:03:17,109 [INFO] Generating new city profile: Santa Fe, United States
+2026-03-22 11:04:28,637 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:04:28,963 [INFO] Saved city data: santa-fe-united-states
+2026-03-22 11:04:28,967 [INFO] Generating new city profile: Sedona, United States
+2026-03-22 11:05:51,130 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:05:51,267 [INFO] Found Wikipedia image for Sedona
+2026-03-22 11:05:51,268 [INFO] Saved city data: sedona-united-states
+2026-03-22 11:05:51,272 [INFO] Generating new city profile: Key West, United States
+2026-03-22 11:07:12,744 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:07:12,855 [INFO] Found Wikipedia image for Key West
+2026-03-22 11:07:12,856 [INFO] Saved city data: key-west-united-states
+2026-03-22 11:07:12,860 [INFO] Generating new city profile: Maui, United States
+2026-03-22 11:08:38,285 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 11:08:38,624 [INFO] Found Wikipedia image for Maui
+2026-03-22 11:08:38,624 [INFO] Saved city data: maui-united-states
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Orlando
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Tampa
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Salt Lake City
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Asheville
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Santa Fe
+2026-03-22 11:08:38,675 [INFO] Merged into site data: Sedona
+2026-03-22 11:08:38,676 [INFO] Merged into site data: Key West
+2026-03-22 11:08:38,676 [INFO] Merged into site data: Maui
+2026-03-22 11:08:38,764 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-22 11:08:38,811 [INFO] Rebuilt sitemap with 582 URLs (436 cities, 140 countries, 6 static)

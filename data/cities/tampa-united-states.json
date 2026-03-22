@@ -1,0 +1,164 @@
+{
+  "slug": "tampa",
+  "name": "Tampa",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 6.5,
+    "scamRisk": 6.2,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.8,
+    "naturalHazards": 8.2
+  },
+  "summary": "Tampa is generally safe for tourists with good infrastructure and professional emergency services, though it experiences higher crime rates than the US average. The city ranks 14th for lowest violent crime among 59 major US cities, and most tourist areas are well-patrolled and well-lit.",
+  "quickVerdict": "Tampa offers a good travel experience with reasonable safety levels for tourists who exercise standard urban precautions. While violent crime rates are 7% higher than the national average, the city has seen overall crime decreasing in recent years. Tourist areas like downtown, Ybor City, and the waterfront are generally safe and well-monitored. The excellent public transportation system, reliable emergency services, and strong tourism infrastructure make it accessible for visitors. However, travelers should remain aware of their surroundings, especially at night, and avoid less populated areas.",
+  "neighborhoods": [
+    {
+      "name": "New Tampa East",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Family-friendly suburban area with low crime rates, excellent amenities, and well-maintained infrastructure. Popular with families and professionals."
+    },
+    {
+      "name": "Carrollwood Village",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential community with strong security presence, low crime statistics, and good lighting. Well-connected to major attractions."
+    },
+    {
+      "name": "Downtown Tampa",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Business district with heavy police presence during daytime, well-lit streets, and good public transport. More caution needed after dark."
+    },
+    {
+      "name": "Hyde Park",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy area near downtown with active nightlife. Generally safe but requires awareness of surroundings, especially during late-night hours."
+    },
+    {
+      "name": "Historic Ybor City",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Entertainment district with vibrant nightlife but higher crime rates. Well-patrolled tourist areas but avoid empty side streets at night."
+    },
+    {
+      "name": "East Tampa",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Area with higher crime rates including violent incidents. Limited tourist attractions and not recommended for visitors, especially after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Online Booking Sites",
+      "risk": "high",
+      "description": "AI-powered fake hotel and attraction booking websites with convincing designs that steal payment information or create ghost reservations.",
+      "howToAvoid": "Always book directly through official websites, verify URLs carefully for typos, and use established booking platforms with verified reviews."
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "medium",
+      "description": "Scammers place fake QR code stickers over real ones at restaurants and tourist sites, leading to malicious websites that steal credit card information.",
+      "howToAvoid": "Avoid scanning QR codes that look like stickers, type restaurant websites directly into your browser, and be suspicious of unexpected payment requests."
+    },
+    {
+      "name": "Hurricane Contractor Fraud",
+      "risk": "medium",
+      "description": "Unlicensed contractors approach tourists after storms claiming urgent property repairs, demanding upfront payment before disappearing.",
+      "howToAvoid": "Verify contractor licenses at myfloridalicense.com, never pay large amounts upfront, and get multiple quotes for any work needed."
+    },
+    {
+      "name": "Tourist Overcharging",
+      "risk": "medium",
+      "description": "Some businesses inflate prices for obvious tourists or add hidden fees not disclosed upfront, particularly in entertainment districts.",
+      "howToAvoid": "Check menus for prices before ordering, ask about additional fees upfront, and research typical costs for activities in advance."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Tampa is moderately safe for solo female travelers with good infrastructure and tourist support, though standard urban precautions are essential. The city has active police patrols in tourist areas, reliable public transportation, and a generally respectful local culture. Most solo female travelers report positive experiences during daytime activities and in well-populated areas.",
+    "tips": [
+      "Stay in well-lit, populated areas especially in downtown and waterfront districts",
+      "Use rideshare apps or taxis rather than walking alone after dark, particularly in nightlife areas",
+      "Choose accommodations in safer neighborhoods like New Tampa, Carrollwood, or near downtown business district",
+      "Join group tours or activities for nightlife experiences rather than venturing out alone",
+      "Keep family/friends informed of your whereabouts and share ride details when using transportation services"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Tampa's nightlife areas are generally well-patrolled and active, but caution is needed in less populated zones. Downtown and major entertainment districts have good lighting and security presence, while some neighborhoods require extra vigilance after dark. The waterfront areas and main tourist zones typically remain busy and safer during evening hours.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty side streets, especially in Ybor City",
+      "Use rideshare services or taxis instead of walking long distances at night",
+      "Stay in groups when possible and avoid isolated areas like parking lots or quiet neighborhoods",
+      "Be extra cautious around bar closing times when intoxicated individuals may pose risks",
+      "Keep valuables secure and maintain awareness of surroundings in crowded nightlife areas"
+    ]
+  },
+  "transport": {
+    "metro": "HART buses provide reliable service throughout Hillsborough County with routes connecting major attractions. The free TECO Line Streetcar runs every 15 minutes connecting downtown, Channel District, and Ybor City. Standard bus fare is $2.00 with daily caps at $4.00 using the Flamingo app.",
+    "rideshare": "Uber and Lyft operate throughout Tampa with good availability and reasonable pricing. Both services are generally safe and reliable, with standard safety features like driver verification and trip tracking. Recommended for late-night transportation and airport transfers.",
+    "taxis": "Licensed taxis are available but less common than rideshare services. More expensive than rideshare but regulated by the city. Available at hotels, airport, and can be called by phone. Ensure the taxi is licensed and has proper identification.",
+    "tips": "Public transport is safe during daylight hours but exercise more caution during late evening. The free streetcar is excellent for tourist areas and the Pirate Water Taxi offers scenic routes along the Hillsborough River."
+  },
+  "customs": [
+    "Tipping 15-20% is expected at restaurants and bars - service workers depend on tips for income",
+    "Americans value personal space - maintain arm's length distance during conversations",
+    "Direct communication is appreciated - say what you mean politely but clearly",
+    "Punctuality is important - arrive on time for reservations and scheduled activities",
+    "Small talk is common - Americans often engage in friendly conversation about weather or sports with strangers"
+  ],
+  "health": {
+    "overview": "Tampa has excellent healthcare infrastructure with Tampa General Hospital ranking among top US medical centers. The city provides good access to pharmacies, urgent care, and specialized medical services. No special vaccinations required beyond standard US recommendations.",
+    "water": "Tap water is safe to drink throughout Tampa and meets federal safety standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Ensure routine vaccines (MMR, DPT, flu) are up to date. Consider travel insurance for medical coverage.",
+    "altitude": "Tampa is at sea level with humid subtropical climate. Summers are hot and humid with frequent afternoon thunderstorms. Hurricane season runs June-November requiring weather awareness."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / (813) 231-6130 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No embassy in Tampa - contact US State Department at +1-202-501-4444 for US citizens abroad or local authorities for international visitors"
+  },
+  "faq": [
+    {
+      "q": "Is Tampa safe for tourists?",
+      "a": "Tampa is generally safe for tourists who exercise normal urban precautions. The city ranks 14th lowest for violent crime among major US cities, with well-patrolled tourist areas and good emergency services. Stay aware of surroundings and avoid isolated areas at night."
+    },
+    {
+      "q": "Is Tampa safe at night?",
+      "a": "Downtown Tampa and major tourist areas are relatively safe at night with good lighting and police presence. However, avoid walking alone in less populated areas and use rideshare services for transportation. Ybor City nightlife areas require extra caution on side streets."
+    },
+    {
+      "q": "Is Tampa safe for solo female travelers?",
+      "a": "Tampa is moderately safe for solo female travelers with standard precautions. Use rideshare services at night, stay in well-populated areas, and consider joining group activities for nightlife. Most women report positive experiences in tourist zones during daytime."
+    },
+    {
+      "q": "What areas should I avoid in Tampa?",
+      "a": "Avoid East Tampa, Drew Park, and some areas of North Tampa, especially at night. While Historic Ybor is safe in main areas, be cautious on empty side streets. Generally stick to downtown, waterfront, and well-established tourist zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Tampa?",
+      "a": "Yes, Tampa's public transport is generally safe. HART buses and the free TECO streetcar are reliable during normal hours. The Pirate Water Taxi offers scenic and safe transport along the river. Use extra caution during late evening hours and in less busy areas."
+    }
+  ],
+  "relatedCities": [
+    "orlando",
+    "miami",
+    "jacksonville"
+  ],
+  "_city_id": "tampa-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Downtown_Tampa%2C_Florida.jpg/1280px-Downtown_Tampa%2C_Florida.jpg"
+}
