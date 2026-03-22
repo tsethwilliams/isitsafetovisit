@@ -1,0 +1,164 @@
+{
+  "slug": "banjul",
+  "name": "Banjul",
+  "country": "The Gambia",
+  "countryCode": "GM",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 5.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 7.2,
+    "scamRisk": 3.8,
+    "womensSafety": 5.2,
+    "nightSafety": 5.5,
+    "transport": 6.1,
+    "naturalHazards": 8.3
+  },
+  "summary": "Banjul presents moderate safety challenges for tourists, with frequent petty crime and persistent scams especially targeting visitors. While violent crime against tourists is relatively rare, harassment and fraud schemes are common concerns that require vigilance.",
+  "quickVerdict": "Banjul requires increased awareness and precaution from travelers. The US State Department maintains Level 2 advisory for The Gambia due to crime concerns and inadequate health infrastructure. While physical violence against tourists is uncommon, petty theft, romance scams, and bumster harassment are persistent issues. The city's extremely low elevation makes it vulnerable to flooding, and basic services can be unreliable. With proper precautions and awareness, visits can be safe and enjoyable.",
+  "neighborhoods": [
+    {
+      "name": "Albert Market Area",
+      "score": 4.2,
+      "class": "danger",
+      "description": "The bustling market district experiences high rates of pickpocketing and bag snatching. Crowded conditions make tourists vulnerable to theft, especially during busy market hours. Exercise extreme caution with valuables and avoid carrying large amounts of cash."
+    },
+    {
+      "name": "State House Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The government district with State House and administrative buildings maintains higher security presence. Generally safer during daytime hours with regular police patrols, though still advisable to remain alert and avoid displaying expensive items."
+    },
+    {
+      "name": "Ferry Terminal District",
+      "score": 4.8,
+      "class": "danger",
+      "description": "The busy ferry area sees frequent theft from vehicles and pickpocketing incidents. Large crowds and chaotic boarding conditions create opportunities for criminals. Keep documents secure and be especially wary during ferry times."
+    },
+    {
+      "name": "Independence Drive",
+      "score": 6.5,
+      "class": "caution",
+      "description": "The main thoroughfare offers moderate safety with occasional police presence. While generally walkable during daylight, be cautious of bag snatchers and avoid walking alone after dark when the area becomes considerably less safe."
+    },
+    {
+      "name": "Half Die Area",
+      "score": 3.8,
+      "class": "danger",
+      "description": "A densely populated residential area with higher crime rates, particularly after sunset. Poor lighting and narrow streets create security concerns. Tourists are strongly advised to avoid this area, especially at night."
+    },
+    {
+      "name": "Banjul Island Hotel Zone",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The limited hotel and restaurant area maintains better security standards with private security presence. Generally safe for tourists during day and evening hours, though still important to remain vigilant and use hotel transport when possible."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Bumster Romance Scams",
+      "risk": "high",
+      "description": "Local men approach tourists, especially women, on beaches and tourist areas offering help, companionship, or romantic relationships. They often use these relationships to extract money for fake emergencies, family needs, or visa assistance.",
+      "howToAvoid": "Politely but firmly decline unsolicited approaches. Never send money to someone you've met recently or online. Be suspicious of requests for financial help for emergencies, medical bills, or travel documents."
+    },
+    {
+      "name": "Fake Police and Official Scams",
+      "risk": "medium",
+      "description": "Scammers pose as police officers or airport officials demanding to see passports and then claiming fines or fees. Some offer to help with paperwork or customs for a fee, particularly targeting tourists at the airport.",
+      "howToAvoid": "Always ask for official identification badges. Real officials will have proper photo ID. Legitimate fees are paid at official counters, not to individuals. If in doubt, ask to speak to a supervisor."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "medium",
+      "description": "Street money changers offer attractive exchange rates but provide counterfeit bills or shortchange tourists. Some switch genuine notes for fakes during the counting process.",
+      "howToAvoid": "Only exchange money at licensed bureaus, banks, or hotel reception. Count money carefully and check for security features. Avoid street-side currency exchanges no matter how attractive the rate seems."
+    },
+    {
+      "name": "Marijuana Entrapment",
+      "risk": "high",
+      "description": "Locals offer marijuana to tourists or invite them to smoke, then police arrive demanding large bribes to avoid arrest. This appears to be a coordinated scheme targeting unsuspecting visitors.",
+      "howToAvoid": "Decline all offers of drugs, even in seemingly friendly social situations. Do not accept invitations to private homes from people you just met. If approached by police, insist on going to the station rather than paying on-the-spot fines."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Banjul requires significant precautions due to persistent harassment from 'bumsters' and unwanted attention. While physical safety risks are moderate, the constant approaches from local men seeking romantic relationships or money can be exhausting and potentially dangerous. Women report feeling overwhelmed by the persistent attention, especially on beaches and tourist areas.",
+    "tips": [
+      "Dress conservatively covering shoulders and knees to minimize unwanted attention in this predominantly Muslim country",
+      "Avoid walking alone on beaches or tourist areas where bumster activity is highest, especially after dark",
+      "Stay in reputable accommodations in safer areas and use hotel transport when possible rather than walking",
+      "Be prepared to be very firm in declining approaches - a simple 'no' may not be sufficient",
+      "Consider hiring a reputable local guide for sightseeing to deter other approaches"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Banjul becomes significantly less safe after dark, with the city center essentially becoming a 'ghost town' with minimal activity or security presence. Poor street lighting, increased crime risk, and limited police patrols make nighttime movement dangerous. Most nightlife is concentrated in hotel areas or nearby Senegambia strip rather than central Banjul.",
+    "tips": [
+      "Avoid walking in central Banjul after sunset due to poor lighting and minimal security presence",
+      "Use hotel transport or reliable taxi services for evening activities rather than walking",
+      "Stay in well-lit, populated hotel areas for evening dining and entertainment",
+      "Always agree on taxi fares before traveling and use hotel-recommended drivers when possible",
+      "Keep valuables secure and carry only essential items when out in the evening"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Banjul. Public transport consists mainly of shared taxis and minibuses (called 'gele-gele') that operate on fixed routes for about 7-12 dalasi per trip. These vehicles can be overcrowded and may not meet international safety standards.",
+    "rideshare": "Limited rideshare app presence with 1Bena being the main local option. Most transportation relies on traditional taxi services where fare negotiation is required as meters are rarely used.",
+    "taxis": "Two types operate: green tourist taxis (higher rates, can pick up from hotel areas) and yellow local taxis (cheaper, shared rides). Always negotiate fares upfront. Some taxis may not be roadworthy, so inspect vehicle condition before boarding.",
+    "tips": "Hotel transport is the safest option for airport transfers and longer trips. For local travel, shared taxis on established routes offer budget-friendly transport but require patience and awareness of pickpocket risks in crowded vehicles."
+  },
+  "customs": [
+    "Greet people properly before starting conversations - traditional greetings are very important in Gambian culture",
+    "Dress modestly especially in religious areas, with women covering shoulders and knees and men avoiding sleeveless shirts",
+    "Respect Islamic prayer times, particularly Friday afternoon prayers when many businesses may close",
+    "Use your right hand for greetings, eating, and giving/receiving items as the left hand is considered unclean",
+    "Remove shoes when entering mosques or some traditional homes, and ask permission before photographing people"
+  ],
+  "health": {
+    "overview": "The Gambia's healthcare infrastructure is inadequate by international standards with limited facilities and resources. The main hospital is Edward Francis Small Teaching Hospital in Banjul, but serious medical emergencies may require evacuation to better facilities in Senegal or Europe.",
+    "water": "Tap water is not safe to drink despite being chlorinated in Greater Banjul area. Use bottled water for drinking and avoid ice cubes that may be made from tap water. Hotels often provide filtered water.",
+    "vaccinations": "Yellow fever vaccination may be required for entry. Hepatitis A, typhoid, and malaria prophylaxis are strongly recommended. Meningitis vaccination advisable during dry season (December-May).",
+    "altitude": "Banjul is at sea level with tropical climate. High temperatures and humidity year-round require staying hydrated and protected from sun. Rainy season (June-October) brings heavy downpours and flooding risks."
+  },
+  "emergency": {
+    "general": "No unified emergency number like 911",
+    "police": "117",
+    "ambulance": "116",
+    "fire": "118",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Banjul: 92 Kairaba Avenue, Fajara. Phone: +220 439 2856. After hours: +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Banjul safe for tourists?",
+      "a": "Banjul requires moderate caution due to petty crime and scams, but violent crime against tourists is uncommon. The US maintains Level 2 advisory for increased caution. With proper awareness and precautions, visits can be safe."
+    },
+    {
+      "q": "Is Banjul safe at night?",
+      "a": "Banjul becomes much less safe after dark with poor lighting and minimal police presence. The city center essentially empties at night. Use hotel transport or reliable taxis for evening activities and stay in well-lit hotel areas."
+    },
+    {
+      "q": "Is Banjul safe for solo female travelers?",
+      "a": "Solo female travelers face significant challenges from persistent bumster harassment and unwanted attention. While physical danger is moderate, the constant approaches can be overwhelming. Conservative dress and firm boundaries are essential."
+    },
+    {
+      "q": "What areas should I avoid in Banjul?",
+      "a": "Avoid Half Die residential area, be extremely cautious around Albert Market and ferry terminal due to theft risks. The southern border areas near Senegal's Casamance region should also be avoided due to security concerns."
+    },
+    {
+      "q": "Is it safe to use public transport in Banjul?",
+      "a": "Public transport through shared taxis and minibuses is generally safe but can be crowded with pickpocket risks. Vehicles may not meet international safety standards. Hotel transport or negotiated taxi rides are safer options for tourists."
+    }
+  ],
+  "relatedCities": [
+    "serrekunda",
+    "bakau",
+    "brikama"
+  ],
+  "_city_id": "banjul-gambia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gambia03Banjul005_%285400110617%29.jpg/1280px-Gambia03Banjul005_%285400110617%29.jpg"
+}

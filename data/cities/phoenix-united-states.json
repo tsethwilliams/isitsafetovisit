@@ -1,0 +1,162 @@
+{
+  "slug": "phoenix",
+  "name": "Phoenix",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.9,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.8,
+    "scamRisk": 6.5,
+    "womensSafety": 7.2,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Phoenix is a generally safe major metropolitan area with typical urban challenges including property crime and vehicle theft. While violent crime rates are higher than national averages, most incidents are concentrated in specific neighborhoods and tourists are unlikely to be targeted.",
+  "quickVerdict": "Phoenix is a moderately safe destination for tourists with some important caveats. Crime statistics show the city has higher-than-national-average property and violent crime rates, particularly car theft which is significantly above normal. However, violent crime has been declining recently, and most tourist areas like Scottsdale, downtown Phoenix, and north Phoenix are relatively safe. The main risks for visitors include vehicle break-ins, extreme heat during summer months, and occasional monsoon storms. With basic urban precautions and awareness of weather conditions, tourists can have a safe visit.",
+  "neighborhoods": [
+    {
+      "name": "Scottsdale",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale area with luxury resorts, shopping, and dining. Well-patrolled with low crime rates and excellent tourist infrastructure."
+    },
+    {
+      "name": "North Phoenix/Paradise Valley",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Affluent residential areas with luxury hotels, golf courses, and resorts. Very low crime rates with excellent emergency services."
+    },
+    {
+      "name": "Downtown Phoenix",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Business and entertainment district with museums, sports venues, and restaurants. Generally safe during day but requires caution at night."
+    },
+    {
+      "name": "Tempe",
+      "score": 7.1,
+      "class": "safe",
+      "description": "University town adjacent to Phoenix with vibrant nightlife and dining. Moderate crime but well-policed due to ASU presence."
+    },
+    {
+      "name": "Central Phoenix",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with higher property crime rates. Some areas best avoided after dark."
+    },
+    {
+      "name": "South Phoenix",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Higher crime rates including vehicle theft and violent crime. Limited tourist infrastructure and best avoided especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Event Ticket Scams",
+      "risk": "medium",
+      "description": "Fraudulent tickets sold for concerts, sports events, and festivals, often before legitimate tickets go on sale",
+      "howToAvoid": "Buy only from official venues or authorized vendors, never purchase from social media or unknown websites"
+    },
+    {
+      "name": "Fake Customer Service Scams",
+      "risk": "medium",
+      "description": "Scammers create fake customer service websites for airlines and travel companies to steal payment information",
+      "howToAvoid": "Always call official customer service numbers directly from company websites, never trust search results for customer service numbers"
+    },
+    {
+      "name": "Senior-Targeted Phone Scams",
+      "risk": "high",
+      "description": "Phone scams targeting elderly visitors and residents with fake emergencies, utility threats, or government impersonation",
+      "howToAvoid": "Never give personal information over the phone, hang up and call back on official numbers, verify all requests independently"
+    },
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "medium",
+      "description": "Fake property listings or properties that don't exist, often requesting wire transfers or unusual payment methods",
+      "howToAvoid": "Use reputable booking platforms, verify property ownership, never pay via wire transfer or gift cards"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Phoenix is moderately safe for solo female travelers with standard precautions. Most tourist areas are well-patrolled and the city has good infrastructure. Sexual assault rates are about 40% higher than national average, though data doesn't distinguish between domestic and stranger incidents. The large size of the metro area means safety varies significantly by neighborhood.",
+    "tips": [
+      "Avoid walking alone downtown after dark, especially in poorly lit areas",
+      "Stay in well-reviewed hotels in safe areas like Scottsdale or North Phoenix",
+      "Use rideshare services rather than walking at night",
+      "Be extra cautious during nightlife - travel with others and watch your drinks",
+      "Trust your instincts and remove yourself from uncomfortable situations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Phoenix varies significantly by area. Tourist zones like Scottsdale's entertainment district and major hotel areas are generally well-lit and patrolled. However, downtown Phoenix and central areas require more caution after dark. The city's sprawling layout means some areas become quite deserted at night.",
+    "tips": [
+      "Stick to well-lit, busy areas with good foot traffic",
+      "Use rideshare services or taxis rather than walking long distances",
+      "Avoid South Phoenix and some central neighborhoods entirely after dark",
+      "Stay alert for opportunistic crime in parking areas and hotel zones",
+      "Keep valuables hidden and be aware of your surroundings"
+    ]
+  },
+  "transport": {
+    "metro": "Valley Metro Light Rail runs 28 miles connecting Phoenix, Tempe, and Mesa with 38 stations. Trains run 18-22 hours daily with 12-20 minute frequencies. Generally safe but exercise normal urban transit precautions. $2 one-way, $4 day pass.",
+    "rideshare": "Uber, Lyft, and zTrip operate extensively throughout the metro area. Also available is Waymo autonomous vehicles in select areas including downtown Phoenix, Scottsdale, and airport service. Generally safe and reliable with standard app safety features.",
+    "taxis": "Traditional taxis available but less common than rideshare. Yellow Cab and other companies operate. Higher fares than rideshare but can be hailed on street in tourist areas.",
+    "tips": "Public transit is adequate but Phoenix is very car-dependent. Light rail connects major tourist areas. For maximum flexibility, rent a car or use rideshare. Always secure vehicles and never leave valuables visible due to high car break-in rates."
+  },
+  "customs": [
+    "Tipping is expected: 18-20% at restaurants, $1-2 per drink at bars, 15-20% for rideshare and taxis",
+    "Americans are generally friendly and may engage in casual conversation with strangers",
+    "Personal space is important - maintain arm's length distance in conversations"
+  ],
+  "health": {
+    "overview": "Phoenix has excellent healthcare infrastructure with major hospitals and medical facilities. The main health concern is extreme heat during summer months (May-September) which can cause serious heat-related illness including heat exhaustion and heat stroke.",
+    "water": "Tap water is safe to drink and meets all federal standards. However, conserve water as the region faces ongoing drought conditions.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance recommended. Valley fever (coccidioidomycosis) is present in desert soil but rarely affects short-term visitors.",
+    "altitude": "Phoenix sits at 1,086 feet elevation. The primary concern is extreme heat rather than altitude. Summer temperatures regularly exceed 110°F with record highs reaching 122°F. Heat can be dangerous especially for elderly visitors or those with heart conditions."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (Emergency) / 602-262-6151 (Non-Emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A (Domestic travel - contact local authorities or consulates for international visitors)"
+  },
+  "faq": [
+    {
+      "q": "Is Phoenix safe for tourists?",
+      "a": "Yes, Phoenix is generally safe for tourists who stay in main tourist areas and use basic urban precautions. Crime rates are higher than national averages but most incidents occur in specific neighborhoods tourists rarely visit."
+    },
+    {
+      "q": "Is Phoenix safe at night?",
+      "a": "Safety at night depends heavily on location. Tourist areas like Scottsdale and major hotel zones are generally safe, but downtown Phoenix and central areas require more caution. Avoid walking alone at night and use rideshare services."
+    },
+    {
+      "q": "Is Phoenix safe for solo female travelers?",
+      "a": "Phoenix is moderately safe for solo female travelers with proper precautions. Stay in safe neighborhoods, avoid walking alone at night, and use rideshare services. The city has good infrastructure and tourist support services."
+    },
+    {
+      "q": "What areas should I avoid in Phoenix?",
+      "a": "Avoid South Phoenix, especially at night. Be cautious in central Phoenix after dark. Some areas around 'The Zone' (downtown homeless encampment area) should be avoided. Stick to tourist areas like Scottsdale, North Phoenix, and established hotel zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Phoenix?",
+      "a": "Yes, Valley Metro Light Rail is generally safe but exercise normal urban transit precautions. The system connects major tourist areas and runs frequently. However, Phoenix is very car-dependent so rideshare or rental cars offer more flexibility."
+    }
+  ],
+  "relatedCities": [
+    "las-vegas",
+    "denver",
+    "salt-lake-city"
+  ],
+  "_city_id": "phoenix-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Downtown_Phoenix_Aerial_Looking_Northeast.jpg/1280px-Downtown_Phoenix_Aerial_Looking_Northeast.jpg"
+}

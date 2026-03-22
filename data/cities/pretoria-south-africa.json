@@ -1,0 +1,166 @@
+{
+  "slug": "pretoria",
+  "name": "Pretoria",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 5.2,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 3.5,
+    "scamRisk": 5.5,
+    "womensSafety": 5.5,
+    "nightSafety": 4.5,
+    "transport": 6.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Pretoria ranks among the top cities globally for crime according to 2026 Crime Index data, with elevated levels of theft, armed robbery, and carjacking. While South Africa maintains a Level 2 travel advisory, visitors must take significant precautions including avoiding night travel, using private transportation, and staying in well-secured accommodations.",
+  "quickVerdict": "Pretoria requires heightened vigilance due to high crime rates, particularly in the city center and townships. While many tourists visit safely by taking proper precautions, the city demands constant awareness of surroundings, use of private transport, and avoiding certain areas especially after dark. Crime includes petty theft, violent robbery, carjacking, and scams targeting tourists.",
+  "neighborhoods": [
+    {
+      "name": "Hatfield & Lynnwood",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upmarket areas near University of Pretoria with better security, shopping centers, and regular police patrols. Popular with students and expatriates."
+    },
+    {
+      "name": "Brooklyn & Menlyn",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Affluent suburban areas with shopping malls, restaurants, and enhanced private security. Generally safer during both day and night."
+    },
+    {
+      "name": "Centurion",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Modern suburb between Pretoria and Johannesburg with shopping centers and residential complexes. Good security but some areas experience crime."
+    },
+    {
+      "name": "Pretoria Central/CBD",
+      "score": 3.5,
+      "class": "danger",
+      "description": "The city center has high crime rates including muggings, theft, and drug activity. Avoid walking here especially after dark."
+    },
+    {
+      "name": "Sunnyside",
+      "score": 4.0,
+      "class": "caution",
+      "description": "Mixed area with student accommodation and budget hotels. Experiences attempted murders, assaults, and sexual offenses according to recent data."
+    },
+    {
+      "name": "Mamelodi & Akasia",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Townships with elevated crime including hijackings, sexual offenses, armed robberies, and contact crimes. Guided tours only."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Scam",
+      "risk": "high",
+      "description": "Criminals posing as tourist police or traffic officers demand on-the-spot fines or search luggage to steal valuables.",
+      "howToAvoid": "Ask for proper identification, insist on going to a police station to pay fines, and never hand over money on the street."
+    },
+    {
+      "name": "ATM Skimming & Fraud",
+      "risk": "high",
+      "description": "Teams work together to distract you while stealing PIN codes or using skimming devices. Fake assistance is offered when machines malfunction.",
+      "howToAvoid": "Use ATMs in secure bank branches only, shield PIN entry, refuse help from strangers, and leave immediately if machines malfunction."
+    },
+    {
+      "name": "Currency Exchange Fraud",
+      "risk": "medium",
+      "description": "Dealers use tricks like counting folded banknotes twice or shortchanging tourists during money exchanges.",
+      "howToAvoid": "Only exchange money at banks or authorized dealers, count money carefully, and verify exchange rates beforehand."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Overly friendly locals engage tourists in conversation while accomplices pickpocket or steal belongings from bags and vehicles.",
+      "howToAvoid": "Be wary of unsolicited approaches, keep valuables secure, and move to crowded areas if feeling uncomfortable."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Pretoria requires significant caution and experience. South Africa has high rates of sexual violence, and women face additional safety risks. Many experienced solo female travelers visit successfully by following strict safety protocols, but this destination is not recommended for first-time solo travelers.",
+    "tips": [
+      "Use private transport like Uber Black instead of public transport, especially at night",
+      "Stay in well-reviewed accommodations in safer neighborhoods like Hatfield or Brooklyn",
+      "Avoid walking alone after dark and limit solo activities to daylight hours in tourist areas",
+      "Join organized tours rather than exploring independently, particularly for township visits",
+      "Keep regular contact with family/friends and share your location when moving around"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Pretoria becomes significantly more dangerous after dark, with increased risks of carjacking, robbery, and violent crime. Even locals avoid walking at night and use private vehicles with security protocols. Nightlife exists but requires careful planning and private transportation.",
+    "tips": [
+      "Never walk alone at night regardless of the area - use Uber or private transport",
+      "If dining out, arrange transport in advance and avoid lingering on streets",
+      "Stay alert at traffic lights and intersections where smash-and-grab incidents occur",
+      "Avoid displaying valuables or using phones openly in vehicles after dark",
+      "Consider staying in accommodation with 24/7 security rather than venturing out at night"
+    ]
+  },
+  "transport": {
+    "metro": "The Gautrain connects Pretoria to Johannesburg and OR Tambo Airport and is considered relatively safe during daytime. Metrorail local trains have safety concerns including theft and poor maintenance.",
+    "rideshare": "Uber and Bolt are widely available and recommended over public transport. UberBlack offers professional drivers for additional safety. Always verify vehicle details before entering.",
+    "taxis": "Minibus taxis are cheap but not recommended for tourists due to poor safety standards, reckless driving, and crime risks. Metered taxis are safer but ensure they use meters.",
+    "tips": "Avoid public transport after dark, keep car doors locked when driving, and be extra cautious at traffic lights where carjacking occurs."
+  },
+  "customs": [
+    "Greeting with a firm handshake and eye contact is standard; some communities use a traditional triple handshake",
+    "Ubuntu philosophy of community and interconnectedness is central to South African culture",
+    "Tipping is customary - 10-15% at restaurants, plus tips for parking attendants and petrol station staff",
+    "Remove shoes when entering homes and show respect for elders in all interactions",
+    "The braai (barbecue) is a social institution - bringing food or drinks to contribute is appreciated"
+  ],
+  "health": {
+    "overview": "South Africa has a two-tier healthcare system with excellent private facilities but strained public healthcare. Pretoria has several top private hospitals.",
+    "water": "Tap water is generally safe to drink in Pretoria, though some visitors prefer bottled water. Water restrictions may be in effect during drought periods.",
+    "vaccinations": "Yellow fever vaccination required if arriving from endemic areas. Routine vaccinations recommended. Malaria risk is low in Gauteng province.",
+    "altitude": "Pretoria sits at 1,300m elevation which may cause mild altitude effects. Climate is temperate with hot summers and mild winters."
+  },
+  "emergency": {
+    "general": "112 (mobile) or 10111",
+    "police": "10111",
+    "ambulance": "10177 or 012 310 6300",
+    "fire": "10177 or 012 310 6200",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Pretoria: +27 12 431 4000. Located at 877 Pretorius Street, Arcadia, Pretoria."
+  },
+  "faq": [
+    {
+      "q": "Is Pretoria safe for tourists?",
+      "a": "Pretoria requires significant caution due to high crime rates, but many tourists visit safely by following security protocols, using private transport, staying in secure accommodations, and avoiding high-risk areas."
+    },
+    {
+      "q": "Is Pretoria safe at night?",
+      "a": "Pretoria is not safe for walking at night. Even locals avoid being outdoors after dark. Use private transport like Uber, stay in secure accommodations, and avoid unnecessary nighttime activities."
+    },
+    {
+      "q": "Is Pretoria safe for solo female travelers?",
+      "a": "Solo female travel in Pretoria requires extreme caution and is only recommended for very experienced travelers. Use private transport, stay in secure areas, join organized tours, and maintain constant vigilance."
+    },
+    {
+      "q": "What areas should I avoid in Pretoria?",
+      "a": "Avoid Pretoria Central/CBD especially at night, townships like Mamelodi and Akasia without guides, and be cautious in Sunnyside. Even safer areas like Hatfield require normal precautions."
+    },
+    {
+      "q": "Is it safe to use public transport in Pretoria?",
+      "a": "Public transport has safety concerns. Use Gautrain for airport connections during day, but avoid Metrorail and minibus taxis. Uber and private transport are much safer options."
+    }
+  ],
+  "relatedCities": [
+    "johannesburg",
+    "cape-town",
+    "durban",
+    "bloemfontein",
+    "port-elizabeth"
+  ],
+  "_city_id": "pretoria-south-africa",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Uniegebou.jpg"
+}

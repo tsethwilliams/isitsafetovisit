@@ -2688,3 +2688,47 @@
 2026-03-21 23:06:49,799 [INFO] Merged into site data: Algiers
 2026-03-21 23:06:49,877 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-21 23:06:49,921 [INFO] Rebuilt sitemap with 563 URLs (420 cities, 137 countries, 6 static)
+2026-03-22 06:33:47,859 [INFO] Agent starting — mode: add
+2026-03-22 06:33:47,900 [INFO] Queue has 143 cities, adding 8
+2026-03-22 06:33:47,900 [INFO] Generating new city profile: Entebbe, Uganda
+2026-03-22 06:35:14,856 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:35:15,146 [INFO] Found Wikipedia image for Entebbe
+2026-03-22 06:35:15,147 [INFO] Saved city data: entebbe-uganda
+2026-03-22 06:35:15,152 [INFO] Generating new city profile: Pretoria, South Africa
+2026-03-22 06:36:42,398 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:36:42,599 [INFO] Found Wikipedia image for Pretoria
+2026-03-22 06:36:42,600 [INFO] Saved city data: pretoria-south-africa
+2026-03-22 06:36:42,604 [INFO] Generating new city profile: Lusaka, Zambia
+2026-03-22 06:38:10,306 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:38:10,458 [INFO] Found Wikipedia image for Lusaka
+2026-03-22 06:38:10,459 [INFO] Saved city data: lusaka-zambia
+2026-03-22 06:38:10,463 [INFO] Generating new city profile: Livingstone, Zambia
+2026-03-22 06:39:24,065 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:39:24,221 [INFO] Found Wikipedia image for Livingstone
+2026-03-22 06:39:24,222 [INFO] Saved city data: livingstone-zambia
+2026-03-22 06:39:24,226 [INFO] Generating new city profile: Praia, Cape Verde
+2026-03-22 06:40:54,352 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:40:54,539 [INFO] Found Wikipedia image for Praia
+2026-03-22 06:40:54,540 [INFO] Saved city data: praia-cape-verde
+2026-03-22 06:40:54,544 [INFO] Generating new city profile: Banjul, Gambia
+2026-03-22 06:42:38,951 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:42:39,113 [INFO] Found Wikipedia image for Banjul
+2026-03-22 06:42:39,114 [INFO] Saved city data: banjul-gambia
+2026-03-22 06:42:39,118 [INFO] Generating new city profile: Phoenix, United States
+2026-03-22 06:44:00,719 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:44:00,895 [INFO] Found Wikipedia image for Phoenix
+2026-03-22 06:44:00,896 [INFO] Saved city data: phoenix-united-states
+2026-03-22 06:44:00,900 [INFO] Generating new city profile: Minneapolis, United States
+2026-03-22 06:45:20,745 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-22 06:45:20,872 [INFO] Found Wikipedia image for Minneapolis
+2026-03-22 06:45:20,873 [INFO] Saved city data: minneapolis-united-states
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Entebbe
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Pretoria
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Lusaka
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Livingstone
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Praia
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Banjul
+2026-03-22 06:45:20,922 [INFO] Merged into site data: Phoenix
+2026-03-22 06:45:20,923 [INFO] Merged into site data: Minneapolis
+2026-03-22 06:45:21,009 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-22 06:45:21,053 [INFO] Rebuilt sitemap with 574 URLs (428 cities, 140 countries, 6 static)

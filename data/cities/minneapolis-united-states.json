@@ -1,0 +1,163 @@
+{
+  "slug": "minneapolis",
+  "name": "Minneapolis",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.8,
+    "scamRisk": 6.2,
+    "womensSafety": 5.9,
+    "nightSafety": 5.4,
+    "transport": 7.2,
+    "naturalHazards": 7.7
+  },
+  "summary": "Minneapolis has seen significant crime improvements in 2025-2026, with homicides down 16% and robberies decreased by nearly 50%. While violent crime rates remain elevated compared to national averages, the city offers excellent public transportation and low natural disaster risk for visitors who exercise appropriate caution.",
+  "quickVerdict": "Minneapolis is experiencing a positive safety trend with notable crime decreases across most categories in 2025-2026. The city is generally safe for tourists who stay in well-populated areas, use common sense precautions, and avoid certain neighborhoods at night. Downtown and major attractions are reasonably secure during daylight hours, though visitors should remain alert for petty crime and avoid walking alone after dark in less populated areas.",
+  "neighborhoods": [
+    {
+      "name": "Linden Hills",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Charming lakeside neighborhood with tree-lined streets, strong community feel, and easy access to Lake Harriet. Popular with families and known for low crime rates."
+    },
+    {
+      "name": "North Loop/Warehouse District",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy downtown area with modern lofts, dining, and nightlife. Generally safe with good foot traffic, though visitors should stay alert during late evening hours."
+    },
+    {
+      "name": "Uptown",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Lively area with shopping, dining, and entertainment. Moderate safety with increased activity, but some petty crime concerns especially at night."
+    },
+    {
+      "name": "Downtown Minneapolis",
+      "score": 5.9,
+      "class": "caution",
+      "description": "Business and tourism center with mixed safety conditions. Generally safe during business hours but requires caution at night, particularly around Nicollet Mall."
+    },
+    {
+      "name": "Phillips",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Diverse neighborhood with higher crime rates, including violent incidents. Visitors should exercise significant caution, especially during evening hours."
+    },
+    {
+      "name": "Near North",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Area with elevated crime statistics including shootings and drug-related activity. Not recommended for tourists, particularly after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing in Tourist Areas",
+      "risk": "medium",
+      "description": "Opportunistic thieves target distracted visitors at busy spots like Nicollet Mall, Mall of America, and major events.",
+      "howToAvoid": "Keep valuables secure and out of sight, use crossbody bags, stay aware of surroundings in crowded areas."
+    },
+    {
+      "name": "Counterfeit Event Tickets",
+      "risk": "medium",
+      "description": "Fake tickets sold for sports games, concerts, and attractions, especially near venues by unofficial sellers.",
+      "howToAvoid": "Only purchase tickets from official box offices, verified websites, or authorized resellers. Be wary of last-minute deals that seem too good to be true."
+    },
+    {
+      "name": "Taxi Meter Scams",
+      "risk": "low",
+      "description": "Drivers claiming broken meters or taking longer routes to inflate fares, more common during surge pricing periods.",
+      "howToAvoid": "Use reputable taxi companies or rideshare apps, confirm meter is working before departure, know approximate costs for common routes."
+    },
+    {
+      "name": "Panhandling Pressure",
+      "risk": "low",
+      "description": "Aggressive requests for money or urgent sales pitches, particularly targeting tourists who appear unfamiliar with the area.",
+      "howToAvoid": "Politely decline and keep walking, avoid engaging in extended conversations, don't give personal information to strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Minneapolis presents moderate challenges for solo female travelers, with a need for extra vigilance in certain areas and during nighttime hours. While the city has seen crime improvements, women should take standard precautions and avoid isolated areas after dark.",
+    "tips": [
+      "Stay in well-trafficked, well-lit areas, especially after sunset",
+      "Use rideshare services or taxis instead of walking alone at night",
+      "Avoid certain neighborhoods like Near North and parts of Phillips",
+      "Connect with local women's groups or networks for safety advice and support"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Minneapolis nighttime safety varies significantly by location and requires careful planning. Downtown areas and entertainment districts have reasonable security with foot traffic, but isolated areas and certain neighborhoods should be avoided after dark.",
+    "tips": [
+      "Stick to busy, well-lit streets and entertainment districts",
+      "Avoid walking alone, especially in quiet residential areas or near transit stops",
+      "Use rideshare or taxi services for transportation after evening hours",
+      "Be particularly cautious around bars and clubs regarding drink safety"
+    ]
+  },
+  "transport": {
+    "metro": "Metro light rail (Blue and Green lines) connects downtown, airport, and major destinations. Generally safe during daytime hours with regular security presence, but exercise caution during late evening hours.",
+    "rideshare": "Uber and Lyft widely available with standard pickup points at MSP airport. Reliable option for evening transport, though surge pricing can occur during peak times and bad weather.",
+    "taxis": "Traditional taxi services available 24/7 with flat-rate options to avoid surge pricing. Airport taxis cost $39-49 to downtown. Professional dispatch centers ensure availability.",
+    "tips": "Public transit is generally reliable and safe during daytime. For evening travel, rideshare or taxi services recommended over walking or late-night transit."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants and bars is standard",
+    "Minnesotans are known for being polite and friendly (Minnesota Nice)",
+    "Dress warmly in winter - temperatures can drop to -20°F or lower"
+  ],
+  "health": {
+    "overview": "Minneapolis offers excellent healthcare infrastructure with top-rated medical facilities, though some hospitals face budget pressures. The city has world-class hospitals and emergency services readily available.",
+    "water": "Tap water is safe to drink. Minneapolis water meets all federal and state health standards and has received high quality ratings.",
+    "vaccinations": "No special vaccinations required. Standard US health recommendations apply. Routine vaccines should be up to date.",
+    "altitude": "Minimal altitude concerns. City experiences extreme temperature variations from -20°F in winter to over 100°F in summer. Visitors should prepare for seasonal weather conditions."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 612-348-2345 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - domestic destination"
+  },
+  "faq": [
+    {
+      "q": "Is Minneapolis safe for tourists?",
+      "a": "Minneapolis is moderately safe for tourists who exercise common sense precautions. The city has seen crime improvements in 2025-2026, but visitors should stay in well-populated areas and avoid certain neighborhoods at night."
+    },
+    {
+      "q": "Is Minneapolis safe at night?",
+      "a": "Nighttime safety varies by location. Downtown entertainment areas and well-lit streets are reasonably safe, but isolated areas and certain neighborhoods should be avoided. Use rideshare or taxi services for evening transportation."
+    },
+    {
+      "q": "Is Minneapolis safe for solo female travelers?",
+      "a": "Solo female travelers should exercise extra caution, particularly at night. Staying in well-trafficked areas, using transportation services after dark, and avoiding certain neighborhoods are recommended safety measures."
+    },
+    {
+      "q": "What areas should I avoid in Minneapolis?",
+      "a": "Avoid Near North, parts of Phillips, and Ventura Village, especially at night. Downtown areas should be approached with caution after dark, particularly around Nicollet Mall and quiet side streets."
+    },
+    {
+      "q": "Is it safe to use public transport in Minneapolis?",
+      "a": "Public transportation is generally safe during daytime hours. The light rail system connects major destinations and has security presence. For evening travel, rideshare or taxi services are recommended over late-night public transit."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "detroit",
+    "milwaukee",
+    "st-louis",
+    "cleveland",
+    "kansas-city"
+  ],
+  "_city_id": "minneapolis-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Minneapolis_Skyline_looking_south.jpg/1280px-Minneapolis_Skyline_looking_south.jpg"
+}

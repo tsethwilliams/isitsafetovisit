@@ -1,0 +1,166 @@
+{
+  "slug": "praia",
+  "name": "Praia",
+  "country": "Cape Verde",
+  "countryCode": "CV",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 6.8,
+    "naturalHazards": 7.2
+  },
+  "summary": "Praia is Cape Verde's bustling capital city where increased vigilance is required compared to the resort islands. While Cape Verde maintains its reputation as one of Africa's safest countries, Praia experiences higher rates of petty crime and some violent incidents, particularly at night and in isolated areas.",
+  "quickVerdict": "Praia presents a moderate safety environment that requires more caution than Cape Verde's tourist-focused islands like Sal and Boa Vista. The US State Department has designated Praia with elevated risk warnings due to increased petty crime including pickpocketing, purse snatching, and occasional violent incidents like muggings and armed robbery. While serious crime against tourists remains relatively uncommon, visitors should exercise standard urban precautions, avoid poorly lit areas at night, secure valuables, and be particularly wary of hillside stairways that connect neighborhoods. With proper awareness and precautions, most travelers can safely explore the capital and experience its authentic Cape Verdean culture.",
+  "neighborhoods": [
+    {
+      "name": "Plateau (City Center)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "The historic and administrative heart of Praia with colonial architecture, government buildings, and cultural sites. Well-patrolled during the day with good foot traffic, though caution advised after dark."
+    },
+    {
+      "name": "Prainha/Terra Branca",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Mixed residential and commercial area near the city center. Generally safe during daylight hours but requires increased vigilance at night. Popular area for locals and some tourist facilities."
+    },
+    {
+      "name": "Sucupira Market Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Bustling market district and transport hub where aluguer minibuses depart. High foot traffic but also increased risk of pickpocketing. Essential for authentic local experience but keep valuables secure."
+    },
+    {
+      "name": "Palmarejo",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern residential and business district with newer developments, shopping centers, and restaurants. Generally considered one of the safer areas of Praia with better lighting and security presence."
+    },
+    {
+      "name": "Achada Grande",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Peripheral residential area with higher poverty levels and increased crime risk. Not recommended for tourists, especially after dark. Avoid unless with local guides or for specific purposes."
+    },
+    {
+      "name": "Hillside Stairway Areas",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Steep stairways connecting different neighborhoods throughout the city. Specifically warned against by US Embassy due to isolation and vulnerability to assault even during daylight hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Taxi drivers may quote inflated fares or refuse to use meters, especially with tourists arriving at airport or unfamiliar with local rates.",
+      "howToAvoid": "Agree on fare before starting journey, ask locals for typical rates, use hotel-arranged transport when possible, or try rideshare apps like Nha Taxi."
+    },
+    {
+      "name": "Romance and Financial Scams",
+      "risk": "high",
+      "description": "Locals approach tourists claiming romantic interest or financial emergencies, often leading to requests for money transfers or personal financial assistance.",
+      "howToAvoid": "Be extremely cautious of anyone quickly claiming romantic interest or asking for financial help. Verify any emergency stories independently and never send money abroad."
+    },
+    {
+      "name": "Fake Tour Guides and Services",
+      "risk": "medium",
+      "description": "Unlicensed individuals offer tours, excursions, or services at inflated prices or leading to poor experiences and potential safety risks.",
+      "howToAvoid": "Use only licensed tour operators recommended by hotels or official tourism offices. Verify credentials and get written quotes before agreeing to any services."
+    },
+    {
+      "name": "ATM and Card Skimming",
+      "risk": "medium",
+      "description": "Criminals may approach at ATMs offering help to avoid fees while actually using card skimmers and watching pin numbers to steal account information.",
+      "howToAvoid": "Always cover your PIN when entering, refuse any unsolicited help at ATMs, use ATMs inside banks when possible, and bring travel cards with no foreign fees."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers can safely visit Praia with proper precautions, though it requires more vigilance than Cape Verde's resort islands. Cape Verde is considered one of the safer African destinations for women, but catcalling and unwanted male attention can occur in urban areas. Harassment is not constant but may happen, especially in nightlife settings or isolated areas.",
+    "tips": [
+      "Avoid walking alone on beaches or in poorly lit areas after dark",
+      "Stay in well-populated, touristy areas when exploring at night",
+      "Ignore catcalling and hissing sounds - it's culturally common but generally harmless",
+      "Dress modestly when visiting local neighborhoods away from beach areas",
+      "Use reputable taxis or hotel-arranged transport rather than walking alone at night"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Praia requires significant caution as most crimes occur after dark in poorly lit or isolated areas. The US State Department specifically warns against walking or driving at night due to increased risk of muggings, armed robbery, and assault. Many public areas lack adequate lighting due to power outages.",
+    "tips": [
+      "Use taxis rather than walking at night, even for short distances",
+      "Stick to well-lit, busy areas with good foot traffic",
+      "Avoid hillside stairways completely, even during daylight",
+      "Never walk alone on isolated beaches after sunset",
+      "Carry a small flashlight due to frequent power outages and poor street lighting"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Praia. Public buses operate within the city but service is limited with irregular schedules from around 6am to 9pm.",
+    "rideshare": "Rideshare apps like Nha Taxi and Zoomly are available in Praia, offering safer alternatives to street taxis with technology-based booking and tracking.",
+    "taxis": "Taxis are common but often lack working meters. Agree on fare before departure as overcharging tourists is frequent. Licensed taxis are beige-colored while unlicensed clan taxis also operate illegally.",
+    "tips": "Use aluguer shared minibuses for budget transport to other parts of Santiago island, departing from Sucupira Market, though they wait until full before departing and have no fixed schedules."
+  },
+  "customs": [
+    "Greet with handshakes and use formal titles until invited to use first names",
+    "Respect the Catholic majority culture and observe modesty during religious events",
+    "Accept invitations for coffee or meals as social interaction builds trust and relationships",
+    "Avoid direct confrontation and use indirect communication to maintain harmony",
+    "Tip modestly at restaurants and for services, though not mandatory"
+  ],
+  "health": {
+    "overview": "Healthcare in Praia is the best available in Cape Verde with the largest hospital (Agostinho Neto Hospital with 350 beds) and several private clinics. However, facilities still lack resources compared to Western standards and many staff may not speak English.",
+    "water": "Tap water is not recommended for drinking. Use bottled water for drinking and tooth brushing, though hotel restaurants typically use safe ice and washed produce.",
+    "vaccinations": "No specific vaccines required but consider routine updates. Malaria risk exists mainly on Santiago island, though cases are rare (20-40 annually, mostly recent West African migrants).",
+    "altitude": "No altitude concerns. Watch for Dengue fever risk from mosquitoes, especially July-December. Use DEET repellent and long sleeves at dawn/dusk when mosquitoes are most active."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "132",
+    "ambulance": "130",
+    "fire": "131",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Praia - Rua Abilio Macedo 6, C.P. 201, Praia. Emergency after-hours: +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Praia safe for tourists?",
+      "a": "Praia is moderately safe for tourists who take proper precautions. While it's safer than many urban areas in West Africa, it has higher crime rates than Cape Verde's resort islands. Most visits are trouble-free when following safety guidelines."
+    },
+    {
+      "q": "Is Praia safe at night?",
+      "a": "Nighttime requires significant caution in Praia. Most crimes occur after dark, especially in poorly lit areas. Use taxis instead of walking, stick to busy well-lit zones, and completely avoid hillside stairways even during the day."
+    },
+    {
+      "q": "Is Praia safe for solo female travelers?",
+      "a": "Solo female travelers can visit Praia safely with proper precautions. Expect some catcalling which is culturally common but usually harmless. Avoid isolated areas at night, dress modestly in local neighborhoods, and use reputable transport."
+    },
+    {
+      "q": "What areas should I avoid in Praia?",
+      "a": "Avoid hillside stairways connecting neighborhoods (even during day), peripheral areas like Achada Grande at night, isolated beaches after dark, and poorly lit streets. The Sucupira Market area requires extra vigilance for pickpocketing."
+    },
+    {
+      "q": "Is it safe to use public transport in Praia?",
+      "a": "Public transport is relatively safe during daytime. Aluguer minibuses are budget-friendly but wait until full and have no fixed schedules. Taxis are common but agree on fares beforehand. New rideshare apps like Nha Taxi offer safer alternatives."
+    }
+  ],
+  "relatedCities": [
+    "dakar",
+    "banjul",
+    "freetown",
+    "conakry",
+    "bissau"
+  ],
+  "_city_id": "praia-cape-verde",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pal%C3%A1cio_da_Cultura%2C_Praia%2C_Cape_Verde.jpg/1280px-Pal%C3%A1cio_da_Cultura%2C_Praia%2C_Cape_Verde.jpg"
+}

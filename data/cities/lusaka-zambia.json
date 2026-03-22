@@ -1,0 +1,162 @@
+{
+  "slug": "lusaka",
+  "name": "Lusaka",
+  "country": "Zambia",
+  "countryCode": "ZM",
+  "region": "Africa",
+  "regionSlug": "africa",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 7.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 6.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Lusaka is generally safe for tourists with normal precautions, though petty crime like pickpocketing and bag snatching occurs in crowded areas and transport hubs. The city has good daylight safety in tourist areas but requires heightened awareness at night.",
+  "quickVerdict": "Lusaka is one of Africa's safer capitals for visitors, with the US State Department advising to exercise normal precautions. While violent crime exists, tourists are more likely to encounter petty theft, pickpocketing, or opportunistic scams. The affluent neighborhoods of Kabulonga, Roma, and Woodlands offer excellent security, and healthcare facilities are adequate for basic needs. Night activities require careful planning and reliable transport.",
+  "neighborhoods": [
+    {
+      "name": "Kabulonga",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Prestigious diplomatic and expatriate area with excellent security, upscale properties, and proximity to embassies. Features good lighting, private security, and easy access to amenities. Popular with diplomats and affluent locals."
+    },
+    {
+      "name": "Roma",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area known for spacious homes and serene environment. Offers good security, access to shopping malls and schools, and is close to retail districts. Well-maintained with modern amenities."
+    },
+    {
+      "name": "Woodlands",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-established neighborhood with tree-lined streets and spacious properties. Home to shopping centers, schools, and healthcare facilities. Generally quiet residential environment with good security measures."
+    },
+    {
+      "name": "Central Business District",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Commercial heart of the city with shops, restaurants, and offices. Generally safe during daylight but requires caution with belongings due to pickpockets and petty crime. Avoid after dark unless in groups."
+    },
+    {
+      "name": "Transport Hubs",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Bus stations and taxi ranks experience high rates of petty crime including bag snatching and pickpocketing. The Intercity bus station is particularly challenging with overcrowding and opportunistic theft."
+    },
+    {
+      "name": "High-Density Areas",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Neighborhoods like Kanyama and Chibolya have higher crime rates and poverty levels. Limited security presence and infrastructure. Tourists should avoid these areas, especially after dark or when alone."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Internet Romance Scams",
+      "risk": "high",
+      "description": "Scammers pose as U.S. citizens online through dating sites or social media, building relationships before requesting money for emergencies, travel, or business opportunities.",
+      "howToAvoid": "Never send money to someone you've only met online. Be suspicious of anyone claiming to be American but needing financial help. Verify identities through video calls and reverse image searches."
+    },
+    {
+      "name": "Fake Official Fees",
+      "risk": "medium",
+      "description": "Criminals pose as officials demanding payment of bogus fees, fines, or duties. May occur at roadblocks, tourist sites, or government offices.",
+      "howToAvoid": "Always insist on official receipts from the Government of Zambia. Ask for identification and verify with legitimate authorities. Don't pay on-the-spot fines to roadside officials."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Groups work together where one person distracts you while accomplices steal belongings. Common at markets, restaurants, and tourist attractions.",
+      "howToAvoid": "Stay alert when approached by overly friendly strangers. Keep valuables secure and don't let anyone direct your attention away from your belongings. Trust your instincts if something feels off."
+    },
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "medium",
+      "description": "Street money changers offer attractive rates but provide counterfeit bills or shortchange tourists unfamiliar with local currency.",
+      "howToAvoid": "Only exchange money at official banks or authorized forex bureaus. Count money carefully before leaving. Be wary of deals that seem too good to be true."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lusaka is relatively safe for solo female travelers compared to other African capitals, but requires extra precautions especially at night. Conservative dress is recommended, particularly in rural areas and religious sites. Women should avoid going out alone after dark.",
+    "tips": [
+      "Dress conservatively covering shoulders and knees, especially in rural areas and religious sites",
+      "Always use trusted taxi services or ride-share apps like Bolt rather than walking alone at night",
+      "Stay in well-reviewed accommodations in safe neighborhoods like Kabulonga or Roma",
+      "Be cautious of date rape drugs reported at some bars and restaurants - never leave drinks unattended",
+      "Carry a charged phone and share your itinerary with someone trusted"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Lusaka requires heightened caution as crime rates increase after dark. While tourist areas in affluent neighborhoods remain relatively safe, it's advisable to avoid walking alone and use reliable transport. Many establishments close early, and street lighting can be poor in some areas.",
+    "tips": [
+      "Pre-arrange transport through hotels or trusted taxi companies rather than hailing random vehicles",
+      "Stick to well-lit, populated areas and avoid downtown areas and high-density compounds at night",
+      "Use ride-sharing apps like Bolt or official taxi services with verified drivers",
+      "Avoid displaying valuables and keep cash in multiple locations",
+      "Be cautious at bars and nightclubs - watch your drinks and travel in groups when possible"
+    ]
+  },
+  "transport": {
+    "metro": "No metro or formal rail system exists for urban transport within Lusaka.",
+    "rideshare": "Bolt is popular and reliable with good safety features including driver tracking. Uber is available but has fewer drivers. Both offer better security than street taxis.",
+    "taxis": "Official taxis exist but many unlicensed vehicles operate. Negotiate fares beforehand as meters are rare. Use hotel-arranged taxis or get driver contact numbers for reliable service.",
+    "tips": "Minibuses are cheap but crowded and can be unsafe - avoid if possible. For long-distance travel, stick to reputable bus companies. Always verify vehicle details when using ride-share apps."
+  },
+  "customs": [
+    "Greetings are important - offer firm handshakes and inquire about family and well-being before getting to business",
+    "Dress conservatively, especially women covering shoulders and knees in rural areas and religious sites",
+    "Show respect for elders by using formal titles, standing when they enter, and allowing them precedence"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies significantly between public and private facilities. Major private hospitals in Lusaka offer good care, while basic medical care outside major cities is extremely limited.",
+    "water": "Tap water quality in Lusaka is inconsistent - bottled water is recommended. Outside major cities, boil water before consumption.",
+    "vaccinations": "Malaria prophylaxis essential - Zambia is a high-risk area. Standard vaccinations including hepatitis A, typhoid, and yellow fever recommended. Consult a travel doctor.",
+    "altitude": "Lusaka sits at moderate altitude. Climate is subtropical with a rainy season from December to April. Be prepared for seasonal flooding and power outages."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "991",
+    "ambulance": "992",
+    "fire": "993",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Lusaka: +260 211 357-000, Subdivision 694/Stand 100 Kabulonga District, Ibex Hill Road"
+  },
+  "faq": [
+    {
+      "q": "Is Lusaka safe for tourists?",
+      "a": "Yes, Lusaka is generally safe for tourists who take normal precautions. The US State Department advises exercising normal precautions. Petty crime like pickpocketing is more common than violent crime, especially in crowded areas and transport hubs."
+    },
+    {
+      "q": "Is Lusaka safe at night?",
+      "a": "Night safety requires extra caution in Lusaka. While affluent areas like Kabulonga and Roma remain relatively safe, avoid walking alone after dark. Use trusted taxi services or ride-share apps, and stick to well-lit, populated areas."
+    },
+    {
+      "q": "Is Lusaka safe for solo female travelers?",
+      "a": "Lusaka is relatively safe for solo female travelers compared to other African capitals, but requires conservative dress and extra precautions. Avoid going out alone at night, dress modestly, and be aware of drink spiking reports at some venues."
+    },
+    {
+      "q": "What areas should I avoid in Lusaka?",
+      "a": "Avoid high-density compounds like Kanyama and Chibolya, especially after dark. Be extra cautious around transport hubs like the Intercity bus station. Downtown areas should be avoided at night, and remote border areas near DRC and Angola have security concerns."
+    },
+    {
+      "q": "Is it safe to use public transport in Lusaka?",
+      "a": "Public minibuses are generally unsafe due to poor maintenance and overcrowding. Use ride-share apps like Bolt or arrange taxis through hotels. For long-distance travel, use reputable bus companies and avoid night departures when possible."
+    }
+  ],
+  "relatedCities": [
+    "nairobi",
+    "harare",
+    "gaborone"
+  ],
+  "_city_id": "lusaka-zambia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Downtown_Lusaka.JPG/1280px-Downtown_Lusaka.JPG"
+}
