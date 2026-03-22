@@ -1,0 +1,166 @@
+{
+  "slug": "tucson",
+  "name": "Tucson",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.0,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 5.5,
+    "scamRisk": 6.0,
+    "womensSafety": 6.5,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Tucson presents moderate safety challenges with higher than average crime rates compared to other US cities, though most tourist areas remain relatively safe during daytime. The city experiences significant property crime and occasional violent crime, particularly in certain neighborhoods, but benefits from good emergency services and reliable public transportation.",
+  "quickVerdict": "Tucson requires moderate caution but remains manageable for prepared visitors. While crime statistics show the city ranks in the 27th percentile for safety among US cities, most tourist attractions and better neighborhoods are reasonably safe. The main concerns are property theft, some violent crime in specific areas, and the risk of flash flooding during monsoon season. Solo travelers and women should take extra precautions, especially at night, but the city offers good transportation options and emergency services.",
+  "neighborhoods": [
+    {
+      "name": "Catalina Foothills",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale area in the Santa Catalina Mountains foothills with low crime rates, excellent restaurants, and high-end shopping. Generally very safe for tourists with good lighting and security."
+    },
+    {
+      "name": "Sam Hughes",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic neighborhood near University of Arizona with tree-lined streets and charming homes. Popular with students and professionals, generally safe with good foot traffic and lighting."
+    },
+    {
+      "name": "Oro Valley",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Suburban area north of Tucson with very low crime rates and family-friendly atmosphere. Well-maintained with good police presence and modern infrastructure."
+    },
+    {
+      "name": "Downtown Tucson",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Mixed safety area with tourist attractions, restaurants, and nightlife. Generally safe during daytime but requires caution at night. Higher homeless population visible."
+    },
+    {
+      "name": "South Tucson",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Independent municipality with significantly higher crime rates than surrounding areas. Elevated risks of both property and violent crime, particularly after dark."
+    },
+    {
+      "name": "Central Tucson",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Varied safety depending on specific location. Some areas have higher crime rates while others are reasonably safe. Requires local knowledge and situational awareness."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Native American Crafts",
+      "risk": "medium",
+      "description": "Tourists are sold counterfeit or mass-produced items marketed as authentic Native American jewelry and art at tourist attractions.",
+      "howToAvoid": "Purchase from verified authentic sources, ask for certificates of authenticity, and buy from established galleries or tribal shops."
+    },
+    {
+      "name": "Overpriced Tour Packages",
+      "risk": "medium",
+      "description": "Tour operators offer seemingly cheap packages that end up costing much more due to hidden fees and unnecessary add-ons.",
+      "howToAvoid": "Always ask for the total price upfront, read all terms carefully, and compare prices with multiple reputable operators."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers take longer routes or charge higher fares than the meter shows, particularly targeting tourists from the airport.",
+      "howToAvoid": "Confirm the fare beforehand, use ride-sharing apps with upfront pricing like Uber or Lyft, or ask locals for estimated costs."
+    },
+    {
+      "name": "Street Vendor Scams",
+      "risk": "low",
+      "description": "Vendors selling low-quality goods or demanding additional money after initial price agreement, particularly in tourist areas.",
+      "howToAvoid": "Agree on prices clearly before purchase, inspect items carefully, and be prepared to walk away if pressured."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Tucson is generally manageable with proper precautions, though the city requires more vigilance than many other US destinations. Many women travel here successfully, but awareness of surroundings and avoiding certain areas, particularly at night, is important. The University area and upscale neighborhoods are generally safer.",
+    "tips": [
+      "Avoid walking alone at night, especially in downtown areas and south Tucson",
+      "Stay in well-reviewed accommodations in safer neighborhoods like Foothills or near the University",
+      "Use rideshare services rather than walking or public transit after dark",
+      "Keep belongings secure as property crime rates are higher than national average",
+      "Consider using Alegna, the new women-only rideshare service available in Tucson"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Tucson requires significant caution, particularly in downtown areas and southern parts of the city. While popular nightlife districts like Fourth Avenue have more foot traffic and police presence, the overall crime rates make solo nighttime activities riskier than in many other cities. Staying in groups and using reliable transportation is strongly recommended.",
+    "tips": [
+      "Stay in well-lit, busy areas with good foot traffic like Fourth Avenue entertainment district",
+      "Always use rideshare services or taxis rather than walking at night",
+      "Travel in groups when possible and avoid isolated areas",
+      "Be aware of your alcohol consumption and never leave drinks unattended",
+      "Keep emergency contacts readily available and share your location with trusted contacts"
+    ]
+  },
+  "transport": {
+    "metro": "Tucson has the Sun Tran bus system with over 40 routes throughout the city, plus the Sun Link Streetcar covering a 4-mile route connecting downtown, University of Arizona, and key districts. All public transportation is currently fare-free. However, some bus stops are poorly lit and the homeless population creates occasional safety concerns.",
+    "rideshare": "Uber and Lyft operate extensively throughout Tucson and are generally safe and reliable. A new women-only rideshare service called Alegna also operates in the city. These services are recommended over taxis for transparent pricing and tracking features.",
+    "taxis": "Traditional taxis are available but less regulated than rideshare services. Some drivers may overcharge tourists, particularly at the airport. Verify fares upfront and consider using rideshare apps instead.",
+    "tips": "Use rideshare services for nighttime transportation and stick to well-traveled routes during the day. Public transit is safe during daytime but exercise caution at bus stops after dark."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants and 15-20% for taxi and rideshare drivers",
+    "Summer temperatures exceed 100°F regularly - avoid outdoor activities during peak heat hours",
+    "Respect Native American cultural sites and purchase authentic crafts from verified sources",
+    "Be water-wise as Arizona faces ongoing drought conditions",
+    "Casual dress is acceptable almost everywhere except upscale restaurants"
+  ],
+  "health": {
+    "overview": "Tucson has good healthcare facilities including University of Arizona Medical Center and several other hospitals. The main health risks are heat-related illnesses during summer months and dehydration year-round due to the dry desert climate.",
+    "water": "Tap water is safe to drink and meets EPA standards, though some visitors may notice a different taste due to mineral content. Bottled water is widely available if preferred.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare protocols apply.",
+    "altitude": "Tucson sits at 2,400 feet elevation which is generally not problematic. Main climate concern is extreme heat in summer (May-September) with temperatures often exceeding 100°F and low humidity requiring increased water intake."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (Emergency) / 520-791-4444 (Non-Emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US destination. For international visitors, nearest consulates are in Phoenix or Los Angeles."
+  },
+  "faq": [
+    {
+      "q": "Is Tucson safe for tourists?",
+      "a": "Tucson is moderately safe for tourists who take reasonable precautions. Tourist areas and better neighborhoods are generally safe during daytime, but the city has higher crime rates than many US destinations. Stay alert, avoid certain areas at night, and use common sense safety measures."
+    },
+    {
+      "q": "Is Tucson safe at night?",
+      "a": "Nighttime safety in Tucson requires significant caution. While popular areas like Fourth Avenue have activity and police presence, overall crime statistics make solo nighttime activities riskier. Use rideshare services, travel in groups, and stay in well-lit, busy areas."
+    },
+    {
+      "q": "Is Tucson safe for solo female travelers?",
+      "a": "Solo female travelers can visit Tucson safely with proper precautions. Choose accommodations in safer neighborhoods, avoid walking alone at night, use rideshare services after dark, and consider the new women-only Alegna rideshare service. Many women travel here successfully but vigilance is important."
+    },
+    {
+      "q": "What areas should I avoid in Tucson?",
+      "a": "Avoid South Tucson (independent city with high crime rates), parts of central and downtown Tucson after dark, and areas with visible homeless encampments. The safest areas include Catalina Foothills, Oro Valley, and the University area. Research specific neighborhoods before visiting."
+    },
+    {
+      "q": "Is it safe to use public transport in Tucson?",
+      "a": "Public transportation (Sun Tran buses and Sun Link streetcar) is generally safe during daytime and currently fare-free. However, some bus stops are poorly lit and there may be homeless individuals present. Use caution at night and consider rideshare services for evening transportation."
+    }
+  ],
+  "relatedCities": [
+    "phoenix",
+    "scottsdale",
+    "albuquerque",
+    "las-vegas",
+    "denver"
+  ],
+  "_city_id": "tucson-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_of_Tucson_from_Sentinel_Peak_2.jpg/1280px-View_of_Tucson_from_Sentinel_Peak_2.jpg"
+}

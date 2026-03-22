@@ -1,0 +1,161 @@
+{
+  "slug": "niagara-falls",
+  "name": "Niagara Falls",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.0,
+    "transport": 8.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Niagara Falls, Canada is a popular tourist destination with good overall safety standards despite being known as a tourist trap. The city maintains strong healthcare infrastructure and benefits from Canada's Level 1 travel advisory status from the US State Department.",
+  "quickVerdict": "Niagara Falls offers a generally safe experience for tourists visiting one of the world's most famous natural attractions. While the city is heavily commercialized and ranked as Canada's top tourist trap, safety concerns are minimal with low violent crime rates and excellent emergency services. Visitors should be aware of overpriced attractions and tourist-focused scams but can feel secure exploring the falls and surrounding areas. The city benefits from Canada's excellent healthcare system and modern transportation infrastructure.",
+  "neighborhoods": [
+    {
+      "name": "Table Rock Centre Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist hub near Horseshoe Falls with heavy police presence, well-maintained infrastructure, and constant foot traffic providing natural surveillance."
+    },
+    {
+      "name": "Queen Victoria Park",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Niagara Parks Commission territory with excellent security, beautiful landscaping, and family-friendly atmosphere throughout the day and early evening."
+    },
+    {
+      "name": "Tourist District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Main hotel and entertainment area with regular patrols, though crowded during peak season and prone to tourist-targeted petty crime like pickpocketing."
+    },
+    {
+      "name": "Fallsview Boulevard",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Hotel and casino strip with good security but some reports of aggressive street vendors and higher prices. Generally safe but requires vigilance."
+    },
+    {
+      "name": "Clifton Hill",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tourist entertainment district that can get rowdy at night with street performers and crowds. Well-patrolled but occasional disturbances and overpriced attractions."
+    },
+    {
+      "name": "Rainbow Bridge Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Border crossing zone with heavy security presence from both Canadian and US authorities. Very safe but expect delays during peak crossing times."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Tourist Packages",
+      "risk": "high",
+      "description": "Adventure passes and attraction bundles often cost more than buying individual tickets, with hidden fees and forced gift shop visits after attractions.",
+      "howToAvoid": "Research individual attraction prices beforehand, read reviews carefully, and avoid packages that seem too good to be true or have unclear pricing."
+    },
+    {
+      "name": "Parking Scams",
+      "risk": "medium",
+      "description": "Fake parking attendants directing tourists to expensive private lots or unofficial parking areas that may result in towing or fines.",
+      "howToAvoid": "Only use official Niagara Parks parking or clearly marked municipal lots. Check for posted rates and official signage before paying."
+    },
+    {
+      "name": "Restaurant Tourist Pricing",
+      "risk": "medium",
+      "description": "Restaurants near attractions charging significantly inflated prices for mediocre food, sometimes adding mandatory service charges or tourism fees.",
+      "howToAvoid": "Walk a few blocks away from main tourist areas for better value, check menus and prices before sitting down, and question any unexpected fees on bills."
+    },
+    {
+      "name": "Street Vendor Overcharging",
+      "risk": "low",
+      "description": "Aggressive street vendors selling souvenirs, photos, or services at extremely high prices, particularly targeting obviously foreign tourists.",
+      "howToAvoid": "Politely decline unsolicited services, shop at established stores for souvenirs, and avoid giving personal information to street vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Niagara Falls is very safe for solo female travelers, with Canada's strong women's safety record and heavy tourist area security. The main tourist zones are well-lit and patrolled, with plenty of other visitors around during most hours. As with any tourist destination, standard precautions should be taken.",
+    "tips": [
+      "Stay in the main tourist areas where there's constant foot traffic and security presence",
+      "Use official WEGO buses or reputable rideshare services rather than walking alone at night",
+      "Keep valuables secure as tourist areas can attract pickpockets targeting distracted visitors",
+      "Book accommodations in the main Fallsview or tourist district for easy access to attractions and safety"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Niagara Falls is generally good in tourist areas, which remain active and well-lit until late evening. The falls are beautifully illuminated and safe to view at night. However, some areas like Clifton Hill can become rowdy, and it's best to stick to main thoroughfares after dark.",
+    "tips": [
+      "Stay in well-lit tourist areas and avoid wandering into residential neighborhoods alone",
+      "The illuminated falls viewing areas remain safe and are patrolled throughout the night",
+      "Use rideshare services or official taxis for transportation after dark rather than walking",
+      "Avoid excessive drinking in tourist bars which may make you a target for overcharging or petty crime"
+    ]
+  },
+  "transport": {
+    "metro": "Niagara Falls doesn't have a metro system, but the WEGO bus system provides excellent transportation throughout the tourist areas.",
+    "rideshare": "Uber and Lyft operate in Niagara Falls with good coverage in tourist areas. Generally safe and reliable.",
+    "taxis": "Official taxi services are available and regulated, though can be expensive. Ensure the meter is running or agree on a fare beforehand.",
+    "tips": "The WEGO bus system is the most economical way to get around tourist areas and is fully accessible with frequent service. Download the Transit app for real-time bus tracking."
+  },
+  "customs": [
+    "Canadians are famously polite - saying 'please,' 'thank you,' and 'sorry' frequently is expected and appreciated",
+    "Tipping 15-20% is standard at restaurants, and thanking bus drivers when exiting is common courtesy",
+    "Personal space is valued - maintain about arm's length distance during conversations and queue patiently in lines"
+  ],
+  "health": {
+    "overview": "Canada has an excellent healthcare system, though visitors must have travel insurance as healthcare is expensive for non-residents. Niagara Falls has quality medical facilities including the Greater Niagara General Hospital.",
+    "water": "Tap water is completely safe to drink throughout Niagara Falls and meets high Canadian standards.",
+    "vaccinations": "No special vaccinations required for Canada beyond routine immunizations. Check CDC recommendations for any updates.",
+    "altitude": "Niagara Falls is at low elevation with no altitude concerns. Weather can be harsh in winter with snow and ice requiring appropriate clothing."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "905-688-4111",
+    "ambulance": "911",
+    "fire": "905-356-7521",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Toronto: +1-416-595-1700"
+  },
+  "faq": [
+    {
+      "q": "Is Niagara Falls safe for tourists?",
+      "a": "Yes, Niagara Falls is very safe for tourists. It's located in Canada which has a Level 1 (Exercise Normal Precautions) travel advisory from the US State Department. The main tourist areas are heavily patrolled and monitored, with excellent emergency services readily available."
+    },
+    {
+      "q": "Is Niagara Falls safe at night?",
+      "a": "The main tourist areas of Niagara Falls remain safe at night, with the falls themselves beautifully illuminated and viewable until late. Stay in well-lit areas with other tourists present, and use rideshare or official taxis for transportation after dark."
+    },
+    {
+      "q": "Is Niagara Falls safe for solo female travelers?",
+      "a": "Niagara Falls is very safe for solo female travelers. Canada has strong women's safety protections, and the tourist areas have constant security presence and foot traffic. Standard travel precautions apply, but serious safety concerns are minimal."
+    },
+    {
+      "q": "What areas should I avoid in Niagara Falls?",
+      "a": "Generally, all tourist areas in Niagara Falls are safe. Clifton Hill can get crowded and somewhat rowdy at night but isn't dangerous. Be more cautious if venturing into residential areas away from the main tourist zone, particularly after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Niagara Falls?",
+      "a": "Yes, public transport is very safe. The WEGO bus system is well-maintained, accessible, and monitored. Buses run frequently through tourist areas and are equipped with modern safety features including GPS tracking and security cameras."
+    }
+  ],
+  "relatedCities": [
+    "toronto",
+    "montreal",
+    "ottawa",
+    "vancouver"
+  ],
+  "_city_id": "niagara-falls-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Niagara_Falls_Skyline.jpg/1280px-Niagara_Falls_Skyline.jpg"
+}

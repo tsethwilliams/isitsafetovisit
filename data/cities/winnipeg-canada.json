@@ -1,0 +1,164 @@
+{
+  "slug": "winnipeg",
+  "name": "Winnipeg",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 4.8,
+    "scamRisk": 6.5,
+    "womensSafety": 6.2,
+    "nightSafety": 4.2,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Winnipeg is Canada's seventh-largest city with moderate safety concerns, ranking among Canada's higher crime rates but remaining manageable for tourists with proper precautions. The city faces challenges with property crime and higher-than-average homicide rates, particularly in downtown and North End areas at night.",
+  "quickVerdict": "Winnipeg presents a mixed safety picture for tourists. While violent crime primarily affects those involved in high-risk activities or specific neighborhoods, property crime and theft are more common concerns for visitors. Downtown areas require extra caution at night, and certain neighborhoods like the North End should be avoided. The city has excellent healthcare, reliable public transit, and friendly locals, making it navigable for tourists who stay alert and follow basic safety precautions.",
+  "neighborhoods": [
+    {
+      "name": "Exchange District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic arts district with well-preserved architecture, galleries, and restaurants. Generally safe during daytime with good foot traffic and lighting."
+    },
+    {
+      "name": "The Forks",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Popular tourist destination at the confluence of two rivers, featuring markets, parks, and cultural attractions. Well-patrolled and maintained."
+    },
+    {
+      "name": "Osborne Village",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Trendy neighborhood with restaurants, shops, and nightlife. Busy area with good visibility and regular foot traffic, safer than downtown core."
+    },
+    {
+      "name": "Downtown Core",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Higher crime rates including property crime, panhandling, and drug-related activities. Exercise extreme caution at night and avoid isolated areas."
+    },
+    {
+      "name": "North End",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Area with highest crime rates in the city including violent crime and property crime. Tourists should avoid this area entirely, especially at night."
+    },
+    {
+      "name": "West End",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area with elevated crime rates including property crimes and drug-related activities. Use caution and avoid at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Jewelry Exchange",
+      "risk": "high",
+      "description": "Traveling scammers approach victims in parking lots and public areas offering fake gold jewelry in exchange for money or real jewelry through distraction techniques.",
+      "howToAvoid": "Never accept unsolicited offers from strangers, especially involving jewelry or valuable items. Be wary of anyone approaching you in parking lots asking for help or money."
+    },
+    {
+      "name": "Phone/Internet Fraud",
+      "risk": "medium",
+      "description": "Scammers use spoofed local phone numbers to impersonate legitimate businesses, government agencies, or even police, requesting money or personal information.",
+      "howToAvoid": "Never give personal information over the phone to unsolicited callers. Hang up and call the organization directly using official numbers. Government agencies won't demand immediate payment by gift cards or wire transfers."
+    },
+    {
+      "name": "Grandparent Emergency Scam",
+      "risk": "medium",
+      "description": "Fraudsters call claiming to be a grandchild in trouble needing immediate money, often using voice cloning technology and personal information from social media.",
+      "howToAvoid": "Always verify the caller's identity by asking questions only the real person would know. Call the person back directly or contact other family members to confirm the emergency."
+    },
+    {
+      "name": "Online Marketplace Overpayment",
+      "risk": "medium",
+      "description": "Buyers offer to pay more than the advertised price for items sold online, then request wire transfers of the overpayment amount using fake checks.",
+      "howToAvoid": "Be suspicious of any buyer offering to pay significantly more than your asking price. Never wire money or provide banking information. Wait for checks to fully clear before releasing items."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers generally find Winnipeg manageable with standard urban precautions. The city ranks among the safer Canadian destinations for women, though certain areas require extra vigilance. Most harassment occurs in nightlife areas or less populated parts of the city.",
+    "tips": [
+      "Avoid walking alone in downtown core and North End areas, especially after dark",
+      "Use rideshare services or taxis rather than walking or public transit late at night",
+      "Stay in well-lit, populated areas and trust your instincts if situations feel uncomfortable",
+      "Consider joining group tours or activities for both safety and social opportunities",
+      "Keep accommodations in safer neighborhoods like Exchange District or near The Forks"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Winnipeg's night safety varies dramatically by location. Downtown areas become significantly less safe after dark with increased panhandling, drug activity, and property crime. The city's night safety score is low at 28.75 compared to daytime safety of 63.32.",
+    "tips": [
+      "Avoid downtown core areas north of City Hall and around Central Park at night",
+      "Use licensed taxis or rideshare services instead of walking or public transit after dark",
+      "Travel in groups when possible and stick to well-lit, busy areas",
+      "Pre-arrange transportation and have a clear plan before going out",
+      "Some dive bars and establishments in North End areas should be avoided entirely"
+    ]
+  },
+  "transport": {
+    "metro": "Winnipeg has an extensive bus system including the BLUE Line rapid transit. Generally safe during daytime hours with regular service to major destinations. Some routes through higher-crime areas should be used cautiously at night.",
+    "rideshare": "Uber and other rideshare services are widely available and considered safe. Use in-app safety features and verify driver details. Rideshares have gained significant market share and provide 24/7 service throughout the city.",
+    "taxis": "Traditional taxis remain popular and generally reliable. Licensed taxi services are safe though more expensive than rideshare options. Recommended for late-night transportation over public transit.",
+    "tips": "Public transit is safe during daytime but exercise caution on evening routes through downtown and North End areas. Rideshare and taxi services offer safer late-night options."
+  },
+  "customs": [
+    "Canadians are famously polite - saying 'please,' 'thank you,' and 'sorry' frequently is expected and appreciated",
+    "Remove shoes when entering someone's home, and bring a small gift when invited to dinner",
+    "Respect personal space in conversations and queuing - cutting in line is considered very rude"
+  ],
+  "health": {
+    "overview": "Canada has excellent universal healthcare, though tourists should have travel insurance. Winnipeg has major hospitals and medical facilities with good emergency services.",
+    "water": "Tap water is safe to drink throughout Winnipeg and meets high quality standards.",
+    "vaccinations": "No special vaccinations required for Winnipeg. Standard travel vaccinations recommended.",
+    "altitude": "Winnipeg is at low elevation with no altitude concerns. Winters are extremely cold with temperatures reaching -45°C and significant wind chill."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 / 204-986-6222",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens can contact the US Consulate General in Calgary at +1-403-266-8962 or the 24/7 US State Department at +1-202-501-4444"
+  },
+  "faq": [
+    {
+      "q": "Is Winnipeg safe for tourists?",
+      "a": "Winnipeg is moderately safe for tourists who take basic urban precautions. Most tourist areas like The Forks and Exchange District are well-maintained, but downtown core and North End areas require extra caution, especially at night."
+    },
+    {
+      "q": "Is Winnipeg safe at night?",
+      "a": "Winnipeg has poor night safety ratings with a score of only 28.75. Downtown areas become significantly less safe after dark with increased crime activity. Use taxis or rideshare services instead of walking, and avoid North End and downtown core areas entirely at night."
+    },
+    {
+      "q": "Is Winnipeg safe for solo female travelers?",
+      "a": "Solo female travelers can visit Winnipeg safely with proper precautions. Stay in safer neighborhoods, avoid isolated areas at night, use rideshare services for evening transportation, and remain aware of your surroundings. The city is generally welcoming to solo travelers."
+    },
+    {
+      "q": "What areas should I avoid in Winnipeg?",
+      "a": "Avoid the North End area entirely, especially neighborhoods like North Point Douglas. Exercise extreme caution in downtown core areas north of City Hall and around Central Park. West End areas like Spence also have elevated crime rates and should be avoided at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Winnipeg?",
+      "a": "Winnipeg Transit is generally safe during daytime hours with good coverage throughout the city. However, exercise caution on evening routes through higher-crime areas. For night transportation, taxis and rideshare services are safer options than public transit."
+    }
+  ],
+  "relatedCities": [
+    "calgary",
+    "edmonton",
+    "vancouver",
+    "toronto",
+    "montreal"
+  ],
+  "_city_id": "winnipeg-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Winnipeg%2C_Manitoba_skyline_%28cropped%29.jpg/1280px-Winnipeg%2C_Manitoba_skyline_%28cropped%29.jpg"
+}

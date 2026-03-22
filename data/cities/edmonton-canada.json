@@ -1,0 +1,164 @@
+{
+  "slug": "edmonton",
+  "name": "Edmonton",
+  "country": "Canada",
+  "countryCode": "CA",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-22",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.0,
+    "scamRisk": 7.2,
+    "womensSafety": 7.8,
+    "nightSafety": 6.8,
+    "transport": 7.0,
+    "naturalHazards": 8.2
+  },
+  "summary": "Edmonton is generally a safe city for tourists with low violent crime rates and good infrastructure. The main concerns are property crime in certain areas, some downtown disorder, and seasonal natural hazards like wildfires and severe weather. Canada's universal healthcare and strong rule of law provide additional security for visitors.",
+  "quickVerdict": "Edmonton is a safe destination for tourists, ranking among Canada's more secure cities. While property crime occurs, violent crime rates are moderate and tourists are rarely targeted. The downtown core can have some social disorder issues, particularly at night, but tourist areas like West Edmonton Mall and the river valley are well-maintained and secure. Solo female travelers generally feel comfortable, though standard urban precautions are recommended. The main safety considerations are seasonal wildfire risks and harsh winter conditions rather than crime concerns.",
+  "neighborhoods": [
+    {
+      "name": "West Edmonton Mall Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Major tourist attraction with excellent security, lighting, and police presence. Shopping complex is well-maintained with private security. Surrounding hotels and restaurants cater to visitors."
+    },
+    {
+      "name": "Whyte Avenue (Old Strathcona)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Entertainment district popular with tourists. Generally safe during day, busy nightlife keeps streets active. Some late-night incidents but good police patrol and lighting."
+    },
+    {
+      "name": "Downtown Core",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Business district safe during day but social disorder increases at night. Homeless population and drug-related issues in some areas. LRT stations can be problematic after hours."
+    },
+    {
+      "name": "River Valley",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Extensive park system with walking trails. Well-used during day with good natural surveillance. Avoid isolated areas after dark. Regular park ranger patrols during operating hours."
+    },
+    {
+      "name": "McCauley/Boyle Street",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Higher concentration of social services and shelters. Above-average property crime and social disorder. Not recommended for tourists, especially those unfamiliar with urban environments."
+    },
+    {
+      "name": "University Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Campus environment with university security. Mix of students and families creates good activity levels. Transit connections good but exercise caution on late-night LRT travel."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Emergency Calls",
+      "risk": "medium",
+      "description": "AI voice cloning technology used to impersonate relatives in distress, requesting money transfers. Growing trend in Alberta with sophisticated technology making calls very convincing.",
+      "howToAvoid": "Never send money without verifying through other contacts. Hang up and call the supposed relative directly. Be aware family social media posts can provide scammer information."
+    },
+    {
+      "name": "Transit Fare Fraud",
+      "risk": "low",
+      "description": "Individuals offering discounted transit passes or fake tickets near LRT stations. May also involve pickpocketing while providing directions or assistance.",
+      "howToAvoid": "Only buy transit passes from official ETS locations, machines, or authorized retailers. Politely decline unsolicited help with transit systems."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "medium",
+      "description": "Fake vacation rental listings or hotel booking sites targeting tourists. Particularly around major events or festivals when accommodation is in high demand.",
+      "howToAvoid": "Book through verified platforms with review systems. Never wire money or pay via untraceable methods. Verify property existence through mapping services."
+    },
+    {
+      "name": "Charity/Survey Scams",
+      "risk": "low",
+      "description": "Individuals claiming to represent charities or conducting surveys to gather personal information or request donations in busy public areas.",
+      "howToAvoid": "Never provide personal information to unsolicited requests. Legitimate charities will have proper identification and won't pressure for immediate donations."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Edmonton is considered one of Canada's safer cities for solo female travelers. The city has good infrastructure, helpful locals, and generally respectful attitudes toward women traveling alone. Most areas are safe during daylight hours, with the main precautions needed around downtown areas at night and on late-night public transport. The healthcare system is excellent and emergency services are reliable.",
+    "tips": [
+      "Stay in well-lit areas and avoid downtown core late at night, particularly around LRT stations",
+      "Use rideshare apps or taxis instead of public transit after 10 PM, especially when alone",
+      "The river valley trails are beautiful but stick to busier sections during daylight hours",
+      "Downtown hotels are generally safe but choose properties in business districts rather than social service areas",
+      "Trust your instincts - Canadians are generally helpful, so don't hesitate to ask for directions from families or business staff"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Edmonton's night safety varies significantly by area. Tourist zones like West Edmonton Mall area and major hotel districts remain well-lit and patrolled. However, the downtown core experiences increased social disorder after business hours, with issues around LRT stations and certain streets. The entertainment district of Whyte Avenue maintains good activity levels but requires standard urban awareness. Recent years have seen increased focus on nighttime economy safety initiatives.",
+    "tips": [
+      "Avoid walking alone after 11 PM in downtown core areas, especially around Churchill LRT station",
+      "Stay on main streets like Jasper Avenue and Whyte Avenue which have better lighting and foot traffic",
+      "Use the 'Stop Request' program on buses after 6 PM to get off at safer locations between official stops",
+      "Keep valuables secure as property crime increases during nighttime hours in busy areas",
+      "Download local rideshare apps as backup transportation, as taxi availability can be limited during peak hours"
+    ]
+  },
+  "transport": {
+    "metro": "Edmonton's LRT system is generally safe with CCTV monitoring, emergency phones, and Transit Peace Officers. However, some stations experience social disorder issues, particularly at night. The system connects major tourist areas effectively. Use emergency alarms if needed and sit near other passengers during off-peak hours.",
+    "rideshare": "Uber and local rideshare services operate reliably throughout the city. Generally safe with standard app security features. Particularly recommended for late-night travel and trips to/from downtown core. Surge pricing during peak times and major events.",
+    "taxis": "Traditional taxis are available but less convenient than rideshare apps. Generally safe and regulated. Some drivers may not accept card payments. More expensive than public transit but recommended for airport transfers and late-night travel.",
+    "tips": "Public transit is generally safe during daylight hours. After dark, consider alternative transport for downtown travel. The Arc card system works across the region. Emergency text service (780-442-4900) available for reporting transit safety concerns."
+  },
+  "customs": [
+    "Canadians are typically polite and helpful - saying 'please,' 'thank you,' and 'sorry' frequently is normal",
+    "Tipping 15-20% is standard at restaurants, bars, and for services like taxis and hair salons",
+    "Canada uses metric system - temperatures in Celsius, distances in kilometres, weights in kilograms",
+    "Remove shoes when entering private homes unless told otherwise",
+    "Canadians generally respect personal space and queue politely - avoid cutting in lines or standing too close"
+  ],
+  "health": {
+    "overview": "Canada has universal healthcare, though tourists should have travel insurance for immediate coverage. Edmonton has excellent medical facilities including the University of Alberta Hospital and Royal Alexandra Hospital. Air quality can be affected by seasonal wildfires but health impacts are usually minimal for short-term visitors.",
+    "water": "Tap water is safe to drink throughout Edmonton and meets high Canadian standards. No need to purchase bottled water for health reasons.",
+    "vaccinations": "No special vaccinations required for Edmonton. Routine vaccines (flu, COVID-19 boosters) recommended as for travel anywhere. Tick-borne illness risk is very low in urban areas.",
+    "altitude": "Edmonton sits at 645m elevation - no altitude concerns. Winter temperatures can drop below -30°C, requiring proper clothing. Summer temperatures are mild and comfortable for most visitors."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 780-423-4567 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A - Regular police handle tourist issues",
+    "usEmbassy": "US Consulate General Calgary - 615 Macleod Trail S.E., 10th Floor, Calgary, AB T2G 4T8. Phone: 403-266-8962 (emergency after hours). Serves Alberta region including Edmonton."
+  },
+  "faq": [
+    {
+      "q": "Is Edmonton safe for tourists?",
+      "a": "Yes, Edmonton is generally very safe for tourists. While property crime exists in some areas, violent crime rates are moderate and tourists are rarely targeted. The city has good infrastructure, reliable emergency services, and helpful locals. Main precautions involve avoiding certain downtown areas at night and being aware of seasonal weather conditions."
+    },
+    {
+      "q": "Is Edmonton safe at night?",
+      "a": "Edmonton's night safety varies by area. Tourist zones like West Edmonton Mall area remain well-patrolled and lit. However, the downtown core can have social disorder issues after business hours. Entertainment areas like Whyte Avenue maintain good activity but require standard urban awareness. Using rideshare or taxis is recommended for late-night travel."
+    },
+    {
+      "q": "Is Edmonton safe for solo female travelers?",
+      "a": "Yes, Edmonton is considered one of Canada's safer cities for solo female travelers. The city has respectful attitudes toward women traveling alone, good infrastructure, and helpful locals. Standard urban precautions are recommended, particularly avoiding downtown areas late at night and using alternative transport after dark."
+    },
+    {
+      "q": "What areas should I avoid in Edmonton?",
+      "a": "Avoid McCauley and Boyle Street neighborhoods which have higher crime rates due to concentration of social services. Downtown core should be approached with caution at night, particularly around LRT stations. Some areas of northeast Edmonton have higher property crime rates. Tourist areas like West Edmonton Mall vicinity and river valley are generally safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Edmonton?",
+      "a": "Yes, Edmonton's public transit is generally safe, especially during daylight hours. The LRT system has CCTV monitoring, emergency phones, and Transit Peace Officers. However, some stations experience social disorder issues at night. Consider rideshare or taxis for late-night downtown travel. Emergency text service available at 780-442-4900."
+    }
+  ],
+  "relatedCities": [
+    "calgary",
+    "vancouver",
+    "winnipeg"
+  ],
+  "_city_id": "edmonton-canada",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alberta_Legislature_Building_at_night.jpg/1280px-Alberta_Legislature_Building_at_night.jpg"
+}
