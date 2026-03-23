@@ -1,0 +1,165 @@
+{
+  "slug": "aspen",
+  "name": "Aspen",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 5.0
+  },
+  "summary": "Aspen is a luxury mountain resort town that generally offers good safety for tourists, despite higher-than-average property crime rates. The city has extremely low violent crime but faces natural hazards including avalanche risks and wildfires.",
+  "quickVerdict": "Aspen is considered safe for tourists overall, with very low violent crime rates and excellent emergency services. While property crime is above national averages, this is primarily due to tourist-heavy areas and expensive items. The biggest risks are natural disasters like avalanches and wildfires, especially during winter ski season and summer months. Solo female travelers generally feel secure in this wealthy, well-monitored resort town.",
+  "neighborhoods": [
+    {
+      "name": "Downtown Core",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The heart of Aspen with high foot traffic, luxury shops, and good police presence. Well-lit streets and busy nightlife areas provide natural surveillance."
+    },
+    {
+      "name": "West End",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic residential area with Victorian homes. Very safe with low crime rates and quiet tree-lined streets popular with families."
+    },
+    {
+      "name": "Red Mountain",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Exclusive hillside neighborhood known as Billionaire's Mountain. Extremely safe due to private security and low crime rates in this affluent area."
+    },
+    {
+      "name": "East Side",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Mix of residential and commercial areas near Aspen Mountain. Generally safe with regular police patrols and good lighting."
+    },
+    {
+      "name": "Snowmass Village",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Resort community adjacent to Aspen with family-friendly atmosphere. Safe but more isolated with limited nighttime transportation options."
+    },
+    {
+      "name": "Airport Business Center",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Industrial and business area near the airport. Safe during day but less activity at night and requires transportation to reach other areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Rental Property Scams",
+      "risk": "medium",
+      "description": "Scammers target tourists with fake vacation rentals or inflated prices for luxury properties in Aspen. These often involve upfront payments for non-existent properties.",
+      "howToAvoid": "Only book through reputable platforms, verify property ownership, never wire money, and be suspicious of deals that seem too good to be true."
+    },
+    {
+      "name": "Ski Equipment Overcharging",
+      "risk": "low",
+      "description": "Some rental shops may overcharge tourists or add unexpected fees for ski equipment rentals, especially during peak season.",
+      "howToAvoid": "Compare prices at multiple shops, read rental agreements carefully, take photos of equipment condition, and ask about all fees upfront."
+    },
+    {
+      "name": "Restaurant Service Fees",
+      "risk": "low",
+      "description": "Some upscale restaurants add automatic service fees or resort fees without clearly disclosing them, particularly for large groups.",
+      "howToAvoid": "Review menus and bills carefully, ask about automatic gratuity policies before ordering, and check if service charges are already included."
+    },
+    {
+      "name": "Parking and Transportation Scams",
+      "risk": "low",
+      "description": "Unofficial parking attendants or fake shuttle services may try to charge tourists for free parking or overcharge for transportation.",
+      "howToAvoid": "Use official parking lots and garages, verify shuttle services through hotels or RFTA, and be cautious of individuals demanding cash for parking."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Aspen is generally very safe for solo female travelers due to its affluent population, strong police presence, and well-lit resort areas. The town has low violent crime rates and a culture that respects women's independence. Most solo female visitors report feeling comfortable walking alone during the day and in busy nightlife areas.",
+    "tips": [
+      "Stay in well-reviewed accommodations in central areas like downtown or West End",
+      "Use RFTA buses and official transportation rather than hitchhiking on mountain roads",
+      "Be aware that some bars and clubs attract party crowds, so trust your instincts about situations",
+      "Keep valuables secure as property crime rates are higher than average",
+      "Have emergency contacts saved and inform someone of your outdoor activity plans"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Aspen's nightlife areas are generally safe with good lighting, active crowds, and police presence downtown. The compact size makes most entertainment areas walkable, and late-night RFTA bus service is available on weekends. However, winter weather can create slippery conditions, and alcohol consumption is common in the resort atmosphere.",
+    "tips": [
+      "Stick to well-lit main streets like Hyman Avenue and the pedestrian mall",
+      "Use RFTA buses or taxis rather than walking alone on icy winter streets",
+      "Be cautious of overconsumption of alcohol at high altitude",
+      "Stay aware of your surroundings in crowded bar areas"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Aspen relies on RFTA buses for public transportation.",
+    "rideshare": "Uber and Lyft operate but availability is limited during peak ski season. High Mountain Taxi provides 24/7 local service and is more reliable.",
+    "taxis": "High Mountain Taxi is the main service (970-925-8294). Generally safe and reliable, though more expensive than other cities.",
+    "tips": "RFTA buses are free, frequent, and connect all ski areas. They run late on weekends and are the best transportation option. Book rides in advance during busy periods."
+  },
+  "customs": [
+    "Aspen has a casual but upscale atmosphere - dress nicely for restaurants but ski gear is acceptable most places",
+    "Tipping 18-20% is standard at restaurants and bars",
+    "Altitude sickness can affect visitors - drink water and limit alcohol initially",
+    "Environmental consciousness is important - respect nature and follow Leave No Trace principles",
+    "The town attracts celebrities and wealthy visitors, but locals appreciate down-to-earth behavior"
+  ],
+  "health": {
+    "overview": "Aspen sits at 7,908 feet elevation, which can cause altitude sickness in some visitors. Healthcare is excellent with Aspen Valley Hospital providing emergency and comprehensive medical services.",
+    "water": "Tap water is safe to drink and of excellent quality from mountain sources.",
+    "vaccinations": "No special vaccinations required. Standard US vaccines are sufficient.",
+    "altitude": "High altitude can cause headaches, nausea, and fatigue. Drink extra water, limit alcohol initially, and ascend gradually if coming from sea level."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "(970) 920-5400",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - domestic destination. For international visitors: nearest major consular services in Denver."
+  },
+  "faq": [
+    {
+      "q": "Is Aspen safe for tourists?",
+      "a": "Yes, Aspen is generally very safe for tourists with low violent crime rates and excellent emergency services. Property crime is higher than average but mainly involves theft from vehicles and vacation rentals. The biggest risks are natural hazards like avalanches and altitude sickness."
+    },
+    {
+      "q": "Is Aspen safe at night?",
+      "a": "Downtown Aspen is safe at night with good lighting, police presence, and active nightlife areas. Stay on main streets, use available transportation, and be cautious of icy winter conditions. The RFTA buses run late on weekends for safe transport."
+    },
+    {
+      "q": "Is Aspen safe for solo female travelers?",
+      "a": "Yes, Aspen is very safe for solo female travelers. The affluent resort atmosphere, low violent crime, and respectful culture make it comfortable for women traveling alone. Use common sense precautions and secure valuables due to higher property crime rates."
+    },
+    {
+      "q": "What areas should I avoid in Aspen?",
+      "a": "There are no particularly dangerous areas in Aspen proper. However, avoid hiking alone in remote backcountry areas, stay away from avalanche zones without proper gear and knowledge, and be cautious around industrial areas near the airport after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Aspen?",
+      "a": "Yes, RFTA buses are very safe, free, and reliable. They connect all ski areas and run frequently during the day with late service on weekends. The buses are well-maintained and monitored. This is actually the preferred way to get around Aspen."
+    }
+  ],
+  "relatedCities": [
+    "vail",
+    "jackson",
+    "park-city",
+    "whistler",
+    "banff"
+  ],
+  "_city_id": "aspen-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Snowbowlaspens.jpg"
+}

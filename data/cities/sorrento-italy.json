@@ -1,0 +1,158 @@
+{
+  "slug": "sorrento",
+  "name": "Sorrento",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.2,
+    "scamRisk": 6.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.5,
+    "transport": 7.2,
+    "naturalHazards": 8.0
+  },
+  "summary": "Sorrento is generally considered one of Italy's safest tourist destinations, with a low crime rate and warm hospitality toward visitors. The charming coastal town faces typical tourist-related petty crimes like pickpocketing and overcharging, but violent crime is rare.",
+  "quickVerdict": "Sorrento stands out as a remarkably safe destination on Italy's Amalfi Coast, consistently rated as one of the country's most secure tourist towns. The city enjoys low crime rates, efficient local police presence, and a tourist-friendly atmosphere that makes it particularly welcoming to solo travelers and families alike. While visitors should remain aware of common tourist scams and exercise standard precautions, most travelers enjoy trouble-free visits to this picturesque coastal gem.",
+  "neighborhoods": [
+    {
+      "name": "Sorrento Centro",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic center around Piazza Tasso is very safe day and night, with excellent lighting, police presence, and bustling activity that provides natural security for tourists."
+    },
+    {
+      "name": "Marina Piccola",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main port area is generally safe with good foot traffic, though visitors should watch belongings near ferry terminals and be cautious of taxi overcharging."
+    },
+    {
+      "name": "Marina Grande",
+      "score": 7.0,
+      "class": "safe",
+      "description": "The fishing village is charming and safe, though it can be quieter in the evenings. Well-lit main paths but some dimmer side streets require basic caution."
+    },
+    {
+      "name": "Sant'Agnello",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Adjacent residential area that's very safe and peaceful, popular with families. Good public transport connections and local amenities."
+    },
+    {
+      "name": "Piano di Sorrento",
+      "score": 7.6,
+      "class": "safe",
+      "description": "Quiet residential area with excellent safety records. More local atmosphere with fewer tourists, making it very secure for accommodation."
+    },
+    {
+      "name": "Meta di Sorrento",
+      "score": 7.4,
+      "class": "safe",
+      "description": "Eastern extension of Sorrento that's safe and well-connected by public transport. Quieter than the center but maintains good security and lighting."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Restaurant Bills",
+      "risk": "medium",
+      "description": "Restaurants near tourist areas may charge excessive cover charges or add items not ordered, particularly around ferry terminals and main squares.",
+      "howToAvoid": "Check menus carefully for cover charges, ask for itemized receipts, and eat where locals dine rather than tourist-heavy areas."
+    },
+    {
+      "name": "Taxi Meter Tricks",
+      "risk": "high",
+      "description": "Taxi drivers may claim broken meters, refuse to use them, or quote fixed rates that are substantially higher than metered fares.",
+      "howToAvoid": "Insist on using the meter, confirm rates beforehand, use official taxi stands, and consider pre-booking transfers with fixed prices."
+    },
+    {
+      "name": "Fake Police Checks",
+      "risk": "low",
+      "description": "Rare instances of people posing as police asking to check wallets or documents for counterfeit money or drugs.",
+      "howToAvoid": "Real Italian police rarely ask for banking information. Request proper ID, offer to go to nearest police station, and never hand over your wallet."
+    },
+    {
+      "name": "Circumvesuviana Train Pickpocketing",
+      "risk": "medium",
+      "description": "The Naples-Sorrento train can be crowded with pickpockets using distraction techniques, especially during peak tourist seasons.",
+      "howToAvoid": "Use money belts, keep valuables in deep pockets, stay alert in crowds, and avoid displaying expensive items or large amounts of cash."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sorrento is exceptionally welcoming to solo female travelers, with many women reporting feeling very safe even walking alone at night. The town has a low crime rate, friendly locals, and a strong tourism infrastructure that provides natural security. While some minor harassment like catcalling may occur, violent crime against women is extremely rare.",
+    "tips": [
+      "Stay in well-lit central areas near Piazza Tasso where there's always activity and people around",
+      "Use official transportation and avoid accepting rides from strangers or unmarked vehicles",
+      "Trust local women's recommendations for restaurants and activities, as they often provide the safest options"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sorrento maintains excellent nighttime safety with well-lit streets, active nightlife areas, and regular police patrols. The city center remains lively until late, providing natural safety through foot traffic. Even quieter residential areas are generally safe, though basic precautions like staying on main roads are advisable.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty side alleys, especially when walking alone",
+      "The area around Piazza Tasso and Corso Italia stays active and safe late into the evening",
+      "Use official taxis from designated stands rather than walking long distances late at night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Sorrento. Local EAVBUS and SITA bus services connect the town and surrounding areas, generally considered safe but can be crowded during peak season.",
+    "rideshare": "Traditional rideshare apps like Uber have limited presence. Most transportation is via official taxis, private transfers, or public buses.",
+    "taxis": "Official taxis are generally safe but watch for overcharging. Use taxis from official stands at Piazza Tasso and the train station, always insist on using the meter or agree on fixed prices beforehand.",
+    "tips": "The Circumvesuviana train to Naples requires extra caution for pickpocketing. Private transfers are often the safest option for airport connections, though more expensive than public transport."
+  },
+  "customs": [
+    "Greet with 'Buongiorno' (morning) or 'Buonasera' (evening) - Italians value polite greetings",
+    "Dress modestly when visiting churches - cover shoulders and knees, avoid shorts and sleeveless tops",
+    "Tipping is not expected but rounding up or leaving 5-10% for good service is appreciated"
+  ],
+  "health": {
+    "overview": "Italy has excellent healthcare standards comparable to other EU countries. Sorrento has local medical facilities and pharmacies, with major hospitals accessible in nearby Naples if needed.",
+    "water": "Tap water is safe to drink throughout Italy including Sorrento. Bottled water is widely available but not necessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Italy. Standard travel vaccinations like Hepatitis A/B may be recommended by your doctor.",
+    "altitude": "Sorrento is at sea level with a Mediterranean climate. Summer temperatures can reach 30°C (86°F), so pack sun protection and stay hydrated."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Rome: +39 06 46741 (24-hour American Citizen Services). Consulate Naples: +39 081 5838111"
+  },
+  "faq": [
+    {
+      "q": "Is Sorrento safe for tourists?",
+      "a": "Yes, Sorrento is considered one of Italy's safest tourist destinations with low crime rates, friendly locals, and good police presence. Most visitors experience no safety issues during their stay."
+    },
+    {
+      "q": "Is Sorrento safe at night?",
+      "a": "Sorrento is very safe at night, especially in the well-lit city center around Piazza Tasso. The area remains active with restaurants and bars, providing natural security through foot traffic."
+    },
+    {
+      "q": "Is Sorrento safe for solo female travelers?",
+      "a": "Absolutely. Sorrento is particularly welcoming to solo female travelers, with many women reporting feeling very safe walking alone. The town has excellent infrastructure for solo travelers and low rates of harassment."
+    },
+    {
+      "q": "What areas should I avoid in Sorrento?",
+      "a": "Sorrento has no particularly dangerous areas. Exercise normal caution in quieter side streets at night and be aware of pickpockets on the crowded Circumvesuviana train to Naples."
+    },
+    {
+      "q": "Is it safe to use public transport in Sorrento?",
+      "a": "Local buses and ferries are generally safe. The Circumvesuviana train to Naples requires extra caution for pickpocketing during crowded times, but incidents are manageable with basic precautions."
+    }
+  ],
+  "relatedCities": [
+    "amalfi",
+    "positano",
+    "capri"
+  ],
+  "_city_id": "sorrento-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/View_of_Sorrento.jpg/1280px-View_of_Sorrento.jpg"
+}

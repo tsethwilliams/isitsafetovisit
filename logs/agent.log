@@ -3001,3 +3001,46 @@
 2026-03-23 18:46:14,782 [INFO] Merged into site data: Park City
 2026-03-23 18:46:14,872 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-23 18:46:14,920 [INFO] Rebuilt sitemap with 622 URLs (476 cities, 140 countries, 6 static)
+2026-03-23 23:05:13,212 [INFO] Agent starting — mode: add
+2026-03-23 23:05:13,252 [INFO] Queue has 114 cities, adding 8
+2026-03-23 23:05:13,252 [INFO] Generating new city profile: Aspen, United States
+2026-03-23 23:06:25,833 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:06:26,231 [INFO] Found Wikipedia image for Aspen
+2026-03-23 23:06:26,232 [INFO] Saved city data: aspen-united-states
+2026-03-23 23:06:26,236 [INFO] Generating new city profile: Zanzibar City, Tanzania
+2026-03-23 23:07:57,980 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:07:58,319 [INFO] Found Wikipedia image for Zanzibar City
+2026-03-23 23:07:58,320 [INFO] Saved city data: zanzibar-city-tanzania
+2026-03-23 23:07:58,324 [INFO] Generating new city profile: Sorrento, Italy
+2026-03-23 23:09:05,974 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:09:06,154 [INFO] Found Wikipedia image for Sorrento
+2026-03-23 23:09:06,155 [INFO] Saved city data: sorrento-italy
+2026-03-23 23:09:06,159 [INFO] Generating new city profile: Guanajuato, Mexico
+2026-03-23 23:10:53,121 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:10:53,268 [INFO] Found Wikipedia image for Guanajuato
+2026-03-23 23:10:53,268 [INFO] Saved city data: guanajuato-mexico
+2026-03-23 23:10:53,272 [INFO] Generating new city profile: Cozumel, Mexico
+2026-03-23 23:12:21,645 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:12:21,849 [INFO] Found Wikipedia image for Cozumel
+2026-03-23 23:12:21,849 [INFO] Saved city data: cozumel-mexico
+2026-03-23 23:12:21,853 [INFO] Generating new city profile: La Fortuna, Costa Rica
+2026-03-23 23:13:58,576 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:13:58,962 [INFO] Saved city data: la-fortuna-costa-rica
+2026-03-23 23:13:58,966 [INFO] Generating new city profile: Manuel Antonio, Costa Rica
+2026-03-23 23:15:33,542 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:15:33,899 [INFO] Found Wikipedia image for Manuel Antonio
+2026-03-23 23:15:33,900 [INFO] Saved city data: manuel-antonio-costa-rica
+2026-03-23 23:15:33,904 [INFO] Generating new city profile: Boquete, Panama
+2026-03-23 23:16:59,867 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 23:17:00,068 [INFO] Found Wikipedia image for Boquete
+2026-03-23 23:17:00,068 [INFO] Saved city data: boquete-panama
+2026-03-23 23:17:00,123 [INFO] Merged into site data: Aspen
+2026-03-23 23:17:00,123 [INFO] Merged into site data: Zanzibar City
+2026-03-23 23:17:00,123 [INFO] Merged into site data: Sorrento
+2026-03-23 23:17:00,123 [INFO] Merged into site data: Guanajuato
+2026-03-23 23:17:00,123 [INFO] Merged into site data: Cozumel
+2026-03-23 23:17:00,124 [INFO] Merged into site data: La Fortuna
+2026-03-23 23:17:00,124 [INFO] Merged into site data: Manuel Antonio
+2026-03-23 23:17:00,124 [INFO] Merged into site data: Boquete
+2026-03-23 23:17:00,222 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-23 23:17:00,273 [INFO] Rebuilt sitemap with 630 URLs (484 cities, 140 countries, 6 static)
