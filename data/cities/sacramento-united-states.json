@@ -1,0 +1,162 @@
+{
+  "slug": "sacramento",
+  "name": "Sacramento",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.2,
+    "violentCrime": 5.8,
+    "scamRisk": 6.8,
+    "womensSafety": 6.5,
+    "nightSafety": 5.7,
+    "transport": 7.2,
+    "naturalHazards": 7.5
+  },
+  "summary": "Sacramento is California's capital city with mixed safety conditions across its 159+ neighborhoods. While many areas are relatively safe for tourists, property crime rates are 51% above the national average, with vehicle theft being particularly problematic. The city offers good public transportation and healthcare infrastructure, though visitors should remain vigilant, especially at night.",
+  "quickVerdict": "Sacramento presents a moderate risk environment for travelers. While the city has excellent healthcare facilities and decent public transportation, crime rates are notably higher than national averages, particularly for property crimes like vehicle theft and burglary. The safety varies dramatically by neighborhood, with upscale areas like Natomas Creek being very safe while areas like Del Paso Heights require extra caution. Natural disaster risks include wildfires, floods, and earthquakes, though these rarely impact tourists directly. Overall, standard urban precautions and neighborhood awareness will help ensure a safe visit.",
+  "neighborhoods": [
+    {
+      "name": "Natomas Creek",
+      "score": 8.8,
+      "class": "safe",
+      "description": "One of Sacramento's safest neighborhoods with excellent amenities and low crime rates. Popular with families and professionals, featuring upscale housing and well-maintained areas."
+    },
+    {
+      "name": "Village 12",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Safe residential area with good infrastructure and low crime statistics. Well-connected to downtown and popular with both locals and visitors seeking secure accommodations."
+    },
+    {
+      "name": "Downtown Sacramento",
+      "score": 6.8,
+      "class": "caution",
+      "description": "The city center offers many attractions but requires extra vigilance, especially at night. Well-patrolled during business hours but can become less safe after dark with increased homeless presence."
+    },
+    {
+      "name": "Midtown Sacramento",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Vibrant cultural district with restaurants and nightlife, but higher crime rates than surrounding areas. Property crime is a concern, especially vehicle break-ins."
+    },
+    {
+      "name": "Del Paso Heights",
+      "score": 3.8,
+      "class": "danger",
+      "description": "One of Sacramento's most challenging neighborhoods with significantly higher crime rates. Visitors should exercise extreme caution and avoid the area, especially at night."
+    },
+    {
+      "name": "Meadowview",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Historically high-crime area that has seen some improvement through community programs, but still requires significant caution. Not recommended for tourist accommodations."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Accommodation Rentals",
+      "risk": "high",
+      "description": "AI-enhanced fake rental listings on platforms like Airbnb with doctored photos and non-existent properties. Scammers request payment via wire transfer or cryptocurrency.",
+      "howToAvoid": "Book through verified platforms, use secure payment methods, verify property existence through multiple sources, and be wary of deals significantly below market rates."
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "medium",
+      "description": "Fake QR codes placed over legitimate ones at restaurants, tourist attractions, or monuments to steal payment information and install malware on phones.",
+      "howToAvoid": "Avoid scanning QR codes that appear to be stickers, type URLs directly into browser instead, and be cautious with codes at tourist hotspots."
+    },
+    {
+      "name": "Digital Arrest Scam",
+      "risk": "medium",
+      "description": "Calls from fake law enforcement claiming illegal items linked to your passport, using AI deepfakes to appear legitimate, demanding payment via cryptocurrency.",
+      "howToAvoid": "Remember real law enforcement never demands payment over the phone or via cryptocurrency. Hang up and contact official agencies directly using verified numbers."
+    },
+    {
+      "name": "Gift Card Lottery Fraud",
+      "risk": "low",
+      "description": "Individuals approach tourists claiming they've won a lottery but need to purchase gift cards to claim the prize, or demand gift cards under duress situations.",
+      "howToAvoid": "Never purchase gift cards as part of any lottery or under pressure. Legitimate lotteries never require upfront payments via gift cards."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sacramento presents moderate safety conditions for solo female travelers. While the city has areas that are quite safe during the day, extra caution is needed at night and in certain neighborhoods. The downtown and midtown areas have decent foot traffic and are generally navigable for solo women, but avoiding isolated areas after dark is crucial. Public transportation is reasonably safe during daytime hours but requires more vigilance at night.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Natomas Creek or Village 12",
+      "Use rideshare services or taxis instead of walking alone at night, especially in downtown areas",
+      "Avoid wearing headphones while walking to maintain awareness of surroundings",
+      "Keep valuables secure and avoid displaying expensive items openly",
+      "Trust your instincts and leave any situation that feels uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sacramento's nighttime safety varies significantly by location and requires considerable caution. Downtown and midtown areas can be challenging after dark due to increased homeless populations and higher crime activity. While some areas remain active with nightlife, property crimes and random incidents have been reported. The city's public transportation reduces service frequency at night, making rideshare options preferable for evening activities.",
+    "tips": [
+      "Stick to well-lit, populated areas with active businesses and foot traffic",
+      "Use rideshare services or taxis rather than walking, especially in downtown areas",
+      "Travel in groups when possible and avoid isolated areas completely",
+      "Be aware of your surroundings and avoid displaying valuables or using phones openly",
+      "Plan your route in advance and inform others of your whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Sacramento Regional Transit (SacRT) operates light rail with three lines covering 43 miles and 54 stations. While generally safe during daytime, some stations can be problematic with homeless populations and occasional incidents. Service runs until midnight on weekdays and 10:30 PM weekends.",
+    "rideshare": "Uber and Lyft are widely available throughout Sacramento and are generally safe and reliable. These services are recommended over walking at night and provide good coverage to most tourist areas. The SmaRT Ride microtransit service also operates as an affordable alternative.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. Use licensed taxi companies and verify driver credentials. Fares should be agreed upon beforehand when not using a meter.",
+    "tips": "Public transit is decent but requires vigilance, especially at night and at certain stations. Rideshare services are your safest bet for evening travel. The new Transit Connect app replaces ZipPass for fare payments."
+  },
+  "customs": [
+    "Tipping is customary - 18-20% at restaurants, $1-2 per drink at bars, and for various service providers",
+    "Americans value personal space - maintain about 2-3 feet distance in conversations",
+    "Firm handshakes with eye contact are the standard greeting; hugging is only among close friends"
+  ],
+  "health": {
+    "overview": "Sacramento has excellent healthcare infrastructure with multiple major hospitals and medical facilities. The UC Davis Medical Center provides world-class care, and there are numerous urgent care clinics throughout the city. No special vaccinations are required for visitors to Sacramento.",
+    "water": "Tap water in Sacramento meets or exceeds all federal safety requirements and is safe to drink. The city regularly tests water quality and publishes annual consumer confidence reports.",
+    "vaccinations": "No special vaccinations required. Standard US travel vaccinations are sufficient. COVID-19 precautions may still apply depending on current health guidelines.",
+    "altitude": "Sacramento sits at sea level with a Mediterranean climate. Summer temperatures can be extremely hot (over 100°F), so heat-related precautions are important June through September."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (916) 875-5000 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "For US citizens: Consular services available in San Francisco at (415) 436-2500. Foreign nationals should contact their respective embassies in San Francisco or Los Angeles."
+  },
+  "faq": [
+    {
+      "q": "Is Sacramento safe for tourists?",
+      "a": "Sacramento has moderate safety conditions with crime rates above national averages, particularly for property crimes. Tourist areas and upscale neighborhoods are generally safe with proper precautions, but visitors should remain vigilant and avoid certain areas at night."
+    },
+    {
+      "q": "Is Sacramento safe at night?",
+      "a": "Nighttime safety varies significantly by neighborhood. Downtown and some areas experience higher crime rates after dark. Stick to well-lit, populated areas, use rideshare services for transportation, and avoid walking alone, especially in isolated areas."
+    },
+    {
+      "q": "Is Sacramento safe for solo female travelers?",
+      "a": "Solo female travelers can visit Sacramento safely with proper precautions. Choose accommodations in safer neighborhoods, use rideshare services at night, stay aware of surroundings, and trust your instincts. Avoid walking alone after dark."
+    },
+    {
+      "q": "What areas should I avoid in Sacramento?",
+      "a": "Del Paso Heights, Meadowview, and parts of North Sacramento have higher crime rates. Even in safer areas, avoid isolated locations at night. Research specific neighborhoods before visiting and stay in well-reviewed accommodations in safer areas like Natomas Creek."
+    },
+    {
+      "q": "Is it safe to use public transport in Sacramento?",
+      "a": "SacRT light rail and buses are generally safe during daytime but require more caution at night. Some stations have issues with homeless populations. Rideshare services are recommended for evening travel and are widely available throughout the city."
+    }
+  ],
+  "relatedCities": [
+    "san-francisco",
+    "los-angeles",
+    "san-diego"
+  ],
+  "_city_id": "sacramento-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sacramento%2C_California_skyline_in_2023.jpg/1280px-Sacramento%2C_California_skyline_in_2023.jpg"
+}

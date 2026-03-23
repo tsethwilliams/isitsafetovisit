@@ -1,0 +1,158 @@
+{
+  "slug": "raleigh",
+  "name": "Raleigh",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.6,
+    "scamRisk": 6.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.8,
+    "naturalHazards": 7.2
+  },
+  "summary": "Raleigh is a generally safe capital city with declining crime rates and strong emergency services. While property crime exists, violent crime remains below state averages, and the city has invested heavily in downtown safety initiatives.",
+  "quickVerdict": "Raleigh offers visitors a relatively safe experience as North Carolina's capital city. Crime statistics show improvement with violent crime down 1% and property crime down 17% in 2025. The downtown entertainment district has enhanced police presence, and the city ranks safer than comparable metropolitan areas. Natural disaster risks are moderate, with occasional severe weather and hurricanes impacting the region. Healthcare facilities are excellent with top-rated hospitals, and public transportation is reliable though limited.",
+  "neighborhoods": [
+    {
+      "name": "North Hills",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Upscale shopping and residential area with excellent safety ratings, well-lit streets, and regular security patrols."
+    },
+    {
+      "name": "Downtown Core",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Business district with good police presence during business hours, though some areas can feel isolated at night."
+    },
+    {
+      "name": "Glenwood South",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Popular nightlife district with enhanced police patrols and hospitality unit oversight, though crowds can lead to minor incidents."
+    },
+    {
+      "name": "Five Points",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood with restaurants and shops, generally safe with good pedestrian activity during evening hours."
+    },
+    {
+      "name": "Southeast Raleigh",
+      "score": 5.8,
+      "class": "caution",
+      "description": "More affordable residential area with higher property crime rates, though violent crime remains relatively low."
+    },
+    {
+      "name": "Southwest Raleigh",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Suburban residential area generally considered the safest part of the city with low crime rates and family-friendly atmosphere."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Vacation Rentals",
+      "risk": "medium",
+      "description": "Scammers post attractive rental properties at unbeatable prices on travel websites that don't actually exist or aren't available for rent.",
+      "howToAvoid": "Book through reputable platforms, verify property existence through multiple sources, and avoid paying full amounts upfront."
+    },
+    {
+      "name": "Travel Deal Fraud",
+      "risk": "medium",
+      "description": "Fraudulent travel websites that look identical to legitimate platforms offering too-good-to-be-true flight and hotel deals.",
+      "howToAvoid": "Use well-known booking sites, verify company credentials, and pay with credit cards that offer fraud protection."
+    },
+    {
+      "name": "Online Shopping Scams",
+      "risk": "high",
+      "description": "Fake online stores and social media ads offering products at extremely low prices that either don't exist or are counterfeit.",
+      "howToAvoid": "Research sellers thoroughly, check website URLs carefully, and use secure payment methods rather than wire transfers."
+    },
+    {
+      "name": "Phone/Email Phishing",
+      "risk": "high",
+      "description": "Scammers posing as government officials, banks, or businesses requesting personal information or payments over the phone or email.",
+      "howToAvoid": "Never give personal information to unsolicited contacts, verify caller identity independently, and contact organizations directly using official numbers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Raleigh is generally considered safe for solo female travelers, with North Carolina providing a respectful environment and lower harassment rates compared to larger metropolitan areas. The city has good public transportation, decent street lighting, and locals who are generally helpful to tourists.",
+    "tips": [
+      "Use rideshare services or taxis rather than walking alone late at night, especially downtown",
+      "Stay in well-lit, populated areas and trust your instincts if something feels off",
+      "Keep emergency contacts and the WRAL weather app for severe weather alerts"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Downtown Raleigh has enhanced safety measures with dedicated police units patrolling the entertainment districts. The Hospitality Unit maintains order in Glenwood South during nightlife hours, and overall incidents in downtown areas decreased 22% in recent years. However, some areas can feel isolated after business hours.",
+    "tips": [
+      "Stay in the main entertainment districts where police presence is strongest",
+      "Use rideshare services or designated drivers rather than walking long distances at night",
+      "Be aware of your surroundings and avoid overly intoxicated individuals in bar areas"
+    ]
+  },
+  "transport": {
+    "metro": "Raleigh doesn't have a metro system, but GoRaleigh operates an extensive bus network with the new R-LINE circulator service connecting downtown attractions. A bus rapid transit line opened in 2025 connecting downtown to New Hope Road.",
+    "rideshare": "Uber and Lyft operate throughout the city with generally reliable service and standard 15-20% tipping expectations. The apps allow easy tip additions and provide safety features.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. RDU Taxi provides airport service at 919-840-7277 with both reservations and on-demand availability.",
+    "tips": "Public transportation is safe and buses have bike racks for multimodal trips. For airport transfers, both GoTriangle Route 100 and rideshare services provide reliable connections to downtown."
+  },
+  "customs": [
+    "Tipping 15-20% is expected at restaurants, bars, and for services like taxis and hotel staff",
+    "Americans value punctuality and direct communication, with casual first-name usage common even in business settings",
+    "Personal space is important - maintain arm's length distance in conversations and avoid touching without permission"
+  ],
+  "health": {
+    "overview": "Raleigh has excellent healthcare with top-rated facilities including Duke University Hospital (ranked #1 in North Carolina), UNC Health Rex (#2 in state), and WakeMed Health System. The area hosts some of the nation's leading medical research institutions.",
+    "water": "Tap water is safe to drink throughout the city and meets all federal safety standards.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare protocols apply.",
+    "altitude": "Raleigh sits at low elevation with a humid subtropical climate. Summer temperatures can reach the 90s°F with high humidity, while winters are mild with occasional snow."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 919-829-1911 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "As a US city, contact local consulates for other countries or the State Department at 1-888-407-4747 for US citizens abroad services"
+  },
+  "faq": [
+    {
+      "q": "Is Raleigh safe for tourists?",
+      "a": "Yes, Raleigh is generally safe for tourists with declining crime rates and strong emergency services. The city ranks safer than many comparable metropolitan areas, though basic precautions should still be taken."
+    },
+    {
+      "q": "Is Raleigh safe at night?",
+      "a": "Downtown areas have enhanced police presence and hospitality units, making main entertainment districts relatively safe. However, avoid isolated areas and use rideshare services for transportation after dark."
+    },
+    {
+      "q": "Is Raleigh safe for solo female travelers?",
+      "a": "Yes, Raleigh is considered safe for solo female travelers with respectful local culture and good infrastructure. Use standard precautions like staying in populated areas and using rideshare services at night."
+    },
+    {
+      "q": "What areas should I avoid in Raleigh?",
+      "a": "Southeast Raleigh has higher property crime rates, though violent crime remains low. Generally avoid isolated areas downtown after business hours and use caution in parking garages late at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Raleigh?",
+      "a": "Yes, GoRaleigh buses are safe and reliable with good coverage throughout the city. The new R-LINE downtown circulator and bus rapid transit provide efficient connections to major attractions."
+    }
+  ],
+  "relatedCities": [
+    "charlotte",
+    "atlanta",
+    "nashville"
+  ],
+  "_city_id": "raleigh-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raleigh_Skyline.jpg/1280px-Raleigh_Skyline.jpg"
+}

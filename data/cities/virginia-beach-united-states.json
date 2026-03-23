@@ -1,0 +1,162 @@
+{
+  "slug": "virginia-beach",
+  "name": "Virginia Beach",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.2,
+    "scamRisk": 6.5,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.2,
+    "naturalHazards": 6.6
+  },
+  "summary": "Virginia Beach is one of America's safer coastal destinations with excellent violent crime rates and strong tourist infrastructure. While petty crime and natural hazards present moderate concerns, the city maintains a welcoming atmosphere for visitors with solid police presence and healthcare facilities.",
+  "quickVerdict": "Virginia Beach earns its reputation as a family-friendly coastal destination with impressive safety statistics. Violent crime hit a five-year low in 2025, making it significantly safer than national averages. The main challenges facing visitors are occasional flooding, petty theft in tourist areas, and rental scams. Overall, tourists can feel confident exploring this seaside city with basic precautions.",
+  "neighborhoods": [
+    {
+      "name": "Oceanfront/Boardwalk",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The heart of Virginia Beach tourism with high police visibility and excellent infrastructure. Well-patrolled beaches and boardwalk with emergency services readily available. Tourist-focused businesses maintain good security standards."
+    },
+    {
+      "name": "Town Center",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern business and shopping district with upscale hotels and restaurants. Well-lit streets and active nightlife with good security presence. Popular with business travelers and families."
+    },
+    {
+      "name": "Hilltop",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Diverse commercial area with shopping centers and restaurants. Generally safe during daylight hours with moderate traffic. Some areas may have less foot traffic after dark."
+    },
+    {
+      "name": "Kempsville",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Residential and commercial mix in central Virginia Beach. Some areas experience higher property crime rates. Exercise standard urban precautions, especially around shopping centers at night."
+    },
+    {
+      "name": "Bayside",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Mixed-income residential area with some commercial strips. Crime rates vary by specific location. More isolated areas may have longer emergency response times."
+    },
+    {
+      "name": "Lynnhaven",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Shopping and dining area that sees some petty crime. Generally safe during business hours but can be quieter at night. Stay aware of surroundings in parking areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Scam",
+      "risk": "high",
+      "description": "Fake beach house or condo rentals advertised at below-market prices. Scammers demand upfront payment and disappear, leaving tourists without accommodation upon arrival.",
+      "howToAvoid": "Only book through reputable platforms like Airbnb or VRBO. Never wire money or pay via gift cards. Research the property address and verify with legitimate rental agencies."
+    },
+    {
+      "name": "Timeshare Telemarketing",
+      "risk": "medium",
+      "description": "Fraudulent calls claiming to be from legitimate Virginia Beach resorts offering free stays in exchange for credit card information or attendance at presentations.",
+      "howToAvoid": "Never give credit card details over unsolicited calls. Legitimate resorts don't require payment for promotional offers. Contact resorts directly to verify any offers."
+    },
+    {
+      "name": "Beach Equipment Overcharging",
+      "risk": "medium",
+      "description": "Inflated prices for beach chair and umbrella rentals, particularly targeting tourists unfamiliar with standard rates. Some operators may charge hidden fees.",
+      "howToAvoid": "Research typical rental prices online before visiting. Ask for written price quotes and clarify all fees upfront. Consider bringing your own beach equipment."
+    },
+    {
+      "name": "Parking Meter Scam",
+      "risk": "low",
+      "description": "Fake QR codes placed over legitimate parking meter payment options directing users to fraudulent payment sites that steal credit card information.",
+      "howToAvoid": "Use official parking apps or pay at the meter directly with coins or cards. Be suspicious of QR codes that seem hastily applied or different from others in the area."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Virginia Beach is considered very safe for solo female travelers with low violent crime rates and a family-friendly atmosphere. The oceanfront area has excellent visibility and police presence, while local residents are generally helpful and welcoming. Most areas feel safe to explore during daylight hours.",
+    "tips": [
+      "Stay in well-lit areas along the boardwalk and oceanfront after dark",
+      "Use rideshare services rather than walking alone at night in less populated areas",
+      "Trust your instincts if a situation feels uncomfortable and seek help at nearby businesses",
+      "Keep valuables secure and avoid displaying expensive items on the beach"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Virginia Beach nightlife is generally safe with good lighting and security in main tourist areas. The oceanfront and Town Center districts maintain active nightlife scenes with visible security presence. However, some residential areas may have limited lighting and foot traffic after dark.",
+    "tips": [
+      "Stick to main tourist areas like the boardwalk and Town Center for evening activities",
+      "Use rideshare services or taxis instead of walking long distances at night",
+      "Travel in groups when possible and avoid isolated areas after dark",
+      "Be aware that some beach areas may have limited lighting away from the main boardwalk"
+    ]
+  },
+  "transport": {
+    "metro": "Virginia Beach does not have a metro system. Public transportation consists primarily of Hampton Roads Transit (HRT) buses and seasonal trolley services like the VB Wave that serves tourist areas during warmer months.",
+    "rideshare": "Uber and Lyft operate throughout Virginia Beach with good availability, especially in tourist areas. Both services include safety features like GPS tracking and emergency buttons. Rideshare is often the most convenient option for tourists.",
+    "taxis": "Traditional taxis are available but less common than rideshare options. They can be hailed on the street in busy areas or called directly. Fares are regulated and based on meter readings.",
+    "tips": "Public transportation is limited, so having a car or using rideshare is recommended. The VB Wave trolley is useful for oceanfront areas during tourist season but has limited coverage."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants and bars is standard practice",
+    "Beach alcohol consumption is prohibited - drinks must be enjoyed at licensed establishments",
+    "Respect beach and marine life - do not disturb nesting sea turtles or remove shells from protected areas"
+  ],
+  "health": {
+    "overview": "Virginia Beach has excellent healthcare facilities including Sentara Virginia Beach General Hospital with Level III Trauma Center capabilities. Healthcare quality meets high U.S. standards with modern emergency services and specialized care available.",
+    "water": "Tap water is safe to drink and meets all federal safety standards. The 2022 Water Quality Report shows all categories far exceed requirements. Avoid drinking water during any flooding events until authorities confirm safety.",
+    "vaccinations": "No special vaccinations required for domestic U.S. travel. Standard travel insurance is recommended to cover any unexpected medical costs during your visit.",
+    "altitude": "Virginia Beach is at sea level with a humid subtropical climate. Summers can be hot and humid with temperatures reaching the upper 80s-90s F. Stay hydrated and use sunscreen regularly."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 757-385-5000 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "For international visitors: Contact the nearest consulate in Washington D.C. at +1-202-501-4444 for emergencies, or 1-888-407-4747 from within the U.S."
+  },
+  "faq": [
+    {
+      "q": "Is Virginia Beach safe for tourists?",
+      "a": "Yes, Virginia Beach is very safe for tourists. Violent crime rates are 76% lower than the national average, and the city has strong police presence in tourist areas. The oceanfront and main attractions are well-patrolled and tourist-friendly."
+    },
+    {
+      "q": "Is Virginia Beach safe at night?",
+      "a": "Virginia Beach is generally safe at night in main tourist areas like the boardwalk and Town Center. These areas have good lighting and active foot traffic. However, avoid isolated residential areas after dark and consider using rideshare services for longer distances."
+    },
+    {
+      "q": "Is Virginia Beach safe for solo female travelers?",
+      "a": "Yes, Virginia Beach is excellent for solo female travelers. It has low crime rates, friendly locals, and strong tourist infrastructure. The family-friendly atmosphere and high police visibility in tourist areas make it one of the safer U.S. beach destinations for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Virginia Beach?",
+      "a": "No areas in Virginia Beach are particularly dangerous, but exercise standard caution in less touristy neighborhoods like parts of Kempsville and Bayside at night. Focus your activities around the oceanfront, Town Center, and established tourist areas for the safest experience."
+    },
+    {
+      "q": "Is it safe to use public transport in Virginia Beach?",
+      "a": "Public transport in Virginia Beach is safe but limited. HRT buses operate year-round with good safety records, and the seasonal VB Wave trolley serves tourist areas well. However, public transport coverage is sparse, so most visitors rely on cars or rideshare services."
+    }
+  ],
+  "relatedCities": [
+    "washington-dc",
+    "richmond",
+    "norfolk",
+    "baltimore",
+    "atlanta"
+  ],
+  "_city_id": "virginia-beach-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/VB_Oceanfront.jpg/1280px-VB_Oceanfront.jpg"
+}

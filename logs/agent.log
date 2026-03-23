@@ -2914,3 +2914,47 @@
 2026-03-23 08:01:14,873 [INFO] Merged into site data: Albuquerque
 2026-03-23 08:01:14,957 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-23 08:01:15,003 [INFO] Rebuilt sitemap with 606 URLs (460 cities, 140 countries, 6 static)
+2026-03-23 11:57:54,410 [INFO] Agent starting — mode: add
+2026-03-23 11:57:54,451 [INFO] Queue has 130 cities, adding 8
+2026-03-23 11:57:54,451 [INFO] Generating new city profile: Sacramento, United States
+2026-03-23 11:59:19,623 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 11:59:19,871 [INFO] Found Wikipedia image for Sacramento
+2026-03-23 11:59:19,872 [INFO] Saved city data: sacramento-united-states
+2026-03-23 11:59:19,876 [INFO] Generating new city profile: Raleigh, United States
+2026-03-23 12:00:38,531 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:00:38,611 [INFO] Found Wikipedia image for Raleigh
+2026-03-23 12:00:38,612 [INFO] Saved city data: raleigh-united-states
+2026-03-23 12:00:38,616 [INFO] Generating new city profile: Virginia Beach, United States
+2026-03-23 12:01:53,502 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:01:53,586 [INFO] Found Wikipedia image for Virginia Beach
+2026-03-23 12:01:53,587 [INFO] Saved city data: virginia-beach-united-states
+2026-03-23 12:01:53,591 [INFO] Generating new city profile: Long Beach, United States
+2026-03-23 12:03:27,957 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:03:28,063 [INFO] Found Wikipedia image for Long Beach
+2026-03-23 12:03:28,064 [INFO] Saved city data: long-beach-united-states
+2026-03-23 12:03:28,068 [INFO] Generating new city profile: Colorado Springs, United States
+2026-03-23 12:04:51,592 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:04:51,708 [INFO] Found Wikipedia image for Colorado Springs
+2026-03-23 12:04:51,709 [INFO] Saved city data: colorado-springs-united-states
+2026-03-23 12:04:51,713 [INFO] Generating new city profile: Omaha, United States
+2026-03-23 12:06:04,375 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:06:04,754 [INFO] Found Wikipedia image for Omaha
+2026-03-23 12:06:04,754 [INFO] Saved city data: omaha-united-states
+2026-03-23 12:06:04,758 [INFO] Generating new city profile: Cincinnati, United States
+2026-03-23 12:07:34,149 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:07:35,131 [INFO] Found Wikipedia image for Cincinnati
+2026-03-23 12:07:35,132 [INFO] Saved city data: cincinnati-united-states
+2026-03-23 12:07:35,136 [INFO] Generating new city profile: St. Louis, United States
+2026-03-23 12:08:48,144 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 12:08:48,330 [INFO] Found Wikipedia image for St. Louis
+2026-03-23 12:08:48,330 [INFO] Saved city data: st.-louis-united-states
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Sacramento
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Raleigh
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Virginia Beach
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Long Beach
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Colorado Springs
+2026-03-23 12:08:48,384 [INFO] Merged into site data: Omaha
+2026-03-23 12:08:48,385 [INFO] Merged into site data: Cincinnati
+2026-03-23 12:08:48,385 [INFO] Merged into site data: St. Louis
+2026-03-23 12:08:48,481 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-23 12:08:48,530 [INFO] Rebuilt sitemap with 614 URLs (468 cities, 140 countries, 6 static)

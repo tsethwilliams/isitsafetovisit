@@ -1,0 +1,162 @@
+{
+  "slug": "st.-louis",
+  "name": "St. Louis",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 5.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 4.0,
+    "scamRisk": 6.0,
+    "womensSafety": 5.5,
+    "nightSafety": 4.5,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "St. Louis has seen dramatic improvements in public safety, with homicides reaching an 11-year low in 2024 and violent crime dropping 16% in 2025. However, the city still faces safety challenges, particularly in certain neighborhoods, requiring visitors to exercise caution and stick to tourist areas.",
+  "quickVerdict": "St. Louis is experiencing a positive transformation in public safety, with crime rates dropping significantly from their peak years. Tourist areas like downtown, the Central West End, and Forest Park are generally safe during daytime visits. However, visitors should remain cautious at night, avoid certain neighborhoods, and stay aware of their surroundings. The city's improving crime statistics, quality healthcare system, and strong tourist infrastructure make it a manageable destination for cautious travelers.",
+  "neighborhoods": [
+    {
+      "name": "Central West End",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Medical district with hospitals, restaurants, and nightlife. Well-patrolled area with good foot traffic, considered one of the safer neighborhoods for tourists."
+    },
+    {
+      "name": "Downtown & Gateway Arch",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist hub with major attractions, hotels, and business district. Generally safe during day but becomes quieter at night. Stay near main tourist corridor."
+    },
+    {
+      "name": "Forest Park Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Home to major attractions like the Zoo, Art Museum, and Science Center. Well-maintained area with regular security presence and family-friendly atmosphere."
+    },
+    {
+      "name": "Soulard",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Historic entertainment district with bars and restaurants. Active nightlife scene but can have issues with impaired judgment and late-night incidents."
+    },
+    {
+      "name": "North St. Louis",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Area heavily impacted by crime and poverty. Avoid traveling here, especially after dark. Most violent crime statistics come from this region."
+    },
+    {
+      "name": "East St. Louis",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Actually located in Illinois across the river, often confused with St. Louis proper. Has extremely high crime rates and should be completely avoided by tourists."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Travel Deal Websites",
+      "risk": "medium",
+      "description": "Fraudulent booking sites offering deals too good to be true, especially around major events",
+      "howToAvoid": "Use only reputable booking platforms, verify hotel details directly with property, be wary of unsolicited travel offers"
+    },
+    {
+      "name": "Parking Lot Attendant Scam",
+      "risk": "medium",
+      "description": "Individuals posing as parking attendants collecting fees for free or already-paid parking spaces",
+      "howToAvoid": "Only pay at official meters or staffed lots, verify parking requirements with venue staff"
+    },
+    {
+      "name": "Gift Card Payment Scams",
+      "risk": "high",
+      "description": "Scammers demanding payment via gift cards for fake services, fines, or emergency situations",
+      "howToAvoid": "Never pay legitimate businesses or government agencies with gift cards, verify all demands independently"
+    },
+    {
+      "name": "Charity Donation Fraud",
+      "risk": "medium",
+      "description": "Especially prevalent after natural disasters, fake charities solicit cash donations on the street",
+      "howToAvoid": "Research organizations online before donating, avoid giving cash to individuals, donate through official channels only"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers can visit St. Louis safely with proper precautions. The city ranks lower on safety indexes for women, but tourist areas during daytime are generally secure. Crime has been decreasing significantly, though female travelers should remain vigilant, particularly at night and in certain neighborhoods.",
+    "tips": [
+      "Stay in well-lit, populated areas like the Central West End and downtown tourist zones",
+      "Use rideshare apps rather than walking alone at night or taking street taxis",
+      "Book hotels in safer neighborhoods near major attractions rather than budget motels on outskirts",
+      "Trust your instincts and avoid any situation that feels uncomfortable",
+      "Keep valuables secure and avoid displaying expensive items in public"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in St. Louis varies significantly by location. Downtown becomes quieter after business hours, while entertainment districts like Soulard maintain activity but require caution. Many locals recommend avoiding walking alone at night, even in relatively safe areas, due to the city's crime reputation.",
+    "tips": [
+      "Use rideshare services or taxis rather than walking after dark",
+      "Stay in well-lit areas with active nightlife and security presence",
+      "Avoid dark blocks without nighttime businesses or foot traffic",
+      "Don't venture north of Washington Avenue or into residential areas at night",
+      "Plan evening activities in groups when possible and inform others of your plans"
+    ]
+  },
+  "transport": {
+    "metro": "MetroLink light rail system is currently undergoing major security upgrades with turnstiles being installed at all stations by 2026. The system connects major tourist areas but requires caution during off-peak hours.",
+    "rideshare": "Uber and Lyft are widely available and considered the safest transport option, especially at night. Via Metro STL offers on-demand shared rides in select zones for $2 or less.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. Use only official taxi companies and ensure the meter is running.",
+    "tips": "Public transit is improving with new security measures, but rideshare remains the recommended option for tourists, particularly after dark or when traveling between distant attractions."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants and bars is standard practice",
+    "St. Louis is known for its friendly Midwestern hospitality and casual atmosphere",
+    "The city has strong local pride in its sports teams (Cardinals, Blues) and barbecue culture"
+  ],
+  "health": {
+    "overview": "St. Louis has excellent healthcare facilities with several top-ranked hospitals including Barnes-Jewish Hospital, Mercy Hospital St. Louis, and Washington University Medical Center, all receiving national recognition for quality care.",
+    "water": "Tap water is safe to drink and meets all federal standards. Occasional boil water advisories may be issued during infrastructure maintenance.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard US healthcare protocols apply.",
+    "altitude": "Located at low elevation (465 feet) with no altitude-related health concerns. Climate is continental with hot, humid summers and cold winters."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 314-231-1212 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US destination. Consulates available for foreign nationals: various consulates in Chicago, IL approximately 300 miles away."
+  },
+  "faq": [
+    {
+      "q": "Is St. Louis safe for tourists?",
+      "a": "Yes, with proper precautions. Tourist areas are generally safe during the day, and crime has been decreasing significantly. Stick to main attractions, avoid certain neighborhoods, and exercise normal urban caution."
+    },
+    {
+      "q": "Is St. Louis safe at night?",
+      "a": "Nighttime safety varies by location. Entertainment districts with active nightlife are relatively safe, but avoid walking alone after dark. Use rideshare services and stay in well-lit, populated areas."
+    },
+    {
+      "q": "Is St. Louis safe for solo female travelers?",
+      "a": "Solo female travelers can visit safely with precautions. Stay in tourist areas, use rideshare for transportation, book accommodations in safer neighborhoods, and trust your instincts about uncomfortable situations."
+    },
+    {
+      "q": "What areas should I avoid in St. Louis?",
+      "a": "Avoid North St. Louis and East St. Louis (actually in Illinois). Also be cautious in areas north of Washington Avenue downtown, and don't venture into unfamiliar residential neighborhoods, especially at night."
+    },
+    {
+      "q": "Is it safe to use public transport in St. Louis?",
+      "a": "MetroLink is undergoing security improvements with new turnstiles and monitoring systems. While safer than before, rideshare services remain the preferred option for tourists, especially during off-peak hours."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "kansas-city",
+    "nashville"
+  ],
+  "_city_id": "st.-louis-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Runner_Fountain_and_Old_Courthouse_and_Arch_%285618845531%29.jpg/1280px-Runner_Fountain_and_Old_Courthouse_and_Arch_%285618845531%29.jpg"
+}

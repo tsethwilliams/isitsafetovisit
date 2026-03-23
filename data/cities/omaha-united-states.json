@@ -1,0 +1,156 @@
+{
+  "slug": "omaha",
+  "name": "Omaha",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 7.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.8,
+    "naturalHazards": 7.0
+  },
+  "summary": "Omaha is a generally safe city with a moderate crime rate that's higher than the Nebraska average but comparable to many US cities of similar size. While property crime and auto theft are concerns, violent crime rates are manageable with basic precautions. The city has experienced a decline in crime in recent years, with strong community policing initiatives.",
+  "quickVerdict": "Omaha offers a welcoming Midwest experience with good infrastructure and friendly locals, but visitors should be aware of the higher-than-average property crime rates. The downtown Old Market area is generally safe during the day and evening with adequate lighting and police presence. Western and suburban areas like Dundee, Aksarben, and Benson offer safer options for stays. Basic urban precautions are recommended, especially regarding vehicle security and awareness in downtown areas after dark.",
+  "neighborhoods": [
+    {
+      "name": "Dundee",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Historic neighborhood known for its walkable streets, charming Tudor and Colonial homes, and strong community feel. Home to Warren Buffett and considered one of Omaha's safest areas with low crime rates and good lighting."
+    },
+    {
+      "name": "West Omaha",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Suburban area with family-friendly neighborhoods like Millard and Elkhorn. Features excellent schools, newer developments, and lower crime rates. Popular with families and young professionals."
+    },
+    {
+      "name": "Aksarben Village",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern mixed-use development near University of Nebraska Omaha. Well-maintained area with upscale apartments, shops, and restaurants. Good security and regular foot traffic create a safe environment."
+    },
+    {
+      "name": "Old Market Downtown",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Historic cobblestone entertainment district with restaurants, bars, and shops. Generally safe during daylight hours but requires caution at night. Higher foot traffic and police presence during peak hours."
+    },
+    {
+      "name": "Benson",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Hip neighborhood undergoing gentrification with art venues, breweries, and nightlife. While improving, some areas still have higher crime rates. Exercise caution walking alone at night."
+    },
+    {
+      "name": "North Omaha",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Area with higher rates of violent and property crime. Many locals advise avoiding this area, especially at night. Limited tourist attractions make it easy to avoid for most visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fraudulent City Invoice Emails",
+      "risk": "medium",
+      "description": "Scammers send fake invoices claiming to be from the City of Omaha requesting payment.",
+      "howToAvoid": "City of Omaha sends all official correspondence via postal mail only. Never click links or respond to suspicious emails claiming to be from city offices."
+    },
+    {
+      "name": "Vehicle Break-ins and Auto Theft",
+      "risk": "high",
+      "description": "Omaha has one of the highest motor vehicle theft rates in the nation. Car break-ins are common in downtown areas and parking lots.",
+      "howToAvoid": "Never leave valuables visible in vehicles, park in well-lit areas, use secure parking when available, and always lock your car."
+    },
+    {
+      "name": "Grandparent and Utility Scams",
+      "risk": "medium",
+      "description": "Common phone scams targeting locals where criminals pose as relatives in distress or utility companies demanding immediate payment.",
+      "howToAvoid": "Hang up and call back using official numbers. Never provide personal information or send money based on phone calls alone. Verify with family members directly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Omaha is generally welcoming to solo female travelers with friendly locals and good infrastructure. However, sexual assault rates are above the national average, requiring extra vigilance especially in nightlife areas. Stick to well-populated areas and avoid walking alone after dark downtown.",
+    "tips": [
+      "Stay in safer neighborhoods like Dundee, West Omaha, or Aksarben Village",
+      "Use rideshare services or taxis instead of walking alone at night",
+      "Be extra cautious in downtown areas after dark, especially near the river",
+      "Trust your instincts and leave any situation that makes you uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Omaha's nightlife is centered in Old Market, Benson, and Midtown with generally adequate police presence. However, caution is needed due to higher crime rates after dark. Areas near the Missouri River and certain downtown streets should be avoided at night.",
+    "tips": [
+      "Stay in well-lit, busy areas with good foot traffic",
+      "Use rideshare services for late-night transportation",
+      "Don't walk alone near the riverfront or poorly lit areas",
+      "Plan your route home in advance and stick with friends when possible"
+    ]
+  },
+  "transport": {
+    "metro": "Omaha Metro provides local bus routes and express services along Dodge Street. Generally safe but limited coverage. Service can be infrequent in evenings and weekends.",
+    "rideshare": "Uber and Lyft are readily available throughout Omaha with good coverage in downtown and suburban areas. Reliable option for late-night travel and airport connections.",
+    "taxis": "Traditional taxis available but less common than rideshares. Use official taxi companies and verify rates upfront to avoid overcharging.",
+    "tips": "Rideshare is your best bet for safe, reliable transportation, especially at night. Public transit is limited but acceptable during daytime hours."
+  },
+  "customs": [
+    "Nebraskans are known for being friendly and helpful - don't hesitate to ask locals for directions or recommendations",
+    "Tipping 18-20% is standard at restaurants and bars in Omaha",
+    "The famous Runza sandwich is a local specialty - trying one shows appreciation for local culture"
+  ],
+  "health": {
+    "overview": "Omaha has excellent healthcare facilities including the University of Nebraska Medical Center, one of the region's top medical facilities. Healthcare standards are high with good emergency services.",
+    "water": "Tap water is safe to drink and meets all federal standards. The 2020 amoeba incident was related to river water, not municipal supply.",
+    "vaccinations": "No special vaccinations required. Standard US immunizations recommended.",
+    "altitude": "Omaha sits at about 1,000 feet elevation with a continental climate. Summers can be hot and humid, winters cold with variable snowfall. Severe weather including tornadoes possible in spring and summer."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / (402) 444-5600 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No embassy in Omaha - nearest major consulate services in Chicago, IL or Kansas City, MO. USCIS field office located at 1717 Avenue H, Omaha for immigration services."
+  },
+  "faq": [
+    {
+      "q": "Is Omaha safe for tourists?",
+      "a": "Yes, Omaha is generally safe for tourists who take basic urban precautions. Stick to popular areas like the Old Market, Dundee, and western suburbs. Crime rates are higher than the Nebraska average but manageable with awareness."
+    },
+    {
+      "q": "Is Omaha safe at night?",
+      "a": "Omaha requires caution at night, especially downtown and near the riverfront. The Old Market has good lighting and police presence but avoid walking alone. Use rideshare services and stay in groups when possible."
+    },
+    {
+      "q": "Is Omaha safe for solo female travelers?",
+      "a": "Omaha can be safe for solo women with proper precautions. Sexual assault rates are above average so extra vigilance is needed. Stay in safer neighborhoods, use rideshare at night, and trust your instincts about situations and people."
+    },
+    {
+      "q": "What areas should I avoid in Omaha?",
+      "a": "North Omaha has higher crime rates and is best avoided, especially at night. Downtown riverfront areas should be avoided after dark. Some parts of South Omaha also have higher crime rates but contain fewer tourist attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Omaha?",
+      "a": "Omaha Metro buses are reasonably safe during daytime but service is limited. Rideshare services like Uber and Lyft are more reliable and safer, especially for evening transportation and airport connections."
+    }
+  ],
+  "relatedCities": [
+    "kansas-city",
+    "minneapolis",
+    "chicago",
+    "denver",
+    "milwaukee"
+  ],
+  "_city_id": "omaha-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/City_of_Omaha%2C_Nebraska_Skyline_on_the_Missouri_River_%2830899969517%29.jpg/1280px-City_of_Omaha%2C_Nebraska_Skyline_on_the_Missouri_River_%2830899969517%29.jpg"
+}

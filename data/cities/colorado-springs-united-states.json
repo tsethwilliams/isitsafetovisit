@@ -1,0 +1,166 @@
+{
+  "slug": "colorado-springs",
+  "name": "Colorado Springs",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.5,
+    "scamRisk": 6.0,
+    "womensSafety": 6.2,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 7.4
+  },
+  "summary": "Colorado Springs is generally safe for tourists but experiences higher crime rates than the national average, particularly property crime including vehicle theft. The city offers excellent healthcare facilities and natural beauty, though visitors should be aware of elevated risks in certain neighborhoods.",
+  "quickVerdict": "Colorado Springs presents a mixed safety picture for tourists. While it's a beautiful mountain city with quality healthcare and outdoor attractions, crime statistics show it ranks in the lower 12th percentile for safety among US cities. Property crimes, especially vehicle theft, are notably high, and some areas require extra caution, particularly at night. The public transportation system has safety concerns for solo female travelers, but rideshare services are widely available. Natural disasters like wildfires and severe weather pose moderate risks. With proper precautions and awareness of higher-risk areas, most visitors can enjoy the city safely.",
+  "neighborhoods": [
+    {
+      "name": "Briargate",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Affluent northern suburb with A+ safety ratings, 87% lower crime than city average, and 75% lower than national average. Excellent for families and solo travelers."
+    },
+    {
+      "name": "Northwest Colorado Springs",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-maintained area with crime rates 74% lower than city average and 48% lower than national average. Safe for tourists with good dining and shopping."
+    },
+    {
+      "name": "Northeast Colorado Springs",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Residential area with crime rates 73% lower than citywide average. Considered one of the safest parts of the city for visitors."
+    },
+    {
+      "name": "Downtown Colorado Springs",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Main tourist area with concentrated nightlife and attractions. Generally safe during day but requires caution at night, especially around Tejon Street."
+    },
+    {
+      "name": "Old Colorado City",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic tourist area with charming shops and restaurants. Relatively safe but can have petty crime issues, particularly targeting tourists."
+    },
+    {
+      "name": "Southeast Colorado Springs",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Higher crime area with elevated property crime and some violent crime concerns. Tourists should exercise extra caution, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourism Package Scams",
+      "risk": "medium",
+      "description": "Scammers offer overpriced tourist packages for Pikes Peak, Garden of the Gods, or other attractions that don't deliver promised services.",
+      "howToAvoid": "Book tours only through verified companies and official visitor centers. Check reviews and avoid street solicitors offering deals."
+    },
+    {
+      "name": "Vehicle Rental Damage Claims",
+      "risk": "high",
+      "description": "False damage claims on rental cars, especially given Colorado Springs' high vehicle theft rates and tourist traffic.",
+      "howToAvoid": "Photograph rental vehicles thoroughly before and after use. Insist on written contracts and document any pre-existing damage."
+    },
+    {
+      "name": "Fake Charity Solicitations",
+      "risk": "medium",
+      "description": "Scammers pose as local charities or disaster relief organizations, particularly common given Colorado's wildfire history.",
+      "howToAvoid": "Never give money to unsolicited door-to-door or street solicitors. Verify charities through official databases before donating."
+    },
+    {
+      "name": "AI-Generated Voice Clone Scams",
+      "risk": "high",
+      "description": "Growing 2026 trend where scammers use AI to clone voices from social media, targeting tourists with fake emergency calls from family.",
+      "howToAvoid": "Verify emergency calls through a second communication channel. Be skeptical of urgent money requests and never send cryptocurrency or gift cards."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers should exercise moderate caution in Colorado Springs. While many areas are safe during the day, the city's crime statistics show elevated risks, particularly for property crime. Public transportation has noted safety concerns for women traveling alone, and certain neighborhoods require extra vigilance. However, with proper precautions, solo female travel is definitely possible.",
+    "tips": [
+      "Avoid using Mountain Metro buses alone, especially at night - use rideshare services like Uber or Lyft instead",
+      "Stay in well-lit, populated areas downtown and avoid isolated streets after dark",
+      "Book accommodations in safer neighborhoods like Briargate or Northwest Colorado Springs",
+      "Always verify rideshare details and license plates before getting in vehicles",
+      "Trust your instincts and don't hesitate to change plans if you feel unsafe"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Colorado Springs nightlife is concentrated in the downtown Tejon Street area, which has a mix of bars, clubs, and restaurants. While the city promotes a safe nightlife culture, the area becomes more risky after dark due to higher foot traffic, alcohol consumption, and opportunistic crime. The effects of alcohol are stronger at the city's 6,000+ foot elevation.",
+    "tips": [
+      "Stay in well-lit areas and stick to the main Tejon Street corridor where there's more foot traffic",
+      "Use rideshare services rather than walking long distances at night",
+      "Be aware that alcohol affects you more at high altitude - drink responsibly",
+      "Travel in groups when possible and keep an eye on your drinks",
+      "Avoid isolated areas and trust your instincts about situations or people"
+    ]
+  },
+  "transport": {
+    "metro": "Mountain Metropolitan Transit operates bus routes throughout Colorado Springs, but students report safety concerns for solo female travelers. Service is limited in evening hours and some stops are in less populated areas.",
+    "rideshare": "Uber and Lyft are widely available and generally safe. Colorado has strict regulations for rideshare companies including background checks and insurance requirements. Always verify vehicle details and license plates.",
+    "taxis": "Traditional taxis are available but less regulated than rideshare options. Some visitors report inflated pricing issues. Ensure you use licensed taxi companies.",
+    "tips": "Rideshare services are the safest transportation option, especially for evening travel. Public buses should be used with caution, particularly by solo female travelers."
+  },
+  "customs": [
+    "Americans value punctuality - arrive on time for reservations and appointments",
+    "Tipping is expected in restaurants (15-20%), bars, and for services like taxis",
+    "Personal space is important - maintain arm's length distance in conversations",
+    "Direct communication is preferred over indirect approaches",
+    "Handshakes are the standard greeting in professional and casual settings"
+  ],
+  "health": {
+    "overview": "Colorado Springs has excellent healthcare facilities including UCHealth Memorial Hospital, which is nationally recognized for quality care. The city is home to several top-rated hospitals and medical centers.",
+    "water": "Tap water is safe to drink and meets all federal standards. No special precautions needed.",
+    "vaccinations": "No special vaccinations required for domestic US travel. Standard travel health precautions apply.",
+    "altitude": "Colorado Springs sits at 6,035 feet elevation. Visitors may experience altitude sickness symptoms like headaches, fatigue, or nausea. Stay hydrated, avoid excessive alcohol, and take time to acclimate. Alcohol affects you more strongly at altitude."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (Emergency) / 719-444-7000 (Non-Emergency)",
+    "ambulance": "911",
+    "fire": "911 / 719-385-5978 (Fire Marshal Non-Emergency)",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - Colorado Springs is within the United States. For international visitors, contact your home country's consulate in Denver (90 miles north) if needed."
+  },
+  "faq": [
+    {
+      "q": "Is Colorado Springs safe for tourists?",
+      "a": "Colorado Springs is moderately safe for tourists but requires awareness. While it has excellent healthcare and beautiful attractions, crime rates are higher than the national average, particularly property crimes like vehicle theft. Stay alert, choose safe neighborhoods, and take standard urban precautions."
+    },
+    {
+      "q": "Is Colorado Springs safe at night?",
+      "a": "Downtown Colorado Springs has active nightlife but requires caution after dark. Stick to well-lit areas on Tejon Street, use rideshare services, and avoid walking alone in isolated areas. The altitude can intensify alcohol effects, so drink responsibly."
+    },
+    {
+      "q": "Is Colorado Springs safe for solo female travelers?",
+      "a": "Solo female travelers should exercise moderate caution in Colorado Springs. Avoid public buses alone, stay in safer neighborhoods like Briargate, use rideshare services at night, and trust your instincts. Many women travel solo successfully with proper precautions."
+    },
+    {
+      "q": "What areas should I avoid in Colorado Springs?",
+      "a": "Southeast Colorado Springs has higher crime rates and should be avoided, especially at night. Some downtown areas away from Tejon Street can be sketchy after dark. Exercise extra caution around public transit stops and avoid isolated areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Colorado Springs?",
+      "a": "Mountain Metro buses have safety concerns, particularly for solo female travelers. Students report feeling unsafe, especially at stops in less populated areas. Rideshare services like Uber and Lyft are safer and more reliable options."
+    }
+  ],
+  "relatedCities": [
+    "denver",
+    "boulder",
+    "aspen",
+    "vail",
+    "fort-collins"
+  ],
+  "_city_id": "colorado-springs-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Colorado-springs-450_%287296313624%29.jpg"
+}

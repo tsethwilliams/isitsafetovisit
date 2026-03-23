@@ -1,0 +1,164 @@
+{
+  "slug": "cincinnati",
+  "name": "Cincinnati",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 8.0,
+    "womensSafety": 6.2,
+    "nightSafety": 5.8,
+    "transport": 7.5,
+    "naturalHazards": 6.5
+  },
+  "summary": "Cincinnati is a mid-size American city that offers a rich cultural experience but requires basic urban safety precautions. While violent crime rates are above national average, most tourist areas are reasonably safe during daylight hours. The city has seen steady improvement in recent years and provides excellent public transport options.",
+  "quickVerdict": "Cincinnati is generally safe for tourists who stick to well-known areas and exercise standard urban caution. The downtown core and popular neighborhoods like Over-the-Rhine have been significantly revitalized, though some areas west of I-75 should be avoided. Crime rates are above national average but trending downward, and the city offers good transportation infrastructure. Solo travelers, especially women, should avoid walking alone at night and stay in groups when possible.",
+  "neighborhoods": [
+    {
+      "name": "Hyde Park",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential area with tree-lined streets, boutique shopping, and excellent restaurants. Popular with families and considered one of the safest neighborhoods in Cincinnati."
+    },
+    {
+      "name": "Over-the-Rhine (OTR)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic neighborhood that has undergone major revitalization. Now a popular nightlife and dining destination, though visitors should stay aware and travel in groups, especially at night."
+    },
+    {
+      "name": "Downtown/Central Business District",
+      "score": 6.4,
+      "class": "caution",
+      "description": "Business heart of the city with hotels, restaurants, and attractions like Fountain Square. Generally safe during business hours but requires caution at night, especially on weekends."
+    },
+    {
+      "name": "Mt. Lookout",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Quiet residential neighborhood with scenic views and low crime rates. Good option for families and those seeking a peaceful area close to downtown."
+    },
+    {
+      "name": "West End",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Historically significant but economically disadvantaged area with higher crime rates. Visitors should exercise extreme caution and avoid the area at night."
+    },
+    {
+      "name": "North Fairmount",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Area west of I-75 with elevated crime rates. Not recommended for tourists and best avoided entirely, particularly after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Rental Property Scam",
+      "risk": "medium",
+      "description": "Fraudulent vacation rental listings using stolen photos from legitimate properties, with scammers requesting wire transfers or deposits for non-existent accommodations.",
+      "howToAvoid": "Only book through verified platforms, never wire money in advance, and always video chat with property owners before booking."
+    },
+    {
+      "name": "Broken Taxi Meter",
+      "risk": "medium",
+      "description": "Taxi drivers claim their meter is broken after you get in the vehicle, then charge inflated flat rates for short trips.",
+      "howToAvoid": "Use rideshare apps like Uber or Lyft instead, or insist on a working meter before getting into any taxi."
+    },
+    {
+      "name": "Fake Wi-Fi Networks",
+      "risk": "low",
+      "description": "Criminals create fake public Wi-Fi hotspots in airports, cafes, and hotels to steal personal information and passwords.",
+      "howToAvoid": "Always use a VPN when connecting to public Wi-Fi, verify network names with staff, and avoid accessing sensitive accounts on public networks."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "low",
+      "description": "Teams of thieves work together where one person distracts you by asking for directions or claiming something spilled on you while an accomplice pickpockets your belongings.",
+      "howToAvoid": "Keep valuables secure in front pockets or hidden pouches, stay alert in crowded areas, and politely decline help from strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cincinnati presents moderate challenges for solo female travelers. While the city has many safe areas and friendly locals, crime rates are above national average and extra precautions are recommended. Stick to well-lit, populated areas and avoid walking alone at night. The revitalized downtown and Over-the-Rhine areas are generally safe during daytime but require increased caution after dark.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe neighborhoods like Hyde Park or Mt. Lookout",
+      "Use rideshare apps or official taxis rather than walking alone at night",
+      "Keep a low profile - don't flash expensive jewelry or electronics openly",
+      "Trust your instincts and leave any situation that feels uncomfortable",
+      "Share your itinerary with friends or family and check in regularly"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cincinnati nightlife can be enjoyable but requires careful planning and awareness. Over-the-Rhine has become a popular entertainment district, though visitors should travel in groups and stay in well-lit areas. The city has implemented curfews and increased police presence in nightlife areas, but crime rates remain elevated after dark, particularly in certain neighborhoods.",
+    "tips": [
+      "Stick to established nightlife areas like Over-the-Rhine and avoid venturing west of I-75",
+      "Travel in groups of two or more, especially for women",
+      "Use rideshare services rather than walking between venues",
+      "Be aware of your surroundings and avoid displaying phones or valuables openly",
+      "Know that the city-wide curfew is 11 PM for those under 18, with earlier 9 PM curfews in some areas"
+    ]
+  },
+  "transport": {
+    "metro": "Cincinnati Metro (Go Metro) operates comprehensive bus service throughout the greater Cincinnati area with over 40 routes. The system is considered safe and reliable, with most buses running from early morning until late evening. The downtown Government Square serves as the main transit hub.",
+    "rideshare": "Uber and Lyft operate throughout Cincinnati and are generally the safest transportation option, especially at night. The city has established designated rideshare zones in the downtown area during peak nightlife hours (Thursday-Sunday, 11 PM - 3 AM) to improve safety and traffic flow.",
+    "taxis": "Traditional taxi service is available but less reliable than rideshare apps. Note that Cincinnati taxis cannot pick up passengers in Kentucky, and Kentucky taxis cannot pick up in Ohio, though dual-licensed companies operate at the airport.",
+    "tips": "Public transportation is generally safe during daylight hours. For maximum safety, use the Cincinnati Streetcar (free) for downtown travel, and always use rideshare apps for nighttime transportation rather than walking."
+  },
+  "customs": [
+    "Americans are generally friendly and casual, often greeting strangers with 'How are you?' which is just a polite greeting, not requiring a detailed response",
+    "Tipping is expected at restaurants (15-20%) and for taxi/rideshare drivers, but not required at fast-food establishments",
+    "Personal space is valued - maintain about arm's length distance during conversations and avoid prolonged physical contact with strangers"
+  ],
+  "health": {
+    "overview": "Cincinnati has excellent healthcare infrastructure with several major medical centers including Cincinnati Children's Hospital Medical Center and the University of Cincinnati Medical Center. The city's health department actively monitors public health issues and provides various community services.",
+    "water": "Tap water in Cincinnati is safe to drink and meets all federal and state standards. The 2021 Water Quality Report confirms full compliance with health standards.",
+    "vaccinations": "No special vaccinations required beyond standard travel recommendations. Routine vaccines like flu shot are advisable during winter months.",
+    "altitude": "Cincinnati sits at approximately 550 feet above sea level, so altitude is not a concern. The city has a humid continental climate with hot summers and cold winters. Air quality can occasionally reach unhealthy levels for sensitive groups."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 513-765-1212 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Cincinnati is a US domestic destination. For international visitors, contact your home country's consulate in Chicago (nearest major consular services) or Washington, D.C."
+  },
+  "faq": [
+    {
+      "q": "Is Cincinnati safe for tourists?",
+      "a": "Cincinnati is moderately safe for tourists who exercise standard urban caution. Stick to well-known areas like downtown, Over-the-Rhine, and Hyde Park during the day, and use rideshare services at night. Crime rates are above national average but most tourist areas are reasonably secure."
+    },
+    {
+      "q": "Is Cincinnati safe at night?",
+      "a": "Cincinnati requires extra caution at night. While areas like Over-the-Rhine have active nightlife, it's best to travel in groups, stay in well-lit areas, and use rideshare services. Avoid areas west of I-75 completely after dark."
+    },
+    {
+      "q": "Is Cincinnati safe for solo female travelers?",
+      "a": "Solo female travelers can visit Cincinnati safely with proper precautions. Stay in safe neighborhoods, avoid walking alone at night, use rideshare apps for transportation, and keep a low profile. The city has friendly locals but requires standard urban awareness."
+    },
+    {
+      "q": "What areas should I avoid in Cincinnati?",
+      "a": "Avoid areas west of I-75, including North and South Fairmount, especially at night. While West End has historical significance, it has higher crime rates. Even in safer areas like Over-the-Rhine, exercise increased caution after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Cincinnati?",
+      "a": "Cincinnati's Metro bus system is generally safe during daytime hours and well-maintained. The free Cincinnati Streetcar is excellent for downtown travel. For maximum safety at night, use rideshare apps rather than walking to bus stops in isolated areas."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "detroit",
+    "columbus",
+    "indianapolis",
+    "pittsburgh"
+  ],
+  "_city_id": "cincinnati-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Downtown_Cincinnati_viewed_from_Devou_Park_%28cropped%29.jpg/1280px-Downtown_Cincinnati_viewed_from_Devou_Park_%28cropped%29.jpg"
+}

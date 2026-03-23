@@ -1,0 +1,162 @@
+{
+  "slug": "long-beach",
+  "name": "Long Beach",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.8,
+    "violentCrime": 6.5,
+    "scamRisk": 6.0,
+    "womensSafety": 6.3,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 7.9
+  },
+  "summary": "Long Beach is California's third-largest city with higher than average crime rates but improving safety trends. While many neighborhoods are relatively safe and the city offers excellent public transport, visitors should exercise caution especially at night and be aware of property crime.",
+  "quickVerdict": "Long Beach presents a mixed safety picture for tourists. The city has crime rates above national averages, with property crime being particularly elevated and a 1 in 29 chance of being a victim. However, many areas remain safe during daylight hours, public transportation is reliable, and the city has been making progress in reducing violent crime. Downtown areas, beaches, and main tourist attractions are generally well-patrolled, but increased vigilance is recommended after dark and in certain neighborhoods.",
+  "neighborhoods": [
+    {
+      "name": "Belmont Shore",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale coastal neighborhood with active nightlife, good police presence, and strong community associations. Popular for dining and entertainment with relatively low crime rates, though late-night incidents can occur in bar areas."
+    },
+    {
+      "name": "California State University Long Beach Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Well-maintained university area with good security, regular police patrols, and active community engagement. Considered one of the safest areas in Long Beach with low crime rates and good infrastructure."
+    },
+    {
+      "name": "Downtown Long Beach",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed safety area with major tourist attractions, convention center, and business district. Generally safe during daytime hours but requires increased caution at night due to higher crime incidents and homeless population."
+    },
+    {
+      "name": "East Long Beach",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Residential area including Los Altos neighborhood, known for being safer than 67% of Long Beach neighborhoods. Family-friendly with active community participation and relatively low crime rates."
+    },
+    {
+      "name": "North Long Beach",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Higher crime area with elevated risks of both violent and property crime. Visitors should exercise significant caution, avoid walking alone especially after dark, and stay in well-traveled areas."
+    },
+    {
+      "name": "West/Southwest Long Beach",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Areas with highest crime rates in the city, including some neighborhoods with 1 in 20 chance of being a crime victim. Recommended to avoid unless necessary, and use transportation rather than walking if visiting."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tourist Area Overcharging",
+      "risk": "medium",
+      "description": "Vendors around Shoreline Village, Pike Outlets, and Convention Center may overcharge tourists for souvenirs, food, or services, taking advantage of unfamiliarity with local prices.",
+      "howToAvoid": "Research typical prices beforehand, compare costs between vendors, and don't be afraid to negotiate or walk away if prices seem excessive."
+    },
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "high",
+      "description": "Fake rental listings for beachfront properties or downtown condos, requiring upfront payment for non-existent accommodations. Common on social media and unofficial booking sites.",
+      "howToAvoid": "Only use reputable booking platforms, verify property ownership, never wire money in advance, and request to speak directly with legitimate landlords or property managers."
+    },
+    {
+      "name": "Parking Scams",
+      "risk": "medium",
+      "description": "Unofficial parking attendants near beaches and tourist attractions claiming to 'watch your car' for fees, or fake parking tickets placed on vehicles in legitimate spaces.",
+      "howToAvoid": "Only use official parking lots and meters, ignore unofficial attendants, verify parking tickets through city websites, and take photos of parking signs and payment receipts."
+    },
+    {
+      "name": "Street Performance Pressure",
+      "risk": "low",
+      "description": "Aggressive street performers near beaches and downtown areas demanding large tips after unsolicited performances or photos, sometimes becoming confrontational if refused.",
+      "howToAvoid": "Avoid engaging with unsolicited performers, don't take photos unless you intend to tip, walk away from aggressive demands, and find security or police if harassed."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers should exercise moderate caution in Long Beach. While many areas are relatively safe during daylight hours, the city has higher crime rates than national averages. Women report feeling safe in tourist areas and upscale neighborhoods during the day, but nighttime safety varies significantly by location. Beach areas, downtown districts, and university vicinity are generally better for solo female travelers.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark and avoid isolated beach sections at night",
+      "Use rideshare services or taxis rather than walking alone after evening hours, particularly in downtown areas",
+      "Keep valuables secure and avoid displaying expensive jewelry, electronics, or large amounts of cash",
+      "Trust your instincts about people and situations - Long Beach has both very safe and concerning areas within short distances",
+      "Consider staying in Belmont Shore, East Long Beach, or near CSULB for safer accommodations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Long Beach nighttime safety varies dramatically by location and requires increased caution. Tourist areas and upscale neighborhoods generally maintain better safety after dark, but many parts of the city see elevated crime rates during evening hours. The city has been implementing better lighting and increased police presence in key areas, but visitors should still be vigilant and avoid certain neighborhoods entirely at night.",
+    "tips": [
+      "Stick to well-lit main streets and avoid shortcuts through alleys or empty lots",
+      "Use ride services or taxis instead of walking, especially if you've been drinking",
+      "Stay in groups when possible and maintain awareness of your surroundings at all times",
+      "Avoid North and Southwest Long Beach areas after dark unless absolutely necessary",
+      "Keep emergency contacts ready and ensure someone knows your planned whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Long Beach connects to LA Metro's A Line (formerly Blue Line) which provides safe, reliable service to downtown Los Angeles. Four stations serve downtown Long Beach area. Generally safe during daytime hours, but exercise caution during late evening travel.",
+    "rideshare": "Uber and Lyft are widely available throughout Long Beach and are considered safe options, especially for nighttime travel. Always verify driver and vehicle details before entering. Popular and generally reliable for tourists.",
+    "taxis": "Traditional taxi services including Long Beach Yellow Cab operate 24/7 with computerized dispatching. Generally safe and accept major credit cards. Good option for airport transfers and longer distances.",
+    "tips": "Long Beach Transit buses are affordable ($1.25) and serve major tourist areas. LB Circuit provides free micro-shuttle service in downtown and beach areas. Public transport is generally safe during daytime but use caution during late hours."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is expected and service workers depend on tips for income",
+    "Americans value personal space and directness in communication while remaining polite",
+    "Punctuality is highly regarded - arrive on time for appointments and reservations"
+  ],
+  "health": {
+    "overview": "Long Beach has excellent healthcare facilities including top-rated hospitals and medical centers. The city's health department has faced budget cuts but continues providing essential services. Air quality can be affected by port activities and traffic.",
+    "water": "Tap water in Long Beach meets EPA safety standards and is safe to drink. The water supply is regularly tested and monitored for contaminants.",
+    "vaccinations": "No special vaccinations required for Long Beach. Standard US travel recommendations apply - ensure routine vaccinations are up to date.",
+    "altitude": "Sea level location with Mediterranean climate. Mild temperatures year-round but can be affected by ocean humidity and occasional heat waves."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 562-435-6711 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Long Beach is in the United States - contact local authorities or consult your home country's consulate in Los Angeles if needed."
+  },
+  "faq": [
+    {
+      "q": "Is Long Beach safe for tourists?",
+      "a": "Long Beach has mixed safety levels. Tourist areas like beaches, downtown attractions, and university areas are generally safe during daytime but require increased caution at night. The city has higher crime rates than national averages but most visitors have safe experiences by staying alert and avoiding problematic neighborhoods."
+    },
+    {
+      "q": "Is Long Beach safe at night?",
+      "a": "Nighttime safety varies significantly by area. Tourist zones and upscale neighborhoods like Belmont Shore are relatively safe, but downtown and northern areas require caution. Use transportation instead of walking, stay in well-lit areas, and avoid isolated locations after dark."
+    },
+    {
+      "q": "Is Long Beach safe for solo female travelers?",
+      "a": "Solo female travelers should exercise moderate caution. Daylight hours in tourist areas are generally fine, but nighttime requires extra vigilance. Stay in safer neighborhoods, use rideshare services after dark, and keep valuables secure. Many women travel safely by being aware and taking basic precautions."
+    },
+    {
+      "q": "What areas should I avoid in Long Beach?",
+      "a": "Avoid North Long Beach and Southwest Long Beach, especially after dark. These areas have higher crime rates and fewer safety resources. Some parts of downtown can be concerning at night. Stick to tourist areas, beaches during daylight, and upscale neighborhoods for better safety."
+    },
+    {
+      "q": "Is it safe to use public transport in Long Beach?",
+      "a": "Public transportation is generally safe and reliable. Long Beach Transit buses, Metro A Line, and LB Circuit shuttles are good options during daytime. Evening travel requires more caution but is usually fine on main routes. Always stay alert and trust your instincts about fellow passengers."
+    }
+  ],
+  "relatedCities": [
+    "los-angeles",
+    "san-diego",
+    "santa-monica"
+  ],
+  "_city_id": "long-beach-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Long_beach3_%28cropped%29.jpg"
+}
