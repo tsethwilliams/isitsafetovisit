@@ -1,0 +1,156 @@
+{
+  "slug": "lake-tahoe",
+  "name": "Lake Tahoe",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.8,
+    "scamRisk": 8.0,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.8,
+    "naturalHazards": 6.5
+  },
+  "summary": "Lake Tahoe is generally a safe destination for tourists, with low violent crime rates and strong safety infrastructure. While property crimes like vehicle break-ins are the primary concern, the area's natural beauty comes with risks from earthquakes, avalanches, and extreme weather that visitors should be aware of.",
+  "quickVerdict": "Lake Tahoe offers excellent safety for most visitors, with communities around the lake experiencing relatively low crime rates. The biggest threats come from nature rather than crime - including earthquake risks, avalanche dangers in winter, and cold water temperatures year-round. Smart precautions around vehicle security, weather awareness, and natural hazard preparation will ensure a safe and enjoyable visit to this alpine paradise.",
+  "neighborhoods": [
+    {
+      "name": "Incline Village",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale Nevada-side community with very low crime rates. One of the safest areas around Lake Tahoe with excellent emergency services and well-maintained infrastructure. Popular with families and considered very secure for all travelers."
+    },
+    {
+      "name": "Tahoe City",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Charming North Lake Tahoe town with good safety standards and active local policing. Some petty crime during peak tourist season but generally very safe. Well-lit streets and good community watch programs."
+    },
+    {
+      "name": "South Lake Tahoe (Tourist Areas)",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Main tourist hub with casinos and entertainment. Generally safe but higher crime rates than other Tahoe areas due to increased activity. Well-patrolled with good emergency response times."
+    },
+    {
+      "name": "Kings Beach",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Popular beach community with moderate safety levels. Some property crime issues during busy summer months but violent crime remains low. Good for families with proper precautions."
+    },
+    {
+      "name": "Stateline (Casino Area)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Nevada border area with casinos and nightlife. Higher activity levels mean increased petty crime, especially late at night. Generally safe but requires more awareness, particularly for solo travelers."
+    },
+    {
+      "name": "Remote Trailheads",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Isolated parking areas popular with car break-in thieves who target hikers' vehicles. Natural hazards including wildlife encounters and weather changes pose additional risks. Use designated parking and never leave valuables visible."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "medium",
+      "description": "Scammers post fake vacation rental listings on Craigslist and other sites using stolen photos of actual Lake Tahoe properties. They collect deposits via wire transfer then disappear.",
+      "howToAvoid": "Book only through reputable companies or verified platforms. Never wire money or pay via untraceable methods. Verify the property address exists and confirm the listing with local rental companies."
+    },
+    {
+      "name": "Little Red Book Tourism Scam",
+      "risk": "medium",
+      "description": "Fraudsters on Chinese social platform offer heavily discounted Lake Tahoe tours and activities, then use stolen credit cards to make reservations. Businesses face chargebacks while tourists lose their money.",
+      "howToAvoid": "Book activities directly with operators or through established platforms. If a deal seems too good to be true, verify with the actual business. Ensure your credit card matches the reservation name."
+    },
+    {
+      "name": "Timeshare Presentations",
+      "risk": "low",
+      "description": "High-pressure sales tactics offering free gifts or discounted stays in exchange for attending lengthy timeshare presentations that can be difficult to escape.",
+      "howToAvoid": "Politely decline unsolicited offers. If genuinely interested, research the company thoroughly first and set firm time limits. Remember that legitimate businesses won't pressure you to decide immediately."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lake Tahoe is quite safe for solo female travelers, with low violent crime rates and a welcoming outdoor community culture. The biggest concerns are petty property crimes and natural hazards rather than personal safety issues. Most areas feel secure during daytime, though some caution is advised at night in quieter locations.",
+    "tips": [
+      "Stick to well-lit, populated areas when walking alone at night, especially in South Lake Tahoe",
+      "Keep vehicle doors locked and don't leave valuables visible - car break-ins target solo travelers",
+      "Consider joining group activities or tours to meet other travelers and enhance safety",
+      "Download offline maps and inform someone of hiking plans when exploring trails alone",
+      "Trust your instincts - if an area feels uncomfortable, move to a busier location"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lake Tahoe generally maintains good safety standards after dark, particularly in populated areas and tourist zones. The casino areas of South Lake Tahoe stay active and well-patrolled throughout the night. However, many areas become quite quiet and isolated after sunset, requiring extra awareness for solo travelers.",
+    "tips": [
+      "Stay in well-lit casino and entertainment districts for nightlife rather than venturing into remote areas",
+      "Use rideshare services or designated drivers - mountain roads can be dangerous at night",
+      "Keep emergency contacts handy as cell service can be spotty in some areas",
+      "Avoid walking alone on dark trails or secluded beach areas after sunset",
+      "Be aware that elevation can affect alcohol tolerance more than at sea level"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Free public buses (TART) serve North Lake Tahoe with limited routes. Tahoe Transportation District operates South Shore routes.",
+    "rideshare": "Uber and Lyft operate throughout Lake Tahoe area but availability can be limited on Nevada side and during peak times. Book in advance when possible.",
+    "taxis": "Traditional taxis available but limited. Private shuttle services connect to Reno airport. Many services require advance booking.",
+    "tips": "Lake Link offers free on-demand microtransit in South Lake Tahoe. Consider renting a car for maximum flexibility as public transit is limited around the 72-mile lake perimeter."
+  },
+  "customs": [
+    "Respect the 'Keep Tahoe Blue' environmental ethos - pack out all trash and follow Leave No Trace principles",
+    "Be mindful that locals live here year-round - don't treat the area like a playground and respect residential neighborhoods",
+    "Understand that cell phone dead spots are common - plan accordingly and don't rely solely on GPS"
+  ],
+  "health": {
+    "overview": "Lake Tahoe sits at 6,225 feet elevation which can cause altitude sickness in some visitors. High-quality medical facilities are available but limited. The extremely clear lake water is safe but always very cold.",
+    "water": "Tap water ('Tahoe Tap') is excellent quality at 99.994% purity. Lake water is clean but extremely cold year-round, with summer temperatures barely reaching 68°F at surface.",
+    "vaccinations": "No special vaccinations required. Standard US travel health recommendations apply.",
+    "altitude": "Altitude sickness possible above 6,000 feet. Drink extra water, limit alcohol first day, and descend if symptoms worsen. Mountain weather changes rapidly - dress in layers."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "530-542-6100 (South Lake Tahoe non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US destination. Tahoe Forest Hospital: 530-587-6011, Incline Village Community Hospital: 775-833-4100"
+  },
+  "faq": [
+    {
+      "q": "Is Lake Tahoe safe for tourists?",
+      "a": "Yes, Lake Tahoe is very safe for tourists with low violent crime rates. The main concerns are property crimes like car break-ins at trailheads and natural hazards like cold water and elevation effects. Use common sense precautions and you'll have a safe visit."
+    },
+    {
+      "q": "Is Lake Tahoe safe at night?",
+      "a": "Lake Tahoe is generally safe at night in populated areas like casino districts and main tourist zones. However, many areas become very quiet and isolated after dark. Stick to well-lit areas and avoid remote locations when alone at night."
+    },
+    {
+      "q": "Is Lake Tahoe safe for solo female travelers?",
+      "a": "Yes, Lake Tahoe is quite safe for solo women with a welcoming outdoor community culture. Take standard precautions like avoiding isolated areas at night, securing your vehicle, and staying aware of your surroundings, especially in quieter locations."
+    },
+    {
+      "q": "What areas should I avoid in Lake Tahoe?",
+      "a": "No areas are particularly dangerous, but be extra cautious at remote trailhead parking areas prone to car break-ins. Avoid isolated spots at night and be weather-aware in backcountry areas. The recent Castle Peak avalanche area has restricted access."
+    },
+    {
+      "q": "Is it safe to use public transport in Lake Tahoe?",
+      "a": "Yes, public transport is safe but limited. TART buses serve North Lake Tahoe and are reliable. The free Lake Link microtransit in South Lake Tahoe is modern and secure. However, a car provides much better access around the lake's 72-mile perimeter."
+    }
+  ],
+  "relatedCities": [
+    "san-francisco",
+    "reno",
+    "sacramento"
+  ],
+  "_city_id": "lake-tahoe-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tahoe_North_Shore_from_the_East_Shore.jpg/1280px-Tahoe_North_Shore_from_the_East_Shore.jpg"
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "palm-springs",
+  "name": "Palm Springs",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 4.5,
+    "womensSafety": 7.5,
+    "nightSafety": 7.0,
+    "transport": 7.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Palm Springs is a generally safe desert resort city with low violent crime rates, though property crime is higher than national averages. The welcoming, LGBTQ-friendly community and well-maintained downtown create a secure environment for tourists.",
+  "quickVerdict": "Palm Springs offers a mostly safe experience for tourists, particularly in the well-lit downtown and upscale neighborhoods. While property crime rates exceed national averages, this is largely due to the city's resort nature with thousands of visitors during peak seasons. The inclusive community, strong police presence, and pedestrian-friendly downtown contribute to overall visitor safety.",
+  "neighborhoods": [
+    {
+      "name": "Indian Canyons",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Upscale residential neighborhood known for its peaceful atmosphere, mountain views, and low crime rates. Features luxury homes and golf courses with excellent safety ratings."
+    },
+    {
+      "name": "Downtown Palm Springs",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-lit, walkable area with active nightlife and tourist attractions. High police visibility and foot traffic make it generally safe, though watch for petty theft."
+    },
+    {
+      "name": "Canyon Corridor",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Quiet residential area with A-grade safety ratings. Low crime density and affluent community make it one of the safest neighborhoods in Palm Springs."
+    },
+    {
+      "name": "Twin Palms",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic neighborhood with strong safety metrics and community involvement. Known for mid-century architecture and peaceful residential streets."
+    },
+    {
+      "name": "Warm Sands",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Adult-oriented resort area popular with LGBTQ+ travelers. Safe and walkable to Arenas Road nightlife district with good lighting and security."
+    },
+    {
+      "name": "North of Vista Chino",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Areas north of Vista Chino can feel isolated at night with limited lighting. Higher wind exposure and fewer amenities require extra caution after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Senior Phone Scams",
+      "risk": "high",
+      "description": "Scammers impersonate police, government agencies, or utility companies asking for money or personal information over the phone.",
+      "howToAvoid": "Never give money or personal information over the phone. Police will never call asking for money. Hang up and report suspicious calls to authorities."
+    },
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "medium",
+      "description": "Fake vacation rental listings on Craigslist and other sites using doctored photos and fake registration certificates.",
+      "howToAvoid": "Book through verified platforms, check official city vacation rental registry, and be wary of unusually low prices or payment demands via wire transfer or gift cards."
+    },
+    {
+      "name": "Travel Package Scams",
+      "risk": "medium",
+      "description": "Fraudulent travel agents or fake travel expos offering deals that are too good to be true with high-pressure sales tactics.",
+      "howToAvoid": "Verify travel agent credentials through ASTA or IATA, avoid immediate payments, and never pay via gift cards or wire transfers. Research any travel company thoroughly."
+    },
+    {
+      "name": "AI Voice Scams",
+      "risk": "medium",
+      "description": "Sophisticated scammers use AI to mimic voices of family members or celebrities to request emergency financial assistance.",
+      "howToAvoid": "Always verify the identity through known contact methods before sending money. Ask personal questions only the real person would know. Be suspicious of urgent requests."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Palm Springs is widely regarded as very safe for solo female travelers, with its inclusive LGBTQ-friendly community, well-lit downtown, and strong police presence. The city's reputation as a welcoming destination makes women feel comfortable exploring alone, though standard precautions should still be taken.",
+    "tips": [
+      "Stay in well-lit areas, especially downtown Palm Springs which is compact and pedestrian-friendly",
+      "Book accommodations in safer neighborhoods like Indian Canyons, Twin Palms, or downtown areas",
+      "Join group activities or tours to meet other travelers - the city has a very social atmosphere"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Palm Springs offers good nighttime safety, particularly in the downtown area which is well-lit with active nightlife and regular police patrols. The compact downtown design and busy restaurant and bar scene create natural surveillance, though visitors should avoid isolated areas and poorly lit parking lots.",
+    "tips": [
+      "Stick to well-populated areas like Palm Canyon Drive and Arenas Road entertainment district",
+      "Use rideshare services or taxis rather than walking alone in peripheral areas late at night",
+      "Stay aware of your surroundings in parking lots and avoid leaving valuables visible in vehicles"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available. Palm Springs relies on buses and alternative transportation.",
+    "rideshare": "Uber and Lyft operate throughout Palm Springs with good coverage in downtown and tourist areas. Generally safe and reliable.",
+    "taxis": "Traditional taxi services available but less common than rideshare. Hotel concierges can arrange reliable taxi services.",
+    "tips": "Downtown is very walkable for most attractions. For longer distances or evening travel, rideshare is recommended over walking, especially to areas outside downtown."
+  },
+  "customs": [
+    "Dress is generally casual and relaxed - resort wear is perfectly acceptable throughout the city",
+    "The city is extremely LGBTQ-friendly with nearly half of residents identifying as LGBTQ+",
+    "Tipping 18-20% is standard at restaurants and bars, especially in tourist areas"
+  ],
+  "health": {
+    "overview": "Palm Springs has good healthcare facilities and low health risks. The main concern is extreme heat during summer months and dehydration during outdoor activities.",
+    "water": "Tap water meets federal safety standards but may taste warm, murky, or have odors due to desert conditions. Bottled water is recommended for sensitive travelers.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations for US domestic travel.",
+    "altitude": "Located at 479 feet elevation with minimal altitude concerns. Main health risk is extreme heat in summer (often exceeding 110°F) and strong desert sun year-round."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (Emergency) / (760) 323-8116 (Non-emergency)",
+    "ambulance": "911",
+    "fire": "911 / (760) 323-8181",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - domestic US destination. For international visitors, contact nearest consulate in Los Angeles."
+  },
+  "faq": [
+    {
+      "q": "Is Palm Springs safe for tourists?",
+      "a": "Yes, Palm Springs is generally safe for tourists. While property crime rates are above national average due to the resort nature, violent crime is relatively low. The downtown area is well-patrolled and visitor-friendly."
+    },
+    {
+      "q": "Is Palm Springs safe at night?",
+      "a": "Downtown Palm Springs is quite safe at night with good lighting, active nightlife, and regular police presence. About 88% of residents feel secure during nighttime hours according to safety surveys."
+    },
+    {
+      "q": "Is Palm Springs safe for solo female travelers?",
+      "a": "Absolutely. Palm Springs is considered one of the safest destinations for solo female travelers, with an inclusive, welcoming community and low risk of harassment. The compact downtown is very walkable and safe."
+    },
+    {
+      "q": "What areas should I avoid in Palm Springs?",
+      "a": "Areas north of Vista Chino can feel isolated at night with limited lighting. Some downtown parking lots deserve caution after dark, and peripheral alleys near certain bars should be avoided late at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Palm Springs?",
+      "a": "Public transport is limited but safe. Downtown is very walkable, and rideshare services like Uber and Lyft are reliable and widely used. The city is designed for easy navigation by car or on foot."
+    }
+  ],
+  "relatedCities": [
+    "los-angeles",
+    "san-diego",
+    "phoenix",
+    "las-vegas"
+  ],
+  "_city_id": "palm-springs-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Quinta_Resort_Early_Morning_%28cropped%29.JPG/1280px-La_Quinta_Resort_Early_Morning_%28cropped%29.JPG"
+}

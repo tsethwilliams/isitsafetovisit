@@ -1,0 +1,164 @@
+{
+  "slug": "myrtle-beach",
+  "name": "Myrtle Beach",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.2,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.8,
+    "scamRisk": 5.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Myrtle Beach is a popular beach destination with significant safety considerations, ranking among the higher crime cities in South Carolina. Crime rates have been decreasing in recent years with police reporting a 48% reduction since 2016, though visitors should remain vigilant.",
+  "quickVerdict": "Myrtle Beach offers excellent beaches and entertainment but requires caution due to higher-than-average crime rates, particularly violent crime. While recent statistics show improvement with significant crime reductions since 2016, visitors should stay in well-populated tourist areas, avoid walking alone at night, and be aware of potential scams. The city has adequate emergency services and healthcare facilities, making it manageable for cautious travelers.",
+  "neighborhoods": [
+    {
+      "name": "North Myrtle Beach",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Significantly safer than Myrtle Beach proper with Grade A safety ratings and low crime scores. Family-friendly area with excellent safety profile and well-maintained neighborhoods."
+    },
+    {
+      "name": "Market Common",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale shopping and dining district with good security presence. Well-lit area with regular patrols and higher foot traffic during business hours."
+    },
+    {
+      "name": "The Grand Strand Beachfront",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Tourist-heavy area with moderate safety. Crowded beaches attract pickpockets and scammers, but police presence is strong during peak hours."
+    },
+    {
+      "name": "Kings Highway Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed commercial area with some safety concerns. Visitors should exercise caution, especially at night, and avoid displaying valuables."
+    },
+    {
+      "name": "Downtown Myrtle Beach",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Higher crime area with significant property crime and violent crime concerns. Not recommended for walking alone, particularly after dark."
+    },
+    {
+      "name": "West of Highway 17",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Residential areas with higher crime rates and limited tourist infrastructure. Visitors should avoid these areas, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Scams",
+      "risk": "high",
+      "description": "Fake vacation rental listings on platforms like Craigslist with fraudulent property photos and fake owners demanding bank transfers or prepaid cards.",
+      "howToAvoid": "Book through established rental agencies, verify property ownership, pay with credit cards, meet owners in person when possible, and be wary of unusually low prices."
+    },
+    {
+      "name": "Fake Menu Food Delivery Scam",
+      "risk": "medium",
+      "description": "Scammers slip fake takeout menus under hotel room doors to collect credit card information when unsuspecting tourists call to order food.",
+      "howToAvoid": "Only order from restaurants you verify independently, use hotel concierge services, and never give credit card information over the phone to unknown numbers."
+    },
+    {
+      "name": "Timeshare Presentation Pressure",
+      "risk": "medium",
+      "description": "High-pressure sales tactics at timeshare presentations that may detain visitors longer than promised and use intimidation to force purchases.",
+      "howToAvoid": "Research companies beforehand, set firm time limits, go with a friend, avoid giving personal financial information, and be prepared to leave if pressured."
+    },
+    {
+      "name": "Car Emergency Assistance Scam",
+      "risk": "medium",
+      "description": "Scammers approach tourists claiming their car is out of gas or they need money to get home, targeting compassionate visitors.",
+      "howToAvoid": "Never give cash to strangers, direct people to official services or police, avoid engaging with aggressive panhandlers, and don't flash money publicly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Myrtle Beach presents moderate risks for solo female travelers due to its party atmosphere and higher crime rates. However, many solo women visit safely by staying in tourist areas during daytime and taking extra precautions at night. Some bars offer safety programs where women can ask for specific drinks to signal distress and receive escort services.",
+    "tips": [
+      "Stay in well-lit, populated tourist areas and avoid walking alone after dark",
+      "Use rideshare services or taxis at night instead of walking",
+      "Stay in reputable accommodations in safer neighborhoods like North Myrtle Beach",
+      "Be aware of the coded drink safety program available at many local bars",
+      "Keep belongings secure at crowded beaches and attractions to prevent theft"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Myrtle Beach requires significant caution due to higher crime rates and the party atmosphere. The boardwalk has police presence, but beaches are not patrolled. Tourist areas like Barefoot Landing and Broadway at the Beach are generally safer than side streets.",
+    "tips": [
+      "Avoid walking alone at night and stay in groups when possible",
+      "Stick to the boardwalk instead of the beach after dark as it has police patrols",
+      "Use rideshare services or taxis for transportation rather than walking",
+      "Stay in busy tourist areas with good lighting and avoid isolated streets",
+      "Be extra cautious around bars and clubs where crowds can create opportunities for crime"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system available. Public transportation is limited to Coast RTA bus service with 8 routes covering major tourist areas, operating daily from 7 AM with fares ranging from $1.50 to free for some tourist routes.",
+    "rideshare": "Uber and Lyft operate throughout Myrtle Beach with dedicated pickup zones established by the city for safety. Average fares range from $7-20 for local trips. Services are generally safe with in-app safety features available.",
+    "taxis": "Traditional taxi services available with stands at the airport and major hotels. Multiple local companies operate including Absolute Taxi, City Cab, and Diamond Taxi. Generally reliable but more expensive than rideshare options.",
+    "tips": "Car rental is recommended for maximum flexibility. Always verify rideshare license plates and use designated pickup zones for safety. Public transport is limited outside main tourist corridors."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants is expected, along with $1-2 per drink at bars",
+    "Beach etiquette includes not drinking alcohol on the beach (illegal in most areas) and respecting lifeguard instructions",
+    "Southern hospitality is common - expect friendly conversation and politeness from locals"
+  ],
+  "health": {
+    "overview": "Myrtle Beach has excellent healthcare facilities with multiple hospital systems including Grand Strand Medical Center, a Level 1 trauma center. Four major hospital systems serve the region with emergency services available 24/7.",
+    "water": "Tap water is safe to drink and meets all state and federal standards with no violations reported by the city water system.",
+    "vaccinations": "No special vaccinations required for domestic US travel. Standard US immunizations recommended.",
+    "altitude": "Sea level location. Humid subtropical climate with hot summers and mild winters. Hurricane season runs June-November with peak risk August-October."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 843-918-1382 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "843-918-1382",
+    "usEmbassy": "N/A - Domestic US destination"
+  },
+  "faq": [
+    {
+      "q": "Is Myrtle Beach safe for tourists?",
+      "a": "Myrtle Beach has higher crime rates than many US beach destinations but millions visit safely each year. Staying in tourist areas, using common sense precautions, and avoiding risky behavior greatly reduces risks. Crime has decreased significantly since 2016."
+    },
+    {
+      "q": "Is Myrtle Beach safe at night?",
+      "a": "Nighttime requires extra caution due to higher crime rates and party atmosphere. Stay on the boardwalk rather than the beach, travel in groups, use rideshare services, and stick to well-lit tourist areas. The boardwalk has police patrols while beaches do not."
+    },
+    {
+      "q": "Is Myrtle Beach safe for solo female travelers?",
+      "a": "Solo female travelers can visit safely with proper precautions. Stay in tourist areas during the day, avoid walking alone at night, use reputable accommodations, and take advantage of safety programs offered by local bars. North Myrtle Beach is considerably safer."
+    },
+    {
+      "q": "What areas should I avoid in Myrtle Beach?",
+      "a": "Avoid downtown Myrtle Beach and areas west of Highway 17, especially at night. Small motels along Flagg Street and isolated residential areas have higher crime rates. Stick to tourist zones, North Myrtle Beach, and the Grand Strand beachfront areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Myrtle Beach?",
+      "a": "Coast RTA bus service is generally safe during daytime hours with routes covering tourist areas. Limited service at night makes rideshare or taxi services preferable. Car rental offers the most flexibility and safety for exploring the area."
+    }
+  ],
+  "relatedCities": [
+    "virginia-beach",
+    "charleston",
+    "wilmington",
+    "savannah",
+    "panama-city-beach"
+  ],
+  "_city_id": "myrtle-beach-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/BroadwayAtTheBeach1.jpg"
+}

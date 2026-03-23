@@ -1,0 +1,164 @@
+{
+  "slug": "boise",
+  "name": "Boise",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 7.0,
+    "womensSafety": 6.8,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Boise is one of the safest major cities in the United States, with crime rates well below national averages and a strong sense of community. The city ranks among Idaho's safest destinations with low violent crime rates, though travelers should remain aware of property crime and wildfire risks. Boise offers excellent healthcare, reliable emergency services, and a generally welcoming atmosphere for visitors.",
+  "quickVerdict": "Boise presents an excellent safety profile for tourists with violent crime rates significantly below national averages and a 1 in 341 chance of experiencing violent crime. The city maintains strong community policing, excellent medical facilities including nationally recognized hospitals, and well-maintained infrastructure. While property crime exists, particularly vehicle break-ins in downtown areas, overall crime has decreased over recent years. Natural hazards like wildfires pose seasonal risks, but the city has robust emergency preparedness systems in place.",
+  "neighborhoods": [
+    {
+      "name": "Downtown/Basque Block",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Boise's cultural and business district with active police presence, well-lit streets, and busy foot traffic. Home to restaurants, bars, and attractions with generally good safety during day and night hours."
+    },
+    {
+      "name": "North End",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic residential area with tree-lined streets, lower crime rates, and strong neighborhood watch presence. Popular with professionals and families, offering excellent walkability and community safety."
+    },
+    {
+      "name": "Foothills/Bogus Basin Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential area in the hills with lower population density and minimal crime. Primary concerns are wildlife encounters and emergency response times due to rural nature."
+    },
+    {
+      "name": "West Boise",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Suburban area with family-friendly neighborhoods, newer developments, and good police coverage. Some areas experience higher property crime rates but remain generally safe for residents and visitors."
+    },
+    {
+      "name": "Southeast Boise",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with higher crime rates than other parts of the city. Visitors should exercise standard urban precautions, especially at night near commercial strips."
+    },
+    {
+      "name": "Airport/Vista Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Industrial and commercial zone with some transient activity and higher property crime rates. Generally safe during daylight hours but requires increased awareness after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Phone/Tech Support Scams",
+      "risk": "high",
+      "description": "Callers claiming to be from Microsoft or other tech companies saying your computer is infected and requesting remote access or payment for fake services.",
+      "howToAvoid": "Never give remote access to your computer or provide credit card information. Hang up and contact the company directly if concerned."
+    },
+    {
+      "name": "Online Shopping/Puppy Scams",
+      "risk": "high",
+      "description": "Fake online listings for pets or merchandise requiring deposits or full payment upfront, with the item never delivered. Particularly common with puppy sales from out-of-state sellers.",
+      "howToAvoid": "Only buy from reputable local dealers, never wire money or use prepaid cards, and always see the item or pet in person before payment."
+    },
+    {
+      "name": "Phishing Email/Text Scams",
+      "risk": "medium",
+      "description": "Fake messages claiming to be from banks, Amazon, FedEx, or government agencies asking you to click links or provide personal information to resolve fake account issues.",
+      "howToAvoid": "Never click links in suspicious messages. Go directly to the official website or call the organization using their official phone number to verify any issues."
+    },
+    {
+      "name": "Charity/Disaster Relief Scams",
+      "risk": "medium",
+      "description": "Fake charity calls or websites requesting donations for disaster relief or local causes, with funds never reaching the intended recipients.",
+      "howToAvoid": "Research charities through official databases, never give financial information over the phone, and donate directly to established organizations."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Boise is generally very safe for solo female travelers, with most women reporting feeling comfortable walking alone during daylight hours. However, the sexual assault rate is concerning at nearly twice the national average, requiring extra caution when meeting new people or traveling alone at night. The city has a welcoming community atmosphere with helpful locals and good infrastructure support.",
+    "tips": [
+      "Avoid walking alone at night, especially in less populated areas or after consuming alcohol",
+      "Use rideshare services or taxis rather than walking to evening destinations",
+      "Stay in well-lit, populated areas when exploring downtown and trust your instincts about situations",
+      "Keep friends or family informed of your whereabouts and plans, especially when meeting new people",
+      "Consider staying in accommodations in safer neighborhoods like North End or downtown core areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Boise's nightlife district around 8th Street and downtown is generally well-patrolled and safe, with good lighting and active foot traffic until closing time around 2 AM. However, streets become quiet quickly just a few blocks from the main entertainment areas. The city's compact nightlife scene makes bar-hopping relatively safe, but standard urban precautions apply.",
+    "tips": [
+      "Stay within the main entertainment district on 8th Street and downtown core areas",
+      "Travel in groups when possible and never leave friends behind at venues",
+      "Use rideshare services or taxis instead of walking long distances after dark",
+      "Keep belongings secure during busy nights like Boise State games when bars become crowded",
+      "Be aware that bars close at 2 AM sharp with limited late-night food options available"
+    ]
+  },
+  "transport": {
+    "metro": "Valley Regional Transit provides bus service throughout Boise and surrounding areas with generally good safety standards and professional drivers. The Bronco Shuttle offers free service between Boise State University, downtown, and select locations. Buses operate limited hours with most services ending by 10 PM.",
+    "rideshare": "Uber and Lyft operate throughout Boise with designated pickup areas at the airport and downtown. Both services are considered safe with standard app-based safety features. Response times are typically quick in urban areas but may be longer in suburban or foothills locations.",
+    "taxis": "Traditional taxi services are available including Boise Cab, Friendly Cab, and specialty services like Wood River Taxi for longer distances. Taxis are regulated and generally safe, though more expensive than rideshare options. Available 24/7 with pickup from most locations.",
+    "tips": "Public transportation is safest during daylight hours. Always verify rideshare vehicle details before entering. Consider renting a car for exploring areas outside the city center as Boise is not highly walkable beyond downtown."
+  },
+  "customs": [
+    "Americans typically use first names quickly in casual interactions and maintain an informal, friendly approach to social situations",
+    "Tipping is expected at restaurants (15-20%), for taxi drivers, and service staff - this is considered part of their income",
+    "Personal space is valued - maintain arm's length distance in conversations and avoid touching people you don't know well",
+    "Punctuality is highly valued for both social and business appointments - arrive on time or slightly early",
+    "Direct communication is preferred - Americans appreciate straightforward, honest conversation and may seem blunt compared to other cultures"
+  ],
+  "health": {
+    "overview": "Boise has excellent healthcare facilities including nationally recognized hospitals like St. Luke's Boise Medical Center and Saint Alphonsus Regional Medical Center. Both hospitals have received high safety and quality ratings and offer comprehensive emergency services including Level II trauma care.",
+    "water": "Tap water in Boise is safe to drink and meets all federal water quality standards with no violations reported. The city maintains high water quality standards and regular testing protocols.",
+    "vaccinations": "No special vaccinations are required for travel to Boise. Standard US immunizations are recommended. Travelers from certain countries may need specific vaccines depending on their origin - consult current CDC guidelines.",
+    "altitude": "Boise sits at 2,700 feet elevation which may cause mild altitude effects for some visitors. Stay hydrated as the high desert climate causes rapid moisture evaporation. Summer temperatures can exceed 100°F while winter can drop below 0°F."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 208-377-6790 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy in Boise - contact Ada County Sheriff Dispatch: 208-377-6790 for assistance coordinating with federal authorities if needed. US State Department 24/7 assistance: 1-888-407-4747"
+  },
+  "faq": [
+    {
+      "q": "Is Boise safe for tourists?",
+      "a": "Yes, Boise is very safe for tourists with crime rates well below national averages and a strong community focus on safety. The city ranks among Idaho's safest destinations with low violent crime rates and good emergency services."
+    },
+    {
+      "q": "Is Boise safe at night?",
+      "a": "Downtown Boise and the main entertainment districts are generally safe at night with good lighting and police presence until bars close at 2 AM. However, streets become quiet quickly outside the main areas, so use rideshare services for longer distances."
+    },
+    {
+      "q": "Is Boise safe for solo female travelers?",
+      "a": "Boise is generally safe for solo female travelers during the day, but extra caution is needed at night due to higher than average sexual assault rates. Stay in populated, well-lit areas and use transportation for evening activities."
+    },
+    {
+      "q": "What areas should I avoid in Boise?",
+      "a": "Southeast Boise and the Airport/Vista areas have higher crime rates and require more caution, especially after dark. Most of Boise is safe, but standard urban awareness is recommended in commercial and industrial zones."
+    },
+    {
+      "q": "Is it safe to use public transport in Boise?",
+      "a": "Yes, Valley Regional Transit buses are safe with professional drivers and good maintenance standards. However, services are limited in the evenings, so plan accordingly or use rideshare services for late-night transportation."
+    }
+  ],
+  "relatedCities": [
+    "seattle",
+    "portland",
+    "salt-lake-city"
+  ],
+  "_city_id": "boise-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Boise_Metro_Chamber_of_Commerce_photo_to_share_-_winter_2017.jpg/1280px-Boise_Metro_Chamber_of_Commerce_photo_to_share_-_winter_2017.jpg"
+}

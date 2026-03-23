@@ -1,0 +1,164 @@
+{
+  "slug": "hilton-head",
+  "name": "Hilton Head",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 8.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Hilton Head Island is a popular resort destination with a strong safety record for tourists and families. While crime rates are higher than the national average due to its resort nature, serious violent crime against visitors is rare.",
+  "quickVerdict": "Hilton Head Island is generally safe for tourists with excellent safety in most neighborhoods and a strong law enforcement presence. The island has some property crime, typical for resort areas, but violent crime rates are low. Most safety concerns involve natural hazards like hurricanes and beach conditions rather than criminal activity. The island's demographics, strong local economy, and tourism-focused infrastructure contribute to its overall safety for visitors.",
+  "neighborhoods": [
+    {
+      "name": "Sea Pines Plantation",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Exclusive gated community with private security, pristine beaches, and luxury amenities. Extremely safe with virtually no crime due to controlled access."
+    },
+    {
+      "name": "Palmetto Dunes",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Resort area with controlled access and active security patrols. Well-lit areas and family-friendly atmosphere make it very safe for visitors."
+    },
+    {
+      "name": "Shipyard Plantation",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Gated community with golf courses and resort facilities. Private security and controlled access ensure high safety levels for residents and guests."
+    },
+    {
+      "name": "North Forest Beach",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular public beach area with regular police patrols. Generally safe but can get crowded during peak season, requiring normal precautions."
+    },
+    {
+      "name": "Coligny Plaza Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Main commercial district with higher foot traffic. Some petty crime occurs but regular security presence keeps serious crime low."
+    },
+    {
+      "name": "South Beach",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Busy public area with parking challenges and occasional property crime. Safe during day but requires more caution at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "medium",
+      "description": "Scammers post fake rental listings on Craigslist and other sites using photos of legitimate properties, taking deposits from unsuspecting tourists who arrive to find the property is already rented or doesn't exist.",
+      "howToAvoid": "Only book through reputable local property management companies, never wire money, and verify listings through multiple sources."
+    },
+    {
+      "name": "Timeshare Exit Scams",
+      "risk": "medium",
+      "description": "Third-party companies target timeshare owners with high-pressure sales calls claiming they can help exit timeshare contracts for large upfront fees, often providing no actual services.",
+      "howToAvoid": "Never pay upfront fees for timeshare exits, verify companies through Better Business Bureau, and contact your timeshare company directly."
+    },
+    {
+      "name": "Golf Course Overcharging",
+      "risk": "low",
+      "description": "Some golf courses may quote different prices to tourists versus locals or add unexpected fees not clearly disclosed upfront.",
+      "howToAvoid": "Confirm all fees in writing before booking, ask about any additional charges, and research typical rates for comparable courses."
+    },
+    {
+      "name": "Beach Parking Scams",
+      "risk": "low",
+      "description": "Unofficial parking attendants may approach tourists offering to watch their car or directing them to paid spots that are actually free public parking.",
+      "howToAvoid": "Use official beach parking areas, verify parking fees with posted signs, and don't pay unofficial attendants."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Hilton Head is very safe for solo female travelers with its family-friendly resort atmosphere, strong law enforcement presence, and well-lit public areas. The island's demographic of retirees and families creates a welcoming environment for women traveling alone.",
+    "tips": [
+      "Stay in well-established resort areas or gated communities for maximum security",
+      "Avoid isolated beach areas at night and stick to well-lit, populated areas",
+      "The island has excellent cell phone coverage for emergency communication",
+      "Local restaurants and businesses are accustomed to solo travelers and very welcoming",
+      "Beach activities are generally safe during daylight hours with lifeguards present"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Hilton Head is quite safe at night with well-lit resort areas, regular security patrols, and low violent crime rates. Most evening entertainment is concentrated in safe, well-monitored areas.",
+    "tips": [
+      "Stick to main resort areas and well-lit streets when walking at night",
+      "Use hotel shuttle services or rideshare apps rather than walking long distances",
+      "Beach areas should be avoided at night as they are not well-lit or patrolled",
+      "Popular restaurant and bar areas around Coligny Plaza are safe with good foot traffic",
+      "Private resort communities maintain excellent security throughout the night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Hilton Head Island.",
+    "rideshare": "Uber and Lyft operate on the island with good coverage, especially during tourist season. Services are reliable and safe.",
+    "taxis": "Limited traditional taxi service available. Most transportation is via rideshare apps or hotel shuttles.",
+    "tips": "Rental cars are the most common way to get around. Free trolley service operates on parts of the island during peak season. Resort shuttles are safe and convenient for guests."
+  },
+  "customs": [
+    "Americans value personal space and tend to stand about arm's length apart during conversations",
+    "Tipping 15-20% is expected at restaurants, bars, and for services like taxi rides",
+    "Casual but neat dress is appropriate for most restaurants and activities",
+    "Punctuality is valued - arrive on time for reservations and scheduled activities",
+    "Direct but polite communication is preferred over indirect suggestions"
+  ],
+  "health": {
+    "overview": "Hilton Head has good healthcare facilities including Hilton Head Hospital and several urgent care centers. The island's medical infrastructure is well-equipped to handle tourist needs.",
+    "water": "Tap water is safe to drink and meets all federal standards. No water quality violations reported in recent years.",
+    "vaccinations": "No special vaccinations required for domestic travel to Hilton Head. Standard US immunizations are sufficient.",
+    "altitude": "Sea level location with subtropical climate. Summer temperatures can reach 90°F with high humidity. Hurricane season runs June-November."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 843-785-3618 (Beaufort County Sheriff non-emergency)",
+    "ambulance": "911",
+    "fire": "911 or 843-682-5100 (Fire Rescue headquarters)",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable for domestic travel. Contact local authorities or consular services for international visitors."
+  },
+  "faq": [
+    {
+      "q": "Is Hilton Head safe for tourists?",
+      "a": "Yes, Hilton Head is very safe for tourists. The island has a strong tourism infrastructure with good security measures in resort areas and low violent crime rates. Most safety concerns involve natural hazards rather than crime."
+    },
+    {
+      "q": "Is Hilton Head safe at night?",
+      "a": "Hilton Head is generally safe at night in resort and commercial areas which are well-lit and patrolled. However, avoid isolated beach areas and stick to populated, well-lit locations."
+    },
+    {
+      "q": "Is Hilton Head safe for solo female travelers?",
+      "a": "Yes, Hilton Head is excellent for solo female travelers. The family-friendly resort atmosphere, strong security presence, and welcoming local community make it very safe for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Hilton Head?",
+      "a": "There are no particularly dangerous areas, but use caution in busy commercial zones like Coligny Plaza during peak times. Avoid isolated beach areas at night and be aware that some areas may have higher property crime due to tourism."
+    },
+    {
+      "q": "Is it safe to use public transport in Hilton Head?",
+      "a": "Public transport options are limited, but available services like the free trolley and resort shuttles are safe. Most visitors use rental cars or rideshare services, which are reliable and secure on the island."
+    }
+  ],
+  "relatedCities": [
+    "charleston",
+    "savannah",
+    "myrtle-beach"
+  ],
+  "_city_id": "hilton-head-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harbour_Town_July_2007.jpg/1280px-Harbour_Town_July_2007.jpg"
+}

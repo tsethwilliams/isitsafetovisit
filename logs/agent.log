@@ -2958,3 +2958,46 @@
 2026-03-23 12:08:48,385 [INFO] Merged into site data: St. Louis
 2026-03-23 12:08:48,481 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-23 12:08:48,530 [INFO] Rebuilt sitemap with 614 URLs (468 cities, 140 countries, 6 static)
+2026-03-23 18:34:12,193 [INFO] Agent starting — mode: add
+2026-03-23 18:34:12,236 [INFO] Queue has 122 cities, adding 8
+2026-03-23 18:34:12,236 [INFO] Generating new city profile: Boise, United States
+2026-03-23 18:35:49,581 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:35:50,137 [INFO] Found Wikipedia image for Boise
+2026-03-23 18:35:50,138 [INFO] Saved city data: boise-united-states
+2026-03-23 18:35:50,143 [INFO] Generating new city profile: Myrtle Beach, United States
+2026-03-23 18:37:08,957 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:37:09,339 [INFO] Found Wikipedia image for Myrtle Beach
+2026-03-23 18:37:09,340 [INFO] Saved city data: myrtle-beach-united-states
+2026-03-23 18:37:09,344 [INFO] Generating new city profile: Palm Springs, United States
+2026-03-23 18:38:17,400 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:38:17,760 [INFO] Found Wikipedia image for Palm Springs
+2026-03-23 18:38:17,760 [INFO] Saved city data: palm-springs-united-states
+2026-03-23 18:38:17,764 [INFO] Generating new city profile: Lake Tahoe, United States
+2026-03-23 18:39:52,430 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:39:52,899 [INFO] Found Wikipedia image for Lake Tahoe
+2026-03-23 18:39:52,899 [INFO] Saved city data: lake-tahoe-united-states
+2026-03-23 18:39:52,903 [INFO] Generating new city profile: Hilton Head, United States
+2026-03-23 18:40:58,923 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:40:59,345 [INFO] Found Wikipedia image for Hilton Head
+2026-03-23 18:40:59,346 [INFO] Saved city data: hilton-head-united-states
+2026-03-23 18:40:59,350 [INFO] Generating new city profile: Cape Cod, United States
+2026-03-23 18:42:26,375 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:42:27,397 [INFO] Found Wikipedia image for Cape Cod
+2026-03-23 18:42:27,398 [INFO] Saved city data: cape-cod-united-states
+2026-03-23 18:42:27,402 [INFO] Generating new city profile: Scottsdale, United States
+2026-03-23 18:43:39,470 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:43:39,789 [INFO] Found Wikipedia image for Scottsdale
+2026-03-23 18:43:39,789 [INFO] Saved city data: scottsdale-united-states
+2026-03-23 18:43:39,793 [INFO] Generating new city profile: Park City, United States
+2026-03-23 18:46:14,307 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-23 18:46:14,728 [INFO] Saved city data: park-city-united-states
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Boise
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Myrtle Beach
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Palm Springs
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Lake Tahoe
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Hilton Head
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Cape Cod
+2026-03-23 18:46:14,781 [INFO] Merged into site data: Scottsdale
+2026-03-23 18:46:14,782 [INFO] Merged into site data: Park City
+2026-03-23 18:46:14,872 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-23 18:46:14,920 [INFO] Rebuilt sitemap with 622 URLs (476 cities, 140 countries, 6 static)

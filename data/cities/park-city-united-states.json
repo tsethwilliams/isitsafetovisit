@@ -1,0 +1,161 @@
+{
+  "slug": "park-city",
+  "name": "Park City",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 7.2,
+    "scamRisk": 6.0,
+    "womensSafety": 7.8,
+    "nightSafety": 7.2,
+    "transport": 8.5,
+    "naturalHazards": 6.4
+  },
+  "summary": "Park City is generally safe for tourists with its affluent setting and strong police presence, though property crime rates are notably higher than Utah's average. The resort town faces challenges with tourist-targeted scams and altitude-related health risks due to its 7,000+ foot elevation.",
+  "quickVerdict": "Park City presents a mixed safety picture for visitors. While violent crime is relatively low and the community is welcoming, property crime rates are significantly higher than both state and national averages, with theft being the primary concern. The town benefits from excellent emergency services, high-quality healthcare, and comprehensive avalanche mitigation systems. Solo female travelers generally feel safe, though standard precautions are recommended. The main risks center on property theft, rental scams, and altitude sickness from the high elevation.",
+  "neighborhoods": [
+    {
+      "name": "Main Street Historic District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "The heart of Park City with heavy foot traffic, visible security, and well-lit streets. Generally very safe with active police patrols during events and ski season."
+    },
+    {
+      "name": "Park City Mountain Resort Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Heavily monitored resort area with private security and good lighting. Crime is rare due to constant activity and surveillance systems."
+    },
+    {
+      "name": "Deer Valley",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale resort area with excellent security measures and low crime rates. Private security and affluent setting create very safe environment."
+    },
+    {
+      "name": "Empire Canyon/Daly Canyon",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Beautiful hiking area but remote with steep terrain and avalanche risks during winter. Limited cell service and emergency access can be challenging."
+    },
+    {
+      "name": "Old Town Residential",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-maintained residential area with good community watch programs and regular police patrols. Property crime occasionally reported."
+    },
+    {
+      "name": "Kimball Junction",
+      "score": 6.8,
+      "class": "safe",
+      "description": "Commercial area with shopping and dining. Generally safe but experiences some vehicle break-ins in parking areas. Well-patrolled during business hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Scam",
+      "risk": "high",
+      "description": "Fraudsters post fake rental listings on Craigslist and similar sites with attractive properties at below-market rates. They request wire transfers to out-of-state banks, then disappear after payment.",
+      "howToAvoid": "Only book through verified platforms with payment protection. Never wire money directly. Verify property addresses exist and use legitimate property management companies."
+    },
+    {
+      "name": "Ski Equipment Theft",
+      "risk": "medium",
+      "description": "Thieves target unattended ski equipment at resort bases and lodge areas. Expensive equipment is stolen from ski racks and rental areas.",
+      "howToAvoid": "Use secured storage lockers, never leave equipment unattended outside lodges, and consider equipment insurance. Lock skis together when taking breaks."
+    },
+    {
+      "name": "Overpriced Services Scam",
+      "risk": "medium",
+      "description": "Some businesses inflate prices for tourists, especially during Sundance Film Festival and peak ski season. Hidden fees and excessive charges for basic services.",
+      "howToAvoid": "Research standard rates beforehand, ask for written estimates, and check reviews. Be wary of services that seem significantly overpriced compared to similar businesses."
+    },
+    {
+      "name": "Fake Online Reviews",
+      "risk": "medium",
+      "description": "Businesses may post fake positive reviews to lure tourists into substandard accommodations or services that don't match online descriptions.",
+      "howToAvoid": "Cross-check reviews on multiple platforms, look for recent reviews with photos, and be suspicious of properties with only extremely positive or vague reviews."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Park City is considered very safe for solo female travelers, with a welcoming community and low violent crime rates. The resort town atmosphere creates a generally secure environment, though standard precautions should be taken regarding property crime and outdoor activities.",
+    "tips": [
+      "Stay in well-reviewed accommodations in main tourist areas",
+      "Keep valuables secure as property crime rates are above average",
+      "Inform others of hiking plans and carry emergency communication devices",
+      "Take time to acclimate to the 7,000+ foot altitude before strenuous activities",
+      "Use official resort shuttles and transportation services when possible"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Park City maintains good nighttime safety standards, particularly in the Main Street area and resort zones which are well-lit and patrolled. The compact downtown area stays active during tourist season, providing natural surveillance and security.",
+    "tips": [
+      "Stick to well-lit Main Street and resort areas after dark",
+      "Use rideshare services or official shuttles rather than walking alone",
+      "Be extra cautious during major events like Sundance when crowds increase",
+      "Avoid remote hiking areas and Empire Canyon after dark",
+      "Keep doors locked and valuables hidden if staying in vacation rentals"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Park City relies on free shuttle services connecting main areas and ski resorts.",
+    "rideshare": "Uber and Lyft operate year-round with UberSki service available for mountain transport with ski equipment capacity.",
+    "taxis": "Limited traditional taxi service. Most transportation handled by shuttles and rideshare services.",
+    "tips": "Use the free shuttle system extensively - it's safe, reliable, and reduces parking headaches. For mountain access, UberSki ensures proper vehicle equipment for snow conditions."
+  },
+  "customs": [
+    "Tipping 15-20% is expected at restaurants and bars",
+    "Outdoor recreation culture emphasizes respect for nature and leaving no trace",
+    "Ski resort etiquette includes yielding to downhill skiers and staying in control"
+  ],
+  "health": {
+    "overview": "Park City has excellent healthcare facilities including Intermountain Park City Hospital and urgent care centers. The main health concern is altitude sickness due to the 7,000+ foot elevation.",
+    "water": "Tap water is safe to drink and meets all EPA standards. Free water is available at restaurants and public facilities.",
+    "vaccinations": "No special vaccinations required beyond standard travel immunizations. Consult doctor about altitude sickness medication if coming from sea level.",
+    "altitude": "Located at 7,000+ feet elevation. Altitude sickness is common for visitors from lower elevations. Symptoms include headache, nausea, and fatigue. Stay hydrated, avoid alcohol initially, and ascend gradually when possible."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or 435-615-5500 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Park City is within the United States - no embassy services needed for US citizens. International visitors can contact nearest consulate in Salt Lake City for assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Park City safe for tourists?",
+      "a": "Park City is generally safe for tourists with low violent crime rates and excellent emergency services. However, property crime rates are higher than average, so secure your belongings and avoid leaving valuables visible in vehicles."
+    },
+    {
+      "q": "Is Park City safe at night?",
+      "a": "Yes, Park City is quite safe at night, especially in the Main Street historic area and resort zones which are well-lit and patrolled. Stick to populated areas and use shuttles or rideshare services for transportation."
+    },
+    {
+      "q": "Is Park City safe for solo female travelers?",
+      "a": "Very safe. Park City has a welcoming community atmosphere and low violent crime rates. Solo female travelers report feeling comfortable, though standard precautions about property security and outdoor activities should be taken."
+    },
+    {
+      "q": "What areas should I avoid in Park City?",
+      "a": "Avoid remote hiking areas like Empire Canyon after dark and during avalanche season. Be cautious in parking areas where vehicle break-ins occasionally occur. No areas are particularly dangerous, but use common sense in isolated locations."
+    },
+    {
+      "q": "Is it safe to use public transport in Park City?",
+      "a": "Yes, Park City's free shuttle system is very safe and reliable. The shuttles connect main areas and ski resorts efficiently. Rideshare services and the specialized UberSki service are also safe options for mountain transport."
+    }
+  ],
+  "relatedCities": [
+    "salt-lake-city",
+    "denver",
+    "aspen"
+  ],
+  "_city_id": "park-city-united-states"
+}

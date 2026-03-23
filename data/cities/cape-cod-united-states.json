@@ -1,0 +1,164 @@
+{
+  "slug": "cape-cod",
+  "name": "Cape Cod",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.2,
+    "scamRisk": 6.5,
+    "womensSafety": 8.3,
+    "nightSafety": 7.8,
+    "transport": 7.5,
+    "naturalHazards": 6.7
+  },
+  "summary": "Cape Cod is a very safe destination for tourists with low crime rates well below national averages and a strong focus on visitor safety. The main concerns are property crimes in tourist areas, vacation rental scams, and occasional severe weather events. The region's economy depends heavily on tourism, so communities work actively with law enforcement to maintain safety.",
+  "quickVerdict": "Cape Cod is generally very safe for visitors, with property crimes being the most common concern rather than violent crime. The peninsula has crime rates significantly lower than national averages, with most incidents being opportunistic property crimes targeting seasonal properties. Solo travelers, including women, report feeling safe throughout the region, particularly in well-established tourist areas. The biggest safety considerations are vacation rental scams, hurricane preparedness during storm season, and basic precautions around beaches and tidal areas.",
+  "neighborhoods": [
+    {
+      "name": "Provincetown",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Very safe and welcoming area known for its LGBTQ+ friendly atmosphere. Well-patrolled tourist area with good nightlife safety. Crime is rare and mostly limited to minor theft from vehicles or bikes."
+    },
+    {
+      "name": "Chatham",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale, quiet community with very low crime rates. One of the safest areas on Cape Cod with minimal reported incidents. Excellent for families and solo travelers."
+    },
+    {
+      "name": "Sandwich",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Consistently rated as having the lowest crime rate on Cape Cod. Very safe residential and tourist area with minimal concerns beyond occasional property crime."
+    },
+    {
+      "name": "Hyannis",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Main commercial hub with higher crime rates than other Cape areas, though still below national averages. Transportation center sees more incidents, particularly around Kalmus Beach at night and some drug-related activity."
+    },
+    {
+      "name": "Falmouth",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Generally safe tourist area with good infrastructure and medical facilities. Some seasonal property crime but overall very secure for visitors."
+    },
+    {
+      "name": "Wellfleet",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quiet, safe community popular with tourists. The Beachcomber area can get busy during summer nights but remains relatively safe with good crowd management."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Vacation Rental Fraud",
+      "risk": "high",
+      "description": "Scammers create fake listings on Craigslist and other platforms using stolen photos of real properties, often at below-market rates. Victims arrive to find properties don't exist or aren't available for rent.",
+      "howToAvoid": "Use reputable rental sites like VRBO or Airbnb. Never wire money or use Western Union. Pay with credit cards only. Verify property ownership through town records. If the price seems too good to be true, it probably is."
+    },
+    {
+      "name": "Beach Parking Violations",
+      "risk": "medium",
+      "description": "Visitors get expensive tickets for parking without proper beach stickers or in restricted areas. Each town has different parking rules and sticker requirements that can be confusing.",
+      "howToAvoid": "Research parking rules for each town before visiting beaches. Purchase daily or weekly parking permits where required. Look for legitimate public parking areas and read all posted signs carefully."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Some businesses inflate prices for tourists, particularly during peak summer season. This includes restaurants, shops, and service providers who charge premium rates.",
+      "howToAvoid": "Compare prices between multiple businesses. Ask locals for recommendations. Check online reviews. Be aware that summer prices are typically higher, but extreme markups should be avoided."
+    },
+    {
+      "name": "Fake Emergency Calls",
+      "risk": "low",
+      "description": "Scammers occasionally call claiming to be from local emergency services requesting personal information or payment for false emergencies involving family members.",
+      "howToAvoid": "Never give personal information over the phone to unsolicited callers. Verify emergency claims by calling official numbers directly. Real emergency services don't request payment over the phone."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cape Cod is considered very safe for solo female travelers, with many women reporting feeling comfortable exploring alone both during the day and evening. The region has a welcoming, family-friendly atmosphere and low violent crime rates. Tourist areas are well-patrolled and the community is generally supportive of visitors. Provincetown is particularly noted as being very safe and LGBTQ+ friendly.",
+    "tips": [
+      "Stick to well-lit, populated areas when walking alone at night, especially in downtown areas",
+      "Be cautious when meeting people from vacation rental ads - always meet in public first",
+      "Trust your instincts about people and situations - the local community is generally very helpful",
+      "Consider staying in established tourist areas like Provincetown, Chatham, or Falmouth for added peace of mind",
+      "Keep emergency contacts handy and let someone know your itinerary when exploring remote beaches or trails"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cape Cod is generally very safe at night, particularly in main tourist areas and town centers. Most areas are well-lit and patrolled during summer months when visitor numbers are highest. The biggest nighttime safety concerns are related to driving on unfamiliar, sometimes narrow roads, and being aware of your surroundings when leaving bars or restaurants. Crime against tourists at night is rare.",
+    "tips": [
+      "Stay in well-populated areas like Commercial Street in Provincetown or Main Street areas in other towns",
+      "Use ride-sharing services or designated drivers rather than walking long distances on unlit roads",
+      "Be extra cautious around beach areas at night, as some isolated spots can attract drug-related activity",
+      "Keep valuables secured and avoid displaying expensive items when out at night",
+      "Plan your route back to accommodations in advance, especially if staying in more remote areas"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Cape Cod. The Cape Cod Regional Transit Authority (CCRTA) operates bus routes connecting all 15 towns, with the main hub at Hyannis Transportation Center. Service is more limited in winter months.",
+    "rideshare": "Uber and Lyft operate throughout Cape Cod but availability can be limited in remote areas or during off-peak times. Prices can be high during summer peak season due to demand.",
+    "taxis": "Local taxi companies operate in most towns but service can be inconsistent and expensive. Advanced booking is often required, especially during busy summer months.",
+    "tips": "Public transportation is limited, so renting a car is recommended for maximum flexibility. Traffic can be extremely heavy during summer weekends. Consider staying in walkable areas like Provincetown to minimize transportation needs."
+  },
+  "customs": [
+    "Tipping 15-20% at restaurants is expected and important since servers rely on tips as part of their income",
+    "Americans are generally informal and friendly - first names are commonly used even in professional settings",
+    "Personal space is valued - maintain about arm's length distance during conversations unless you know someone well"
+  ],
+  "health": {
+    "overview": "Cape Cod has excellent healthcare facilities including Cape Cod Hospital in Hyannis, one of the state's top-rated hospitals with a 5-star CMS rating. The region is well-equipped to handle medical emergencies and routine care.",
+    "water": "Tap water is safe to drink throughout Cape Cod and meets all federal safety standards. Some visitors prefer bottled water but it's not necessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for Cape Cod beyond routine immunizations. The area has no endemic diseases of concern to visitors.",
+    "altitude": "Cape Cod is at sea level with no altitude-related health concerns. The coastal climate can be variable with potential for strong winds and sudden weather changes, especially during storm season from June through November."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Cape Cod is within the United States. For international visitors, the nearest major consular services are in Boston, approximately 90 minutes away."
+  },
+  "faq": [
+    {
+      "q": "Is Cape Cod safe for tourists?",
+      "a": "Yes, Cape Cod is very safe for tourists with crime rates well below national averages. The region's economy depends on tourism, so communities prioritize visitor safety. Most incidents involve minor property crimes rather than violent crime."
+    },
+    {
+      "q": "Is Cape Cod safe at night?",
+      "a": "Cape Cod is generally very safe at night, especially in main tourist areas and town centers. Areas like Provincetown, Chatham, and Falmouth are well-lit and regularly patrolled during summer months. Use common sense and stay in populated areas."
+    },
+    {
+      "q": "Is Cape Cod safe for solo female travelers?",
+      "a": "Yes, Cape Cod is considered very safe for solo female travelers. Many women report feeling comfortable exploring alone throughout the region. The community is welcoming and supportive, with particularly good reputations in areas like Provincetown and Chatham."
+    },
+    {
+      "q": "What areas should I avoid in Cape Cod?",
+      "a": "There are no areas that need to be completely avoided, but use extra caution around Kalmus Beach in Hyannis at night due to some drug-related activity. Some remote beach areas after dark and the Hyannis Transportation Center late at night warrant normal urban caution."
+    },
+    {
+      "q": "Is it safe to use public transport in Cape Cod?",
+      "a": "Yes, Cape Cod's public bus system (CCRTA) is safe and reliable, though limited. The main safety concern is that service is reduced in winter and some routes don't run late at night. Having a car provides more flexibility and safety options."
+    }
+  ],
+  "relatedCities": [
+    "boston",
+    "newport",
+    "martha-s-vineyard",
+    "nantucket",
+    "plymouth"
+  ],
+  "_city_id": "cape-cod-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/White_Crest_Beach_Wellfleet.jpg/1280px-White_Crest_Beach_Wellfleet.jpg"
+}

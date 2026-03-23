@@ -1,0 +1,162 @@
+{
+  "slug": "scottsdale",
+  "name": "Scottsdale",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 7.5
+  },
+  "summary": "Scottsdale is one of Arizona's safest cities, with crime rates 45% below the national average and excellent emergency services. The upscale desert destination offers strong safety infrastructure but visitors should be prepared for extreme heat and occasional flash floods.",
+  "quickVerdict": "Scottsdale ranks among the safest mid-size cities in America, earning high marks for low violent crime rates and robust police presence. While property crime exists in tourist areas like Old Town, the city's affluent character and professional law enforcement create a secure environment. The main risks involve extreme desert weather and rare natural hazards rather than criminal activity.",
+  "neighborhoods": [
+    {
+      "name": "McDowell Mountain Ranch",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The safest area in Scottsdale with gated communities, excellent amenities, and virtually no crime. Popular with families and professionals seeking premium security."
+    },
+    {
+      "name": "East Shea",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area with low crime rates, well-maintained streets, and strong community watch programs. Excellent for solo travelers and families."
+    },
+    {
+      "name": "Pinnacle Peak",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Quiet, affluent neighborhood near hiking trails with minimal crime and a peaceful atmosphere. Great for outdoor enthusiasts and those seeking tranquility."
+    },
+    {
+      "name": "Old Town Scottsdale",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Tourist hub with vibrant nightlife and shopping. Higher rates of petty theft due to crowds, but generally safe with good police presence and lighting."
+    },
+    {
+      "name": "South Scottsdale",
+      "score": 6.5,
+      "class": "safe",
+      "description": "More affordable area with slightly higher crime rates than northern neighborhoods. Still safe overall but visitors should use standard urban precautions."
+    },
+    {
+      "name": "Indian Bend",
+      "score": 6.0,
+      "class": "safe",
+      "description": "Mixed residential and commercial area with moderate crime levels. Safe during daytime but requires more awareness during evening hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Hotel Phone Calls",
+      "risk": "medium",
+      "description": "Scammers call hotel rooms claiming to be front desk staff asking to verify credit card information due to payment problems.",
+      "howToAvoid": "Never give credit card details over the phone. Call the front desk directly using the hotel directory to verify any payment issues."
+    },
+    {
+      "name": "QR Code Quishing",
+      "risk": "high",
+      "description": "Fake QR codes placed over real ones at restaurants and tourist sites redirect to fraudulent payment portals to steal credit card information.",
+      "howToAvoid": "Avoid scanning QR codes that appear to be stickers. Type restaurant websites directly into your browser instead of scanning codes."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Inflated pricing for tours, transportation, and activities specifically targeting tourists unfamiliar with local rates.",
+      "howToAvoid": "Research average costs beforehand, get quotes from multiple providers, and book through verified platforms rather than street vendors."
+    },
+    {
+      "name": "Ghost Booking Scams",
+      "risk": "high",
+      "description": "Professional-looking fake travel websites using AI to mimic legitimate booking platforms, taking payment for non-existent accommodations or tours.",
+      "howToAvoid": "Book directly through official hotel websites or verified platforms. Check URLs carefully for misspellings and verify bookings with properties directly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Scottsdale is excellent for solo female travelers, consistently ranking as one of the safest cities in Arizona. Women report feeling secure walking alone, using public transport, and dining solo throughout most areas of the city. The affluent character and strong police presence contribute to a welcoming environment for independent female visitors.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safe areas like East Shea or McDowell Mountain Ranch",
+      "Use rideshare apps rather than walking alone late at night, especially in entertainment districts",
+      "Join organized tours or activities to meet other travelers and locals in a safe setting",
+      "Keep emergency contacts handy and inform someone of your daily plans when hiking or exploring remote areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Scottsdale's nightlife areas are generally safe with good lighting, regular police patrols, and active security presence. Old Town Scottsdale can get crowded on weekends but violent crime remains rare. The city has designated Transportation Safety Zones for safe rideshare pickup and drop-off.",
+    "tips": [
+      "Stick to well-lit main streets and avoid isolated areas after dark",
+      "Use designated Transportation Safety Zones for safe taxi and rideshare pickup",
+      "Travel in groups when bar hopping and watch your drinks at all times",
+      "Book accommodations near nightlife areas to minimize late-night travel distances"
+    ]
+  },
+  "transport": {
+    "metro": "Valley Metro provides bus service throughout Scottsdale with GPS tracking and mobile apps. The free Scottsdale Trolley connects major tourist areas and shopping districts. Both services are generally safe and reliable.",
+    "rideshare": "Uber and Lyft operate extensively throughout Scottsdale with good availability. The city has established Transportation Safety Zones in entertainment districts for safe passenger pickup and drop-off.",
+    "taxis": "Licensed taxis are available but less common than rideshare services. Use official taxi stands or call reputable companies rather than hailing street taxis to avoid potential overcharging.",
+    "tips": "Public transportation is safe during daytime hours. For evening travel, rideshare services offer more security and convenience than waiting for buses."
+  },
+  "customs": [
+    "Tipping 18-20% at restaurants, 15-18% for other services like hair salons and taxis",
+    "Casual dress is acceptable in most places, though upscale resorts may have dress codes",
+    "Americans value personal space and direct communication; small talk is common and expected"
+  ],
+  "health": {
+    "overview": "Scottsdale has excellent healthcare facilities including major hospitals and urgent care centers. The main health concerns relate to extreme desert heat, dehydration, and sun exposure rather than infectious diseases.",
+    "water": "Tap water is completely safe to drink and meets all EPA safety standards. Some visitors may notice different taste due to mineral content but it poses no health risks.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Standard travel health precautions apply for international visitors.",
+    "altitude": "Located at 1,257 feet elevation with hot desert climate. Summer temperatures reach 105°F+ requiring heat precautions. Carry water, use sunscreen, and limit midday sun exposure."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) or 480-312-5000 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "N/A - Domestic US destination. For international visitors: nearest consulates in Phoenix or Los Angeles handle passport/visa issues."
+  },
+  "faq": [
+    {
+      "q": "Is Scottsdale safe for tourists?",
+      "a": "Yes, Scottsdale is very safe for tourists with crime rates 45% below national averages. It consistently ranks among America's safest mid-size cities with excellent police presence and emergency services."
+    },
+    {
+      "q": "Is Scottsdale safe at night?",
+      "a": "Scottsdale is generally safe at night, especially in tourist areas like Old Town which have good lighting and security. Use rideshare services for late-night transportation and stick to well-traveled areas."
+    },
+    {
+      "q": "Is Scottsdale safe for solo female travelers?",
+      "a": "Yes, Scottsdale is excellent for solo female travelers. Women report feeling secure throughout the city, with low crime rates and respectful locals. Standard travel precautions are sufficient."
+    },
+    {
+      "q": "What areas should I avoid in Scottsdale?",
+      "a": "All areas of Scottsdale are relatively safe, though South Scottsdale and the McDowell Road/Scottsdale Road intersection have slightly higher crime rates. Even these areas are safer than most US cities."
+    },
+    {
+      "q": "Is it safe to use public transport in Scottsdale?",
+      "a": "Yes, Scottsdale's Valley Metro buses and free trolley system are safe and reliable. They're GPS-equipped with mobile tracking apps. Rideshare services are also widely available and secure."
+    }
+  ],
+  "relatedCities": [
+    "phoenix",
+    "tucson",
+    "denver",
+    "las-vegas",
+    "san-diego"
+  ],
+  "_city_id": "scottsdale-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Scottsdale_waterfront.jpg/1280px-Scottsdale_waterfront.jpg"
+}
