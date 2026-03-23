@@ -1,0 +1,166 @@
+{
+  "slug": "albuquerque",
+  "name": "Albuquerque",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 7.2
+  },
+  "summary": "Albuquerque has higher crime rates than the national average but most incidents occur in specific neighborhoods away from tourist areas. Recent 2025 data shows significant crime decreases, with violent crime down 18% and property crime down 9% compared to 2024. Tourist areas like Old Town, Nob Hill, and Uptown are generally safe with proper precautions.",
+  "quickVerdict": "While Albuquerque has crime challenges with rates higher than national averages, most visitors have safe experiences by staying in popular tourist areas and taking basic precautions. The city shows improving trends with 2025 crime statistics showing significant decreases across major categories. Areas like Old Town, Nob Hill, Downtown, and Uptown are relatively safe during the day, though night safety requires more caution. Property crime, particularly vehicle break-ins and theft, is the main concern for tourists rather than violent crime.",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic area with heavy tourist presence, good lighting, and regular security patrols. Safe during day and evening hours with proper awareness of surroundings."
+    },
+    {
+      "name": "Nob Hill",
+      "score": 7.5,
+      "class": "safe",
+      "description": "University area with vibrant nightlife, walkable streets, and good foot traffic. Popular with students and tourists, generally safe with standard urban precautions."
+    },
+    {
+      "name": "Uptown",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern business district with upscale shopping and dining. Well-maintained area with good lighting and security presence, particularly safe for visitors."
+    },
+    {
+      "name": "Downtown",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Commercial center with restaurants and hotels. Generally safe in populated areas but requires caution on quieter streets, especially late at night."
+    },
+    {
+      "name": "International District",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Previously called the War Zone, this area has high crime rates including drug activity and gang issues. Visitors should avoid, especially at night."
+    },
+    {
+      "name": "South Valley",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Residential area with higher crime rates and social challenges. Some blocks are safer than others, but overall requires extreme caution for visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Individuals offer unofficial tours at tourist spots like Old Town and Balloon Fiesta areas, often charging high prices for subpar experiences.",
+      "howToAvoid": "Always verify credentials and book tours through official channels or reputable companies. Ask for ID and company information."
+    },
+    {
+      "name": "Overpriced Souvenirs",
+      "risk": "medium",
+      "description": "Vendors in tourist-heavy areas may inflate prices on Native American crafts and local souvenirs, especially around major attractions.",
+      "howToAvoid": "Compare prices at multiple vendors, shop at established stores, and research typical prices beforehand."
+    },
+    {
+      "name": "Pickpocketing in Tourist Areas",
+      "risk": "high",
+      "description": "Thieves target distracted tourists in crowded places like Old Town, museums, and during events like the Balloon Fiesta.",
+      "howToAvoid": "Keep valuables secure and close to body, stay aware of surroundings, avoid displaying expensive items, and use bags with zippers and security features."
+    },
+    {
+      "name": "Vehicle Break-ins",
+      "risk": "high",
+      "description": "Car burglaries are common throughout the city, with thieves targeting vehicles with visible valuables or tourist rental cars.",
+      "howToAvoid": "Never leave valuables visible in vehicles, park in well-lit areas, use hotel or attraction parking when available, and remove all items from sight."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers can visit Albuquerque safely with proper precautions, though the city requires more awareness than some destinations. Stick to well-populated tourist areas during the day and avoid walking alone at night in less busy areas. Tourist areas like Old Town, Nob Hill, and Uptown are generally welcoming to solo female visitors.",
+    "tips": [
+      "Stay in well-lit, populated areas especially after dark",
+      "Use rideshare or taxis for transportation at night rather than walking",
+      "Inform someone of your plans and check in regularly",
+      "Trust your instincts and avoid situations that feel uncomfortable",
+      "Consider joining group tours or activities to meet other travelers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Albuquerque requires increased caution, with certain areas becoming significantly less safe after dark. While tourist areas like parts of Downtown and Nob Hill maintain activity and lighting, even these areas require vigilance. The city sees increased crime incidents late at night, particularly after 1 AM when police increase patrols.",
+    "tips": [
+      "Stick to well-lit, busy areas with foot traffic",
+      "Use rideshare or taxis instead of walking alone",
+      "Avoid Central Avenue stretches and the International District entirely",
+      "Stay aware of surroundings and limit alcohol consumption",
+      "Keep to tourist areas and avoid unfamiliar neighborhoods"
+    ]
+  },
+  "transport": {
+    "metro": "ABQ RIDE operates the city bus system with routes throughout Albuquerque. The system has enhanced security with over 2,700 cameras monitored by police, specialized transit police units, and new safety initiatives launched in 2024-2026. Free microtransit service ABQ RIDE Connect operates in designated zones.",
+    "rideshare": "Uber and Lyft operate throughout Albuquerque and are generally safe and reliable. These are recommended for late-night transportation and travel to unfamiliar areas. Always verify the vehicle and driver details match your app before getting in.",
+    "taxis": "Traditional taxi services are available but must typically be called rather than hailed. Licensed taxi companies operate at the airport and hotels. Verify the taxi is licensed and use reputable companies.",
+    "tips": "Public transportation is generally safe during daytime hours. For evening travel or visits to areas outside tourist zones, rideshare or taxis are recommended for added safety and convenience."
+  },
+  "customs": [
+    "Tipping is expected in restaurants (15-20%), bars ($1-2 per drink), and for taxi/rideshare drivers (15-20%)",
+    "Americans value personal space and maintain arm's length distance during casual conversations",
+    "Direct eye contact and firm handshakes are standard greetings in business or formal situations",
+    "Small talk about weather, food, or weekend plans is common and expected in casual interactions",
+    "Free tap water is provided in restaurants and asking for doggy bags for leftovers is completely normal"
+  ],
+  "health": {
+    "overview": "Albuquerque has excellent healthcare facilities including UNM Hospital, Presbyterian Hospital, and Lovelace Health System. The city is nationally recognized for healthcare quality with multiple specialty facilities and trauma centers available.",
+    "water": "Tap water is safe to drink throughout Albuquerque and meets all federal safety standards. Restaurants provide free tap water and it's commonly consumed by locals.",
+    "vaccinations": "No specific vaccinations required for Albuquerque. Standard routine vaccines (MMR, DPT, flu) recommended. Consult healthcare provider for personalized advice.",
+    "altitude": "Albuquerque sits at 5,000-6,000 feet elevation. Visitors may experience mild altitude effects like dehydration or fatigue. Drink plenty of water and use sun protection due to high desert climate with intense UV exposure."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 for emergencies, 505-242-2677 for non-emergency",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "As this is a US city, contact local authorities or call the State Department at 1-888-407-4747 for US citizens needing consular assistance abroad"
+  },
+  "faq": [
+    {
+      "q": "Is Albuquerque safe for tourists?",
+      "a": "Albuquerque is moderately safe for tourists who stay in main tourist areas like Old Town, Nob Hill, and Uptown, and take standard urban precautions. While crime rates are higher than national averages, most incidents occur in specific neighborhoods away from tourist zones."
+    },
+    {
+      "q": "Is Albuquerque safe at night?",
+      "a": "Night safety in Albuquerque requires increased caution. Stick to well-lit, busy tourist areas and use rideshare or taxis for transportation. Avoid walking alone after dark and stay away from areas like the International District and certain parts of Central Avenue."
+    },
+    {
+      "q": "Is Albuquerque safe for solo female travelers?",
+      "a": "Solo female travelers can visit Albuquerque safely with proper precautions. Stay in popular tourist areas, avoid walking alone at night, use rideshare for transportation, and trust your instincts. Many solo female travelers have positive experiences following basic safety guidelines."
+    },
+    {
+      "q": "What areas should I avoid in Albuquerque?",
+      "a": "Avoid the International District (formerly called War Zone), South Valley, parts of Central Avenue at night, and areas south of Central Avenue. Stick to tourist-friendly areas like Old Town, Nob Hill, Uptown, and central Downtown during your visit."
+    },
+    {
+      "q": "Is it safe to use public transport in Albuquerque?",
+      "a": "ABQ RIDE buses are generally safe during daytime hours with enhanced security measures including cameras and transit police. For evening travel or trips to unfamiliar areas, rideshare services like Uber and Lyft are recommended for added safety and convenience."
+    }
+  ],
+  "relatedCities": [
+    "phoenix",
+    "denver",
+    "santa-fe",
+    "las-vegas",
+    "tucson"
+  ],
+  "_city_id": "albuquerque-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Abqdowntown.jpg/1280px-Abqdowntown.jpg"
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "milwaukee",
+  "name": "Milwaukee",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 7.0,
+    "womensSafety": 6.8,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 7.2
+  },
+  "summary": "Milwaukee is a mid-sized Midwestern city that offers good tourist infrastructure but faces urban challenges including elevated crime rates in certain neighborhoods. While most tourist areas are safe, visitors should exercise awareness, especially at night.",
+  "quickVerdict": "Milwaukee presents a mixed safety profile for tourists. Downtown areas, the Historic Third Ward, and lakefront districts are generally safe during the day, but crime statistics show the city has higher violent and property crime rates than many comparable cities. The 2025 data shows homicides increased 8% while other crimes declined. Solo female travelers report feeling reasonably safe in tourist areas, but extra caution is advised after dark. The city's excellent public transportation, good emergency services, and strong healthcare infrastructure help mitigate risks. Most tourist scams are minor, and the city's friendly Midwestern culture makes visitors feel welcome.",
+  "neighborhoods": [
+    {
+      "name": "Historic Third Ward",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale district with trendy restaurants, galleries, and shopping. Well-lit, well-patrolled, and popular with tourists. Generally very safe day and night."
+    },
+    {
+      "name": "Downtown/Central Business District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Main business and entertainment area with good lighting and security presence. Safe during business hours and early evening, with regular police patrols."
+    },
+    {
+      "name": "East Side/University Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Vibrant college area with cafes, bars, and young professionals. Generally safe but can get rowdy on weekends. Good for daytime exploration."
+    },
+    {
+      "name": "Riverwest",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Artsy neighborhood undergoing gentrification. Mixed safety profile with some crime concerns. Exercise caution, especially at night."
+    },
+    {
+      "name": "North Side",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Areas with higher poverty and crime rates. Contains some of Wisconsin's most disadvantaged zip codes. Tourists should avoid, especially after dark."
+    },
+    {
+      "name": "Metcalfe Park/North Division",
+      "score": 3.2,
+      "class": "danger",
+      "description": "High-crime neighborhoods with significant safety concerns. Regular incidents of violent crime. Not recommended for tourists at any time."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "medium",
+      "description": "Scammers pose as police officers demanding money or claiming violations.",
+      "howToAvoid": "Real police will have proper identification and never demand immediate cash payments. Ask to see ID and badge number."
+    },
+    {
+      "name": "Utility Disconnection Scam",
+      "risk": "medium",
+      "description": "Fraudsters threaten to shut off utilities unless immediate payment is made by phone.",
+      "howToAvoid": "Utilities never demand immediate payment by phone. Hang up and call the official utility company directly."
+    },
+    {
+      "name": "Parking and Traffic Scams",
+      "risk": "low",
+      "description": "Fake parking attendants or inflated towing charges in tourist areas.",
+      "howToAvoid": "Only pay at official meters or lots. If towed, verify with official city services before paying any fees."
+    },
+    {
+      "name": "Travel and Accommodation Fraud",
+      "risk": "medium",
+      "description": "Fake vacation rentals or overpriced tourist services marketed online.",
+      "howToAvoid": "Book through reputable platforms, verify property addresses, and be wary of deals that seem too good to be true."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers generally report feeling safe in Milwaukee's main tourist areas during the day. The city has a friendly Midwestern culture where locals are typically helpful to visitors. However, women should exercise increased caution after dark and avoid certain neighborhoods entirely. Public transportation is relatively safe, and downtown areas have good lighting and security presence.",
+    "tips": [
+      "Stick to well-lit main areas like Historic Third Ward and downtown after dark",
+      "Use rideshare services or taxis rather than walking alone at night",
+      "Trust your instincts if an area feels unsafe and leave immediately",
+      "Keep accommodations in safe neighborhoods like downtown or East Side",
+      "Solo dining is common and accepted in Milwaukee's restaurant scene"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Milwaukee's nightlife is concentrated in several districts with varying safety levels. The Historic Third Ward, Water Street, and downtown areas have good lighting, police presence, and busy foot traffic that enhances safety. However, crime rates do increase after dark, and certain neighborhoods become significantly more dangerous. The city's transportation system operates late to help visitors get around safely.",
+    "tips": [
+      "Stay in main entertainment districts like Historic Third Ward and Water Street",
+      "Use The Hop streetcar system to move between nightlife areas safely",
+      "Travel in groups when possible and avoid walking alone after midnight",
+      "Pre-arrange rides home rather than walking to distant parking",
+      "Keep valuables secured and avoid displaying expensive items"
+    ]
+  },
+  "transport": {
+    "metro": "The Hop streetcar connects major entertainment districts and is generally safe. Milwaukee County Transit System (MCTS) buses serve the airport and city but quality varies by route and time of day.",
+    "rideshare": "Uber and Lyft operate throughout Milwaukee with good coverage in tourist areas. Pickup zones are clearly marked at the airport and major venues. Generally safe and reliable option.",
+    "taxis": "Traditional taxi service available at the airport and can be called citywide. Airport Service Inc. and other companies provide reliable door-to-door service with professional drivers.",
+    "tips": "Public transit is budget-friendly to/from airport (Route 80). The Hop streetcar is free and connects main tourist areas. For late-night travel, rideshare is recommended over walking."
+  },
+  "customs": [
+    "Tipping 15-20% at restaurants and bars is expected",
+    "Punctuality is valued - arrive on time for reservations and meetings",
+    "Friendly small talk with service workers and strangers is common",
+    "Remove hats indoors and during national anthem",
+    "Personal space of arm's length is preferred in conversations"
+  ],
+  "health": {
+    "overview": "Milwaukee has excellent healthcare infrastructure with major medical centers including the Milwaukee Regional Medical Center, Froedtert Hospital, and Children's Wisconsin. The city's public health department provides comprehensive services and emergency response.",
+    "water": "Tap water is safe to drink and meets all federal standards. The city's 2021 Water Quality Report shows full compliance with no violations.",
+    "vaccinations": "No special vaccinations required. Standard US travel vaccinations (COVID-19, flu) recommended. Consult healthcare provider for personal needs.",
+    "altitude": "Milwaukee is at near sea level with no altitude concerns. Climate includes cold winters and warm summers with potential for severe weather including flooding."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 414-933-4444 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Milwaukee is a US city - no embassy needed. For international visitors: US State Department 24/7 assistance +1-202-501-4444 (from abroad) / 1-888-407-4747 (from US/Canada)"
+  },
+  "faq": [
+    {
+      "q": "Is Milwaukee safe for tourists?",
+      "a": "Milwaukee is moderately safe for tourists who stick to main tourist areas like downtown, Historic Third Ward, and lakefront districts. Crime rates are higher than some cities, but most tourist areas are well-patrolled and safe during the day. Exercise normal urban caution and avoid certain neighborhoods at night."
+    },
+    {
+      "q": "Is Milwaukee safe at night?",
+      "a": "Nightlife areas like Historic Third Ward, Water Street, and downtown are generally safe with good lighting and police presence. However, avoid walking alone after midnight and use rideshare or The Hop streetcar for transportation. Some neighborhoods become significantly more dangerous after dark."
+    },
+    {
+      "q": "Is Milwaukee safe for solo female travelers?",
+      "a": "Yes, with proper precautions. Solo female travelers report feeling comfortable in tourist areas during the day. Milwaukee has a friendly culture where locals are helpful. However, extra caution is advised after dark, and women should avoid certain high-crime neighborhoods entirely."
+    },
+    {
+      "q": "What areas should I avoid in Milwaukee?",
+      "a": "Avoid neighborhoods north and west of I-43, particularly Metcalfe Park, North Division, and Franklin Heights areas. These have higher crime rates and offer little for tourists. Also be cautious in Riverwest after dark, though it's safer than the far north side."
+    },
+    {
+      "q": "Is it safe to use public transport in Milwaukee?",
+      "a": "Yes, MCTS buses and The Hop streetcar are generally safe, especially during daytime hours. The airport route (Route 80) is reliable for tourists. The Hop streetcar connecting downtown areas is free and well-maintained. For late-night travel, rideshare is recommended over public transit."
+    }
+  ],
+  "relatedCities": [
+    "chicago",
+    "detroit",
+    "minneapolis",
+    "cleveland",
+    "st-louis"
+  ],
+  "_city_id": "milwaukee-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg/1280px-Milwaukee_Skyline_w_New_NW_Mutual_Building_2025_by_Isaac_Rowlett.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "pattaya",
+  "name": "Pattaya",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "region": "Southeast Asia",
+  "regionSlug": "southeast-asia",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 4.5,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 6.0,
+    "naturalHazards": 8.3
+  },
+  "summary": "Pattaya is a popular beach destination with moderate safety concerns. While violent crime is relatively low, petty theft, scams, and nightlife-related risks require caution, especially in areas like Walking Street.",
+  "quickVerdict": "Pattaya is generally manageable for tourists who stay alert and use common sense. The main risks involve petty crime in crowded areas, tourist scams targeting foreigners, and nightlife-related incidents. Solo female travelers should exercise extra caution in entertainment districts. The city has good medical facilities and strong police presence in tourist areas, but visitors should be aware of overcharging, jet ski scams, and drink spiking risks.",
+  "neighborhoods": [
+    {
+      "name": "Jomtien Beach",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Calmer and safer than central Pattaya, with family-friendly beaches and fewer nightlife-related issues. Good for accommodation and daytime activities."
+    },
+    {
+      "name": "Central Pattaya",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Tourist hub with good infrastructure and police presence. Moderate petty crime risk but generally safe during the day. Well-lit streets with plenty of activity."
+    },
+    {
+      "name": "Naklua",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Quieter northern area with local markets and fewer tourists. Lower crime rates and more authentic Thai atmosphere, good for those avoiding party areas."
+    },
+    {
+      "name": "Walking Street",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Famous nightlife strip with high risks of scams, overcharging, pickpocketing, and drink spiking. Heavy police presence but still requires extreme caution, especially at night."
+    },
+    {
+      "name": "Soi Buakhao",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Expat and tourist area with numerous bars and restaurants. Moderate crime risk with some petty theft and scams. Safer than Walking Street but still requires awareness."
+    },
+    {
+      "name": "South Pattaya",
+      "score": 5.2,
+      "class": "caution",
+      "description": "Mix of beaches, hotels, and entertainment venues. Higher petty crime rates due to tourist concentration. Avoid isolated areas and be cautious with transportation scams."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Jet Ski Damage Scam",
+      "risk": "high",
+      "description": "Rental operators claim pre-existing damage when you return the jet ski and demand large payments for repairs.",
+      "howToAvoid": "Take photos/videos of the jet ski before use, only use reputable operators with clear agreements, never leave your passport as collateral."
+    },
+    {
+      "name": "Gem Store Tourist Trap",
+      "risk": "high",
+      "description": "Tuk-tuk drivers or friendly locals offer cheap rides then take you to gem stores where you're pressured to buy worthless stones at inflated prices.",
+      "howToAvoid": "Refuse unsolicited offers for shopping tours, use ride-hailing apps instead of tuk-tuks, research legitimate gem dealers if genuinely interested in purchasing."
+    },
+    {
+      "name": "Bar Bill Inflation",
+      "risk": "high",
+      "description": "Bars on Walking Street and other nightlife areas present inflated bills with hidden charges, service fees, or claim drinks cost much more than advertised.",
+      "howToAvoid": "Always ask prices before ordering, check bills carefully, avoid bars with no posted prices, don't accept drinks from strangers."
+    },
+    {
+      "name": "Motorbike Taxi Overcharging",
+      "risk": "medium",
+      "description": "Drivers quote inflated fares to tourists, especially from airports or tourist areas, sometimes demanding much higher prices than agreed.",
+      "howToAvoid": "Use ride-hailing apps like Grab or Bolt for transparent pricing, agree on fares before starting the journey, know local baht bus routes which cost only 10 baht."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Pattaya is moderately safe for solo female travelers with proper precautions. The city's reputation as a party destination means extra vigilance is needed, especially in nightlife areas. Most harassment comes from tourists rather than locals, and Thai culture generally respects women. However, areas like Walking Street and Soi 6 should be avoided at night.",
+    "tips": [
+      "Stay in well-lit central areas and avoid Walking Street and red-light districts at night",
+      "Use ride-hailing apps instead of walking alone or taking unofficial transportation",
+      "Dress modestly when visiting temples and be aware that revealing clothing may attract unwanted attention",
+      "Never leave drinks unattended and be cautious of drink spiking in bars and clubs",
+      "Book accommodation in safer areas like Jomtien or central Pattaya rather than near party zones"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Pattaya nightlife comes with elevated risks, particularly around Walking Street and entertainment areas. While violent crime is relatively rare, petty theft, scams, drink spiking, and overcharging are common issues. Police presence is strong in tourist areas, but prevention is better than dealing with problems after they occur.",
+    "tips": [
+      "Stay in groups when possible and avoid walking alone in quiet or poorly lit areas",
+      "Keep valuables secure and don't display cash openly, especially in crowded nightlife zones",
+      "Be extremely cautious about alcohol consumption and never accept drinks from strangers",
+      "Use official taxis or ride-hailing apps rather than walking back to accommodation late at night",
+      "Avoid confrontations and walk away from aggressive situations rather than escalating"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Local transport relies on songthaews (baht buses), tuk-tuks, and motorcycle taxis.",
+    "rideshare": "Grab and Bolt operate reliably with transparent pricing. Safer than negotiating with local drivers and recommended for tourists.",
+    "taxis": "Meter taxis available but drivers often refuse to use meters for tourists. Fixed-price negotiations common but usually overpriced compared to ride-hailing apps.",
+    "tips": "Use ride-hailing apps for safety and fair pricing. Baht buses cost only 10 baht for local routes. Always wear helmets on motorcycle taxis and avoid them during heavy traffic or at night."
+  },
+  "customs": [
+    "Greet with the traditional 'wai' gesture - palms together at chest level with slight bow",
+    "Remove shoes before entering homes, temples, and some shops and restaurants",
+    "Never touch someone's head or point feet at people or Buddha images",
+    "Show deep respect for the Thai Royal Family - any criticism is illegal and severely punished",
+    "Dress modestly when visiting temples - cover shoulders and knees completely"
+  ],
+  "health": {
+    "overview": "Pattaya has good medical facilities with several international-standard hospitals. Bangkok Hospital Pattaya is JCI-accredited and caters specifically to international patients with multilingual staff.",
+    "water": "Tap water is not safe to drink. Use bottled or filtered water for drinking and brushing teeth. Most restaurants and hotels provide safe water.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Consider Hepatitis A and Typhoid for extended stays. Consult a travel doctor before arrival.",
+    "altitude": "Sea level location with tropical climate. Hot and humid year-round with rainy season June-October. Use mosquito protection against dengue fever."
+  },
+  "emergency": {
+    "general": "191",
+    "police": "191",
+    "ambulance": "1669",
+    "fire": "199",
+    "touristPolice": "1155",
+    "usEmbassy": "U.S. Embassy Bangkok: +66-2-205-4000. Consular services available for U.S. citizens in emergencies. Also register with STEP program before travel."
+  },
+  "faq": [
+    {
+      "q": "Is Pattaya safe for tourists?",
+      "a": "Pattaya is moderately safe for tourists who use common sense. While violent crime is low, petty theft, scams, and nightlife-related incidents are common. Stay alert in crowded areas, avoid excessive drinking, and use reputable transportation."
+    },
+    {
+      "q": "Is Pattaya safe at night?",
+      "a": "Nighttime safety requires extra caution, especially around Walking Street and entertainment districts. While police patrol tourist areas, risks include pickpocketing, drink spiking, and overcharging. Stay in groups and use official transportation."
+    },
+    {
+      "q": "Is Pattaya safe for solo female travelers?",
+      "a": "Solo female travelers can visit safely with proper precautions. Avoid red-light districts at night, use ride-hailing apps, dress modestly at temples, and stay in well-lit central areas. Most problems come from tourists rather than locals."
+    },
+    {
+      "q": "What areas should I avoid in Pattaya?",
+      "a": "Exercise extreme caution on Walking Street at night, avoid Soi 6 and LK Metro late evening, and stay away from isolated beach areas after dark. Stick to central Pattaya, Jomtien Beach, and Naklua for safer experiences."
+    },
+    {
+      "q": "Is it safe to use public transport in Pattaya?",
+      "a": "Local songthaews (baht buses) are generally safe and cheap at 10 baht per ride. Ride-hailing apps like Grab and Bolt are safest for tourists. Be cautious with motorcycle taxis and always negotiate tuk-tuk fares beforehand."
+    }
+  ],
+  "relatedCities": [
+    "bangkok",
+    "phuket",
+    "chiang-mai"
+  ],
+  "_city_id": "pattaya-thailand",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pattaya_beach_from_view_point.jpg/1280px-Pattaya_beach_from_view_point.jpg"
+}

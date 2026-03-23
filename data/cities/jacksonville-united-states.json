@@ -1,0 +1,160 @@
+{
+  "slug": "jacksonville",
+  "name": "Jacksonville",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 5.7,
+    "scamRisk": 6.0,
+    "womensSafety": 6.3,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Jacksonville is generally safe for tourists but has higher-than-average crime rates compared to other Florida cities. The majority of crimes occur in specific neighborhoods away from tourist areas, and violent crime has been declining since 2023. Visitors should take normal urban precautions.",
+  "quickVerdict": "Jacksonville offers a mixed safety profile for visitors. While violent crime has decreased significantly in recent years with murders dropping below 100 for the first time since 2011, the city still has above-average crime rates. Tourist areas like downtown, the beaches, and major attractions are generally safe with good police presence. Most safety concerns are concentrated in specific residential neighborhoods that tourists rarely visit. By staying aware of your surroundings and following standard urban safety practices, visitors can enjoy Jacksonville's beaches, cultural attractions, and vibrant downtown safely.",
+  "neighborhoods": [
+    {
+      "name": "San Marco",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale riverside neighborhood with historic charm, excellent restaurants, and low crime rates. Popular for shopping and dining with good police presence."
+    },
+    {
+      "name": "Downtown Jacksonville",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Central business district with good security, hotels, and tourist attractions. Well-patrolled during business hours with decent nightlife options."
+    },
+    {
+      "name": "Riverside/Avondale",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic arts district with galleries and restaurants. Generally safe but exercise caution at night, particularly in quieter residential streets."
+    },
+    {
+      "name": "Beaches Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Jacksonville Beach and Neptune Beach areas are tourist-friendly with good police presence and resort security. Some minor petty crime but overall safe."
+    },
+    {
+      "name": "Northside",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Higher crime area including neighborhoods around Moncrief and Grand Park. Tourists should avoid this area, especially at night."
+    },
+    {
+      "name": "Eastside",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area with elevated crime rates south of I-10. Limited tourist attractions and not recommended for visitors to explore independently."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Car Rental Scams",
+      "risk": "high",
+      "description": "Fraudulent car rental companies with fake websites offering too-good-to-be-true deals. About 18% of Florida travelers fall victim to hidden fees or deceptive practices not transparent during booking.",
+      "howToAvoid": "Book only through verified rental companies' official websites or established platforms. Check reviews from multiple sources and verify the company's physical location before making payments."
+    },
+    {
+      "name": "Fake Vacation Rental Listings",
+      "risk": "medium",
+      "description": "Scammers post fraudulent Airbnb or VRBO properties using stolen images from real listings and demand deposits through untraceable payment methods like Zelle or Venmo.",
+      "howToAvoid": "Book only through official rental platforms with verified listings. Never wire money or use payment apps for deposits. Verify property ownership and read reviews from multiple sources."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "medium",
+      "description": "Illegal copying of credit card information at ATMs, gas stations, and restaurants, particularly in tourist areas with high traffic.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover your PIN when entering, and check card readers for loose or suspicious attachments before use."
+    },
+    {
+      "name": "Gift Card Scams",
+      "risk": "medium",
+      "description": "Scammers pose as authority figures or claim emergencies to pressure victims into purchasing gift cards and sharing the codes. Florida is among the top targeted states.",
+      "howToAvoid": "Never buy gift cards for someone you don't know personally. Legitimate organizations never request payment via gift cards. Hang up and verify requests through official channels."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Jacksonville can be safe for solo female travelers with proper precautions. The city has a crime rate higher than national average, but this is mostly concentrated in specific neighborhoods away from tourist areas. Main tourist spots and public transportation are generally safe, though street harassment occasionally occurs.",
+    "tips": [
+      "Stay in well-reviewed hotels in safe neighborhoods like San Marco or downtown areas",
+      "Avoid walking alone at night in poorly lit or unpopulated areas",
+      "Use rideshare services rather than walking alone after dark, especially in unfamiliar areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Jacksonville's nightlife safety varies significantly by location. Downtown and beach areas have better security and police presence, while some residential neighborhoods should be avoided after dark. The city has seen improvements in recent years but still requires caution.",
+    "tips": [
+      "Stick to well-lit, populated areas with good police presence",
+      "Avoid walking alone at night, especially in unfamiliar neighborhoods",
+      "Use rideshare services or taxis for transportation after dark rather than walking"
+    ]
+  },
+  "transport": {
+    "metro": "Jacksonville Transportation Authority operates buses throughout the city with a generally safe system. The Skyway automated monorail connects downtown destinations safely.",
+    "rideshare": "Uber and Lyft operate throughout Jacksonville and are considered safe options. Both services are reliable for airport transfers and getting around the city.",
+    "taxis": "Traditional taxis are available but less common than rideshare options. Use licensed taxi companies and ensure the meter is running.",
+    "tips": "Public transit is generally safe during daytime hours. JTA buses have security measures and the MyJTA app provides real-time tracking for better trip planning."
+  },
+  "customs": [
+    "Firm handshakes with eye contact are standard greetings",
+    "Tipping 15-20% is expected at restaurants and for services",
+    "Americans value punctuality and direct communication"
+  ],
+  "health": {
+    "overview": "Jacksonville has excellent healthcare infrastructure with major hospitals including Mayo Clinic and Baptist Health systems. The city has modern medical facilities and emergency services.",
+    "water": "Tap water is safe to drink throughout Jacksonville with full compliance reported by the city's water department.",
+    "vaccinations": "No special vaccinations required for visiting Jacksonville. Standard travel insurance is recommended.",
+    "altitude": "Jacksonville is at sea level with a subtropical climate featuring hot, humid summers and mild winters. Hurricane season runs June through November."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 or (904) 630-0500",
+    "ambulance": "911",
+    "fire": "911 or (904) 255-3280",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy in Jacksonville as it is a US city. For international visitors, contact consulates in Miami or Atlanta if needed."
+  },
+  "faq": [
+    {
+      "q": "Is Jacksonville safe for tourists?",
+      "a": "Jacksonville is generally safe for tourists who stay in main tourist areas like downtown, the beaches, and major attractions. While the city has above-average crime rates, most incidents occur in residential neighborhoods away from tourist zones."
+    },
+    {
+      "q": "Is Jacksonville safe at night?",
+      "a": "Jacksonville's nightlife areas like downtown and the beaches have good security, but caution is advised. Avoid walking alone in poorly lit areas and use rideshare services for transportation after dark."
+    },
+    {
+      "q": "Is Jacksonville safe for solo female travelers?",
+      "a": "Solo female travelers can visit Jacksonville safely by taking normal urban precautions. Stay in well-reviewed accommodations, avoid walking alone at night, and stick to populated, well-lit areas."
+    },
+    {
+      "q": "What areas should I avoid in Jacksonville?",
+      "a": "Avoid the Northside areas around Moncrief and Grand Park, as well as parts of the Eastside south of I-10. These areas have higher crime rates and limited tourist attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Jacksonville?",
+      "a": "JTA buses and the Skyway monorail are generally safe to use, especially during daytime hours. The system has security measures in place and real-time tracking through the MyJTA app."
+    }
+  ],
+  "relatedCities": [
+    "miami",
+    "orlando",
+    "tampa",
+    "atlanta",
+    "savannah"
+  ],
+  "_city_id": "jacksonville-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jacksonville_skyline.jpg/1280px-Jacksonville_skyline.jpg"
+}

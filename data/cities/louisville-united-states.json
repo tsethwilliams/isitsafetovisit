@@ -1,0 +1,158 @@
+{
+  "slug": "louisville",
+  "name": "Louisville",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.8,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.1,
+    "violentCrime": 5.8,
+    "scamRisk": 6.5,
+    "womensSafety": 7.2,
+    "nightSafety": 5.9,
+    "transport": 7.8,
+    "naturalHazards": 8.0
+  },
+  "summary": "Louisville is a vibrant city known for bourbon, the Kentucky Derby, and Southern hospitality, but visitors should be aware of varying safety levels across different neighborhoods. The city has experienced some challenges with violent crime in certain areas, though many tourist zones remain relatively safe with proper precautions.",
+  "quickVerdict": "Louisville offers a rich cultural experience but requires moderate caution due to higher-than-average crime rates in some areas. While tourist districts like downtown and the Highlands are generally safer, visitors should stay alert, avoid certain neighborhoods after dark, and be aware of common scams targeting tourists. The city's excellent public transportation and strong emergency services help offset some safety concerns, making it manageable for cautious travelers.",
+  "neighborhoods": [
+    {
+      "name": "Highlands",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Louisville's bohemian district with vibrant nightlife, art galleries, and restaurants. Well-lit streets and active foot traffic make it one of the safer areas for tourists, especially around Bardstown Road."
+    },
+    {
+      "name": "Downtown/NuLu",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The central business and entertainment district featuring Fourth Street Live, museums, and hotels. Generally safe during the day with good police presence, though caution is advised late at night."
+    },
+    {
+      "name": "Old Louisville",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Historic Victorian neighborhood near the University of Louisville. Beautiful architecture but some areas can feel isolated after dark. Stay on main streets and avoid walking alone at night."
+    },
+    {
+      "name": "Clifton/Crescent Hill",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential areas with tree-lined streets and local businesses. Generally safe with low crime rates, popular with families and young professionals."
+    },
+    {
+      "name": "West End",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Historically disadvantaged area with higher crime rates including violent crime. Tourists should exercise extreme caution and avoid unnecessary travel to this area, especially at night."
+    },
+    {
+      "name": "Smoketown/Russell",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Neighborhoods experiencing urban revitalization but still dealing with elevated crime rates. Visitors should be very cautious and stick to main thoroughfares if travel is necessary."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Sheriff Calls",
+      "risk": "high",
+      "description": "Scammers impersonate local sheriff's office claiming you missed jury duty or have a warrant, demanding immediate payment to avoid arrest.",
+      "howToAvoid": "Never pay fines over the phone. Legitimate law enforcement won't demand immediate payment via gift cards or wire transfers. Hang up and call the sheriff's office directly."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Some taxi drivers may claim broken meters or take longer routes to charge higher fares, especially targeting tourists unfamiliar with the city.",
+      "howToAvoid": "Use rideshare apps like Uber or Lyft for transparent pricing. If using taxis, insist the meter works or agree on a fare beforehand. Know approximate distances to your destination."
+    },
+    {
+      "name": "Fake Charity Collections",
+      "risk": "medium",
+      "description": "Scammers approach tourists claiming to collect donations for local charities, particularly around Churchill Downs and downtown tourist areas.",
+      "howToAvoid": "Never give cash to street solicitors. Research charities independently before donating. Ask for official identification and printed materials with contact information."
+    },
+    {
+      "name": "Derby Week Ticket Scams",
+      "risk": "high",
+      "description": "Fake Kentucky Derby tickets sold through Craigslist, social media, or street vendors at inflated prices, especially during Derby week.",
+      "howToAvoid": "Only buy tickets from official sources or verified resellers. Meet in public places and verify tickets before payment. Be wary of deals that seem too good to be true."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Louisville is generally safe for solo female travelers with proper precautions, though experiences can vary by neighborhood and time of day. The city has vibrant areas like the Highlands and downtown that are well-patrolled and frequented by tourists. However, some reports indicate harassment in nightlife areas, and certain neighborhoods should be avoided after dark.",
+    "tips": [
+      "Stay in well-lit, populated areas especially at night and choose accommodations in safer neighborhoods like the Highlands or downtown",
+      "Use reputable rideshare services instead of walking alone after dark, particularly when leaving bars or clubs",
+      "Trust your instincts and remove yourself from situations that feel uncomfortable - locals are generally helpful if you need assistance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Louisville's nighttime safety varies significantly by location, with only 38% of people feeling fully secure during nighttime hours according to local surveys. While downtown and the Highlands have decent lighting and police presence, many areas become less safe after dark due to reduced foot traffic and lighting issues.",
+    "tips": [
+      "Stick to main entertainment districts like Fourth Street Live and Bardstown Road where there's more activity and security",
+      "Avoid walking alone in less populated areas and use rideshare services for transportation between venues",
+      "Be extra cautious around closing time at bars and clubs, and never accept drinks from strangers or leave drinks unattended"
+    ]
+  },
+  "transport": {
+    "metro": "TARC (Transit Authority of River City) operates Louisville's public bus system with over 40 routes covering the metro area. The system is generally safe with good coverage during daytime hours. Buses are equipped with security cameras and have bike racks. The Dixie Rapid bus rapid transit line offers enhanced service with dedicated lanes.",
+    "rideshare": "Uber and Lyft operate extensively throughout Louisville and are considered safe, reliable options. Both services are particularly useful during events like the Kentucky Derby when parking is limited. Wait times are generally reasonable in tourist areas and downtown.",
+    "taxis": "Traditional taxis are regulated by Louisville Metro with set rates ($4.70 for first mile, $2.25 per additional mile). Some drivers may claim broken meters or take longer routes. Always insist on using the meter or negotiate fare beforehand. Airport rides have a $1.25 surcharge.",
+    "tips": "Public transportation is safest during daytime hours. For evening travel, rideshare services are recommended over walking or waiting at bus stops. During major events, book transportation in advance as demand increases significantly."
+  },
+  "customs": [
+    "Southern hospitality is genuine - locals are typically friendly and helpful to visitors",
+    "Derby culture is huge - even casual mention of horse racing will spark enthusiastic conversations",
+    "Bourbon appreciation is taken seriously - don't dismiss local distillery recommendations"
+  ],
+  "health": {
+    "overview": "Louisville has good healthcare infrastructure with several major hospitals including Norton Healthcare and Baptist Health systems. The city faces some public health challenges including above-average rates of heart disease and diabetes, partly related to regional dietary habits.",
+    "water": "Tap water is safe to drink and meets all federal standards. Louisville Water Company provides high-quality water treatment and regular testing.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. During flu season (fall/winter), influenza vaccination is recommended as the city experiences regular seasonal outbreaks.",
+    "altitude": "Louisville sits at only 466 feet above sea level, so altitude sickness is not a concern. The climate is humid subtropical with hot, humid summers and mild winters. Air quality is generally good but can be affected by seasonal allergens."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 502-574-7111 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A",
+    "usEmbassy": "Not applicable - domestic US city. Visitors from other countries should contact their nearest consulate in major US cities like Chicago or Atlanta."
+  },
+  "faq": [
+    {
+      "q": "Is Louisville safe for tourists?",
+      "a": "Louisville is moderately safe for tourists who take proper precautions. Stay in well-known areas like downtown, the Highlands, and NuLu, avoid certain neighborhoods like the West End, and use common sense safety practices especially at night."
+    },
+    {
+      "q": "Is Louisville safe at night?",
+      "a": "Louisville's nighttime safety varies by location. Popular areas like Fourth Street Live and Bardstown Road have decent lighting and activity, but many areas become less safe after dark. Use rideshare services instead of walking alone and stick to well-populated areas."
+    },
+    {
+      "q": "Is Louisville safe for solo female travelers?",
+      "a": "Louisville can be navigated safely by solo female travelers with appropriate precautions. Choose accommodations in safer neighborhoods, use rideshare services for nighttime transportation, and stay alert in bars and clubs where harassment has been reported."
+    },
+    {
+      "q": "What areas should I avoid in Louisville?",
+      "a": "Avoid the West End, Smoketown, and Russell neighborhoods, especially at night. While these areas are undergoing revitalization, they still have higher crime rates. Stick to tourist-friendly areas like downtown, the Highlands, and Clifton."
+    },
+    {
+      "q": "Is it safe to use public transport in Louisville?",
+      "a": "TARC buses are generally safe during daytime hours with security cameras and regular service. For evening travel, rideshare services are recommended over waiting at bus stops. The system is reliable for getting to major attractions during the day."
+    }
+  ],
+  "relatedCities": [
+    "nashville",
+    "cincinnati",
+    "lexington-kentucky"
+  ],
+  "_city_id": "louisville-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/1280px-Louisville_Skyline_2021_%283%29.jpg"
+}

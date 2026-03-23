@@ -1,0 +1,167 @@
+{
+  "slug": "fort-worth",
+  "name": "Fort Worth",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "North America",
+  "regionSlug": "north-america",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 7.5
+  },
+  "summary": "Fort Worth is a large city with notable crime rates that exceed national averages, though most tourists have safe experiences when taking proper precautions. The city has both very safe neighborhoods and areas with higher crime rates, making location awareness crucial for visitors.",
+  "quickVerdict": "Fort Worth offers rich cultural attractions and vibrant nightlife but requires moderate caution due to above-average crime rates. Downtown areas like Sundance Square are generally safer with good security presence, while certain neighborhoods should be avoided. The city's excellent public transportation, reliable emergency services, and strong tourism infrastructure make it manageable for careful travelers. Property crime is the main concern for tourists, particularly theft from vehicles.",
+  "neighborhoods": [
+    {
+      "name": "Sundance Square Downtown",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The heart of downtown Fort Worth with private security in addition to police presence. Well-lit pedestrian-friendly area with numerous bars, restaurants, and entertainment venues. Very popular with tourists and locals alike."
+    },
+    {
+      "name": "Cultural District",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Home to world-class museums including the Modern Art Museum and Kimbell Art Museum. Generally safe during daytime visits with good security at major attractions."
+    },
+    {
+      "name": "Fort Worth Stockyards",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic tourist district with Western-themed attractions. Safe during the day with regular police patrols, though exercise caution late at night when crowds thin out."
+    },
+    {
+      "name": "Near Southside/Magnolia Avenue",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy area with eclectic dining and nightlife options. Generally safe but requires awareness, particularly when walking between venues at night."
+    },
+    {
+      "name": "West 7th Street",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular nightlife corridor with modern bars and restaurants. Safe during busy evening hours but can become less secure late at night when foot traffic decreases."
+    },
+    {
+      "name": "Stop Six/Southeast Fort Worth",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Area with significantly higher crime rates including violent crime. Should be avoided by tourists, particularly after dark. Limited attractions for visitors in this area."
+    }
+  ],
+  "scams": [
+    {
+      "name": "AI-Enhanced Travel Booking Fraud",
+      "risk": "high",
+      "description": "Sophisticated fake rental and hotel listings using AI-generated photos and reviews. Scammers create convincing websites that mimic legitimate properties with professional-looking content.",
+      "howToAvoid": "Book only through verified platforms like official hotel websites or established booking sites. Cross-check property details and photos across multiple sources. Be wary of deals significantly below market rates."
+    },
+    {
+      "name": "Vehicle Break-ins at Tourist Attractions",
+      "risk": "high",
+      "description": "Opportunistic thieves target rental cars and out-of-state plates at popular attractions like the Stockyards and Cultural District. Items visible in vehicles are prime targets.",
+      "howToAvoid": "Never leave valuables visible in your car. Use hotel parking when possible. Park in well-lit, busy areas. Consider using rideshare services to major attractions instead of driving."
+    },
+    {
+      "name": "Fake Emergency/Digital Arrest Scams",
+      "risk": "medium",
+      "description": "Scammers pose as customs officials or police claiming illegal items linked to your passport, demanding immediate payment via cryptocurrency or gift cards to avoid arrest.",
+      "howToAvoid": "Real law enforcement never demands payment over the phone or via cryptocurrency. Hang up and contact official agencies directly through verified numbers if contacted."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "medium",
+      "description": "Card readers at gas stations, ATMs, and some tourist areas may have skimming devices attached. Fraudulent charges appear later on credit cards.",
+      "howToAvoid": "Use credit cards instead of debit cards. Choose well-lit ATMs at banks rather than standalone machines. Cover your PIN when entering it. Monitor accounts regularly for unauthorized charges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Fort Worth is generally suitable for solo female travelers with proper precautions, particularly in tourist areas like Sundance Square which has good security presence. The city's residents are known for being friendly and helpful to visitors. However, certain neighborhoods should be avoided and late-night activities require extra caution.",
+    "tips": [
+      "Stay in well-lit, busy areas like Sundance Square where there's both police and private security",
+      "Use rideshare services like Uber or Lyft instead of walking alone late at night",
+      "Avoid carrying expensive jewelry or large amounts of cash openly",
+      "Trust your instincts and remove yourself from any situation that feels uncomfortable",
+      "Keep friends or family informed of your location using apps like Find My Friends"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Fort Worth's nightlife can be enjoyed safely with proper awareness and precautions. Downtown areas like Sundance Square maintain good security and lighting, while the Stockyards offer vibrant country music venues. However, crime rates do increase after dark, particularly property crime and some violent incidents in certain areas.",
+    "tips": [
+      "Stick to well-established entertainment districts like Sundance Square and West 7th Street",
+      "Travel in groups when possible and use rideshare services for transportation",
+      "Avoid walking alone in less crowded areas after midnight",
+      "Keep valuables secure and don't flash cash or expensive items",
+      "Be cautious when leaving bars or clubs and have your transportation planned in advance"
+    ]
+  },
+  "transport": {
+    "metro": "Trinity Metro operates bus routes throughout Fort Worth with the main hub at Fort Worth Central Station. The system is generally safe and reliable, though service can be limited late at night. TEXRail connects downtown Fort Worth to DFW Airport.",
+    "rideshare": "Uber and Lyft operate extensively throughout Fort Worth and are recommended for late-night transportation. Generally safe and reliable, with standard app-based safety features like ride tracking and driver verification.",
+    "taxis": "Traditional taxis are available but less common than rideshare services. Use only licensed taxi companies and ensure the meter is running. Rideshare services are typically more convenient and transparent with pricing.",
+    "tips": "Public transportation is safest during daytime hours. For evening and night travel, rideshare services offer better safety through tracking and driver accountability. Avoid unlicensed taxi drivers, particularly at the airport."
+  },
+  "customs": [
+    "Tipping 15-20% at restaurants and bars is standard practice and expected",
+    "Americans value direct communication and personal space - maintain arm's length distance in conversations",
+    "Punctuality is important - arrive on time for appointments and reservations",
+    "Small talk with strangers is common and friendly - weather, sports, and current events are safe topics",
+    "Handshakes are the standard greeting with direct eye contact showing confidence and respect"
+  ],
+  "health": {
+    "overview": "Fort Worth has excellent healthcare infrastructure with multiple major hospital systems including JPS Health Network, Texas Health Resources, and Cook Children's Medical Center. The city's medical district is one of the largest in the region with world-class facilities.",
+    "water": "Tap water is safe to drink throughout Fort Worth and meets federal safety standards. No special precautions needed for visitors.",
+    "vaccinations": "No special vaccinations required for Fort Worth beyond standard travel recommendations. Routine vaccines should be up to date.",
+    "altitude": "Fort Worth sits at approximately 650 feet above sea level with no altitude-related health concerns. The climate is humid subtropical with hot summers and mild winters."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "911 (emergency) / 817-392-4222 (non-emergency)",
+    "ambulance": "911",
+    "fire": "911",
+    "touristPolice": "N/A - Use regular police non-emergency line",
+    "usEmbassy": "Fort Worth is a US city - contact local authorities for assistance. For international visitors, the nearest consular services are in Dallas or Houston."
+  },
+  "faq": [
+    {
+      "q": "Is Fort Worth safe for tourists?",
+      "a": "Fort Worth is generally safe for tourists who stay in main tourist areas like Sundance Square, the Cultural District, and Stockyards. While crime rates are above national averages, most visitors have trouble-free experiences when exercising normal urban precautions."
+    },
+    {
+      "q": "Is Fort Worth safe at night?",
+      "a": "Downtown areas like Sundance Square are well-patrolled and relatively safe at night, especially on weekends. However, avoid walking alone late at night and stick to well-lit, busy areas. Use rideshare services for transportation after dark."
+    },
+    {
+      "q": "Is Fort Worth safe for solo female travelers?",
+      "a": "Yes, with proper precautions. Solo female travelers should stay in tourist-friendly areas, use rideshare services at night, and trust their instincts. Sundance Square and the Cultural District are particularly welcoming to solo visitors."
+    },
+    {
+      "q": "What areas should I avoid in Fort Worth?",
+      "a": "Avoid the Stop Six area and parts of southeast Fort Worth, which have higher crime rates. These areas have limited tourist attractions. Stick to downtown, the Stockyards, Cultural District, and Near Southside for sightseeing."
+    },
+    {
+      "q": "Is it safe to use public transport in Fort Worth?",
+      "a": "Yes, Trinity Metro buses and TEXRail are generally safe during daytime hours. Evening and late-night travel is better done via rideshare services like Uber or Lyft, which offer additional safety features and convenience."
+    }
+  ],
+  "relatedCities": [
+    "dallas",
+    "austin",
+    "san-antonio",
+    "houston",
+    "oklahoma-city",
+    "phoenix"
+  ],
+  "_city_id": "fort-worth-united-states",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fort_Worth_Skyline.jpg/1280px-Fort_Worth_Skyline.jpg"
+}

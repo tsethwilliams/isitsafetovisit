@@ -1,0 +1,167 @@
+{
+  "slug": "mecca",
+  "name": "Mecca",
+  "country": "Saudi Arabia",
+  "countryCode": "SA",
+  "region": "Middle East",
+  "regionSlug": "middle-east",
+  "lastUpdated": "2026-03-23",
+  "overallScore": 5.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 4.5,
+    "violentCrime": 8.5,
+    "scamRisk": 3.0,
+    "womensSafety": 6.0,
+    "nightSafety": 7.0,
+    "transport": 6.5,
+    "naturalHazards": 4.5
+  },
+  "summary": "Mecca is considered the holiest city in Islam with generally low violent crime rates and strong security presence. However, visitors face elevated risks from extreme heat, pilgrimage-related scams, geopolitical tensions, and strict local laws that can lead to severe penalties for violations.",
+  "quickVerdict": "While Mecca maintains relatively low violent crime rates and benefits from extensive security infrastructure due to its religious significance, travelers face significant challenges from extreme desert conditions, opportunistic scams targeting pilgrims, and the current elevated regional security situation with missile and drone threats from Iran. The city's ultra-conservative laws and social restrictions require careful adherence to local customs. Non-Muslims are prohibited from entering the city, and all visitors must navigate the complexities of Saudi Arabia's legal system where social media activity and cultural violations can result in severe consequences.",
+  "neighborhoods": [
+    {
+      "name": "Al-Haram (Grand Mosque Area)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The holiest area with maximum security presence and constant surveillance. Well-lit and heavily patrolled, but extremely crowded during pilgrimage seasons with elevated pickpocketing risks."
+    },
+    {
+      "name": "Central Mecca (Ajyad & Al-Misfalah)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Commercial and residential areas near the Grand Mosque with moderate security. Generally safe but watch for tourist-targeting scams and avoid walking alone late at night."
+    },
+    {
+      "name": "Mina",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Pilgrimage site that becomes extremely crowded during Hajj with potential for dangerous crowd dynamics. Well-managed but inherent risks from mass gatherings and extreme heat exposure."
+    },
+    {
+      "name": "Arafat",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Remote pilgrimage location with challenging desert conditions and extreme temperatures. Limited infrastructure outside pilgrimage season and significant heat-related health risks."
+    },
+    {
+      "name": "Muzdalifah",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Open desert area used during Hajj with minimal permanent infrastructure. Extreme heat exposure, limited shade, and potential for getting lost in desert terrain."
+    },
+    {
+      "name": "Al-Tandeem (Outskirts)",
+      "score": 3.8,
+      "class": "danger",
+      "description": "Peripheral areas with limited security presence and basic infrastructure. Higher risk of crime, poorly lit streets, and greater exposure to sandstorms and extreme weather."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Hajj/Umrah Booking",
+      "risk": "high",
+      "description": "Fraudulent operators offer pilgrimage packages through fake websites mimicking official Nusuk platform or unlicensed agents selling non-existent accommodations.",
+      "howToAvoid": "Only book through official Nusuk platform or verified licensed operators. Verify all bookings independently and never pay cash without official receipts."
+    },
+    {
+      "name": "Pilgrim Sob Story",
+      "risk": "high",
+      "description": "Professional beggars approach pilgrims with fabricated stories about lost money, stolen passports, or family emergencies, exploiting religious generosity.",
+      "howToAvoid": "Politely decline and refer them to Saudi authorities. Consider donating to official charities instead of giving cash to individuals."
+    },
+    {
+      "name": "Accommodation Bait-and-Switch",
+      "risk": "medium",
+      "description": "Hotels advertised as being close to Haram turn out to be far away, requiring expensive daily taxi rides and longer walking distances.",
+      "howToAvoid": "Verify exact hotel locations on Google Maps before booking. Check independent reviews and confirm booking details with hotels directly."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Taxi drivers quote inflated prices or take longer routes, especially targeting foreign pilgrims during peak seasons.",
+      "howToAvoid": "Use ride-sharing apps like Careem or Uber. Agree on fares beforehand or ensure meter is running. Learn basic Arabic numbers for negotiations."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Mecca is restricted as non-Muslims cannot enter the city, and Saudi women cannot travel to Mecca alone without a male guardian for religious pilgrimage. Foreign Muslim women can visit for Umrah/Hajj but should exercise extreme caution due to conservative social norms, strict dress codes requiring full body covering, and potential legal consequences for cultural violations. The current security situation with regional conflicts adds additional risks.",
+    "tips": [
+      "Wear abaya and hijab at all times in public and ensure arms and legs are completely covered",
+      "Avoid walking alone at night and stay in well-reviewed accommodations with security",
+      "Be extremely careful with social media posts and delete any content that could be seen as inappropriate",
+      "Use official transportation services like verified taxi companies or ride-sharing apps",
+      "Carry emergency contacts and registration documents at all times"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Mecca maintains relatively good nighttime security near the Grand Mosque area due to 24/7 religious activities and constant security presence. However, areas further from the Haram have limited lighting and fewer security patrols. The current regional security situation with missile and drone threats creates additional concerns about nighttime safety.",
+    "tips": [
+      "Stay close to well-lit areas around the Grand Mosque complex when out at night",
+      "Use official transportation services rather than walking long distances after dark",
+      "Keep emergency contact numbers programmed in your phone and maintain situational awareness",
+      "Monitor security alerts and avoid being outdoors during any missile or drone threat warnings"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Mecca. The city relies on bus services, taxis, and walking, with ongoing transportation infrastructure development planned.",
+    "rideshare": "Careem and Uber operate in Mecca and are generally considered safer than traditional taxis. Apps provide driver verification and trip tracking, though availability may be limited during peak pilgrimage periods.",
+    "taxis": "Traditional taxis are widely available but drivers often don't use meters and may overcharge foreigners. Negotiate fares beforehand and avoid taxis without proper licensing. Some drivers may not speak English.",
+    "tips": "Use ride-sharing apps when possible for better safety and fair pricing. During Hajj season, expect significant delays and higher prices. Walking is often the fastest option near the Grand Mosque due to traffic restrictions."
+  },
+  "customs": [
+    "Non-Muslims are strictly prohibited from entering Mecca and surrounding holy areas",
+    "Dress modestly with full body coverage - women must wear abaya and hijab in public spaces",
+    "Remove shoes when entering mosques and follow prayer time schedules when businesses close",
+    "Avoid public displays of affection and respect Islamic customs during prayer times",
+    "Photography restrictions apply in many religious areas - always ask permission first",
+    "Alcohol and pork are strictly forbidden throughout Saudi Arabia including Mecca"
+  ],
+  "health": {
+    "overview": "Mecca has adequate healthcare facilities including specialized hospitals for pilgrims, but the extreme desert climate poses significant health risks. Heat-related illnesses are common, especially during summer months when temperatures can exceed 50°C (122°F). The 2024 Hajj saw over 1,300 heat-related deaths.",
+    "water": "Tap water is generally safe to drink but bottled water is recommended. Stay extremely well-hydrated due to intense heat and dry climate. Zamzam water is available at the Grand Mosque.",
+    "vaccinations": "Check Saudi Ministry of Health requirements which may include meningococcal vaccine for pilgrims. Yellow fever vaccination required if arriving from affected areas. COVID-19 requirements may apply.",
+    "altitude": "Mecca sits at 277 meters above sea level with an extreme desert climate. Temperatures routinely exceed 45°C (113°F) with potential for deadly heat waves. Sandstorms and flash floods can occur."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "999",
+    "ambulance": "997",
+    "fire": "998",
+    "touristPolice": "N/A",
+    "usEmbassy": "Due to current security situation, U.S. Embassy operations are limited. Emergency contact: +1-202-501-4444 (from abroad) or +1-888-407-4747 (from U.S./Canada). Embassy currently advises Americans to depart Saudi Arabia due to missile/drone threats."
+  },
+  "faq": [
+    {
+      "q": "Is Mecca safe for tourists?",
+      "a": "Mecca has low violent crime rates and extensive security, but faces significant risks from extreme heat, regional security threats, pilgrimage scams, and strict laws that can result in severe penalties. Only Muslims are allowed to enter the city."
+    },
+    {
+      "q": "Is Mecca safe at night?",
+      "a": "The Grand Mosque area is well-secured at night with 24/7 activity, but outer areas have limited lighting and security. Current missile/drone threats add extra nighttime risks requiring vigilance and monitoring of security alerts."
+    },
+    {
+      "q": "Is Mecca safe for solo female travelers?",
+      "a": "Very challenging due to conservative social norms requiring male guardians for Saudi women's pilgrimage. Foreign Muslim women can visit but must follow strict dress codes, avoid solo nighttime activities, and be extremely careful with cultural compliance."
+    },
+    {
+      "q": "What areas should I avoid in Mecca?",
+      "a": "Avoid remote desert areas like outer Muzdalifah and Al-Tandeem outskirts, especially during extreme heat or sandstorms. Stay away from unlicensed pilgrimage operators and be cautious around the Yemen border regions due to security concerns."
+    },
+    {
+      "q": "Is it safe to use public transport in Mecca?",
+      "a": "Official buses and licensed taxis are generally safe, with ride-sharing apps like Careem/Uber being preferred. Avoid unlicensed transportation and negotiate taxi fares beforehand. Walking is often necessary near the Grand Mosque due to traffic restrictions."
+    }
+  ],
+  "relatedCities": [
+    "riyadh",
+    "jeddah",
+    "medina",
+    "dubai",
+    "doha",
+    "manama"
+  ],
+  "_city_id": "mecca-saudi-arabia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/1280px-Great_Mosque_of_Mecca1.jpg"
+}
