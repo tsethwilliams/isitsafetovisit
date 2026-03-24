@@ -1,0 +1,161 @@
+{
+  "slug": "verona",
+  "name": "Verona",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.1,
+    "scamRisk": 6.2,
+    "womensSafety": 7.4,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 7.6
+  },
+  "summary": "Verona is generally a safe city for tourists with low violent crime rates and well-equipped public services. The main concerns are petty theft, tourist scams in popular areas, and moderate earthquake risk typical of northern Italy.",
+  "quickVerdict": "Verona offers a safe travel experience with crime rates lower than many European cities and efficient emergency services. While violent crime against tourists is rare, visitors should remain vigilant against pickpocketing and tourist scams, particularly around major attractions like the Arena and Juliet's House. The city benefits from good healthcare facilities, reliable public transport, and well-trained local police. Natural disaster risks are minimal beyond occasional minor earthquakes and flooding.",
+  "neighborhoods": [
+    {
+      "name": "Historic City Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The main tourist area around Piazza Bra, Via Mazzini, and Piazza delle Erbe is well-patrolled and generally very safe, though watch for pickpockets in crowds."
+    },
+    {
+      "name": "Borgo Trento",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale residential area with hospitals and good amenities. Very safe for walking and well-connected to city center."
+    },
+    {
+      "name": "Veronetta",
+      "score": 7.8,
+      "class": "safe",
+      "description": "University district across the river with a young, vibrant atmosphere. Safe but can get lively at night around bars."
+    },
+    {
+      "name": "Borgo Roma",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Newer suburban area with shopping centers and residential blocks. Safe but less interesting for tourists."
+    },
+    {
+      "name": "Porta Nuova Station Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main train station area requires more caution, especially late at night. Some reports of petty crime but generally manageable."
+    },
+    {
+      "name": "Porta Vescovo",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Industrial area near the secondary train station. Avoid walking alone at night, though crime is not severe."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Tourist Restaurant Overcharging",
+      "risk": "medium",
+      "description": "Restaurants near major attractions may overcharge tourists or add undisclosed fees like fake 'tourist taxes' or overpriced items.",
+      "howToAvoid": "Check prices before ordering, ask for menus with prices, avoid restaurants with aggressive touts, and know that coperto (table service) is legitimate."
+    },
+    {
+      "name": "Fake Gladiator Photos",
+      "risk": "medium",
+      "description": "Costumed performers near tourist sites offer photos that seem free but then demand payment, sometimes aggressively.",
+      "howToAvoid": "Ask for the price upfront before taking photos, or politely decline and walk away. Don't let them hand you props or pose with you."
+    },
+    {
+      "name": "Pickpocketing on Buses",
+      "risk": "medium",
+      "description": "Crowded public buses, especially during rush hour, can be targets for pickpockets who work in teams to create distractions.",
+      "howToAvoid": "Keep bags in front, avoid displaying valuables, be aware during boarding chaos, and stay alert in crowded areas."
+    },
+    {
+      "name": "Taxi Meter Tricks",
+      "risk": "low",
+      "description": "Some taxi drivers may not use the meter or quote inflated fixed prices, especially from the airport or train station.",
+      "howToAvoid": "Insist the meter is turned on, use the official taxi app AppTaxi, or book rides through your hotel to ensure legitimate service."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Verona is generally safe for solo female travelers with low violent crime rates and helpful locals. Women report feeling comfortable walking in the city center during day and evening hours, though normal precautions apply at night. The Italian culture is family-oriented and locals often look out for visitors.",
+    "tips": [
+      "Stick to well-lit main streets after dark and avoid isolated areas near the train stations",
+      "Dress modestly when visiting churches and religious sites to show respect",
+      "Be aware that Italian men may be more forward with compliments - this is usually harmless but firm boundaries are respected"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Verona's city center is relatively safe at night with good lighting and regular police patrols. Most crimes occur in isolated areas away from tourist zones. The areas around Porta Nuova and Porta Vescovo stations require more caution after dark.",
+    "tips": [
+      "Stay in the well-lit historic center and popular nightlife areas after dark",
+      "Use official taxis or trusted transport rather than walking alone to distant areas at night",
+      "Avoid empty side streets and parks after midnight, especially if alone"
+    ]
+  },
+  "transport": {
+    "metro": "Verona does not have a metro system. The city relies on an extensive bus network operated by ATV.",
+    "rideshare": "Uber operates in Verona with limited availability. The official AppTaxi app is more reliable for booking legitimate city taxis.",
+    "taxis": "Official taxis are white with TAXI signs and meters. They're available at designated ranks at train stations, Piazza Bra, and major tourist sites. Generally safe but insist on meter use.",
+    "tips": "Public buses are safe and efficient, running 5am-midnight. Buy tickets in advance from tobacco shops or via the ATV app to avoid surcharges. Validate tickets immediately when boarding to avoid fines."
+  },
+  "customs": [
+    "Greet people with 'Buongiorno' (good morning) or 'Buonasera' (good evening) and use formal titles until invited to use first names",
+    "Dress appropriately when visiting churches - cover shoulders and knees, remove hats, and maintain quiet, respectful behavior",
+    "Dining has specific customs: lunch is 12:30-2:30pm, dinner starts around 7:30pm, and it's normal to linger over meals and conversation"
+  ],
+  "health": {
+    "overview": "Italy has an excellent healthcare system and Verona has several quality hospitals. The city has about 30 hospitals and clinics with modern equipment and well-trained staff. Emergency services are responsive and professional.",
+    "water": "Tap water in Verona is safe to drink and meets EU standards. Some travelers prefer bottled water due to taste differences, but it's not necessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Verona. Standard travel vaccines like hepatitis A/B and tetanus are recommended but not mandatory.",
+    "altitude": "Verona sits at low elevation with no altitude concerns. The climate is continental with hot summers and cold winters, so pack accordingly for the season."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Milan: +39-02-290351 (covers Verona). Embassy in Rome: +39-06-46741. 24-hour American citizen emergency: +39-06-46741."
+  },
+  "faq": [
+    {
+      "q": "Is Verona safe for tourists?",
+      "a": "Yes, Verona is generally very safe for tourists with low violent crime rates. The main risks are petty theft and tourist scams around popular attractions. Use common sense precautions and you should have a safe visit."
+    },
+    {
+      "q": "Is Verona safe at night?",
+      "a": "The historic city center is safe at night with good lighting and police presence. Avoid the areas around train stations (Porta Nuova and Porta Vescovo) late at night, and stick to well-lit main streets rather than empty side alleys."
+    },
+    {
+      "q": "Is Verona safe for solo female travelers?",
+      "a": "Yes, Verona is quite safe for solo female travelers. Women report feeling comfortable in the city center and tourist areas. Use normal precautions like avoiding isolated areas at night and being aware of your surroundings."
+    },
+    {
+      "q": "What areas should I avoid in Verona?",
+      "a": "The areas around Porta Nuova and Porta Vescovo train stations require more caution, especially at night. These aren't dangerous but have higher rates of petty crime. Otherwise, Verona is generally safe throughout."
+    },
+    {
+      "q": "Is it safe to use public transport in Verona?",
+      "a": "Yes, Verona's public buses are safe and reliable. Watch for pickpockets during crowded rush hours and always validate your ticket to avoid fines. Taxis are also safe - just ensure they use the meter or agree on the fare beforehand."
+    }
+  ],
+  "relatedCities": [
+    "venice",
+    "milan",
+    "bologna",
+    "florence",
+    "rome",
+    "turin"
+  ],
+  "_city_id": "verona-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tramonto_a_Verona.jpg/1280px-Tramonto_a_Verona.jpg"
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "genoa",
+  "name": "Genoa",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 6.7,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.5,
+    "scamRisk": 6.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.2,
+    "transport": 7.5,
+    "naturalHazards": 7.4
+  },
+  "summary": "Genoa is generally safe for tourists but requires standard urban vigilance. Petty crime like pickpocketing exists, particularly in crowded tourist areas and on public transport. The city has moderate crime rates typical for Italian cities, with most incidents being non-violent.",
+  "quickVerdict": "Genoa is a relatively safe Italian port city that welcomes millions of visitors annually. While violent crime against tourists is rare, petty crimes like pickpocketing occur in busy areas such as the historic center, train stations, and tourist attractions. The city ranks within Italy's average crime statistics, with property crimes and drug-related issues being the main concerns. With basic precautions and awareness, visitors can safely explore Genoa's rich maritime heritage and UNESCO World Heritage sites.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center (Centro Storico)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "UNESCO World Heritage area with narrow medieval alleys called caruggi. Generally safe during daylight hours with good police presence, but can feel intimidating at night due to poor lighting in some vicoli. Stick to main streets after dark."
+    },
+    {
+      "name": "Porto Antico",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Renovated harbor area with attractions like the Aquarium. Well-lit and patrolled, making it one of the safest areas for evening strolls. Good police presence and plenty of foot traffic until midnight."
+    },
+    {
+      "name": "Castelletto",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale hillside neighborhood offering panoramic city views. Very safe for evening walks with well-maintained streets and affluent residential areas. Popular viewing areas are well-lit and regularly patrolled."
+    },
+    {
+      "name": "Sampierdarena",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Industrial working-class district that can be rougher, especially at night. Higher petty crime rates and less tourist infrastructure. Avoid walking alone after dark and stick to main thoroughfares if passing through."
+    },
+    {
+      "name": "Pre District",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Port area district known for higher crime rates and less desirable conditions. Frequently mentioned by locals as an area to avoid, particularly at night. Limited tourist facilities and poor lighting in many areas."
+    },
+    {
+      "name": "Principe Station Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Busy transportation hub with higher pickpocket activity due to crowds and tourists with luggage. Generally safe during daytime but requires extra vigilance. Underground passages can feel unsafe at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing on Public Transport",
+      "risk": "high",
+      "description": "Thieves operate in groups on crowded buses, metro, and at train stations. They create distractions while accomplices steal from bags and pockets.",
+      "howToAvoid": "Keep valuables in front pockets or money belt, wear bags in front on crowded transport, stay alert in busy areas especially Mercato Orientale and metro escalators."
+    },
+    {
+      "name": "Fake Charity Collectors",
+      "risk": "medium",
+      "description": "Individuals approach tourists claiming to collect for local charities, often using emotional stories. The charities are typically fake or the collectors keep donations.",
+      "howToAvoid": "Politely decline and keep walking. Only donate to established charities through official channels. Don't engage in conversation with unsolicited charity collectors."
+    },
+    {
+      "name": "Overpriced Taxi Scams",
+      "risk": "medium",
+      "description": "Some taxi drivers may take longer routes, refuse to use meters, or quote excessive flat rates, especially for airport transfers.",
+      "howToAvoid": "Only use official white taxis from designated stands. Insist the meter is running or agree on price beforehand. Official airport transfer should be around 35-40 euros to city center."
+    },
+    {
+      "name": "Friendly Stranger Assistance",
+      "risk": "medium",
+      "description": "Overly helpful locals approach tourists at ticket machines or ATMs, offering help while attempting to steal money or card information during the distraction.",
+      "howToAvoid": "Politely decline help from strangers at machines. Use ATMs inside banks when possible. Cover your PIN and be aware of your surroundings when using any machines."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Genoa is generally safe for solo female travelers with standard precautions. Most areas are walkable during daylight hours, and the city has good public transport. However, some narrow alleys in the historic center can feel intimidating alone at night, and certain areas like Pre district should be avoided. Italian men can be forward but harassment rarely escalates.",
+    "tips": [
+      "Avoid narrow vicoli in Centro Storico after dark, stick to main streets and well-lit areas",
+      "Use the free night public transport between 10 PM and 5 AM for safe returns to accommodation",
+      "Stay in tourist-friendly areas like near Porto Antico or Castelletto for evening activities",
+      "Download the Comune di Genova app and save the tourist police WhatsApp number +39 010 817 166",
+      "Dress modestly and blend in - avoid flashy jewelry or obvious tourist markers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Genoa's nightlife safety varies significantly by area. The renovated Porto Antico area maintains good lighting and police presence until midnight, making it ideal for evening activities. However, the historic center's narrow alleys become poorly lit and disorienting after dark. The hillside neighborhoods like Castelletto offer safer evening options with sea views.",
+    "tips": [
+      "Stick to Porto Antico area for nightlife - well-lit with good police presence until midnight",
+      "Use AMT night buses (N1-N4) which are safe and run until 1:30 AM from Piazza De Ferrari",
+      "Avoid isolated alleys in Centro Storico and the port district Pre after 11 PM",
+      "Travel in groups when possible and always let someone know your evening plans"
+    ]
+  },
+  "transport": {
+    "metro": "Genoa has a single metro line with 8 stations connecting major areas including the historic center. Generally safe and modern, but watch for pickpockets especially on escalators at San Giorgio station. Since 2024, metro travel is free for Genoa residents between 10 PM-5 AM.",
+    "rideshare": "Rideshare services like Uber are available but limited. Most locals use official taxis or public transport. Apps work well in the city center but may have longer wait times in outer areas.",
+    "taxis": "Official taxis are white and found at designated stands near train stations and main squares. Generally safe and regulated. Radio Taxi available at +39 010 5966 or WhatsApp +39-392-5966123. Always ensure meter is running or agree on fare beforehand.",
+    "tips": "Public transport is comprehensive with buses, metro, funiculars and lifts. A single ticket costs 2 euros for 110 minutes across all AMT services. Night travel 10 PM-5 AM is free, providing safe budget-friendly transport. Validate tickets before boarding to avoid fines."
+  },
+  "customs": [
+    "Greet with 'Buongiorno' in morning or 'Buonasera' in evening - always greet before starting transactions in shops",
+    "Dining happens late - lunch 1-3 PM, dinner typically starts after 7:30 PM, often 8-9 PM in summer",
+    "No cappuccino after 11 AM rule - Italians believe milk disrupts digestion after meals, order espresso instead"
+  ],
+  "health": {
+    "overview": "Genoa has excellent healthcare facilities including the major IRCCS Policlinico San Martino Hospital, a leading medical center serving all of Liguria. Healthcare quality is high with English-speaking staff in major facilities. Emergency care is free regardless of nationality.",
+    "water": "Tap water is safe to drink throughout Genoa. Public fountains marked 'Acqua Non Potabile' should be avoided, but most public fountains provide safe drinking water.",
+    "vaccinations": "No special vaccinations required for Italy. Standard travel vaccines like MMR and DPT should be up to date. EU citizens can use European Health Insurance Card for coverage.",
+    "altitude": "Genoa is at sea level with a Mediterranean climate. Summers can be hot and humid (mid-80s F) with high humidity in the 70% range. Winters are mild with highs in mid-50s F but can be damp."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "+39 010 817 166 (WhatsApp available in English)",
+    "usEmbassy": "US Consulate Florence covers Liguria region. US Embassy Rome: +39 06 46741. For emergencies: +39 06 46742113. Address: Via Vittorio Veneto 121, 00187 Rome."
+  },
+  "faq": [
+    {
+      "q": "Is Genoa safe for tourists?",
+      "a": "Yes, Genoa is generally safe for tourists. While petty crimes like pickpocketing can occur in crowded areas, violent crime against visitors is rare. The city has typical Italian urban safety levels with good police presence in tourist zones."
+    },
+    {
+      "q": "Is Genoa safe at night?",
+      "a": "Safety varies by area at night. Porto Antico (harbor area) is well-lit and safe until midnight, while narrow alleys in the historic center can feel unsafe after dark. Hillside neighborhoods like Castelletto are safer for evening walks with good lighting."
+    },
+    {
+      "q": "Is Genoa safe for solo female travelers?",
+      "a": "Generally yes, with standard precautions. Avoid narrow vicoli at night, use the free night public transport 10 PM-5 AM, and stay in well-lit tourist areas. Italian men can be forward but harassment rarely escalates. Local women are helpful if you need assistance."
+    },
+    {
+      "q": "What areas should I avoid in Genoa?",
+      "a": "Avoid Sampierdarena and Pre district especially at night due to higher crime rates. In Centro Storico, stick to main streets after dark rather than narrow side alleys. The port area around Principe station requires extra vigilance for pickpockets."
+    },
+    {
+      "q": "Is it safe to use public transport in Genoa?",
+      "a": "Yes, AMT public transport is generally safe and efficient. Watch for pickpockets on crowded buses and metro, especially at San Giorgio station escalators. Night service 10 PM-5 AM is free and provides safe transport. Keep bags in front on crowded vehicles."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "florence",
+    "milan",
+    "venice",
+    "naples"
+  ],
+  "_city_id": "genoa-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/1280px-Piazza_de_Ferrari%2C_Genoa.jpg"
+}

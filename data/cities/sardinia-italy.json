@@ -1,0 +1,160 @@
+{
+  "slug": "sardinia",
+  "name": "Sardinia",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 8.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.8,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 7.5,
+    "naturalHazards": 8.8
+  },
+  "summary": "Sardinia is one of Italy's safest regions, consistently ranking among the lowest for crime rates nationwide. The island combines exceptional natural beauty with strong local security, making it an ideal destination for all types of travelers including solo females and families.",
+  "quickVerdict": "Sardinia stands out as Italy's safest region with exceptionally low crime rates, particularly for violent crimes. The local Sardinian culture emphasizes hospitality and community safety, creating a welcoming environment for tourists. While petty crime like pickpocketing can occur in tourist areas, it remains significantly lower than mainland Italian cities. The island's geological stability means minimal earthquake risk, though occasional flash floods can affect coastal areas during heavy rains. Overall, visitors can explore with confidence while maintaining standard travel precautions.",
+  "neighborhoods": [
+    {
+      "name": "Costa Smeralda",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Luxury resort area with excellent private security, upscale accommodations, and very low crime rates. Well-patrolled beaches and exclusive venues ensure high safety standards."
+    },
+    {
+      "name": "Alghero Old Town",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic Catalan-influenced town center with good lighting, regular police presence, and family-friendly atmosphere. Popular with tourists but maintains excellent safety record."
+    },
+    {
+      "name": "Cagliari Centro Storico",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The capital's historic center is generally safe with good tourist infrastructure, though visitors should be aware of pickpockets in busy areas around major attractions."
+    },
+    {
+      "name": "Cagliari Sant'Elia",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Residential district with higher petty crime rates, particularly at night. Drug-related activity reported; tourists should avoid after dark and stick to main roads if passing through."
+    },
+    {
+      "name": "Sassari Latte Dolce",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Peripheral neighborhood with some social issues and higher crime rates than city center. Limited tourist interest, but exercise caution if traveling through the area."
+    },
+    {
+      "name": "Rural Interior Villages",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Traditional mountain villages with extremely low crime rates and strong community bonds. Visitors are welcomed warmly, though some areas have limited emergency services access."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Train Ticket Assistance",
+      "risk": "medium",
+      "description": "Scammers approach tourists at train stations offering to help with ticket purchases, then overcharge or provide expired tickets.",
+      "howToAvoid": "Only buy tickets from official machines or ticket offices. Politely decline unsolicited help and verify all tickets before boarding."
+    },
+    {
+      "name": "Online Accommodation Fraud",
+      "risk": "medium",
+      "description": "Fake vacation rental listings on social media or suspicious websites, particularly during peak season when legitimate properties are scarce.",
+      "howToAvoid": "Book only through verified platforms, verify property existence through multiple sources, and never transfer money via bank transfer to unknown accounts."
+    },
+    {
+      "name": "Beach Equipment Overcharging",
+      "risk": "low",
+      "description": "Some beach clubs or equipment rental services charge inflated prices to tourists, especially in popular coastal areas.",
+      "howToAvoid": "Check prices at multiple vendors, ask for written price lists, and research typical costs online before visiting beaches."
+    },
+    {
+      "name": "Restaurant Tourist Menu Trap",
+      "risk": "low",
+      "description": "Some restaurants offer overpriced tourist menus with inferior food quality compared to regular menu items preferred by locals.",
+      "howToAvoid": "Look for restaurants frequented by locals, ask for the regular menu in Italian, and check reviews from recent travelers online."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sardinia is exceptionally safe for solo female travelers, with local men typically described as respectful and somewhat shy with strangers. The island's traditional culture emphasizes protecting and helping visitors, particularly women traveling alone. Crime against tourists is rare, and harassment is uncommon compared to other Mediterranean destinations.",
+    "tips": [
+      "Stay in well-reviewed accommodations in town centers or established resort areas for best access to help if needed",
+      "Carry a basic Italian phrasebook or translation app as English fluency varies outside major tourist areas",
+      "Inform someone of your daily plans when exploring remote beaches or hiking trails in the interior",
+      "Dress modestly when visiting small villages or religious sites to show respect for local customs"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Sardinia is generally excellent, with most areas remaining safe for evening strolls and dining. Coastal resort areas maintain good lighting and security presence. However, some peripheral neighborhoods in major cities should be avoided after dark, and rural areas may lack adequate lighting.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas when walking at night in cities",
+      "Avoid isolated beaches and rural roads after dark due to poor lighting and limited emergency access",
+      "Book taxis or ride services for late-night transportation rather than walking long distances",
+      "Stay alert in nightlife areas and avoid excessive alcohol consumption in unfamiliar environments"
+    ]
+  },
+  "transport": {
+    "metro": "Cagliari has a limited metro system that is safe and reliable, though coverage is restricted to the main urban area with connections to the airport.",
+    "rideshare": "Rideshare services are limited outside major cities. Traditional taxi services are safe and reliable, though advance booking is recommended, especially in rural areas.",
+    "taxis": "Licensed taxis are safe and professionally operated throughout Sardinia. Ensure the meter is running or agree on the fare beforehand for longer journeys to tourist destinations.",
+    "tips": "Public buses connect major cities and tourist areas but can be infrequent. Car rental is recommended for flexibility, with good road conditions and clear signage throughout the island."
+  },
+  "customs": [
+    "Always greet with 'buongiorno' or 'buonasera' when entering shops, restaurants, or meeting people",
+    "Dress modestly when visiting churches or small villages - cover shoulders and knees",
+    "Learn basic Italian phrases as a sign of respect, even in tourist areas where English is spoken"
+  ],
+  "health": {
+    "overview": "Sardinia offers excellent healthcare through Italy's national health system, with modern hospitals in major cities and good emergency services coverage.",
+    "water": "Tap water is safe to drink throughout the island, though some prefer bottled water due to taste preferences.",
+    "vaccinations": "No special vaccinations required. Routine immunizations should be up to date.",
+    "altitude": "Mediterranean climate with hot, dry summers and mild winters. Strong winds are common, especially in coastal areas. Stay hydrated and use sun protection during summer months."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Rome: +39 06 4674-1 (24/7 emergencies). Nearest US Consular services available in Naples and Florence for non-emergency assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Sardinia safe for tourists?",
+      "a": "Yes, Sardinia is considered one of Italy's safest regions with very low crime rates. The island has strong community values and locals are generally welcoming and helpful to tourists. Standard travel precautions are sufficient."
+    },
+    {
+      "q": "Is Sardinia safe at night?",
+      "a": "Sardinia is generally very safe at night, especially in tourist areas and town centers. Stick to well-lit areas and avoid isolated beaches or rural roads after dark. Coastal resort areas maintain good security presence throughout the evening."
+    },
+    {
+      "q": "Is Sardinia safe for solo female travelers?",
+      "a": "Absolutely. Sardinia is exceptionally safe for solo female travelers. Local culture is respectful and protective of visitors, particularly women traveling alone. Harassment is rare and violent crime against tourists is extremely uncommon."
+    },
+    {
+      "q": "What areas should I avoid in Sardinia?",
+      "a": "Generally, avoid peripheral neighborhoods like Sant'Elia in Cagliari and Latte Dolce in Sassari, especially at night. These areas have higher petty crime rates but are not typically of interest to tourists anyway."
+    },
+    {
+      "q": "Is it safe to use public transport in Sardinia?",
+      "a": "Yes, public transportation in Sardinia is safe and reliable. Buses connect major cities and tourist destinations, while Cagliari has a small metro system. Taxis are professional and trustworthy throughout the island."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "naples",
+    "palermo"
+  ],
+  "_city_id": "sardinia-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sardinia_in_Italy.svg/1280px-Sardinia_in_Italy.svg.png"
+}
