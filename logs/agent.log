@@ -3130,3 +3130,47 @@
 2026-03-24 12:10:51,303 [INFO] Merged into site data: Valletta
 2026-03-24 12:10:51,408 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-24 12:10:51,460 [INFO] Rebuilt sitemap with 648 URLs (500 cities, 142 countries, 6 static)
+2026-03-24 19:37:26,119 [INFO] Agent starting — mode: add
+2026-03-24 19:37:26,160 [INFO] Queue has 90 cities, adding 8
+2026-03-24 19:37:26,160 [INFO] Generating new city profile: Gozo, Malta
+2026-03-24 19:38:49,955 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:38:50,517 [INFO] Found Wikipedia image for Gozo
+2026-03-24 19:38:50,518 [INFO] Saved city data: gozo-malta
+2026-03-24 19:38:50,523 [INFO] Generating new city profile: Kyiv, Ukraine
+2026-03-24 19:40:15,713 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:40:16,027 [INFO] Found Wikipedia image for Kyiv
+2026-03-24 19:40:16,027 [INFO] Saved city data: kyiv-ukraine
+2026-03-24 19:40:16,032 [INFO] Generating new city profile: Lviv, Ukraine
+2026-03-24 19:41:40,921 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:41:41,222 [INFO] Found Wikipedia image for Lviv
+2026-03-24 19:41:41,223 [INFO] Saved city data: lviv-ukraine
+2026-03-24 19:41:41,227 [INFO] Generating new city profile: Odessa, Ukraine
+2026-03-24 19:42:44,876 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:42:45,184 [INFO] Found Wikipedia image for Odessa
+2026-03-24 19:42:45,185 [INFO] Saved city data: odessa-ukraine
+2026-03-24 19:42:45,189 [INFO] Generating new city profile: Nicosia, Cyprus
+2026-03-24 19:44:20,826 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:44:21,135 [INFO] Found Wikipedia image for Nicosia
+2026-03-24 19:44:21,136 [INFO] Saved city data: nicosia-cyprus
+2026-03-24 19:44:21,140 [INFO] Generating new city profile: Paphos, Cyprus
+2026-03-24 19:45:51,025 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:45:51,333 [INFO] Found Wikipedia image for Paphos
+2026-03-24 19:45:51,333 [INFO] Saved city data: paphos-cyprus
+2026-03-24 19:45:51,337 [INFO] Generating new city profile: Zakynthos, Greece
+2026-03-24 19:47:15,751 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:47:16,039 [INFO] Found Wikipedia image for Zakynthos
+2026-03-24 19:47:16,039 [INFO] Saved city data: zakynthos-greece
+2026-03-24 19:47:16,044 [INFO] Generating new city profile: Paros, Greece
+2026-03-24 19:48:34,997 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 19:48:35,412 [INFO] Found Wikipedia image for Paros
+2026-03-24 19:48:35,413 [INFO] Saved city data: paros-greece
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Gozo
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Kyiv
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Lviv
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Odessa
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Nicosia
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Paphos
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Zakynthos
+2026-03-24 19:48:35,470 [INFO] Merged into site data: Paros
+2026-03-24 19:48:35,571 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-24 19:48:35,623 [INFO] Rebuilt sitemap with 658 URLs (508 cities, 144 countries, 6 static)

@@ -1,0 +1,167 @@
+{
+  "slug": "paphos",
+  "name": "Paphos",
+  "country": "Cyprus",
+  "countryCode": "CY",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 6.4,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.5,
+    "scamRisk": 5.5,
+    "womensSafety": 5.2,
+    "nightSafety": 5.8,
+    "transport": 7.2,
+    "naturalHazards": 6.5
+  },
+  "summary": "Paphos remains relatively safe for tourists despite March 2026's Level 3 US travel advisory due to regional tensions. The city itself has low crime rates and good infrastructure, though travelers should monitor developments.",
+  "quickVerdict": "While Paphos maintains its reputation as a safe Mediterranean destination with low crime rates and excellent tourism infrastructure, the March 2026 US travel advisory upgrade to Level 3 reflects regional security concerns rather than direct threats to tourists. Daily life continues normally with hotels, restaurants, and attractions operating as usual. Travelers should stay informed about regional developments but can visit with appropriate caution.",
+  "neighborhoods": [
+    {
+      "name": "Kato Paphos",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Tourist-friendly harbor area with archaeological sites, restaurants, and well-lit streets. Heavy police presence and CCTV coverage provide additional security."
+    },
+    {
+      "name": "Coral Bay",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular beach resort area with family-friendly atmosphere. Well-developed tourist infrastructure with regular security patrols along the coastline."
+    },
+    {
+      "name": "Paphos City Center",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic UNESCO World Heritage area with good lighting and frequent foot traffic. Some areas become quieter at night requiring standard precautions."
+    },
+    {
+      "name": "Tomb of the Kings Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Archaeological zone that becomes isolated after hours. Generally safe during daytime visits but avoid walking alone at night in surrounding areas."
+    },
+    {
+      "name": "Paphos Old Town",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Traditional area with narrow streets and mixed development. Some abandoned buildings and poor lighting in certain sections require extra vigilance."
+    },
+    {
+      "name": "West of Bus Station",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Area specifically mentioned by locals as having higher crime risks. Avoid after dark and exercise caution even during daytime visits."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tourism Guide Scam",
+      "risk": "high",
+      "description": "Unlicensed guides at Tombs of the Kings and harbor offer free tours then demand 50-100 euros claiming official status or exclusive access fees.",
+      "howToAvoid": "Only use guides from official Paphos tourism office where tours cost 10-20 euros. Check for ID badges and book through Cyprus tourism app."
+    },
+    {
+      "name": "Cabaret Club Scam",
+      "risk": "high",
+      "description": "Friendly locals invite tourists to clubs then leave them with inflated bills of 5-10 times normal prices, enforced by bouncers who escort victims to ATMs.",
+      "howToAvoid": "Avoid invitations from strangers to bars or clubs. Research venues beforehand and never leave drinks unattended. Stick to established tourist areas."
+    },
+    {
+      "name": "Taxi Meter Manipulation",
+      "risk": "medium",
+      "description": "Drivers at airports start meters early or use unofficial rates, charging up to 60 euros for 25-euro trips while citing tourist surcharges or traffic delays.",
+      "howToAvoid": "Use official airport taxi desks or ride-sharing apps like Bolt. Agree on fare upfront and confirm standard rates: airport to city center should be 25-30 euros."
+    },
+    {
+      "name": "Fake Tobacco Products",
+      "risk": "medium",
+      "description": "Shops sell counterfeit cigarettes and tobacco from Russia at regular prices, with products being dry and low quality, often discovered too late.",
+      "howToAvoid": "Buy tobacco products only from large chain stores or reputable kiosks. Check packaging for tampering and avoid deals that seem too good to be true."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Mixed experiences for solo female travelers in Paphos with generally positive safety but some concerning reports of harassment. Most women feel safe during daytime activities, but nighttime requires extra caution. Street harassment including honking, unsolicited offers of rides, and catcalling has been reported, particularly from some foreign residents.",
+    "tips": [
+      "Stay in well-lit tourist areas like Kato Paphos harbor",
+      "Avoid walking alone late at night, especially in less populated areas",
+      "Be cautious of aggressive behavior from some men, particularly in nightlife venues",
+      "Consider traveling with companions when possible",
+      "Trust your instincts and remove yourself from uncomfortable situations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Generally safe in well-lit tourist zones but requires caution in quieter areas. Tourist areas like Kato Paphos harbor remain active with good lighting and security presence until late evening. However, some areas become isolated after dark and drink spiking has been reported in nightlife venues.",
+    "tips": [
+      "Stick to well-lit main streets and tourist areas",
+      "Use licensed taxis or ride-sharing apps for transportation",
+      "Watch your drinks carefully and never leave them unattended",
+      "Avoid the area west of the bus station after dark",
+      "Stay alert in nightlife venues and be wary of overly friendly strangers"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Cyprus. Public transport relies on buses, taxis, and ride-sharing services.",
+    "rideshare": "Bolt is available and recommended as a safe option with fixed transparent pricing. Widely used for airport transfers and local transportation.",
+    "taxis": "Generally safe with required taximeters in urban areas. Fixed rates to major destinations. Airport taxis should cost 25-30 euros to city center. Avoid unlicensed operators.",
+    "tips": "Buses run regularly during tourist season with routes 612/613 connecting to airport. Rural areas have limited service. Car rental popular but remember to drive on the left side."
+  },
+  "customs": [
+    "Dress modestly when visiting religious sites - cover shoulders and knees",
+    "Tipping 10% is appreciated in restaurants but not mandatory",
+    "Respect for elders is important - they are served and greeted first",
+    "Wait for your host to begin eating before starting your meal",
+    "Avoid discussing the Cyprus division or sensitive political topics"
+  ],
+  "health": {
+    "overview": "Modern healthcare facilities with both public and private options. The General Healthcare System provides universal coverage for residents, while tourists should have travel insurance. EU visitors can use EHIC cards for basic care.",
+    "water": "Tap water is generally safe to drink as it meets EU safety standards, though some visitors may experience mild stomach discomfort due to mineral differences. Bottled water available if preferred.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations for measles, mumps, rubella, diphtheria, and COVID-19 recommended. Annual flu vaccination advised.",
+    "altitude": "No altitude concerns. Mediterranean climate can be very hot in summer requiring sun protection and hydration. Mild winters may require light jackets."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 or 199",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Nicosia: Metochiou & Ploutarchou Street 2407, Engomi Nicosia. Note: Limited ability to assist in Turkish Cypriot areas. Due to March 2026 Level 3 advisory, non-emergency personnel authorized to leave."
+  },
+  "faq": [
+    {
+      "q": "Is Paphos safe for tourists?",
+      "a": "Yes, Paphos remains relatively safe with low crime rates and good tourism infrastructure, though the March 2026 US Level 3 advisory reflects regional tensions. Normal tourist activities continue with appropriate precautions."
+    },
+    {
+      "q": "Is Paphos safe at night?",
+      "a": "Generally safe in well-lit tourist areas like Kato Paphos harbor, but requires caution in quieter neighborhoods. Avoid the area west of the bus station and stick to main tourist zones after dark."
+    },
+    {
+      "q": "Is Paphos safe for solo female travelers?",
+      "a": "Mixed experiences with most feeling safe during the day but some reports of harassment. Exercise extra caution at night, avoid isolated areas, and be wary of overly friendly strangers inviting you to bars."
+    },
+    {
+      "q": "What areas should I avoid in Paphos?",
+      "a": "Avoid the area west of the bus station, especially at night. Exercise caution in parts of the old town with poor lighting and around isolated archaeological sites after hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Paphos?",
+      "a": "Yes, buses are generally safe and reliable with modern vehicles. Taxis are regulated with required meters. Ride-sharing apps like Bolt offer additional safety with transparent pricing."
+    }
+  ],
+  "relatedCities": [
+    "limassol",
+    "larnaca",
+    "nicosia",
+    "ayia-napa",
+    "valletta",
+    "athens"
+  ],
+  "_city_id": "paphos-cyprus",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Paphos_Marine%2C_Cyprus_-_panoramio.jpg/1280px-Paphos_Marine%2C_Cyprus_-_panoramio.jpg"
+}

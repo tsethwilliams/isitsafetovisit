@@ -1,0 +1,160 @@
+{
+  "slug": "nicosia",
+  "name": "Nicosia",
+  "country": "Cyprus",
+  "countryCode": "CY",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 7.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 7.5,
+    "scamRisk": 6.5,
+    "womensSafety": 6.8,
+    "nightSafety": 6.4,
+    "transport": 7.2,
+    "naturalHazards": 8.0
+  },
+  "summary": "Nicosia is Cyprus's capital and the world's last divided city, typically considered very safe for tourists with low crime rates and friendly locals. However, current US State Department advisories warn of regional security concerns due to armed conflict risks and limited embassy assistance in certain areas.",
+  "quickVerdict": "While Nicosia historically maintains excellent safety standards with minimal violent crime and generally welcoming locals, the current regional situation has elevated security concerns. The US State Department's Level 3 advisory reflects spillover risks from regional conflicts rather than local crime issues. Most tourist areas remain safe during normal circumstances, but travelers should stay informed about rapidly changing security conditions.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Laiki Geitonia)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Historic city center with narrow cobblestone streets, traditional shops, restaurants, and cultural attractions. Well-patrolled and popular with tourists during day and evening hours."
+    },
+    {
+      "name": "Ledra Street Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Main pedestrian shopping street leading to the Green Line checkpoint. Busy commercial area with good security presence, though pickpockets may target crowded areas."
+    },
+    {
+      "name": "University Area (Strovolos)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Modern residential and commercial district with universities, shopping centers, and restaurants. Generally safe with good infrastructure and lighting."
+    },
+    {
+      "name": "Engomi District",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Upscale residential area with embassies, international organizations, and quality hotels. Well-maintained with low crime rates but can be quiet at night."
+    },
+    {
+      "name": "Industrial Areas",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Light industrial zones on city outskirts with fewer amenities and limited nighttime activity. Generally safe but less tourist-friendly with minimal lighting after dark."
+    },
+    {
+      "name": "Buffer Zone Vicinity",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Areas near the UN Buffer Zone dividing the city require caution. Photography restrictions apply, military presence visible, and crossing procedures must be followed carefully."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Airport and tourist area taxi drivers may not use meters or quote inflated tourist rates, especially for trips to/from Larnaca Airport.",
+      "howToAvoid": "Always confirm fare upfront, insist on meter use, or use official taxi booking apps like Bolt. Standard airport to city center should cost 25-35 euros."
+    },
+    {
+      "name": "Fake Police Officers",
+      "risk": "low",
+      "description": "Individuals may pose as plainclothes police asking to see wallets or documents, claiming minor law violations.",
+      "howToAvoid": "Always request official identification, real police carry proper badges. Avoid handing over documents or money to anyone claiming to be police without proper ID."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Unlicensed tour operators approach tourists near hotels and bus stops offering discounted tours, then add hidden fees or provide substandard service.",
+      "howToAvoid": "Book tours through official tourism websites or reputable companies. Verify credentials and get written quotes including all fees before agreeing to services."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Card skimming devices occasionally found on ATMs in busy tourist areas and shopping districts.",
+      "howToAvoid": "Inspect ATMs for loose parts or unusual attachments. Use machines inside banks or hotels when possible. Cover PIN entry and monitor bank statements regularly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nicosia is generally very safe for solo female travelers with low crime rates and respectful locals. Most women report feeling comfortable walking alone during daylight hours and in well-populated areas. However, some may experience occasional catcalling in busier areas, and caution is advised in nightlife venues.",
+    "tips": [
+      "Avoid walking alone in poorly lit or isolated areas at night, especially outside the city center",
+      "Be cautious when accepting drinks from strangers and don't leave drinks unattended in bars or clubs",
+      "Dress modestly when visiting religious sites - cover shoulders and knees in churches and mosques"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nicosia's nightlife is generally safe with a low crime rate and friendly atmosphere. Most bars and restaurants close by midnight, and violent incidents are rare. The city center remains well-lit and populated in the evening, though some residential areas can become quiet after dark.",
+    "tips": [
+      "Stick to well-populated areas and main streets when walking at night",
+      "Use reputable taxi services or rideshare apps for late-night transport rather than walking alone",
+      "Drink responsibly and never leave drinks unattended in bars or clubs"
+    ]
+  },
+  "transport": {
+    "metro": "Nicosia has no metro system. Public transportation consists primarily of buses operated by different companies covering urban and intercity routes.",
+    "rideshare": "Bolt is available and provides reliable taxi booking through mobile app. Safer than street taxis as routes are tracked and payments are cashless.",
+    "taxis": "Licensed taxis are cream-colored and regulated by government. Insist on meter usage or agree on fare beforehand. Available 24/7 but more expensive than buses.",
+    "tips": "Public buses are safe and affordable (1.50 euros single journey) but limited night service. Walking is safe in city center during day. Avoid unlicensed drivers at tourist areas."
+  },
+  "customs": [
+    "Greet people with 'Kalimera' (good morning) or 'Kalispera' (good evening) - locals appreciate basic Greek phrases",
+    "Respect for elders is important - give precedence to older individuals in conversation and seating",
+    "Dress modestly in religious sites - cover shoulders and legs in churches, remove shoes in mosques if visiting north"
+  ],
+  "health": {
+    "overview": "Cyprus has good healthcare standards with both public and private facilities. Nicosia hosts several quality hospitals including Makarios Hospital and private clinics with English-speaking staff.",
+    "water": "Tap water is treated and safe to drink, though some tourists may prefer bottled water due to different mineral content causing minor stomach discomfort.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance recommended. EU residents can use European Health Insurance Card for basic coverage.",
+    "altitude": "Sea level location with Mediterranean climate. Hot, dry summers (up to 40°C) require sun protection and hydration. Mild winters with occasional rain."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 or 199",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "1460",
+    "usEmbassy": "US Embassy: Metochiou & Ploutarchou Street 2407, Engomi, Nicosia. Tel: +357 22 393 939. Current operations limited due to security situation."
+  },
+  "faq": [
+    {
+      "q": "Is Nicosia safe for tourists?",
+      "a": "Nicosia is generally very safe with low crime rates, but current US advisories recommend caution due to regional security concerns rather than local crime issues. Tourist areas remain safe during normal circumstances."
+    },
+    {
+      "q": "Is Nicosia safe at night?",
+      "a": "The city center is generally safe at night with good lighting and regular police presence. Most nightlife establishments close by midnight, and violent crime is rare. Stick to main streets and avoid isolated areas."
+    },
+    {
+      "q": "Is Nicosia safe for solo female travelers?",
+      "a": "Yes, Nicosia is considered very safe for solo female travelers. Crime rates are low and locals are respectful. Use normal precautions like avoiding isolated areas at night and being cautious with drinks."
+    },
+    {
+      "q": "What areas should I avoid in Nicosia?",
+      "a": "Exercise caution near the Buffer Zone dividing the city, respect photography restrictions in military areas, and avoid poorly lit industrial zones at night. Most tourist areas are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Nicosia?",
+      "a": "Yes, public buses are safe and affordable. Licensed taxis are regulated and reliable. The Bolt app provides additional safety through tracked rides and cashless payments."
+    }
+  ],
+  "relatedCities": [
+    "athens",
+    "ankara",
+    "valletta",
+    "sofia",
+    "zagreb"
+  ],
+  "_city_id": "nicosia-cyprus",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nicosia%27s_skyline_2024.jpg/1280px-Nicosia%27s_skyline_2024.jpg"
+}

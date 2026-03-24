@@ -1,0 +1,161 @@
+{
+  "slug": "odessa",
+  "name": "Odessa",
+  "country": "Ukraine",
+  "countryCode": "UA",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 2.8,
+  "verdict": "Exercise Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 4.0,
+    "violentCrime": 3.5,
+    "scamRisk": 2.5,
+    "womensSafety": 3.0,
+    "nightSafety": 2.0,
+    "transport": 2.5,
+    "naturalHazards": 2.0
+  },
+  "summary": "Odessa is currently unsafe for tourists due to Ukraine's ongoing war with Russia. The city faces regular missile and drone attacks, air raids, and infrastructure disruptions that override normal safety concerns. Pre-war crime levels were moderate, but military risks now dominate all safety calculations.",
+  "quickVerdict": "Odessa remains under active wartime conditions with frequent air raids, missile strikes, and military threats that make tourism extremely dangerous. The US State Department maintains a Level 4 Do Not Travel advisory for all of Ukraine. While the city's historic charm and Black Sea location were once attractive, current security risks far outweigh any tourism benefits. Normal safety concerns about petty crime pale in comparison to war-related dangers including infrastructure damage, evacuation challenges, and limited emergency services.",
+  "neighborhoods": [
+    {
+      "name": "City Center",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Historic downtown area with tourist attractions. Safer during daylight but vulnerable to missile strikes and air raids like all of Odessa."
+    },
+    {
+      "name": "Arcadia",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Beach resort district. Previously popular nightlife area but now faces war-related security risks and limited services."
+    },
+    {
+      "name": "Moldovanka",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Working-class district with higher pre-war crime rates. Economic hardship from war has increased general risks."
+    },
+    {
+      "name": "Port Area",
+      "score": 1.5,
+      "class": "danger",
+      "description": "Strategic military target frequently hit by Russian attacks. Extremely dangerous due to its importance to Ukraine's grain exports."
+    },
+    {
+      "name": "Peresyp",
+      "score": 2.0,
+      "class": "danger",
+      "description": "Industrial area with limited tourist amenities. Higher crime rates compounded by wartime economic stress."
+    },
+    {
+      "name": "Suvorovskyi",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Cultural district with museums and theaters. Less touristy but still subject to city-wide war risks and air raids."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Accommodation Bookings",
+      "risk": "high",
+      "description": "Scammers create fraudulent rental listings with stolen photos, demanding full prepayment through dubious services, particularly targeting foreigners unfamiliar with Ukrainian market.",
+      "howToAvoid": "Only use verified booking platforms with secure payment systems. Never transfer money to personal accounts. Verify property ownership and read reviews from multiple sources."
+    },
+    {
+      "name": "Police Corruption Extortion",
+      "risk": "medium",
+      "description": "Corrupt officers may question foreigners and demand bribes or fines for fabricated offenses, exploiting visitors' unfamiliarity with local laws.",
+      "howToAvoid": "Carry proper identification and translated documents. Know your rights and ask to contact your embassy if pressured. Avoid isolated areas where such encounters are more likely."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Fraudulent devices attached to ATMs capture card data and PINs, though some ATMs display fraud protection photos showing what they should look like.",
+      "howToAvoid": "Use ATMs inside banks or hotels. Cover your PIN when entering. Check for unusual devices or loose parts. Monitor your accounts regularly for unauthorized transactions."
+    },
+    {
+      "name": "Overcharging Tourists",
+      "risk": "medium",
+      "description": "Inflated prices in tourist areas, markets, and by service providers taking advantage of foreign visitors' unfamiliarity with local pricing.",
+      "howToAvoid": "Research typical prices beforehand. Negotiate prices in markets. Use official taxi apps with fixed fares. Ask locals for recommendations on fair pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel to Odessa is currently extremely dangerous due to ongoing war conditions rather than gender-specific risks. Pre-war, women reported feeling relatively safe in the city center during daytime, with typical urban precautions needed at night. Current military threats affect all travelers regardless of gender.",
+    "tips": [
+      "Avoid all travel to Ukraine until war ends",
+      "If already present, register with your embassy and have evacuation plans",
+      "Download official air raid alert apps and know shelter locations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Odessa is severely compromised by war conditions. Citywide curfews are in effect under martial law, with air raids and attacks often occurring at night. Pre-war nightlife areas like Arcadia are largely shut down or operating under restrictions.",
+    "tips": [
+      "Respect all curfew restrictions",
+      "Stay in secure shelters during air raids",
+      "Avoid wandering streets after dark due to military checkpoints and security measures"
+    ]
+  },
+  "transport": {
+    "metro": "Odessa has no metro system, only trams, trolleybuses, and buses that operate intermittently depending on security conditions and power availability.",
+    "rideshare": "Uber and Bolt may operate sporadically but routes change suddenly due to security alerts or blocked roads. Service unreliable during wartime.",
+    "taxis": "Traditional taxis run but availability is limited. Payment typically cash-only. Drivers may refuse certain routes due to security concerns.",
+    "tips": "Public transport is frequently disrupted by air raids and infrastructure damage. Walking may be safer for short distances but always have shelter plans ready."
+  },
+  "customs": [
+    "Remove shoes when entering homes - slippers may be offered",
+    "Bring odd-numbered flower bouquets as gifts - even numbers are for funerals",
+    "Toasts are important during meals - prepare meaningful words, not just cheers"
+  ],
+  "health": {
+    "overview": "Healthcare system is severely strained by war with many hospitals damaged or overwhelmed treating military and civilian casualties. Medical supplies are limited and evacuation options restricted.",
+    "water": "Tap water may be unsafe due to infrastructure damage. Bottled water recommended.",
+    "vaccinations": "Standard travel vaccines plus war risk insurance mandatory for entry. Medical evacuation insurance essential.",
+    "altitude": "Sea level city with temperate continental climate. Air quality affected by smoke and debris from attacks."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "102",
+    "ambulance": "103",
+    "fire": "101",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Kyiv +380 44 521 5000 (limited services due to war conditions)"
+  },
+  "faq": [
+    {
+      "q": "Is Odessa safe for tourists?",
+      "a": "No, Odessa is extremely unsafe for tourists due to ongoing war with Russia. The US State Department maintains a Level 4 Do Not Travel advisory for all of Ukraine including Odessa."
+    },
+    {
+      "q": "Is Odessa safe at night?",
+      "a": "No, nighttime travel is particularly dangerous due to curfews, air raids, and missile attacks that often occur after dark. Military checkpoints and restricted movement make night travel inadvisable."
+    },
+    {
+      "q": "Is Odessa safe for solo female travelers?",
+      "a": "No gender can safely travel to Odessa currently due to war conditions. Military threats affect all travelers equally regardless of gender or travel style."
+    },
+    {
+      "q": "What areas should I avoid in Odessa?",
+      "a": "All areas of Odessa carry extreme risk due to war, but the port area faces particular danger as a strategic military target. However, the entire city is subject to missile and drone attacks."
+    },
+    {
+      "q": "Is it safe to use public transport in Odessa?",
+      "a": "Public transport operates intermittently and is frequently disrupted by air raids and security conditions. While safer than private vehicles regarding crime, military risks affect all transportation methods."
+    }
+  ],
+  "relatedCities": [
+    "kyiv",
+    "lviv",
+    "kharkiv",
+    "dnipro",
+    "warsaw",
+    "bucharest"
+  ],
+  "_city_id": "odessa-ukraine",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_17.jpg/1280px-%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_17.jpg"
+}

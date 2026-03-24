@@ -1,0 +1,166 @@
+{
+  "slug": "kyiv",
+  "name": "Kyiv",
+  "country": "Ukraine",
+  "countryCode": "UA",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 4.6,
+  "verdict": "Exercise Extreme Caution",
+  "badgeLabel": "Exercise Caution",
+  "badgeClass": "danger",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 4.0,
+    "scamRisk": 5.5,
+    "womensSafety": 4.5,
+    "nightSafety": 3.5,
+    "transport": 7.0,
+    "naturalHazards": 1.0
+  },
+  "summary": "Kyiv faces extraordinary safety challenges due to ongoing warfare, with regular missile attacks and air raids despite daily life continuing. The city maintains functioning infrastructure including metro, hospitals, and restaurants, but visitors must navigate war-related risks including curfews and shelter protocols.",
+  "quickVerdict": "Kyiv presents a complex safety situation in 2026 - while the US State Department maintains a Level 4 Do Not Travel advisory due to Russia's war against Ukraine, the city continues operating with cafes, museums, and transport systems functioning. Air raid alerts occur regularly, requiring immediate shelter-seeking behavior. Traditional crime rates are relatively low, with locals reporting feeling safer on streets than in many European cities, but the overriding concern remains missile attacks and war-related dangers. Only experienced travelers comfortable with significant risks should consider visiting.",
+  "neighborhoods": [
+    {
+      "name": "Pecherskyi District",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic government district home to Kyiv Pechersk Lavra and government buildings. Generally well-patrolled and maintained with good shelter access during air raids."
+    },
+    {
+      "name": "Podil",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Bohemian riverside district popular with expats and tourists. Cobblestone streets, cafes, and cultural sites. Considered one of the safest tourist areas with good community feel."
+    },
+    {
+      "name": "Shevchenkivskyi",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Central district including Golden Gate and St. Sophia Cathedral. Busy tourist area with some pickpocketing concerns but generally secure during daylight hours."
+    },
+    {
+      "name": "Khreshchatyk/Center",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main commercial street and Independence Square area. Heavy foot traffic increases petty crime risk, but good police presence and metro access for shelter."
+    },
+    {
+      "name": "Troieshchyna",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Residential district on left bank known for higher crime rates and social problems. Less tourist infrastructure and fewer shelter options. Avoid after dark."
+    },
+    {
+      "name": "Darnitsa",
+      "score": 3.0,
+      "class": "danger",
+      "description": "Industrial area with limited tourist appeal and higher crime rates. Poor lighting and fewer people at night make it unsafe for visitors."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Skimming",
+      "risk": "high",
+      "description": "Criminals use devices to copy debit/credit cards at ATMs, particularly those outside bank buildings. Ukraine's weak fraud laws make this profitable.",
+      "howToAvoid": "Only use ATMs inside banks, cover PIN entry, check for suspicious attachments, and monitor accounts regularly."
+    },
+    {
+      "name": "Fake Accommodation Rentals",
+      "risk": "high",
+      "description": "Scammers create fake Airbnb and booking listings with stolen photos, demanding full payment upfront before disappearing with funds.",
+      "howToAvoid": "Use only verified booking platforms, avoid deals that seem too cheap, never pay outside official channels, and verify property exists."
+    },
+    {
+      "name": "Fake Military/Charity Collections",
+      "risk": "medium",
+      "description": "Fraudsters dress as soldiers or volunteers claiming to collect money for prosthetics, surgeries, or charitable causes they have no intention of supporting.",
+      "howToAvoid": "Observe how locals respond - genuine volunteers get community support. Donate only to established charities with verifiable credentials."
+    },
+    {
+      "name": "Restaurant Overbilling",
+      "risk": "medium",
+      "description": "Some establishments add extra items to bills or inflate prices, particularly targeting tourists who may not understand local pricing.",
+      "howToAvoid": "Check menus for prices beforehand, ask about costs upfront, carefully review bills before paying, and learn basic Ukrainian numbers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in Kyiv carries standard urban risks compounded by war-related dangers. While street crime against women is relatively low compared to other major cities, harassment can occur in nightlife areas and on public transport. The main safety concern remains air raids rather than gender-specific threats.",
+    "tips": [
+      "Stay in well-reviewed central accommodations with shelter access",
+      "Avoid poorly lit areas and outskirts districts like Troieshchyna after dark",
+      "Keep emergency contacts and embassy information readily available",
+      "Download air raid alert apps and know nearest shelter locations",
+      "Use ride-share apps rather than street taxis, especially at night"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kyiv's nighttime safety is complicated by martial law curfews typically running from midnight to 5 AM. During allowed hours, central areas remain reasonably safe with active nightlife, but visitors must be prepared for sudden air raid alerts requiring immediate shelter.",
+    "tips": [
+      "Respect curfew hours - violations can result in arrest",
+      "Stay in central districts with good shelter access when out late",
+      "Keep shelter locations memorized and phones charged for alerts",
+      "Use trusted transport apps like Bolt or Uklon rather than street taxis",
+      "Avoid excessive alcohol consumption to maintain alert awareness"
+    ]
+  },
+  "transport": {
+    "metro": "Kyiv Metro is efficient, affordable, and serves as bomb shelter during air raids. Stations are deep (Arsenalna is world's deepest at 105m) providing excellent protection. Clean, safe, and well-lit with English signage in major stations. Operates 5:30 AM to midnight.",
+    "rideshare": "Bolt, Uber, and Uklon operate reliably with transparent pricing and GPS tracking. Considered safer than street taxis. Drivers generally speak basic English. Service continues during air raid alerts though may be temporarily suspended.",
+    "taxis": "Official taxis exist but are less regulated. Street hailing not recommended due to overcharging risks and safety concerns. Ride-share apps preferred for transparency and security. Avoid unmarked vehicles offering rides.",
+    "tips": "Always carry charged phone with offline maps and alert apps. Metro doubles as bomb shelter - familiarize yourself with nearest stations. Keep cash as backup since cards may not work during power outages."
+  },
+  "customs": [
+    "Remove shoes when entering homes and accept offered slippers",
+    "Bring odd numbers of flowers for women hosts, alcohol or cake as gifts",
+    "Wait for host to begin eating and try all dishes offered to show respect",
+    "Make eye contact during handshakes and expect direct personal questions",
+    "Avoid referring to country as 'the Ukraine' - use simply 'Ukraine'"
+  ],
+  "health": {
+    "overview": "Ukraine has adequate healthcare infrastructure with 3 doctors per 1,000 inhabitants and modern equipment in major hospitals. Private clinics offer English services. Medical insurance with war risk coverage is mandatory for entry and essential given current circumstances.",
+    "water": "Tap water in Kyiv is generally safe but bottled water is recommended for tourists. Infrastructure has been targeted during the war so quality can vary. Hotels typically provide safe drinking water.",
+    "vaccinations": "Standard European vaccines recommended - hepatitis A/B, measles, mumps, rubella. No special requirements for Ukraine. COVID-19 vaccination recommended but not mandatory.",
+    "altitude": "Kyiv sits at low elevation with temperate continental climate. Winter temperatures can drop below freezing, summers are warm. Air quality concerns from urban pollution and potential war-related smoke."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "102",
+    "ambulance": "103",
+    "fire": "101",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Kyiv: +38 (044) 521-5000 (24-hour emergency line). Located at 4 A.V. Sikorsky Street (Igor Sikorsky). UK Embassy: +380 44 490 3660. Services limited due to security situation."
+  },
+  "faq": [
+    {
+      "q": "Is Kyiv safe for tourists?",
+      "a": "Kyiv carries significant risks due to ongoing warfare with regular missile attacks and air raid alerts. While daily life continues with functioning restaurants, metro, and cultural sites, the US maintains a Level 4 Do Not Travel advisory. Only very experienced travelers should consider visiting."
+    },
+    {
+      "q": "Is Kyiv safe at night?",
+      "a": "Nighttime in Kyiv is subject to martial law curfews (typically midnight-5 AM) and ongoing air raid risks. Central areas remain relatively safe during permitted hours, but visitors must be prepared to seek shelter immediately upon alerts and avoid poorly lit outskirt areas."
+    },
+    {
+      "q": "Is Kyiv safe for solo female travelers?",
+      "a": "Solo female travelers face standard urban risks plus war-related dangers. Traditional crime against women is relatively low, with locals reporting feeling safer than in many European cities. However, the overriding concern remains missile attacks requiring constant vigilance and shelter preparedness."
+    },
+    {
+      "q": "What areas should I avoid in Kyiv?",
+      "a": "Avoid outskirt residential areas like Troieshchyna and Darnitsa, especially after dark. These areas have higher crime rates and fewer amenities. Also avoid any military installations, government buildings, and areas near critical infrastructure that may be targeted."
+    },
+    {
+      "q": "Is it safe to use public transport in Kyiv?",
+      "a": "Kyiv Metro is generally safe and serves as bomb shelter during air raids. Buses and trams continue operating but may stop during alerts. Ride-share apps like Bolt and Uklon are reliable and safer than street taxis. All transport may be suspended during active air raid alerts."
+    }
+  ],
+  "relatedCities": [
+    "warsaw",
+    "budapest",
+    "prague",
+    "bucharest",
+    "vienna"
+  ],
+  "_city_id": "kyiv-ukraine",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P1130119-1.JPG/1280px-P1130119-1.JPG"
+}
