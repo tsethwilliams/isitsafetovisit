@@ -3044,3 +3044,47 @@
 2026-03-23 23:17:00,124 [INFO] Merged into site data: Boquete
 2026-03-23 23:17:00,222 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-23 23:17:00,273 [INFO] Rebuilt sitemap with 630 URLs (484 cities, 140 countries, 6 static)
+2026-03-24 07:38:49,361 [INFO] Agent starting — mode: add
+2026-03-24 07:38:49,402 [INFO] Queue has 106 cities, adding 8
+2026-03-24 07:38:49,402 [INFO] Generating new city profile: Caye Caulker, Belize
+2026-03-24 07:40:06,402 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:40:06,683 [INFO] Found Wikipedia image for Caye Caulker
+2026-03-24 07:40:06,684 [INFO] Saved city data: caye-caulker-belize
+2026-03-24 07:40:06,688 [INFO] Generating new city profile: San Juan del Sur, Nicaragua
+2026-03-24 07:42:58,738 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:42:59,024 [INFO] Found Wikipedia image for San Juan del Sur
+2026-03-24 07:42:59,024 [INFO] Saved city data: san-juan-del-sur-nicaragua
+2026-03-24 07:42:59,029 [INFO] Generating new city profile: Vinales, Cuba
+2026-03-24 07:44:30,334 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:44:30,543 [INFO] Found Wikipedia image for Vinales
+2026-03-24 07:44:30,544 [INFO] Saved city data: vinales-cuba
+2026-03-24 07:44:30,548 [INFO] Generating new city profile: Negril, Jamaica
+2026-03-24 07:46:04,698 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:46:04,845 [INFO] Found Wikipedia image for Negril
+2026-03-24 07:46:04,846 [INFO] Saved city data: negril-jamaica
+2026-03-24 07:46:04,850 [INFO] Generating new city profile: Cordoba, Argentina
+2026-03-24 07:47:48,242 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:47:48,695 [INFO] Found Wikipedia image for Cordoba
+2026-03-24 07:47:48,695 [INFO] Saved city data: cordoba-argentina
+2026-03-24 07:47:48,699 [INFO] Generating new city profile: El Calafate, Argentina
+2026-03-24 07:49:02,396 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:49:02,647 [INFO] Found Wikipedia image for El Calafate
+2026-03-24 07:49:02,648 [INFO] Saved city data: el-calafate-argentina
+2026-03-24 07:49:02,652 [INFO] Generating new city profile: Manaus, Brazil
+2026-03-24 07:50:23,852 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:50:24,256 [INFO] Found Wikipedia image for Manaus
+2026-03-24 07:50:24,257 [INFO] Saved city data: manaus-brazil
+2026-03-24 07:50:24,261 [INFO] Generating new city profile: Brasilia, Brazil
+2026-03-24 07:52:15,215 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 07:52:15,499 [INFO] Found Wikipedia image for Brasilia
+2026-03-24 07:52:15,499 [INFO] Saved city data: brasilia-brazil
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Caye Caulker
+2026-03-24 07:52:15,555 [INFO] Merged into site data: San Juan del Sur
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Vinales
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Negril
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Córdoba
+2026-03-24 07:52:15,555 [INFO] Merged into site data: El Calafate
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Manaus
+2026-03-24 07:52:15,555 [INFO] Merged into site data: Brasilia
+2026-03-24 07:52:15,654 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-24 07:52:15,706 [INFO] Rebuilt sitemap with 638 URLs (492 cities, 140 countries, 6 static)

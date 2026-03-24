@@ -1,0 +1,164 @@
+{
+  "slug": "manaus",
+  "name": "Manaus",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 5.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 3.5,
+    "violentCrime": 4.2,
+    "scamRisk": 4.8,
+    "womensSafety": 5.5,
+    "nightSafety": 4.0,
+    "transport": 7.0,
+    "naturalHazards": 6.5
+  },
+  "summary": "Manaus, the gateway to the Amazon rainforest, presents significant safety challenges with high crime rates and specific risks for tourists. While the city offers incredible access to natural wonders, visitors need to exercise considerable caution, especially after dark and in certain neighborhoods.",
+  "quickVerdict": "Manaus is a complex destination from a safety perspective. While it's an essential stop for Amazon exploration and offers unique cultural experiences, the city has concerning crime statistics including a murder rate of 38.25 per 100,000 inhabitants. Street crime, pickpocketing, and robberies are common, particularly targeting tourists. However, with proper precautions, staying in safer neighborhoods, and using reliable transport like Uber, many visitors have positive experiences. The key is being constantly aware of your surroundings and avoiding risky situations.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Home to landmarks like Teatro Amazonas and the famous market. Generally safe during daytime with tourist police presence, but avoid after dark. Watch for pickpockets in crowded areas."
+    },
+    {
+      "name": "Adrianópolis",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale residential area with shopping centers and better infrastructure. Generally considered safer than other parts of the city, popular with business travelers and tourists."
+    },
+    {
+      "name": "Vieiralves",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Middle-class neighborhood with good amenities. Relatively safe during day and early evening, but exercise normal precautions and avoid walking alone at night."
+    },
+    {
+      "name": "Compensa",
+      "score": 3.0,
+      "class": "danger",
+      "description": "High-crime area with frequent reports of violence and theft. Visitors should avoid this neighborhood entirely, especially after dark. Not recommended for tourists."
+    },
+    {
+      "name": "Coroado",
+      "score": 3.5,
+      "class": "danger",
+      "description": "Another problematic area with elevated crime rates. Limited tourist infrastructure and higher risk of robbery and violence. Best avoided by visitors."
+    },
+    {
+      "name": "Ponta Negra",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Beach area popular with locals and tourists. Generally safer during daylight hours but can become risky at night. Beach activities should be enjoyed in groups."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Checkpoint",
+      "risk": "high",
+      "description": "Criminals posing as police officers stop tourists claiming document checks, then demand bribes or steal valuables.",
+      "howToAvoid": "Always ask for proper identification and badge numbers. Real police rarely conduct random street stops. If unsure, ask to go to the nearest police station."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "high",
+      "description": "Devices placed on ATMs to steal card information and PIN numbers, particularly common at gas stations and standalone machines.",
+      "howToAvoid": "Only use ATMs inside banks during business hours. Cover your PIN when entering it. Check for any unusual devices or loose parts on the machine."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Groups work together where one person distracts you (asking for directions, spilling something) while accomplices steal your belongings.",
+      "howToAvoid": "Stay alert in crowded areas. Don't set bags down or leave phones/cameras on tables. Be wary of overly helpful strangers or staged accidents."
+    },
+    {
+      "name": "Overpriced Tour Guides",
+      "risk": "medium",
+      "description": "Unofficial guides approach tourists offering cheap Amazon tours but deliver poor quality service or demand extra payments.",
+      "howToAvoid": "Book tours through established companies or hotels. Verify credentials and get written agreements on prices. Research tour operators online before booking."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travelers face particular challenges in Manaus with reports of harassment, unwanted attention, and specific targeting by criminals. The city requires extra vigilance, especially at night and in crowded areas. Drink spiking in bars and clubs has been reported, making nightlife particularly risky.",
+    "tips": [
+      "Stay in well-reviewed accommodations in safer neighborhoods like Adrianópolis",
+      "Never walk alone after dark - always use Uber or taxis even for short distances",
+      "Keep drinks covered and never accept drinks from strangers in bars or clubs",
+      "Dress conservatively to avoid unwanted attention and blend in with locals",
+      "Join tour groups rather than exploring alone, especially for Amazon excursions"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Manaus becomes significantly more dangerous after dark with increased risk of violent crime, robbery, and assault. Many areas that are relatively safe during the day become no-go zones at night. The lack of adequate street lighting and police presence in many areas compounds the risks.",
+    "tips": [
+      "Avoid walking anywhere at night - use Uber or reputable taxi companies instead",
+      "Stay in well-lit, populated areas if you must be out after dark",
+      "Return to your accommodation before 10 PM when possible",
+      "If going out for nightlife, travel in groups and arrange transportation in advance",
+      "Keep emergency contacts readily available and inform someone of your plans"
+    ]
+  },
+  "transport": {
+    "metro": "Manaus does not have a metro system. Public buses operate but are not recommended for tourists due to frequent reports of theft, robbery, and poor safety conditions, especially at night.",
+    "rideshare": "Uber operates 24/7 in Manaus and is considered the safest transport option. The app includes safety features and drivers are vetted. Uber Moto (motorcycle taxis) is also available but less safe due to traffic conditions.",
+    "taxis": "Official taxis are available but ensure they use the meter or agree on a price beforehand. Airport taxis are generally more reliable but more expensive than Uber.",
+    "tips": "Use Uber for all transportation needs as it's safer and more reliable than public transport or street taxis. Always verify the license plate matches the app before getting in the vehicle."
+  },
+  "customs": [
+    "Greet everyone individually - Brazilians take personal greetings seriously and may be offended if not greeted warmly",
+    "Physical contact is normal - expect handshakes, hugs, and cheek kisses as common greetings between friends and new acquaintances",
+    "Avoid the 'OK' hand gesture - the circle made with thumb and forefinger is considered rude in Brazil, use thumbs up instead"
+  ],
+  "health": {
+    "overview": "Health risks in Manaus include vector-borne diseases like malaria, dengue, Zika, and yellow fever due to its tropical Amazon location. Healthcare quality varies significantly between public and private facilities.",
+    "water": "Tap water is not safe to drink. Always use bottled or boiled water for drinking, brushing teeth, and washing fruits. Many hotels provide filtered water.",
+    "vaccinations": "Yellow fever vaccination required if coming from affected areas. Hepatitis A/B, typhoid, and routine vaccines recommended. Consult a travel medicine specialist 4-6 weeks before travel.",
+    "altitude": "Manaus is at low elevation but has a hot, humid tropical climate with temperatures 26-32°C year-round. High mosquito activity requires constant use of repellent and protective clothing."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consular Agency Manaus: (92) 3611-3333 (9AM-12PM), after hours (61) 3312-7400. Emergency from US: +1 (301) 985-8850"
+  },
+  "faq": [
+    {
+      "q": "Is Manaus safe for tourists?",
+      "a": "Manaus has significant safety challenges with high crime rates, but tourists can visit safely with proper precautions. Stay in safer neighborhoods, use Uber for transport, avoid walking at night, and remain vigilant of your surroundings at all times."
+    },
+    {
+      "q": "Is Manaus safe at night?",
+      "a": "No, Manaus is not safe at night. Crime rates increase significantly after dark with higher risks of violent crime and robbery. Always use Uber or taxis rather than walking, return to accommodation before 10 PM when possible, and avoid venturing out alone."
+    },
+    {
+      "q": "Is Manaus safe for solo female travelers?",
+      "a": "Solo female travelers face additional challenges in Manaus including harassment and targeting by criminals. Extra precautions are essential including staying in safer areas, never walking alone at night, watching drinks carefully, and joining tour groups rather than exploring alone."
+    },
+    {
+      "q": "What areas should I avoid in Manaus?",
+      "a": "Avoid neighborhoods like Compensa and Coroado which have very high crime rates. The Historic Center should be avoided after dark. Even safer areas require caution at night. Stick to Adrianópolis and Vieiralves for accommodation and dining."
+    },
+    {
+      "q": "Is it safe to use public transport in Manaus?",
+      "a": "Public buses are not recommended for tourists due to frequent theft and robbery incidents. Uber is the safest transport option, operating 24/7 with safety features. Official taxis are acceptable but more expensive and less reliable than rideshare services."
+    }
+  ],
+  "relatedCities": [
+    "belem",
+    "fortaleza",
+    "salvador",
+    "recife",
+    "cuiaba"
+  ],
+  "_city_id": "manaus-brazil",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Manaus_amazonas.jpg/1280px-Manaus_amazonas.jpg"
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "cordoba",
+  "name": "Córdoba",
+  "country": "Argentina",
+  "countryCode": "AR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 6.1,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.2,
+    "scamRisk": 5.8,
+    "womensSafety": 6.3,
+    "nightSafety": 5.7,
+    "transport": 7.0,
+    "naturalHazards": 6.2
+  },
+  "summary": "Córdoba, Argentina's second-largest city and university center, offers rich culture and nightlife but requires moderate caution due to rising crime rates. While generally safer than Buenos Aires, tourists should be aware of increasing motorcycle robberies, pickpocketing, and petty crime, particularly in tourist areas and at night.",
+  "quickVerdict": "Córdoba presents a moderate safety risk for tourists with recent reports of increased crime including armed motorcycle robberies known as 'motochorros' affecting all neighborhoods. The city maintains a vibrant university atmosphere and cultural scene, but visitors should exercise heightened awareness, avoid displaying valuables, stay in well-lit populated areas at night, and use legitimate transport options. While violent crime against tourists remains relatively low, petty theft and opportunistic crimes are common concerns.",
+  "neighborhoods": [
+    {
+      "name": "Nueva Córdoba",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Student-centered district with active nightlife, good lighting, and regular police presence. Stay close to main streets and avoid isolated areas after midnight."
+    },
+    {
+      "name": "Centro Histórico",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Well-patrolled historic center with tourist attractions and daytime safety. Exercise caution after dark and watch for pickpockets near the cathedral and main plazas."
+    },
+    {
+      "name": "Güemes",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Trendy neighborhood with bars and restaurants. Generally safe during the day but can become sketchy late at night. Use ride-sharing or taxis after dark."
+    },
+    {
+      "name": "Villa Belgrano",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Upscale residential area with luxury amenities and low crime rates. Safe for walking during day and evening, popular with tourists seeking quieter accommodation."
+    },
+    {
+      "name": "Alta Córdoba",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Mixed residential and commercial area with some crime concerns. Safe during daylight hours but avoid walking alone at night, especially away from main avenues."
+    },
+    {
+      "name": "Villa El Libertador",
+      "score": 3.5,
+      "class": "danger",
+      "description": "High-crime peripheral neighborhood with elevated robbery and violence rates. Strongly advised to avoid, particularly after dark. Use only when absolutely necessary with local guidance."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Unlicensed Taxi Overcharging",
+      "risk": "high",
+      "description": "Unlicensed taxi drivers targeting tourists with inflated fares, longer routes, or counterfeit change.",
+      "howToAvoid": "Call taxis from hotels, use official radio taxi companies, or book through apps like Uber. Confirm fare estimates beforehand."
+    },
+    {
+      "name": "Distraction Theft",
+      "risk": "high",
+      "description": "Thieves using distractions like spilled substances, tourist maps, or helpful strangers to steal phones, bags, or wallets.",
+      "howToAvoid": "Stay alert in crowded areas, keep belongings secure, and politely decline unsolicited help. Keep phones and valuables hidden."
+    },
+    {
+      "name": "Motorcycle Robbery (Motochorros)",
+      "risk": "high",
+      "description": "Two-person motorcycle teams snatching bags, phones, and jewelry from pedestrians, particularly targeting tourists.",
+      "howToAvoid": "Walk away from curb, keep bags in front, avoid displaying electronics or jewelry, and don't resist if confronted."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Devices attached to ATMs to steal card information, or distractions while using machines to observe PIN numbers.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover PIN entry, check for unusual devices, and monitor account statements regularly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Córdoba is generally manageable for solo female travelers with proper precautions, though safety awareness is essential. The university atmosphere provides some comfort, but women should be particularly cautious at night and in isolated areas. Local women dress freely but remain vigilant about personal safety.",
+    "tips": [
+      "Stay in central areas like Nueva Córdoba near universities and nightlife",
+      "Avoid walking alone after dark, especially in peripheral neighborhoods",
+      "Use ride-sharing apps or hotel-arranged taxis instead of street hailing",
+      "Keep phone use minimal on streets to avoid becoming a theft target",
+      "Trust your instincts and leave situations that feel uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Córdoba has vibrant nightlife that peaks well past midnight, but night safety requires careful planning. While central areas like Nueva Córdoba remain active and relatively safe, crime risks increase significantly after dark throughout the city. Street lighting varies, and motorcycle robberies can occur at any hour.",
+    "tips": [
+      "Travel in groups when possible, especially in nightlife districts",
+      "Use ride-sharing apps or pre-arranged taxis rather than walking",
+      "Stick to well-lit, populated areas with ongoing foot traffic",
+      "Avoid displaying phones, cameras, or jewelry during evening hours",
+      "Let someone know your plans and expected return time"
+    ]
+  },
+  "transport": {
+    "metro": "Córdoba does not have a metro system. Public transportation relies on city buses requiring rechargeable SUBE cards, with fares around ARS 8.25. Five bus lines plus trolleybuses serve the city.",
+    "rideshare": "Uber operates reliably in Córdoba with safety features and upfront pricing. Also available are Cabify (card payments only) and DiDi (cash and card). These are safer than street taxis.",
+    "taxis": "Official radio taxis are generally safe when called through hotels or recognized companies. Avoid unlicensed street taxis which may overcharge or create safety risks. BA Taxi app provides licensed options.",
+    "tips": "Use ride-sharing apps for safety and convenience, especially at night. Keep rechargeable transit cards topped up as night recharging isn't available everywhere. Avoid using phones while waiting at bus stops."
+  },
+  "customs": [
+    "Greet with single kiss on right cheek (friends/acquaintances) or firm handshake (formal/business)",
+    "Being 30-40 minutes late is culturally acceptable and expected for social gatherings",
+    "Dinner starts around 9-10pm; nightlife peaks after 2am and can continue until sunrise",
+    "Accept mate (traditional tea) if offered as it's a sign of friendship; only say 'gracias' when finished",
+    "Dress smartly even for casual outings; Argentines take pride in appearance"
+  ],
+  "health": {
+    "overview": "Argentina has a mixed healthcare system with universal public coverage and quality private options. Córdoba has good medical facilities including hospitals and clinics, with many English-speaking doctors available. Emergency care is provided free to tourists.",
+    "water": "Tap water is generally safe in Córdoba but bottled water is recommended for short visits. Request drinks without ice ('sin hielo') to avoid stomach issues.",
+    "vaccinations": "No special vaccinations required for Córdoba city. Yellow fever vaccination recommended only for certain northern border areas. Routine vaccines should be up to date.",
+    "altitude": "Córdoba sits at moderate elevation with temperate climate. Hot humid summers, cold winters with sunny days. No altitude sickness concerns for most visitors."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "101 (Córdoba province) or 911",
+    "ambulance": "107 (SAME ambulance service) or 911",
+    "fire": "100",
+    "touristPolice": "+54 9 11 5050 3293 (WhatsApp available, English speaking)",
+    "usEmbassy": "U.S. Embassy Buenos Aires: +54 (11) 5777-4354 (emergency after hours)"
+  },
+  "faq": [
+    {
+      "q": "Is Córdoba safe for tourists?",
+      "a": "Córdoba is moderately safe but requires caution due to rising crime rates including motorcycle robberies. Stay alert, avoid displaying valuables, and stick to well-populated central areas."
+    },
+    {
+      "q": "Is Córdoba safe at night?",
+      "a": "Night safety requires extra precaution. While central areas like Nueva Córdoba remain active, use ride-sharing instead of walking, travel in groups, and avoid isolated streets after dark."
+    },
+    {
+      "q": "Is Córdoba safe for solo female travelers?",
+      "a": "Solo female travel is possible with heightened awareness. Stick to central university areas, avoid night walking, use ride-sharing apps, and trust your instincts about situations."
+    },
+    {
+      "q": "What areas should I avoid in Córdoba?",
+      "a": "Avoid Villa El Libertador and peripheral neighborhoods, especially at night. Even safe areas require caution after dark. Stay in central districts like Nueva Córdoba and Centro Histórico."
+    },
+    {
+      "q": "Is it safe to use public transport in Córdoba?",
+      "a": "City buses are generally safe during daylight hours but watch for pickpockets. Ride-sharing apps like Uber are safer options, especially at night. Avoid unlicensed taxis."
+    }
+  ],
+  "relatedCities": [
+    "buenos-aires",
+    "mendoza",
+    "rosario"
+  ],
+  "_city_id": "cordoba-argentina",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Panorama_Nueva_C%C3%B3rdoba_2012-02-03.jpg"
+}
