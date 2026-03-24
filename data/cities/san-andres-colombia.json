@@ -1,0 +1,161 @@
+{
+  "slug": "san-andres",
+  "name": "San Andrés",
+  "country": "Colombia",
+  "countryCode": "CO",
+  "region": "Central America & Caribbean",
+  "regionSlug": "central-america-caribbean",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 6.0,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.0,
+    "scamRisk": 5.0,
+    "womensSafety": 6.0,
+    "nightSafety": 5.5,
+    "transport": 7.0,
+    "naturalHazards": 6.0
+  },
+  "summary": "San Andrés is a Caribbean island territory of Colombia that is generally safer than the mainland but requires standard precautions. The island faces hurricane risks, has limited healthcare infrastructure, and experiences some petty crime, but tourism areas are relatively well-secured.",
+  "quickVerdict": "San Andrés offers a relatively safe Caribbean experience compared to mainland Colombia, but travelers should exercise normal tourist precautions. While violent crime against tourists is rare, petty theft occurs, particularly away from main tourist areas. The island's remote location means limited medical facilities for serious conditions, and hurricane season poses seasonal risks. Female travelers may experience more attention than on mainland Colombia, but the overall environment remains manageable with proper awareness.",
+  "neighborhoods": [
+    {
+      "name": "Downtown San Andrés",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main town center with shops, restaurants, and hotels. Well-patrolled and generally safe for tourists day and night."
+    },
+    {
+      "name": "San Luis",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Quieter residential area near beaches. Good for families and those seeking less touristy accommodations."
+    },
+    {
+      "name": "Spratt Bight Beach Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Main beach and hotel zone. Popular with tourists and generally secure, though watch belongings on the beach."
+    },
+    {
+      "name": "Airport Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Industrial area near the airport. Not recommended for walking at night without proper transportation arranged."
+    },
+    {
+      "name": "Inland Neighborhoods",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Residential areas away from main roads and beaches. Avoid walking here, especially after dark. Take taxis or guided transport only."
+    },
+    {
+      "name": "Sound Bay",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Mix of residential and tourist areas. Generally safe during day but exercise caution at night and stick to main areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Credit Card Skimming",
+      "risk": "high",
+      "description": "Fraudulent card readers at ATMs and payment terminals, particularly affecting tourists who frequently use cards.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN, and monitor your account statements regularly."
+    },
+    {
+      "name": "Overcharging Tourists",
+      "risk": "high",
+      "description": "Local vendors and taxi drivers charging inflated 'gringo prices' for goods and services.",
+      "howToAvoid": "Ask prices upfront, negotiate where appropriate, and ask locals for fair price estimates before purchasing."
+    },
+    {
+      "name": "Fake Tour Operators",
+      "risk": "medium",
+      "description": "Unlicensed tour operators offering cheap deals but providing substandard or unsafe services, particularly for boat trips.",
+      "howToAvoid": "Book tours through hotels or verified operators, check for proper safety equipment, and verify licenses."
+    },
+    {
+      "name": "Accommodation Bait-and-Switch",
+      "risk": "medium",
+      "description": "Hotels or guesthouses showing different accommodations than advertised, or non-existent properties.",
+      "howToAvoid": "Book through reputable platforms, read recent reviews, and confirm bookings directly with properties before arrival."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Solo female travel in San Andrés is generally manageable but requires more awareness than other Caribbean destinations. Women report feeling safe in tourist areas but experience more verbal attention and catcalling than on mainland Colombia. The island's small size means you can get help quickly, but avoid isolated areas.",
+    "tips": [
+      "Stay in main tourist areas (downtown, San Luis) and avoid walking inland alone, especially at night",
+      "Expect increased attention from men - be prepared for catcalls and offers of rides, but this is generally not threatening",
+      "Use hotel-arranged transportation at night rather than walking, even short distances",
+      "Connect with other travelers at hostels or through online expat groups for company and local advice"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in San Andrés varies significantly by area. The main downtown and hotel zones are generally well-lit and have some activity, but many areas become deserted after dark. Police presence exists but is limited. The island's small size means help is never far away, but prevention is better than intervention.",
+    "tips": [
+      "Stick to well-lit main streets in downtown and hotel areas after dark",
+      "Use taxis or hotel transportation rather than walking at night, even for short distances",
+      "Avoid the airport area and inland neighborhoods after dark completely",
+      "Travel in groups when possible and let someone know your plans when going out"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on this small island.",
+    "rideshare": "Uber operates but is limited. Local taxi apps and hotel-arranged transport are more reliable options.",
+    "taxis": "Taxis are generally safe and widely available. Agree on fare beforehand as meters aren't always used. Hotel-arranged taxis are most reliable.",
+    "tips": "Golf cart and scooter rentals are popular and safe during daylight hours. Avoid driving to isolated areas and always lock vehicles."
+  },
+  "customs": [
+    "San Andrés has a unique Caribbean Raizal culture distinct from mainland Colombia - show respect for local traditions",
+    "English and Creole are spoken alongside Spanish, but don't assume everyone speaks English fluently",
+    "The island has a relaxed Caribbean pace - don't expect mainland Colombian efficiency in services"
+  ],
+  "health": {
+    "overview": "Healthcare infrastructure is limited with basic services available but serious conditions require mainland evacuation. The main hospital can handle routine care and minor emergencies.",
+    "water": "Tap water is generally safe in hotels and restaurants but bottled water is recommended. Water conservation is important due to desalination costs.",
+    "vaccinations": "Standard Colombia vaccinations recommended including hepatitis A/B, typhoid, and yellow fever. Dengue risk exists year-round.",
+    "altitude": "Sea level location with tropical climate year-round. High humidity and temperatures can cause heat exhaustion. Hurricane season runs June-November with peak risk September-October."
+  },
+  "emergency": {
+    "general": "123",
+    "police": "112",
+    "ambulance": "123",
+    "fire": "119",
+    "touristPolice": "Available through 123",
+    "usEmbassy": "US Embassy Bogotá: +57-601-275-2000. Consular services available but limited on island - serious issues require mainland contact."
+  },
+  "faq": [
+    {
+      "q": "Is San Andrés safe for tourists?",
+      "a": "Yes, San Andrés is generally safe for tourists who stay in main areas and take standard precautions. It's safer than mainland Colombia but still requires awareness, especially regarding petty crime and in isolated areas."
+    },
+    {
+      "q": "Is San Andrés safe at night?",
+      "a": "The main downtown and hotel areas are relatively safe at night, but many parts of the island become deserted after dark. Always use transportation rather than walking at night, even for short distances."
+    },
+    {
+      "q": "Is San Andrés safe for solo female travelers?",
+      "a": "Solo female travelers can visit safely but should expect increased attention from men compared to other destinations. Stick to tourist areas, use hotel transportation at night, and connect with other travelers when possible."
+    },
+    {
+      "q": "What areas should I avoid in San Andrés?",
+      "a": "Avoid inland neighborhoods away from main roads, the airport area at night, and isolated parts of the coast. Stick to downtown, San Luis, main beach areas, and established tourist zones."
+    },
+    {
+      "q": "Is it safe to use public transport in San Andrés?",
+      "a": "Taxis are generally safe and the preferred option. Golf carts and scooters can be rented safely for daytime use. Always arrange transportation through hotels when possible, especially at night."
+    }
+  ],
+  "relatedCities": [
+    "cartagena",
+    "santa-marta",
+    "panama-city",
+    "san-jose-costa-rica",
+    "cancun"
+  ],
+  "_city_id": "san-andres-colombia"
+}

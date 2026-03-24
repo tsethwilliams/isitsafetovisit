@@ -1,0 +1,158 @@
+{
+  "slug": "valletta",
+  "name": "Valletta",
+  "country": "Malta",
+  "countryCode": "MT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 7.2,
+    "womensSafety": 8.3,
+    "nightSafety": 7.8,
+    "transport": 7.8,
+    "naturalHazards": 8.0
+  },
+  "summary": "Valletta is one of Europe's safest capitals, ranking among the 12 safest countries globally according to the World Justice Project. Malta recorded its lowest crime rate on record in 2025 at just 27 crimes per 1,000 residents, making it safer than most major European cities.",
+  "quickVerdict": "Valletta stands out as an exceptionally safe destination for tourists. With Malta's crime rate at historic lows and the capital being a UNESCO World Heritage site with active policing, visitors can explore confidently day and night. The main concerns are minor petty crimes like pickpocketing in crowded areas and occasional overcharging by taxis. The compact size makes it walkable, public transport is reliable, and the Maltese are known for their hospitality.",
+  "neighborhoods": [
+    {
+      "name": "Upper Barrakka Gardens & City Centre",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The heart of Valletta with major attractions, well-patrolled by tourist police, excellent lighting, and constant foot traffic making it very secure."
+    },
+    {
+      "name": "Republic Street & Merchant Street",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Main commercial areas with shops, cafes, and restaurants. Busy during the day with good security presence, though can get noisy on weekends."
+    },
+    {
+      "name": "South Street & Lower Valletta",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Quieter residential areas near the waterfront. Generally safe but less crowded, requiring normal urban precautions especially after dark."
+    },
+    {
+      "name": "Strait Street",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic nightlife area with bars and restaurants. Safe but can get lively at night with occasional rowdy behavior from party-goers."
+    },
+    {
+      "name": "Fort St. Elmo Area",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Eastern tip of Valletta near the fort. Less populated after dark and has been noted by locals as requiring extra caution at night."
+    },
+    {
+      "name": "Sicily Street",
+      "score": 6.0,
+      "class": "caution",
+      "description": "This street has a reputation for occasional scams and minor incidents. Exercise additional caution when walking here, especially alone at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "White taxis in Malta don't use meters and drivers may quote inflated prices, especially to tourists arriving at the airport or ferry terminals.",
+      "howToAvoid": "Always agree on the fare before getting in, use ride-hailing apps like Bolt or eCabs for transparent pricing, or use the official pre-paid taxi service at the airport."
+    },
+    {
+      "name": "Hop-On Hop-Off Bus Confusion",
+      "risk": "medium",
+      "description": "Some tourist bus operators use misleading practices, selling tickets for one route but putting tourists on different buses with different routes and timeframes.",
+      "howToAvoid": "Book directly with official operators, read the fine print carefully, and verify the actual route map matches your ticket before boarding."
+    },
+    {
+      "name": "Restaurant and Bar Overpricing",
+      "risk": "low",
+      "description": "Some establishments may charge tourists higher prices or add unexpected service charges, particularly in busy tourist areas.",
+      "howToAvoid": "Check prices before ordering, ask about service charges upfront, and choose restaurants with clearly displayed menus and prices."
+    },
+    {
+      "name": "Fake Charity Collections",
+      "risk": "low",
+      "description": "People may approach tourists claiming to collect donations for fake charities or causes, particularly in busy areas like ferry terminals.",
+      "howToAvoid": "Only donate to established charities with proper identification, ask for official documentation, and be wary of high-pressure tactics."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Valletta is extremely safe for solo female travelers and ranks as one of the best destinations in Europe for women traveling alone. Street harassment is rare, locals are helpful and friendly, and the compact size makes navigation easy. The main areas are well-lit and patrolled, with good security presence around major attractions.",
+    "tips": [
+      "Stay in well-lit, populated areas especially at night",
+      "Avoid walking alone in Paceville nightlife area after midnight",
+      "Trust your instincts and don't hesitate to ask locals for help if needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Valletta is generally very safe at night with good street lighting throughout the main areas and a visible police presence. The historic center remains lively in the evenings with restaurants and bars, creating a secure atmosphere. Most streets are safe to walk, though some quieter areas like Fort St. Elmo and Sicily Street require extra caution after dark.",
+    "tips": [
+      "Stick to main streets and well-lit areas",
+      "Be cautious around Fort St. Elmo area and Sicily Street after dark",
+      "Stay aware of your surroundings in quieter residential areas"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Malta. The bus network serves as the primary public transport.",
+    "rideshare": "Bolt and eCabs are popular and reliable rideshare options offering upfront pricing and good safety standards. Both apps work well throughout Malta.",
+    "taxis": "Official white taxis are regulated but don't use meters - agree on fare beforehand. Airport taxis offer fixed-price pre-paid services. Generally safe but overcharging can occur.",
+    "tips": "Use the Tallinja app for bus routes and real-time tracking. The bus system is extensive and affordable with modern, air-conditioned vehicles. Ferries connect Valletta to Sliema and the Three Cities safely."
+  },
+  "customs": [
+    "Dress modestly when visiting churches and religious sites - cover shoulders and knees",
+    "Greet locals with 'Bongu' (good morning) or 'Bonswa' (good evening) - Maltese appreciate the effort",
+    "Tipping 10-15% at restaurants is customary and appreciated for good service"
+  ],
+  "health": {
+    "overview": "Malta has an excellent healthcare system ranking 5th globally by WHO. Medical facilities are modern and staff speak English fluently. Emergency care is free for all visitors.",
+    "water": "Tap water is desalinated and safe to drink, though it may taste slightly odd. Many locals prefer bottled water.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines recommended. EU citizens can use EHIC cards for healthcare access.",
+    "altitude": "Malta has a Mediterranean climate with hot summers and mild winters. Strong sun requires sun protection. No altitude concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "+356 2122 4001",
+    "ambulance": "196",
+    "fire": "112",
+    "touristPolice": "Available in major tourist areas",
+    "usEmbassy": "US Embassy Malta: Ta'Qali National Park Street, Attard ATD 4000, Malta. Phone: +356 2561-4000"
+  },
+  "faq": [
+    {
+      "q": "Is Valletta safe for tourists?",
+      "a": "Yes, Valletta is extremely safe for tourists. Malta has one of the lowest crime rates in Europe at just 27 crimes per 1,000 residents, and Valletta as the capital has excellent security and tourist police presence throughout the main areas."
+    },
+    {
+      "q": "Is Valletta safe at night?",
+      "a": "Valletta is very safe at night with good street lighting and police patrols. The main tourist areas remain lively with restaurants and bars. Exercise normal precautions in quieter areas like Fort St. Elmo and avoid Sicily Street alone after dark."
+    },
+    {
+      "q": "Is Valletta safe for solo female travelers?",
+      "a": "Absolutely. Valletta ranks as one of the safest European capitals for solo female travelers. Street harassment is rare, locals are helpful, and the compact size makes it easy to navigate. Just avoid the Paceville nightlife area alone very late at night."
+    },
+    {
+      "q": "What areas should I avoid in Valletta?",
+      "a": "Valletta has no truly dangerous areas, but exercise extra caution on Sicily Street (reputation for scams) and around Fort St. Elmo after dark. These areas aren't unsafe but require normal urban awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Valletta?",
+      "a": "Yes, Malta's public transport is very safe and reliable. Modern buses connect all major areas, and the Tallinja app provides real-time tracking. Ferries between Valletta and other areas are also safe and scenic options."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "athens",
+    "lisbon"
+  ],
+  "_city_id": "valletta-malta",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/St_Sebastian_Curtain_%28cropped%29.jpg/1280px-St_Sebastian_Curtain_%28cropped%29.jpg"
+}

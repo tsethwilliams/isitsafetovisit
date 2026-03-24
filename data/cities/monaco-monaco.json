@@ -1,0 +1,167 @@
+{
+  "slug": "monaco",
+  "name": "Monaco",
+  "country": "Monaco",
+  "countryCode": "MC",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 8.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.5,
+    "scamRisk": 8.0,
+    "womensSafety": 9.0,
+    "nightSafety": 8.5,
+    "transport": 9.0,
+    "naturalHazards": 8.4
+  },
+  "summary": "Monaco is one of the world's safest destinations, with exceptionally low crime rates and the highest police presence per capita globally. While petty theft can occur, particularly around tourist areas and transport hubs, violent crime is virtually nonexistent in this luxury principality.",
+  "quickVerdict": "Monaco ranks among the world's safest countries for tourists with virtually zero violent crime and extremely low rates of petty crime. The principality maintains over 1,300 surveillance cameras covering nearly 100% of public areas and has one police officer for every 100 residents. While street crime exists at much lower levels than neighboring France, basic precautions are still advised around tourist hotspots like Monte Carlo's old town and the train station. The excellent public transport system, world-class healthcare, and 24/7 emergency services make Monaco an ideal destination for all types of travelers.",
+  "neighborhoods": [
+    {
+      "name": "Monaco-Ville",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The historic old town and government district is exceptionally safe with heavy police presence, well-lit streets, and constant surveillance. Home to the Prince's Palace and main tourist attractions."
+    },
+    {
+      "name": "Monte Carlo",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The famous casino district attracts wealthy visitors and maintains high security. Narrow old town streets see occasional pickpocketing but overall very safe day and night."
+    },
+    {
+      "name": "La Condamine",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The port area and shopping district around Place d'Armes is generally safe but sees slightly higher foot traffic. The harbor front and market areas require standard tourist precautions."
+    },
+    {
+      "name": "Fontvieille",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The modern reclaimed district with residential areas and shopping centers. Very safe with good lighting and regular patrols, popular with families and business travelers."
+    },
+    {
+      "name": "Larvotto",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The beach district is safe during the day with lifeguards present in summer. Some reports of jellyfish during certain seasons, but overall secure for beachgoers and tourists."
+    },
+    {
+      "name": "Train Station Area",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Monaco's underground train station sees the highest reported incidents of petty crime as tourists arrive with luggage. Enhanced security measures in place but remain vigilant with belongings."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Parking Meter QR Code Scam",
+      "risk": "medium",
+      "description": "Fraudulent QR code stickers on parking meters redirect users to fake payment websites. Scammers place fake 'paybyphone' QR codes on around 40 parking devices.",
+      "howToAvoid": "Monaco's parking meters do not use QR codes. Use only official PayByPhone app, Monapass, or pay directly at meters with cards and coins."
+    },
+    {
+      "name": "Fake Bus Pass Offers",
+      "risk": "medium",
+      "description": "Social media scams offering discounted or free CAM bus passes through fake Facebook pages and websites, often targeting residents and tourists.",
+      "howToAvoid": "Only purchase bus passes from official CAM offices, authorized machines at bus stops, or the official CAM website. Verify all social media offers through official channels."
+    },
+    {
+      "name": "High-End Property Investment Scams",
+      "risk": "high",
+      "description": "Scammers exploit Monaco's loose financial regulations to target foreign investors with fake luxury property deals and investment opportunities.",
+      "howToAvoid": "Always consult licensed legal professionals before any major property investment. Verify all real estate agents and firms through official Monaco business registries."
+    },
+    {
+      "name": "Three Card Monte Street Games",
+      "risk": "low",
+      "description": "Classic shell game scams where accomplices pose as winners to lure tourists into gambling on rigged card games in tourist areas.",
+      "howToAvoid": "Never engage with street gambling games. Walk away immediately if approached by groups trying to demonstrate 'winnings' or encourage participation."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Monaco is exceptionally safe for solo female travelers with virtually no reports of harassment, catcalling, or gender-based violence. The principality consistently ranks among the world's safest destinations for women, with excellent security infrastructure and respectful local culture. Female travelers report feeling secure walking alone both day and night throughout all districts.",
+    "tips": [
+      "Take advantage of the extensive surveillance network and visible police presence throughout the principality",
+      "Use the efficient and safe public transport system including buses and the boat bus service",
+      "Stay in well-established accommodations as Monaco caters primarily to luxury and business travelers",
+      "Be aware that Monaco has very high costs, so budget accordingly for accommodation and dining",
+      "Utilize the 24/7 taxi services and official taxi app for late-night transportation"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Monaco maintains exceptional safety standards at night with comprehensive surveillance, well-lit streets, and regular police patrols. The principality's vibrant nightlife scene around Monte Carlo operates safely with professional security at venues. Late-night public transport and taxi services provide secure transportation options until early morning hours.",
+    "tips": [
+      "Stick to main well-lit areas and popular nightlife districts around Monte Carlo and the casino area",
+      "Use official taxi services or the Taxis Monaco app for late-night transportation",
+      "Take advantage of the Be Safe association's free ride-home service available midnight to 5am in summer",
+      "Avoid displaying expensive jewelry or large amounts of cash even though violent crime is rare",
+      "Remember that Monaco has strict dress codes - no swimwear or barefoot walking outside beach areas"
+    ]
+  },
+  "transport": {
+    "metro": "Monaco has an underground train station connecting to the French rail network with excellent security and surveillance. The 1.7km of underground track provides safe, efficient service to Nice, France and Italy.",
+    "rideshare": "Official car-sharing service Mobee operates 60 electric vehicles across Monaco. The free-floating system allows pickup and drop-off anywhere in authorized zones with app-based reservations and secure payment systems.",
+    "taxis": "Highly regulated taxi system with Monaco Prestige as the main 24/7 operator. Electric taxi fleet available with official Taxis Monaco app for booking. Base fare is 15 euros with supplements for neighboring areas.",
+    "tips": "Public transport is extremely safe with CCTV cameras in all buses and stations. The CAM bus network serves 6 main routes from 7am-9pm with night buses until 12:20am weekdays and 4am weekends."
+  },
+  "customs": [
+    "Dress code is strictly enforced - no swimwear, shirtless attire, or bare feet outside designated beach areas",
+    "French is the official language though English and Italian are widely spoken in tourist areas",
+    "Gambling is prohibited for Monaco citizens and residents - casinos are for tourists only",
+    "Public displays of wealth are common and expected in this luxury destination",
+    "Formal attire is required at upscale restaurants and the famous Monte Carlo Casino",
+    "Smoking tobacco in public places was banned in 2025 to protect children and adolescents"
+  ],
+  "health": {
+    "overview": "Monaco offers world-class healthcare with Princess Grace Hospital providing 24/7 emergency services and state-of-the-art facilities. The principality has the third highest doctor-to-patient ratio in Europe at 581 per 100,000 people.",
+    "water": "Tap water is completely safe to drink throughout Monaco. The water quality meets the highest European standards with regular testing and monitoring by health authorities.",
+    "vaccinations": "Standard European vaccinations recommended including hepatitis A and B, measles-mumps-rubella, and seasonal influenza. No special vaccinations required for entry to Monaco.",
+    "altitude": "Monaco is at sea level with a Mediterranean climate. Summer temperatures can reach high levels, requiring sun protection and hydration precautions during outdoor activities."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Paris: +33-1-43-12-22-22 (Monaco is covered by US Embassy in France)"
+  },
+  "faq": [
+    {
+      "q": "Is Monaco safe for tourists?",
+      "a": "Yes, Monaco is one of the world's safest tourist destinations with virtually zero violent crime and extremely low petty crime rates. The principality has the highest police presence per capita globally and comprehensive surveillance coverage."
+    },
+    {
+      "q": "Is Monaco safe at night?",
+      "a": "Monaco is very safe at night with well-lit streets, active nightlife, and 24/7 police patrols. The surveillance network operates around the clock, and late-night transport services provide secure options for getting around."
+    },
+    {
+      "q": "Is Monaco safe for solo female travelers?",
+      "a": "Absolutely. Monaco ranks among the world's safest destinations for women traveling alone. Street harassment is virtually nonexistent, and female travelers report feeling secure throughout all areas of the principality."
+    },
+    {
+      "q": "What areas should I avoid in Monaco?",
+      "a": "Monaco has no dangerous areas to avoid. The train station area sees slightly higher petty crime rates, but this is still minimal compared to other European destinations. All neighborhoods are considered safe for tourists."
+    },
+    {
+      "q": "Is it safe to use public transport in Monaco?",
+      "a": "Yes, Monaco's public transport is extremely safe with CCTV coverage in all buses and stations. The CAM bus network, boat bus service, and train connections all maintain high security standards with regular staff presence."
+    }
+  ],
+  "relatedCities": [
+    "nice",
+    "cannes",
+    "san-remo",
+    "menton",
+    "antibes"
+  ],
+  "_city_id": "monaco-monaco",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fuerstenhof_zu_Monaco.jpg"
+}

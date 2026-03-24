@@ -3088,3 +3088,45 @@
 2026-03-24 07:52:15,555 [INFO] Merged into site data: Brasilia
 2026-03-24 07:52:15,654 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-24 07:52:15,706 [INFO] Rebuilt sitemap with 638 URLs (492 cities, 140 countries, 6 static)
+2026-03-24 12:00:15,871 [INFO] Agent starting — mode: add
+2026-03-24 12:00:15,912 [INFO] Queue has 98 cities, adding 8
+2026-03-24 12:00:15,912 [INFO] Generating new city profile: Paraty, Brazil
+2026-03-24 12:01:28,773 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:01:29,092 [INFO] Found Wikipedia image for Paraty
+2026-03-24 12:01:29,093 [INFO] Saved city data: paraty-brazil
+2026-03-24 12:01:29,098 [INFO] Generating new city profile: Easter Island, Chile
+2026-03-24 12:02:54,168 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:02:55,003 [INFO] Found Wikipedia image for Easter Island
+2026-03-24 12:02:55,004 [INFO] Saved city data: easter-island-chile
+2026-03-24 12:02:55,008 [INFO] Generating new city profile: San Andres, Colombia
+2026-03-24 12:04:05,941 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:04:06,305 [INFO] Saved city data: san-andres-colombia
+2026-03-24 12:04:06,310 [INFO] Generating new city profile: Iquitos, Peru
+2026-03-24 12:05:45,287 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:05:45,548 [INFO] Found Wikipedia image for Iquitos
+2026-03-24 12:05:45,549 [INFO] Saved city data: iquitos-peru
+2026-03-24 12:05:45,553 [INFO] Generating new city profile: Banos, Ecuador
+2026-03-24 12:07:05,780 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:07:06,103 [INFO] Saved city data: banos-ecuador
+2026-03-24 12:07:06,107 [INFO] Generating new city profile: Colonia del Sacramento, Uruguay
+2026-03-24 12:08:20,399 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:08:20,997 [INFO] Found Wikipedia image for Colonia del Sacramento
+2026-03-24 12:08:20,998 [INFO] Saved city data: colonia-del-sacramento-uruguay
+2026-03-24 12:08:21,002 [INFO] Generating new city profile: Monaco, Monaco
+2026-03-24 12:09:38,379 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:09:38,706 [INFO] Found Wikipedia image for Monaco
+2026-03-24 12:09:38,707 [INFO] Saved city data: monaco-monaco
+2026-03-24 12:09:38,711 [INFO] Generating new city profile: Valletta, Malta
+2026-03-24 12:10:51,038 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-24 12:10:51,244 [INFO] Found Wikipedia image for Valletta
+2026-03-24 12:10:51,244 [INFO] Saved city data: valletta-malta
+2026-03-24 12:10:51,302 [INFO] Merged into site data: Paraty
+2026-03-24 12:10:51,302 [INFO] Merged into site data: Easter Island
+2026-03-24 12:10:51,303 [INFO] Merged into site data: San Andrés
+2026-03-24 12:10:51,303 [INFO] Merged into site data: Iquitos
+2026-03-24 12:10:51,303 [INFO] Merged into site data: Baños
+2026-03-24 12:10:51,303 [INFO] Merged into site data: Colonia del Sacramento
+2026-03-24 12:10:51,303 [INFO] Merged into site data: Monaco
+2026-03-24 12:10:51,303 [INFO] Merged into site data: Valletta
+2026-03-24 12:10:51,408 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-24 12:10:51,460 [INFO] Rebuilt sitemap with 648 URLs (500 cities, 142 countries, 6 static)

@@ -1,0 +1,162 @@
+{
+  "slug": "paraty",
+  "name": "Paraty",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "region": "South America",
+  "regionSlug": "south-america",
+  "lastUpdated": "2026-03-24",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 8.2,
+    "scamRisk": 6.5,
+    "womensSafety": 7.8,
+    "nightSafety": 7.1,
+    "transport": 6.9,
+    "naturalHazards": 7.8
+  },
+  "summary": "Paraty is one of Brazil's safest destinations, particularly for tourists, with significantly lower crime rates than major Brazilian cities. The historic colonial town has minimal violent crime and is generally peaceful, though visitors should still watch for petty theft and common tourist scams.",
+  "quickVerdict": "Paraty stands out as a notably safe destination in Brazil, earning praise from travel experts as a place where tourists can feel secure. The small colonial town has excellent tourism infrastructure, friendly locals, and low violent crime rates. While standard precautions against petty theft and tourist scams are recommended, the overall security environment is much better than most Brazilian destinations. The main safety concerns relate to natural hazards like flooding during heavy rains and transportation safety on winding coastal roads.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center",
+      "score": 8.7,
+      "class": "safe",
+      "description": "The UNESCO World Heritage colonial center is the safest area, well-patrolled and full of tourists. Cobblestone streets are car-free and well-maintained, though watch for uneven surfaces at night."
+    },
+    {
+      "name": "Jabaquara Beach Area",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular tourist beach area with good infrastructure and regular police presence. Generally safe during the day with beachside restaurants and activities."
+    },
+    {
+      "name": "Centro Commercial",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Main commercial district outside the historic center. Safe for shopping and dining, with good lighting and foot traffic during business hours."
+    },
+    {
+      "name": "Residential Outskirts",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Quieter residential areas away from the center require more caution, especially at night. Limited street lighting and fewer people around."
+    },
+    {
+      "name": "Port and Industrial Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Working port area with some industrial activity. Generally safe during the day but avoid at night. Stick to main roads if passing through."
+    },
+    {
+      "name": "Favela Areas",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Small informal settlements on the outskirts should be avoided by tourists. Limited police presence and higher crime risk, particularly for outsiders."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Bird Poop Scam",
+      "risk": "medium",
+      "description": "Someone squirts oily substance on your shoe, then accomplice offers to clean it for an inflated fee while attempting to pickpocket you.",
+      "howToAvoid": "Politely refuse unsolicited help with cleaning and keep valuables secure. Walk to a legitimate shop if you need shoe cleaning."
+    },
+    {
+      "name": "Taxi Meter Tricks",
+      "risk": "medium",
+      "description": "Taxi drivers may refuse to use the meter or take longer routes, especially from bus stations or tourist areas.",
+      "howToAvoid": "Always insist on the meter being turned on before departure. Use ride-sharing apps like Uber when available, or ask your hotel to recommend reliable taxi companies."
+    },
+    {
+      "name": "Overpriced Tours",
+      "risk": "medium",
+      "description": "Street vendors or fake tour guides offer expensive, low-quality boat tours or excursions at inflated prices.",
+      "howToAvoid": "Book tours through reputable agencies or your hotel. Compare prices and check reviews before committing. Legitimate tour operators have proper licenses and fixed offices."
+    },
+    {
+      "name": "Friendship Bracelet Scam",
+      "risk": "low",
+      "description": "Locals approach tourists offering free friendship bracelets, then demand payment once placed on wrist.",
+      "howToAvoid": "Politely decline any free items from strangers. If something is placed on you without permission, firmly refuse to pay and remove it immediately."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Paraty is considered one of Brazil's safest destinations for solo female travelers, ranking 7th safest in the country for women. The town's small size, tourism focus, and welcoming locals create a generally secure environment. Women report feeling comfortable walking around the historic center during the day and early evening.",
+    "tips": [
+      "Stay in the well-lit historic center area after dark rather than venturing to outlying neighborhoods",
+      "Join organized group tours for activities like boat trips to islands or waterfall visits",
+      "Keep drinks covered and don't accept beverages from strangers, as drink spiking has been reported in Brazilian tourist areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Paraty is relatively safe at night, especially in the historic center where restaurants and bars stay open late. The cobblestone streets are well-maintained and there's usually foot traffic until around 11 PM. However, street lighting can be limited in some areas, and the uneven cobblestones require extra caution after dark.",
+    "tips": [
+      "Stick to the main streets and tourist areas in the historic center after dark",
+      "Use licensed taxis or ride-sharing for longer distances at night rather than walking",
+      "Be extra careful on cobblestone streets which can be uneven and poorly lit in some areas"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Paraty.",
+    "rideshare": "Uber operates in Paraty with good coverage in the tourist areas and historic center. Generally reliable and safe option for getting around town and to nearby beaches.",
+    "taxis": "Licensed taxis are available but always insist on meter use. Some drivers may try to overcharge tourists, especially at bus stations. Hotel-recommended taxis tend to be more reliable.",
+    "tips": "Transportation is generally safe but watch for overcharging. For travel to Rio or Sao Paulo, use reputable bus companies or pre-arranged transfers through your hotel."
+  },
+  "customs": [
+    "Greet with 'bom dia' (good morning), 'boa tarde' (good afternoon), or 'boa noite' (good evening)",
+    "Handshakes are common for first meetings, while friends may exchange kisses on the cheek",
+    "Dress modestly when visiting churches or historic religious sites - cover shoulders and knees",
+    "Being 15-20 minutes late to social gatherings is culturally acceptable and not considered rude",
+    "Brazilians appreciate when foreigners attempt to speak Portuguese, even basic phrases"
+  ],
+  "health": {
+    "overview": "Healthcare in Paraty is limited to basic medical facilities. The town has one public hospital suitable mainly for emergency stabilization, with more complex cases referred to larger cities like Rio de Janeiro or Angra dos Reis.",
+    "water": "Tap water is generally not recommended for drinking. Stick to bottled water, which is widely available and affordable throughout the town.",
+    "vaccinations": "Standard travel vaccinations recommended include hepatitis A/B, typhoid, and yellow fever if coming from at-risk areas. Consult a travel medicine clinic before departure.",
+    "altitude": "Paraty is at sea level. The climate is tropical with high humidity. Use strong sunscreen and stay hydrated, especially during summer months (December-March) when temperatures can reach 35°C."
+  },
+  "emergency": {
+    "general": "190",
+    "police": "190",
+    "ambulance": "192",
+    "fire": "193",
+    "touristPolice": "Rio de Janeiro Tourist Police: 021/3399-7170",
+    "usEmbassy": "US Consulate General Rio de Janeiro: +55 21 3823-2000. Located at Av. Presidente Wilson 147, Centro, Rio de Janeiro. For emergencies involving US citizens, call +55 21 3823-2029."
+  },
+  "faq": [
+    {
+      "q": "Is Paraty safe for tourists?",
+      "a": "Yes, Paraty is considered one of Brazil's safest tourist destinations. The small colonial town has low crime rates, good tourist infrastructure, and a welcoming atmosphere. It's much safer than major Brazilian cities like Rio de Janeiro or São Paulo."
+    },
+    {
+      "q": "Is Paraty safe at night?",
+      "a": "The historic center is generally safe at night with restaurants and bars open until late. However, stick to well-lit main streets and be careful on uneven cobblestones. Use taxis for longer distances rather than walking alone in outlying areas."
+    },
+    {
+      "q": "Is Paraty safe for solo female travelers?",
+      "a": "Yes, Paraty ranks as the 7th safest place in Brazil for solo female travelers. Women report feeling comfortable exploring the town during the day and early evening. Standard precautions apply, especially regarding drinks and staying in tourist areas after dark."
+    },
+    {
+      "q": "What areas should I avoid in Paraty?",
+      "a": "Avoid the small favela areas on the outskirts of town and limit nighttime activities to the historic center and main tourist zones. The port/industrial area should be avoided at night, though it's generally safe during daylight hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Paraty?",
+      "a": "Paraty has limited public transport, but taxis and Uber are generally safe. Always insist taxi drivers use the meter to avoid overcharging. For longer trips to other cities, use reputable bus companies or arrange transfers through your hotel."
+    }
+  ],
+  "relatedCities": [
+    "rio-de-janeiro",
+    "angra-dos-reis",
+    "ilha-grande",
+    "sao-paulo",
+    "buzios"
+  ],
+  "_city_id": "paraty-brazil",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paraty_05.JPG/1280px-Paraty_05.JPG"
+}
