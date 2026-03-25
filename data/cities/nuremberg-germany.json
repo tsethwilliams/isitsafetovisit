@@ -1,0 +1,166 @@
+{
+  "slug": "nuremberg",
+  "name": "Nuremberg",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.8,
+    "womensSafety": 8.1,
+    "nightSafety": 7.3,
+    "transport": 8.5,
+    "naturalHazards": 7.8
+  },
+  "summary": "Nuremberg is one of Germany's safest major cities, ranking second among cities with over 200,000 inhabitants in Bavaria's crime statistics. The city enjoys very low violent crime rates, efficient emergency services, and excellent public transportation safety. Tourist-related crime is minimal, consisting mainly of pickpocketing and occasional scams targeting visitors.",
+  "quickVerdict": "Nuremberg offers excellent safety for tourists, ranking among Germany's top safest cities. While petty crime like pickpocketing can occur in crowded tourist areas and the main train station vicinity, violent crime is extremely rare. The city's well-maintained public transport system, professional police force, and world-class healthcare make it an ideal destination for all types of travelers, including solo females and families.",
+  "neighborhoods": [
+    {
+      "name": "Altstadt (Old Town)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic city center is very safe during the day with heavy police presence and tourist patrols. Well-lit at night with regular security, though petty theft can occur around major attractions like the Castle and Hauptkirche."
+    },
+    {
+      "name": "Hauptbahnhof Area",
+      "score": 6.1,
+      "class": "caution",
+      "description": "The main train station area requires more vigilance, especially at night. While generally safe, it attracts some homeless individuals and occasional drug activity. Increased police presence maintains order, but avoid lingering alone late at night."
+    },
+    {
+      "name": "Gostenhof",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Once considered problematic, this district has gentrified into a trendy neighborhood with vibrant nightlife. Generally safe with good lighting and regular foot traffic, though standard urban precautions apply after midnight."
+    },
+    {
+      "name": "Sudstadt",
+      "score": 7.8,
+      "class": "safe",
+      "description": "A predominantly residential area that's very safe for tourists. Home to some nightlife venues and the DIE RAKETE club. Well-patrolled with good public transport connections and minimal crime incidents."
+    },
+    {
+      "name": "Langwasser",
+      "score": 6.8,
+      "class": "caution",
+      "description": "A large residential suburb connected by U-Bahn. Generally safe but can feel isolated at night. Some areas have higher concentrations of social housing, but violent crime remains rare and tourist-related incidents are uncommon."
+    },
+    {
+      "name": "Airport/Ziegelstein",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern area around the airport with excellent transport links. Very safe with minimal crime. Well-lit and regularly patrolled, making it ideal for travelers arriving late or departing early."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Assistance Scam",
+      "risk": "medium",
+      "description": "Scammers approach tourists at ATMs offering help with bank fees or technical issues while attempting to scan cards or observe PIN numbers.",
+      "howToAvoid": "Never accept help from strangers at ATMs. Use machines inside banks when possible and cover your PIN entry."
+    },
+    {
+      "name": "Mustard/Bird Dropping Distraction",
+      "risk": "high",
+      "description": "Someone spills mustard or fake bird droppings on you and offers to help clean it while an accomplice pickpockets your belongings.",
+      "howToAvoid": "Politely decline help and clean yourself. Be aware of your surroundings and keep valuables secure in tourist areas."
+    },
+    {
+      "name": "Fake Transport Inspector",
+      "risk": "medium",
+      "description": "Individuals with fake badges demand on-the-spot fines for ticket violations, pressuring tourists to pay immediately rather than providing official penalty notices.",
+      "howToAvoid": "Real inspectors provide official documentation for later payment. Ask for official identification and never pay cash on the spot."
+    },
+    {
+      "name": "Bar/Club Overcharging",
+      "risk": "medium",
+      "description": "Friendly locals invite tourists to specific bars where drinks are extremely overpriced and paying the inflated bill becomes mandatory through intimidation.",
+      "howToAvoid": "Suggest venues of your own choosing when invited out. Check drink prices before ordering and be wary of overly friendly strangers promoting specific establishments."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nuremberg is very safe for solo female travelers, with women reporting feeling secure both day and night. Crime against women is extremely low, and the city's efficient public transport and well-lit streets provide good infrastructure for safe travel. Local attitudes are respectful and helpful toward solo female visitors.",
+    "tips": [
+      "Avoid walking alone in poorly lit areas around the main station late at night",
+      "Use official taxi services or ride-sharing apps rather than accepting rides from strangers",
+      "Keep accommodation details private and don't share them with casual acquaintances",
+      "Trust your instincts if approached by overly friendly strangers offering unsolicited help",
+      "Consider staying in well-reviewed accommodations in central areas like the Old Town"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nuremberg's nightlife is generally safe with a vibrant scene in areas like Gostenhof and the Old Town. The city has efficient night bus services and well-lit streets. Police maintain a visible presence, and most venues have professional security. However, standard precautions should be taken, especially around the main station area after midnight.",
+    "tips": [
+      "Stay in groups when possible and use the buddy system in bars and clubs",
+      "Plan your route home in advance using night buses or registered taxis",
+      "Don't accept drinks from strangers and never leave your drink unattended",
+      "Keep emergency numbers saved in your phone and stay aware of your surroundings",
+      "Avoid isolated areas and stick to well-lit main streets when walking at night"
+    ]
+  },
+  "transport": {
+    "metro": "Nuremberg's U-Bahn system is extremely safe and efficient, with automatic operation on lines U2 and U3. Regular security patrols, emergency buttons in every car, and CCTV monitoring ensure passenger safety. The system operates until midnight with NightLiner buses providing coverage afterward.",
+    "rideshare": "Uber and other ride-sharing services operate safely in Nuremberg. Always verify the license plate and driver before entering. The apps provide tracking and fare transparency, making them a secure option for late-night travel.",
+    "taxis": "Licensed taxis are very safe and reliable. Ensure the meter is running and ask for estimated fares for longer trips. Taxis are readily available at designated stands throughout the city, especially near the train station and major hotels.",
+    "tips": "Public transport is the safest and most economical way to get around. Validate tickets to avoid fines, and keep valuables secure during peak hours. Night buses provide safe late-night transport when regular services end."
+  },
+  "customs": [
+    "Greet people with 'Guten Tag' or 'Hallo' when entering shops and say 'Auf Wiedersehen' when leaving",
+    "Punctuality is highly valued - arrive on time for appointments and reservations",
+    "Maintain eye contact when toasting with beer or wine and never cross arms while clinking glasses",
+    "Use formal address (Sie) with strangers and older people until invited to use informal (Du)",
+    "Quiet hours (Ruhezeit) are typically 10 PM to 6 AM - keep noise levels down in residential areas"
+  ],
+  "health": {
+    "overview": "Germany has one of the world's best healthcare systems, and Nuremberg offers excellent medical facilities including modern hospitals and well-trained medical staff. Most doctors speak English, and emergency services are highly efficient and professional.",
+    "water": "Tap water is completely safe to drink and meets strict EU quality standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations are required for Germany. Standard travel vaccines (hepatitis A/B, typhoid) may be recommended by your doctor but are not mandatory.",
+    "altitude": "Nuremberg is at low elevation with no altitude concerns. The climate is temperate with cold winters and warm summers. Summer temperatures can reach 30°C/86°F, while winter lows can drop to -5°C/23°F."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "110",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate General Munich (covers Bavaria): +49-89-2888-0, located at Königinstraße 5, 80539 München. For emergencies: +49-89-2888-0 or after hours +1-202-501-4444 from abroad."
+  },
+  "faq": [
+    {
+      "q": "Is Nuremberg safe for tourists?",
+      "a": "Yes, Nuremberg is very safe for tourists and ranks as Germany's second-safest major city. Violent crime is extremely rare, and most incidents involve minor pickpocketing in tourist areas. The city has excellent emergency services and a professional police force."
+    },
+    {
+      "q": "Is Nuremberg safe at night?",
+      "a": "Generally yes, especially in central areas like the Old Town which are well-lit and patrolled. Some caution is advised around the main train station area after midnight. The city offers efficient night bus services and safe nightlife districts like Gostenhof."
+    },
+    {
+      "q": "Is Nuremberg safe for solo female travelers?",
+      "a": "Absolutely. Solo female travelers report feeling very safe in Nuremberg, with respectful local attitudes and low crime rates. Standard precautions like avoiding poorly lit areas alone at night are sufficient for safe travel."
+    },
+    {
+      "q": "What areas should I avoid in Nuremberg?",
+      "a": "No areas are particularly dangerous, but exercise extra caution around the main train station (Hauptbahnhof) late at night. Some outer residential areas like parts of Langwasser may feel isolated after dark but are not unsafe."
+    },
+    {
+      "q": "Is it safe to use public transport in Nuremberg?",
+      "a": "Yes, Nuremberg's public transport is very safe with modern U-Bahn lines, regular security patrols, and emergency systems. Night buses provide safe late-night travel when regular services end. Just validate your ticket and keep valuables secure during busy periods."
+    }
+  ],
+  "relatedCities": [
+    "munich",
+    "frankfurt",
+    "cologne",
+    "dresden",
+    "hamburg"
+  ],
+  "_city_id": "nuremberg-germany",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/N%C3%BCrnberger_Burg_im_Herbst_2013.jpg/1280px-N%C3%BCrnberger_Burg_im_Herbst_2013.jpg"
+}

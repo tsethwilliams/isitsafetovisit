@@ -3266,3 +3266,47 @@
 2026-03-25 07:49:34,953 [INFO] Merged into site data: Chamonix
 2026-03-25 07:49:35,062 [INFO] Merged 5 new cities into src/lib/city-data.json
 2026-03-25 07:49:35,119 [INFO] Rebuilt sitemap with 671 URLs (521 cities, 144 countries, 6 static)
+2026-03-25 11:59:38,046 [INFO] Agent starting — mode: add
+2026-03-25 11:59:38,088 [INFO] Queue has 66 cities, adding 8
+2026-03-25 11:59:38,088 [INFO] Generating new city profile: Annecy, France
+2026-03-25 12:00:38,745 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:00:39,090 [INFO] Found Wikipedia image for Annecy
+2026-03-25 12:00:39,090 [INFO] Saved city data: annecy-france
+2026-03-25 12:00:39,095 [INFO] Generating new city profile: Normandy, France
+2026-03-25 12:01:49,534 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:01:49,817 [INFO] Found Wikipedia image for Normandy
+2026-03-25 12:01:49,818 [INFO] Saved city data: normandy-france
+2026-03-25 12:01:49,822 [INFO] Generating new city profile: Munich, Germany
+2026-03-25 12:03:40,779 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:03:41,088 [INFO] Found Wikipedia image for Munich
+2026-03-25 12:03:41,089 [INFO] Saved city data: munich-germany
+2026-03-25 12:03:41,093 [INFO] Generating new city profile: Leipzig, Germany
+2026-03-25 12:05:18,036 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:05:18,355 [INFO] Found Wikipedia image for Leipzig
+2026-03-25 12:05:18,356 [INFO] Saved city data: leipzig-germany
+2026-03-25 12:05:18,360 [INFO] Generating new city profile: Nuremberg, Germany
+2026-03-25 12:06:49,789 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:06:50,181 [INFO] Found Wikipedia image for Nuremberg
+2026-03-25 12:06:50,182 [INFO] Saved city data: nuremberg-germany
+2026-03-25 12:06:50,186 [INFO] Generating new city profile: Stuttgart, Germany
+2026-03-25 12:08:25,457 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:08:25,714 [INFO] Found Wikipedia image for Stuttgart
+2026-03-25 12:08:25,715 [INFO] Saved city data: stuttgart-germany
+2026-03-25 12:08:25,719 [INFO] Generating new city profile: Dusseldorf, Germany
+2026-03-25 12:09:57,420 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:09:57,743 [INFO] Found Wikipedia image for Dusseldorf
+2026-03-25 12:09:57,744 [INFO] Saved city data: dusseldorf-germany
+2026-03-25 12:09:57,749 [INFO] Generating new city profile: Heidelberg, Germany
+2026-03-25 12:11:17,801 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 12:11:18,118 [INFO] Found Wikipedia image for Heidelberg
+2026-03-25 12:11:18,119 [INFO] Saved city data: heidelberg-germany
+2026-03-25 12:11:18,178 [INFO] Merged into site data: Annecy
+2026-03-25 12:11:18,178 [INFO] Merged into site data: Normandy
+2026-03-25 12:11:18,178 [INFO] City already exists in site data, skipping: munich
+2026-03-25 12:11:18,178 [INFO] Merged into site data: Leipzig
+2026-03-25 12:11:18,178 [INFO] Merged into site data: Nuremberg
+2026-03-25 12:11:18,178 [INFO] Merged into site data: Stuttgart
+2026-03-25 12:11:18,179 [INFO] Merged into site data: Dusseldorf
+2026-03-25 12:11:18,179 [INFO] Merged into site data: Heidelberg
+2026-03-25 12:11:18,286 [INFO] Merged 7 new cities into src/lib/city-data.json
+2026-03-25 12:11:18,341 [INFO] Rebuilt sitemap with 678 URLs (528 cities, 144 countries, 6 static)

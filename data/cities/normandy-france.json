@@ -1,0 +1,152 @@
+{
+  "slug": "normandy",
+  "name": "Normandy",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Normandy is one of France's safest regions, with exceptionally low violent crime rates and minimal natural disaster risks. While tourist-targeted petty crime occasionally occurs at popular sites like the D-Day beaches, the region remains very welcoming to visitors.",
+  "quickVerdict": "Normandy stands out as one of the safest regions in France for tourists. With violent crime rates significantly lower than French averages and excellent emergency services, visitors can explore World War II sites, charming coastal towns, and historic Norman villages with confidence. While pickpocketing can occur at major tourist attractions and car break-ins happen at beach parking lots, serious crime is rare. Solo female travelers consistently report feeling secure throughout the region, and transport links are reliable.",
+  "neighborhoods": [
+    {
+      "name": "Bayeux",
+      "score": 9.0,
+      "class": "safe",
+      "description": "Historic town and gateway to D-Day beaches. Extremely safe with friendly locals, well-lit streets, and regular police presence due to tourist significance."
+    },
+    {
+      "name": "Caen City Center",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Busy university city with good transport links. Generally safe but watch belongings in crowded shopping areas and near the train station."
+    },
+    {
+      "name": "Honfleur Old Port",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Picturesque harbor town popular with tourists. Very safe with charming cobblestone streets, though parking areas can see occasional vehicle break-ins."
+    },
+    {
+      "name": "D-Day Landing Beaches",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Historic coastal areas with memorial sites. Safe overall but parking lots at beaches and American Cemetery experience frequent car break-ins targeting tourists."
+    },
+    {
+      "name": "Rouen Cathedral Quarter",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Medieval city center with stunning architecture. Safe for walking but be aware of pickpockets in crowded tourist areas around the cathedral."
+    },
+    {
+      "name": "Deauville-Trouville",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Upscale seaside resort towns. Generally safe but higher-end areas can attract petty criminals targeting wealthy tourists, especially during summer season."
+    }
+  ],
+  "scams": [
+    {
+      "name": "D-Day Tour Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed tour operators at memorial sites charging inflated prices or providing poor service",
+      "howToAvoid": "Book tours through official visitor centers or established companies. Always agree on price beforehand and ask for credentials."
+    },
+    {
+      "name": "Car Park Break-ins",
+      "risk": "high",
+      "description": "Thieves target tourist vehicles at beach parking lots and memorial sites, looking for visible valuables",
+      "howToAvoid": "Never leave bags, cameras or GPS devices visible in your car. Use official parking areas and consider removing rental car stickers."
+    },
+    {
+      "name": "Restaurant Tourist Menus",
+      "risk": "low",
+      "description": "Some establishments near major attractions offer overpriced tourist menus with lower quality food",
+      "howToAvoid": "Look for restaurants with French customers and menus in French. Ask locals for recommendations away from main tourist sites."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Normandy is exceptionally safe for solo female travelers, consistently ranking among France's safest regions. The combination of low crime rates, friendly locals, and well-developed tourist infrastructure makes it ideal for women traveling alone. Most solo female visitors report feeling completely comfortable walking alone during the day and evening in town centers.",
+    "tips": [
+      "Stay in Bayeux or Caen for best access to transport and tourist services",
+      "Join organized D-Day tours to meet other travelers and ensure safe transport to remote beach sites",
+      "Book accommodations with 24-hour reception for added security and local assistance"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Normandy's towns are generally safe after dark, with well-lit main streets and regular police patrols in tourist areas. However, some coastal areas and rural villages can become quite deserted after sunset, making vigilance important when moving between locations.",
+    "tips": [
+      "Stick to main streets and well-lit areas in town centers after dark",
+      "Use official taxis or ride-share apps rather than walking alone on country roads at night",
+      "Stay near your accommodation after dark in smaller coastal villages where services close early"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system in Normandy. Rouen has a modern metro line that is safe and efficient for getting around the city.",
+    "rideshare": "Uber and local alternatives available in major cities like Caen and Rouen. BlaBlaCar popular for intercity travel and generally safe for shared rides between cities.",
+    "taxis": "Official taxis are safe and reliable. Always use licensed taxis with meters, especially at train stations. In tourist areas, book through hotels or call official taxi companies.",
+    "tips": "Normandy's train network (TER and Intercités) is very safe and connects all major towns. Bus services comprehensive but can be limited to rural areas - check Nomad network schedules in advance."
+  },
+  "customs": [
+    "Always greet with 'Bonjour Monsieur/Madame' when entering shops or starting conversations, and 'Au revoir' when leaving",
+    "Use formal 'vous' rather than 'tu' unless invited to be informal - this is especially important with older Norman locals",
+    "Respect meal times - restaurants typically serve lunch 12-2pm and dinner 7-9pm, with limited service between these hours"
+  ],
+  "health": {
+    "overview": "Normandy has excellent healthcare facilities with modern hospitals in all major cities. The French healthcare system is world-class and emergency services respond quickly even in rural areas.",
+    "water": "Tap water is completely safe to drink throughout Normandy and meets EU standards. Bottled water is available everywhere but unnecessary.",
+    "vaccinations": "No special vaccinations required for Normandy. Standard EU travel vaccination recommendations apply (MMR, DPT, flu shot recommended).",
+    "altitude": "Sea-level coastal region with mild maritime climate. Occasional strong winds off the English Channel but no altitude-related health concerns. Pack layers for changeable weather."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22 (24/7 American Citizen Services). Nearest consular services in Paris, approximately 2-3 hours from most Normandy locations."
+  },
+  "faq": [
+    {
+      "q": "Is Normandy safe for tourists?",
+      "a": "Yes, Normandy is one of France's safest regions for tourists. Violent crime is extremely rare, and while petty theft can occur at popular attractions, overall crime rates are well below national averages. Emergency services are excellent and locals are generally helpful to visitors."
+    },
+    {
+      "q": "Is Normandy safe at night?",
+      "a": "Town centers in Normandy are generally safe at night with good lighting and regular police patrols. However, rural areas and some coastal villages can become quite deserted after dark, so it's best to stay in well-populated areas and avoid isolated locations after sunset."
+    },
+    {
+      "q": "Is Normandy safe for solo female travelers?",
+      "a": "Absolutely. Normandy is exceptionally safe for solo female travelers, with very low crime rates and a welcoming culture. Many women travel alone to visit D-Day sites and historic towns without incident. Basic precautions like staying aware of surroundings and using official transport are sufficient."
+    },
+    {
+      "q": "What areas should I avoid in Normandy?",
+      "a": "There are no particularly dangerous areas in Normandy, but be extra vigilant at beach parking lots near tourist sites where car break-ins occur. Some outer suburbs of larger cities like Caen may have higher crime rates, but tourist areas remain safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Normandy?",
+      "a": "Yes, public transport in Normandy is very safe and reliable. The regional train network (TER) connects major towns efficiently, and bus services are comprehensive. The metro in Rouen is modern and safe. Always keep belongings secure but serious incidents are rare."
+    }
+  ],
+  "relatedCities": [
+    "paris",
+    "lyon",
+    "marseille"
+  ],
+  "_city_id": "normandy-france",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Normandie.svg/1280px-Flag_of_Normandie.svg.png"
+}
