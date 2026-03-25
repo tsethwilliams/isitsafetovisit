@@ -1,0 +1,166 @@
+{
+  "slug": "pisa",
+  "name": "Pisa",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 6.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.2,
+    "naturalHazards": 8.8
+  },
+  "summary": "Pisa is one of Italy's safest destinations for tourists, with low crime rates and effective policing. The main concerns are pickpocketing around tourist areas and petty scams targeting visitors, particularly near the Leaning Tower and train stations.",
+  "quickVerdict": "Pisa offers a remarkably safe experience for tourists, consistently ranking as one of Italy's lowest-risk destinations. While pickpocketing and tourist scams exist around major attractions, violent crime against visitors is extremely rare. The city benefits from strong police presence, especially around the iconic Square of Miracles, and well-developed emergency services. Solo female travelers generally feel secure, though standard urban precautions are advised after dark. Public transport is reliable and safe, with new security measures implemented around train stations in 2026.",
+  "neighborhoods": [
+    {
+      "name": "Square of Miracles/Duomo Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The UNESCO World Heritage site around the Leaning Tower is well-patrolled and generally safe, though pickpockets target distracted tourists. Enhanced security measures include increased lighting and police presence."
+    },
+    {
+      "name": "Historic Center",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The pedestrian-friendly center with shops and restaurants on Corso Italia is safe for walking day and night. University students create natural safety in numbers around Piazza Dante area."
+    },
+    {
+      "name": "Pisa Centrale Station Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "A designated 'Red Zone' with increased surveillance due to pickpocketing incidents. Well-lit main roads are safe, but avoid quiet side streets after midnight. The People Mover to the airport operates safely."
+    },
+    {
+      "name": "Borgo Stretto",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Popular medieval shopping district with cafes and boutiques. Generally safe with good foot traffic during the day and evening. Police presence maintains security."
+    },
+    {
+      "name": "Lungarno Riverside",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Scenic walkways along the Arno River are pleasant during daylight hours. Some isolated spots may attract occasional rowdy behavior after dark, but generally safe for evening strolls on main paths."
+    },
+    {
+      "name": "San Martino District",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area south of the river with authentic trattorias. Quieter after sunset but safe for those staying in local accommodations. Some alleys near Piazza delle Vettovaglie feel isolated after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Leaning Tower Pickpocketing",
+      "risk": "high",
+      "description": "Groups work together using distraction techniques while tourists pose for photos. One person distracts while accomplices steal from bags or pockets.",
+      "howToAvoid": "Keep valuables in front-facing bags, stay aware of surroundings when taking photos, and be wary of overly friendly strangers offering to take pictures."
+    },
+    {
+      "name": "Train Station Helper Scam",
+      "risk": "medium",
+      "description": "Fake helpful locals approach confused tourists at ticket machines, offering assistance while accomplices pickpocket or steal luggage.",
+      "howToAvoid": "Use official ticket machines independently, keep bags in front of you, and only accept help from uniformed railway staff."
+    },
+    {
+      "name": "Bracelet/Rose Gift Scam",
+      "risk": "medium",
+      "description": "Street vendors forcefully tie bracelets around tourists' wrists or hand them roses, then aggressively demand payment claiming it was a gift.",
+      "howToAvoid": "Keep hands in pockets near tourist areas, firmly say 'No grazie' and walk away quickly, never accept unsolicited gifts from strangers."
+    },
+    {
+      "name": "Overpriced Taxi Schemes",
+      "risk": "medium",
+      "description": "Unlicensed drivers or official taxis claiming broken meters quote inflated flat rates to tourists, especially from the airport or train station.",
+      "howToAvoid": "Use only white licensed taxis with proper signage, insist on the meter, or book through official apps like AppTaxi for fixed fares."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Pisa is considered one of Italy's safest cities for solo female travelers. The compact historic center is easily walkable, police presence is strong around tourist areas, and locals are generally helpful. University students create a vibrant, safe atmosphere, particularly around Piazza Dante. While catcalling may occasionally occur, it's less common than in larger Italian cities. The main precautions involve pickpocketing awareness and avoiding isolated areas after dark.",
+    "tips": [
+      "Stay in accommodations near the historic center rather than the train station area for better nighttime safety",
+      "Join evening passeggiata (stroll) groups with other tourists for natural safety in numbers",
+      "Learn basic Italian phrases like 'Lasciami sola' (leave me alone) for rare pushy encounters",
+      "Use well-lit main roads like Corso Italia when moving between areas after 10 PM",
+      "Consider female-led bike tours along the Arno River for safe daytime exploration with local insights"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Pisa's compact size and university population create good nighttime safety conditions. The historic center around the Leaning Tower remains lively until midnight with restaurant patrons and students. Well-lit main routes like Corso Italia are safe for evening walks. The newly implemented Red Zone around Pisa Centrale has enhanced lighting and police patrols. However, quieter residential areas and some riverside paths should be avoided late at night.",
+    "tips": [
+      "Stick to well-lit main roads and busy university areas like Piazza Dante after 10 PM",
+      "Use the N-series night buses (N1-N4) that run hourly until 1 AM rather than walking through station district",
+      "Avoid isolated alleys near Piazza delle Vettovaglie and quiet riverside paths after midnight",
+      "Take advantage of extended Leaning Tower hours during summer (open until 10 PM June-August)",
+      "Join evening guided tours for safe exploration of illuminated monuments and local aperitivo culture"
+    ]
+  },
+  "transport": {
+    "metro": "Pisa has no metro system. Public transport relies on buses operated by Autolinee Toscane. The LAM Rossa (red line) connects the train station to major attractions every 20-30 minutes. Night buses (N1-N4) run hourly until 1 AM. All buses now accept contactless card payments for €1.70 fares.",
+    "rideshare": "Limited ride-sharing options exist in Pisa. Uber is not widely available. Most tourists rely on official taxis or the efficient bus network. Some local apps provide taxi booking services.",
+    "taxis": "Official white taxis with proper signage are safe and regulated. Licensed taxis should use meters (€12-15 for most city journeys). The main taxi stand is near Bar Duomo on Via Cammeo. AppTaxi provides fixed-fare bookings. Avoid unmarked cars that often charge excessive rates.",
+    "tips": "The PisaMover automated train provides safe, efficient airport connections in 5 minutes. Validate bus tickets immediately to avoid €50 fines. Download the CPT app for real-time tracking and mobile tickets. Walk between central attractions when possible - it's often faster than waiting for buses."
+  },
+  "customs": [
+    "Greet shopkeepers and staff with 'Buongiorno' (morning) or 'Buonasera' (evening) when entering establishments",
+    "Dress modestly when visiting churches - cover shoulders and knees as a sign of respect",
+    "Follow Italian meal times: lunch 1-2:30 PM, dinner after 7:30 PM. Many shops close for afternoon riposo",
+    "Cappuccino is strictly a breakfast drink; order caffè (espresso) or macchiato after 11 AM",
+    "Tipping is not expected but appreciated - leave small change for good service rather than percentage-based tips"
+  ],
+  "health": {
+    "overview": "Italy has an excellent healthcare system with both public and private options. Pisa has several well-equipped hospitals including Ospedale Cisanello and Ospedale Santa Chiara. EU citizens can use their European Health Insurance Card for coverage. Emergency treatments are generally free regardless of nationality.",
+    "water": "Tap water in Pisa is safe to drink and meets EU standards. Many public fountains throughout the city provide free, clean water. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Italy. Standard travel vaccines (routine MMR, tetanus, flu) are recommended. COVID-19 vaccination requirements may vary - check current Italian health ministry guidelines before travel.",
+    "altitude": "Pisa is at sea level with no altitude concerns. The Mediterranean climate features hot, sunny summers and mild, wet winters. Temperature rarely falls below freezing. Summer heat can reach 35°C (95°F) - stay hydrated and seek shade during peak hours."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "+39 050 1000",
+    "usEmbassy": "U.S. Consulate General Florence: +39 055 266-951 (Pisa falls under Florence consular district). After-hours emergencies: +39 055 266-951. Embassy Rome: +39 06 4674-1"
+  },
+  "faq": [
+    {
+      "q": "Is Pisa safe for tourists?",
+      "a": "Yes, Pisa is one of Italy's safest tourist destinations with low crime rates and effective policing. Main concerns are pickpocketing around attractions and minor scams, but violent crime against tourists is extremely rare."
+    },
+    {
+      "q": "Is Pisa safe at night?",
+      "a": "Generally yes. The historic center remains lively until midnight, and main routes are well-lit and patrolled. Avoid isolated areas and use night buses after 1 AM rather than walking through quiet districts."
+    },
+    {
+      "q": "Is Pisa safe for solo female travelers?",
+      "a": "Pisa is considered very safe for solo women, ranking among Italy's top destinations for female travelers. Standard precautions around pickpocketing apply, and the university atmosphere creates good safety in numbers."
+    },
+    {
+      "q": "What areas should I avoid in Pisa?",
+      "a": "The Red Zone around Pisa Centrale station requires extra vigilance, especially side streets after midnight. Avoid isolated riverside paths and quiet alleys near Piazza delle Vettovaglie after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Pisa?",
+      "a": "Yes, public transport is safe and reliable. The LAM Rossa bus connects major attractions efficiently. The PisaMover to the airport is automated and secure. Watch belongings during crowded periods but violent incidents are rare."
+    }
+  ],
+  "relatedCities": [
+    "florence",
+    "lucca",
+    "siena",
+    "san-gimignano",
+    "bologna"
+  ],
+  "_city_id": "pisa-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Italy_-_Pisa.jpg/1280px-Italy_-_Pisa.jpg"
+}

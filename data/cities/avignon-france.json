@@ -1,0 +1,164 @@
+{
+  "slug": "avignon",
+  "name": "Avignon",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 7.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 7.6
+  },
+  "summary": "Avignon is generally a safe historic city with low violent crime rates, though petty theft and pickpocketing can occur in tourist areas. The city benefits from good police presence and well-maintained infrastructure for visitors. Natural disaster risks are relatively low compared to other regions of France.",
+  "quickVerdict": "Avignon is a relatively safe destination for tourists, with violent crime being rare and the city center being well-patrolled. The main concerns are petty crimes like pickpocketing in crowded tourist areas, especially during festivals or peak season. Solo female travelers generally feel secure during the day, though extra caution is recommended at night. The healthcare system is excellent and emergency services are readily accessible. While some neighborhoods south of the city center should be avoided after dark, the historic core remains welcoming for visitors who take standard precautions.",
+  "neighborhoods": [
+    {
+      "name": "Historic City Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The walled historic center around the Papal Palace is well-lit, heavily patrolled, and generally very safe. Tourist police presence is strong, and violent crime is rare. Main concern is pickpocketing during busy periods."
+    },
+    {
+      "name": "Place de l'Horloge Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The main square and surrounding streets are vibrant and safe with good foot traffic. Well-maintained with regular police patrols. Stay alert for pickpockets in crowds, especially during events."
+    },
+    {
+      "name": "Rue des Teinturiers",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The trendy nightlife district is generally safe with good lighting and foot traffic. Some late-night rowdiness possible around bars and clubs. Stick to main streets after dark."
+    },
+    {
+      "name": "Central Train Station Area",
+      "score": 5.5,
+      "class": "caution",
+      "description": "The area around Gare d'Avignon Centre has more reports of petty crime and drug-related activity. Exercise extra caution with belongings and avoid loitering, especially in the evening."
+    },
+    {
+      "name": "Southern Suburbs",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Areas south of the city center including parts near Charles de Gaulle ring road have higher crime rates and poor lighting. Avoid walking alone at night and stay in the historic center instead."
+    },
+    {
+      "name": "Monclar Neighborhood",
+      "score": 3.0,
+      "class": "danger",
+      "description": "This southeastern neighborhood has significant safety concerns with reports of drug activity and occasional violence. Tourists should avoid this area entirely, especially solo female travelers."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Petition Scam",
+      "risk": "moderate",
+      "description": "Individuals around Palais des Papes approach tourists to sign fake petitions for charities or causes, then demand money after signing.",
+      "howToAvoid": "Politely decline all petition requests. Legitimate organizations don't solicit signatures from tourists on the street."
+    },
+    {
+      "name": "Gold Ring Scam",
+      "risk": "moderate",
+      "description": "Someone 'finds' a gold ring near you and offers to sell it at a discount, claiming it's valuable. The ring is worthless costume jewelry.",
+      "howToAvoid": "Never engage with strangers offering to sell found jewelry. Keep walking and ignore such approaches."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "high",
+      "description": "Thieves work in teams where one person distracts you by asking for directions or dropping something while an accomplice steals from your bag or pocket.",
+      "howToAvoid": "Stay aware of your surroundings in tourist areas. Keep bags in front of you and be wary of overly friendly strangers offering unsolicited help."
+    },
+    {
+      "name": "Overpriced Taxi Scam",
+      "risk": "moderate",
+      "description": "Some taxi drivers may take longer routes or claim their meter is broken to charge excessive fares, especially from transport hubs.",
+      "howToAvoid": "Only use official taxis with working meters. Agree on fares beforehand if the meter is broken, or use ride-sharing apps instead."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Avignon is generally safe for solo female travelers, particularly in the historic center during daylight hours. The city has a low rate of violent crime and good police presence in tourist areas. However, standard precautions should be taken, especially after dark and in less central neighborhoods.",
+    "tips": [
+      "Stick to well-lit, populated areas in the historic center, especially at night",
+      "Avoid walking alone in southern suburbs and near the train station after dark",
+      "Use official taxis or ride-sharing services rather than walking alone late at night",
+      "Keep accommodations in the historic center for better safety and accessibility",
+      "Trust your instincts and remove yourself from any uncomfortable situations"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Avignon is moderate, with the historic center being relatively safe due to good lighting and foot traffic from restaurants and bars. However, some areas become less safe after dark, and general vigilance is recommended.",
+    "tips": [
+      "Stay within the historic city walls where lighting and police presence are better",
+      "Travel in groups when possible and stick to main streets with foot traffic",
+      "Avoid the train station area and southern neighborhoods after 8pm",
+      "Use official transportation options rather than walking long distances at night",
+      "Keep your phone charged for navigation and emergency contact"
+    ]
+  },
+  "transport": {
+    "metro": "Avignon does not have a metro system. Public transportation consists mainly of buses operated by TCRA, which are generally safe and reliable during the day.",
+    "rideshare": "Uber and other ride-sharing services operate in Avignon and are considered safe options, especially for late-night transportation back to accommodations.",
+    "taxis": "Official taxis are generally safe but ensure the meter is working. Some reports of overcharging tourists exist, so agree on fares beforehand if the meter is broken.",
+    "tips": "Walking is the best way to explore the compact historic center. For longer distances or nighttime travel, use official taxis or ride-sharing services rather than walking alone."
+  },
+  "customs": [
+    "Greet shopkeepers and restaurant staff with 'Bonjour' during the day or 'Bonsoir' in the evening",
+    "Dress modestly when visiting religious sites like the Papal Palace",
+    "Tipping is not obligatory but rounding up bills or leaving 5-10% for good service is appreciated"
+  ],
+  "health": {
+    "overview": "France has an excellent healthcare system and Avignon has good medical facilities including Centre Hospitalier d'Avignon and several private clinics. Healthcare standards are very high and many medical professionals speak English.",
+    "water": "Tap water in Avignon is safe to drink and meets strict European health standards. It's regularly tested and you can confidently refill water bottles from taps.",
+    "vaccinations": "No special vaccinations are required for France. Routine vaccinations should be up to date.",
+    "altitude": "Avignon is at low elevation with a Mediterranean climate. Summers can be hot, so stay hydrated and use sun protection during warmer months."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22 (24/7 emergency line for US citizens: +1-202-501-4444 from abroad)"
+  },
+  "faq": [
+    {
+      "q": "Is Avignon safe for tourists?",
+      "a": "Yes, Avignon is generally safe for tourists with low violent crime rates. The historic center is well-patrolled and most visitors experience no safety issues. Main concerns are petty theft and pickpocketing in tourist areas."
+    },
+    {
+      "q": "Is Avignon safe at night?",
+      "a": "The historic center is relatively safe at night with good lighting and foot traffic, but caution is advised. Avoid southern neighborhoods and the train station area after dark. Stay in well-lit areas and consider using taxis for transportation."
+    },
+    {
+      "q": "Is Avignon safe for solo female travelers?",
+      "a": "Yes, Avignon is generally safe for solo female travelers, especially in the historic center during the day. Exercise standard precautions, avoid isolated areas at night, and stay in the central area where police presence is stronger."
+    },
+    {
+      "q": "What areas should I avoid in Avignon?",
+      "a": "Avoid the southern suburbs, particularly Monclar neighborhood, and areas around the Charles de Gaulle ring road, especially after dark. The train station area also requires extra caution in the evening."
+    },
+    {
+      "q": "Is it safe to use public transport in Avignon?",
+      "a": "Yes, public buses are generally safe during the day. For nighttime travel, taxis and ride-sharing services are recommended over walking. The city center is compact and easily walkable during daylight hours."
+    }
+  ],
+  "relatedCities": [
+    "marseille",
+    "nice",
+    "lyon",
+    "montpellier",
+    "toulouse"
+  ],
+  "_city_id": "avignon-france",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Vue_a%C3%A9rienne_2_JP_Campomar.jpg/1280px-Vue_a%C3%A9rienne_2_JP_Campomar.jpg"
+}

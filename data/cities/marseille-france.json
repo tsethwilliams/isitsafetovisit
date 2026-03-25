@@ -1,0 +1,164 @@
+{
+  "slug": "marseille",
+  "name": "Marseille",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 6.3,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.5,
+    "scamRisk": 5.5,
+    "womensSafety": 6.5,
+    "nightSafety": 5.8,
+    "transport": 7.5,
+    "naturalHazards": 7.4
+  },
+  "summary": "France's second-largest city has a gritty port town reputation but offers vibrant culture and Mediterranean charm. While crime statistics are higher than other French cities, tourist areas remain relatively safe with strong police presence. Visitors should exercise standard urban precautions and avoid northern districts.",
+  "quickVerdict": "Marseille is moderately safe for tourists who stick to central areas and use common sense. While the city has higher crime rates than other French destinations, most incidents don't involve tourists. The historic port, Le Panier district, and southern beaches are generally safe during the day. Night safety requires more caution, especially around train stations and northern neighborhoods. Public transport is reliable and secure, and the Mediterranean location poses minimal natural hazards.",
+  "neighborhoods": [
+    {
+      "name": "Vieux Port (Old Port)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The heart of Marseille tourism with heavy police presence, restaurants, and boat tours. Generally safe day and night with good lighting and crowds."
+    },
+    {
+      "name": "Le Panier",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Historic old town with colorful streets, artisan shops, and cultural sites. Safe during tourist hours but quieter at night. Popular with visitors and well-maintained."
+    },
+    {
+      "name": "Cours Julien",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Trendy district with restaurants, bars, and street art. Safe during the day but exercise caution at night near metro stations where some unsavory characters gather."
+    },
+    {
+      "name": "Noailles",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Multicultural market area that's bustling during day but can feel chaotic. Higher petty crime risk due to crowds. Avoid late at night and watch belongings carefully."
+    },
+    {
+      "name": "Belsunce",
+      "score": 4.8,
+      "class": "danger",
+      "description": "Near the train station with higher crime rates and drug activity. Tourist scams are common here. Avoid at night and be extra vigilant with belongings during the day."
+    },
+    {
+      "name": "Northern Districts (13th-16th)",
+      "score": 3.2,
+      "class": "danger",
+      "description": "Housing estates with gang violence and drug trafficking. No tourist attractions here. Strongly recommend avoiding entirely, especially after dark. Most violent crime occurs in these areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "ATM Card Skimming",
+      "risk": "high",
+      "description": "Scammers place fake inserts over ATM slots that capture card details and PINs. They may approach offering help to retrieve stuck cards.",
+      "howToAvoid": "Only use ATMs inside banks during business hours. Cover your PIN when entering. Never accept help from strangers at ATMs."
+    },
+    {
+      "name": "Gold Ring Scam",
+      "risk": "medium",
+      "description": "Someone finds a shiny ring and offers to sell it to you claiming it's valuable gold. Ring is worthless costume jewelry.",
+      "howToAvoid": "Politely decline and walk away quickly. Don't engage with anyone offering found jewelry or asking if items belong to you."
+    },
+    {
+      "name": "Friendship Bracelet Trick",
+      "risk": "medium",
+      "description": "Street vendors tie colorful bracelets on your wrist as a symbol of friendship, then demand payment. Accomplices may pickpocket while distracted.",
+      "howToAvoid": "Keep hands in pockets and refuse to let anyone put anything on your body. Say no firmly and keep walking."
+    },
+    {
+      "name": "Restaurant/Bar Overcharging",
+      "risk": "medium",
+      "description": "Tourist-area establishments charging inflated prices not shown on menus, or attractive locals leading tourists to expensive bars with rigged bills.",
+      "howToAvoid": "Always check menu prices before ordering. Suggest the venue when meeting new people. Ask for itemized bills and question suspicious charges."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Marseille is manageable for solo female travelers with standard urban precautions. Central tourist areas are generally safe during the day. Some women report unwanted attention and catcalling, particularly at night. The local culture can be more forward than other European cities, but serious incidents targeting tourists are rare. Stay in well-lit areas and trust your instincts.",
+    "tips": [
+      "Stick to central tourist areas like Vieux Port and Le Panier especially after dark",
+      "Use taxis or rideshare services for late-night transportation rather than walking alone",
+      "Dress modestly and avoid making extended eye contact as it may be misinterpreted as interest",
+      "Be firm and direct if approached - don't try to be polite if you feel uncomfortable",
+      "Ask women for help or directions rather than men when possible"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Marseille at night requires increased vigilance, especially outside tourist zones. The Vieux Port area remains relatively safe with good lighting and police presence. Avoid northern districts entirely after dark and be cautious around Saint-Charles train station. Public areas can become poorly lit and empty quickly once you leave main thoroughfares.",
+    "tips": [
+      "Stay in well-lit, populated areas like the Vieux Port and main boulevards",
+      "Avoid walking alone late at night, especially in Belsunce and Noailles districts",
+      "Use official taxis or rideshare apps rather than unlicensed vehicles",
+      "Keep valuables hidden and carry only what you need for the evening",
+      "Consider the Fluobus night bus service which provides safe public transport after metro closure"
+    ]
+  },
+  "transport": {
+    "metro": "The RTM metro system has two lines that are generally safe and reliable. Trains run from 5 AM to 12:30 AM with extended hours on weekends. New climate-controlled trains are being introduced in 2026. Some pickpocketing occurs in crowded cars during rush hours.",
+    "rideshare": "Uber and Bolt operate legally in Marseille and are safe options. Always verify the driver and vehicle details match the app before getting in. Surge pricing may apply during peak times and events.",
+    "taxis": "Licensed taxis are regulated and safe. Look for official taxi signs and meters. From airport to city center costs around 50-60 euros. Some unlicensed drivers operate near airports and train stations - avoid these.",
+    "tips": "Public transport is the recommended way to get around. Validate tickets every time you board. The RTM network includes metro, trams, and buses with integrated ticketing. Avoid rush hours 7-9 AM and 5-7 PM when possible."
+  },
+  "customs": [
+    "Always greet with 'Bonjour' when entering shops, restaurants, or meeting people - this is essential French etiquette",
+    "The French speak more softly in public than Americans - avoid loud conversations on transport or in restaurants",
+    "Marseillais are generally more open and friendlier than Parisians, reflecting the Mediterranean culture and maritime heritage"
+  ],
+  "health": {
+    "overview": "France has excellent healthcare standards and Marseille's hospitals meet European Union requirements. No special health precautions needed for travelers from developed countries. Emergency medical care is readily available.",
+    "water": "Tap water is completely safe to drink and meets strict EU quality standards. You can refill water bottles from any tap without concern.",
+    "vaccinations": "No special vaccinations required for entry. Routine vaccinations like MMR, DPT, and seasonal flu should be up to date.",
+    "altitude": "Sea-level Mediterranean climate with hot summers (85°F in July) and mild winters (50°F in January). Pack sunscreen for summer visits and light jacket for cooler evenings."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Marseille: +33.1.43.12.22.22 (24/7 emergency line for US citizens). For business hours dial extension, then ask for Marseille consulate."
+  },
+  "faq": [
+    {
+      "q": "Is Marseille safe for tourists?",
+      "a": "Yes, Marseille is moderately safe for tourists who stick to central areas and use common sense. While crime rates are higher than other French cities, most incidents don't target visitors. Stay in tourist zones like Vieux Port and Le Panier, avoid northern districts, and follow standard urban safety precautions."
+    },
+    {
+      "q": "Is Marseille safe at night?",
+      "a": "Marseille requires extra caution at night. The Vieux Port area remains relatively safe with good lighting, but avoid northern neighborhoods entirely after dark. Use taxis or rideshare services for late-night transport, stay in well-lit areas, and don't walk alone in quiet areas."
+    },
+    {
+      "q": "Is Marseille safe for solo female travelers?",
+      "a": "Marseille is manageable for solo female travelers with proper precautions. Central tourist areas are generally safe during the day. Some women report unwanted attention, so be firm if approached, avoid extended eye contact, and stay in populated, well-lit areas after dark."
+    },
+    {
+      "q": "What areas should I avoid in Marseille?",
+      "a": "Avoid the northern districts (13th, 14th, 15th, 16th arrondissements) entirely, especially at night. Be cautious in Belsunce near the train station and Noailles district after dark. Parts of Cours Julien can be sketchy late at night near metro stations."
+    },
+    {
+      "q": "Is it safe to use public transport in Marseille?",
+      "a": "Yes, Marseille's RTM public transport network is generally safe and reliable. The metro, trams, and buses are well-maintained with CCTV. Night buses provide safe late-night transport. Watch for pickpockets during rush hours and validate tickets to avoid fines."
+    }
+  ],
+  "relatedCities": [
+    "nice",
+    "lyon",
+    "barcelona",
+    "paris",
+    "montpellier"
+  ],
+  "_city_id": "marseille-france",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1280px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg"
+}

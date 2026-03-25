@@ -1,0 +1,155 @@
+{
+  "slug": "chamonix",
+  "name": "Chamonix",
+  "country": "France",
+  "countryCode": "FR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.5,
+    "womensSafety": 8.2,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 6.0
+  },
+  "summary": "Chamonix is one of France's safest destinations with extremely low crime rates and excellent infrastructure. The main safety considerations are natural hazards related to mountain activities, including avalanche risks during winter and off-piste skiing.",
+  "quickVerdict": "Chamonix is exceptionally safe for tourists, ranking among Europe's safest mountain destinations. Violent crime is virtually non-existent, and petty crime is rare in this upscale alpine resort town. The primary safety concerns relate to mountain activities, particularly avalanche risks for off-piste skiers and climbers. With excellent emergency services, modern infrastructure, and a strong police presence, visitors can feel secure both day and night.",
+  "neighborhoods": [
+    {
+      "name": "Chamonix Town Centre",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The heart of Chamonix with pedestrian areas, luxury shops, restaurants, and the main train station. Extremely safe with heavy police presence during tourist season."
+    },
+    {
+      "name": "Les Praz",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Quiet residential area north of town center, home to the Olympic ski jump and cable car stations. Very safe with minimal crime."
+    },
+    {
+      "name": "Les Houches",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Family-friendly area at the entrance to Chamonix valley. Safe residential zone with good transport links and tourist facilities."
+    },
+    {
+      "name": "Argentiere",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Traditional mountain village at the upper end of the valley. Generally safe but more remote, with fewer services available."
+    },
+    {
+      "name": "Vallorcine",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Small village near the Swiss border. Safe but isolated location with limited amenities and emergency services."
+    },
+    {
+      "name": "Off-Piste Mountain Areas",
+      "score": 3.5,
+      "class": "danger",
+      "description": "High-altitude areas outside marked ski runs. Significant avalanche and weather risks requiring proper equipment, guides, and experience."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Ski Equipment Rental",
+      "risk": "medium",
+      "description": "Unlicensed operators offering cheap equipment rentals that may be damaged or inadequate for mountain conditions.",
+      "howToAvoid": "Only rent from established shops with proper certifications. Verify equipment quality before heading to slopes."
+    },
+    {
+      "name": "Overpriced Mountain Restaurant Bills",
+      "risk": "medium",
+      "description": "Some high-altitude restaurants may not clearly display prices, leading to unexpectedly high bills.",
+      "howToAvoid": "Always check prices before ordering. Ask for menu with prices clearly displayed. Avoid restaurants without visible pricing."
+    },
+    {
+      "name": "Fake Mountain Guide Services",
+      "risk": "high",
+      "description": "Unqualified individuals posing as certified mountain guides for off-piste activities, putting clients at serious risk.",
+      "howToAvoid": "Only use IFMGA certified guides. Verify credentials through official organizations. Book through established guide services."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Chamonix is extremely safe for solo female travelers with a safety rating of 4.6 out of 5. The alpine town has very low crime rates, excellent lighting, and a strong police presence during tourist season. Solo women regularly hike, ski, and explore the area without issues. The main considerations are mountain safety rather than personal security.",
+    "tips": [
+      "Stay in centrally located accommodations near the town center for easy access to services",
+      "Inform someone of your mountain activity plans and expected return times",
+      "Consider joining guided groups for high-altitude activities rather than going alone",
+      "Use established mountain huts and refuges when hiking multi-day routes"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Chamonix is generally safe at night with well-lit streets in the town center and regular police patrols. Most restaurants and bars close by midnight, creating a calm evening atmosphere. The main considerations are weather conditions in winter and the remoteness of some areas outside the town center.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "Be aware of icy conditions on sidewalks during winter months",
+      "Use official taxis or arranged transport for late-night travel to remote accommodations",
+      "Carry a flashlight when staying in mountain huts or remote chalets"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Local buses connect valley villages and ski areas, operating reliably with clear schedules and multilingual announcements.",
+    "rideshare": "Uber operates with limited availability during peak seasons. Pre-booking recommended, especially for airport transfers and early morning departures.",
+    "taxis": "Licensed taxis available but limited in number. Book in advance, especially during high season. Meters are mandatory for all rides.",
+    "tips": "The SNCF train from Geneva airport is the most reliable transport option. Local buses are free in some areas during ski season. Walking is safe and popular in the town center."
+  },
+  "customs": [
+    "Greet shopkeepers and restaurant staff with 'Bonjour' when entering establishments",
+    "Mountain rescue services are highly respected - follow all safety guidelines and posted warnings",
+    "Tipping 5-10% is appreciated but not mandatory in restaurants and for guides",
+    "Respect marked ski boundaries and avalanche safety measures - violations can result in rescue costs"
+  ],
+  "health": {
+    "overview": "France has one of the world's best healthcare systems. Chamonix Hospital provides emergency care and trauma treatment, with specialized mountain rescue services available 24/7.",
+    "water": "Tap water is safe to drink throughout Chamonix. Mountain spring water is also potable, though bottled water is recommended for extended hiking.",
+    "vaccinations": "No special vaccinations required for France. Ensure routine vaccinations are up to date.",
+    "altitude": "Chamonix sits at 1,035m elevation. Some visitors may experience mild altitude effects. Higher cable car destinations reach over 3,800m - descend immediately if experiencing severe symptoms."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Paris: +33 1 43 12 22 22. PGHM Mountain Rescue: +33 4 50 53 16 89"
+  },
+  "faq": [
+    {
+      "q": "Is Chamonix safe for tourists?",
+      "a": "Yes, Chamonix is extremely safe for tourists with very low crime rates and excellent emergency services. The main safety considerations relate to mountain activities rather than crime."
+    },
+    {
+      "q": "Is Chamonix safe at night?",
+      "a": "Chamonix is very safe at night in the town center with good lighting and police presence. However, winter conditions can create icy sidewalks, so exercise caution when walking."
+    },
+    {
+      "q": "Is Chamonix safe for solo female travelers?",
+      "a": "Absolutely. Chamonix ranks among Europe's safest destinations for solo female travelers, with a 4.6/5 safety rating. The community is welcoming and crime against tourists is virtually non-existent."
+    },
+    {
+      "q": "What areas should I avoid in Chamonix?",
+      "a": "Avoid off-piste skiing areas without proper equipment and guides, especially during high avalanche risk periods. All marked areas and town locations are very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Chamonix?",
+      "a": "Yes, local buses and trains are very safe and reliable. The valley's public transport system is well-maintained and monitored, with good safety records."
+    }
+  ],
+  "relatedCities": [
+    "geneva",
+    "annecy",
+    "grenoble"
+  ],
+  "_city_id": "chamonix-france",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG/1280px-Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re%2C2010_07.JPG"
+}

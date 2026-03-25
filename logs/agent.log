@@ -3222,3 +3222,47 @@
 2026-03-24 23:14:52,256 [INFO] Merged into site data: Siena
 2026-03-24 23:14:52,365 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-24 23:14:52,426 [INFO] Rebuilt sitemap with 666 URLs (516 cities, 144 countries, 6 static)
+2026-03-25 07:38:10,576 [INFO] Agent starting — mode: add
+2026-03-25 07:38:10,616 [INFO] Queue has 74 cities, adding 8
+2026-03-25 07:38:10,616 [INFO] Generating new city profile: Pisa, Italy
+2026-03-25 07:39:51,808 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:39:51,994 [INFO] Found Wikipedia image for Pisa
+2026-03-25 07:39:51,995 [INFO] Saved city data: pisa-italy
+2026-03-25 07:39:52,000 [INFO] Generating new city profile: Palermo, Italy
+2026-03-25 07:41:21,290 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:41:21,344 [INFO] Found Wikipedia image for Palermo
+2026-03-25 07:41:21,345 [INFO] Saved city data: palermo-italy
+2026-03-25 07:41:21,349 [INFO] Generating new city profile: Naples, Italy
+2026-03-25 07:43:12,339 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:43:12,466 [INFO] Found Wikipedia image for Naples
+2026-03-25 07:43:12,467 [INFO] Saved city data: naples-italy
+2026-03-25 07:43:12,471 [INFO] Generating new city profile: Zurich, Switzerland
+2026-03-25 07:44:45,252 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:44:45,319 [INFO] Found Wikipedia image for Zurich
+2026-03-25 07:44:45,319 [INFO] Saved city data: zurich-switzerland
+2026-03-25 07:44:45,324 [INFO] Generating new city profile: Marseille, France
+2026-03-25 07:46:04,713 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:46:04,791 [INFO] Found Wikipedia image for Marseille
+2026-03-25 07:46:04,792 [INFO] Saved city data: marseille-france
+2026-03-25 07:46:04,796 [INFO] Generating new city profile: Montpellier, France
+2026-03-25 07:47:24,030 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:47:24,094 [INFO] Found Wikipedia image for Montpellier
+2026-03-25 07:47:24,094 [INFO] Saved city data: montpellier-france
+2026-03-25 07:47:24,098 [INFO] Generating new city profile: Avignon, France
+2026-03-25 07:48:29,582 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:48:29,666 [INFO] Found Wikipedia image for Avignon
+2026-03-25 07:48:29,667 [INFO] Saved city data: avignon-france
+2026-03-25 07:48:29,672 [INFO] Generating new city profile: Chamonix, France
+2026-03-25 07:49:34,813 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-25 07:49:34,894 [INFO] Found Wikipedia image for Chamonix
+2026-03-25 07:49:34,895 [INFO] Saved city data: chamonix-france
+2026-03-25 07:49:34,953 [INFO] Merged into site data: Pisa
+2026-03-25 07:49:34,953 [INFO] Merged into site data: Palermo
+2026-03-25 07:49:34,953 [INFO] City already exists in site data, skipping: naples
+2026-03-25 07:49:34,953 [INFO] City already exists in site data, skipping: zurich
+2026-03-25 07:49:34,953 [INFO] City already exists in site data, skipping: marseille
+2026-03-25 07:49:34,953 [INFO] Merged into site data: Montpellier
+2026-03-25 07:49:34,953 [INFO] Merged into site data: Avignon
+2026-03-25 07:49:34,953 [INFO] Merged into site data: Chamonix
+2026-03-25 07:49:35,062 [INFO] Merged 5 new cities into src/lib/city-data.json
+2026-03-25 07:49:35,119 [INFO] Rebuilt sitemap with 671 URLs (521 cities, 144 countries, 6 static)

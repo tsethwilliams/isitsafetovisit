@@ -1,0 +1,165 @@
+{
+  "slug": "naples",
+  "name": "Naples",
+  "country": "Italy",
+  "countryCode": "IT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 7.5,
+    "scamRisk": 5.8,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.2,
+    "naturalHazards": 7.1
+  },
+  "summary": "Naples is generally safe for tourists but requires standard urban awareness due to petty crime concerns. While it has a reputation for danger, recent statistics show it ranks below Rome, Milan, and Florence for overall crime rates. The primary risks involve pickpocketing and minor scams in tourist areas.",
+  "quickVerdict": "Naples rewards street-smart travelers with authentic Italian experiences. Despite sensationalized safety concerns, actual crime statistics place it among safer Italian cities for violent crime. The main challenges are pickpocketing on public transport, tourist scams, and the need for vigilance in certain neighborhoods after dark. With proper precautions, millions of visitors enjoy trouble-free experiences annually in this culturally rich city.",
+  "neighborhoods": [
+    {
+      "name": "Chiaia",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale waterfront district with designer shopping, excellent restaurants, and well-patrolled streets. Popular with affluent locals and tourists, offering good nightlife and proximity to the Villa Comunale park."
+    },
+    {
+      "name": "Historic Center (Centro Storico)",
+      "score": 7.0,
+      "class": "safe",
+      "description": "UNESCO World Heritage area including Spaccanapoli. Busy tourist zone with museums, churches, and authentic pizzerias. Generally safe during day but requires extra awareness for pickpockets in crowded areas."
+    },
+    {
+      "name": "Vomero",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Hilltop residential area with panoramic views, accessible by funicular. Quieter than city center with good restaurants and shopping. Popular with middle-class families and generally very safe."
+    },
+    {
+      "name": "Spanish Quarter (Quartieri Spagnoli)",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Colorful narrow-street neighborhood with authentic local atmosphere. Safe for tourists during daylight but can feel intimidating. Exercise caution with belongings and avoid after dark if unfamiliar."
+    },
+    {
+      "name": "Garibaldi/Central Station Area",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Transportation hub with higher petty crime rates. Crowded area attracts pickpockets and opportunistic thieves targeting travelers with luggage. Avoid lingering and move purposefully through this zone."
+    },
+    {
+      "name": "Scampia",
+      "score": 2.5,
+      "class": "danger",
+      "description": "Suburban area far from tourist zones with documented organized crime activity and drug trafficking. Completely avoid this neighborhood - requires deliberate effort to reach accidentally from tourist areas."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing on Public Transport",
+      "risk": "high",
+      "description": "Organized groups target tourists on crowded Circumvesuviana trains, metro, and buses. Often work in pairs with one creating distraction while another steals.",
+      "howToAvoid": "Keep bags in front, avoid back pockets, stay alert on crowded transport, secure phones with wrist straps."
+    },
+    {
+      "name": "Taxi Fare Overcharging",
+      "risk": "high",
+      "description": "Drivers claim broken meters or quote inflated rates, especially from airport or train station. May refuse to use meter or add fake surcharges.",
+      "howToAvoid": "Use only official white taxis, insist on meter use, know fixed airport rates (€18-27), use ride-hailing apps like FreeNow."
+    },
+    {
+      "name": "Fake Police Checks",
+      "risk": "medium",
+      "description": "Scammers dress as tourist police and request document checks to steal wallets or passports. Often work in pairs with fake badges.",
+      "howToAvoid": "Real police carry proper ID, ask to see station if suspicious, never hand over documents to plainclothes officers on street."
+    },
+    {
+      "name": "Free Gift Scams",
+      "risk": "medium",
+      "description": "Street vendors offer 'free' bracelets, roses, or corn for pigeons then aggressively demand payment. May grab tourists to tie bracelets without permission.",
+      "howToAvoid": "Refuse all 'free' items politely but firmly, keep walking, don't make eye contact with persistent vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Naples is manageable for experienced solo female travelers who take standard urban precautions. Local women report generally positive experiences with occasional street comments but rare harassment. The main challenges are pickpocketing and navigating chaotic streets, not gender-specific safety issues.",
+    "tips": [
+      "Stay in well-lit tourist areas like Spaccanapoli, Chiaia, or Lungomare after dark",
+      "Book accommodation in safer neighborhoods like Chiaia or Vomero rather than near Central Station",
+      "Take taxis for neighborhood-to-neighborhood movement at night rather than walking unfamiliar streets",
+      "Trust instincts and don't hesitate to enter shops or restaurants if feeling uncomfortable",
+      "Consider joining walking tours to meet other travelers and learn local dynamics"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Naples nightlife areas are generally safe until late evening with increased police patrols in popular zones. The city implemented 'Movida Sicura' plan doubling patrols in nightlife districts Thursday-Saturday. Main risks include scooter grab-and-go thefts and pickpocketing around bars.",
+    "tips": [
+      "Stay in well-lit areas like Spaccanapoli spine, Chiaia seafront, or Vomero hill until 11 PM-midnight",
+      "Use taxis for longer distances after dark rather than walking between neighborhoods",
+      "Walk street-side to avoid scooter bag-snatching attempts",
+      "Travel in groups when possible and avoid isolated narrow streets",
+      "Be extra cautious 1-3 AM when scooter thefts peak"
+    ]
+  },
+  "transport": {
+    "metro": "Metro Line 1 is modern, safe, and efficient with security cameras in stations. Pickpocketing occurs during rush hours but overall system is reliable. Validate tickets to avoid fines. Operates 6 AM to 10:30 PM with 14-minute frequency.",
+    "rideshare": "Uber operates with premium services only, making it expensive. FreeNow app calls licensed taxis and handles payment digitally. Both are safer than street hails but more costly than public transport.",
+    "taxis": "Official white taxis with Taxi signs and meters are generally safe. Fixed rates apply from airport (€18-27). Some drivers attempt meter scams so insist on proper rate or use apps. Avoid unofficial drivers around stations.",
+    "tips": "Public transport is extensive and safe with standard big-city precautions. Metro and funiculars have good coverage except narrow historic streets. Buy tickets from machines or apps, always validate immediately."
+  },
+  "customs": [
+    "Greet shopkeepers and cafe staff with 'Buongiorno' or 'Buonasera' before transactions",
+    "Dress neatly - smart casual is preferred, avoid athletic wear except at gyms or beaches",
+    "Cover shoulders and knees when visiting churches or religious sites",
+    "Tipping is not mandatory but appreciated - leave small change or round up bills for good service"
+  ],
+  "health": {
+    "overview": "Healthcare quality varies between north and south Italy, with Naples having adequate facilities but potential longer wait times. Recent Hepatitis A outbreak in March 2026 linked to contaminated seafood requires extra caution with raw shellfish.",
+    "water": "Tap water is safe to drink throughout Naples. Many restaurants charge for bottled water which is normal practice. Public fountains provide safe drinking water.",
+    "vaccinations": "No specific vaccinations required. Consider Hepatitis A vaccination given recent outbreak. Standard travel vaccines (MMR, DPT, flu) recommended. Travel insurance strongly advised as public health system doesn't cover tourists.",
+    "altitude": "Naples is at sea level so no altitude concerns. Mediterranean climate with hot summers requiring sun protection and hydration. Air quality can be poor in congested areas."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "113",
+    "ambulance": "118",
+    "fire": "115",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Consulate Naples: Via Francesco Caracciolo 38, 80122 Naples. Tel: +39-081-583-8111. After-hours emergency: +39-06-4674-2710"
+  },
+  "faq": [
+    {
+      "q": "Is Naples safe for tourists?",
+      "a": "Yes, Naples is generally safe for tourists who take standard urban precautions. Recent statistics show it ranks below Rome, Milan, and Florence for overall crime rates. The main risks are pickpocketing and minor scams, not violent crime."
+    },
+    {
+      "q": "Is Naples safe at night?",
+      "a": "Naples is reasonably safe at night in tourist areas like Spaccanapoli, Chiaia, and Vomero until 11 PM-midnight. Use taxis for longer distances and avoid walking alone in unfamiliar neighborhoods after dark."
+    },
+    {
+      "q": "Is Naples safe for solo female travelers?",
+      "a": "Experienced solo female travelers can visit Naples safely with proper precautions. Stay in well-lit tourist areas, book accommodation in safer neighborhoods, and take taxis at night between areas. Street harassment is minimal."
+    },
+    {
+      "q": "What areas should I avoid in Naples?",
+      "a": "Completely avoid Scampia and Secondigliano suburbs. Exercise extra caution around Central Station/Garibaldi area, especially with luggage. Spanish Quarter and Forcella are fine during day but avoid at night."
+    },
+    {
+      "q": "Is it safe to use public transport in Naples?",
+      "a": "Yes, Naples public transport is safe with standard big-city awareness. Watch for pickpockets on crowded Circumvesuviana trains and metro during rush hours. Always validate tickets and keep bags secure."
+    }
+  ],
+  "relatedCities": [
+    "rome",
+    "florence",
+    "milan",
+    "palermo",
+    "barcelona"
+  ],
+  "_city_id": "naples-italy",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Napoli_-_Maschio_Angioino_-_202209302342_3.jpg/1280px-Napoli_-_Maschio_Angioino_-_202209302342_3.jpg"
+}
