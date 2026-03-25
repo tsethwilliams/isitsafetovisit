@@ -1,0 +1,160 @@
+{
+  "slug": "cardiff",
+  "name": "Cardiff",
+  "country": "United Kingdom",
+  "countryCode": "UK",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.2,
+    "violentCrime": 7.5,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 8.0,
+    "naturalHazards": 6.7
+  },
+  "summary": "Cardiff is generally safe for tourists with modern transport infrastructure and friendly locals. The UK maintains Level 2 travel advisory status due to terrorism risk, but violent crime against tourists is rare. Flooding is the main natural hazard concern.",
+  "quickVerdict": "Cardiff offers a safe environment for tourists with well-developed infrastructure and effective emergency services. While petty crime like pickpocketing can occur in busy areas, serious violent crime is uncommon. The city has excellent public transport, though flooding is an ongoing risk. Solo female travelers generally feel secure, and the nightlife scene is lively but requires standard precautions.",
+  "neighborhoods": [
+    {
+      "name": "Cardiff Bay",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Upscale waterfront area with modern attractions, good lighting, and regular police patrols. Popular with tourists and families."
+    },
+    {
+      "name": "City Centre",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Bustling commercial heart with shopping and nightlife. Generally safe during day but can be crowded and rowdy on weekend evenings."
+    },
+    {
+      "name": "Cathays",
+      "score": 3.2,
+      "class": "danger",
+      "description": "University area with highest crime rate in Cardiff at 323 per 1,000 people. Frequent incidents related to nightlife and student population."
+    },
+    {
+      "name": "Cyncoed",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale residential area near university with low crime rate of 38.2 per 1,000 people. Well-lit streets and stable security."
+    },
+    {
+      "name": "Butetown",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Diverse community near Cardiff Bay with high crime rate of 260 per 1,000 people, including violent crime and property damage."
+    },
+    {
+      "name": "Radyr",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Affluent suburb with crime rate 72% below city average at 32.9 per 1,000 people. Excellent schools and transport connections."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Bus Ticket Begging",
+      "risk": "low",
+      "description": "Individuals approach tourists claiming to be short exact change for bus fare, typically 19 pence",
+      "howToAvoid": "Politely decline and say you have no cash. This is common street begging, not dangerous but persistent."
+    },
+    {
+      "name": "Digital Booking Fraud",
+      "risk": "high",
+      "description": "Fake accommodation websites or listings that look legitimate but don't exist when you arrive",
+      "howToAvoid": "Book through verified platforms, pay within secure checkout systems, and verify addresses on maps before booking."
+    },
+    {
+      "name": "QR Code Phishing",
+      "risk": "medium",
+      "description": "Fake QR codes placed over real ones at restaurants and tourist sites to steal payment information",
+      "howToAvoid": "Avoid scanning QR code stickers, type restaurant websites directly into browser, and check URLs carefully."
+    },
+    {
+      "name": "Aggressive Street Vendors",
+      "risk": "low",
+      "description": "Persistent sellers of hats, roses or other items around tourist areas and street performances",
+      "howToAvoid": "Firm 'no thank you' and keep walking. Don't accept 'free' items as payment demands may follow."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cardiff is considered very safe for solo female travelers with a welcoming atmosphere and progressive culture. The city has low crime rates compared to other UK cities, well-lit streets, and reliable public transport. Female travelers report feeling comfortable walking alone during the day and in most areas at night.",
+    "tips": [
+      "Stay in central areas like City Centre or Cardiff Bay for best safety and amenities",
+      "Use official transport apps like Uber or licensed taxis rather than hailing from street",
+      "Keep to well-lit areas at night and avoid walking alone in Cathays or Butetown after dark"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cardiff has a vibrant nightlife scene centered around the City Centre and Cardiff Bay. Most areas are well-patrolled and relatively safe, though standard precautions apply. Weekend nights can see increased rowdiness around St Mary Street and club areas, but serious incidents are uncommon.",
+    "tips": [
+      "Plan transport home in advance using official taxis or rideshare apps",
+      "Stay in groups when possible, especially around busy nightlife areas",
+      "Be extra cautious in student areas like Cathays where alcohol-related incidents are more common"
+    ]
+  },
+  "transport": {
+    "metro": "Cardiff has an excellent urban rail network called Valley Lines operated by Transport for Wales, with modern Class 756 trains. The system is safe, punctual, and connects the city center to suburbs efficiently.",
+    "rideshare": "Uber operates throughout Cardiff with licensed drivers. All drivers have enhanced background checks and commercial insurance. Average 13-minute ride costs £12.",
+    "taxis": "Licensed hackney cabs (black and white) can be hailed from street, while private hire vehicles must be pre-booked. Multiple taxi ranks located around city center.",
+    "tips": "Public transport is very reliable and safe. Cardiff Bus operates comprehensive network with contactless payment. Avoid unlicensed taxis and always verify driver details match app bookings."
+  },
+  "customs": [
+    "Welsh culture values politeness and queuing - always wait your turn",
+    "Tipping is optional but 10-15% is appreciated for good service in restaurants",
+    "Pub culture is important - buying rounds and saying 'cheers' when drinking together"
+  ],
+  "health": {
+    "overview": "Cardiff has excellent healthcare through the NHS, though facilities show some age-related maintenance issues. University Hospital of Wales is the main facility.",
+    "water": "Tap water is completely safe to drink throughout Cardiff and the UK.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance recommended as NHS charges tourists 150% of treatment costs.",
+    "altitude": "Cardiff is at sea level with temperate maritime climate. Flooding is most common natural hazard risk."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy London: +44 20 7499 9000. No consulate in Cardiff but embassy provides services to Wales."
+  },
+  "faq": [
+    {
+      "q": "Is Cardiff safe for tourists?",
+      "a": "Yes, Cardiff is generally very safe for tourists. It has lower crime rates than many UK cities, good infrastructure, and friendly locals. Standard urban precautions apply."
+    },
+    {
+      "q": "Is Cardiff safe at night?",
+      "a": "Cardiff is reasonably safe at night, especially in the City Centre and Cardiff Bay areas which are well-lit and patrolled. Avoid isolated areas and consider using transport rather than walking late at night."
+    },
+    {
+      "q": "Is Cardiff safe for solo female travelers?",
+      "a": "Cardiff is considered one of the safer UK cities for solo female travel. Women report feeling comfortable during day and evening hours, though standard precautions for nighttime activities are recommended."
+    },
+    {
+      "q": "What areas should I avoid in Cardiff?",
+      "a": "Cathays has the highest crime rate (323 per 1,000 people) due to university nightlife. Butetown also has elevated crime rates. Both areas aren't necessarily dangerous but require extra awareness."
+    },
+    {
+      "q": "Is it safe to use public transport in Cardiff?",
+      "a": "Yes, Cardiff's public transport is very safe and reliable. The bus and rail networks are well-maintained with good security. Use official apps for rideshares and stick to licensed taxis."
+    }
+  ],
+  "relatedCities": [
+    "london",
+    "bristol",
+    "bath",
+    "manchester",
+    "edinburgh"
+  ],
+  "_city_id": "cardiff-united-kingdom",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cardiff_Bay_WMC.jpg"
+}

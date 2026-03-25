@@ -1,0 +1,164 @@
+{
+  "slug": "oxford",
+  "name": "Oxford",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 7.2,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.0,
+    "transport": 8.2,
+    "naturalHazards": 8.5
+  },
+  "summary": "Oxford is a generally safe university city with low violent crime rates and excellent transport infrastructure. While petty crime like pickpocketing and bike theft occurs, serious crimes against tourists are rare. The large student population contributes to a vibrant but secure atmosphere.",
+  "quickVerdict": "Oxford presents a safe environment for tourists with crime rates below the UK national average for violent crime despite being slightly higher than the Oxfordshire average overall. The city benefits from good police presence, well-lit streets, and a strong community feel enhanced by its large student population. While standard urban precautions are advised, particularly regarding petty theft and scams, visitors can explore confidently both day and night in most areas.",
+  "neighborhoods": [
+    {
+      "name": "City Centre/University Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic heart of Oxford around the university colleges is very safe with good lighting, CCTV coverage, and regular police patrols. Tourist areas are well-maintained and busy during most hours."
+    },
+    {
+      "name": "Headington",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Eastern area around John Radcliffe Hospital is considered safe with good residential neighborhoods. Well-connected by bus services and generally quiet at night."
+    },
+    {
+      "name": "Summertown",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upmarket northern suburb popular with professionals and families. Excellent safety record with tree-lined streets and good local amenities."
+    },
+    {
+      "name": "Cowley",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Mixed area southeast of center with some social housing. Generally safe during day but can be quieter at night. Some areas have traffic calming measures that may affect navigation."
+    },
+    {
+      "name": "George Street Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Bustling nightlife district that becomes crowded and noisy on weekend evenings. Not unsafe but can be overwhelming with student drinking culture and street activity."
+    },
+    {
+      "name": "Barton/Risinghurst",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Eastern areas beyond the ring road have higher crime rates and fewer amenities. Less desirable residential areas that tourists typically wouldn't visit but should avoid after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake University Tour Guides",
+      "risk": "medium",
+      "description": "Unlicensed guides misrepresent themselves as university staff, demand upfront payment, then deliver poor quality tours or abandon groups midway.",
+      "howToAvoid": "Only book tours through official university channels, established tour companies, or the official visitor information centre. Always verify credentials."
+    },
+    {
+      "name": "Fake Bus Ticket Sales",
+      "risk": "medium",
+      "description": "Scammers use fake social media posts and websites to sell discounted bus tickets for Oxford routes that turn out to be invalid.",
+      "howToAvoid": "Purchase transportation tickets only from official sources like Oxford Bus Company, train station ticket offices, or verified apps. Avoid social media deals."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Thieves work in pairs to distract tourists while accomplices steal phones, wallets, or bags, particularly around tourist sites and transport hubs.",
+      "howToAvoid": "Stay alert in crowded areas, keep valuables in front pockets or secure bags, and be wary of overly helpful strangers or staged distractions."
+    },
+    {
+      "name": "Photo Assistance Theft",
+      "risk": "low",
+      "description": "Criminals offer to take photos for tourists then run off with phones or cameras, or use the opportunity to access banking apps while examining the device.",
+      "howToAvoid": "Use selfie sticks or timers instead of accepting help from strangers. If accepting assistance, stay very close and never let the device out of sight."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Oxford is ranked as the 15th safest place in the UK for solo female travelers with a 4.4/5 safety rating. The city has low levels of street harassment, well-lit streets, reliable public transport, and a strong student community that creates natural safety through visibility. Most areas feel secure even at night, though standard urban precautions apply.",
+    "tips": [
+      "Stick to well-lit main roads when walking at night and avoid quiet backstreets",
+      "Take advantage of the Strut Safe phone service for walking companions and safety apps like Hollie Guard",
+      "Use the Oxford City Angels volunteer network and Safe Lodge scheme at colleges if you need assistance",
+      "Be aware that drinks spiking has been reported in university areas - never leave drinks unattended",
+      "George Street can get very crowded and noisy on weekend nights - not unsafe but potentially overwhelming"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Oxford is generally safe at night with good lighting, active street presence from students and locals, and regular police patrols in central areas. The large student population means many areas stay busy until late hours. However, some outer areas become quieter after dark and standard precautions should be taken.",
+    "tips": [
+      "Central areas around the university and main streets remain busy and safe until late",
+      "Use the Nightsafe network of participating venues, colleges, and businesses for emergency assistance",
+      "Avoid walking alone through quiet residential areas or parks after dark",
+      "Licensed taxis and ride-hailing apps are widely available and safer than unlicensed minicabs",
+      "Stay in groups when possible and keep emergency contacts readily available"
+    ]
+  },
+  "transport": {
+    "metro": "Oxford doesn't have a metro system but has excellent bus coverage with three operators providing services throughout the city. Single fares from £1.20, day passes around £3.90. Buses run frequently during day with limited night services.",
+    "rideshare": "Uber, Bolt, and other ride-hailing apps operate reliably in Oxford. Generally safe and recommended over unlicensed minicabs. Use safety features like sharing trip details with contacts.",
+    "taxis": "Licensed black cabs and minicabs are widely available and regulated. Always use licensed vehicles - look for proper identification and never accept rides from unlicensed operators who may approach at tourist areas.",
+    "tips": "Public transport is very safe with CCTV and regular patrols. Walking and cycling are popular and safe in central areas. The city is compact enough to walk between most tourist attractions."
+  },
+  "customs": [
+    "Queuing is sacred - always join the back of any line and never jump queues, as this is considered very rude",
+    "Use 'please' and 'thank you' frequently in all interactions, maintain eye contact when speaking, and expect polite but reserved behavior",
+    "Pub etiquette is important - don't expect table service, order at the bar, and it's common to buy rounds for your group"
+  ],
+  "health": {
+    "overview": "Oxford has excellent healthcare with the John Radcliffe Hospital and other NHS facilities. Private medical care is also available. No special health precautions needed beyond standard travel preparations.",
+    "water": "Tap water is completely safe to drink throughout Oxford and the UK. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Ensure routine vaccinations (MMR, polio) are up to date. EU/US health insurance may not be accepted - travel insurance recommended.",
+    "altitude": "Oxford is at low elevation (72m above sea level) in temperate climate. Pack layers for changeable weather and rain gear as showers are common year-round."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999 or 112",
+    "fire": "999 or 112",
+    "touristPolice": "N/A - contact Thames Valley Police on 101",
+    "usEmbassy": "US Embassy London: +44-20-7499-9000, 33 Nine Elms Lane, London SW11 7US (emergency services available 24/7)"
+  },
+  "faq": [
+    {
+      "q": "Is Oxford safe for tourists?",
+      "a": "Yes, Oxford is very safe for tourists with low violent crime rates and good infrastructure. Standard urban precautions apply, particularly for petty theft, but serious crimes against visitors are rare."
+    },
+    {
+      "q": "Is Oxford safe at night?",
+      "a": "Oxford is generally safe at night, especially in central areas which stay busy due to the student population. Stick to well-lit main streets and avoid quiet outer residential areas after dark."
+    },
+    {
+      "q": "Is Oxford safe for solo female travelers?",
+      "a": "Oxford is excellent for solo female travelers, ranking 15th safest in the UK with a 4.4/5 rating. The city has low harassment levels, good lighting, and strong community support systems."
+    },
+    {
+      "q": "What areas should I avoid in Oxford?",
+      "a": "Avoid Barton and Risinghurst areas after dark, and be cautious in outer Cowley. George Street can be overwhelming on weekend nights due to crowds but isn't dangerous."
+    },
+    {
+      "q": "Is it safe to use public transport in Oxford?",
+      "a": "Yes, Oxford's public transport is very safe with CCTV, regular patrols, and good lighting. Buses are reliable and affordable, though services are limited late at night."
+    }
+  ],
+  "relatedCities": [
+    "cambridge",
+    "bath",
+    "windsor",
+    "london",
+    "birmingham"
+  ],
+  "_city_id": "oxford-united-kingdom",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Museum_of_Oxford_%285652685943%29.jpg/1280px-Museum_of_Oxford_%285652685943%29.jpg"
+}

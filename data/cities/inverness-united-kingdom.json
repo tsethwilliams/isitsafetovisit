@@ -1,0 +1,163 @@
+{
+  "slug": "inverness",
+  "name": "Inverness",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.1,
+    "scamRisk": 6.8,
+    "womensSafety": 8.3,
+    "nightSafety": 7.1,
+    "transport": 7.8,
+    "naturalHazards": 8.2
+  },
+  "summary": "Inverness is widely considered one of Scotland's safest cities, with low crime rates and excellent healthcare infrastructure. The capital of the Highlands offers a friendly, welcoming atmosphere with minor risks mainly limited to petty theft and occasional flooding.",
+  "quickVerdict": "Inverness ranks among the safest destinations in Scotland, with violent crime rates well below the national average. While petty crime exists as in any city, the biggest risks for tourists are typically minor scams, weather-related hazards, and drinking-related incidents. The city's compact size, reliable emergency services, and exceptionally friendly locals create an environment where most visitors feel secure both day and night.",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The heart of Inverness around the High Street and River Ness is very safe with good lighting, regular police presence, and busy pedestrian traffic. Well-maintained tourist areas with excellent safety infrastructure."
+    },
+    {
+      "name": "Crown & Dalneigh",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Residential areas west of the city center that are generally quiet and safe. Popular with families and students, with good transport links and community policing."
+    },
+    {
+      "name": "Merkinch",
+      "score": 6.2,
+      "class": "caution",
+      "description": "A working-class area with some social challenges. While not dangerous, visitors should exercise normal urban caution, particularly at night. Some minor drug-related issues reported."
+    },
+    {
+      "name": "Hilton",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Well-established residential area with good community spirit. Safe for walking during day and evening, with local amenities and regular bus services."
+    },
+    {
+      "name": "Raigmore",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Home to Raigmore Hospital and surrounding residential areas. Very safe with excellent emergency service access and well-lit streets."
+    },
+    {
+      "name": "Culloden Moor",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Rural area east of the city known for the historic battlefield. Safe for tourists but can be isolated after dark. Weather conditions can change rapidly."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some unlicensed taxi drivers may quote inflated fares to tourists, particularly at night or from the airport.",
+      "howToAvoid": "Use only licensed taxis from official ranks, pre-book through reputable companies, or agree on fares before starting your journey."
+    },
+    {
+      "name": "Distraction Tourist Scams",
+      "risk": "low",
+      "description": "Rare instances of individuals offering help with directions or spilling something on tourists while accomplices attempt petty theft.",
+      "howToAvoid": "Be politely wary of unsolicited help from strangers, keep valuables secure, and stay alert in crowded tourist areas."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Occasional reports of card skimming devices at ATMs, particularly in less monitored locations.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover your PIN entry, and check for unusual devices attached to card slots."
+    },
+    {
+      "name": "Counterfeit Currency",
+      "risk": "very low",
+      "description": "Extremely rare but fake Scottish banknotes occasionally circulate, particularly in tourist areas.",
+      "howToAvoid": "Familiarize yourself with genuine Scottish banknotes, exchange money at banks or licensed bureaux, and check notes for security features."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Inverness is exceptionally safe for solo female travelers, with crime rates among the lowest in Scotland and a culture of Highland hospitality that extends genuine warmth to visitors. Women report feeling comfortable walking alone during daylight hours and in well-lit city center areas at night.",
+    "tips": [
+      "Use well-lit main streets when walking at night and consider taxis for late evening returns",
+      "Local pubs and restaurants are generally very welcoming to solo diners",
+      "The Highland community is known for looking out for visitors - don't hesitate to ask for help if needed"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Inverness nightlife is generally safe with well-patrolled city center areas and a friendly local atmosphere. Most safety concerns relate to alcohol consumption and getting home safely rather than serious crime.",
+    "tips": [
+      "Stick to the main city center area where most pubs and restaurants are located",
+      "Pre-book taxis for late night travel as services can be limited",
+      "Be aware that pub closing times mean busy periods around 11 PM to 1 AM on weekends"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system. Inverness is a compact city easily walkable in the center.",
+    "rideshare": "Uber operates but with limited availability. Local taxi companies are more reliable.",
+    "taxis": "Licensed taxis are safe and reliable. Major operators include Inverness Taxis and Highland Taxis. Pre-booking recommended for airport transfers and late nights.",
+    "tips": "Public buses are safe and cover most areas, though services reduce after 6 PM. Stagecoach operates most routes with contactless payment accepted."
+  },
+  "customs": [
+    "Scots appreciate politeness - always say please and thank you",
+    "Never confuse Scotland with England or call Scots 'English' - this can cause offense",
+    "In pubs, buying rounds of drinks for your group is expected social etiquette",
+    "Highland hospitality means locals are genuinely helpful - don't hesitate to ask for directions",
+    "Tipping 10-15% in restaurants is appreciated but not mandatory"
+  ],
+  "health": {
+    "overview": "Excellent healthcare system with Raigmore Hospital providing comprehensive services. NHS coverage applies to emergencies for all visitors.",
+    "water": "Tap water is completely safe to drink and of excellent quality throughout Scotland.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance recommended for non-EU visitors.",
+    "altitude": "Sea level location with temperate maritime climate. Weather can change rapidly - dress in layers and carry waterproof clothing."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 or 101 (non-emergency)",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate Edinburgh: +44 131 556 8315. US Embassy London: +44 20 7499 9000 for major emergencies."
+  },
+  "faq": [
+    {
+      "q": "Is Inverness safe for tourists?",
+      "a": "Yes, Inverness is very safe for tourists with low crime rates and friendly locals. It's consistently rated as one of Scotland's safest cities with excellent emergency services and healthcare facilities."
+    },
+    {
+      "q": "Is Inverness safe at night?",
+      "a": "The city center is generally safe at night with good lighting and police presence. Most late-night issues involve alcohol rather than serious crime. Taxis are recommended for longer distances after dark."
+    },
+    {
+      "q": "Is Inverness safe for solo female travelers?",
+      "a": "Extremely safe. Solo female travelers consistently report feeling secure in Inverness. The Highland culture is welcoming and protective of visitors, though normal urban precautions are still recommended."
+    },
+    {
+      "q": "What areas should I avoid in Inverness?",
+      "a": "No areas are particularly dangerous, though Merkinch has some social challenges. The city center and tourist areas are very safe. Avoid poorly lit areas at night and take care near the river, especially if drinking."
+    },
+    {
+      "q": "Is it safe to use public transport in Inverness?",
+      "a": "Yes, buses and trains are safe and reliable. Services reduce in the evenings, so check timetables. Licensed taxis are trustworthy - book through established companies rather than unlicensed operators."
+    }
+  ],
+  "relatedCities": [
+    "edinburgh",
+    "glasgow",
+    "stirling",
+    "aberdeen",
+    "fort-william",
+    "skye"
+  ],
+  "_city_id": "inverness-united-kingdom",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Inverness_Castle_and_River_Ness_Inverness_Scotland_-_conner395.jpg/1280px-Inverness_Castle_and_River_Ness_Inverness_Scotland_-_conner395.jpg"
+}

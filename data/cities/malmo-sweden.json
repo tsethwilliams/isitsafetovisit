@@ -1,0 +1,160 @@
+{
+  "slug": "malmo",
+  "name": "Malmö",
+  "country": "Sweden",
+  "countryCode": "SE",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 6.5,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.5,
+    "violentCrime": 6.2,
+    "scamRisk": 6.0,
+    "womensSafety": 6.8,
+    "nightSafety": 5.5,
+    "transport": 7.5,
+    "naturalHazards": 8.3
+  },
+  "summary": "Malmö is Sweden's third-largest city with good infrastructure and attractions, but faces moderate safety challenges from petty crime and some gang-related violence in certain areas. The city center is generally safe for tourists during the day, while certain suburbs should be avoided, particularly at night.",
+  "quickVerdict": "Malmö offers a mix of historic charm and modern attractions but requires moderate caution from travelers. While the city center and tourist areas are relatively safe during daylight hours, petty crimes like pickpocketing and bike theft are common concerns. Gang-related violence occurs primarily in specific suburban areas and rarely affects tourists, but avoiding certain neighborhoods after dark is advised. Public transportation is reliable and safe, and the excellent healthcare system provides peace of mind for visitors.",
+  "neighborhoods": [
+    {
+      "name": "Gamla Staden (Old Town)",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The historic center is the safest area for tourists, featuring cobblestone streets, shops, cafes, and cultural sites with good foot traffic during the day"
+    },
+    {
+      "name": "Västra Hamnen",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern waterfront district with contemporary architecture including the famous Turning Torso, well-developed with good lighting and security"
+    },
+    {
+      "name": "City Center/Triangeln",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Central business and shopping district around the train station with regular police presence and busy pedestrian areas during business hours"
+    },
+    {
+      "name": "Möllevången",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Diverse cultural area with vibrant nightlife and international cuisine, generally safe but exercise extra caution in the evening"
+    },
+    {
+      "name": "Rosengård",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Suburban area with higher crime rates including gang activity, recommended to avoid especially after dark and not typically visited by tourists"
+    },
+    {
+      "name": "Lindängen",
+      "score": 4.2,
+      "class": "danger",
+      "description": "Another suburban area with elevated crime levels and occasional gang-related incidents, best avoided by visitors particularly at night"
+    }
+  ],
+  "scams": [
+    {
+      "name": "Pickpocketing on Public Transport",
+      "risk": "high",
+      "description": "Thieves work in groups on crowded buses and trains, with one person distracting while others steal from bags and pockets.",
+      "howToAvoid": "Keep bags zipped and in front of you during rush hours, avoid displaying expensive items, stay alert in crowded transport"
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some unlicensed or dishonest taxi drivers exploit tourists with broken meters, long routes, or hidden fees.",
+      "howToAvoid": "Use only licensed taxis with yellow plates, agree on fare beforehand, use ride-sharing apps like Uber or Bolt instead"
+    },
+    {
+      "name": "Fake Police/Authority Scam",
+      "risk": "medium",
+      "description": "Scammers pose as plainclothes police asking to check wallets for counterfeit money or demanding to see documents.",
+      "howToAvoid": "Real police don't check wallets on the street, ask to go to police station, never hand over wallet or documents to random people"
+    },
+    {
+      "name": "Distraction Theft (Bird Poop/Spill)",
+      "risk": "medium",
+      "description": "Someone spills liquid or points out fake bird droppings on clothing while accomplices steal from distracted victims.",
+      "howToAvoid": "Be suspicious of helpful strangers offering to clean you up, secure belongings when anyone approaches unexpectedly"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Malmö is generally considered safe for solo female travelers, particularly in the city center and tourist areas during daylight hours. Sweden ranks highly for gender equality and women's safety globally. However, some areas should be avoided after dark, and standard precautions are recommended when exploring nightlife areas.",
+    "tips": [
+      "Stick to well-lit central areas at night, avoid suburbs like Rosengård after dark",
+      "Use official transportation and avoid unlicensed taxis",
+      "Trust your instincts and leave any situation that feels uncomfortable"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety in Malmö requires more caution than during the day. The city center around Lilla Torg has active nightlife with good lighting and foot traffic, but avoid wandering alone late at night. Some suburban areas have higher crime rates and should be avoided entirely after dark.",
+    "tips": [
+      "Stay in the central nightlife areas around Lilla Torg and avoid empty streets",
+      "Use official taxis or ride-sharing apps rather than walking long distances at night",
+      "Travel in groups when possible and avoid displaying valuable items"
+    ]
+  },
+  "transport": {
+    "metro": "Malmö doesn't have a metro system but has an extensive bus network operated by Skånetrafiken that is generally safe, clean, and reliable with regular schedules.",
+    "rideshare": "Uber and Bolt operate in Malmö and are considered safe alternatives to traditional taxis with app-based tracking and cashless payments.",
+    "taxis": "Licensed taxis have yellow number plates and are generally safe, but prices are unregulated so agree on fare beforehand. Avoid unlicensed operators.",
+    "tips": "Use the Skånetrafiken app for bus tickets as cash isn't accepted on green city buses. Public transport is safe but watch belongings during rush hours."
+  },
+  "customs": [
+    "Punctuality is highly valued - arrive exactly on time for appointments and social gatherings",
+    "Personal space is important - Swedes prefer maintaining comfortable distance during conversations",
+    "Fika culture - coffee breaks with pastries are a cherished social tradition for connecting with others"
+  ],
+  "health": {
+    "overview": "Sweden has an excellent healthcare system with universal coverage and high-quality medical facilities. Malmö is home to University Hospital MAS, providing comprehensive medical services.",
+    "water": "Tap water is completely safe to drink and meets strict safety standards - it's regularly tested and of excellent quality throughout Sweden.",
+    "vaccinations": "No special vaccinations required for Sweden. Routine vaccines like MMR, flu, and COVID-19 should be up to date.",
+    "altitude": "Malmö is at sea level with temperate oceanic climate. Average temperatures range from 0°C in winter to 18°C in summer with moderate rainfall year-round."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "114 14 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Stockholm: +46 8 783 5300 (24/7 emergency line) - Located at Dag Hammarskjölds Väg 31, Stockholm"
+  },
+  "faq": [
+    {
+      "q": "Is Malmö safe for tourists?",
+      "a": "Malmö is generally safe for tourists who stick to main areas and exercise normal precautions. The city center and tourist attractions are well-maintained with good security, though petty crimes like pickpocketing can occur in crowded areas."
+    },
+    {
+      "q": "Is Malmö safe at night?",
+      "a": "Malmö requires more caution at night, especially for solo travelers. The central nightlife areas around Lilla Torg are relatively safe with good lighting, but avoid walking alone in empty areas and stay away from suburban neighborhoods after dark."
+    },
+    {
+      "q": "Is Malmö safe for solo female travelers?",
+      "a": "Yes, Malmö is considered safe for solo female travelers, particularly in central areas during the day. Sweden has strong gender equality policies and low crime rates. However, standard safety precautions should be taken, especially at night."
+    },
+    {
+      "q": "What areas should I avoid in Malmö?",
+      "a": "Avoid suburban areas like Rosengård and Lindängen, especially after dark, as these have higher crime rates and gang activity. These areas are not typically visited by tourists anyway. Stick to the city center, Gamla Staden, and Västra Hamnen."
+    },
+    {
+      "q": "Is it safe to use public transport in Malmö?",
+      "a": "Yes, public transport in Malmö is generally safe and reliable. The Skånetrafiken bus system is clean and well-organized. Just keep belongings secure during busy periods and use official transportation options."
+    }
+  ],
+  "relatedCities": [
+    "stockholm",
+    "gothenburg",
+    "copenhagen",
+    "oslo",
+    "helsinki"
+  ],
+  "_city_id": "malmo-sweden",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg/1280px-Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg"
+}

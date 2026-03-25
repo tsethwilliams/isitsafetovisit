@@ -1,0 +1,152 @@
+{
+  "slug": "isle-of-skye",
+  "name": "Isle of Skye",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 9.0,
+    "violentCrime": 9.5,
+    "scamRisk": 8.5,
+    "womensSafety": 8.8,
+    "nightSafety": 8.2,
+    "transport": 7.5,
+    "naturalHazards": 7.4
+  },
+  "summary": "The Isle of Skye is exceptionally safe for tourists, with virtually no violent crime and minimal petty theft. The main safety concerns relate to unpredictable weather conditions and natural hazards when hiking or exploring the rugged landscape.",
+  "quickVerdict": "Isle of Skye is one of the safest destinations in the UK for tourists. With a close-knit community and extremely low crime rates, visitors can feel secure exploring this stunning Scottish island. The primary safety considerations involve weather-related hazards and outdoor activities rather than crime. Solo female travelers consistently report feeling very safe, even at night in the main villages like Portree. While the island lacks extensive public transport, taxis are reliable and locals are welcoming and helpful to visitors.",
+  "neighborhoods": [
+    {
+      "name": "Portree",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The island's main town and hub for tourists. Very safe with good lighting, restaurants, and accommodation options. Police presence and medical facilities available."
+    },
+    {
+      "name": "Broadford",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Second largest settlement on Skye with shops, restaurants, and services. Safe for tourists with good transport connections via bus to other parts of the island."
+    },
+    {
+      "name": "Dunvegan",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Quiet village home to Dunvegan Castle. Very safe with traditional pubs and local amenities. Popular tourist area with helpful locals and family-friendly atmosphere."
+    },
+    {
+      "name": "Kyleakin",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Bridge town connecting Skye to mainland Scotland. Safe area with basic amenities and transport links. Can be busy with ferry traffic but generally peaceful."
+    },
+    {
+      "name": "Armadale",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Ferry terminal village in southern Skye. Safe but more remote with limited services. Good base for exploring Sleat peninsula but requires planning for transport."
+    },
+    {
+      "name": "Rural Highlands",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Remote hiking areas like Trotternish Ridge and Cuillin Mountains. Generally safe from crime but weather and terrain pose natural hazards. Requires proper preparation and equipment."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Tour Packages",
+      "risk": "low",
+      "description": "Some tour operators may charge premium prices for standard tours, especially targeting tourists who haven't researched alternatives.",
+      "howToAvoid": "Research tour prices in advance, book directly with reputable operators, and compare costs. Ask locals for recommendations."
+    },
+    {
+      "name": "Fake Parking Tickets",
+      "risk": "low",
+      "description": "Rare instances of fake parking enforcement at tourist sites, where unofficial personnel attempt to collect parking fees.",
+      "howToAvoid": "Only pay for parking at official sites with proper signage. Be wary of individuals demanding cash payments without proper identification."
+    },
+    {
+      "name": "Inflated Taxi Fares",
+      "risk": "low",
+      "description": "Some taxi drivers may charge tourists higher rates, especially for remote destinations or when no meter is used.",
+      "howToAvoid": "Agree on fares before the journey starts. Use reputable taxi companies and ask for estimates. Consider pre-booking transfers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Isle of Skye is exceptionally safe for solo female travelers, with many women reporting feeling completely secure even when exploring alone. The local community is welcoming and helpful, with very low crime rates and no specific threats to women. Public transport is safe, locals are trustworthy, and accommodation options cater well to solo travelers.",
+    "tips": [
+      "Stay in well-reviewed accommodations in main villages like Portree or Broadford for easier access to services",
+      "Inform someone of your hiking plans when exploring remote areas and carry proper weather gear",
+      "Local pubs and restaurants are very welcoming to solo female diners and drinkers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Night safety on Isle of Skye is excellent, particularly in the main villages. Street crime is virtually non-existent, and locals are friendly and helpful. The main concerns at night relate to weather conditions and limited lighting in remote areas rather than personal safety from crime.",
+    "tips": [
+      "Carry a torch when walking between venues in smaller villages due to limited street lighting",
+      "Traditional pubs like The Old Inn and Sligachan Hotel are safe and welcoming evening spots",
+      "Weather can change rapidly, so dress appropriately and check conditions before venturing out at night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists on Isle of Skye.",
+    "rideshare": "No Uber or mainstream rideshare services operate on the island. Local taxi companies provide reliable service but should be booked in advance.",
+    "taxis": "Several reliable local taxi companies operate including BW's Taxis in Portree and Gus's Taxis. Safe and trustworthy but limited availability requires advance booking. Drivers are knowledgeable locals who often provide tour services.",
+    "tips": "Public transport via Stagecoach buses connects main villages but services are limited. Taxis are safe and reliable but must be pre-booked. Ferries to/from mainland are operated by CalMac and are generally safe with weather-related delays in winter months."
+  },
+  "customs": [
+    "Scots value politeness - always say please and thank you",
+    "Tipping is appreciated but not mandatory - 10% in restaurants if no service charge is added",
+    "Punctuality is important and shows respect for others' time"
+  ],
+  "health": {
+    "overview": "Healthcare on Isle of Skye is provided through NHS Scotland with good quality services available. The main medical facilities are located in Portree and Broadford.",
+    "water": "Tap water is completely safe to drink throughout the island and meets high UK standards.",
+    "vaccinations": "No special vaccinations required. Standard UK health precautions apply for visitors from overseas.",
+    "altitude": "The oceanic climate features mild temperatures year-round but can be wet and windy. Weather changes rapidly, especially in mountainous areas. Pack layers and waterproof clothing regardless of season."
+  },
+  "emergency": {
+    "general": "999",
+    "police": "999 (emergency) / 101 (non-emergency)",
+    "ambulance": "999",
+    "fire": "999",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy London: +44 20 7499 9000. Nearest consular services in Edinburgh or Glasgow for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Isle of Skye safe for tourists?",
+      "a": "Yes, Isle of Skye is extremely safe for tourists with virtually no violent crime and minimal petty theft. The main safety concerns are weather-related and natural hazards when hiking, not crime."
+    },
+    {
+      "q": "Is Isle of Skye safe at night?",
+      "a": "Yes, Isle of Skye is very safe at night. Crime rates are extremely low and locals are friendly and helpful. The main considerations are limited lighting in remote areas and changeable weather conditions."
+    },
+    {
+      "q": "Is Isle of Skye safe for solo female travelers?",
+      "a": "Absolutely. Solo female travelers consistently report feeling very safe on Skye. The community is welcoming, accommodation is secure, and there are no specific safety concerns for women traveling alone."
+    },
+    {
+      "q": "What areas should I avoid in Isle of Skye?",
+      "a": "There are no areas to avoid from a crime perspective. However, use caution in remote hiking areas like the Cuillin Mountains during poor weather, and always check conditions before venturing into mountainous terrain."
+    },
+    {
+      "q": "Is it safe to use public transport in Isle of Skye?",
+      "a": "Yes, public transport is very safe. Stagecoach buses connect main villages and are reliable, though services are limited. Taxis are trustworthy but should be booked in advance due to limited availability."
+    }
+  ],
+  "relatedCities": [
+    "edinburgh",
+    "glasgow",
+    "inverness"
+  ],
+  "_city_id": "isle-of-skye-united-kingdom",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_the_Isle_of_Skye.svg/1280px-Flag_of_the_Isle_of_Skye.svg.png"
+}

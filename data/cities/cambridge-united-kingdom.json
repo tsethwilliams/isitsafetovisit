@@ -1,0 +1,160 @@
+{
+  "slug": "cambridge",
+  "name": "Cambridge",
+  "country": "United Kingdom",
+  "countryCode": "GB",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 7.5,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.8,
+    "violentCrime": 7.6,
+    "scamRisk": 7.0,
+    "womensSafety": 7.8,
+    "nightSafety": 6.8,
+    "transport": 8.0,
+    "naturalHazards": 8.4
+  },
+  "summary": "Cambridge is widely considered one of the safest university cities in the UK, with low violent crime rates and excellent transport infrastructure. While bicycle theft is notably high and some tourist-targeted scams exist, overall risk to visitors remains minimal.",
+  "quickVerdict": "Cambridge ranks as an exceptionally safe destination for tourists, consistently rated as one of the UK's safest cities. The university town combines historic charm with modern safety standards, making it ideal for all types of travelers. While petty crimes like bicycle theft are more common, violent crime is rare and the city maintains a strong sense of community security. Tourists should remain aware of minor scam risks around popular attractions but can explore confidently day and night.",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic heart of Cambridge with colleges, shops and restaurants. Well-patrolled and busy with good lighting, though watch for pickpockets in crowded areas."
+    },
+    {
+      "name": "Mill Road",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Vibrant multicultural area with eclectic shops and eateries. Known for its bohemian atmosphere and strong LGBTQ+ community presence."
+    },
+    {
+      "name": "Castle Hill",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Historic residential area offering stunning city views. Charming and safe, particularly appealing to solo female travelers exploring historical sites."
+    },
+    {
+      "name": "Romsey",
+      "score": 7.3,
+      "class": "safe",
+      "description": "Popular with young professionals and students, featuring independent shops and cafes. Generally safe but check specific streets for noise levels."
+    },
+    {
+      "name": "Arbury",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Residential estate on the outskirts with higher crime rates than central areas. Exercise additional caution, especially at night."
+    },
+    {
+      "name": "East Chesterton",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Mixed residential area that's generally safe during daylight but requires caution after dark due to slightly elevated crime rates."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Punt Tour Touts",
+      "risk": "medium",
+      "description": "Unlicensed operators approach tourists near popular punting spots offering discounted tours that may end abruptly or involve hidden charges.",
+      "howToAvoid": "Book punting tours only through established companies like Scudamore's or consult the official Tourist Information Centre."
+    },
+    {
+      "name": "Fake University Merchandise",
+      "risk": "low",
+      "description": "Counterfeit Cambridge University branded items sold at markets, often of poor quality and not officially licensed.",
+      "howToAvoid": "Purchase university merchandise only from official college shops or verified retailers within the university grounds."
+    },
+    {
+      "name": "Charity Collection Scams",
+      "risk": "low",
+      "description": "Individuals posing as charity collectors approach tourists in busy areas with fake credentials and collection tins.",
+      "howToAvoid": "Only donate to registered charities with proper identification. Verify charity status online or politely decline street collections."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "medium",
+      "description": "Teams work together where one person creates a distraction (spilling something, asking for directions) while an accomplice steals belongings.",
+      "howToAvoid": "Stay alert in crowded tourist areas, secure valuables in front pockets or money belts, and be wary of staged incidents."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Cambridge is exceptionally safe for solo female travelers, ranking among the top UK destinations for women traveling alone. The city's respectful culture, well-lit streets, and visible police presence create a secure environment. Solo women can confidently explore attractions, dine alone, and walk the city center even in the evening hours.",
+    "tips": [
+      "Avoid walking alone in secluded areas late at night, particularly around parks and quieter residential streets",
+      "Use well-lit main routes when returning to accommodation after dark, especially from the train station",
+      "Stay alert in nightlife areas where harassment, though rare, is more likely to occur"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Cambridge maintains good safety levels after dark, with 68% of residents and visitors feeling secure during nighttime hours. The city center remains well-lit and patrolled, though the nightlife scene is notably quieter than other UK university cities due to early closing times and local regulations.",
+    "tips": [
+      "Stick to main well-lit streets and avoid shortcuts through parks or isolated areas after 10pm",
+      "Be aware that most restaurants and clubs close early (around 4am for clubs), limiting late-night options",
+      "Consider the early closure of public transport when planning evening activities"
+    ]
+  },
+  "transport": {
+    "metro": "Cambridge has no metro system but operates excellent bus services with the principal operator being Stagecoach. The Cambridgeshire Guided Busway connects to surrounding areas.",
+    "rideshare": "Uber, Lyft, and local rideshare services are readily available throughout Cambridge. Autonomous taxi trials by Waymo and Uber are expected to launch in 2026.",
+    "taxis": "Licensed taxis are safe and regulated. Use official taxi ranks or pre-booked services. MyTaxi app connects users with traditional licensed taxi drivers.",
+    "tips": "Cambridge has excellent public transport safety standards with CCTV coverage and regular services. Cycling is extremely popular but secure bikes well due to high theft rates."
+  },
+  "customs": [
+    "Queuing is taken very seriously - never cut in line and maintain orderly queues at all times",
+    "Politeness is paramount - use 'please', 'thank you', and 'sorry' liberally in all interactions",
+    "Pub etiquette includes buying rounds for your group and not skipping your turn"
+  ],
+  "health": {
+    "overview": "Cambridge has excellent healthcare facilities with Addenbrooke's Hospital serving as a major medical center. The UK's National Health Service provides emergency care, though tourists may face charges for non-emergency treatment.",
+    "water": "Tap water in Cambridge is completely safe to drink and meets strict UK government safety standards. It's regularly tested and of excellent quality.",
+    "vaccinations": "No special vaccinations required for visiting Cambridge. Standard travel insurance is recommended.",
+    "altitude": "Cambridge sits at low elevation with a temperate maritime climate. No altitude-related health concerns."
+  },
+  "emergency": {
+    "general": "999 or 112",
+    "police": "999 (emergency) or 101 (non-emergency)",
+    "ambulance": "999 or 112",
+    "fire": "999 or 112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy London: +44 20 7499 9000, located at 33 Nine Elms Lane, London SW11 7US. For emergencies: +44 20 7499 9000 (24/7 number)."
+  },
+  "faq": [
+    {
+      "q": "Is Cambridge safe for tourists?",
+      "a": "Yes, Cambridge is exceptionally safe for tourists and ranks as one of the UK's safest cities. Violent crime is rare and the city has excellent infrastructure and policing."
+    },
+    {
+      "q": "Is Cambridge safe at night?",
+      "a": "Cambridge is generally safe at night with 68% of people feeling secure after dark. Stick to well-lit main streets and avoid isolated areas, especially parks after 10pm."
+    },
+    {
+      "q": "Is Cambridge safe for solo female travelers?",
+      "a": "Absolutely. Cambridge ranks #9 safest place in the UK for solo female travelers with a welcoming, respectful culture and excellent safety infrastructure."
+    },
+    {
+      "q": "What areas should I avoid in Cambridge?",
+      "a": "Avoid the Arbury estate and parts of East Chesterton at night due to slightly higher crime rates. These areas are still relatively safe but require extra caution."
+    },
+    {
+      "q": "Is it safe to use public transport in Cambridge?",
+      "a": "Yes, public transport in Cambridge is very safe with CCTV coverage, regular services, and professional operators. Both buses and trains maintain high safety standards."
+    }
+  ],
+  "relatedCities": [
+    "oxford",
+    "bath",
+    "york",
+    "edinburgh",
+    "canterbury"
+  ],
+  "_city_id": "cambridge-united-kingdom",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg/1280px-Cambridge_-_Kings_College_vue_des_backs.jpg"
+}
