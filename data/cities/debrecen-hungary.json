@@ -1,0 +1,166 @@
+{
+  "slug": "debrecen",
+  "name": "Debrecen",
+  "country": "Hungary",
+  "countryCode": "HU",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.2,
+    "violentCrime": 8.5,
+    "scamRisk": 7.8,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 7.8,
+    "naturalHazards": 7.5
+  },
+  "summary": "Debrecen, Hungary's second-largest city, is notably safer than Budapest with very low crime rates and a friendly atmosphere. As the cultural capital of eastern Hungary, it offers excellent public transport, quality healthcare, and generally poses minimal risks to tourists.",
+  "quickVerdict": "Debrecen is an exceptionally safe destination for travelers, ranking among Hungary's safest cities with a crime index of just 23. Located in the Eastern Great Plains region, this university town offers a peaceful environment with minimal violent crime and friendly locals. While standard precautions should be taken, particularly around the main train station at night, visitors can explore confidently during both day and evening hours. The city's excellent public transport system and well-established tourist infrastructure make it ideal for solo travelers, families, and first-time visitors to Hungary.",
+  "neighborhoods": [
+    {
+      "name": "City Center",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The historic core around the Great Reformed Church is extremely safe with heavy foot traffic, good lighting, and regular police patrols. Home to most attractions, restaurants, and shopping areas."
+    },
+    {
+      "name": "University District",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Well-maintained area surrounding the University of Debrecen with young, international atmosphere. Safe at all hours with good security presence and student-friendly amenities."
+    },
+    {
+      "name": "Nagyerdei Park Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Green recreational zone housing the zoo, spa facilities, and sports venues. Generally safe during daylight hours but less crowded after dark. Popular with families and joggers."
+    },
+    {
+      "name": "Residential Districts",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Quiet suburban neighborhoods with low crime rates. Safe for walking but can be less well-lit at night. Limited tourist amenities but authentic local atmosphere."
+    },
+    {
+      "name": "Train Station Area (Nagyallomas)",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Main transportation hub that's safe during day but can attract drunk individuals and homeless people at night. Well-connected but requires extra vigilance after dark."
+    },
+    {
+      "name": "Industrial Outskirts",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Manufacturing areas on city periphery with limited lighting and fewer people around. Generally safe but isolated feel makes it less recommended for tourists, especially at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Currency Exchange Overcharging",
+      "risk": "medium",
+      "description": "Tourists unfamiliar with Hungarian forint may be overcharged at shops or given incorrect change. Some vendors may quote prices in euros at poor exchange rates.",
+      "howToAvoid": "Learn basic forint denominations, use official exchange offices or ATMs, and always check your change carefully before leaving shops."
+    },
+    {
+      "name": "Restaurant Service Charge Surprise",
+      "risk": "medium",
+      "description": "Some restaurants automatically add 10-15% service charges printed in small Hungarian text, then expect additional tips on top. This can result in paying 25-30% extra.",
+      "howToAvoid": "Always check the menu for 'szervízdíj' before ordering. Ask if service is included before tipping, and read bills carefully."
+    },
+    {
+      "name": "Fake Police Document Check",
+      "risk": "low",
+      "description": "Individuals claiming to be police officers may approach tourists asking to inspect documents or money for 'counterfeit checks.' Real police don't conduct random street inspections.",
+      "howToAvoid": "Never hand over documents or money to anyone on the street. Ask to be taken to a police station or call 112 to verify. Real police have numbered badges."
+    },
+    {
+      "name": "Overpriced Taxi Rides",
+      "risk": "medium",
+      "description": "Unofficial or freelance taxi drivers may quote inflated prices to tourists, especially from the train station or to hotels. Some may claim their meters are broken.",
+      "howToAvoid": "Use official taxi companies like City Taxi, or ride-sharing apps like Bolt. Confirm fare estimates before getting in and insist on using the meter."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Debrecen is exceptionally safe for solo female travelers, ranking even higher than Budapest in safety surveys. Local women report feeling comfortable walking alone day and night, with minimal harassment and a respectful local culture. The university town atmosphere creates an international, welcoming environment.",
+    "tips": [
+      "Stay in accommodations near the city center or university district for best safety and convenience",
+      "The main train station (Nagyallomas) should be avoided late at night when drunk individuals may gather",
+      "Public transport is very safe and well-monitored, with good lighting and regular services",
+      "Locals are generally helpful and many young people speak English due to the university presence",
+      "Trust your instincts and don't hesitate to ask for help - Hungarians are known for their hospitality to visitors"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Debrecen is notably safe at night with well-lit streets in central areas and low violent crime rates. The city center and university areas maintain good foot traffic in the evenings. However, some residential areas and the train station vicinity can become quieter and less monitored after dark.",
+    "tips": [
+      "Stick to well-lit main streets and avoid poorly lit residential areas late at night",
+      "The city center around the Great Reformed Church remains active and safe until late evening",
+      "Use taxis or ride-sharing apps rather than walking long distances alone after midnight",
+      "Avoid the main train station area (Nagyallomas) late at night when it attracts intoxicated individuals",
+      "Stay aware of your surroundings but don't be overly concerned - violent crime against tourists is extremely rare"
+    ]
+  },
+  "transport": {
+    "metro": "Debrecen has an extensive tram and bus network operated by DKV (Debreceni Közlekedési Vállalat). The system is modern, clean, and very safe with regular services throughout the day. Several tram lines connect major districts and the university area. No metro system exists as the city is smaller than Budapest.",
+    "rideshare": "Bolt operates in Debrecen and is considered safe and reliable. Uber returned to Hungary in 2024 but has limited coverage in Debrecen compared to Budapest. Both use licensed drivers and regulated pricing, making them safer than unofficial taxis.",
+    "taxis": "City Taxi is the main official taxi company in Debrecen, identifiable by clear company branding and regulated meters. Avoid unmarked 'freelance' taxis which may overcharge tourists. All licensed taxis are required to accept credit cards and display official pricing.",
+    "tips": "Public transport is excellent value and very safe. Validate tickets upon boarding to avoid fines from plain-clothed inspectors. For airport connections, the train to Budapest connects to international flights. Walking is pleasant and safe in central areas during daylight hours."
+  },
+  "customs": [
+    "Remove shoes when entering Hungarian homes - this is strictly observed and hosts will provide slippers (papucs)",
+    "Bring gifts when invited to someone's home, preferably wine, quality chocolates, or flowers in odd numbers (even numbers are for funerals)",
+    "Greet people with firm handshakes while maintaining direct eye contact - this shows sincerity and respect",
+    "Never clink glasses when toasting with beer - this tradition stems from the 1848 revolution and is still respected",
+    "Use formal titles and surnames until invited to use first names, especially with older people and in business contexts",
+    "Tip 10-15% in restaurants by stating the total amount including tip rather than leaving money on the table",
+    "Be punctual for appointments and social engagements - arriving 10 minutes early is appreciated"
+  ],
+  "health": {
+    "overview": "Hungary has excellent healthcare standards meeting EU requirements. Debrecen is home to one of Hungary's leading medical universities and quality hospitals. No special vaccinations are required for travel, though routine immunizations should be current.",
+    "water": "Tap water in Debrecen is safe to drink and meets EU quality standards. The water comes from well-managed groundwater sources and is regularly tested. Some visitors may notice a different mineral taste but it poses no health risks.",
+    "vaccinations": "No special vaccinations required. CDC recommends being current on routine vaccines including MMR, DPT, flu, and COVID-19. Hepatitis A is recommended for most travelers. Tick-borne encephalitis vaccine may be considered for hiking in forested areas.",
+    "altitude": "Debrecen sits at low elevation (around 120m above sea level) in the Great Hungarian Plain, so altitude is not a concern. The climate is continental with hot summers and cold winters. Summer temperatures can reach 30°C (86°F) so stay hydrated during outdoor activities."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "107",
+    "ambulance": "104",
+    "fire": "105",
+    "touristPolice": "+36 1 438 8080",
+    "usEmbassy": "US Embassy Budapest: +36 1 475 4400, located at Szabadság tér 12, H-1054 Budapest. The embassy provides 24/7 emergency services for US citizens. No US consulate in Debrecen - all services handled through Budapest."
+  },
+  "faq": [
+    {
+      "q": "Is Debrecen safe for tourists?",
+      "a": "Yes, Debrecen is very safe for tourists with a crime index of only 23, making it one of Hungary's safest cities. Violent crime is extremely rare, and most safety concerns involve minor petty theft. The city has good police presence and a friendly local population that's welcoming to visitors."
+    },
+    {
+      "q": "Is Debrecen safe at night?",
+      "a": "Debrecen is generally safe at night, especially in the city center and university areas which remain well-lit and active. However, avoid the main train station area (Nagyallomas) late at night and stick to main streets. Solo female travelers report feeling comfortable walking at night in central areas."
+    },
+    {
+      "q": "Is Debrecen safe for solo female travelers?",
+      "a": "Absolutely. Debrecen ranks as one of Europe's safest cities for solo female travelers. The university town atmosphere creates a welcoming, international environment. Local harassment is minimal, public transport is very safe, and locals are helpful and respectful to visitors."
+    },
+    {
+      "q": "What areas should I avoid in Debrecen?",
+      "a": "There are very few areas to avoid in Debrecen. Exercise caution around the main train station (Nagyallomas) late at night when drunk individuals may gather. Industrial outskirts can be poorly lit and isolated. Otherwise, the entire city center and residential areas are quite safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Debrecen?",
+      "a": "Yes, public transport in Debrecen is very safe, modern, and reliable. The tram and bus network is well-maintained with good lighting and regular service. Always validate your ticket to avoid fines from inspectors. The system is much safer and more affordable than taxis for most journeys."
+    }
+  ],
+  "relatedCities": [
+    "budapest",
+    "vienna",
+    "bratislava"
+  ],
+  "_city_id": "debrecen-hungary",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Universit%C3%A4t_Debrecen_Nr._3.jpg/1280px-Universit%C3%A4t_Debrecen_Nr._3.jpg"
+}

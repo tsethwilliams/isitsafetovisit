@@ -3486,3 +3486,47 @@
 2026-03-26 12:18:02,918 [INFO] City already exists in site data, skipping: cesky-krumlov
 2026-03-26 12:18:03,030 [INFO] Merged 7 new cities into src/lib/city-data.json
 2026-03-26 12:18:03,088 [INFO] Rebuilt sitemap with 705 URLs (555 cities, 144 countries, 6 static)
+2026-03-26 19:40:37,176 [INFO] Agent starting — mode: add
+2026-03-26 19:40:37,222 [INFO] Queue has 26 cities, adding 8
+2026-03-26 19:40:37,222 [INFO] Generating new city profile: Debrecen, Hungary
+2026-03-26 19:42:08,842 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:42:08,993 [INFO] Found Wikipedia image for Debrecen
+2026-03-26 19:42:08,993 [INFO] Saved city data: debrecen-hungary
+2026-03-26 19:42:08,998 [INFO] Generating new city profile: Eger, Hungary
+2026-03-26 19:43:32,957 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:43:33,025 [INFO] Found Wikipedia image for Eger
+2026-03-26 19:43:33,026 [INFO] Saved city data: eger-hungary
+2026-03-26 19:43:33,030 [INFO] Generating new city profile: Sibiu, Romania
+2026-03-26 19:44:54,998 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:44:55,107 [INFO] Found Wikipedia image for Sibiu
+2026-03-26 19:44:55,107 [INFO] Saved city data: sibiu-romania
+2026-03-26 19:44:55,112 [INFO] Generating new city profile: Timisoara, Romania
+2026-03-26 19:46:24,080 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:46:24,172 [INFO] Found Wikipedia image for Timisoara
+2026-03-26 19:46:24,173 [INFO] Saved city data: timisoara-romania
+2026-03-26 19:46:24,177 [INFO] Generating new city profile: Varna, Bulgaria
+2026-03-26 19:47:57,191 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:47:57,290 [INFO] Found Wikipedia image for Varna
+2026-03-26 19:47:57,291 [INFO] Saved city data: varna-bulgaria
+2026-03-26 19:47:57,295 [INFO] Generating new city profile: Veliko Tarnovo, Bulgaria
+2026-03-26 19:49:39,116 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:49:39,220 [INFO] Found Wikipedia image for Veliko Tarnovo
+2026-03-26 19:49:39,220 [INFO] Saved city data: veliko-tarnovo-bulgaria
+2026-03-26 19:49:39,225 [INFO] Generating new city profile: Piran, Slovenia
+2026-03-26 19:51:06,726 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:51:06,843 [INFO] Found Wikipedia image for Piran
+2026-03-26 19:51:06,844 [INFO] Saved city data: piran-slovenia
+2026-03-26 19:51:06,849 [INFO] Generating new city profile: Rovinj, Croatia
+2026-03-26 19:52:34,747 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 19:52:34,901 [INFO] Found Wikipedia image for Rovinj
+2026-03-26 19:52:34,902 [INFO] Saved city data: rovinj-croatia
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Debrecen
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Eger
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Sibiu
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Timisoara
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Varna
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Veliko Tarnovo
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Piran
+2026-03-26 19:52:34,968 [INFO] Merged into site data: Rovinj
+2026-03-26 19:52:35,086 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-26 19:52:35,150 [INFO] Rebuilt sitemap with 713 URLs (563 cities, 144 countries, 6 static)
