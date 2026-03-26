@@ -1,0 +1,160 @@
+{
+  "slug": "sintra",
+  "name": "Sintra",
+  "country": "Portugal",
+  "countryCode": "PT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.2,
+    "womensSafety": 8.5,
+    "nightSafety": 7.8,
+    "transport": 8.4,
+    "naturalHazards": 8.5
+  },
+  "summary": "Sintra is one of Portugal's safest tourist destinations, with crime rates even lower than the already low national average. This UNESCO World Heritage town ranks as exceptionally safe for visitors, with the main concerns being minor tourist-targeted scams and vehicle break-ins at popular attractions.",
+  "quickVerdict": "Sintra represents one of Europe's safest tourist destinations, benefiting from Portugal's ranking as the 7th most peaceful country globally. The fairytale town experiences minimal violent crime, with petty theft being the primary concern for visitors. While tourist scams exist around major palaces, they are easily avoided with basic precautions. Solo female travelers find Sintra particularly welcoming, with excellent public transport connections to Lisbon and a strong police presence at tourist sites.",
+  "neighborhoods": [
+    {
+      "name": "Historic Center",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The heart of Sintra with the National Palace, cafes, and shops. Well-lit streets with regular police patrols and heavy foot traffic during the day. Very safe for walking and dining."
+    },
+    {
+      "name": "Pena Palace Area",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Popular hilltop attraction with good security but isolated location. Vehicle break-ins are the main concern in parking areas. Tourist police presence during peak hours."
+    },
+    {
+      "name": "Quinta da Regaleira",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Mystical palace and gardens with controlled access and security. Safe during opening hours but avoid walking there alone at night due to forested paths."
+    },
+    {
+      "name": "Train Station Area",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Main transport hub with excellent safety record. Regular security presence and well-lit surroundings. Tourist information and police post nearby."
+    },
+    {
+      "name": "Monserrate Palace",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Remote palace location with limited public transport access. Generally safe but vehicle break-ins occur in parking areas. Better visited during daytime hours."
+    },
+    {
+      "name": "Cabo da Roca",
+      "score": 6.8,
+      "class": "caution",
+      "description": "Europe's westernmost point with stunning views but strong Atlantic winds. Natural hazards include cliff edges and sudden weather changes. Parking areas see occasional theft."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Tour Guides",
+      "risk": "medium",
+      "description": "Unlicensed guides approach tourists at the train station offering exclusive access to palaces or shortcuts for inflated prices well above official entry fees.",
+      "howToAvoid": "Only use official guides with visible badges. Book tours through reputable companies or visitor centers. Official palace entry is clearly priced at €14."
+    },
+    {
+      "name": "Overpriced Restaurant Menus",
+      "risk": "medium",
+      "description": "Some restaurants near tourist sites charge excessive prices for daily specials not listed with prices, taking advantage of visitors unfamiliar with local costs.",
+      "howToAvoid": "Always check that menus include complete pricing before ordering. Ask for prices if not clearly displayed. Eat where locals dine for better value."
+    },
+    {
+      "name": "Parking Attendant Pressure",
+      "risk": "medium",
+      "description": "Unofficial attendants direct tourists to street parking and demand tips, sometimes becoming aggressive or threatening vehicle damage when refused payment.",
+      "howToAvoid": "Use official parking facilities. Carry small change if using street parking. These attendants have no legal authority despite their demands."
+    },
+    {
+      "name": "Discounted Attraction Tickets",
+      "risk": "low",
+      "description": "Street vendors sell fake or invalid tickets to major attractions like Pena Palace at seemingly discounted prices, leaving tourists unable to enter.",
+      "howToAvoid": "Buy tickets only from official sources, online booking platforms, or attraction box offices. Legitimate discounts are rare for popular Sintra sites."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Sintra is exceptionally safe for solo female travelers, with Portugal's strong reputation for gender equality and low harassment rates extending to this popular tourist town. The compact historic center is easily walkable, public transport is reliable and safe, and locals are generally helpful and respectful toward solo women visitors.",
+    "tips": [
+      "Stay in well-reviewed accommodations in the historic center for easy access to main attractions",
+      "Use the official 434 bus service to reach hilltop palaces rather than walking alone on isolated paths",
+      "Keep your phone charged and share your location when exploring remote attractions like Cabo da Roca"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Sintra transforms into a quiet town after sunset, with most tourist activities concentrated during daylight hours. The historic center remains safe for evening strolls with good lighting and occasional police presence, though options for nightlife are limited compared to nearby Lisbon.",
+    "tips": [
+      "Stick to well-lit main streets in the historic center after dark",
+      "Use official taxis or ride-sharing apps for transport to and from Lisbon for nightlife",
+      "Avoid walking alone to remote palaces or Cabo da Roca after sunset due to poorly lit paths"
+    ]
+  },
+  "transport": {
+    "metro": "Sintra connects to Lisbon via the urban train network, not metro. Trains run every 15-20 minutes from Rossio and Oriente stations, taking 40-47 minutes. Services are safe, clean, and reliable with good security presence.",
+    "rideshare": "Uber and Bolt operate reliably in Sintra with reasonable fares to Lisbon (€25-35). Particularly useful for reaching remote attractions or late-night returns to Lisbon. Drivers are generally trustworthy and professional.",
+    "taxis": "Official taxis are available at the train station and major attractions. Meters should always be used, with fares starting at €3.25. Some drivers may attempt overcharging tourists, so confirm meter usage.",
+    "tips": "The 434 tourist bus is the best way to reach hilltop palaces safely and affordably. Buy transport cards at stations for better value. Avoid unmarked vehicles or drivers approaching you directly."
+  },
+  "customs": [
+    "Greet shopkeepers and service staff with 'Bom dia' (good morning) or 'Boa tarde' (good afternoon) - politeness is highly valued",
+    "Dress modestly when visiting religious sites and palaces - shoulders and knees should be covered in churches",
+    "Wait to be seated at restaurants and don't rush meals - Portuguese dining culture values taking time to enjoy food and conversation"
+  ],
+  "health": {
+    "overview": "Sintra offers excellent healthcare access through Portugal's national health system (SNS), with emergency services available 24/7. The town has basic medical facilities, while comprehensive care is available in nearby Lisbon within 45 minutes by train.",
+    "water": "Tap water is completely safe to drink throughout Sintra, meeting EU quality standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccinations (routine vaccines) should be up to date. Portugal has no endemic diseases of concern to travelers.",
+    "altitude": "Sintra sits at low elevation with a mild Atlantic climate. Summer temperatures rarely exceed 30°C (86°F) due to coastal breezes. Winter is mild with temperatures around 10-15°C (50-59°F)."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "Sintra Tourist Police Post: +351 219 106 440",
+    "usEmbassy": "US Embassy Lisbon: +351 21 770 2122 (45 minutes by train from Sintra). Emergency after-hours: +351 21 770 2122"
+  },
+  "faq": [
+    {
+      "q": "Is Sintra safe for tourists?",
+      "a": "Yes, Sintra is exceptionally safe for tourists. Portugal ranks as the 7th safest country globally, and Sintra has even lower crime rates than the national average. The main concerns are minor tourist scams and vehicle break-ins at parking areas near attractions."
+    },
+    {
+      "q": "Is Sintra safe at night?",
+      "a": "Sintra is generally safe at night in the historic center with good lighting and occasional police patrols. However, the town is quiet after sunset with limited nightlife options. Avoid walking alone to remote palaces or Cabo da Roca after dark."
+    },
+    {
+      "q": "Is Sintra safe for solo female travelers?",
+      "a": "Sintra is very safe for solo female travelers. Portugal has excellent gender equality and low harassment rates. The town is compact and walkable, public transport is reliable, and locals are respectful and helpful toward solo women visitors."
+    },
+    {
+      "q": "What areas should I avoid in Sintra?",
+      "a": "Sintra has no dangerous areas, but use extra caution at remote palace parking areas (vehicle break-ins), avoid walking alone on isolated forest paths to attractions after dark, and be wary of fake tour guides at the train station."
+    },
+    {
+      "q": "Is it safe to use public transport in Sintra?",
+      "a": "Yes, public transport in Sintra is very safe. Trains to/from Lisbon are clean, punctual, and secure. The local 434 tourist bus is the safest way to reach hilltop palaces. Use official taxis with meters and avoid unmarked vehicles."
+    }
+  ],
+  "relatedCities": [
+    "lisbon",
+    "porto",
+    "cascais",
+    "obidos",
+    "aveiro"
+  ],
+  "_city_id": "sintra-portugal",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg/1280px-Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg"
+}

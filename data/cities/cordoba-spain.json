@@ -1,0 +1,160 @@
+{
+  "slug": "cordoba",
+  "name": "Córdoba",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 8.5,
+    "naturalHazards": 8.2
+  },
+  "summary": "Córdoba is one of Spain's safest cities, with extremely low violent crime rates and well-maintained infrastructure. While petty crime like pickpocketing can occur in tourist areas, serious incidents are rare and the city maintains excellent public safety standards.",
+  "quickVerdict": "Córdoba stands out as an exceptionally safe destination for travelers. With its low crime index of 23.42 according to Numbeo and ranking among Spain's safest cities, visitors can explore this historic Andalusian gem with confidence. The main concerns are minor pickpocketing in crowded tourist areas around the Mezquita and occasional heat-related risks during summer months. The city's compact size, excellent police presence, and well-developed tourist infrastructure make it ideal for solo travelers, families, and first-time visitors to Spain.",
+  "neighborhoods": [
+    {
+      "name": "Centro Histórico/La Judería",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart featuring the Mezquita-Cathedral and Jewish Quarter. High police presence and constant foot traffic make it very safe, though watch for pickpockets in crowded areas around major monuments."
+    },
+    {
+      "name": "San Basilio",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Charming residential area known for beautiful patios and traditional Andalusian houses. Very safe with local families and minimal tourist crowds, offering authentic cultural experiences."
+    },
+    {
+      "name": "Vial Norte",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Modern district with shopping centers and contemporary amenities. Well-lit streets, good transport links, and family-friendly environment make it very secure for visitors."
+    },
+    {
+      "name": "Ciudad Jardín",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Residential neighborhood with parks and local markets. Family-oriented area with low crime rates, though slightly removed from main tourist attractions."
+    },
+    {
+      "name": "Santa Marina",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Peaceful area near the bullring with wide avenues and quiet streets. Popular with locals and families, offering a relaxed atmosphere with good safety levels."
+    },
+    {
+      "name": "Train Station Area",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Generally safe during the day but exercise extra caution late at night due to occasional petty crime. Well-connected with good lighting, but avoid walking alone after midnight."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Rosemary Scam",
+      "risk": "medium",
+      "description": "Women approach tourists offering free sprigs of rosemary, then demand payment or use the distraction for pickpocketing.",
+      "howToAvoid": "Politely decline any unsolicited gifts. Keep walking and avoid engaging with persistent vendors near tourist sites."
+    },
+    {
+      "name": "Fake Bird Dropping",
+      "risk": "medium",
+      "description": "Someone points out fake bird droppings on your clothes while an accomplice pickpockets you during the distraction.",
+      "howToAvoid": "If someone points out a stain, thank them and move to a private area to check. Never let strangers help clean your clothes."
+    },
+    {
+      "name": "Restaurant Overcharging",
+      "risk": "low",
+      "description": "Tourists charged inflated prices for daily specials or automatic bread service without clear pricing.",
+      "howToAvoid": "Always ask for prices before ordering specials. Check if bread is complimentary or charged. Request both Spanish and English menus to compare prices."
+    },
+    {
+      "name": "Pickpocketing",
+      "risk": "medium",
+      "description": "Opportunistic theft in crowded areas, especially around the Mezquita, using distraction techniques or crowded conditions.",
+      "howToAvoid": "Use front pockets or hidden pouches for valuables. Stay alert in crowds and avoid displaying expensive items. Keep bags zipped and in front of you."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Córdoba is ranked among the safest cities in Spain for solo female travelers, with a 4.5 out of 5 safety rating. The city's compact size, excellent police presence, and respectful local culture create a welcoming environment. Women regularly walk alone both day and night without issues, and locals are generally helpful and respectful.",
+    "tips": [
+      "Stay in central areas like the Historic Center or near major attractions for maximum safety and convenience",
+      "Use well-lit main streets when walking at night, though violent crime is extremely rare",
+      "Be aware of the rosemary scam near tourist sites - politely decline and keep walking"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Córdoba maintains excellent night safety with well-lit streets, active nightlife, and regular police patrols. The city's culture of late dining and socializing means streets stay lively until midnight. Most areas remain safe for walking, though standard urban precautions apply in quieter zones.",
+    "tips": [
+      "Stick to main streets and well-lit areas, especially around the Historic Center and nightlife districts",
+      "The train station area requires extra caution after midnight - consider using taxis for late arrivals",
+      "Join locals at tapas bars and restaurants which stay busy until late, providing natural safety in numbers"
+    ]
+  },
+  "transport": {
+    "metro": "Córdoba does not have a metro system. The city relies on buses and is compact enough for walking to most attractions.",
+    "rideshare": "Uber operates but with limited drivers and potentially long wait times. Consider traditional taxis for more reliable service.",
+    "taxis": "Official white taxis with roof signs and meters are safe and honest. Easily found near major attractions, the Alcázar, and train station. Typical 10-20 minute rides cost under 10 euros.",
+    "tips": "Public buses are modern, air-conditioned, and safe, operating 15 lines from 6:00-23:30. The compact historic center is walkable, making transport mainly needed for stations or outer areas."
+  },
+  "customs": [
+    "Respect siesta time (14:00-17:00) when many shops close - plan accordingly",
+    "Dress modestly when visiting religious sites like the Mezquita-Cathedral - cover shoulders and knees",
+    "Evening dining is normal - restaurants often don't open until 20:30 for dinner"
+  ],
+  "health": {
+    "overview": "Spain has an excellent healthcare system with modern facilities. Córdoba has quality hospitals and medical centers. Emergency medical care is available through the 112 system with rapid response times.",
+    "water": "Tap water is safe to drink throughout Córdoba and meets EU standards.",
+    "vaccinations": "No special vaccinations required for Spain. Routine vaccines should be up to date.",
+    "altitude": "Córdoba sits at low elevation with a Mediterranean climate. Summer temperatures can exceed 40°C (104°F) - stay hydrated and avoid midday sun during heat waves."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091",
+    "ambulance": "061",
+    "fire": "080",
+    "touristPolice": "902 102 112",
+    "usEmbassy": "US Embassy Madrid: +34 91 587 2200 (24/7 emergency line for American citizens)"
+  },
+  "faq": [
+    {
+      "q": "Is Córdoba safe for tourists?",
+      "a": "Yes, Córdoba is one of Spain's safest cities with a very low crime index of 23.42. Violent crime against tourists is extremely rare, and the main concern is minor pickpocketing in crowded tourist areas."
+    },
+    {
+      "q": "Is Córdoba safe at night?",
+      "a": "Córdoba is very safe at night with well-lit streets and active nightlife. The city maintains excellent safety standards, though standard precautions should be taken around the train station area after midnight."
+    },
+    {
+      "q": "Is Córdoba safe for solo female travelers?",
+      "a": "Absolutely. Córdoba ranks #12 safest in Spain for solo female travelers with a 4.5/5 safety rating. Women regularly walk alone day and night without issues, and locals are respectful and helpful."
+    },
+    {
+      "q": "What areas should I avoid in Córdoba?",
+      "a": "No areas in Córdoba are considered dangerous. Exercise normal caution around the train station late at night and be aware of pickpockets in crowded tourist zones near the Mezquita."
+    },
+    {
+      "q": "Is it safe to use public transport in Córdoba?",
+      "a": "Yes, public transport is very safe. Buses are modern, clean, and reliable. Taxis are honest and use meters. The city is compact and most attractions are walkable from the historic center."
+    }
+  ],
+  "relatedCities": [
+    "seville",
+    "granada",
+    "madrid",
+    "valencia",
+    "malaga"
+  ],
+  "_city_id": "cordoba-spain",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/C%C3%B3rdoba_aerial_2.jpg/1280px-C%C3%B3rdoba_aerial_2.jpg"
+}

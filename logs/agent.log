@@ -3398,3 +3398,47 @@
 2026-03-26 00:03:19,403 [INFO] Merged into site data: Utrecht
 2026-03-26 00:03:19,512 [INFO] Merged 7 new cities into src/lib/city-data.json
 2026-03-26 00:03:19,568 [INFO] Rebuilt sitemap with 692 URLs (542 cities, 144 countries, 6 static)
+2026-03-26 07:45:23,134 [INFO] Agent starting — mode: add
+2026-03-26 07:45:23,174 [INFO] Queue has 42 cities, adding 8
+2026-03-26 07:45:23,174 [INFO] Generating new city profile: Antwerp, Belgium
+2026-03-26 07:46:56,343 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:46:56,641 [INFO] Found Wikipedia image for Antwerp
+2026-03-26 07:46:56,642 [INFO] Saved city data: antwerp-belgium
+2026-03-26 07:46:56,646 [INFO] Generating new city profile: Leuven, Belgium
+2026-03-26 07:48:20,362 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:48:20,441 [INFO] Found Wikipedia image for Leuven
+2026-03-26 07:48:20,441 [INFO] Saved city data: leuven-belgium
+2026-03-26 07:48:20,446 [INFO] Generating new city profile: Sintra, Portugal
+2026-03-26 07:49:38,309 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:49:38,382 [INFO] Found Wikipedia image for Sintra
+2026-03-26 07:49:38,383 [INFO] Saved city data: sintra-portugal
+2026-03-26 07:49:38,387 [INFO] Generating new city profile: Lagos, Portugal
+2026-03-26 07:53:06,701 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:53:06,837 [INFO] Found Wikipedia image for Lagos
+2026-03-26 07:53:06,837 [INFO] Saved city data: lagos-portugal
+2026-03-26 07:53:06,842 [INFO] Generating new city profile: Madeira, Portugal
+2026-03-26 07:54:37,829 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:54:37,911 [INFO] Found Wikipedia image for Madeira
+2026-03-26 07:54:37,912 [INFO] Saved city data: madeira-portugal
+2026-03-26 07:54:37,916 [INFO] Generating new city profile: Azores, Portugal
+2026-03-26 07:55:58,023 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:55:58,093 [INFO] Found Wikipedia image for Azores
+2026-03-26 07:55:58,094 [INFO] Saved city data: azores-portugal
+2026-03-26 07:55:58,098 [INFO] Generating new city profile: Girona, Spain
+2026-03-26 07:57:19,746 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:57:19,845 [INFO] Found Wikipedia image for Girona
+2026-03-26 07:57:19,845 [INFO] Saved city data: girona-spain
+2026-03-26 07:57:19,850 [INFO] Generating new city profile: Cordoba, Spain
+2026-03-26 07:58:50,174 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 07:58:50,254 [INFO] Found Wikipedia image for Cordoba
+2026-03-26 07:58:50,255 [INFO] Saved city data: cordoba-spain
+2026-03-26 07:58:50,316 [INFO] Merged into site data: Antwerp
+2026-03-26 07:58:50,316 [INFO] Merged into site data: Leuven
+2026-03-26 07:58:50,317 [INFO] Merged into site data: Sintra
+2026-03-26 07:58:50,317 [INFO] City already exists in site data, skipping: lagos
+2026-03-26 07:58:50,317 [INFO] Merged into site data: Madeira
+2026-03-26 07:58:50,317 [INFO] Merged into site data: Azores
+2026-03-26 07:58:50,317 [INFO] Merged into site data: Girona
+2026-03-26 07:58:50,317 [INFO] City already exists in site data, skipping: cordoba
+2026-03-26 07:58:50,427 [INFO] Merged 6 new cities into src/lib/city-data.json
+2026-03-26 07:58:50,484 [INFO] Rebuilt sitemap with 698 URLs (548 cities, 144 countries, 6 static)

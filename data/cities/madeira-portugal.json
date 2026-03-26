@@ -1,0 +1,162 @@
+{
+  "slug": "madeira",
+  "name": "Madeira",
+  "country": "Portugal",
+  "countryCode": "PT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.2,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 9.5,
+    "scamRisk": 7.5,
+    "womensSafety": 8.8,
+    "nightSafety": 8.2,
+    "transport": 8.0,
+    "naturalHazards": 7.2
+  },
+  "summary": "Madeira is one of the safest destinations in Europe, ranking as arguably the safest island in Portugal with exceptionally low crime rates. The primary risks come from the natural environment including steep terrain, flash floods, and challenging hiking conditions rather than crime or security concerns.",
+  "quickVerdict": "Madeira consistently ranks among the top 10 safest places in the world with virtually no violent crime and minimal petty theft. The island maintains excellent safety standards with well-lit streets, reliable emergency services, and a welcoming local population. While traditional safety concerns are minimal, visitors should be prepared for natural hazards including sudden weather changes, steep terrain, and challenging hiking conditions that require proper preparation and respect for the environment.",
+  "neighborhoods": [
+    {
+      "name": "Funchal City Center",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The capital's historic center is very safe with strong police presence, well-lit streets, and active nightlife. Popular tourist areas like the Old Town and marina are regularly patrolled and bustling with locals and visitors."
+    },
+    {
+      "name": "São Martinho",
+      "score": 8.5,
+      "class": "safe",
+      "description": "An upscale residential area near the hotel zone with beautiful beaches and high-end accommodations. This tranquil neighborhood offers excellent safety standards and is popular with tourists seeking luxury and peace."
+    },
+    {
+      "name": "Ponta do Sol",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The sunniest spot on the island with a growing digital nomad community. This coastal village maintains a relaxed, secure atmosphere with friendly locals and regular community events."
+    },
+    {
+      "name": "Santo Antonio (Upper Hills)",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Residential neighborhoods in the upper hills can be isolated at night with limited lighting and fewer people around. While not dangerous, visitors can easily get lost in the winding streets after dark."
+    },
+    {
+      "name": "Zona Velha at Night",
+      "score": 5.5,
+      "class": "caution",
+      "description": "While safe during the day, some parts of the Old Town can feel less secure after dark due to reduced foot traffic. Stick to main well-lit areas and avoid isolated side streets at night."
+    },
+    {
+      "name": "Coastal Areas (Seixal/São Jorge)",
+      "score": 4.0,
+      "class": "danger",
+      "description": "Dangerous coastal rocks and deadly high surf pose serious safety risks. Rogue waves can sweep people away even when standing near the water. These areas require extreme caution and should be avoided during rough weather."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers may charge inflated rates, especially from the airport or tourist areas without using the meter.",
+      "howToAvoid": "Always insist on using the meter or agree on a fixed price beforehand. Use ride-sharing apps like Bolt for transparent pricing."
+    },
+    {
+      "name": "Fake Tourist Guides",
+      "risk": "medium",
+      "description": "Unofficial guides in Funchal offer tours but lead visitors to shops where they receive commissions, turning tours into expensive shopping trips.",
+      "howToAvoid": "Verify guides through official agencies and tourist information centers. Be wary of unsolicited tour offers from individuals on the street."
+    },
+    {
+      "name": "Market Price Inflation",
+      "risk": "medium",
+      "description": "Vendors at Funchal Farmer's Market may charge tourists significantly higher prices for fruits and souvenirs than locals pay.",
+      "howToAvoid": "Compare prices at different stalls, ask locals for recommendations, and consider shopping at smaller local stores instead of tourist markets."
+    },
+    {
+      "name": "Restaurant Menu Tricks",
+      "risk": "low",
+      "description": "Some restaurants show menus with no prices or low prices outside, then present different menus with higher prices after ordering.",
+      "howToAvoid": "Ask for a clear menu with prices before sitting down. Inquire about daily specials prices upfront and avoid restaurants that refuse to show transparent pricing."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Madeira is consistently ranked as one of the safest destinations in Europe for solo female travelers with exceptionally low crime rates and a respectful local culture. Women report feeling secure walking alone both day and night in main areas, with locals often proudly sharing how safe their island is. The primary considerations are natural hazards when hiking rather than personal safety concerns.",
+    "tips": [
+      "Use ride-sharing apps like Bolt for reliable and safe transportation, especially at night",
+      "While hiking solo is generally safe, consider joining group tours for more challenging trails or remote areas",
+      "Stick to well-lit main streets in Funchal at night, though the risk is very low even in quieter areas",
+      "Take advantage of the growing digital nomad community in places like Ponta do Sol for networking and meetups",
+      "Carry proper hiking equipment including sunscreen, water, and weather-appropriate clothing for outdoor activities"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Madeira offers excellent nighttime safety with well-lit streets, active nightlife areas, and minimal crime concerns. Funchal remains lively into the evening hours with locals and tourists creating a secure atmosphere. The nightlife scene is generally safe and welcoming, though basic precautions should still be observed.",
+    "tips": [
+      "Funchal's main areas remain safe and well-populated throughout the night with good street lighting",
+      "Use reliable transportation options like Bolt or official taxis when moving between venues",
+      "Stick to main nightlife areas and avoid isolated residential neighborhoods in the upper hills after dark",
+      "The nightlife is relaxed and friendly - bars and clubs maintain good security standards",
+      "Keep normal awareness of your belongings in crowded venues, though serious incidents are extremely rare"
+    ]
+  },
+  "transport": {
+    "metro": "Madeira has no metro or tram system. The island relies on buses, taxis, and ride-sharing for public transport, with ongoing discussions about potential metro development in Funchal that have not yet materialized.",
+    "rideshare": "Bolt is the primary ride-sharing service available across the island, offering reliable and affordable transportation with transparent pricing. The service is widely used by both locals and tourists as a safe alternative to traditional taxis.",
+    "taxis": "Official yellow taxis are readily available in Funchal and major towns. Drivers are generally honest but tourists should confirm fares beforehand or insist on meter use. Taxi services are considered safe and reliable for getting around the island.",
+    "tips": "Public buses are safe and reliable but can be time-consuming due to winding mountain roads. The new SIGA network has modernized bus services with environmentally friendly vehicles. For maximum flexibility and safety, especially for remote areas, car rental or organized tours are recommended, though roads can be challenging with steep inclines and narrow passages."
+  },
+  "customs": [
+    "Always greet with 'Bom dia' or 'Boa tarde' when entering shops or approaching service staff - politeness is highly valued",
+    "Respect for elders is deeply embedded in Portuguese culture - offer seats to older passengers on public transport",
+    "Families with young children often receive priority in queues and at attractions - this is normal cultural practice"
+  ],
+  "health": {
+    "overview": "Madeira offers high-quality healthcare with modern facilities and English-speaking medical professionals. The island has excellent emergency services and is part of Portugal's well-regarded national health system.",
+    "water": "Tap water is completely safe to drink and meets all EU standards. The water comes from local mountain springs and is of excellent quality, though some rural areas may have different taste preferences.",
+    "vaccinations": "No special vaccinations are required for Madeira. Standard travel vaccinations recommended by CDC are sufficient. EU citizens can use their European Health Insurance Card for medical care.",
+    "altitude": "Madeira has a mild subtropical climate year-round with temperatures rarely exceeding 30°C. The UV index is high due to the island's location, requiring sun protection. Weather can change rapidly in mountainous areas, requiring proper clothing for hiking."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "291 208 400",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US citizens should contact the US Embassy in Lisbon: +351 21 727-3300 or the 24-hour emergency line +351 21 770-2122. There is no US consular presence in Madeira."
+  },
+  "faq": [
+    {
+      "q": "Is Madeira safe for tourists?",
+      "a": "Yes, Madeira is exceptionally safe for tourists and consistently ranks as one of the safest destinations in Europe. Violent crime is virtually non-existent and petty crime rates are very low. The main safety considerations are natural hazards when hiking or near coastal areas."
+    },
+    {
+      "q": "Is Madeira safe at night?",
+      "a": "Madeira is very safe at night, especially in main areas like Funchal city center. Streets are well-lit, nightlife areas remain active with good security, and locals and tourists feel comfortable walking around after dark. Basic precautions are still recommended."
+    },
+    {
+      "q": "Is Madeira safe for solo female travelers?",
+      "a": "Madeira is considered one of the best destinations in Europe for solo female travelers. Women report feeling very secure both day and night, locals are respectful and welcoming, and the island has excellent safety infrastructure. The main considerations are natural hazards when hiking rather than personal security."
+    },
+    {
+      "q": "What areas should I avoid in Madeira?",
+      "a": "There are no traditionally dangerous crime areas in Madeira. However, avoid coastal areas like Seixal and São Jorge during rough weather due to dangerous rogue waves, abandoned tunnels and old coastal roads due to rockfall risks, and some upper hill residential areas at night due to poor lighting and potential for getting lost."
+    },
+    {
+      "q": "Is it safe to use public transport in Madeira?",
+      "a": "Yes, public transport in Madeira is very safe and reliable. The new SIGA bus network offers modern, comfortable vehicles, and both buses and ride-sharing services like Bolt are considered secure options. Taxi drivers are generally honest, though confirming fares beforehand is recommended."
+    }
+  ],
+  "relatedCities": [
+    "lisbon",
+    "porto",
+    "azores"
+  ],
+  "_city_id": "madeira-portugal",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/1280px-Flag_of_Madeira.svg.png"
+}
