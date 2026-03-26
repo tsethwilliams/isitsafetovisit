@@ -1,0 +1,162 @@
+{
+  "slug": "turku",
+  "name": "Turku",
+  "country": "Finland",
+  "countryCode": "FI",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-25",
+  "overallScore": 8.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.0,
+    "scamRisk": 7.8,
+    "womensSafety": 8.2,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 8.5
+  },
+  "summary": "Turku is generally a very safe destination for tourists, consistently ranking as one of the safest cities globally. While it has one of the highest crime rates within Finland, this remains low by international standards, with most concerns being petty theft and occasional substance use in public areas.",
+  "quickVerdict": "Turku is an excellent choice for safe travel, with very low violent crime rates and reliable infrastructure. The main concerns are minor petty theft around tourist areas and some substance use issues in the city center. The city offers excellent healthcare, safe public transport, and a welcoming atmosphere for all types of travelers including solo females and LGBTQ+ visitors.",
+  "neighborhoods": [
+    {
+      "name": "City Center",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Very safe overall but be aware of some substance users and homeless individuals around Market Square. Well-lit with good police presence, though petty theft can occur in crowded areas."
+    },
+    {
+      "name": "Aura River Area",
+      "score": 8.2,
+      "class": "safe",
+      "description": "Highly safe and popular waterfront district with excellent lighting and constant foot traffic. Popular for evening dining and socializing with floating restaurants and bars."
+    },
+    {
+      "name": "University Area",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Very safe student district with youthful energy and good security. Well-patrolled and maintained with reliable public transport connections."
+    },
+    {
+      "name": "Varissuo",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Exercise increased caution here, especially at night. Higher crime rates compared to other Turku neighborhoods, though still relatively safe by international standards."
+    },
+    {
+      "name": "Kupittaa",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Safe residential and business area with good transport links. Home to sports facilities and well-maintained public spaces with minimal safety concerns."
+    },
+    {
+      "name": "Ruissalo Island",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Very safe nature area popular for recreation. Well-maintained trails and facilities with minimal crime. Natural beauty makes it ideal for outdoor activities."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Posti Delivery Scams",
+      "risk": "medium",
+      "description": "Scammers send emails pretending to be from Finland Post claiming failed delivery attempts and requesting small fees or bank details to redeliver packages.",
+      "howToAvoid": "Use the official Omaposti app only. Posti never asks for bank codes or account details via email. Verify directly with Posti if unsure."
+    },
+    {
+      "name": "Phishing and Investment Scams",
+      "risk": "medium",
+      "description": "Fraudsters impersonate banks or police via phone or email to obtain banking credentials or trick victims into fake investment opportunities.",
+      "howToAvoid": "Never give banking details over phone or email. Hang up and call your bank directly using official numbers. Be extremely cautious of investment ads online."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "low",
+      "description": "Rare but possible skimming devices attached to ATMs in busy areas like shopping centers, capturing card details and PINs via hidden cameras.",
+      "howToAvoid": "Inspect ATMs for unusual attachments. Cover PIN entry with your hand. Use ATMs inside banks during business hours when possible."
+    },
+    {
+      "name": "Overpriced Tours",
+      "risk": "low",
+      "description": "Occasionally inflated prices for tours or activities, particularly around tourist attractions, though this is uncommon in Finland due to strong consumer protection.",
+      "howToAvoid": "Book through official tourism sites or verified operators. Compare prices from multiple sources. Ask for receipts and check reviews online."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Turku is exceptionally safe for solo female travelers, ranking among the top destinations globally for women's safety. The city has a strong culture of gender equality and respect for women. Solo female travelers regularly report feeling completely safe both during the day and at night. Public transport is very reliable and safe to use alone.",
+    "tips": [
+      "Stay in well-lit, populated areas during late hours for maximum comfort",
+      "Public transportation and taxis are completely reliable and safe to use at night",
+      "Trust your instincts but know that serious incidents are extremely rare"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Turku is very safe at night with 81% of residents and visitors feeling fully secure during nighttime hours. The city center remains active with good lighting and foot traffic. Public transport operates safely until late evening with taxis available throughout the night. Some areas like Varissuo should be avoided late at night.",
+    "tips": [
+      "Stick to the well-lit city center and Aura River area for nighttime activities",
+      "Public buses run until around midnight with extended weekend hours",
+      "Use official taxis or ride-sharing apps rather than unlicensed vehicles"
+    ]
+  },
+  "transport": {
+    "metro": "Turku does not have a metro system.",
+    "rideshare": "Uber operates in Turku along with local apps like Valopilkku. Ride-sharing services are safe and reliable, though less common than in larger European cities.",
+    "taxis": "Taxis are government-regulated, safe, and reliable but expensive. All are in good condition with professional drivers. Can be hailed at stands or called via phone at 02 10041.",
+    "tips": "The Föli public bus system is excellent, safe, and covers the entire region efficiently. Single tickets cost around 3 euros with contactless payment accepted."
+  },
+  "customs": [
+    "Punctuality is extremely important - arriving on time or early is expected for all appointments",
+    "Respect personal space and avoid unnecessary physical contact or loud conversation in public",
+    "Remove shoes when entering Finnish homes and some traditional buildings",
+    "Tipping is not expected as service charges are included, but rounding up for exceptional service is appreciated",
+    "Sauna culture is important - follow proper etiquette if invited to a sauna experience"
+  ],
+  "health": {
+    "overview": "Finland has excellent healthcare with 5 doctors and 15 nurses per 1000 residents. English is widely spoken by medical staff and facilities are modern and well-equipped.",
+    "water": "Tap water is completely safe to drink throughout Finland and is of excellent quality.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. CDC recommends being up to date on measles-mumps-rubella vaccine.",
+    "altitude": "Turku is at sea level with no altitude concerns. Climate is cold temperate with potential for icy conditions in winter requiring appropriate footwear and caution."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "U.S. Embassy Helsinki: +358-9-616-250 (24/7 for emergencies), located at Itäinen Puistotie 14B, 00140 Helsinki"
+  },
+  "faq": [
+    {
+      "q": "Is Turku safe for tourists?",
+      "a": "Yes, Turku is very safe for tourists with low crime rates and excellent infrastructure. While it has higher crime rates within Finland, these are still very low by international standards. Most issues are minor petty theft in crowded areas."
+    },
+    {
+      "q": "Is Turku safe at night?",
+      "a": "Turku is generally very safe at night with 81% of people feeling secure during nighttime hours. The city center and Aura River area are well-lit with good foot traffic. Avoid the Varissuo neighborhood at night and stick to populated, well-lit areas."
+    },
+    {
+      "q": "Is Turku safe for solo female travelers?",
+      "a": "Absolutely. Turku is exceptionally safe for solo female travelers, ranking as one of the top destinations globally for women's safety. The culture strongly respects women and serious incidents are extremely rare. Public transport is completely safe to use alone."
+    },
+    {
+      "q": "What areas should I avoid in Turku?",
+      "a": "The Varissuo neighborhood should be approached with caution, especially at night, as it has higher crime rates than other areas. The main train and bus stations can have intoxicated or homeless individuals in the evenings, though they rarely pose physical threats."
+    },
+    {
+      "q": "Is it safe to use public transport in Turku?",
+      "a": "Yes, public transport in Turku is very safe, reliable, and efficient. The Föli bus system covers the entire region with modern, accessible buses. Public transport operates safely even at night, with taxis available when buses stop running."
+    }
+  ],
+  "relatedCities": [
+    "helsinki",
+    "tampere",
+    "stockholm",
+    "oslo",
+    "copenhagen"
+  ],
+  "_city_id": "turku-finland",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_from_Turku_Cathedral_tower.jpg/1280px-View_from_Turku_Cathedral_tower.jpg"
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "maastricht",
+  "name": "Maastricht",
+  "country": "Netherlands",
+  "countryCode": "NL",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.3,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.0,
+    "violentCrime": 8.5,
+    "scamRisk": 7.5,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 9.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Maastricht is one of the Netherlands' safest cities with a Crime Index of just 21.4, ranked highly for solo female travel. The historic university city offers excellent public transport, friendly locals, and a very low risk of violent crime.",
+  "quickVerdict": "Maastricht ranks as one of Europe's safest destinations for travelers. With extremely low violent crime rates, excellent healthcare, and reliable infrastructure, visitors can explore confidently. While the Netherlands maintains a Level 2 US travel advisory due to general terrorism concerns across Europe, Maastricht experiences virtually no tourist-specific safety issues. The city's compact size, well-maintained public spaces, and strong police presence create a secure environment for all travelers.",
+  "neighborhoods": [
+    {
+      "name": "Historic City Center",
+      "score": 9.0,
+      "class": "safe",
+      "description": "The heart of Maastricht featuring medieval squares, shops, and restaurants. Very well-patrolled with excellent lighting and constant foot traffic making it extremely safe day and night."
+    },
+    {
+      "name": "University Quarter",
+      "score": 8.8,
+      "class": "safe",
+      "description": "Student-dominated area with modern facilities, cafes, and academic buildings. Strong security presence and well-lit streets create a vibrant, safe atmosphere."
+    },
+    {
+      "name": "Wyck District",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Trendy area across the river with boutiques, galleries, and upscale dining. Generally very safe with good lighting and regular police patrols."
+    },
+    {
+      "name": "Jekerkwartier",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Cultural district with museums and parks. Safe for walking but can be quieter in evenings, especially around the fortress areas."
+    },
+    {
+      "name": "Caberg",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Residential area north of city center. Generally safe but some locals report feeling less comfortable walking alone at night in certain parts."
+    },
+    {
+      "name": "Malberg",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Outer residential district with some social housing. Usually fine during the day but locals suggest avoiding isolated areas after dark."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Meter Fraud",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers outside train station or airport refuse to use meters and overcharge tourists significantly.",
+      "howToAvoid": "Use only licensed taxis with running meters or book through official apps. Always agree on fare upfront if meter is not working."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "low",
+      "description": "Criminals install devices on ATMs in tourist areas to steal card information and PINs, typically targeting machines near hotels or shopping areas.",
+      "howToAvoid": "Use ATMs inside banks during business hours, cover your PIN when entering, and check for loose parts or unusual attachments on machines."
+    },
+    {
+      "name": "Fake Photo Request",
+      "risk": "low",
+      "description": "Someone asks you to take their photo, then deliberately drops the camera and demands payment for damages.",
+      "howToAvoid": "Politely decline photo requests from strangers, or if you help, be extremely careful with their device and have witnesses present."
+    },
+    {
+      "name": "Overpriced Tourist Goods",
+      "risk": "low",
+      "description": "Vendors in tourist areas charge inflated prices for items like stroopwafels or souvenirs, claiming tourist specials.",
+      "howToAvoid": "Compare prices at multiple stalls, shop at established stores with listed prices, and pay with exact change to avoid shortchanging."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Maastricht ranks 12th safest in Netherlands for solo female travelers with a 4.3/5 safety rating. Women report feeling very safe walking alone, even at night, with the city center particularly well-monitored. The main concerns are minor bike theft and occasional harassment, but violent incidents are extremely rare.",
+    "tips": [
+      "Stay in well-lit central areas like the historic center and university quarter",
+      "Trust your instincts if anyone makes you uncomfortable and move to populated areas",
+      "Use official transport options and avoid unlicensed taxis, especially late at night"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Maastricht maintains strong nighttime safety with well-lit streets and regular police patrols in central areas. The historic center and university district remain active with good visibility after dark. Some outer residential areas like Caberg and Malberg can feel less secure late at night.",
+    "tips": [
+      "Stick to main streets and avoid shortcuts through parks or quiet side streets after midnight",
+      "The Markt square area has permanent police presence that enhances safety",
+      "Use bikes or public transport rather than walking alone in outer neighborhoods after dark"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system - Maastricht uses an extensive bus network operated by Arriva covering the city and regional connections.",
+    "rideshare": "Uber availability is limited - traditional licensed taxis are more common and reliable for visitors.",
+    "taxis": "Licensed taxis available at train station and airport, must be called rather than hailed. Always ensure meter is running to avoid overcharging.",
+    "tips": "Public transport is excellent and very safe with modern buses and regular service. The OV-chipkaart travel card works throughout the Netherlands."
+  },
+  "customs": [
+    "Dutch people are very punctual - arrive exactly on time for appointments and social gatherings",
+    "Personal space is highly valued - avoid overly familiar behavior until invited, maintain appropriate distance",
+    "Direct communication is preferred - Dutch people appreciate honesty and straightforward conversation over excessive politeness"
+  ],
+  "health": {
+    "overview": "Netherlands has one of Europe's top healthcare systems, ranking 2nd on the Euro Health Consumer Index. Maastricht UMC+ is a world-class academic hospital providing excellent medical care.",
+    "water": "Tap water is completely safe to drink and of high quality throughout Maastricht.",
+    "vaccinations": "No special vaccinations required for travel to Netherlands beyond routine immunizations.",
+    "altitude": "Sea level location with temperate maritime climate. No altitude or extreme weather health concerns."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "112 (emergency) / 0900-8844 (non-emergency)",
+    "ambulance": "112",
+    "fire": "112",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Amsterdam: +31 (0) 70 310-2209"
+  },
+  "faq": [
+    {
+      "q": "Is Maastricht safe for tourists?",
+      "a": "Yes, very safe. Maastricht has one of the lowest crime rates in Netherlands with a Crime Index of only 21.4. Violent crime against tourists is extremely rare, and the city has excellent police coverage and emergency services."
+    },
+    {
+      "q": "Is Maastricht safe at night?",
+      "a": "Generally yes, especially in central areas. The historic center and university district are well-lit with regular patrols. Exercise normal caution in outer residential areas after midnight and stick to main streets."
+    },
+    {
+      "q": "Is Maastricht safe for solo female travelers?",
+      "a": "Excellent for solo women, ranking 12th safest in Netherlands. Female travelers report feeling very comfortable walking alone day and night. Main concerns are minor bike theft and occasional harassment, but serious incidents are very rare."
+    },
+    {
+      "q": "What areas should I avoid in Maastricht?",
+      "a": "No areas are particularly dangerous, but exercise extra caution in outer districts like Caberg and Malberg late at night. The city center, university area, and Wyck district are consistently safe at all hours."
+    },
+    {
+      "q": "Is it safe to use public transport in Maastricht?",
+      "a": "Very safe. Arriva buses are modern, well-maintained, and regularly monitored. The transport network connects safely to other Dutch cities and regional destinations with excellent safety records."
+    }
+  ],
+  "relatedCities": [
+    "amsterdam",
+    "rotterdam",
+    "utrecht",
+    "eindhoven",
+    "the-hague",
+    "groningen"
+  ],
+  "_city_id": "maastricht-netherlands",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Maastricht_sunset.jpg/1280px-Maastricht_sunset.jpg"
+}

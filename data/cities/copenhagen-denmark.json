@@ -5,8 +5,8 @@
   "countryCode": "DK",
   "region": "Europe",
   "regionSlug": "europe",
-  "lastUpdated": "2026-03-07",
-  "overallScore": 8.3,
+  "lastUpdated": "2026-03-25",
+  "overallScore": 8.6,
   "verdict": "Generally Safe",
   "badgeLabel": "Generally Safe",
   "badgeClass": "safe",
@@ -14,146 +14,142 @@
     "pettyCrime": 7.5,
     "violentCrime": 9.0,
     "scamRisk": 8.0,
-    "womensSafety": 9.2,
+    "womensSafety": 9.5,
     "nightSafety": 8.5,
-    "transport": 8.8,
-    "naturalHazards": 7.4
+    "transport": 9.0,
+    "naturalHazards": 9.0
   },
-  "summary": "Copenhagen is consistently ranked as one of the world's safest cities, with Denmark ranking 8th globally for safety. The city features extremely low violent crime rates, excellent public transport, and high safety standards for solo female travelers. While petty crime like pickpocketing occurs in tourist areas, serious incidents are rare.",
-  "quickVerdict": "Copenhagen is exceptionally safe for tourists, with low crime rates, reliable public transportation, and a strong safety infrastructure. The US State Department issues only a Level 2 advisory for Denmark (Exercise Increased Caution) primarily due to general terrorism concerns across Europe. Violent crime is extremely rare, and the city's well-lit streets, efficient emergency services, and progressive culture make it ideal for all types of travelers, including solo female visitors.",
+  "summary": "Copenhagen is one of Europe's safest capitals, ranking first globally on the Women, Peace and Security Index 2026. The city enjoys low crime rates, excellent public transport safety, and a generally peaceful atmosphere conducive to tourism.",
+  "quickVerdict": "Copenhagen consistently ranks as one of the world's safest cities, making it an excellent choice for all types of travelers. While petty crime like pickpocketing exists in tourist areas and bicycle theft is common, violent crime is extremely rare. The city's efficient 24/7 public transport, well-lit streets, and Danish culture of respect and tolerance create a secure environment. Solo female travelers particularly benefit from Denmark's top ranking for women's safety worldwide.",
   "neighborhoods": [
     {
-      "name": "Inner City (Indre By)",
-      "score": 8.8,
+      "name": "Indre By (City Center)",
+      "score": 8.5,
       "class": "safe",
-      "description": "The historic city center with major attractions like Nyhavn and Strøget. Well-patrolled and lit, though pickpocketing can occur near Central Station and tourist hotspots."
+      "description": "The historic center is very safe with frequent police presence and good lighting. Tourist areas like Nyhavn and Strøget can be crowded and attract pickpockets, but violent crime is rare."
     },
     {
       "name": "Østerbro",
-      "score": 9.2,
+      "score": 9.0,
       "class": "safe",
-      "description": "Upscale residential area known for parks and waterfront. Extremely safe with low crime rates and family-friendly atmosphere."
-    },
-    {
-      "name": "Vesterbro",
-      "score": 8.0,
-      "class": "safe",
-      "description": "Trendy district with vibrant nightlife and the Meatpacking District. Generally safe but more lively, with occasional minor incidents around bars and clubs."
+      "description": "Family-friendly district known for excellent safety. Home to the Little Mermaid statue and Fælledparken, with wide roads, beautiful gardens, and a calm residential atmosphere."
     },
     {
       "name": "Frederiksberg",
       "score": 9.0,
       "class": "safe",
-      "description": "Independent municipality within Copenhagen known for upscale neighborhoods, wide roads, and beautiful gardens. Very safe residential area."
+      "description": "Independent municipality within Copenhagen with excellent safety record. Features wide roads, beautiful gardens, and upscale residential areas with very low crime rates."
+    },
+    {
+      "name": "Vesterbro",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy neighborhood that has transformed from a gritty area to one of Copenhagen's hippest districts. Well-lit streets and active nightlife contribute to safety, though some areas near Central Station can be rougher."
     },
     {
       "name": "Nørrebro",
-      "score": 6.5,
+      "score": 5.5,
       "class": "caution",
-      "description": "Multicultural area with some gang activity, particularly around Blågårds Plads. While generally safe during the day, visitors should exercise caution at night."
+      "description": "Multicultural and vibrant area with generally good safety, but certain parts around Blågårds Plads have higher crime rates related to gang activity. Use extra caution at night."
     },
     {
       "name": "Christiania",
-      "score": 5.0,
-      "class": "caution",
-      "description": "Self-proclaimed autonomous district known for cannabis trade. Photography is prohibited on Pusher Street, and visitors should avoid the area after dark."
+      "score": 4.0,
+      "class": "danger",
+      "description": "Self-governing district with unique atmosphere but notable safety concerns due to historical drug trade. Photography is forbidden, and visitors should avoid the area at night and not seek illegal substances."
     }
   ],
   "scams": [
     {
       "name": "Fake Police Scam",
       "risk": "medium",
-      "description": "Scammers pose as plainclothes police asking tourists to show identification and money, claiming drug investigations. They work in groups of 2-3 people.",
-      "howToAvoid": "Always ask for proper police ID and badge numbers. Real Danish police will provide identification readily. Report suspicious encounters immediately."
+      "description": "Scammers pose as police officers, often working in groups of 2-3, approaching tourists and demanding to see money or conducting fake drug checks. They may show fake IDs quickly.",
+      "howToAvoid": "Real police will show proper ID slowly and never ask to see your money. Contact police on 114 to verify. Never show cash to anyone claiming to be police on the street."
     },
     {
-      "name": "Charity Petition Scam",
+      "name": "Pickpocketing Teams",
       "risk": "medium",
-      "description": "Fake charity workers approach tourists with petitions or requests for donations, using distraction techniques while accomplices pickpocket belongings.",
-      "howToAvoid": "Politely decline to sign petitions or donate to street solicitors. Keep valuables secure and be aware of your surroundings in tourist areas."
+      "description": "Professional pickpockets work in pairs at Central Station, Strøget shopping street, and Nyhavn. One person distracts while the other steals from bags or pockets.",
+      "howToAvoid": "Keep valuables in hotel safe, use zipped bags worn in front, don't hang bags on chair backs in cafes. Stay alert in crowded tourist areas."
     },
     {
-      "name": "Bike Theft",
-      "risk": "high",
-      "description": "Copenhagen's bike culture makes bicycle theft the most common crime. Rental bikes and poorly secured bicycles are frequent targets.",
-      "howToAvoid": "Always use both frame locks and additional chain locks when renting bikes. Park in well-lit areas and use designated bike parking whenever possible."
-    },
-    {
-      "name": "Street Gambling",
+      "name": "Fake Charity Solicitors",
       "risk": "low",
-      "description": "Three-shell games and other street gambling scams occasionally appear on Strøget Street, designed to quickly drain tourists' money.",
-      "howToAvoid": "Never participate in street gambling games. These are always rigged, and participants work together to deceive tourists."
+      "description": "People approach tourists asking for signatures or donations for fake charities, especially in busy tourist areas. May become persistent or aggressive.",
+      "howToAvoid": "Politely decline and walk away. Don't provide personal information or money to unsolicited charity workers on the street."
+    },
+    {
+      "name": "Overcharging Taxi Drivers",
+      "risk": "low",
+      "description": "Occasional overcharging by taxi drivers, particularly for airport routes or late-night rides. Some may quote prices then switch currencies mid-ride.",
+      "howToAvoid": "Use official taxi apps, agree on fares before boarding, research average costs in advance. Prefer ride-sharing apps where fares are set in advance."
     }
   ],
   "soloFemale": {
-    "overview": "Copenhagen is outstanding for solo female travelers, consistently ranking as one of the world's safest cities for women. Denmark tops the Women, Peace and Security Index 2025-26, with Copenhagen offering excellent gender equality, reliable public transport, and strong social safety nets. Sexual harassment is extremely rare due to the progressive culture, and women regularly cycle, walk, and use public transport safely at all hours.",
+    "overview": "Copenhagen is exceptional for solo female travelers, with Denmark ranking first globally on the 2026 Women, Peace and Security Index. The city's culture makes sexual harassment very uncommon, and women regularly cycle to work, walk home after dinner, and move through public spaces safely at any hour.",
     "tips": [
-      "The metro and buses run 24/7 and are completely safe for women traveling alone, even late at night",
-      "Danish culture highly respects women's independence - dining alone or exploring solo is completely normal and accepted",
-      "Stay in neighborhoods like Østerbro, Frederiksberg, or Inner City for maximum safety and walkability",
-      "Trust your instincts around Christiania and some parts of Nørrebro, especially after dark",
-      "Emergency services are excellent - call 112 for emergencies or 114 for non-urgent police matters"
+      "The metro runs 24/7 and is very safe even at night with good lighting and security presence",
+      "Streets are well-lit and heavily populated even after dark, making evening walks comfortable",
+      "Danish culture strongly respects women's independence and safety",
+      "English is widely spoken, making navigation and emergency communication easy"
     ]
   },
   "nightSafety": {
-    "overview": "Copenhagen's nightlife is remarkably safe with well-lit streets, active police presence, and a culture of responsible drinking. The city transforms into an atmospheric destination after dark, with canals, historic buildings, and entertainment districts remaining safe for exploration. Violence is extremely rare, and public transport operates 24/7 with consistent safety standards.",
+    "overview": "Copenhagen is very safe at night with well-lit streets, reliable 24/7 public transport, and active nightlife areas that enhance security rather than create risk. The city's extensive police patrols and CCTV monitoring in nightlife areas provide additional safety.",
     "tips": [
-      "The Meatpacking District and Vesterbro offer vibrant nightlife with good security and police presence",
-      "Stick to well-lit main streets and avoid poorly lit alleys, though serious crime is still very rare",
-      "Public transport runs all night - metros every 7-15 minutes and night buses provide safe transport options",
-      "Emergency services respond quickly - Copenhagen has excellent ambulance and police response times",
-      "Danish drinking culture is generally responsible, but stay aware of your surroundings and drink responsibly"
+      "Vesterbro's Meatpacking District offers vibrant nightlife with good security and police presence",
+      "Avoid isolated areas and stick to well-populated entertainment districts",
+      "Use official transport options rather than unmarked taxis when returning from nights out",
+      "Be aware of your alcohol consumption as excessive drinking can make you a target for petty crime"
     ]
   },
   "transport": {
-    "metro": "Copenhagen's metro system is world-class, running 24/7 with trains every 1.5-2 minutes during peak hours and 3-6 minutes off-peak. The system is fully automated, wheelchair accessible, and extremely safe with excellent lighting and security cameras. All stations have elevators and the trains are level with platforms.",
-    "rideshare": "Uber returned to Copenhagen in January 2025 after several years' absence, now operating in the capital region. Bolt is also available as a reliable alternative. Both services operate under strict Danish regulations ensuring driver verification and vehicle safety standards.",
-    "taxis": "Traditional taxis are regulated, safe, and honest but expensive. Use official apps like DanTaxi or Taxi 4×35, or hail clearly marked cabs with visible taxi meters and license numbers. Unmarked vehicles should be avoided.",
-    "tips": "Public transport is the best option - efficient, safe, and environmentally friendly. The Copenhagen Card includes unlimited transport. Cycling is incredibly popular and safe with 380km of dedicated bike lanes, though bike theft is common so always use proper locks."
+    "metro": "The Copenhagen Metro operates 24/7 with excellent safety record. Fully automated trains run every 2-6 minutes during day, 7-15 minutes at night. Well-lit stations with security presence and CCTV monitoring.",
+    "rideshare": "Uber operates safely in Copenhagen alongside local ride-sharing options. All drivers are vetted and the app provides trip tracking and fare transparency.",
+    "taxis": "Official taxis are regulated and generally safe and honest. Use official taxi apps when ordering to avoid overcharging. Look for taxis with roof signs and visible license numbers inside.",
+    "tips": "Public transport is extremely safe and efficient. The Rejsekort electronic card system works across all transport modes. Bikes can be taken on trains and harbor buses but need tickets on metro during peak hours."
   },
   "customs": [
     "Punctuality is highly valued - always arrive on time for appointments and social gatherings",
-    "Personal space is important - maintain respectful distance and use firm handshakes rather than hugs or kisses",
-    "Tipping is not expected as service charges are included, though small tips for exceptional service are appreciated",
-    "Remove shoes when entering Danish homes and bring small gifts like flowers or wine when invited to dinner",
-    "Danish directness should not be mistaken for rudeness - Danes communicate honestly and expect the same",
-    "Respect bike lanes and always wait for pedestrian crossing signals, even when no traffic is visible",
-    "The concept of hygge emphasizes coziness and quality time - embrace Denmark's relaxed, comfortable social atmosphere"
+    "Respect personal space and use firm handshakes for greetings rather than hugging or cheek-kissing",
+    "Embrace 'hygge' culture - the Danish concept of creating warm, cozy atmospheres and enjoying life's simple pleasures",
+    "Follow the Law of Jante - avoid boasting about achievements and maintain humility and modesty",
+    "Remove shoes when entering Danish homes and bring small gifts like flowers or wine when invited for dinner"
   ],
   "health": {
-    "overview": "Denmark has one of the world's best healthcare systems with universal coverage and high-quality medical care. Copenhagen hospitals are modern and well-equipped, with medical professionals who speak excellent English. The city poses minimal health risks to visitors.",
-    "water": "Tap water in Copenhagen is among the world's highest quality, coming from deep underground reservoirs and undergoing daily testing. It's completely safe to drink and environmentally friendly to use instead of bottled water.",
-    "vaccinations": "No special vaccinations are required for Denmark. Standard travel vaccinations (MMR, DPT, flu) are recommended. EU citizens should carry European Health Insurance Cards for coverage.",
-    "climate": "Copenhagen has a temperate oceanic climate with mild summers and cool winters. No altitude concerns. Winter months can be wet and windy, while summers are pleasant but can see sudden weather changes."
+    "overview": "Denmark has excellent healthcare facilities with modern, fully-equipped hospitals throughout Copenhagen. Medical standards are very high and most medical professionals speak English fluently.",
+    "water": "Copenhagen tap water is among the highest quality in the world, coming from deep underground reservoirs with daily testing. Safe to drink directly from taps anywhere in the city.",
+    "vaccinations": "No special vaccinations required for Denmark. Ensure routine vaccinations are up to date, particularly measles-mumps-rubella (MMR) due to increased global measles cases.",
+    "altitude": "Copenhagen is at sea level with a temperate oceanic climate. Winters can be cold and dark with potential for seasonal affective disorder, while summers are mild and pleasant."
   },
   "emergency": {
     "general": "112",
     "police": "114 (non-emergency)",
     "ambulance": "112",
     "fire": "112",
-    "touristPolice": "N/A - use 114",
-    "usEmbassy": "US Embassy Copenhagen: +45 33 41 71 00, located at Dag Hammarskjölds Allé 24, 2100 Copenhagen. For medical emergencies call 1813 to speak with nurses/doctors before going to hospital emergency departments."
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Copenhagen, Dag Hammarskjölds Allé 24, 2100 Copenhagen. Phone: +45 3341 7100. Provides consular services for American citizens."
   },
   "faq": [
     {
       "q": "Is Copenhagen safe for tourists?",
-      "a": "Yes, Copenhagen is extremely safe for tourists. Denmark ranks as the 8th safest country globally, with very low crime rates and excellent emergency services. Violent crime against tourists is virtually non-existent, though basic precautions against pickpocketing in tourist areas are wise."
+      "a": "Yes, Copenhagen is one of the world's safest cities for tourists. Crime rates are low, public transport is excellent, and violent crime against tourists is extremely rare. Basic precautions against pickpocketing in crowded areas are sufficient."
     },
     {
       "q": "Is Copenhagen safe at night?",
-      "a": "Copenhagen is very safe at night with well-lit streets, active nightlife districts, and 24/7 public transport. The city has low violent crime rates and good police presence in entertainment areas. Solo travelers, including women, regularly move around safely after dark."
+      "a": "Copenhagen is very safe at night with well-lit streets, active nightlife, and 24/7 public transport. The city has extensive police patrols and CCTV monitoring in nightlife areas, making evening exploration comfortable and secure."
     },
     {
       "q": "Is Copenhagen safe for solo female travelers?",
-      "a": "Copenhagen is outstanding for solo female travelers, ranking among the world's safest cities for women. Denmark tops global women's safety indices, with excellent gender equality, safe public transport, and a culture that completely normalizes women traveling and dining alone."
+      "a": "Absolutely. Copenhagen is exceptional for solo female travelers, with Denmark ranking first globally for women's safety. Sexual harassment is very uncommon, and women regularly move through the city independently at all hours."
     },
     {
       "q": "What areas should I avoid in Copenhagen?",
-      "a": "Copenhagen is generally very safe, but exercise extra caution in parts of Nørrebro (especially around Blågårds Plads) due to occasional gang activity, and in Christiania, particularly Pusher Street and after dark. The areas around Central Station can see more pickpocketing but aren't dangerous."
+      "a": "Most of Copenhagen is very safe. Exercise extra caution in parts of Nørrebro around Blågårds Plads due to gang activity, avoid Christiania's Pusher Street at night, and be alert for pickpockets in crowded tourist areas like Central Station and Strøget."
     },
     {
       "q": "Is it safe to use public transport in Copenhagen?",
-      "a": "Public transport in Copenhagen is extremely safe and reliable. The metro runs 24/7 with excellent safety records, and buses and trains are clean, well-maintained, and monitored. The system is fully accessible and considered one of the world's best urban transport networks."
+      "a": "Yes, Copenhagen's public transport is extremely safe and operates 24/7. The metro, buses, and S-trains are well-maintained, monitored, and used safely by millions annually. Even night services maintain high safety standards."
     }
   ],
   "relatedCities": [
@@ -161,7 +157,8 @@
     "oslo",
     "helsinki",
     "amsterdam",
-    "berlin"
+    "vienna"
   ],
-  "_city_id": "copenhagen-denmark"
+  "_city_id": "copenhagen-denmark",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/1280px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg"
 }
