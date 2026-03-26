@@ -1,0 +1,158 @@
+{
+  "slug": "byron-bay",
+  "name": "Byron Bay",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 6.6,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 5.0,
+    "violentCrime": 6.0,
+    "scamRisk": 6.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 7.0
+  },
+  "summary": "Byron Bay is generally safe for tourists but faces higher crime rates than many NSW areas. The relaxed surf town atmosphere masks significant property crime issues, with theft, assault, and drug-related incidents occurring regularly. While violent crime against tourists is relatively rare, the area experiences more criminal activity than typical Australian coastal destinations.",
+  "quickVerdict": "Byron Bay offers a unique bohemian beach experience but requires caution due to elevated crime rates. The town ranks in the bottom 8% of NSW suburbs for safety, with high rates of property crime, theft, and alcohol-related incidents. While popular with backpackers and solo travelers, visitors should remain vigilant, secure belongings, and avoid isolated areas after dark. The friendly surf culture and tourist infrastructure provide some security, but the area's reputation as a party destination brings associated risks.",
+  "neighborhoods": [
+    {
+      "name": "Byron Bay CBD",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Central tourist area with highest crime concentration. Main Beach vicinity sees frequent theft, alcohol-related incidents, and occasional violence. Well-lit but crowded areas attract both tourists and opportunistic criminals."
+    },
+    {
+      "name": "Suffolk Park",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Quieter residential area south of Byron Bay with significantly lower crime rates. Popular with families and offering beach access without central Byron's intensity. Safer for accommodation and evening activities."
+    },
+    {
+      "name": "Belongil Beach Area",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Beachside residential zone with moderate safety levels. Less crowded than Main Beach but still experiences property crime. Good for accommodation but requires standard precautions."
+    },
+    {
+      "name": "Arts & Industry Estate",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Light industrial area with creative spaces and cafes. Generally safe during day but poorly lit at night. Mixed commercial and arts venues create varied foot traffic patterns."
+    },
+    {
+      "name": "Ewingsdale",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Rural residential area inland from Byron Bay, home to Byron Central Hospital. Lower density development with minimal crime incidents but limited transport options."
+    },
+    {
+      "name": "Wategos Beach",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Upmarket beachside area near lighthouse with lower crime rates than CBD. Generally safe but isolated location requires caution after dark. Popular walking area with good natural surveillance during day."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Boutique Clothing Scams",
+      "risk": "high",
+      "description": "Fraudulent online stores claiming to be Byron Bay boutiques sell poor quality items shipped from overseas, using fake local business credentials and closing-down sale tactics to create urgency.",
+      "howToAvoid": "Only buy from physical stores or verified websites. Check business registration and reviews. Avoid deals that seem too good to be true or pressure you to buy immediately."
+    },
+    {
+      "name": "Accommodation Booking Fraud",
+      "risk": "high",
+      "description": "Scammers create fake vacation rental listings using stolen photos of Byron Bay properties, collecting deposits for accommodations that don't exist or aren't available for rent.",
+      "howToAvoid": "Book through established platforms with payment protection. Verify property exists via Google Street View. Never transfer money directly to individuals or pay the full amount upfront."
+    },
+    {
+      "name": "Tour and Activity Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed operators offer overpriced or substandard tours, surf lessons, or adventure activities, sometimes using high-pressure sales tactics on tourists in popular areas.",
+      "howToAvoid": "Research operators online before booking. Check licenses and insurance. Compare prices from multiple providers. Book through official tourism centers when possible."
+    },
+    {
+      "name": "Free WiFi Data Theft",
+      "risk": "medium",
+      "description": "Criminals set up fake WiFi hotspots in busy tourist areas like beaches and cafes to steal personal data, passwords, and financial information from unsuspecting travelers.",
+      "howToAvoid": "Only connect to official WiFi networks from verified businesses. Use VPN for sensitive activities. Avoid accessing banking or personal accounts on public WiFi."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Byron Bay is generally welcoming to solo female travelers with a strong backpacker community and tourist infrastructure, though some travelers report issues with predatory behavior. The relaxed atmosphere and female-friendly hostels provide good support networks, but the party scene and elevated crime rates require extra caution.",
+    "tips": [
+      "Stay in female-only dorm hostels with good security ratings and fellow female travelers for networking and safety",
+      "Avoid walking alone after dark, especially around nightlife areas and the CBD where alcohol-related incidents are common",
+      "Be cautious of overly friendly strangers and trust your instincts - some female travelers report uncomfortable encounters"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Byron Bay nightlife carries moderate risks with 61% of assaults being alcohol-related and 46% of crimes occurring between 6 PM and 6 AM. The town has active nightlife with good police presence in central areas, but venues can become rowdy and the party atmosphere attracts troublemakers.",
+    "tips": [
+      "Stay in well-lit, busy areas around Jonson Street where there's natural surveillance and police presence",
+      "Avoid excessive drinking and watch your drinks - alcohol is involved in majority of violent incidents",
+      "Travel in groups when possible and use rideshare or taxis rather than walking alone after midnight"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Byron Bay relies on buses, taxis, and private transport for getting around the region.",
+    "rideshare": "Uber operates reliably throughout Byron Bay and surrounding areas. Local companies like Byro offer competitive alternatives with good safety standards and licensed drivers.",
+    "taxis": "Byron Bay Taxis have operated locally for 30+ years with professional service. Maxi taxis and luxury hire cars available. Some independent operators may overcharge tourists, so agree on fares beforehand.",
+    "tips": "Public transport is limited but safe. Walking and cycling work well in town center. For airport transfers, use established companies with good reviews rather than random offers."
+  },
+  "customs": [
+    "Tipping is not expected but appreciated for exceptional service - round up bills or add 10% at restaurants",
+    "Dress casually but respectfully - beachwear is fine at beaches and cafes but not in shops or restaurants",
+    "Respect Aboriginal cultural sites and always ask permission before photographing local indigenous people or sacred areas"
+  ],
+  "health": {
+    "overview": "Byron Bay has good healthcare facilities with the new Byron Central Hospital providing 24/7 emergency services, ambulatory care, and specialized treatments. Medical costs can be high for visitors without insurance.",
+    "water": "Tap water is safe to drink throughout Byron Bay and meets Australian quality standards. Bottled water unnecessary unless preferred.",
+    "vaccinations": "No special vaccinations required. Standard travel insurance recommended. Ensure routine vaccinations are up to date.",
+    "altitude": "Coastal location at sea level with subtropical climate. Can be humid and hot in summer. UV levels are high year-round requiring sun protection."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000 or 131 444 (non-emergency)",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consulate General Sydney: +61 2 9373 9200. Located at MLC Centre, Level 10, 19-29 Martin Place, Sydney NSW 2000. 24/7 emergency assistance for US citizens."
+  },
+  "faq": [
+    {
+      "q": "Is Byron Bay safe for tourists?",
+      "a": "Byron Bay is moderately safe but has higher crime rates than many NSW areas. Tourist-focused crimes like theft and scams occur regularly, but violent crime against visitors is less common. Stay aware of surroundings and secure belongings."
+    },
+    {
+      "q": "Is Byron Bay safe at night?",
+      "a": "Byron Bay has moderate nighttime risks with 46% of crimes occurring between 6 PM-6 AM. The CBD has good lighting and police presence, but alcohol-related incidents are common. Avoid walking alone after midnight and stick to busy, well-lit areas."
+    },
+    {
+      "q": "Is Byron Bay safe for solo female travelers?",
+      "a": "Byron Bay welcomes solo female travelers with good hostel infrastructure and backpacker community. However, some report predatory behavior and the elevated crime rates require extra caution, especially around nightlife areas."
+    },
+    {
+      "q": "What areas should I avoid in Byron Bay?",
+      "a": "Avoid isolated areas after dark, especially around Arts & Industry Estate. The CBD has highest crime concentration but is generally safer due to activity and lighting. Stay cautious around late-night venues and party areas."
+    },
+    {
+      "q": "Is it safe to use public transport in Byron Bay?",
+      "a": "Public transport is limited but generally safe. Local buses, established taxi companies, and rideshare services like Uber operate reliably. Walking and cycling work well in town center during daylight hours."
+    }
+  ],
+  "relatedCities": [
+    "gold-coast",
+    "noosa",
+    "cairns"
+  ],
+  "_city_id": "byron-bay-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Byron_Bay_Lighthouse%2C_Beach_and_Hinterland_in_the_Northern_Rivers%2C_NSW%2C_Australia.jpg/1280px-Byron_Bay_Lighthouse%2C_Beach_and_Hinterland_in_the_Northern_Rivers%2C_NSW%2C_Australia.jpg"
+}

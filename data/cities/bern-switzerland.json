@@ -1,0 +1,162 @@
+{
+  "slug": "bern",
+  "name": "Bern",
+  "country": "Switzerland",
+  "countryCode": "CH",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.4,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.8,
+    "violentCrime": 9.2,
+    "scamRisk": 8.1,
+    "womensSafety": 9.0,
+    "nightSafety": 8.3,
+    "transport": 9.1,
+    "naturalHazards": 7.4
+  },
+  "summary": "Bern is Switzerland's exceptionally safe capital city, consistently ranking among Europe's most secure destinations with a violent crime rate of only 8.8 per 1,000 residents. The medieval UNESCO World Heritage Old Town combines historic charm with modern safety infrastructure and efficient public services.",
+  "quickVerdict": "Bern is an exceptionally safe destination for all travelers, including solo women and families. Switzerland's capital maintains very low crime rates with excellent emergency services, reliable public transport, and a strong rule of law. While petty crime like pickpocketing can occur in tourist areas and transportation hubs, violent crime is extremely rare. The city offers excellent healthcare, professional police services, and a welcoming environment for international visitors.",
+  "neighborhoods": [
+    {
+      "name": "Old Town (Altstadt)",
+      "score": 8.7,
+      "class": "safe",
+      "description": "UNESCO World Heritage site with excellent lighting, frequent police presence, and heavy tourist foot traffic. Very safe day and night with charming medieval architecture."
+    },
+    {
+      "name": "City Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Business and shopping district around Bahnhofplatz with excellent public safety infrastructure, CCTV coverage, and constant activity during business hours."
+    },
+    {
+      "name": "Kirchenfeld",
+      "score": 8.3,
+      "class": "safe",
+      "description": "Upscale residential area with museums and embassies. Very quiet and secure with low crime rates and well-maintained streets."
+    },
+    {
+      "name": "Länggasse",
+      "score": 8.0,
+      "class": "safe",
+      "description": "University district with student population. Generally safe but can be livelier at night with student activity and nightlife venues."
+    },
+    {
+      "name": "Hauptbahnhof Area",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Main train station vicinity with some homeless individuals and occasional drug activity at night. Generally safe but requires standard urban precautions after dark."
+    },
+    {
+      "name": "Lorraine",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Trendy district with bars and restaurants. Safe during the day with good lighting, though some areas may feel less secure late at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "White Van Speaker Scam",
+      "risk": "medium",
+      "description": "Groups approach tourists from unmarked white vans claiming to have surplus or discounted speakers and audio equipment for immediate sale.",
+      "howToAvoid": "Avoid anyone selling goods from vans. Never purchase electronics from street vendors or unsolicited sellers."
+    },
+    {
+      "name": "Pickpocketing at Transport Hubs",
+      "risk": "medium",
+      "description": "Organized groups work at train stations and tram stops, often using distraction techniques while accomplices steal belongings.",
+      "howToAvoid": "Keep valuables secure in inner pockets or money belts. Stay alert at crowded stations and when boarding public transport."
+    },
+    {
+      "name": "Fake Police/Authority Scam",
+      "risk": "low",
+      "description": "Individuals posing as police ask to see wallets or documents. This scam was more common in Geneva but can occasionally occur.",
+      "howToAvoid": "Real police will show proper ID. If in doubt, ask to go to a police station or call 112 to verify their identity."
+    },
+    {
+      "name": "Friendship Bracelet/Gift Scam",
+      "risk": "low",
+      "description": "Scammers offer free friendship bracelets or small gifts, then demand money or use the interaction to pickpocket victims.",
+      "howToAvoid": "Politely decline any unsolicited gifts or items. Keep walking and avoid engaging with aggressive street vendors."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Bern is exceptionally safe for solo female travelers, ranking among the world's top destinations for women traveling alone. The city has a 4.2 out of 5 safety rating for solo women, with harassment being extremely rare and locals generally respectful of personal boundaries. Women can comfortably explore attractions, use public transport, and dine alone.",
+    "tips": [
+      "Take standard precautions in parks after dark, though violent crime is extremely rare",
+      "The train station area can have some homeless individuals at night but is generally safe with good lighting",
+      "Public transport is completely safe at all hours with excellent security and frequent services",
+      "Hotel staff and tourism police speak English and are very helpful to solo travelers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Bern maintains high safety standards at night with excellent street lighting, regular police patrols, and low crime rates. The Old Town and city center are particularly safe with good visibility and foot traffic. Even late at night, violent crime is extremely rare, though standard urban precautions are recommended.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty parks late at night",
+      "The Hauptbahnhof area may have some homeless individuals but remains generally safe",
+      "Night buses (Moonliner) operate Thursday to Saturday for safe late-night transport",
+      "Emergency services respond quickly with average response times of 10-15 minutes"
+    ]
+  },
+  "transport": {
+    "metro": "Bern doesn't have a metro system but has an excellent integrated network of trams, buses, and S-Bahn regional trains. The tram network has 5 lines operating since 1890 with frequent, punctual service.",
+    "rideshare": "Uber operates in Bern and other ride-sharing apps are available, particularly for airport transfers. These services are reliable and safe, though expensive compared to public transport.",
+    "taxis": "Taxis are safe but expensive and difficult to hail on streets. Use official taxi stands at the station or major hotels. Drivers are professional and licensed.",
+    "tips": "Public transport is exceptionally safe, reliable, and punctual. The Bern Ticket provides free local transport when staying in official accommodations. Always validate tickets to avoid fines during frequent inspections."
+  },
+  "customs": [
+    "Swiss people value punctuality - arrive on time for appointments and expect public transport to run exactly on schedule",
+    "Keep noise levels low in public spaces and on transport - Swiss culture emphasizes consideration for others",
+    "Tipping is not mandatory but 5-10% is appreciated in restaurants if service is good; round up taxi fares to the nearest franc"
+  ],
+  "health": {
+    "overview": "Switzerland has one of the world's best healthcare systems with excellent hospitals in Bern and surrounding areas. Medical care meets the highest international standards but is expensive for tourists.",
+    "water": "Tap water is completely safe to drink throughout Bern and often tastes better than bottled water. Public fountains provide free, high-quality drinking water.",
+    "vaccinations": "No special vaccinations are required for entry. Routine vaccines like MMR, flu, and COVID-19 boosters are recommended. Tick-borne encephalitis vaccination may be considered for extensive outdoor activities.",
+    "altitude": "Bern sits at 540 meters elevation, so altitude sickness is not a concern. The climate is temperate with cold winters and mild summers."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "117",
+    "ambulance": "144",
+    "fire": "118",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Bern: +41-31-357-7011, located at Sulgeneckstrasse 19. Provides 24/7 emergency assistance to US citizens and maintains regular consular services."
+  },
+  "faq": [
+    {
+      "q": "Is Bern safe for tourists?",
+      "a": "Yes, Bern is exceptionally safe for tourists with very low crime rates and excellent public safety infrastructure. It consistently ranks among Europe's safest capital cities with professional emergency services and helpful local authorities."
+    },
+    {
+      "q": "Is Bern safe at night?",
+      "a": "Bern is very safe at night with excellent street lighting, regular police patrols, and active nightlife in safe areas. The Old Town and city center remain secure, though standard precautions like staying on main streets are recommended."
+    },
+    {
+      "q": "Is Bern safe for solo female travelers?",
+      "a": "Absolutely. Bern ranks as one of the world's safest destinations for solo women with a 4.2/5 safety rating. Harassment is extremely rare, and women can confidently explore attractions, use public transport, and dine alone at any time."
+    },
+    {
+      "q": "What areas should I avoid in Bern?",
+      "a": "There are no truly dangerous areas in Bern. The Hauptbahnhof area at night may have some homeless individuals, and some parks should be avoided late at night, but violent crime is extremely rare throughout the city."
+    },
+    {
+      "q": "Is it safe to use public transport in Bern?",
+      "a": "Public transport in Bern is exceptionally safe and reliable. Trams, buses, and trains operate punctually with excellent security. The system is clean, well-maintained, and safe to use at all hours, including night bus services."
+    }
+  ],
+  "relatedCities": [
+    "zurich",
+    "basel",
+    "geneva",
+    "lucerne",
+    "vienna"
+  ],
+  "_city_id": "bern-switzerland",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Bundeshaus_Bern_2009%2C_Flooffy.jpg"
+}

@@ -3530,3 +3530,47 @@
 2026-03-26 19:52:34,968 [INFO] Merged into site data: Rovinj
 2026-03-26 19:52:35,086 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-26 19:52:35,150 [INFO] Rebuilt sitemap with 713 URLs (563 cities, 144 countries, 6 static)
+2026-03-26 23:00:11,634 [INFO] Agent starting — mode: add
+2026-03-26 23:00:11,674 [INFO] Queue has 18 cities, adding 8
+2026-03-26 23:00:11,675 [INFO] Generating new city profile: Zadar, Croatia
+2026-03-26 23:01:56,648 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:01:56,850 [INFO] Found Wikipedia image for Zadar
+2026-03-26 23:01:56,851 [INFO] Saved city data: zadar-croatia
+2026-03-26 23:01:56,856 [INFO] Generating new city profile: Pula, Croatia
+2026-03-26 23:03:12,651 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:03:12,812 [INFO] Found Wikipedia image for Pula
+2026-03-26 23:03:12,812 [INFO] Saved city data: pula-croatia
+2026-03-26 23:03:12,816 [INFO] Generating new city profile: Tartu, Estonia
+2026-03-26 23:04:26,256 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:04:26,561 [INFO] Found Wikipedia image for Tartu
+2026-03-26 23:04:26,562 [INFO] Saved city data: tartu-estonia
+2026-03-26 23:04:26,567 [INFO] Generating new city profile: Kaunas, Lithuania
+2026-03-26 23:06:00,932 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:06:01,148 [INFO] Found Wikipedia image for Kaunas
+2026-03-26 23:06:01,149 [INFO] Saved city data: kaunas-lithuania
+2026-03-26 23:06:01,153 [INFO] Generating new city profile: Jurmala, Latvia
+2026-03-26 23:07:35,263 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:07:35,566 [INFO] Found Wikipedia image for Jurmala
+2026-03-26 23:07:35,566 [INFO] Saved city data: jurmala-latvia
+2026-03-26 23:07:35,571 [INFO] Generating new city profile: Bern, Switzerland
+2026-03-26 23:08:51,008 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:08:51,197 [INFO] Found Wikipedia image for Bern
+2026-03-26 23:08:51,197 [INFO] Saved city data: bern-switzerland
+2026-03-26 23:08:51,202 [INFO] Generating new city profile: Canberra, Australia
+2026-03-26 23:10:22,253 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:10:22,452 [INFO] Found Wikipedia image for Canberra
+2026-03-26 23:10:22,452 [INFO] Saved city data: canberra-australia
+2026-03-26 23:10:22,457 [INFO] Generating new city profile: Byron Bay, Australia
+2026-03-26 23:11:46,572 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-26 23:11:46,748 [INFO] Found Wikipedia image for Byron Bay
+2026-03-26 23:11:46,749 [INFO] Saved city data: byron-bay-australia
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Zadar
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Pula
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Tartu
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Kaunas
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Jurmala
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Bern
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Canberra
+2026-03-26 23:11:46,811 [INFO] Merged into site data: Byron Bay
+2026-03-26 23:11:46,918 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-26 23:11:46,976 [INFO] Rebuilt sitemap with 721 URLs (571 cities, 144 countries, 6 static)

@@ -1,0 +1,167 @@
+{
+  "slug": "canberra",
+  "name": "Canberra",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.0,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.8,
+    "violentCrime": 8.5,
+    "scamRisk": 7.5,
+    "womensSafety": 8.2,
+    "nightSafety": 7.3,
+    "transport": 8.0,
+    "naturalHazards": 8.7
+  },
+  "summary": "Canberra, Australia's capital city, is one of the safest cities in Australia with low crime rates and excellent infrastructure. The city offers a peaceful environment with reliable public transport, well-lit streets, and strong police presence. While generally very safe, visitors should still exercise normal precautions, especially at night in less populated areas.",
+  "quickVerdict": "Canberra is an exceptionally safe destination for tourists, consistently ranking among Australia's safest cities with a crime rate of just 19%. The capital enjoys strong government oversight, excellent public services, and a well-educated population working in the public sector. While petty crimes like car break-ins occur occasionally in busy nightlife areas like Braddon and Civic, violent crime is rare. The city's comprehensive CCTV network, regular police patrols, and community safety programs contribute to its excellent safety record.",
+  "neighborhoods": [
+    {
+      "name": "Inner South (Barton, Forrest, Yarralumla)",
+      "score": 9.2,
+      "class": "safe",
+      "description": "The safest area in Canberra housing diplomatic missions, Parliament, and national institutions. Features enhanced security infrastructure, well-maintained streets, and proximity to major attractions. Ideal for accommodation with minimal crime risk."
+    },
+    {
+      "name": "Civic Centre",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main commercial and entertainment hub with good daytime safety but increased activity at night. Well-patrolled area with CCTV coverage, though some alcohol-related incidents occur on weekends. Generally safe for tourists during regular hours."
+    },
+    {
+      "name": "New Acton",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern precinct with trendy restaurants, bars, and accommodation. Safe area with good lighting and regular foot traffic. Popular with visitors and locals, offering a vibrant atmosphere with minimal safety concerns."
+    },
+    {
+      "name": "Braddon",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Trendy inner-north area known for nightlife and dining. Higher incidence of car break-ins and minor assaults, especially after dark due to concentrated nightlife activity. Generally safe during day but requires extra caution at night."
+    },
+    {
+      "name": "Belconnen",
+      "score": 6.2,
+      "class": "caution",
+      "description": "Large commercial and residential district with higher than average incident rates including burglaries and vehicle theft. While generally safe during day, avoid quieter areas at night and secure valuables properly."
+    },
+    {
+      "name": "Civic at Night",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Central business district becomes quieter after hours with reduced foot traffic. While not dangerous, can feel eerie when empty. Increased alcohol-related incidents on weekends, but police presence and CCTV provide adequate security."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overcharging by Service Providers",
+      "risk": "medium",
+      "description": "Some taxi drivers, restaurant staff, or shop owners may overcharge tourists, especially around major attractions. This includes giving incorrect change or claiming meters are broken.",
+      "howToAvoid": "Always ask for the meter to be turned on in taxis, check bills carefully, familiarize yourself with local prices, and use official taxi ranks or rideshare apps like Uber."
+    },
+    {
+      "name": "Fake Police Scam",
+      "risk": "low",
+      "description": "Rare instances of people posing as police officers approaching tourists to check ID or claim drug money searches. Real ACT Police rarely conduct random street checks.",
+      "howToAvoid": "Ask for proper identification, request to see their police badge number, offer to call 000 to verify their identity, or suggest moving to the nearest police station for any checks."
+    },
+    {
+      "name": "Photography Scam",
+      "risk": "low",
+      "description": "Someone asks you to take their photo, then deliberately drops their camera and blames you for breaking it, demanding compensation for an expensive device.",
+      "howToAvoid": "Be cautious when strangers approach with expensive equipment, inspect the camera before agreeing, or politely decline and suggest they ask someone else."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Card skimming devices placed on ATMs to steal card information, sometimes accompanied by fake helpful locals offering to help avoid bank fees.",
+      "howToAvoid": "Use ATMs inside banks or major shopping centers, cover your PIN when entering it, check for unusual devices on card slots, and avoid accepting help from strangers at ATMs."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Canberra is exceptionally safe for solo female travelers, ranking as one of Australia's safest capitals. The city features well-lit streets, reliable public transport, regular police patrols, and a welcoming community atmosphere. Most areas are safe for women traveling alone, though standard precautions should be taken at night in less populated areas. The CBR NightCrew program provides additional safety support during evening hours.",
+    "tips": [
+      "Use well-lit main streets when walking at night",
+      "Take advantage of the light rail and bus services which are considered very safe",
+      "Stay in the Inner South or Civic areas which have the best lighting and foot traffic",
+      "Consider using Shebah rideshare service which employs only female drivers",
+      "Join the local Facebook groups for solo female travelers for tips and meetups"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Canberra is generally safe at night, though the city center can feel quiet and somewhat empty after business hours. Most crimes occur in nightlife areas like Braddon and Civic during weekend evenings, typically alcohol-related incidents. The CBR NightCrew program operates Thursday to Saturday nights providing safety assistance in entertainment districts. Well-lit main roads and regular police patrols help maintain security.",
+    "tips": [
+      "Stay on well-lit main streets and avoid poorly lit back streets",
+      "Use official taxi ranks or rideshare apps rather than hailing random cabs",
+      "Keep valuables secure and avoid displaying expensive items",
+      "Travel in groups when possible, especially in nightlife areas",
+      "Be aware that public transport reduces frequency after 11 PM on weekends"
+    ]
+  },
+  "transport": {
+    "metro": "Canberra's light rail connects Gungahlin to the City via major hotels and dining precincts, operating every 5-15 minutes. The system is modern, clean, and considered very safe with CCTV coverage and regular security patrols.",
+    "rideshare": "Uber, Ola, DiDi, and local operator GoCatch all operate in Canberra. Shebah offers female-only drivers for women passengers. Canberra was the first Australian city to regulate ridesharing, ensuring good standards.",
+    "taxis": "Licensed taxis are reliable but must be booked by phone/app or picked up from designated ranks - they rarely stop when hailed. All taxis accept card payments and are regulated by ACT Government.",
+    "tips": "Public transport is free on Fridays. Most buses and light rail have accessibility features. Stick to the left on escalators. MyWay card works for both buses and light rail."
+  },
+  "customs": [
+    "Australians value punctuality - arrive on time for appointments but being 10-15 minutes late to casual social gatherings is acceptable",
+    "Always say please and thank you - politeness is highly valued and using these words is essential in all interactions",
+    "Tipping is not expected or required - service staff earn fair wages, though 10% is appreciated for exceptional service",
+    "When invited to someone's home, ask if you should bring something and it's customary to bring beer or wine",
+    "Australians are informal - use first names even in professional settings and avoid formal titles unless specifically requested"
+  ],
+  "health": {
+    "overview": "Canberra has excellent healthcare facilities including Canberra Hospital and numerous medical clinics. The city experiences a temperate climate with four distinct seasons. Air quality can be affected by bushfire smoke during summer months, particularly impacting those with respiratory conditions.",
+    "water": "Tap water is safe to drink throughout Canberra and meets high Australian standards. No need to purchase bottled water for health reasons.",
+    "vaccinations": "No special vaccinations required for Canberra beyond routine immunizations. Standard travel vaccines like hepatitis A/B may be recommended for international travelers.",
+    "altitude": "Canberra sits at 550 meters above sea level. No altitude-related health concerns. Climate ranges from hot summers (up to 35°C) to cold winters (down to -8°C) with occasional snow."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000 or 131 444 for non-emergencies",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy located at Moonah Place, Yarralumla. Emergency American Citizen Services: +61-2-6214-5600. After hours: +61-2-6214-5600"
+  },
+  "faq": [
+    {
+      "q": "Is Canberra safe for tourists?",
+      "a": "Yes, Canberra is one of Australia's safest cities with low crime rates and excellent infrastructure. The city has strong police presence, comprehensive CCTV networks, and well-lit streets. Violent crime is rare, though petty crimes like car break-ins can occur in busy areas."
+    },
+    {
+      "q": "Is Canberra safe at night?",
+      "a": "Canberra is generally safe at night, though the city center can feel quiet after business hours. Most nighttime incidents are alcohol-related and occur in entertainment districts on weekends. Stick to well-lit main streets and use official transport options."
+    },
+    {
+      "q": "Is Canberra safe for solo female travelers?",
+      "a": "Yes, Canberra is exceptionally safe for solo female travelers. The city has excellent lighting, reliable public transport, regular patrols, and community safety programs. Women-only rideshare services are available, and most areas are safe to navigate alone."
+    },
+    {
+      "q": "What areas should I avoid in Canberra?",
+      "a": "While Canberra is generally safe, exercise extra caution in Braddon and Civic late at night during weekends due to nightlife-related incidents. Outer suburbs like Kambah and some parts of Belconnen have higher property crime rates, though they're not dangerous."
+    },
+    {
+      "q": "Is it safe to use public transport in Canberra?",
+      "a": "Yes, public transport in Canberra is very safe and reliable. Buses and light rail have CCTV coverage, regular cleaning, and are well-maintained. The system is less crowded than other major cities, and Transport Canberra staff are helpful and professional."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "melbourne",
+    "brisbane",
+    "perth",
+    "adelaide",
+    "darwin"
+  ],
+  "_city_id": "canberra-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/1280px-Canberra_panorama_from_Mount_Ainslie.jpg"
+}

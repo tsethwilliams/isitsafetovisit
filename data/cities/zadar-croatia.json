@@ -1,0 +1,158 @@
+{
+  "slug": "zadar",
+  "name": "Zadar",
+  "country": "Croatia",
+  "countryCode": "HR",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 9.0,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 8.0,
+    "transport": 8.0,
+    "naturalHazards": 8.5
+  },
+  "summary": "Zadar is one of Croatia's safest coastal cities, with exceptionally low violent crime rates and well-developed tourist infrastructure. The historic Old Town is particularly safe for visitors day and night.",
+  "quickVerdict": "Zadar is a very safe destination for tourists with minimal crime concerns. Violent crime is exceptionally rare, and most safety issues are limited to minor pickpocketing in crowded tourist areas like the Sea Organ and overpriced services at waterfront restaurants. The city maintains a Level 1 US travel advisory status, indicating travelers should exercise normal precautions. With reliable public transport, good healthcare facilities, and a welcoming local population, Zadar offers visitors a secure environment to explore Croatia's rich history and stunning coastline.",
+  "neighborhoods": [
+    {
+      "name": "Old Town Peninsula",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The historic center with Roman ruins, Sea Organ, and Sun Salutation. Well-patrolled and very safe day and night, though pickpockets may target crowded tourist areas."
+    },
+    {
+      "name": "Borik Peninsula",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Popular resort area with hotels, beaches, and family accommodations. Safe area with good lighting and regular security presence."
+    },
+    {
+      "name": "City Center/Relja",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern commercial district with shops, restaurants, and local amenities. Safe area with normal urban precautions recommended."
+    },
+    {
+      "name": "Diklo",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Residential neighborhood east of the center with some tourist accommodations. Generally safe but less tourist-oriented infrastructure."
+    },
+    {
+      "name": "Arbanasi",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Coastal suburb with beaches and residential areas. Safe neighborhood with occasional late-night noise from bars."
+    },
+    {
+      "name": "Puntamika",
+      "score": 7.2,
+      "class": "safe",
+      "description": "Western peninsula with mix of residential and tourist areas. Safe but more isolated, requiring basic precautions at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Overpriced Waterfront Dining",
+      "risk": "medium",
+      "description": "Restaurants with prime Sea Organ views charge inflated prices for mediocre food without clearly displayed pricing.",
+      "howToAvoid": "Check menus and prices before sitting down, read online reviews, and consider dining slightly away from main waterfront."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers quote flat rates instead of using meters or take longer routes to increase fares.",
+      "howToAvoid": "Insist on using the meter, ask for receipt as required by law, or use ride-sharing apps like Uber or Bolt."
+    },
+    {
+      "name": "Fake Photo Request Scam",
+      "risk": "low",
+      "description": "Someone asks you to take their photo, then deliberately drops their camera and demands payment for 'damage'.",
+      "howToAvoid": "Politely decline to take photos for strangers, especially those who appear to be locals rather than tourists."
+    },
+    {
+      "name": "Vague Tour Offerings",
+      "risk": "medium",
+      "description": "Boat tours or excursions with unclear pricing, itineraries, or services that don't match what was promised.",
+      "howToAvoid": "Book through established companies, read reviews thoroughly, get written confirmation of services and prices before paying."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Zadar is very safe for solo female travelers with low harassment rates and a welcoming atmosphere. Women can comfortably walk around the Old Town and main areas at night, though basic awareness is always recommended. The local culture is respectful toward women, and English is widely spoken in tourist areas.",
+    "tips": [
+      "Stay in well-lit areas of Old Town when walking at night",
+      "Use official taxis or ride-sharing apps rather than accepting rides from strangers",
+      "Keep emergency contacts and embassy information easily accessible"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Zadar's nightlife areas, particularly around the Old Town and Borik Peninsula, are very safe with good lighting and regular security presence. Violent crime is extremely rare, and the main concerns are typical of any tourist destination such as pickpocketing or overcharging at bars.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "Be cautious of inflated drink prices at some bars and clubs",
+      "Use licensed taxis or ride-sharing apps for late-night transportation"
+    ]
+  },
+  "transport": {
+    "metro": "Zadar has no metro system.",
+    "rideshare": "Uber and Bolt operate in Zadar with transparent pricing and good availability, offering a reliable alternative to traditional taxis.",
+    "taxis": "Licensed taxis are available but more expensive than buses. Always ensure the driver uses the meter or agree on fare beforehand. Drivers must provide receipts by law.",
+    "tips": "Public buses run by Liburnija are safe, affordable (1.30-1.50 EUR), and cover the city well. The airport shuttle costs around 5 EUR and takes 20-25 minutes to reach the center."
+  },
+  "customs": [
+    "Greet with a firm handshake and maintain eye contact; close friends may exchange cheek kisses",
+    "Dress neatly when visiting churches - cover shoulders and knees, women may need head scarves in Orthodox churches",
+    "Accept offers of coffee or food when visiting locals as refusing may be seen as rejecting hospitality"
+  ],
+  "health": {
+    "overview": "Croatia has good healthcare standards with adequate facilities in major cities. The European Health Insurance Card (EHIC) is valid for EU citizens, though travel insurance is recommended for all visitors.",
+    "water": "Tap water in Zadar is perfectly safe to drink and of high quality. Bring a reusable bottle to refill.",
+    "vaccinations": "No special vaccinations required for Croatia. Routine vaccines should be up to date.",
+    "altitude": "Zadar is at sea level with a Mediterranean climate. Summers are hot and dry (80s F), winters mild. UV protection recommended during summer."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "192",
+    "ambulance": "194",
+    "fire": "193",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Zagreb: +385-1-661-2200, Ulica Thomasa Jeffersona 2, Zagreb. Emergency after hours: +385-1-661-2300"
+  },
+  "faq": [
+    {
+      "q": "Is Zadar safe for tourists?",
+      "a": "Yes, Zadar is very safe for tourists with low crime rates and excellent tourist infrastructure. Violent crime is extremely rare, and most safety concerns are limited to minor pickpocketing in crowded areas."
+    },
+    {
+      "q": "Is Zadar safe at night?",
+      "a": "Yes, Zadar is very safe at night, especially in the Old Town and main tourist areas which are well-lit and regularly patrolled. Standard precautions apply, but serious crime is not a concern."
+    },
+    {
+      "q": "Is Zadar safe for solo female travelers?",
+      "a": "Absolutely. Zadar is considered very safe for solo female travelers with low harassment rates and a respectful local culture. Women can walk safely in tourist areas day and night with basic awareness."
+    },
+    {
+      "q": "What areas should I avoid in Zadar?",
+      "a": "There are no particularly dangerous areas in Zadar to avoid. The city is uniformly safe, though visitors should exercise normal caution in less touristy residential areas and be aware of inflated prices near major attractions."
+    },
+    {
+      "q": "Is it safe to use public transport in Zadar?",
+      "a": "Yes, public transport in Zadar is very safe and reliable. Buses are well-maintained and cover the city efficiently. Taxis are safe but more expensive, while ride-sharing apps offer good alternatives."
+    }
+  ],
+  "relatedCities": [
+    "split",
+    "dubrovnik",
+    "rijeka"
+  ],
+  "_city_id": "zadar-croatia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Roman_Forum_in_Zadar%2C_Croatia_%2848607823862%29.jpg/1280px-Roman_Forum_in_Zadar%2C_Croatia_%2848607823862%29.jpg"
+}

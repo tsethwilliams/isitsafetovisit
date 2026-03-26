@@ -1,0 +1,165 @@
+{
+  "slug": "kaunas",
+  "name": "Kaunas",
+  "country": "Lithuania",
+  "countryCode": "LT",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.0,
+    "violentCrime": 8.5,
+    "scamRisk": 6.5,
+    "womensSafety": 7.8,
+    "nightSafety": 6.5,
+    "transport": 8.0,
+    "naturalHazards": 9.0
+  },
+  "summary": "Kaunas is Lithuania's second-largest city and is considered very safe for tourists with low crime rates and a welcoming atmosphere. The city has experienced a significant decrease in crime rates and received European Capital of Culture status in 2022, enhancing its reputation as a safe destination. Most travelers report feeling secure both during the day and at night in central areas.",
+  "quickVerdict": "Kaunas is an exceptionally safe destination for travelers with crime rates that have notably decreased in recent years. Lithuania ranks as having the second-lowest reported cases of crime, violence, and vandalism in the EU according to EUROSTAT data. The city is compact and walkable with excellent safety infrastructure, modern transportation options, and helpful locals who often speak English. While petty crimes like pickpocketing can occur in tourist areas and some drunk behavior near bars should be avoided at night, violent crime is extremely rare and the city has no dangerous neighborhoods or ghettos.",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic center with Kaunas Castle and City Hall Square is very safe and well-patrolled. Main nightlife hub with bars and restaurants, generally secure but watch for drunk individuals late at night."
+    },
+    {
+      "name": "New Town (Laisvės Alėja)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The main pedestrian avenue with shops, cafes, and cultural sites. Very safe during the day with good lighting and foot traffic. Well-maintained area perfect for tourists."
+    },
+    {
+      "name": "Centras",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The central business district with shopping centers and restaurants. Bustling area with good safety infrastructure, ideal for tourists seeking modern amenities."
+    },
+    {
+      "name": "Šilainiai",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Modern residential area known for contemporary architecture and well-lit streets. Considered very safe especially for solo female travelers due to good lighting and infrastructure."
+    },
+    {
+      "name": "Vilijampolė",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Residential area across the river with higher reported crime rates. Best avoided at night and exercise caution when visiting during the day, though serious incidents remain rare."
+    },
+    {
+      "name": "Panemunė",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Scenic area near the Nemunas River offering beautiful natural surroundings. Generally safe for outdoor activities and recreation, popular with nature enthusiasts."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Market Price Inflation",
+      "risk": "medium",
+      "description": "Vendors at Central Market and near Laisvės Alėja inflate prices for tourists, charging up to 15 EUR for items locals buy for 5 EUR, using rapid negotiations in broken English.",
+      "howToAvoid": "Compare prices at multiple stalls, ask for receipts, shop at established stores with fixed prices, learn basic Lithuanian phrases like 'Kiek tai kainuoja?' and set personal spending limits."
+    },
+    {
+      "name": "ATM Skimming",
+      "risk": "medium",
+      "description": "Criminals install skimming devices on ATMs in shopping areas, capturing card details and using hidden cameras to record PINs, potentially leading to unauthorized withdrawals.",
+      "howToAvoid": "Use ATMs inside banks or hotels, cover your PIN when entering, check for unusual devices attached to card slots, monitor your accounts regularly for suspicious activity."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "low",
+      "description": "Some taxi drivers from unofficial stands refuse to use meters or charge inflated fares, especially targeting tourists at transport hubs like the airport or train station.",
+      "howToAvoid": "Use ride-sharing apps like Bolt or eTaksi, agree on price beforehand if using street taxis, avoid unmarked vehicles, and ask hotels to call reputable taxi companies."
+    },
+    {
+      "name": "Distraction Pickpocketing",
+      "risk": "low",
+      "description": "Thieves work in pairs using distractions like asking for directions or bumping into tourists to steal wallets or phones from pockets or bags near tourist attractions.",
+      "howToAvoid": "Use cross-body bags with secure zippers, keep valuables in front pockets or money belts, stay aware of your surroundings, and politely decline unsolicited help from strangers."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Kaunas is very safe for solo female travelers with most women reporting feeling comfortable walking alone both day and night. The city ranks third safest in Lithuania for solo female travelers with a 4.2 out of 5 safety rating. Lithuania has some of the lowest crime rates in the EU, and locals are generally respectful and helpful. The main concerns are drunk individuals near bars in the evening and avoiding less populated areas after dark.",
+    "tips": [
+      "Stick to well-lit main streets and avoid empty courtyards or parks at night",
+      "Be cautious around bars and nightlife areas where drunk men may make comments or be pushy",
+      "Use reputable taxi services like Bolt or eTaksi rather than walking alone very late at night",
+      "Stay in well-reviewed accommodations in central areas like Old Town or New Town",
+      "Keep emergency contacts handy and inform someone of your plans when exploring"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Kaunas is generally safe at night with 52% of residents and visitors feeling fully secure during nighttime hours. The main nightlife areas in Old Town around Vilniaus Street and City Hall Square are well-trafficked and patrolled. However, it's advisable to stick to main commercial districts and avoid dimly lit parks, quiet residential streets, or industrial zones after dark. Public transport operates less frequently at night, so taxis or ride-sharing are recommended for late-night travel.",
+    "tips": [
+      "Stay in well-lit areas and main commercial districts like Old Town and Laisvės Alėja",
+      "Avoid shortcuts through parks, alleys, or the Vilijampolė neighborhood at night",
+      "Use Bolt or eTaksi for transportation after midnight rather than walking long distances",
+      "Be cautious around drunk individuals near bars and clubs, especially on weekends",
+      "Travel in groups when possible and always inform someone of your whereabouts"
+    ]
+  },
+  "transport": {
+    "metro": "Kaunas has no metro system. Public transport consists of buses and trolleybuses that run efficiently during the day but operate less frequently at night.",
+    "rideshare": "Bolt is the most popular and recommended ride-sharing app in Kaunas, offering transparent pricing and reliable service. Uber operates but has limited availability. Both apps accept card payments and provide tracking features.",
+    "taxis": "Traditional taxis are available at designated stands and can be hailed on the street. Use licensed services and ensure the meter is running. Hotel staff can call reputable companies. eTaksi app connects to local taxi companies.",
+    "tips": "Public transport uses an honor system but has frequent plainclothes inspectors with steep on-the-spot fines. Always validate tickets or use the Trafi app for digital purchases. For airport transfers, bus 29G is economical while taxis cost 20-25 EUR to city center."
+  },
+  "customs": [
+    "Lithuanians can appear reserved initially but are warm and helpful once engaged - don't take initial formality personally",
+    "When dining, always make eye contact during toasts and it's rude to refuse second helpings when eating with locals",
+    "Bring odd numbers of flowers when visiting homes as even numbers are associated with funerals and death"
+  ],
+  "health": {
+    "overview": "Lithuania has a modern healthcare system that meets European standards. Medical facilities in urban centers like Kaunas are well-equipped and many staff speak English. EU citizens can use EHIC cards for emergency treatment.",
+    "water": "Tap water in Kaunas is safe to drink and undergoes regular testing. The water quality is excellent throughout urban areas, though bottled water is available if preferred.",
+    "vaccinations": "Routine vaccinations should be up to date. Consider hepatitis A and B, tick-borne encephalitis for outdoor activities, and ensure MMR, DPT, and influenza vaccines are current.",
+    "altitude": "Lithuania is mostly flat so altitude is not a concern. Climate varies seasonally - summers can be warm requiring sun protection and hydration, winters are cold requiring appropriate clothing. Ticks in forests can carry Lyme disease so use repellent in natural areas."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "02",
+    "ambulance": "03",
+    "fire": "01",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Vilnius: +370 5 266-5600, Emergency After-Hours: +370 5 266-5500, Address: Akmenu Gatve 6, Vilnius LT-03106"
+  },
+  "faq": [
+    {
+      "q": "Is Kaunas safe for tourists?",
+      "a": "Yes, Kaunas is very safe for tourists. Lithuania has the second-lowest reported cases of crime, violence, and vandalism in the EU. The city has experienced decreased crime rates and most visitors report feeling secure throughout their stay."
+    },
+    {
+      "q": "Is Kaunas safe at night?",
+      "a": "Kaunas is generally safe at night, especially in central areas like Old Town and Laisvės Alėja. Stick to well-lit main streets, avoid parks and quiet residential areas after dark, and be cautious around drunk individuals near bars and clubs."
+    },
+    {
+      "q": "Is Kaunas safe for solo female travelers?",
+      "a": "Yes, Kaunas ranks as the third safest place in Lithuania for solo female travelers with a 4.2/5 safety rating. Women report feeling comfortable walking alone during the day and most feel safe at night in central areas with basic precautions."
+    },
+    {
+      "q": "What areas should I avoid in Kaunas?",
+      "a": "The Vilijampolė neighborhood has higher crime rates and should be avoided especially at night. Also avoid dimly lit parks, industrial zones, and quiet residential streets after dark. The main tourist areas are all very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Kaunas?",
+      "a": "Yes, public transport in Kaunas is safe and reliable. Buses and trolleybuses run on schedule with plainclothes inspectors checking tickets. Always validate your ticket or use digital apps. For late night travel, use Bolt or taxis instead."
+    }
+  ],
+  "relatedCities": [
+    "vilnius",
+    "tallinn",
+    "riga",
+    "warsaw",
+    "helsinki",
+    "stockholm"
+  ],
+  "_city_id": "kaunas-lithuania",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kauno_senamiestis_by_Augustas_Didzgalvis.jpg/1280px-Kauno_senamiestis_by_Augustas_Didzgalvis.jpg"
+}
