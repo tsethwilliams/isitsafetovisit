@@ -5,157 +5,154 @@
   "countryCode": "CZ",
   "region": "Europe",
   "regionSlug": "europe",
-  "lastUpdated": "2026-03-12",
-  "overallScore": 8.1,
+  "lastUpdated": "2026-03-26",
+  "overallScore": 8.4,
   "verdict": "Generally Safe",
   "badgeLabel": "Generally Safe",
   "badgeClass": "safe",
   "scores": {
-    "pettyCrime": 8.0,
-    "violentCrime": 8.5,
-    "scamRisk": 7.5,
-    "womensSafety": 8.2,
-    "nightSafety": 8.0,
-    "transport": 7.8,
-    "naturalHazards": 8.5
+    "pettyCrime": 8.5,
+    "violentCrime": 9.2,
+    "scamRisk": 7.0,
+    "womensSafety": 8.8,
+    "nightSafety": 8.2,
+    "transport": 8.9,
+    "naturalHazards": 8.3
   },
-  "summary": "Cesky Krumlov is one of the safest destinations in Europe, with very low crime rates and minimal tourist-targeted incidents. The medieval town experiences occasional crowding during summer months but maintains excellent security standards. Natural disaster risks are minimal, with only occasional flooding concerns.",
-  "quickVerdict": "This UNESCO World Heritage town is exceptionally safe for tourists, with violent crime virtually non-existent and petty crime rare. The Czech Republic maintains Level 1 travel advisory status, and local police report consistently declining crime rates. Solo travelers, including women, can explore confidently with standard precautions. The main challenges are summer crowds and tourist pricing rather than safety concerns.",
+  "summary": "Cesky Krumlov is a remarkably safe UNESCO World Heritage city in the Czech Republic, with extremely low violent crime rates and a compact, walkable historic center. The biggest safety concerns are minor petty crime and tourist scams, primarily affecting visitors in the historic town center.",
+  "quickVerdict": "Cesky Krumlov ranks as one of Europe's safest tourist destinations, with the Czech Republic holding Level 1 (Exercise Normal Precautions) status from the US State Department. This fairy-tale medieval city presents minimal safety risks to travelers, with violent crime being virtually non-existent and petty crime limited to occasional pickpocketing in crowded tourist areas. The well-maintained historic center, reliable public transport, and helpful local authorities make it ideal for solo travelers, families, and women traveling alone.",
   "neighborhoods": [
     {
-      "name": "Old Town Historic Center",
-      "score": 8.2,
+      "name": "Historic Town Center",
+      "score": 8.5,
       "class": "safe",
-      "description": "The medieval heart of Cesky Krumlov with cobblestone streets, castle views, and heavy tourist presence. Well-patrolled and monitored, though crowded in summer."
+      "description": "The UNESCO World Heritage historic center is very safe with excellent police presence and tourist infrastructure. Main safety concern is pickpocketing during peak tourist seasons around major attractions like the castle and main square."
     },
     {
       "name": "Castle District",
-      "score": 8.5,
+      "score": 8.8,
       "class": "safe",
-      "description": "The elevated castle complex and surrounding area offer excellent security and stunning views. Well-maintained paths and regular security presence."
+      "description": "The castle complex and surrounding gardens are extremely safe with security staff and good lighting. Well-maintained paths and clear signage make navigation easy even at night."
     },
     {
-      "name": "Riverside Area",
-      "score": 8.0,
+      "name": "Latran District",
+      "score": 8.2,
       "class": "safe",
-      "description": "Peaceful walking areas along the Vltava River with restaurants and terraces. Generally quiet in evenings with good lighting along main paths."
+      "description": "Residential area below the castle with charming medieval streets. Very safe for walking during day and night, though some narrow cobblestone streets can be dimly lit after dark."
     },
     {
-      "name": "Latran Quarter",
-      "score": 7.8,
+      "name": "Vltava Riverfront",
+      "score": 8.7,
       "class": "safe",
-      "description": "Historic residential area between Old Town and castle. Quieter than the center with local businesses and authentic atmosphere."
+      "description": "Popular area for river activities and riverside walks. Generally very safe with good visibility, though visitors should be cautious near the water, especially after rain when paths can be slippery."
     },
     {
-      "name": "New Town District",
+      "name": "Train Station Area",
       "score": 7.5,
       "class": "safe",
-      "description": "Modern residential and commercial area outside the historic core. Less touristic with practical services and good local transport connections."
+      "description": "Located outside the historic center, this area is safe but less policed than downtown. Well-lit and regularly patrolled, but travelers should remain aware of their belongings when using public transport."
     },
     {
       "name": "Outer Residential Areas",
-      "score": 7.2,
+      "score": 8.0,
       "class": "safe",
-      "description": "Suburban neighborhoods and countryside approaches to town. Very peaceful but may have limited lighting and services after dark."
+      "description": "Quiet residential neighborhoods surrounding the historic center. Very safe with low crime rates, though less tourist infrastructure and limited evening lighting on some streets."
     }
   ],
   "scams": [
     {
-      "name": "Restaurant Overcharging",
+      "name": "Currency Exchange Scam",
       "risk": "medium",
-      "description": "Tourist-focused restaurants may inflate prices or add unexpected charges for service, bread, or condiments not clearly disclosed.",
-      "howToAvoid": "Check menus carefully, ask about additional charges upfront, and research restaurant reviews before dining. Eat where locals eat."
+      "description": "Unofficial money changers or tourist-targeted exchange offices offering poor rates or hidden fees. Some advertise favorable rates but include high commission charges in fine print.",
+      "howToAvoid": "Use official banks or ATMs for currency exchange. Always read the complete terms before exchanging money and avoid street money changers entirely."
     },
     {
-      "name": "Fake Tour Guides",
-      "risk": "low",
-      "description": "Unofficial guides approaching tourists offering private tours at inflated prices or providing inaccurate historical information.",
-      "howToAvoid": "Book tours through official channels, visitor information centers, or verified tour companies. Licensed guides have proper identification."
-    },
-    {
-      "name": "Accommodation Booking Fraud",
+      "name": "Restaurant Bill Padding",
       "risk": "medium",
-      "description": "Fake accommodation websites or listings that collect payment but provide non-existent properties, especially during peak season.",
-      "howToAvoid": "Use reputable booking platforms, verify property addresses independently, and be wary of deals that seem too good to be true."
+      "description": "Some tourist-oriented restaurants may add items you didn't order to your bill or charge excessive prices for bread or accompaniments that seem complimentary.",
+      "howToAvoid": "Check your bill carefully before paying. Ask about any items you don't recognize and confirm prices before ordering. Choose restaurants where locals eat."
     },
     {
-      "name": "Currency Exchange Tricks",
+      "name": "Overpriced Souvenir Shops",
       "risk": "low",
-      "description": "Unofficial money changers or establishments offering poor exchange rates or giving incorrect change to tourists unfamiliar with Czech crowns.",
-      "howToAvoid": "Use official banks, ATMs, or licensed exchange offices. Check current exchange rates beforehand and count change carefully."
+      "description": "Tourist shops near major attractions selling overpriced, low-quality souvenirs marketed as authentic Czech crafts.",
+      "howToAvoid": "Compare prices at multiple shops and venture away from main tourist areas for better deals. Look for genuine local crafts at markets or authentic artisan shops."
+    },
+    {
+      "name": "Fake Police Officers",
+      "risk": "low",
+      "description": "Rare instances of people posing as plainclothes police asking to check wallets or documents for counterfeit money or identification verification.",
+      "howToAvoid": "Real police will always show official identification upon request. Ask to see badge and ID, or insist on going to a police station if uncertain. Never hand over your wallet."
     }
   ],
   "soloFemale": {
-    "overview": "Cesky Krumlov is exceptionally safe for solo female travelers, with very low harassment rates and a welcoming atmosphere. The town's compact size makes navigation easy, and locals are generally helpful to tourists. Women can comfortably explore alone during day and evening hours, though standard precautions apply in quieter areas after dark.",
+    "overview": "Cesky Krumlov is exceptionally safe for solo female travelers, with very low crime rates and a welcoming atmosphere. The compact size makes navigation easy, and locals are generally helpful. Women regularly walk alone during both day and night without incident, though basic precautions should still be observed.",
     "tips": [
-      "Stay in well-reviewed accommodations in the historic center for best security and convenience",
-      "Evening strolls along the river and main streets are generally safe but avoid isolated areas",
-      "Local restaurants and cafes are welcoming to solo diners, especially those catering to tourists",
-      "Emergency services are reliable and many locals speak basic English in tourist areas"
+      "Stick to well-lit main streets when walking alone at night, particularly in the historic center",
+      "Keep valuables secure and be aware of your surroundings in crowded tourist areas during peak season",
+      "The local police are helpful and many speak English - don't hesitate to approach them if needed"
     ]
   },
   "nightSafety": {
-    "overview": "Nighttime safety in Cesky Krumlov is excellent compared to most European destinations. The historic center remains active with restaurants and bars until late, providing natural surveillance. Street lighting is good in tourist areas, though some medieval streets may have limited illumination. Violent crime at night is extremely rare.",
+    "overview": "Cesky Krumlov is very safe at night with good street lighting in the historic center and minimal criminal activity. The city's small size means you're never far from help, and the main tourist areas remain active in the evenings. Police patrol regularly and emergency services are reliable.",
     "tips": [
-      "Stick to main tourist streets and well-lit areas when walking after dark",
-      "The castle grounds close at sunset, so plan castle visits during daylight hours",
-      "Local pubs and restaurants provide safe environments for evening socializing",
-      "Hotel staff can recommend safe routes and reputable establishments for nighttime activities"
+      "Stay in well-lit areas and main streets when walking at night",
+      "Be cautious on cobblestone streets which can be slippery when wet or icy in winter",
+      "Avoid excessive alcohol consumption and always know your way back to your accommodation"
     ]
   },
   "transport": {
-    "metro": "No metro system available. Local buses connect the town to regional destinations with reliable schedules.",
-    "rideshare": "Limited rideshare availability. Uber and Bolt operate sporadically. Local taxis are more reliable for transport needs.",
-    "taxis": "Official taxis are safe and regulated. Book through hotels or call established companies rather than hailing on street.",
-    "tips": "Walking is the best way to explore the compact historic center. For longer distances, use official bus services or pre-arranged transport."
+    "metro": "Cesky Krumlov has no metro system due to its small size.",
+    "rideshare": "Limited rideshare options available. Taxi services are reliable but ensure you use licensed operators or agree on prices beforehand.",
+    "taxis": "Generally safe and reliable. Use official taxi companies rather than unmarked vehicles. Agree on fare in advance or ensure the meter is running to avoid overcharging.",
+    "tips": "The historic center is easily walkable, and public buses connect to surrounding areas safely. Train connections to Prague and other cities are reliable and secure."
   },
   "customs": [
-    "Greet shop owners and restaurant staff with 'Dobry den' when entering establishments",
-    "Remove shoes when entering Czech homes and dress modestly when visiting churches",
-    "Maintain quiet voices on public transport and in restaurants, as loud behavior is considered rude"
+    "Remove shoes when entering Czech homes - slippers are often provided for guests",
+    "Maintain quiet, respectful behavior on public transport and in public spaces",
+    "Wait for the host's invitation before sitting down and starting to eat at meals"
   ],
   "health": {
-    "overview": "Healthcare in Cesky Krumlov meets high European standards with good emergency services and English-speaking medical staff available. The nearest major hospital is in Ceske Budejovice, about 25 minutes away.",
-    "water": "Tap water is safe to drink throughout the Czech Republic. Restaurants typically serve bottled water unless tap water is specifically requested.",
-    "vaccinations": "No special vaccinations required. Ensure routine vaccinations are up to date, particularly measles-mumps-rubella and seasonal flu.",
-    "altitude": "Cesky Krumlov sits at low elevation with temperate continental climate. Summer temperatures can reach 25°C while winters drop to -5°C with possible snow."
+    "overview": "Healthcare in Cesky Krumlov meets high European standards with a local hospital and medical facilities available. No special health precautions needed beyond standard European travel recommendations.",
+    "water": "Tap water is safe to drink throughout the Czech Republic and meets EU standards.",
+    "vaccinations": "Standard European travel vaccines recommended: Hepatitis A, Hepatitis B, Measles-Mumps-Rubella (MMR), and routine vaccinations should be up to date.",
+    "altitude": "Low elevation with temperate continental climate. No altitude-related health concerns. Weather ranges from cold winters to warm summers."
   },
   "emergency": {
     "general": "112",
     "police": "158",
     "ambulance": "155",
     "fire": "150",
-    "touristPolice": "N/A",
-    "usEmbassy": "US Embassy Prague: +420-257-022-000, located at Trziste 15, Praha 1"
+    "touristPolice": "156",
+    "usEmbassy": "Prague: +420-257-022-000, Tržiště 15, 118 01 Praha 1, Czech Republic"
   },
   "faq": [
     {
       "q": "Is Cesky Krumlov safe for tourists?",
-      "a": "Yes, Cesky Krumlov is exceptionally safe with very low crime rates and excellent tourist infrastructure. Czech Republic maintains Level 1 travel advisory status with normal precautions recommended."
+      "a": "Yes, Cesky Krumlov is extremely safe for tourists with very low crime rates. The Czech Republic has a Level 1 (Exercise Normal Precautions) travel advisory, and this historic city presents minimal risks beyond typical travel precautions."
     },
     {
       "q": "Is Cesky Krumlov safe at night?",
-      "a": "Yes, the historic center is well-lit and actively patrolled. Restaurants and bars operate late providing natural surveillance. Stick to main tourist areas and use standard nighttime precautions."
+      "a": "Cesky Krumlov is very safe at night with good lighting in the historic center and regular police patrols. The compact size and active evening scene in tourist areas provide additional security, though basic precautions should still be observed."
     },
     {
       "q": "Is Cesky Krumlov safe for solo female travelers?",
-      "a": "Absolutely. Solo female travelers report feeling very safe with minimal harassment. The compact town size, helpful locals, and strong tourist infrastructure make it ideal for independent exploration."
+      "a": "Yes, solo female travelers regularly visit Cesky Krumlov without incident. The city has low crime rates, helpful locals, and excellent tourist infrastructure. Women commonly walk alone day and night, though staying in well-lit areas is advisable."
     },
     {
       "q": "What areas should I avoid in Cesky Krumlov?",
-      "a": "There are no dangerous areas, but be cautious in poorly lit outer residential areas after dark. The historic center and main tourist zones are consistently safe throughout day and night."
+      "a": "There are no specific dangerous areas to avoid in Cesky Krumlov. The entire historic center and surrounding neighborhoods are safe. Exercise standard caution around the train station area and be careful on slippery cobblestones, especially when wet."
     },
     {
       "q": "Is it safe to use public transport in Cesky Krumlov?",
-      "a": "Yes, local buses are safe and reliable. The historic center is best explored on foot due to its compact size. Taxis and pre-arranged transport are also safe options for longer distances."
+      "a": "Yes, public transport including buses and trains is safe and reliable. The city is small enough that most attractions are within walking distance, but public transport to surrounding areas operates safely with regular schedules."
     }
   ],
   "relatedCities": [
     "prague",
-    "brno",
     "vienna",
-    "salzburg",
-    "bratislava"
+    "salzburg"
   ],
-  "_city_id": "cesky-krumlov-czech-republic"
+  "_city_id": "cesky-krumlov-czech-republic",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Historic_Centre_of_%C4%8Cesk%C3%BD_Krumlov-111747.jpg/1280px-Historic_Centre_of_%C4%8Cesk%C3%BD_Krumlov-111747.jpg"
 }

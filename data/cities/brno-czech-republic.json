@@ -1,0 +1,152 @@
+{
+  "slug": "brno",
+  "name": "Brno",
+  "country": "Czech Republic",
+  "countryCode": "CZ",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.5,
+    "violentCrime": 8.5,
+    "scamRisk": 7.0,
+    "womensSafety": 8.0,
+    "nightSafety": 7.5,
+    "transport": 8.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Brno is one of the safest cities in Central Europe with very low violent crime rates and excellent public infrastructure. While petty crime like pickpocketing exists in tourist areas, the city offers a secure environment for all types of travelers with reliable emergency services and well-maintained public transport.",
+  "quickVerdict": "Brno stands out as an exceptionally safe destination for tourists, consistently ranking among the safest cities in Europe. With the Czech Republic holding a Level 1 US State Department travel advisory and Brno specifically rated highly for solo female travel, visitors can explore confidently day and night. The city's biggest safety concerns are minor - petty theft in crowded areas and occasional scams targeting tourists. The excellent public transport system, modern healthcare facilities, and minimal natural disaster risks make this a worry-free destination for travelers of all backgrounds.",
+  "neighborhoods": [
+    {
+      "name": "Old Town Center",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The historic heart is very safe with strong police presence and well-lit streets. Tourist-friendly with some risk of pickpocketing in crowded areas around major attractions."
+    },
+    {
+      "name": "Vinohrady",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Upscale residential area popular with expats and students. Excellent safety record with tree-lined streets, good lighting, and a peaceful atmosphere perfect for evening walks."
+    },
+    {
+      "name": "Veveří",
+      "score": 7.5,
+      "class": "safe",
+      "description": "University district with young, vibrant energy. Generally safe but can get lively at night due to student activities. Well-patrolled and transport-connected."
+    },
+    {
+      "name": "Žabovřesky",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Quiet residential neighborhood with good safety standards. Less tourist activity means lower crime risk, though some areas may feel isolated after dark."
+    },
+    {
+      "name": "Cejl District",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Mixed residential area that locals sometimes avoid at night. Higher concentration of social issues and some reports of harassment, though not necessarily dangerous."
+    },
+    {
+      "name": "Main Train Station Area",
+      "score": 5.0,
+      "class": "caution",
+      "description": "Transport hub with typical station-area issues including homeless populations and petty crime. Exercise normal precautions especially at night, but generally manageable with awareness."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Currency Exchange Scams",
+      "risk": "medium",
+      "description": "Inflated rates or hidden fees at tourist-area exchange offices, sometimes advertising 'no commission' but offering poor rates",
+      "howToAvoid": "Use bank ATMs or official banks for currency exchange. Always check current rates online first and read all terms carefully"
+    },
+    {
+      "name": "Fake Police Checks",
+      "risk": "low",
+      "description": "Individuals posing as police requesting to check wallets or documents, often working in teams to confuse tourists",
+      "howToAvoid": "Always ask for official badges and ID cards. Real police will have matching numbers on badge and ID. If uncertain, ask to go to nearest police station"
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "medium",
+      "description": "Adding charges for bread, condiments, or items placed on table without ordering. Some tourist restaurants may also overcharge",
+      "howToAvoid": "Ask servers to remove unwanted table items. Check menus for charges and always review bills carefully before paying"
+    }
+  ],
+  "soloFemale": {
+    "overview": "Brno is exceptionally safe for solo female travelers, ranking in the top 10 safest cities in Czech Republic for women. The city has very low rates of harassment, assault, or serious crime against women. Public transport is safe even late at night, and women regularly walk alone without issues. The main precautions involve typical urban awareness rather than gender-specific threats.",
+    "tips": [
+      "Avoid the Cejl district and train station area late at night",
+      "Use well-lit main streets and trust your instincts if something feels off",
+      "Public transport is very safe - locals use it confidently at all hours"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Brno has excellent nighttime safety with well-lit streets, regular police patrols, and a vibrant but controlled nightlife scene. The city center and popular districts remain active and safe throughout the evening. Most violent crime is extremely rare, and the biggest nighttime risks involve petty theft or overindulgence rather than serious safety threats.",
+    "tips": [
+      "Stick to main streets and well-lit areas when walking at night",
+      "The excellent night bus system provides safe transport to all parts of the city",
+      "Avoid excessive drinking and keep valuables secure in busy nightlife areas"
+    ]
+  },
+  "transport": {
+    "metro": "Brno doesn't have a metro system, but operates an excellent integrated network of trams, buses, and trolleybuses run by DPMB that covers the entire city efficiently and safely.",
+    "rideshare": "Standard rideshare apps operate normally, though the excellent public transport system often provides better value and convenience for getting around the city.",
+    "taxis": "Official taxis are reliable but ensure the meter is running. The city has good rideshare coverage and most locals prefer the efficient public transport system.",
+    "tips": "Public transport is the best option - modern, safe, and comprehensive. Contactless payment available on all vehicles. Night buses provide excellent coverage when regular services stop."
+  },
+  "customs": [
+    "Greet people with 'Dobrý den' (Good day) and learn basic Czech phrases - locals appreciate the effort",
+    "Remove shoes when entering someone's home and dress appropriately for churches and formal venues",
+    "Tipping 10% is standard in restaurants and for services - round up or leave cash on the table"
+  ],
+  "health": {
+    "overview": "Czech Republic has excellent healthcare standards ranking 14th in Europe. Brno hosts world-class medical facilities including University Hospital Brno, rated the best hospital in the country. The city is part of the European Health Insurance system and medical tourism destination.",
+    "water": "Tap water is completely safe to drink throughout Brno and meets high EU standards. Bottled water is available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required. Standard travel vaccines (MMR, DPT, flu) recommended. EU citizens can use European Health Insurance Card for coverage.",
+    "altitude": "Brno sits at low altitude (200m) with temperate continental climate. No altitude concerns. Weather ranges from cold winters to warm summers with occasional heavy rainfall."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "158",
+    "ambulance": "155",
+    "fire": "150",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Prague: +420-257-022-000, Tržiště 15, Praha 1. For emergencies: +420-257-022-000"
+  },
+  "faq": [
+    {
+      "q": "Is Brno safe for tourists?",
+      "a": "Yes, Brno is very safe for tourists with low crime rates and excellent infrastructure. It's considered one of the safest cities in Central Europe with main concerns being minor pickpocketing in tourist areas."
+    },
+    {
+      "q": "Is Brno safe at night?",
+      "a": "Brno is quite safe at night with well-lit streets, police presence, and active nightlife. The comprehensive night bus system ensures safe transport, though normal urban precautions apply."
+    },
+    {
+      "q": "Is Brno safe for solo female travelers?",
+      "a": "Absolutely. Brno ranks among the safest European cities for solo female travel with very low harassment rates and women commonly traveling alone day and night without issues."
+    },
+    {
+      "q": "What areas should I avoid in Brno?",
+      "a": "The Cejl district and immediate train station area can be sketchy at night. These aren't dangerous but may have more social issues. The city center and main districts are all very safe."
+    },
+    {
+      "q": "Is it safe to use public transport in Brno?",
+      "a": "Public transport in Brno is excellent and very safe. The modern tram, bus and trolleybus network operates reliably day and night with good security and is used confidently by all demographics."
+    }
+  ],
+  "relatedCities": [
+    "prague",
+    "vienna",
+    "bratislava"
+  ],
+  "_city_id": "brno-czech-republic",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/1280px-Brno_Montage_IV.png"
+}

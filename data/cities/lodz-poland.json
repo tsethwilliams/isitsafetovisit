@@ -1,0 +1,158 @@
+{
+  "slug": "lodz",
+  "name": "Lodz",
+  "country": "Poland",
+  "countryCode": "PL",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.0,
+    "scamRisk": 6.0,
+    "womensSafety": 7.5,
+    "nightSafety": 6.8,
+    "transport": 7.8,
+    "naturalHazards": 7.1
+  },
+  "summary": "Lodz is Poland's third-largest city and a generally safe destination for tourists with low violent crime rates and reliable public transport. The main concerns are petty theft in crowded areas and occasional transport scams, particularly targeting tourists. Poland ranks among Europe's safest countries with a Level 1 US State Department travel advisory.",
+  "quickVerdict": "Lodz offers a safe travel experience for most visitors, with Poland ranking as one of Europe's safest destinations. While violent crime is rare, travelers should remain alert for pickpocketing in busy areas like Piotrkowska Street and maintain standard urban precautions. The city has good infrastructure, reliable emergency services, and a generally respectful culture toward visitors.",
+  "neighborhoods": [
+    {
+      "name": "Piotrkowska Street Area",
+      "score": 7.5,
+      "class": "safe",
+      "description": "The main pedestrian street and nightlife hub is generally safe but watch for pickpockets during events and weekends. Well-lit with good police presence."
+    },
+    {
+      "name": "Manufaktura District",
+      "score": 8.0,
+      "class": "safe",
+      "description": "Modern shopping and entertainment complex with excellent security, CCTV coverage, and regular patrols. Very safe for tourists day and night."
+    },
+    {
+      "name": "OFF Piotrkowska",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Trendy cultural center with bars and restaurants. Good lighting and security, popular with locals and visitors. Safe for evening activities."
+    },
+    {
+      "name": "Old Tenement Areas",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Historic residential neighborhoods with some poorly lit streets and older buildings. Exercise caution at night and avoid isolated areas."
+    },
+    {
+      "name": "Central Train Station Area",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Busy transport hub with higher risk of pickpocketing and taxi scams. Remain vigilant with luggage and use official taxi services."
+    },
+    {
+      "name": "Balucki/Radogoszcz",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Industrial residential areas on city outskirts with limited tourist facilities. Higher crime rates and poor lighting make these areas best avoided at night."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unlicensed taxi drivers at train stations and tourist areas may quote inflated prices or take longer routes.",
+      "howToAvoid": "Use official taxi companies, ride-share apps like Uber or Bolt, or negotiate prices upfront. Look for company logos and meters."
+    },
+    {
+      "name": "ATM Currency Conversion",
+      "risk": "medium",
+      "description": "ATMs offer dynamic currency conversion with poor exchange rates, converting zloty to your home currency at unfavorable terms.",
+      "howToAvoid": "Always decline currency conversion and choose to be charged in Polish zloty (PLN) when using ATMs or card payments."
+    },
+    {
+      "name": "Pickpocketing Teams",
+      "risk": "high",
+      "description": "Groups work together creating distractions while accomplices steal from bags or pockets, especially on public transport and busy streets.",
+      "howToAvoid": "Keep valuables in front pockets or secure bags, stay alert in crowded areas, and be wary of artificial crowds or staged distractions."
+    },
+    {
+      "name": "Restaurant Bill Padding",
+      "risk": "low",
+      "description": "Some tourist-oriented restaurants may add items not ordered or charge for extras like bread or condiments without clear pricing.",
+      "howToAvoid": "Check prices before ordering, review bills carefully, and ask about any charges you don't recognize before paying."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Lodz is considered safe for solo female travelers, ranking among the top destinations in Europe. Women report feeling comfortable walking alone during the day and in well-lit areas at night. Polish culture is generally respectful, with low rates of harassment and helpful locals.",
+    "tips": [
+      "Stay on main streets like Piotrkowska and avoid isolated areas after dark",
+      "Use official transport apps or licensed taxis rather than hailing on the street",
+      "Dress modestly when visiting churches and maintain awareness in crowded areas"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Lodz offers relatively safe nightlife with well-lit main areas and regular police patrols. The Piotrkowska Street district and OFF Piotrkowska areas are generally safe for evening activities, though standard urban precautions apply.",
+    "tips": [
+      "Stick to busy, well-lit areas like Piotrkowska Street for nightlife",
+      "Travel in groups when possible and avoid poorly lit residential areas",
+      "Use official taxis or ride-share apps rather than walking long distances alone"
+    ]
+  },
+  "transport": {
+    "metro": "Lodz has no metro system but operates an extensive network of buses and trams from 5:00-23:00 with night services. Generally safe with occasional pickpocketing during rush hours.",
+    "rideshare": "Uber, Bolt, and FreeNow operate reliably in Lodz with English-language apps and transparent pricing. Considered safer than unofficial taxis.",
+    "taxis": "Official taxis are generally trustworthy but avoid unlicensed drivers at stations. Look for company logos and insist on meters. Expect 7zl flagfall plus 2-3zl per kilometer.",
+    "tips": "Use the Jakdojade app for public transport planning and ticket purchases. Validate tickets immediately to avoid fines."
+  },
+  "customs": [
+    "Remove shoes when entering Polish homes, even if not explicitly asked",
+    "Use formal greetings like 'Dzien dobry' and titles (Pan/Pani) until invited to use first names",
+    "Maintain eye contact when toasting and say 'Na zdrowie' (to your health) with alcoholic drinks"
+  ],
+  "health": {
+    "overview": "Lodz has adequate healthcare facilities though Poland's system ranks lower internationally. Private clinics offer better service than public hospitals.",
+    "water": "Tap water is safe to drink throughout Lodz and meets EU standards. Bottled water is widely available but unnecessary.",
+    "vaccinations": "No special vaccinations required for Poland. Standard travel insurance recommended as healthcare can be expensive for foreigners.",
+    "altitude": "Lodz is at low elevation with a temperate climate. No altitude concerns, but winters can be harsh with temperatures below freezing."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "997",
+    "ambulance": "999",
+    "fire": "998",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Embassy Warsaw: +48 22 504-2000, Aleje Ujazdowskie 29/31, Warsaw. Tourist helpline for foreigners: +48 608 599 999"
+  },
+  "faq": [
+    {
+      "q": "Is Lodz safe for tourists?",
+      "a": "Yes, Lodz is generally safe for tourists. Poland ranks among Europe's safest countries with low violent crime rates. Main concerns are pickpocketing in busy areas and minor transport scams."
+    },
+    {
+      "q": "Is Lodz safe at night?",
+      "a": "Central areas like Piotrkowska Street and Manufaktura are well-lit and patrolled, making them relatively safe at night. Avoid poorly lit residential areas and always stay aware of your surroundings."
+    },
+    {
+      "q": "Is Lodz safe for solo female travelers?",
+      "a": "Yes, Lodz is considered very safe for solo female travelers. Poland ranks 12th globally for solo female travel safety, with respectful local culture and low harassment rates."
+    },
+    {
+      "q": "What areas should I avoid in Lodz?",
+      "a": "Avoid outer residential areas like Balucki/Radogoszcz at night, and be extra cautious around the train station area. Old tenement neighborhoods can have poor lighting after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Lodz?",
+      "a": "Yes, buses and trams are generally safe and reliable. Watch for pickpockets during rush hours and validate tickets to avoid fines. Night services operate but are less frequent."
+    }
+  ],
+  "relatedCities": [
+    "warsaw",
+    "krakow",
+    "gdansk"
+  ],
+  "_city_id": "lodz-poland",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82_Zes%C5%82ania_Ducha_%C5%9Awi%C4%99tego.jpg"
+}

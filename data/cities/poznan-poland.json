@@ -1,0 +1,160 @@
+{
+  "slug": "poznan",
+  "name": "Poznan",
+  "country": "Poland",
+  "countryCode": "PL",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.7,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 7.2,
+    "violentCrime": 8.5,
+    "scamRisk": 6.8,
+    "womensSafety": 7.8,
+    "nightSafety": 7.5,
+    "transport": 8.0,
+    "naturalHazards": 8.0
+  },
+  "summary": "Poznan is one of Poland's safest major cities, consistently ranking among the country's top destinations for quality of life and security. With very low violent crime rates and well-functioning infrastructure, it offers a secure environment for tourists exploring its historic Old Town and modern attractions.",
+  "quickVerdict": "Poznan stands out as an exceptionally safe destination for travelers, ranking as Poland's third-best city for quality of life with minimal violent crime and strong public safety infrastructure. While petty crime like pickpocketing has increased with tourism growth, serious incidents remain rare. The city offers reliable public transport, quality healthcare, and helpful local police services. Solo female travelers, families, and all visitor types can explore confidently with basic urban precautions.",
+  "neighborhoods": [
+    {
+      "name": "Stare Miasto (Old Town)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "The historic heart of Poznan with medieval architecture and main attractions. Well-patrolled and generally very safe during day and evening hours, though watch for pickpockets in crowded areas around the Market Square."
+    },
+    {
+      "name": "Ostrow Tumski",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The Cathedral Island featuring Poznan's oldest buildings and religious sites. Peaceful area with minimal crime, popular with tourists and well-maintained. Safe to explore day or night."
+    },
+    {
+      "name": "Jeżyce",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Vibrant district with restaurants, cafes, and nightlife near the university. Generally safe with good police presence, though can get busy during evening hours. Recommended for dining and entertainment."
+    },
+    {
+      "name": "Grunwald",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Central district with shopping and business areas. Safe during daytime with regular police patrols. Evening safety is good on main streets, though quieter side streets require normal urban caution."
+    },
+    {
+      "name": "Nowe Miasto",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Modern residential and commercial area with shopping centers. Generally safe but can feel less vibrant in evening hours. Good transport connections and adequate lighting on main routes."
+    },
+    {
+      "name": "Debiec",
+      "score": 5.8,
+      "class": "caution",
+      "description": "Residential area on the city's outskirts with some social housing. While not dangerous, it's less touristic and may have occasional minor incidents. Visitors should exercise standard precautions, especially in evening hours."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Police Officers",
+      "risk": "medium",
+      "description": "Fraudsters posing as plainclothes police asking to see documents, wallets, or PIN numbers. They may wear convincing uniforms or claim to be checking for counterfeit money.",
+      "howToAvoid": "Real police carry proper ID badges and never ask for PIN numbers. Request to see official identification and ask to go to the nearest police station if in doubt. Call 112 to verify if uncertain."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Dishonest taxi drivers using rigged meters, taking longer routes, or claiming you didn't pay enough by switching bills. Some agree on one price then demand more at destination.",
+      "howToAvoid": "Use licensed taxi companies, rideshare apps like Bolt or Uber, or negotiate fare upfront. Always ask for receipts and pay attention when handing over money. Use official taxi ranks when possible."
+    },
+    {
+      "name": "Pickpocketing Teams",
+      "risk": "high",
+      "description": "Organized groups creating distractions in crowded areas, public transport, or tourist attractions while accomplices steal valuables. Often work around Market Square, tram stops, and busy shopping areas.",
+      "howToAvoid": "Keep valuables in secure, zipped pockets or hidden pouches. Stay alert in crowded spaces and avoid displaying expensive items. Don't let strangers distract you or get too close to your belongings."
+    },
+    {
+      "name": "Credit Card Skimming",
+      "risk": "medium",
+      "description": "Devices placed on ATMs or card readers to steal financial information, particularly targeting tourists unfamiliar with local banking. May occur at tourist-heavy locations.",
+      "howToAvoid": "Use ATMs inside banks when possible, cover PIN entry, and check for unusual devices on card readers. Monitor bank statements regularly and report suspicious activity immediately. Prefer contactless payments when available."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Poznan is very safe for solo female travelers, with locals frequently noting how comfortable women feel walking alone throughout the city. The low violent crime rates, good street lighting, and helpful local attitude create a welcoming environment. Standard urban precautions are sufficient, and harassment is uncommon compared to many European cities.",
+    "tips": [
+      "Stay on main, well-lit streets when walking alone at night, especially around the Old Town and central areas",
+      "Use official transportation options like licensed taxis, rideshare apps, or reliable public transport rather than informal arrangements",
+      "Trust your instincts and don't hesitate to seek help from police, hotel staff, or local businesses if you feel uncomfortable",
+      "Keep accommodation details private and avoid sharing travel plans with strangers or on social media while in the city"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Poznan maintains good nighttime safety with well-lit main streets, active nightlife areas, and regular police patrols. The city center and popular districts remain lively in evenings with locals and visitors. While serious incidents are rare, normal urban caution is advised, particularly in quieter areas or when using public transport late at night.",
+    "tips": [
+      "Stick to busy, well-lit areas and main streets when out after dark, avoiding empty or poorly lit side streets",
+      "Use official transportation like licensed taxis or rideshare apps rather than walking long distances alone late at night",
+      "Stay aware of your surroundings and limit alcohol consumption to maintain good judgment and situational awareness",
+      "Travel in groups when possible and let someone know your plans when heading out for evening activities"
+    ]
+  },
+  "transport": {
+    "metro": "Poznan doesn't have a traditional metro but operates an efficient tram and bus system covering the entire city. The network runs from 5:00-23:00 daily with night services available. Modern vehicles are generally safe and well-maintained.",
+    "rideshare": "Uber, Bolt, and Free Now operate reliably in Poznan with good driver vetting. These services are often preferable to street taxis and offer transparent pricing. Generally safe and convenient for tourists.",
+    "taxis": "Licensed taxis are safe but choose established companies over street hails. Some drivers may attempt overcharging tourists. Official taxi ranks at hotels and transport hubs are most reliable. Always ask for receipts.",
+    "tips": "Public transport is the most efficient way to get around Poznan. Download the Jakdojade app for real-time schedules and route planning. Always validate paper tickets to avoid fines, or use mobile payment apps for convenience."
+  },
+  "customs": [
+    "Remove shoes when entering Polish homes - hosts often provide slippers and this shows respect for their space",
+    "Greet people with firm handshakes and direct eye contact, using formal titles (Pan/Pani) with surnames until invited to use first names",
+    "Bring small gifts when visiting homes - flowers, chocolates, or quality alcohol are appreciated by hosts who take hospitality seriously"
+  ],
+  "health": {
+    "overview": "Poznan offers excellent healthcare with both public NFZ facilities and high-quality private clinics. Major hospitals provide English-speaking staff and international-standard care. EU visitors can use EHIC cards for basic coverage.",
+    "water": "Tap water is safe to drink throughout Poznan and meets EU standards. Bottled water is widely available but unnecessary for health reasons.",
+    "vaccinations": "No special vaccinations required for Poland. Routine vaccines (MMR, DPT, flu) should be up to date. Travel insurance is recommended for comprehensive coverage.",
+    "altitude": "Poznan sits at low elevation with a temperate climate. No altitude concerns, though winter temperatures can be cold with occasional snow and ice."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "997",
+    "ambulance": "999",
+    "fire": "998",
+    "touristPolice": "N/A",
+    "usEmbassy": "US Consular Agency Poznan: +48 (61) 851-8516, located at Ulica Paderewskiego 8. For major emergencies, contact US Embassy Warsaw at +48 (22) 504-2000 or US Consulate Krakow at +48 (12) 424-5100."
+  },
+  "faq": [
+    {
+      "q": "Is Poznan safe for tourists?",
+      "a": "Yes, Poznan is very safe for tourists and ranks among Poland's safest major cities. Violent crime is rare, and most incidents involve minor pickpocketing in crowded areas. The city has good infrastructure, helpful police, and a welcoming attitude toward visitors."
+    },
+    {
+      "q": "Is Poznan safe at night?",
+      "a": "Poznan is generally safe at night, especially in the city center and main tourist areas which remain well-lit and patrolled. Standard urban precautions apply - stick to main streets, avoid empty areas, and use official transportation when traveling longer distances."
+    },
+    {
+      "q": "Is Poznan safe for solo female travelers?",
+      "a": "Yes, Poznan is very safe for solo female travelers. Many women report feeling comfortable walking alone throughout the city. Harassment is uncommon, locals are helpful, and the low crime rates create a secure environment with basic precautions."
+    },
+    {
+      "q": "What areas should I avoid in Poznan?",
+      "a": "Poznan is generally safe throughout, but exercise extra caution in Debiec neighborhood which has more social housing and fewer tourist amenities. Also be alert around the main train station at night and in any poorly lit areas after dark."
+    },
+    {
+      "q": "Is it safe to use public transport in Poznan?",
+      "a": "Yes, public transport in Poznan is safe and reliable. The extensive tram and bus network is well-maintained with good security. Watch for pickpockets during busy periods and always validate tickets. Night services operate with adequate safety measures."
+    }
+  ],
+  "relatedCities": [
+    "krakow",
+    "warsaw",
+    "gdansk"
+  ],
+  "_city_id": "poznan-poland",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg/1280px-Stary_Rynek_w_Poznaniu%2C_widok_z_drona_%28cropped%29.jpg"
+}

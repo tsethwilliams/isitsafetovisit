@@ -1,0 +1,169 @@
+{
+  "slug": "canary-islands",
+  "name": "Canary Islands",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.6,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.5,
+    "violentCrime": 8.2,
+    "scamRisk": 6.0,
+    "womensSafety": 8.5,
+    "nightSafety": 7.8,
+    "transport": 8.1,
+    "naturalHazards": 7.8
+  },
+  "summary": "The Canary Islands are one of the safest destinations in Europe with very low violent crime rates and excellent tourist infrastructure. While petty crime like pickpocketing occurs in tourist areas, overall crime rates have remained at their lowest levels since 2010 despite recent increases in some categories.",
+  "quickVerdict": "The Canary Islands offer an exceptionally safe travel experience for tourists. With excellent Spanish healthcare, reliable public transport, and welcoming locals, visitors can explore these volcanic islands with confidence. The main concerns are minor - petty theft in crowded areas and tourist scams - but violent crime is extremely rare. The islands' status as part of the EU ensures high safety standards, professional emergency services, and modern infrastructure throughout the archipelago.",
+  "neighborhoods": [
+    {
+      "name": "Las Canteras Beach Area (Las Palmas)",
+      "score": 8.5,
+      "class": "safe",
+      "description": "One of Europe's top urban beaches with excellent lighting, regular police patrols, and safe walking areas. The surrounding neighborhoods of Guanarteme and La Puntilla are particularly secure with good tourist infrastructure."
+    },
+    {
+      "name": "Puerto del Carmen (Lanzarote)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "A well-developed resort town with good security, reliable transport links, and safe beachfront promenades. Popular with solo female travelers and families for its relaxed atmosphere and tourist-friendly environment."
+    },
+    {
+      "name": "Corralejo (Fuerteventura)",
+      "score": 8.2,
+      "class": "safe",
+      "description": "A vibrant fishing town turned tourist hub with excellent safety record. Known for welcoming solo travelers and having numerous cafes and restaurants that stay open late, creating natural surveillance."
+    },
+    {
+      "name": "Playa de las Americas (Tenerife)",
+      "score": 6.8,
+      "class": "caution",
+      "description": "A busy resort area with active nightlife that requires standard precautions. While generally safe, the concentration of bars and clubs means increased risk of petty theft, especially late at night."
+    },
+    {
+      "name": "Maspalomas/Playa del Ingles (Gran Canaria)",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Popular tourist areas with heavy foot traffic that attract pickpockets. Generally safe during the day but requires vigilance in crowded shopping areas and at beach access points."
+    },
+    {
+      "name": "Rural Mountain Areas",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Extremely safe from crime but present natural hazards including steep terrain and rapidly changing weather. Hiking should be done in groups with proper equipment and route planning."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Timeshare Scratch Card Scam",
+      "risk": "high",
+      "description": "Friendly salespeople approach tourists with 'winning' scratch cards offering free gifts or luxury hotel stays. This leads to high-pressure presentations lasting up to 8 hours where visitors are pressured to sign expensive timeshare contracts.",
+      "howToAvoid": "Never accept free gifts from street promoters. If approached, politely decline and walk away. Legitimate businesses don't operate through street solicitation with scratch cards."
+    },
+    {
+      "name": "Electronics Shop Overcharging",
+      "risk": "high",
+      "description": "Tourist-focused electronics shops show fake catalogues with inflated prices to demonstrate 'bargains', substitute quality items with inferior products during gift-wrapping, or clone credit cards using broken card machines.",
+      "howToAvoid": "Only shop at reputable electronics stores. Avoid small shops in tourist areas that approach you on the street. Never let your credit card leave your sight and use contactless payments when possible."
+    },
+    {
+      "name": "Unlicensed Taxi Overcharging",
+      "risk": "medium",
+      "description": "Unmetered taxis, particularly near airports and tourist areas, charge excessive rates without regulation. Some drivers may also take unnecessarily long routes to increase fares.",
+      "howToAvoid": "Always use metered taxis or official taxi ranks. If a taxi has no visible meter, exit politely and find another. Use ride-sharing apps or pre-book airport transfers from reputable companies."
+    },
+    {
+      "name": "ATM Card Skimming",
+      "risk": "medium",
+      "description": "Fraudulent devices attached to ATMs capture card details and PIN numbers. Some businesses may also add hidden fees to credit card transactions or process duplicate charges.",
+      "howToAvoid": "Use ATMs inside banks or well-lit, secure locations. Check for unusual devices on card slots. Enable transaction alerts and monitor your accounts regularly."
+    }
+  ],
+  "soloFemale": {
+    "overview": "The Canary Islands are exceptionally safe for solo female travelers, ranking among Europe's top destinations for women traveling alone. With very low violent crime rates, respectful local culture, and excellent tourism infrastructure, most solo women feel comfortable walking around even at night. The islands have a strong tradition of treating women with respect, and harassment is rare.",
+    "tips": [
+      "Stay in well-reviewed accommodations in main resort areas or city centers for easy access to amenities and transport",
+      "Use official taxis with meters or pre-booked transfers, especially from airports - unlicensed operators occasionally overcharge",
+      "While generally safe at night, avoid isolated beaches and poorly lit areas when alone, especially after drinking",
+      "Connect with other travelers through hostel activities or local tours - the islands are popular with solo travelers of all ages",
+      "Keep valuables secure in hotel safes and carry only essentials when exploring tourist areas to avoid pickpocketing"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in the Canary Islands is excellent compared to most European destinations. Well-lit tourist areas remain active late into the evening, creating natural surveillance. Police presence is strong in resort areas and city centers. While violent crime is extremely rare, petty theft increases in nightlife districts where tourists may be less vigilant.",
+    "tips": [
+      "Stick to well-lit main streets and popular areas - avoid shortcuts through alleys or deserted areas",
+      "Use official taxis or ride-sharing for late-night transport rather than walking alone to accommodations",
+      "Be extra vigilant with belongings in busy nightlife areas where pickpockets are most active",
+      "Don't accept drinks from strangers and watch your drink preparation in bars and clubs",
+      "Travel in groups when possible and let someone know your plans when going out alone"
+    ]
+  },
+  "transport": {
+    "metro": "Only Tenerife has a tram system (Metropolitano de Tenerife) serving the Santa Cruz area. It's modern, safe, and efficient with good connections to major destinations. The system uses electronic travel cards and operates until late evening.",
+    "rideshare": "Ride-sharing apps like Uber operate on the major islands but availability can be limited compared to mainland Europe. Service is most reliable in Las Palmas, Santa Cruz, and major resort areas. Always verify the driver and vehicle before getting in.",
+    "taxis": "Taxis are widely available and very safe across all islands. All legitimate taxis have meters and regulated fares. Fixed rates apply for airport transfers. Wheelchair-accessible taxis are available but must be booked in advance. Avoid unlicensed operators by using official taxi ranks.",
+    "tips": "Public buses are the primary transport option and are very safe at all hours. Free public transport for frequent users continues through 2026. Inter-island flights and ferries are reliable and safe for island hopping."
+  },
+  "customs": [
+    "Greet people with a handshake or air kisses on both cheeks if familiar - Canarians are warm but respect personal space with strangers",
+    "Use formal titles (Señor, Señora, Señorita) when addressing people you don't know well, though locals are generally informal once introduced",
+    "Respect the 'tranquilo' (relaxed) lifestyle - punctuality is valued but don't be surprised by a more laid-back approach to time",
+    "Dress modestly when visiting churches or religious sites - cover shoulders and knees as a sign of respect",
+    "Never wear swimwear on city streets away from beaches - this can result in fines and is considered disrespectful",
+    "Tipping 5-10% is appreciated for good service but not mandatory - rounding up the bill is common practice",
+    "Learn basic Spanish phrases as a courtesy - locals appreciate the effort even if they speak English"
+  ],
+  "health": {
+    "overview": "The Canary Islands have excellent healthcare standards as part of the Spanish national health system. Medical facilities are modern and well-equipped with English-speaking staff in tourist areas. EU citizens receive the same treatment costs as locals with an EHIC card, though comprehensive travel insurance is still recommended.",
+    "water": "Tap water is safe to drink across all islands, though much of it is desalinated and may taste different than mainland water. Bottled water is inexpensive and widely available if preferred.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. EU standard vaccinations like MMR and tetanus boosters are recommended. No malaria risk exists.",
+    "altitude": "Volcanic terrain reaches significant heights - Mount Teide on Tenerife is over 3,700 meters. Take precautions for altitude and sun exposure when hiking. UV levels are high year-round due to the islands' location near Africa."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091 (National Police), 092 (Local Police)",
+    "ambulance": "061",
+    "fire": "080",
+    "touristPolice": "902 102 112 (multilingual service, 9am-9pm)",
+    "usEmbassy": "U.S. Embassy Madrid: +34-91-587-2200. The U.S. has a consular office in Las Palmas: +34-928-271-259. British Consulate Las Palmas: +34-928-262-508"
+  },
+  "faq": [
+    {
+      "q": "Are the Canary Islands safe for tourists?",
+      "a": "Yes, the Canary Islands are among the safest destinations in Europe. Violent crime is extremely rare, and while petty theft occurs in tourist areas, overall crime rates are at their lowest levels since 2010. The islands have excellent emergency services and modern infrastructure."
+    },
+    {
+      "q": "Are the Canary Islands safe at night?",
+      "a": "Yes, nighttime safety is excellent. Tourist areas remain well-lit and active late into the evening. While you should use normal precautions and avoid isolated areas, most visitors feel comfortable walking around resort areas and city centers at night."
+    },
+    {
+      "q": "Are the Canary Islands safe for solo female travelers?",
+      "a": "Absolutely. The Canary Islands rank among Europe's safest destinations for women traveling alone. Locals are respectful, harassment is rare, and the tourism infrastructure is well-developed. Many solo female travelers visit repeatedly and feel completely safe."
+    },
+    {
+      "q": "What areas should I avoid in the Canary Islands?",
+      "a": "There are no truly dangerous areas, but exercise normal caution in busy tourist zones like Playa del Ingles and central Las Palmas where pickpocketing is more common. Avoid isolated beaches and mountain areas alone, and be cautious in nightlife districts late at night."
+    },
+    {
+      "q": "Is it safe to use public transport in the Canary Islands?",
+      "a": "Yes, public transport is very safe at all hours. Buses are reliable and well-maintained, and the Tenerife tram system is modern and secure. Taxis are safe and regulated with meters. Public transport remains free for frequent users through 2026."
+    }
+  ],
+  "relatedCities": [
+    "barcelona",
+    "madrid",
+    "seville",
+    "valencia",
+    "palma-mallorca",
+    "bilbao"
+  ],
+  "_city_id": "canary-islands-spain",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Canary_Islands%2C_version.svg/1280px-Flag_of_Canary_Islands%2C_version.svg.png"
+}

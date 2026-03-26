@@ -1,0 +1,166 @@
+{
+  "slug": "ibiza",
+  "name": "Ibiza",
+  "country": "Spain",
+  "countryCode": "ES",
+  "region": "Europe",
+  "regionSlug": "europe",
+  "lastUpdated": "2026-03-26",
+  "overallScore": 7.1,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 8.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.5,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Ibiza is considered one of Spain's safest destinations with very low violent crime rates and excellent tourism infrastructure. While petty crime like pickpocketing occurs in crowded tourist areas and some scams target visitors, the island benefits from strong police presence and well-regulated tourism industry standards that prioritize visitor safety.",
+  "quickVerdict": "Despite its party reputation, Ibiza maintains impressive safety standards with minimal violent crime and professional emergency services. The main risks are preventable petty theft and tourist-targeted scams, particularly around nightlife areas and popular beaches. With basic precautions and awareness, visitors can safely enjoy both the island's legendary nightlife and its quieter cultural attractions.",
+  "neighborhoods": [
+    {
+      "name": "Ibiza Town (Eivissa)",
+      "score": 8.0,
+      "class": "safe",
+      "description": "The historic capital offers excellent safety with good police presence, well-lit streets, and tourist-friendly infrastructure. Dalt Vila UNESCO site is particularly secure during the day and evening."
+    },
+    {
+      "name": "Santa Eulalia",
+      "score": 8.5,
+      "class": "safe",
+      "description": "The quietest and most family-friendly area with excellent safety ratings, regular police patrols, and a relaxed atmosphere. Considered the safest neighborhood for all travelers."
+    },
+    {
+      "name": "Talamanca",
+      "score": 8.2,
+      "class": "safe",
+      "description": "A tranquil beachside neighborhood close to Ibiza Town with strong safety infrastructure, beautiful beaches, and well-policed areas popular with families."
+    },
+    {
+      "name": "Playa d'en Bossa",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Major party resort area with higher petty crime rates during peak season due to crowds and nightlife activity. Generally safe but requires extra vigilance with belongings."
+    },
+    {
+      "name": "San Antonio",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Popular party destination with increased risk of pickpocketing, drink spiking incidents, and tourist scams. Safety improves significantly outside the main party zones."
+    },
+    {
+      "name": "Rural Northern Areas",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Peaceful countryside areas with very low crime rates but limited emergency services accessibility. Perfect for those seeking tranquility away from party zones."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Club Tickets",
+      "risk": "high",
+      "description": "Scammers sell counterfeit tickets for popular clubs like Amnesia, Pacha, and Ushuaia through social media and street vendors, especially targeting sold-out events.",
+      "howToAvoid": "Only purchase tickets from official club websites, authorized ticket partners, or physical box offices. Avoid buying from individuals on social media or street vendors."
+    },
+    {
+      "name": "Photo Device Drop",
+      "risk": "medium",
+      "description": "Strangers ask tourists to take their photo, then intentionally drop the device when it's returned, claiming damage and demanding payment for repairs.",
+      "howToAvoid": "Politely decline photo requests from strangers. If you must help, handle the device extremely carefully and be aware this could be a setup."
+    },
+    {
+      "name": "Overpriced Bar Scam",
+      "risk": "medium",
+      "description": "Friendly locals invite tourists to bars they partner with, resulting in extremely inflated bills (5-10 times normal prices) with pressure from security to pay.",
+      "howToAvoid": "Suggest your own bar choice, always check prices on menus before ordering, and be wary of strangers who immediately invite you for drinks."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Some taxi drivers take longer routes or refuse to use meters, particularly targeting tourists unfamiliar with the island geography.",
+      "howToAvoid": "Always ask drivers to use the meter, pre-check routes on your phone, use the TaxiClick app for official taxis, and only use taxis with blue license plates."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Ibiza is generally very safe for solo female travelers, with low violent crime rates and a welcoming atmosphere. The island scores well on women's safety metrics with 92% of visitors reporting no encounters with violence. However, extra caution is needed in nightlife areas regarding drink safety and late-night transportation.",
+    "tips": [
+      "Stay in well-populated areas at night, particularly around Ibiza Town and Santa Eulalia",
+      "Never leave drinks unattended in clubs and bars - drink spiking can occur",
+      "Use official taxis or pre-booked transportation instead of walking alone after dark",
+      "Keep valuables secure and use bags that zip closed, especially in crowded areas",
+      "Join group activities or tours to meet other travelers safely"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Ibiza's nightlife areas remain relatively safe with good police presence, but the safety index drops to 48.6% after dark compared to 78.5% during the day. Most incidents involve petty theft, drink-related problems, or drug-related emergencies rather than violent crime. The famous Disco Bus provides safe late-night transportation between venues.",
+    "tips": [
+      "Use the Disco Bus or official taxis for transportation between clubs",
+      "Stay in groups when possible and keep an eye on your friends",
+      "Avoid carrying large amounts of cash or expensive items when clubbing",
+      "Be extra vigilant with drinks - never accept drinks from strangers",
+      "Stick to well-lit, busy areas when walking at night"
+    ]
+  },
+  "transport": {
+    "metro": "Ibiza has no metro or train system. The island relies entirely on bus networks, taxis, and private transport.",
+    "rideshare": "Uber operates with limited availability since late 2023 but is not yet fully reliable. TaxiClick app is recommended for booking official taxis.",
+    "taxis": "Only one authorized taxi company (Radio Taxi) operates island-wide. Official taxis have blue license plates. Use TaxiClick app or taxi ranks at hotels, ports, and major venues.",
+    "tips": "The bus network is extensive and safe, connecting all major areas with the famous Disco Bus running midnight-6AM. Water taxis offer scenic alternatives between coastal areas. Always verify taxi credentials and use meters when possible."
+  },
+  "customs": [
+    "Drinking alcohol on public streets is banned - only consume at licensed cafes and bars",
+    "Dress codes apply for religious sites - cover shoulders and knees when visiting churches",
+    "Respect local siesta time (2-5 PM) when many businesses close",
+    "Tipping 10% is appreciated but not mandatory in restaurants and bars",
+    "Photography of military installations or personnel is prohibited"
+  ],
+  "health": {
+    "overview": "Spain maintains high healthcare standards with Hospital Can Misses serving as the main public facility. The island's healthcare system faces strain during peak season due to drug-related emergencies from the nightlife scene.",
+    "water": "Tap water is safe to drink though many visitors prefer bottled water. No special water precautions needed.",
+    "vaccinations": "No vaccinations required for travel to Spain. Standard travel vaccinations recommended.",
+    "altitude": "Sea level location with Mediterranean climate. Summer temperatures can exceed 104°F - stay hydrated and use sun protection. Portuguese Man o'War jellyfish occasionally present - heed beach flag warnings."
+  },
+  "emergency": {
+    "general": "112",
+    "police": "091 (National) / 092 (Local)",
+    "ambulance": "061",
+    "fire": "112",
+    "touristPolice": "902 102 112 (English 9AM-9PM)",
+    "usEmbassy": "Consulate in Barcelona: +34 93 280 2227. For emergencies: +34 91 587 2200 (Madrid Embassy)"
+  },
+  "faq": [
+    {
+      "q": "Is Ibiza safe for tourists?",
+      "a": "Yes, Ibiza is very safe for tourists with low violent crime rates and excellent emergency services. The main risks are petty theft and tourist scams, which can be avoided with basic precautions. The island ranks among Spain's safest destinations."
+    },
+    {
+      "q": "Is Ibiza safe at night?",
+      "a": "Ibiza's nightlife areas are generally safe with good police presence, though safety levels drop moderately after dark. The main concerns are pickpocketing, drink safety, and drug-related incidents. Use official transportation and stay in groups when possible."
+    },
+    {
+      "q": "Is Ibiza safe for solo female travelers?",
+      "a": "Yes, Ibiza is quite safe for solo female travelers during the day and in populated areas at night. Women should take extra precautions with drinks in clubs, use official taxis after dark, and stay aware of surroundings in tourist areas."
+    },
+    {
+      "q": "What areas should I avoid in Ibiza?",
+      "a": "No areas need to be completely avoided, but exercise extra caution in San Antonio's West End and Playa d'en Bossa during peak nightlife hours. These areas have higher rates of petty crime and tourist scams due to crowds and party activity."
+    },
+    {
+      "q": "Is it safe to use public transport in Ibiza?",
+      "a": "Yes, public transport is very safe. The bus network is reliable and secure, including the famous Disco Bus for nightlife. Official taxis with blue plates are trustworthy, though the TaxiClick app is recommended for booking during busy periods."
+    }
+  ],
+  "relatedCities": [
+    "barcelona",
+    "valencia",
+    "madrid",
+    "palma-mallorca",
+    "seville"
+  ],
+  "_city_id": "ibiza-spain",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ibiza_flag.svg/1280px-Ibiza_flag.svg.png"
+}
