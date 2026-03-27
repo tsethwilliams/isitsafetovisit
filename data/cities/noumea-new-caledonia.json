@@ -1,0 +1,160 @@
+{
+  "slug": "noumea",
+  "name": "Noumea",
+  "country": "New Caledonia",
+  "countryCode": "NC",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-27",
+  "overallScore": 6.4,
+  "verdict": "Moderate Caution Advised",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 7.0,
+    "womensSafety": 6.5,
+    "nightSafety": 6.0,
+    "transport": 7.0,
+    "naturalHazards": 4.5
+  },
+  "summary": "Noumea is generally a safe Pacific destination with low violent crime, but visitors should be cautious due to civil unrest since May 2024 that led to a Level 3 US travel advisory. The main risks are petty crime in tourist areas, occasional political demonstrations, and seasonal cyclones from November to April.",
+  "quickVerdict": "While New Caledonia traditionally ranks as a safe Pacific destination, the civil unrest and protests that began in May 2024 have elevated security concerns, prompting the US State Department to issue a Level 3 'Reconsider Travel' advisory. Most tourist areas in Noumea remain accessible, but visitors should avoid demonstrations, monitor local conditions, and be prepared for potential roadblocks or service disruptions. The crime rate remains low overall, with petty theft being the primary concern in tourist zones.",
+  "neighborhoods": [
+    {
+      "name": "Anse Vata",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Tourist beach district with luxury hotels, restaurants, and the main beach. Well-patrolled with good infrastructure but watch for petty theft near the beach and markets."
+    },
+    {
+      "name": "Baie des Citrons",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular tourist area with beach, accommodations, and dining. Generally safe with shark nets installed but be cautious of belongings on the beach."
+    },
+    {
+      "name": "Noumea City Center",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Downtown area with markets, shops, and government buildings. Can experience protests and demonstrations, particularly around government facilities. Petty crime occurs in busy market areas."
+    },
+    {
+      "name": "Magenta",
+      "score": 7.0,
+      "class": "safe",
+      "description": "Residential area home to the main hospital. Generally quiet and safe but limited tourist amenities. Good for accessing medical facilities."
+    },
+    {
+      "name": "Nouville",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Mixed residential and commercial area. Some parts less developed with limited lighting. Exercise caution when walking alone, especially at night."
+    },
+    {
+      "name": "Mont Dore/Outer Suburbs",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Outlying areas that may experience more civil unrest activity. Roads can be blocked during protests. Avoid during periods of heightened tension."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Beach Access Fees",
+      "risk": "medium",
+      "description": "Some individuals approach tourists claiming official fees are required to access public beaches.",
+      "howToAvoid": "Most beaches in New Caledonia are free to access. Verify any fees with official sources or your accommodation before paying."
+    },
+    {
+      "name": "Overpriced Tourist Services",
+      "risk": "medium",
+      "description": "Inflated prices for food, tours, and services targeting tourists in popular areas.",
+      "howToAvoid": "Research standard prices in advance, ask locals for recommendations, and consider self-catering to reduce food costs."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "low",
+      "description": "Some taxi drivers may charge tourists higher rates than locals or add unnecessary fees.",
+      "howToAvoid": "Use official taxi services, agree on fares upfront, or use public transport which is significantly cheaper than taxis."
+    }
+  ],
+  "soloFemale": {
+    "overview": "New Caledonia ranks moderately well for solo female travelers with a safety rating of 4.2 out of 5 globally. The territory is generally respectful toward women, but current civil unrest adds concerns. Outside Noumea, conservative attitudes may be encountered, and solo travel after dark should be avoided.",
+    "tips": [
+      "Stay in popular tourist areas like Anse Vata and Baie des Citrons where security is better",
+      "Avoid walking alone at night and use official transportation after dark",
+      "Be aware that conservative dress standards apply outside tourist zones",
+      "Monitor local news for protest activity and avoid demonstration areas",
+      "Keep emergency contacts and embassy information readily available"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Noumea requires caution, particularly given the current civil unrest situation. While violent crime is uncommon, fights can occur outside bars and nightclubs, especially on weekends. The ongoing political tensions mean demonstrations can occur unexpectedly, and some areas may have curfews imposed.",
+    "tips": [
+      "Avoid walking alone after dark, especially in less touristy areas",
+      "Stay close to your accommodation and main tourist zones in the evening",
+      "Use official taxis or rideshare rather than walking between venues",
+      "Avoid areas around government buildings where protests may occur",
+      "Be aware that emergency curfews may be imposed during periods of unrest"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists. Noumea has a local bus network called Taneo that services the greater Noumea area, though services may be disrupted during civil unrest.",
+    "rideshare": "Limited rideshare options available. Apps like Uber may have limited coverage compared to major cities.",
+    "taxis": "Official taxis are available by calling +687 28 35 12. Taxis are about four times more expensive than buses but safer during current conditions.",
+    "tips": "Public transport is generally safe but may be disrupted during protests. Roads leading in and out of Noumea can be closed during civil unrest. Consider renting a car for flexibility but avoid driving through roadblocks."
+  },
+  "customs": [
+    "Remove shoes when entering local Kanak homes and some traditional areas",
+    "Respect customary protocols ('coutume') which may require permission to visit certain fishing or maritime areas",
+    "Dress conservatively outside tourist areas - New Caledonia is socially conservative",
+    "Greet people with 'Bonjour' in French as it's the official language",
+    "Sunday is considered a day of rest - many businesses close and loud activities should be avoided"
+  ],
+  "health": {
+    "overview": "Medical facilities in Noumea are good with modern hospitals, but standards may not match industrialized countries. The main facilities include Centre Hospitalier Territorial at Koutio Medipole and private Clinique Kuindo-Magnin. Civil unrest has disrupted some medical services.",
+    "water": "Tap water in Noumea is generally safe to drink, but bottled water is recommended for sensitive travelers. On outer islands, water quality may vary.",
+    "vaccinations": "No special vaccinations required beyond routine immunizations. Dengue fever risk exists year-round - use mosquito repellent and protective clothing.",
+    "altitude": "Sea level location with tropical climate. Cyclone season runs November to April with hot, humid conditions. UV exposure is intense year-round."
+  },
+  "emergency": {
+    "general": "15",
+    "police": "17",
+    "ambulance": "15",
+    "fire": "18",
+    "touristPolice": "N/A",
+    "usEmbassy": "No US Embassy in New Caledonia. Contact US Consulate General in Sydney (+61-2-9373-9200) or US Embassy in Suva, Fiji for assistance."
+  },
+  "faq": [
+    {
+      "q": "Is Noumea safe for tourists?",
+      "a": "Noumea is generally safe but currently under a US Level 3 travel advisory due to civil unrest since May 2024. Tourist areas remain accessible, but visitors should avoid demonstrations and be prepared for potential disruptions."
+    },
+    {
+      "q": "Is Noumea safe at night?",
+      "a": "Nighttime safety requires caution. Avoid walking alone after dark, especially outside tourist zones. Use official taxis and stay near your accommodation. Be aware that emergency curfews may be imposed during unrest periods."
+    },
+    {
+      "q": "Is Noumea safe for solo female travelers?",
+      "a": "Generally yes, with New Caledonia ranking 77th globally for solo female travel safety. However, current civil unrest adds concerns. Stay in tourist areas, avoid protests, and don't walk alone at night."
+    },
+    {
+      "q": "What areas should I avoid in Noumea?",
+      "a": "Avoid government buildings and downtown areas during protests. Stay away from roadblocks and demonstrations. Outer suburban areas like Mont Dore may experience more unrest activity."
+    },
+    {
+      "q": "Is it safe to use public transport in Noumea?",
+      "a": "Public buses are normally safe but may be disrupted during civil unrest. Taxis are more expensive but offer better security. Roads can be blocked during protests, so monitor local conditions before traveling."
+    }
+  ],
+  "relatedCities": [
+    "suva",
+    "port-vila",
+    "apia",
+    "nadi",
+    "papeete"
+  ],
+  "_city_id": "noumea-new-caledonia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/View_over_Noumea.jpg/1280px-View_over_Noumea.jpg"
+}
