@@ -1,0 +1,169 @@
+{
+  "slug": "nadi",
+  "name": "Nadi",
+  "country": "Fiji",
+  "countryCode": "FJ",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-27",
+  "overallScore": 6.9,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Moderate Caution",
+  "badgeClass": "caution",
+  "scores": {
+    "pettyCrime": 6.0,
+    "violentCrime": 7.5,
+    "scamRisk": 5.5,
+    "womensSafety": 7.0,
+    "nightSafety": 6.5,
+    "transport": 7.5,
+    "naturalHazards": 8.0
+  },
+  "summary": "Nadi is generally safe for tourists with low violent crime rates and excellent natural disaster preparedness. The main concerns are petty theft and tourist scams, particularly in downtown areas and markets. Most visitors enjoy their stay without incident by taking basic precautions.",
+  "quickVerdict": "Nadi offers a safe environment for most travelers with Fiji's renowned hospitality and laid-back atmosphere. While petty crime exists, especially targeting tourists in busy areas, serious incidents are rare. The biggest risks come from opportunistic theft and well-known tourist scams rather than violent crime. Resort areas and guided tours provide excellent security, and the city's infrastructure handles natural disasters well. Standard travel precautions and awareness of local scams will ensure a safe visit.",
+  "neighborhoods": [
+    {
+      "name": "Denarau Island",
+      "score": 8.5,
+      "class": "safe",
+      "description": "High-end resort area with excellent security, well-lit waterfront areas, and regular staff presence. Very safe day and night with minimal crime reported."
+    },
+    {
+      "name": "Wailoaloa Beach",
+      "score": 7.5,
+      "class": "safe",
+      "description": "Popular backpacker area with lively atmosphere and frequent tourist activity. Generally safe but exercise normal caution, especially walking between beach and town center at night."
+    },
+    {
+      "name": "Nadi Town Center",
+      "score": 6.0,
+      "class": "caution",
+      "description": "Main commercial area where most scams occur. Busy during day with frequent approaches from touts and unofficial guides. Avoid isolated areas and be cautious after dark."
+    },
+    {
+      "name": "Martintar",
+      "score": 6.5,
+      "class": "caution",
+      "description": "Nightlife hub with bars and clubs. Generally safe with good security but higher risk of petty crime and intoxication-related incidents late at night."
+    },
+    {
+      "name": "Namaka",
+      "score": 5.5,
+      "class": "caution",
+      "description": "Industrial area near airport with limited lighting and fewer tourists. Not dangerous but not recommended for walking alone, especially at night."
+    },
+    {
+      "name": "Queens Road Highway",
+      "score": 4.5,
+      "class": "danger",
+      "description": "Fast-moving traffic with poor pedestrian infrastructure. High risk for pedestrians, especially at night. Use taxis rather than walking along this route."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Friendly Village Guide Scam",
+      "risk": "high",
+      "description": "Friendly locals approach tourists offering to show them authentic village handicraft stores, leading to fake kava ceremonies and pressure to buy overpriced items. Often involves intimidation tactics if tourists try to leave without purchasing.",
+      "howToAvoid": "Politely decline unsolicited offers from strangers. Book village visits through official tour operators or your hotel. If someone starts carving your name into wood without permission, walk away immediately."
+    },
+    {
+      "name": "Three-Card Monte Distraction",
+      "risk": "medium",
+      "description": "Street game where tourists guess which box contains a ball, but the real goal is pickpocketing while you're distracted watching the game. Accomplices work the crowd.",
+      "howToAvoid": "Never participate in street gambling games. Keep valuables secure and be aware of your surroundings in crowded areas. Walk away immediately if approached."
+    },
+    {
+      "name": "Taxi Overcharging",
+      "risk": "medium",
+      "description": "Drivers quote inflated prices, claim broken meters, or take longer routes. Some offer unsolicited tours then demand large tips or payment for unwanted services.",
+      "howToAvoid": "Use only yellow airport taxis or hotel-arranged transfers. Confirm meter is working for LT plate taxis. Agree on prices beforehand for non-metered LH taxis. Refuse unsolicited tour offers."
+    },
+    {
+      "name": "Fake Bird Dropping Scam",
+      "risk": "low",
+      "description": "Someone throws white substance on tourists claiming it's bird droppings, then offers to help clean it while accomplices pick pockets during the distraction.",
+      "howToAvoid": "Politely refuse help cleaning any substances from your clothing. Keep valuables in inside pockets or hotel safe. Stay alert in busy tourist areas."
+    }
+  ],
+  "soloFemale": {
+    "overview": "Nadi is generally safe for solo female travelers with Fijians known for their respectful culture and hospitality. Most women visit without serious incidents, though standard precautions apply. Resort areas offer excellent security while urban areas require more vigilance, especially at night. Cultural norms emphasize respect, but some unwanted attention may occur in nightlife areas.",
+    "tips": [
+      "Stay in well-lit tourist areas and avoid walking alone after 9 PM, especially between Wailoaloa Beach and town center",
+      "Dress modestly when visiting villages or local areas - cover shoulders and knees to show cultural respect",
+      "Use hotel-arranged taxis rather than flagging down street taxis, particularly for nighttime travel",
+      "Trust your instincts if someone is being overly persistent or friendly - politely decline and move away",
+      "Keep accommodation details private and don't share specific travel plans with strangers"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nadi's nightlife is relatively safe with most establishments having good security measures. The main nightlife areas in Martintar and Denarau have regular police presence and are well-monitored. However, petty crime increases after dark, and walking alone in poorly lit areas is not recommended. Most restaurants and bars close by midnight, with only a few clubs staying open until early morning.",
+    "tips": [
+      "Stick to well-established venues in Martintar and Denarau with visible security presence",
+      "Use taxis for transportation after dark rather than walking, especially for distances over 200 meters",
+      "Stay in groups when possible and keep friends informed of your location and plans",
+      "Be extra cautious with drinks and don't leave them unattended in crowded venues",
+      "Avoid the Queens Highway and industrial areas completely after dark - use alternative routes or taxis"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Nadi. Public transportation consists primarily of buses and private vehicles.",
+    "rideshare": "No Uber or similar rideshare services operate in Nadi. Transportation relies on traditional taxis and private transfer companies.",
+    "taxis": "Two types available: LT plate taxis with meters (cheaper, older vehicles) and LH plate transfer companies (fixed rates, newer vehicles, better service). Yellow taxis are the only ones licensed for airport pickup. Generally safe but confirm pricing beforehand and use hotel recommendations.",
+    "tips": "Airport yellow taxis are reliable and regulated. Hotel-arranged transfers offer the best service and safety. Public buses are very affordable but can be crowded. Express buses to Coral Coast and Suva are comfortable and safe for longer distances."
+  },
+  "customs": [
+    "Greet people with 'Bula' and respond warmly to friendly interactions from locals",
+    "Dress modestly in villages covering shoulders and knees, women should wear a sulu (sarong) around waist",
+    "Remove shoes before entering homes and wait to be invited in, sit cross-legged near the door",
+    "Remove hats and sunglasses when entering villages as wearing hats in front of chiefs is disrespectful",
+    "Never touch someone's head, especially children, as the head is considered sacred in Fijian culture",
+    "Participate respectfully in kava ceremonies if invited - clap once before drinking, three times after",
+    "Bring sevusevu (introductory gift) when visiting villages, typically kava root or school supplies",
+    "Wait for prayer (masu) before eating meals and thank hosts graciously for their hospitality"
+  ],
+  "health": {
+    "overview": "Nadi has adequate medical facilities for basic healthcare needs with several hospitals and clinics. The main hospitals are Nadi Hospital and Pacific Specialist Healthcare near the airport. Private clinics offer faster service for minor issues. Medical evacuation may be necessary for serious conditions.",
+    "water": "Tap water quality varies - generally safe in major hotels and resorts but may cause stomach issues for visitors. Bottled water is recommended, especially on smaller islands and budget accommodations. Avoid ice unless from trusted filtered sources.",
+    "vaccinations": "No special vaccinations required but CDC recommends routine vaccines including hepatitis A, typhoid, and COVID-19. Yellow fever vaccination required if arriving from infected areas. Consider Japanese encephalitis if staying extended periods in rural areas.",
+    "altitude": "Sea level location with tropical marine climate. High humidity year-round with temperatures 75-85F. Cyclone season November-April brings heavy rain and potential flooding. Dengue and Zika present so use insect repellent."
+  },
+  "emergency": {
+    "general": "911",
+    "police": "917",
+    "ambulance": "911",
+    "fire": "910",
+    "touristPolice": "Contact local police stations - Namaka Police Station for airport area",
+    "usEmbassy": "U.S. Embassy Suva: +679-331-4466 (24-hour emergency line), Located at 158 Princes Road, Tamavua, Suva. After-hours emergency: +679-772-8049"
+  },
+  "faq": [
+    {
+      "q": "Is Nadi safe for tourists?",
+      "a": "Yes, Nadi is generally safe for tourists with low violent crime rates and good infrastructure. The main risks are petty theft and tourist scams, which can be avoided with basic precautions. Resort areas are very secure, and most visitors have trouble-free experiences."
+    },
+    {
+      "q": "Is Nadi safe at night?",
+      "a": "Nadi is reasonably safe at night in tourist areas and nightlife districts like Martintar and Denarau, which have good security and lighting. However, avoid walking alone after 9 PM and use taxis for transportation. Stay away from poorly lit areas and the Queens Highway after dark."
+    },
+    {
+      "q": "Is Nadi safe for solo female travelers?",
+      "a": "Yes, Nadi is considered safe for solo female travelers with proper precautions. Fijian culture is respectful toward women, though some unwanted attention may occur in nightlife areas. Dress modestly in local areas, use hotel taxis, and trust your instincts about overly friendly strangers."
+    },
+    {
+      "q": "What areas should I avoid in Nadi?",
+      "a": "Avoid walking alone along Queens Highway especially at night, and be cautious in the back streets behind Nadi market after hours. The industrial Namaka area has limited lighting and fewer tourists. Downtown Nadi requires vigilance due to persistent touts and scammers."
+    },
+    {
+      "q": "Is it safe to use public transport in Nadi?",
+      "a": "Yes, public transport is generally safe and affordable. Buses are crowded but reliable for daytime travel. Taxis are the preferred option - yellow airport taxis and hotel-arranged transfers are most reliable. Avoid unmarked vehicles and confirm pricing beforehand for non-metered taxis."
+    }
+  ],
+  "relatedCities": [
+    "suva",
+    "lautoka",
+    "port-vila",
+    "apia",
+    "noumea"
+  ],
+  "_city_id": "nadi-fiji",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nadi.jpg"
+}

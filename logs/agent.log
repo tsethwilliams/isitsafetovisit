@@ -3574,3 +3574,47 @@
 2026-03-26 23:11:46,811 [INFO] Merged into site data: Byron Bay
 2026-03-26 23:11:46,918 [INFO] Merged 8 new cities into src/lib/city-data.json
 2026-03-26 23:11:46,976 [INFO] Rebuilt sitemap with 721 URLs (571 cities, 144 countries, 6 static)
+2026-03-27 07:45:09,340 [INFO] Agent starting — mode: add
+2026-03-27 07:45:09,379 [INFO] Queue has 10 cities, adding 8
+2026-03-27 07:45:09,379 [INFO] Generating new city profile: Great Barrier Reef, Australia
+2026-03-27 07:46:50,598 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:46:50,851 [INFO] Found Wikipedia image for Great Barrier Reef
+2026-03-27 07:46:50,852 [INFO] Saved city data: great-barrier-reef-australia
+2026-03-27 07:46:50,857 [INFO] Generating new city profile: Milford Sound, New Zealand
+2026-03-27 07:48:05,237 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:48:05,332 [INFO] Found Wikipedia image for Milford Sound
+2026-03-27 07:48:05,333 [INFO] Saved city data: milford-sound-new-zealand
+2026-03-27 07:48:05,338 [INFO] Generating new city profile: Wanaka, New Zealand
+2026-03-27 07:49:28,142 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:49:28,238 [INFO] Found Wikipedia image for Wanaka
+2026-03-27 07:49:28,239 [INFO] Saved city data: wanaka-new-zealand
+2026-03-27 07:49:28,244 [INFO] Generating new city profile: Napier, New Zealand
+2026-03-27 07:51:37,969 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:51:38,121 [INFO] Found Wikipedia image for Napier
+2026-03-27 07:51:38,122 [INFO] Saved city data: napier-new-zealand
+2026-03-27 07:51:38,127 [INFO] Generating new city profile: Nadi, Fiji
+2026-03-27 07:53:08,303 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:53:08,379 [INFO] Found Wikipedia image for Nadi
+2026-03-27 07:53:08,380 [INFO] Saved city data: nadi-fiji
+2026-03-27 07:53:08,384 [INFO] Generating new city profile: Suva, Fiji
+2026-03-27 07:54:30,270 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:54:30,347 [INFO] Found Wikipedia image for Suva
+2026-03-27 07:54:30,347 [INFO] Saved city data: suva-fiji
+2026-03-27 07:54:30,352 [INFO] Generating new city profile: Rarotonga, Cook Islands
+2026-03-27 07:55:48,927 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:55:48,999 [INFO] Found Wikipedia image for Rarotonga
+2026-03-27 07:55:49,000 [INFO] Saved city data: rarotonga-cook-islands
+2026-03-27 07:55:49,005 [INFO] Generating new city profile: Apia, Samoa
+2026-03-27 07:57:13,655 [INFO] HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-03-27 07:57:13,733 [INFO] Found Wikipedia image for Apia
+2026-03-27 07:57:13,734 [INFO] Saved city data: apia-samoa
+2026-03-27 07:57:13,797 [INFO] Merged into site data: Great Barrier Reef
+2026-03-27 07:57:13,797 [INFO] Merged into site data: Milford Sound
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Wanaka
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Napier
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Nadi
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Suva
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Rarotonga
+2026-03-27 07:57:13,798 [INFO] Merged into site data: Apia
+2026-03-27 07:57:13,915 [INFO] Merged 8 new cities into src/lib/city-data.json
+2026-03-27 07:57:13,975 [INFO] Rebuilt sitemap with 730 URLs (579 cities, 145 countries, 6 static)

@@ -1,0 +1,162 @@
+{
+  "slug": "great-barrier-reef",
+  "name": "Great Barrier Reef",
+  "country": "Australia",
+  "countryCode": "AU",
+  "region": "Oceania",
+  "regionSlug": "oceania",
+  "lastUpdated": "2026-03-27",
+  "overallScore": 7.8,
+  "verdict": "Generally Safe",
+  "badgeLabel": "Generally Safe",
+  "badgeClass": "safe",
+  "scores": {
+    "pettyCrime": 8.5,
+    "violentCrime": 8.8,
+    "scamRisk": 7.0,
+    "womensSafety": 8.5,
+    "nightSafety": 7.2,
+    "transport": 8.0,
+    "naturalHazards": 6.7
+  },
+  "summary": "The Great Barrier Reef region is one of Australia's safest tourist destinations with extremely low violent crime rates and excellent tourism infrastructure. The main safety concerns relate to natural hazards including marine stingers, coral cuts, and cyclones during summer months. Australia maintains Level 1 (Exercise Normal Precautions) US State Department travel advisory status.",
+  "quickVerdict": "The Great Barrier Reef offers exceptional safety for tourists with professional operators managing marine activities and comprehensive safety protocols. Crime against tourists is very rare, and the region benefits from Australia's excellent healthcare system and emergency services. The primary risks involve natural hazards like marine life, extreme weather, and water activities, all of which are well-managed through established safety procedures and experienced guides. Solo travelers, including women, can explore confidently with proper precautions.",
+  "neighborhoods": [
+    {
+      "name": "Cairns CBD",
+      "score": 8.8,
+      "class": "safe",
+      "description": "The main tourist hub with excellent safety infrastructure, well-lit streets, and regular police patrols. Popular with backpackers and families, featuring the Esplanade lagoon and reef tour departures."
+    },
+    {
+      "name": "Port Douglas",
+      "score": 8.5,
+      "class": "safe",
+      "description": "Upscale resort town with low crime rates and strong tourism focus. Four Mile Beach and marina areas are well-maintained with good lighting and security presence."
+    },
+    {
+      "name": "Palm Cove",
+      "score": 8.7,
+      "class": "safe",
+      "description": "Quiet beachside village with minimal crime and family-friendly atmosphere. Well-patrolled beaches with stinger nets during summer season and excellent resort security."
+    },
+    {
+      "name": "Whitsunday Islands",
+      "score": 7.8,
+      "class": "safe",
+      "description": "Remote island locations with limited infrastructure but professional tour operator oversight. Main risks are weather-related with comprehensive emergency response protocols in place."
+    },
+    {
+      "name": "Green Island",
+      "score": 8.0,
+      "class": "safe",
+      "description": "National park island with controlled access and professional management. Day-trip destination with trained staff and safety equipment, though limited medical facilities on-site."
+    },
+    {
+      "name": "Daintree Rainforest",
+      "score": 6.5,
+      "class": "caution",
+      "description": "World Heritage area requiring extra caution due to crocodile habitat, remote locations, and challenging terrain. Best explored with experienced guides using established tour operators."
+    }
+  ],
+  "scams": [
+    {
+      "name": "Fake Reef Tour Websites",
+      "risk": "high",
+      "description": "AI-generated booking websites mimicking legitimate operators with fake reviews and professional design, collecting payment for non-existent tours.",
+      "howToAvoid": "Book directly through verified operators or established platforms like Viator. Verify company registration and physical addresses. Check recent TripAdvisor reviews and confirm departure terminals."
+    },
+    {
+      "name": "Inflated Transport Costs",
+      "risk": "medium",
+      "description": "Airport transfer operators and taxi drivers inflating prices for tourists, especially during peak seasons or late arrivals.",
+      "howToAvoid": "Use rideshare apps like Uber with fixed pricing. Pre-book airport shuttles online for set rates. Confirm taxi meter is running and know approximate journey costs."
+    },
+    {
+      "name": "Overpriced Tour Add-ons",
+      "risk": "medium",
+      "description": "Pressure to purchase expensive underwater photos, helicopter transfers, or equipment upgrades once already committed to reef tours.",
+      "howToAvoid": "Research total costs beforehand including optional extras. Bring your own waterproof camera. Ask about all fees when booking and get written confirmations."
+    },
+    {
+      "name": "BYO Alcohol Confusion",
+      "risk": "low",
+      "description": "Tour operators unclear about alcohol policies leading to unexpected charges for drinks or confiscation of brought alcohol.",
+      "howToAvoid": "Clarify alcohol policies when booking. Check if tours are BYO or alcohol included. Understand consumption restrictions during water activities for safety reasons."
+    }
+  ],
+  "soloFemale": {
+    "overview": "The Great Barrier Reef region is exceptionally safe for solo female travelers with Australia ranking among the world's top destinations for women traveling alone. The tourism infrastructure is well-developed with professional operators maintaining high safety standards. Hostels and tour groups provide easy social opportunities while maintaining security.",
+    "tips": [
+      "Join group reef tours which provide built-in safety and social interaction with other travelers",
+      "Stay in well-reviewed hostels in Cairns or Port Douglas with good security and female-only dorms if preferred",
+      "Book transportation through reputable companies and use rideshare apps with GPS tracking for peace of mind",
+      "Follow standard water safety guidelines and never swim alone, especially during stinger season",
+      "Keep emergency contacts handy and inform accommodation of your daily plans when exploring independently"
+    ]
+  },
+  "nightSafety": {
+    "overview": "Nighttime safety in Great Barrier Reef gateway towns is generally good with well-lit tourist areas and regular security presence. The main night activities involve liveaboard diving experiences and waterfront dining rather than traditional nightlife. Remote reef locations require staying with organized tours for safety.",
+    "tips": [
+      "Stick to main tourist precincts like Cairns Esplanade and Port Douglas marina areas after dark",
+      "Use taxis or rideshare services rather than walking alone late at night, especially outside town centers",
+      "Night diving activities should only be undertaken with certified operators and proper equipment",
+      "Avoid isolated beaches and reef areas after sunset unless part of supervised liveaboard experiences",
+      "Keep accommodation security cards and emergency contact numbers accessible when out at night"
+    ]
+  },
+  "transport": {
+    "metro": "No metro system exists in Great Barrier Reef region. Cairns operates free CBD shuttle buses and regular public bus networks connecting beaches and suburbs with services running 7AM-6PM daily.",
+    "rideshare": "Uber and DiDi operate reliably in Cairns with good availability 6AM-midnight. Limited service to outer areas like Port Douglas. Airport pickup zones clearly marked with typical fares $20-28 AUD to city center.",
+    "taxis": "Taxi ranks available at major hotels, airports, and reef terminals. Fixed rates from Cairns Airport ($25-30 AUD to CBD). Phone bookings available 24/7 on 131-008. Credit cards accepted.",
+    "tips": "Airport shuttles ($18-25 AUD) offer best value for transfers. Reef tour transfers typically included in package prices. Rental cars recommended for exploring Daintree and Atherton Tablelands independently."
+  },
+  "customs": [
+    "Australians value egalitarianism and informality - use first names and expect casual, friendly interactions even in business settings",
+    "Mateship culture emphasizes helping others and loyalty - joining rounds of drinks when socializing is expected social behavior",
+    "Environmental respect is crucial - follow Leave No Trace principles, use reef-safe sunscreen, and never touch coral or marine life"
+  ],
+  "health": {
+    "overview": "Australia maintains world-class healthcare standards with excellent medical facilities in Cairns and emergency services throughout the region. The main health risks involve marine hazards, extreme sun exposure, and tropical conditions during summer months.",
+    "water": "Tap water is safe to drink throughout Australia. Reef boats provide filtered water. Bring adequate hydration for outdoor activities in tropical heat.",
+    "vaccinations": "No special vaccinations required for domestic travel within Australia. Standard travel immunizations recommended. Consider hepatitis A/B for extended stays.",
+    "altitude": "Sea level location with tropical climate. Summer temperatures reach 28-31°C with high humidity. Stinger season (November-May) requires protective clothing when swimming. UV levels extremely high year-round requiring SPF50+ sunscreen."
+  },
+  "emergency": {
+    "general": "000",
+    "police": "000 (emergency) or 131 444 (non-emergency)",
+    "ambulance": "000",
+    "fire": "000",
+    "touristPolice": "N/A - use general police numbers",
+    "usEmbassy": "US Consulate General Sydney: (02) 9373-9200. 24/7 American Citizens Services: 1-202-501-4444 from Australia or +1-888-407-4747 from US."
+  },
+  "faq": [
+    {
+      "q": "Is Great Barrier Reef safe for tourists?",
+      "a": "Yes, extremely safe. Australia has a Level 1 travel advisory and the reef region has excellent tourism infrastructure with professional operators maintaining high safety standards. Crime against tourists is very rare, with main risks being natural hazards like marine life and weather which are well-managed through established safety protocols."
+    },
+    {
+      "q": "Is Great Barrier Reef safe at night?",
+      "a": "Gateway towns like Cairns and Port Douglas are safe at night in tourist areas with good lighting and security. Night diving and liveaboard experiences are safe with professional operators. Avoid isolated areas and always stay with organized groups for night reef activities."
+    },
+    {
+      "q": "Is Great Barrier Reef safe for solo female travelers?",
+      "a": "Absolutely. Australia ranks among the world's safest countries for solo female travel. The reef region has excellent backpacker infrastructure, group tours provide social opportunities, and accommodation security standards are high. Standard precautions apply for water activities and night safety."
+    },
+    {
+      "q": "What areas should I avoid in Great Barrier Reef?",
+      "a": "Exercise caution in crocodile habitats around Daintree River and Cape Tribulation. Avoid swimming in unpatrolled waters during stinger season (November-May) without protective clothing. Stay away from reef edges during rough weather and don't explore remote areas without professional guides."
+    },
+    {
+      "q": "Is it safe to use public transport in Great Barrier Reef?",
+      "a": "Yes, very safe. Cairns public buses, airport shuttles, and tour transfers maintain good safety standards. Taxis and rideshare services are reliable with GPS tracking. Reef boat operators are professionally licensed with comprehensive safety equipment and experienced crew."
+    }
+  ],
+  "relatedCities": [
+    "sydney",
+    "melbourne",
+    "brisbane"
+  ],
+  "_city_id": "great-barrier-reef-australia",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/1280px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg"
+}
